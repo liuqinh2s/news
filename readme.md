@@ -77,10 +77,10 @@ FIRECRAWL_API_KEY=你的Firecrawl API密钥（可选，备用抓取方案）
 
 ```bash
 # 生成今日新闻日报
-python scripts/generate_report.py
+python3 scripts/generate_report.py
 
 # 构建网站数据
-python scripts/build.py
+python3 scripts/build.py
 ```
 
 生成的日报在 `reports/` 目录，构建后的网站数据在 `site/data/`。
@@ -108,17 +108,3 @@ python3 -m http.server 8000 -d site
 - GitHub Actions（定时任务）
 - GitHub Pages（静态网站托管）
 - 原生 HTML/CSS/JS（前端，无框架依赖）
-
-## 我自己查到的有效链接
-
-36 氪 - https://36kr.com/feed
-GitHub Trending - https://github.com/trending
-豆瓣小组热门 - https://www.douban.com/group/explore
-豆瓣综合热榜 - https://www.douban.com/gallery
-Reuters（路透社）- https://www.reuters.com/
-新华社 - https://www.news.cn/
-澎湃新闻 - https://www.thepaper.cn/
-南方周末 - https://www.infzm.com/
-凤凰网 - https://news.ifeng.com/
-财新网 - https://www.caixin.com/hot/
-央视网 - http://www.cctv.com/rss/01/index.xml

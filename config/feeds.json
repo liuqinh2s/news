@@ -1,16 +1,73 @@
 {
     "rss_feeds": {
-        "新华社": "http://www.xinhuanet.com/politics/news_all.htm",
-        "人民网": "http://www.people.com.cn/rss/politics.xml",
-        "澎湃新闻": "https://rsshub.app/thepaper/featured",
-        "南方周末": "https://rsshub.app/infzm/2",
-        "凤凰网": "https://rsshub.app/ifeng/news",
-        "财新网": "https://rsshub.app/caixin/latest",
-        "央视网": "https://rsshub.app/cctv/top",
-        "BBC": "https://feeds.bbci.co.uk/news/world/rss.xml",
-        "Reuters": "https://rsshub.app/reuters/world",
-        "NYTimes": "https://rss.nytimes.com/services/xml/rss/nyt/World.xml",
-        "CNN": "http://rss.cnn.com/rss/edition_world.rss"
+        "新华社": {
+            "urls": [
+                "http://www.xinhuanet.com/english/rss/worldrss.xml",
+                "https://www.chinadaily.com.cn/rss/china_rss.xml"
+            ]
+        },
+        "人民网": {
+            "urls": [
+                "http://www.people.com.cn/rss/politics.xml"
+            ]
+        },
+        "澎湃新闻": {
+            "urls": [
+                "https://rsshub.rssforever.com/thepaper/featured",
+                "https://rsshub.app/thepaper/featured",
+                "https://news.google.com/rss/search?q=site:thepaper.cn&hl=zh-CN&gl=CN&ceid=CN:zh-Hans"
+            ]
+        },
+        "南方周末": {
+            "urls": [
+                "https://rsshub.rssforever.com/infzm/2",
+                "https://rsshub.app/infzm/2",
+                "https://news.google.com/rss/search?q=site:infzm.com&hl=zh-CN&gl=CN&ceid=CN:zh-Hans"
+            ]
+        },
+        "凤凰网": {
+            "urls": [
+                "https://rsshub.rssforever.com/ifeng/news",
+                "https://rsshub.app/ifeng/news",
+                "https://news.google.com/rss/search?q=site:ifeng.com&hl=zh-CN&gl=CN&ceid=CN:zh-Hans"
+            ]
+        },
+        "财新网": {
+            "urls": [
+                "https://rsshub.rssforever.com/caixin/latest",
+                "https://rsshub.app/caixin/latest",
+                "https://news.google.com/rss/search?q=site:caixin.com&hl=zh-CN&gl=CN&ceid=CN:zh-Hans"
+            ]
+        },
+        "央视网": {
+            "urls": [
+                "https://rsshub.rssforever.com/cctv/top",
+                "https://rsshub.app/cctv/top",
+                "https://news.google.com/rss/search?q=site:news.cctv.com&hl=zh-CN&gl=CN&ceid=CN:zh-Hans"
+            ]
+        },
+        "BBC": {
+            "urls": [
+                "https://feeds.bbci.co.uk/news/world/rss.xml"
+            ]
+        },
+        "Reuters": {
+            "urls": [
+                "https://rsshub.rssforever.com/reuters/world",
+                "https://rsshub.app/reuters/world",
+                "https://news.google.com/rss/search?q=reuters+breaking+news&hl=en-US&gl=US&ceid=US:en"
+            ]
+        },
+        "NYTimes": {
+            "urls": [
+                "https://rss.nytimes.com/services/xml/rss/nyt/World.xml"
+            ]
+        },
+        "CNN": {
+            "urls": [
+                "http://rss.cnn.com/rss/edition_world.rss"
+            ]
+        }
     },
     "trending_feeds": {
         "微博热搜": {
@@ -22,9 +79,12 @@
             "parser": "weibo"
         },
         "知乎热榜": {
-            "type": "api",
-            "url": "https://www.zhihu.com/api/v3/feed/topstory/hot-lists/total?limit=50&desktop=true",
-            "parser": "zhihu"
+            "type": "rss",
+            "urls": [
+                "https://rsshub.rssforever.com/zhihu/daily",
+                "https://rsshub.app/zhihu/daily",
+                "https://news.google.com/rss/search?q=site:zhihu.com&hl=zh-CN&gl=CN&ceid=CN:zh-Hans"
+            ]
         },
         "B站热门": {
             "type": "api",
@@ -41,31 +101,57 @@
         },
         "豆瓣讨论": {
             "type": "rss",
-            "url": "https://rsshub.app/douban/explore"
+            "urls": [
+                "https://rsshub.rssforever.com/douban/explore",
+                "https://rsshub.app/douban/explore",
+                "https://news.google.com/rss/search?q=site:douban.com&hl=zh-CN&gl=CN&ceid=CN:zh-Hans"
+            ]
         },
         "丁香园": {
             "type": "rss",
-            "url": "https://rsshub.app/dxy/news"
+            "urls": [
+                "https://rsshub.rssforever.com/dxy/news",
+                "https://rsshub.app/dxy/news",
+                "https://news.google.com/rss/search?q=site:dxy.cn&hl=zh-CN&gl=CN&ceid=CN:zh-Hans"
+            ]
         },
         "雪球热帖": {
             "type": "rss",
-            "url": "https://rsshub.app/xueqiu/hotstock/0"
+            "urls": [
+                "https://rsshub.rssforever.com/xueqiu/hotstock/0",
+                "https://rsshub.app/xueqiu/hotstock/0",
+                "https://news.google.com/rss/search?q=site:finance.sina.com.cn&hl=zh-CN&gl=CN&ceid=CN:zh-Hans"
+            ]
         },
         "36氪": {
             "type": "rss",
-            "url": "https://rsshub.app/36kr/newsflashes"
+            "urls": [
+                "https://rsshub.rssforever.com/36kr/newsflashes",
+                "https://rsshub.app/36kr/newsflashes",
+                "https://news.google.com/rss/search?q=site:36kr.com&hl=zh-CN&gl=CN&ceid=CN:zh-Hans"
+            ]
         },
         "虎嗅": {
             "type": "rss",
-            "url": "https://rsshub.app/huxiu/article"
+            "urls": [
+                "https://rsshub.rssforever.com/huxiu/article",
+                "https://rsshub.app/huxiu/article",
+                "https://news.google.com/rss/search?q=site:huxiu.com&hl=zh-CN&gl=CN&ceid=CN:zh-Hans"
+            ]
         },
         "少数派": {
             "type": "rss",
-            "url": "https://sspai.com/feed"
+            "urls": [
+                "https://sspai.com/feed"
+            ]
         },
         "GitHub Trending": {
             "type": "rss",
-            "url": "https://rsshub.app/github/trending/daily/any"
+            "urls": [
+                "https://rsshub.rssforever.com/github/trending/daily/any",
+                "https://rsshub.app/github/trending/daily/any",
+                "https://news.google.com/rss/search?q=github+trending+repository&hl=en-US&gl=US&ceid=US:en"
+            ]
         }
     }
 }

@@ -1,3 +1,5 @@
+from __future__ import annotations
+
 """
 新闻抓取 + AI 筛选脚本
 1. 从 RSS 源抓取新闻
@@ -6,6 +8,7 @@
 4. 输出 Markdown 日报到 reports/ 目录
 """
 
+import asyncio
 import json
 import os
 import re
@@ -49,26 +52,70 @@ RSS_FEEDS, TRENDING_FEEDS = load_feeds()
 # ── 抓取函数 ──────────────────────────────────────────
 
 BROWSER_UA = "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
+REQUEST_TIMEOUT = 10  # 单个请求超时（秒）
 
 
-def fetch_rss(name: str, url: str) -> list[dict]:
-    """抓取单个 RSS 源，返回新闻列表"""
+def _parse_rss_response(name: str, text: str) -> list[dict]:
+    """解析 RSS 响应文本，返回新闻列表"""
+    feed = feedparser.parse(text)
+    items = []
+    for entry in feed.entries[:20]:
+        items.append({
+            "source": name,
+            "title": entry.get("title", "").strip(),
+            "summary": entry.get("summary", "")[:500].strip(),
+            "link": entry.get("link", ""),
+            "published": entry.get("published", ""),
+        })
+    return items
+
+
+async def _async_fetch_url(client: httpx.AsyncClient, url: str) -> str | None:
+    """异步抓取单个 URL，返回响应文本或 None"""
     try:
-        resp = httpx.get(url, timeout=15, follow_redirects=True,
-                         headers={"User-Agent": BROWSER_UA})
-        feed = feedparser.parse(resp.text)
-        items = []
-        for entry in feed.entries[:20]:
-            items.append({
-                "source": name,
-                "title": entry.get("title", "").strip(),
-                "summary": entry.get("summary", "")[:500].strip(),
-                "link": entry.get("link", ""),
-                "published": entry.get("published", ""),
-            })
-        return items
+        resp = await client.get(url, timeout=REQUEST_TIMEOUT, follow_redirects=True)
+        if resp.status_code == 200:
+            return resp.text
+    except Exception:
+        pass
+    return None
+
+
+async def _async_fetch_rss(client: httpx.AsyncClient, name: str, urls: list[str]) -> list[dict]:
+    """对一个源的多个 URL 依次尝试（异步），返回第一个成功的结果"""
+    for url in urls:
+        text = await _async_fetch_url(client, url)
+        if text:
+            items = _parse_rss_response(name, text)
+            if items:
+                return items
+    return []
+
+
+async def _async_fetch_api(client: httpx.AsyncClient, name: str, config: dict) -> list[dict]:
+    """异步抓取 API 数据"""
+    url = config["url"]
+    headers = dict(config.get("headers", {}))
+    parser_name = config.get("parser", "")
+
+    parser = API_PARSERS.get(parser_name)
+    if not parser:
+        print(f"[WARN] 未知的解析器: {parser_name}，跳过 {name}")
+        return []
+
+    try:
+        resp = await client.get(url, timeout=REQUEST_TIMEOUT, follow_redirects=True,
+                                headers=headers)
+        data = resp.json()
     except Exception as e:
-        print(f"[WARN] RSS 抓取失败 {name}: {e}")
+        print(f"[WARN] API 抓取失败 {name}: {e}")
+        return []
+
+    try:
+        raw_items = parser(data)
+        return [{"source": name, **item} for item in raw_items]
+    except Exception as e:
+        print(f"[WARN] 解析失败 {name}: {e}")
         return []
 
 
@@ -150,33 +197,6 @@ API_PARSERS = {
 }
 
 
-def fetch_api(name: str, config: dict) -> list[dict]:
-    """通过原生 API 抓取热搜数据"""
-    url = config["url"]
-    headers = {"User-Agent": BROWSER_UA}
-    headers.update(config.get("headers", {}))
-    parser_name = config.get("parser", "")
-
-    try:
-        resp = httpx.get(url, timeout=15, follow_redirects=True, headers=headers)
-        data = resp.json()
-    except Exception as e:
-        print(f"[WARN] API 抓取失败 {name}: {e}")
-        return []
-
-    parser = API_PARSERS.get(parser_name)
-    if not parser:
-        print(f"[WARN] 未知的解析器: {parser_name}，跳过 {name}")
-        return []
-
-    try:
-        raw_items = parser(data)
-        return [{"source": name, **item} for item in raw_items]
-    except Exception as e:
-        print(f"[WARN] 解析失败 {name}: {e}")
-        return []
-
-
 def fetch_with_firecrawl(url: str) -> str:
     """使用 Firecrawl API 抓取页面内容（备用方案）"""
     if not FIRECRAWL_API_KEY:
@@ -195,31 +215,55 @@ def fetch_with_firecrawl(url: str) -> str:
         return ""
 
 
-def collect_all_news() -> list[dict]:
-    """汇总所有新闻源"""
+def _get_urls(config) -> list[str]:
+    """从配置中提取 URL 列表，兼容旧格式"""
+    if isinstance(config, str):
+        return [config]
+    if isinstance(config, dict):
+        if "urls" in config:
+            return config["urls"]
+        if "url" in config:
+            return [config["url"]]
+    return []
+
+
+async def collect_all_news() -> list[dict]:
+    """并发抓取所有新闻源"""
     all_news = []
+    tasks: list[tuple[str, asyncio.Task]] = []
 
-    print("📡 抓取 RSS 新闻源...")
-    for name, url in RSS_FEEDS.items():
-        items = fetch_rss(name, url)
-        all_news.extend(items)
-        print(f"  ✓ {name}: {len(items)} 条")
+    async with httpx.AsyncClient(headers={"User-Agent": BROWSER_UA}) as client:
+        # 创建所有抓取任务
+        print("📡 抓取 RSS 新闻源...")
+        for name, config in RSS_FEEDS.items():
+            urls = _get_urls(config)
+            task = asyncio.create_task(_async_fetch_rss(client, name, urls))
+            tasks.append((name, task))
 
-    print("📡 抓取社交媒体 & 垂直社区热搜...")
-    for name, config in TRENDING_FEEDS.items():
-        if isinstance(config, str):
-            # 兼容旧格式：纯 URL 字符串当 RSS 处理
-            items = fetch_rss(name, config)
-        elif isinstance(config, dict):
-            feed_type = config.get("type", "rss")
-            if feed_type == "api":
-                items = fetch_api(name, config)
+        print("📡 抓取社交媒体 & 垂直社区热搜...")
+        for name, config in TRENDING_FEEDS.items():
+            if isinstance(config, str):
+                task = asyncio.create_task(_async_fetch_rss(client, name, [config]))
+            elif isinstance(config, dict):
+                feed_type = config.get("type", "rss")
+                if feed_type == "api":
+                    task = asyncio.create_task(_async_fetch_api(client, name, config))
+                else:
+                    urls = _get_urls(config)
+                    task = asyncio.create_task(_async_fetch_rss(client, name, urls))
             else:
-                items = fetch_rss(name, config.get("url", ""))
+                continue
+            tasks.append((name, task))
+
+        # 等待所有任务完成
+        results = await asyncio.gather(*(t for _, t in tasks), return_exceptions=True)
+
+    for (name, _), result in zip(tasks, results):
+        if isinstance(result, Exception):
+            print(f"  ✓ {name}: 0 条 [ERROR: {result}]")
         else:
-            items = []
-        all_news.extend(items)
-        print(f"  ✓ {name}: {len(items)} 条")
+            all_news.extend(result)
+            print(f"  ✓ {name}: {len(result)} 条")
 
     print(f"\n📊 共抓取 {len(all_news)} 条新闻")
     return all_news
@@ -401,8 +445,8 @@ def generate_markdown(filtered_news: list[dict]) -> str:
 def main():
     print(f"🚀 开始生成 {TODAY} 新闻日报\n")
 
-    # 1. 抓取所有新闻
-    all_news = collect_all_news()
+    # 1. 并发抓取所有新闻
+    all_news = asyncio.run(collect_all_news())
 
     if not all_news:
         print("[WARN] 未抓取到任何新闻，生成空报告")

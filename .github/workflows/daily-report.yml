@@ -39,7 +39,7 @@ jobs:
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
-          git add reports/ site/data/
+          git add -f reports/ site/data/
           git diff --cached --quiet || git commit -m "📰 Daily news report $(date +%Y-%m-%d)"
           git push
 
