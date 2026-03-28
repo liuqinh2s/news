@@ -1,0 +1,58 @@
+<!DOCTYPE html>
+<html lang="zh-CN" data-theme="light">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>重大新闻挖掘器</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+
+<body>
+    <div class="container">
+        <!-- 顶栏 -->
+        <header class="header">
+            <div class="header-left">
+                <h1 class="logo">📰 新闻挖掘器</h1>
+            </div>
+            <div class="header-right">
+                <button class="theme-toggle" id="themeToggle" aria-label="切换主题">
+                    <span class="icon-light">☀️</span>
+                    <span class="icon-dark">🌙</span>
+                </button>
+            </div>
+        </header>
+
+        <!-- 近三天大新闻 -->
+        <section class="section" id="recentSection">
+            <h2 class="section-title">近三天大新闻</h2>
+            <div class="news-list" id="recentNews">
+                <div class="empty-state">
+                    <p>加载中...</p>
+                </div>
+            </div>
+        </section>
+
+        <!-- 历史归档 -->
+        <section class="section" id="archiveSection">
+            <h2 class="section-title">📁 归档大新闻</h2>
+            <div class="archive-list" id="archiveNews"></div>
+        </section>
+
+        <!-- 新闻详情弹窗 -->
+        <div class="modal-overlay" id="modalOverlay">
+            <div class="modal" id="newsModal">
+                <button class="modal-close" id="modalClose" aria-label="关闭">✕</button>
+                <div class="modal-content" id="modalContent"></div>
+            </div>
+        </div>
+
+        <footer class="footer">
+            <p>重大新闻挖掘器 · AI 自动筛选现象级新闻</p>
+        </footer>
+    </div>
+
+    <script src="app.js"></script>
+</body>
+
+</html>
