@@ -47,6 +47,16 @@
 
   // ── 渲染函数 ──────────────────────────────────
 
+  function renderSources(sources) {
+    if (!sources || sources.length === 0) return "";
+    return sources.map(s => {
+      if (typeof s === "object" && s.url) {
+        return `<a href="${s.url}" target="_blank" rel="noopener">${s.name || s.url}</a>`;
+      }
+      return typeof s === "string" ? s : (s.name || "");
+    }).join(", ");
+  }
+
   function renderNewsCard(news, date) {
     const card = document.createElement("div");
     card.className = "news-card";
@@ -63,10 +73,12 @@
         <span class="card-date">${date}</span>
       </div>
       <p class="card-summary">${news.summary || ""}</p>
+      ${news.reason ? `<p class="card-reason">🤖 AI筛选原因：${news.reason}</p>` : ""}
       <div class="card-tags">
         <span class="tag ${levelClass}">${news.impact_level || "重大"}</span>
         ${tags}
       </div>
+      ${news.sources && news.sources.length ? `<div class="card-sources">来源: ${renderSources(news.sources)}</div>` : ""}
     `;
     return card;
   }
@@ -89,7 +101,7 @@
 
   function showModal(news, date) {
     const areas = (news.impact_areas || []).join(" / ");
-    const sources = (news.sources || []).join(", ");
+    const sources = renderSources(news.sources);
     modalContent.innerHTML = `
       <h2>${news.title}</h2>
       <div class="meta">
@@ -97,7 +109,9 @@
       </div>
       <div class="body">
         <p>${news.summary || "暂无详细内容"}</p>
-        ${sources ? `<p style="margin-top:12px;font-size:0.85rem;color:var(--text-muted)">来源: ${sources}</p>` : ""}
+        ${news.reason ? `<p class="modal-reason">🤖 AI筛选原因：${news.reason}</p>` : ""}
+        ${sources ? `<p class="modal-sources">来源: ${sources}</p>` : ""}
+      </div>
       </div>
     `;
     modalOverlay.classList.add("active");

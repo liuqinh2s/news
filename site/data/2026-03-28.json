@@ -3,42 +3,111 @@
   "news": [
     {
       "title": "伊朗战争扩大",
-      "summary": "伊朗战争持续扩大，伊朗支持的胡塞武装向以色列发射导弹，标志着冲突进一步升级。美国官员称伊朗对沙特阿拉伯军事基地的袭击导致12名美军士兵受伤，这是战争开始以来对美国防务最严重的侵犯之一。同时，美国向中东部署更多军队，而伊朗则声称其核设施和工业设施遭到袭击。这场冲突已导致全球能源市场动荡，红海航运受阻，并对国际关系产生深远影响。",
+      "summary": "伊朗战争持续升级，伊朗支持的胡塞武装向以色列发射导弹，沙特阿拉伯美军基地遭袭致12名美军受伤。美国计划在未来几周内结束战争，已向霍尔木兹海峡派遣军舰。战争已导致全球油价飙升，红海航运受阻，多国面临能源危机。联合国报告显示，美以袭击已造成至少1500名伊朗平民死亡。",
+      "reason": "中东冲突升级影响全球能源安全与地缘政治格局",
       "impact_areas": [
         "地缘",
-        "经济金融"
+        "经济金融",
+        "政治"
       ],
       "impact_level": "现象级",
       "sources": [
-        "BBC",
-        "NYTimes"
+        {
+          "name": "BBC",
+          "url": "https://www.bbc.com/news/articles/cjd8e4px12ro?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "name": "NYTimes",
+          "url": "https://www.nytimes.com/2026/03/28/world/middleeast/iran-war-trump-israel-oil"
+        },
+        {
+          "name": "Washington Post",
+          "url": "https://www.washingtonpost.com/world/2026/03/28/us-iran-war-japan-oil-prices/"
+        }
       ]
     },
     {
-      "title": "美国部分政府停摆",
-      "summary": "美国众议院共和党人拒绝参议院达成的协议，导致部分美国政府继续停摆。机场安检人员已有一个多月未获薪资，引发全美旅行混乱。这一政治僵局不仅影响了政府运作，也对普通民众日常生活造成实质性干扰，凸显了美国政治极化对国家治理的严重挑战。",
+      "title": "美国政府停摆",
+      "summary": "美国众议院共和党人拒绝参议院达成的国土安全部资金协议，导致部分美国政府持续关闭。机场安检人员已超过一个月未获工资，引发全美旅行混乱。特朗普政府面临政治压力，同时处理伊朗战争和国内政治挑战。",
+      "reason": "政府停摆影响美国公共服务与国家安全运作",
+      "impact_areas": [
+        "政治",
+        "经济金融"
+      ],
+      "impact_level": "重大",
+      "sources": [
+        {
+          "name": "BBC",
+          "url": "https://www.bbc.com/news/articles/cgj052l1j2no?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "name": "NYTimes",
+          "url": "https://www.nytimes.com/2026/03/27/us/politics/house-republicans-dhs-funding-shutdown.html"
+        }
+      ]
+    },
+    {
+      "title": "古巴能源危机",
+      "summary": "在美国制裁下，古巴陷入严重能源危机，燃料短缺导致全国停电。两艘载有人道主义援助的船只从墨西哥出发后失踪，后确认已安全抵达古巴。古巴官员寻求教皇斡旋，请求特朗普政府放松石油禁运。能源危机严重影响古巴医疗系统、食品供应和基本公共服务。",
+      "reason": "能源危机威胁古巴社会稳定与民众基本生活保障",
+      "impact_areas": [
+        "政治",
+        "社会",
+        "经济金融"
+      ],
+      "impact_level": "重大",
+      "sources": [
+        {
+          "name": "BBC",
+          "url": "https://www.bbc.com/news/articles/cp84kw1y337o?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "name": "Washington Post",
+          "url": "https://www.washingtonpost.com/world/2026/03/27/cuba-vatican-mediator-us-leo-trump/"
+        }
+      ]
+    },
+    {
+      "title": "联合国奴隶制决议",
+      "summary": "联合国通过决议将奴隶贸易描述为'反人类最严重罪行'，非洲和加勒比国家要求从奴隶贸易中受益的国家提供赔偿。这一决议可能开启全球赔偿讨论，影响国际关系和历史正义观念。多国表示支持，但赔偿实施面临复杂法律和政治障碍。",
+      "reason": "历史性决议可能改变国际社会对殖民历史责任的认识",
       "impact_areas": [
         "政治",
         "社会"
       ],
       "impact_level": "重大",
       "sources": [
-        "BBC"
+        {
+          "name": "BBC",
+          "url": "https://www.bbc.com/news/articles/c0rxqng5pyno?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "name": "The Guardian",
+          "url": "https://www.theguardian.com/news/2026/mar/27/un-slavery-ruling-african-union-reparations-slavery-analysis"
+        }
       ]
     },
     {
-      "title": "第四次全国农业普查",
-      "summary": "国务院印发通知，决定于2026年开展第四次全国农业普查。此次普查是在以中国式现代化全面推进中华民族伟大复兴的新征程上开展的重大国情国力调查，将为国家制定农业政策、保障粮食安全提供重要数据支撑，对农业发展、乡村振兴和粮食安全战略具有深远影响。",
+      "title": "尼泊尔新总理",
+      "summary": "尼泊尔前说唱歌手巴伦德拉·谢尔(Balendra Shah)宣誓就任新总理，以压倒性优势赢得选举，承诺为对腐败感到愤怒的尼泊尔人带来变革。此前，尼泊尔前总理因致命暴力抗议和大规模纵火被捕。新政府面临确保问责制和处理社会动荡的挑战。",
+      "reason": "非传统政治人物掌权反映民粹主义趋势与政治变革",
       "impact_areas": [
-        "经济金融",
-        "产业"
+        "政治",
+        "社会"
       ],
       "impact_level": "重大",
       "sources": [
-        "人民网"
+        {
+          "name": "BBC",
+          "url": "https://www.bbc.com/news/articles/c895v335xkgo?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "name": "NYTimes",
+          "url": "https://www.nytimes.com/2026/03/27/world/asia/nepal-balendra-shah-rapper-prime-minister.html"
+        }
       ]
     }
   ],
-  "total_fetched": 90,
-  "generated_at": "2026-03-28T18:35:17.480841+08:00"
+  "total_fetched": 277,
+  "generated_at": "2026-03-28T19:52:53.220998+08:00"
 }

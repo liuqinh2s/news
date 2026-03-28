@@ -1,0 +1,71 @@
+{
+    "rss_feeds": {
+        "新华社": "http://www.xinhuanet.com/politics/news_all.htm",
+        "人民网": "http://www.people.com.cn/rss/politics.xml",
+        "澎湃新闻": "https://rsshub.app/thepaper/featured",
+        "南方周末": "https://rsshub.app/infzm/2",
+        "凤凰网": "https://rsshub.app/ifeng/news",
+        "财新网": "https://rsshub.app/caixin/latest",
+        "央视网": "https://rsshub.app/cctv/top",
+        "BBC": "https://feeds.bbci.co.uk/news/world/rss.xml",
+        "Reuters": "https://rsshub.app/reuters/world",
+        "NYTimes": "https://rss.nytimes.com/services/xml/rss/nyt/World.xml",
+        "CNN": "http://rss.cnn.com/rss/edition_world.rss"
+    },
+    "trending_feeds": {
+        "微博热搜": {
+            "type": "api",
+            "url": "https://weibo.com/ajax/side/hotSearch",
+            "headers": {
+                "Referer": "https://weibo.com/hot/search"
+            },
+            "parser": "weibo"
+        },
+        "知乎热榜": {
+            "type": "api",
+            "url": "https://www.zhihu.com/api/v3/feed/topstory/hot-lists/total?limit=50&desktop=true",
+            "parser": "zhihu"
+        },
+        "B站热门": {
+            "type": "api",
+            "url": "https://api.bilibili.com/x/web-interface/popular?ps=20&pn=1",
+            "parser": "bilibili"
+        },
+        "抖音热搜": {
+            "type": "api",
+            "url": "https://www.douyin.com/aweme/v1/web/hot/search/list/",
+            "headers": {
+                "Referer": "https://www.douyin.com/"
+            },
+            "parser": "douyin"
+        },
+        "豆瓣讨论": {
+            "type": "rss",
+            "url": "https://rsshub.app/douban/explore"
+        },
+        "丁香园": {
+            "type": "rss",
+            "url": "https://rsshub.app/dxy/news"
+        },
+        "雪球热帖": {
+            "type": "rss",
+            "url": "https://rsshub.app/xueqiu/hotstock/0"
+        },
+        "36氪": {
+            "type": "rss",
+            "url": "https://rsshub.app/36kr/newsflashes"
+        },
+        "虎嗅": {
+            "type": "rss",
+            "url": "https://rsshub.app/huxiu/article"
+        },
+        "少数派": {
+            "type": "rss",
+            "url": "https://sspai.com/feed"
+        },
+        "GitHub Trending": {
+            "type": "rss",
+            "url": "https://rsshub.app/github/trending/daily/any"
+        }
+    }
+}

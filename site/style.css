@@ -170,6 +170,32 @@ body {
     margin-top: 10px;
 }
 
+.card-reason,
+.modal-reason {
+    font-size: 0.82rem;
+    color: var(--accent);
+    margin-top: 8px;
+    line-height: 1.5;
+}
+
+.card-sources,
+.modal-sources {
+    font-size: 0.8rem;
+    color: var(--text-muted);
+    margin-top: 8px;
+}
+
+.card-sources a,
+.modal-sources a {
+    color: var(--accent);
+    text-decoration: none;
+}
+
+.card-sources a:hover,
+.modal-sources a:hover {
+    text-decoration: underline;
+}
+
 .tag {
     background: var(--bg-tag);
     color: var(--text-secondary);
