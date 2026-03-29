@@ -55,18 +55,62 @@ BROWSER_UA = "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTM
 REQUEST_TIMEOUT = 10  # 单个请求超时（秒）
 
 
+def _is_today(published_str: str) -> bool:
+    """判断 RSS 条目的发布时间是否为今天（北京时间）"""
+    if not published_str:
+        return True  # 没有发布时间的条目保留，交给 AI 判断
+
+    from email.utils import parsedate_to_datetime
+
+    try:
+        # 尝试 RFC 2822 格式（RSS 标准格式）
+        dt = parsedate_to_datetime(published_str)
+        dt_bjt = dt.astimezone(BJT)
+        return dt_bjt.strftime("%Y-%m-%d") == TODAY
+    except Exception:
+        pass
+
+    # 尝试常见的日期格式
+    for fmt in ("%Y-%m-%d", "%Y-%m-%dT%H:%M:%S", "%Y-%m-%dT%H:%M:%S%z",
+                "%Y-%m-%d %H:%M:%S", "%Y/%m/%d"):
+        try:
+            dt = datetime.strptime(published_str, fmt)
+            if dt.tzinfo is None:
+                dt = dt.replace(tzinfo=BJT)
+            dt_bjt = dt.astimezone(BJT)
+            return dt_bjt.strftime("%Y-%m-%d") == TODAY
+        except ValueError:
+            continue
+
+    # 最后检查日期字符串中是否直接包含今天的日期
+    if TODAY in published_str:
+        return True
+
+    # 无法解析的保留，交给 AI 判断
+    return True
+
+
 def _parse_rss_response(name: str, text: str) -> list[dict]:
-    """解析 RSS 响应文本，返回新闻列表"""
+    """解析 RSS 响应文本，返回新闻列表（只保留今天的新闻）"""
     feed = feedparser.parse(text)
     items = []
-    for entry in feed.entries[:20]:
+    skipped = 0
+    for entry in feed.entries[:50]:  # 多取一些，因为会过滤掉旧的
+        published = entry.get("published", "")
+        if not _is_today(published):
+            skipped += 1
+            continue
         items.append({
             "source": name,
             "title": entry.get("title", "").strip(),
             "summary": entry.get("summary", "")[:500].strip(),
             "link": entry.get("link", ""),
-            "published": entry.get("published", ""),
+            "published": published,
         })
+        if len(items) >= 20:
+            break
+    if skipped:
+        print(f"  ⏭ {name}: 过滤掉 {skipped} 条非今日新闻")
     return items
 
 
