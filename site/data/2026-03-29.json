@@ -1,0 +1,189 @@
+{
+  "date": "2026-03-29",
+  "news": [
+    {
+      "title": "美伊冲突持续升级",
+      "summary": "美伊冲突进入第四周，伊朗革命卫队宣布美以大学将成为合法袭击目标，美军公布击落伊朗无人机和F-16战机的战绩。以色列称打击了伊朗约90%的关键军工设施，伊朗则称袭击了500多名美军的藏身处。冲突已造成230余名未成年人遇难，霍尔木兹海峡航运受阻，全球能源供应链面临严重威胁。",
+      "reason": "中东局势急剧恶化，可能引发更大规模地区冲突",
+      "impact_areas": [
+        "政治",
+        "经济金融",
+        "地缘"
+      ],
+      "impact_level": "现象级",
+      "sources": [
+        {
+          "name": "凤凰网",
+          "url": "https://news.ifeng.com/c/8rsaXhvwwlt"
+        },
+        {
+          "name": "凤凰网",
+          "url": "https://news.ifeng.com/c/8rsdggiPH1w"
+        },
+        {
+          "name": "凤凰网",
+          "url": "https://news.ifeng.com/c/8rsDjv09941"
+        },
+        {
+          "name": "BBC",
+          "url": "https://www.bbc.com/news/articles/c1l9vz064nqo"
+        }
+      ]
+    },
+    {
+      "title": "日本成立情报作战集团",
+      "summary": "日本整合4支部队成立3200人的'情报作战集团'，目的是统一原先分散的指挥系统，提升认知战领域的作战能力，并强化与美国海军等方面情报部队的合作。此举被视为日本加快向周边国家渗透的重要举措，可能改变亚太地区安全格局。",
+      "reason": "日本加速军事扩张，改变亚太地区安全格局",
+      "impact_areas": [
+        "政治",
+        "地缘"
+      ],
+      "impact_level": "重大",
+      "sources": [
+        {
+          "name": "南方周末",
+          "url": "https://www.infzm.com/contents/318051"
+        }
+      ]
+    },
+    {
+      "title": "太原高层建筑火灾",
+      "summary": "3月28日晚，山西太原亲贤北街一处高层建筑发生火灾，目前已造成3人死亡、25人受伤。火灾引发公众对建筑安全管理的广泛关注，当地政府已成立联合调查组。事故暴露出高层建筑消防安全管理的漏洞，可能引发全国范围内建筑安全大检查。",
+      "reason": "重大安全事故，暴露建筑安全管理漏洞",
+      "impact_areas": [
+        "社会",
+        "公共卫生"
+      ],
+      "impact_level": "重大",
+      "sources": [
+        {
+          "name": "凤凰网",
+          "url": "https://news.ifeng.com/c/8rsgbo78tQG"
+        },
+        {
+          "name": "澎湃新闻",
+          "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1uOGN6ekpsUTl4ZUUwOUZ6VUdvQWMxVFpGLTZjMmZWSmxpX3NaZGhMQnN2RHkzQ0xJWmE3cklmR2V0SnplbDBzMXR2WlplVDhlZWgySWotV01oQW1jUFdMMQ?oc=5"
+        }
+      ]
+    },
+    {
+      "title": "中国全面推行长期护理保险",
+      "summary": "中国开始全面推行长期护理保险制度，应对人口老龄化带来的照护压力。该制度将覆盖更多人群，提供更全面的长期护理保障，减轻家庭照护负担。此举是中国社会保障体系的重要改革，将对数千万老年人及其家庭产生深远影响。",
+      "reason": "应对老龄化重大社会保障改革",
+      "impact_areas": [
+        "社会",
+        "公共卫生"
+      ],
+      "impact_level": "重大",
+      "sources": [
+        {
+          "name": "央视网",
+          "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9PcGo1VUxsdjVnSTk5QVV2UXJaNkFlcDVjZ3JraGlWTTNzbV9kUFg0b2h5cDNfQ0owRkIxNDFaRWo1N19JSks3NnIwX2pCdzdSVmhDb3RaN2tzTEUtRVVaWEhsMEVMRlJhOHR0azRuNFBJLXV1LVhMSQ?oc=5"
+        }
+      ]
+    },
+    {
+      "title": "广汽集团上市以来首亏",
+      "summary": "广汽集团2025年营收同比减少10.43%，降至956.62亿元，经营情况由盈转亏，录得归母净亏损87.84亿元，为上市以来首次全年亏损。整车制造业务毛利率转负，尽管海外业务实现高速增长，但'高投入、长周期'的行业特性制约了其短期盈利贡献。",
+      "reason": "中国汽车行业面临严峻挑战",
+      "impact_areas": [
+        "经济金融",
+        "产业"
+      ],
+      "impact_level": "重大",
+      "sources": [
+        {
+          "name": "财新网",
+          "url": "https://www.caixin.com/2026-03-28/102428649.html"
+        }
+      ]
+    },
+    {
+      "title": "中国启动第四次全国农业普查",
+      "summary": "国务院印发《关于开展第四次全国农业普查的通知》，决定于2026年开展第四次全国农业普查。此次普查是在以中国式现代化全面推进中华民族伟大复兴的新征程上开展的一项重大国情国力调查，将为国家制定农业政策提供重要数据支撑。",
+      "reason": "重大国情国力调查，影响农业政策制定",
+      "impact_areas": [
+        "经济金融",
+        "产业"
+      ],
+      "impact_level": "重大",
+      "sources": [
+        {
+          "name": "人民网",
+          "url": "http://politics.people.com.cn/n1/2025/0605/c1001-40494878.html"
+        }
+      ]
+    },
+    {
+      "title": "中国外债结构变化",
+      "summary": "截至2025年末，中国全口径本外币外债余额为23288亿元，较2024年末微降0.7%，但本币外债占比升至55.5%。债务证券规模下降8%，可能与国际投资者根据债券收益率等变化情况调整资产配置有关。外债结构变化反映中国国际融资环境的变化。",
+      "reason": "外债结构变化反映国际融资环境变化",
+      "impact_areas": [
+        "经济金融"
+      ],
+      "impact_level": "重大",
+      "sources": [
+        {
+          "name": "财新网",
+          "url": "https://finance.caixin.com/2026-03-28/102428595.html"
+        }
+      ]
+    },
+    {
+      "title": "中信海通合并首份年报",
+      "summary": "国泰君安与海通证券合并成立的国泰海通发布2025年年报，显示公司资产规模小幅超越中信证券，成为行业第一，但营收、净利润仍存在一定差距。此次合并是中国证券行业史上规模最大的并购案，将重塑行业竞争格局。",
+      "reason": "证券行业最大并购案完成，重塑行业格局",
+      "impact_areas": [
+        "经济金融"
+      ],
+      "impact_level": "重大",
+      "sources": [
+        {
+          "name": "财新网",
+          "url": "https://finance.caixin.com/2026-03-28/102428538.html"
+        }
+      ]
+    },
+    {
+      "title": "中国大型银行业绩分化",
+      "summary": "工商银行2025年归母净利润增长1%，建设银行同比增长0.99%，但不良率仍面临压力。兴业银行则实现营收、净利润双增长，并将国际化作为新增长极。大型国有银行与股份制银行业绩分化明显，反映银行业转型面临不同路径。",
+      "reason": "银行业业绩分化，反映转型路径差异",
+      "impact_areas": [
+        "经济金融"
+      ],
+      "impact_level": "重大",
+      "sources": [
+        {
+          "name": "财新网",
+          "url": "https://finance.caixin.com/2026-03-28/102428524.html"
+        },
+        {
+          "name": "财新网",
+          "url": "https://finance.caixin.com/2026-03-28/102428516.html"
+        },
+        {
+          "name": "财新网",
+          "url": "https://finance.caixin.com/2026-03-28/102428505.html"
+        }
+      ]
+    },
+    {
+      "title": "中国科技革命加速期到来",
+      "summary": "中科创星创始合伙人米磊表示，2026年将进入新一轮科技革命加速爆发期，中美形成共识，从美国创世纪计划和中国十五五规划来看，双方进入战略收敛期，方向高度一致。这一转变将对全球科技产业格局产生深远影响。",
+      "reason": "中美科技战略趋同，开启新一轮科技革命",
+      "impact_areas": [
+        "科技",
+        "经济金融"
+      ],
+      "impact_level": "重大",
+      "sources": [
+        {
+          "name": "财新网",
+          "url": "https://www.caixin.com/2026-03-29/102428668.html"
+        }
+      ]
+    }
+  ],
+  "total_fetched": 409,
+  "generated_at": "2026-03-29T08:51:05.497794+08:00"
+}
