@@ -442,6 +442,38 @@ def generate_markdown(filtered_news: list[dict]) -> str:
 
 # ── 主流程 ────────────────────────────────────────────
 
+def save_raw_news(all_news: list[dict]) -> None:
+    """将抓取到的原始新闻保存到 reports/ 目录"""
+    raw_path = REPORTS_DIR / f"{TODAY}-raw.json"
+    raw_data = {
+        "date": TODAY,
+        "total": len(all_news),
+        "fetched_at": datetime.now(BJT).isoformat(),
+        "news": all_news,
+    }
+    raw_path.write_text(json.dumps(raw_data, ensure_ascii=False, indent=2), encoding="utf-8")
+    print(f"📋 原始新闻已保存: {raw_path} ({len(all_news)} 条)")
+
+    # 按来源分组，只保留标题，方便快速浏览
+    from collections import defaultdict
+    grouped = defaultdict(list)
+    for item in all_news:
+        title = item.get("title", "").strip()
+        if title:
+            grouped[item.get("source", "未知")].append(title)
+
+    lines = [f"# {TODAY} 原始新闻标题 ({len(all_news)} 条)", ""]
+    for source, titles in grouped.items():
+        lines.append(f"## {source} ({len(titles)} 条)")
+        for t in titles:
+            lines.append(f"- {t}")
+        lines.append("")
+
+    titles_path = REPORTS_DIR / f"{TODAY}-raw-titles.md"
+    titles_path.write_text("\n".join(lines), encoding="utf-8")
+    print(f"📋 标题摘要已保存: {titles_path}")
+
+
 def main():
     print(f"🚀 开始生成 {TODAY} 新闻日报\n")
 
@@ -450,6 +482,9 @@ def main():
 
     if not all_news:
         print("[WARN] 未抓取到任何新闻，生成空报告")
+
+    # 1.5 保存原始新闻
+    save_raw_news(all_news)
 
     # 2. AI 筛选
     filtered = ai_filter_news(all_news)

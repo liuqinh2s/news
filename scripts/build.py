@@ -18,6 +18,8 @@ def build():
 
     # 遍历所有 JSON 日报
     for json_file in sorted(REPORTS_DIR.glob("*.json"), reverse=True):
+        if json_file.name.endswith("-raw.json"):
+            continue
         date = json_file.stem
         try:
             data = json.loads(json_file.read_text(encoding="utf-8"))
