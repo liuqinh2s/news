@@ -1,9 +1,6 @@
 name: Daily News Report
 
 on:
-  schedule:
-    # 每天 UTC 0:00 和 12:00 各跑一次（对应北京时间 8:00 和 20:00）
-    - cron: '0 0,12 * * *'
   workflow_dispatch: # 支持手动触发
 
 permissions:
