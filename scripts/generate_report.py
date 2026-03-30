@@ -342,6 +342,10 @@ def parse_json_response(content: str) -> "list[dict] | None":
     """从 AI 返回内容中提取并解析 JSON，带容错处理"""
     # 提取 [...] 部分
     json_match = re.search(r'\[.*\]', content, re.DOTALL)
+
+    # 如果找不到完整的 [...], 可能是被截断了，尝试找 [ 开头的部分
+    if not json_match:
+        json_match = re.search(r'\[.*', content, re.DOTALL)
     if not json_match:
         return None
 
@@ -360,7 +364,52 @@ def parse_json_response(content: str) -> "list[dict] | None":
     except json.JSONDecodeError:
         pass
 
-    # 第三次尝试：逐个对象提取（兜底）
+    # 第三次尝试：截断修复 — 找到最后一个完整的 },  截断并闭合数组
+    try:
+        # 找到所有顶层对象的结束位置 (}, 或 } 后跟 ])
+        last_complete = -1
+        depth = 0
+        in_string = False
+        escape_next = False
+        for i, ch in enumerate(raw):
+            if escape_next:
+                escape_next = False
+                continue
+            if ch == '\\' and in_string:
+                escape_next = True
+                continue
+            if ch == '"' and not escape_next:
+                in_string = not in_string
+                continue
+            if in_string:
+                continue
+            if ch == '{':
+                depth += 1
+            elif ch == '}':
+                depth -= 1
+                if depth == 0:
+                    last_complete = i
+
+        if last_complete > 0:
+            truncated = raw[:last_complete + 1].rstrip().rstrip(',') + ']'
+            try:
+                result = json.loads(truncated)
+                if result:
+                    print(f"[INFO] JSON 被截断，成功恢复 {len(result)} 条完整记录")
+                    return result
+            except json.JSONDecodeError:
+                repaired = repair_json(truncated)
+                try:
+                    result = json.loads(repaired)
+                    if result:
+                        print(f"[INFO] JSON 被截断，修复后恢复 {len(result)} 条完整记录")
+                        return result
+                except json.JSONDecodeError:
+                    pass
+    except Exception:
+        pass
+
+    # 第四次尝试：逐个对象提取（兜底）
     try:
         objects = re.findall(r'\{[^{}]*\}', raw, re.DOTALL)
         results = []
@@ -423,7 +472,7 @@ def ai_filter_news(news_items: list[dict]) -> list[dict]:
                 {"role": "user", "content": user_prompt},
             ],
             temperature=0.3,
-            max_tokens=4000,
+            max_tokens=8192,
         )
         content = response.choices[0].message.content.strip()
         result = parse_json_response(content)

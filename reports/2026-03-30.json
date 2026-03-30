@@ -2,9 +2,9 @@
   "date": "2026-03-30",
   "news": [
     {
-      "title": "伊朗允许更多油轮通过霍尔木兹海峡",
-      "summary": "美国总统特朗普3月30日宣布，伊朗已同意允许20艘油轮通过霍尔木兹海峡，此举被特朗普称为'尊重的标志'。尽管以色列与伊朗的冲突持续，战争已进入第二个月，但这一外交突破可能缓解全球能源市场紧张局势。霍尔木兹海峡是全球石油运输的关键通道，约占全球海运石油贸易的三分之一。",
-      "reason": "中东冲突关键外交突破，影响全球能源供应安全",
+      "title": "伊朗战争持续",
+      "summary": "美国和以色列对伊朗的联合军事行动已持续一个月，霍尔木兹海峡航运严重受阻，全球能源供应紧张。特朗普3月29日称，伊朗已允许20艘悬挂巴基斯坦国旗的油轮通过霍尔木兹海峡，并表示美国已实现伊朗'政权更替'。伊朗外交部发言人巴加埃30日表示，美方停火计划'过分且不合理'。伊朗伊斯兰革命卫队同日宣布实施'真实承诺-4'第87轮行动，并称袭击了阿联酋境内的美军雷达站。",
+      "reason": "中东冲突升级影响全球能源安全，引发国际油价波动",
       "impact_areas": [
         "经济金融",
         "地缘",
@@ -13,135 +13,51 @@
       "impact_level": "现象级",
       "sources": [
         {
+          "name": "财新网",
+          "url": "https://international.caixin.com/2026-03-30/102428947.html"
+        },
+        {
+          "name": "凤凰网",
+          "url": "https://news.ifeng.com/c/8rv84ymcVbd"
+        },
+        {
+          "name": "凤凰网",
+          "url": "https://news.ifeng.com/c/8rv9BQdN2Kg"
+        },
+        {
+          "name": "凤凰网",
+          "url": "https://news.ifeng.com/c/8ruyJO67L0y"
+        },
+        {
           "name": "NYTimes",
           "url": "https://www.nytimes.com/live/2026/03/30/world/iran-war-trump-oil-news"
-        },
-        {
-          "name": "Reuters",
-          "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOcnN4M2daeFFsckkzUmdRUnpyRXRXTEY2ck9renFjRjRIaUtQWndRSG9GREVacmxSUW1ZVWZQMGFEbkdfaF92dTg5UU04cjBDcjA3R0hSeDNkRy1Qc2VKOVJGWmEtUlZlRkFvUERVZ3FnazJtVEtmVy12aVZ4MXpJcGg1QkMzT0pOSERVUmFhYm5PWVh6ZkJYLUtVaUtpdTZwcXJsV21FR2dYdW1FdjJ4XzJMVQ"
         }
       ]
     },
     {
-      "title": "敏昂莱卸任缅军总司令",
-      "summary": "缅甸军方领导人敏昂莱于3月30日卸任缅军总司令职务，被提名为副总统候选人。这一变动标志着缅甸军政府内部权力结构调整，敏昂莱预计将通过议会选举成为缅甸下一任总统。西方国家已对敏昂莱实施制裁，此次权力重组可能影响缅甸政治进程及国际关系。",
-      "reason": "缅甸军政府权力重组，影响东南亚政治格局",
+      "title": "朝鲜旅游重启",
+      "summary": "中国国际航空公司CA126航班3月30日从北京直飞平壤，标志着中断已久的中朝直航正式恢复。这一航班是疫情后首次恢复的中朝直飞航班，被视为两国关系回暖的重要信号。与此同时，朝鲜方面表示重启旅游指日可待，表明朝鲜正在逐步开放国际交流。这一变化将对东北亚地缘政治格局产生深远影响。",
+      "reason": "中朝直航恢复释放两国关系回暖信号",
       "impact_areas": [
-        "政治",
-        "地缘"
-      ],
-      "impact_level": "重大",
-      "sources": [
-        {
-          "name": "凤凰网",
-          "url": "https://news.ifeng.com/c/8rv6m90xXeP"
-        },
-        {
-          "name": "BBC",
-          "url": "https://www.bbc.com/news/articles/clyew40w249o?at_medium=RSS&at_campaign=rss"
-        }
-      ]
-    },
-    {
-      "title": "美国允许俄油轮抵达古巴",
-      "summary": "尽管美国长期对古巴实施封锁，美国当局3月30日允许一艘载有原油的俄罗斯油轮抵达古巴水域。这一决定发生在特朗普表示对油轮抵达'没有问题'之后，为面临美国压力的古巴提供了重要经济支持。此举可能预示美国对古巴政策出现转变，影响加勒比地区地缘政治格局。",
-      "reason": "美国对古巴政策松动，影响地区地缘政治",
-      "impact_areas": [
-        "政治",
-        "经济金融",
-        "地缘"
-      ],
-      "impact_level": "重大",
-      "sources": [
-        {
-          "name": "BBC",
-          "url": "https://www.bbc.com/news/articles/czrevyx28z2o?at_medium=RSS&at_campaign=rss"
-        },
-        {
-          "name": "NYTimes",
-          "url": "https://www.nytimes.com/2026/03/29/world/americas/cuba-russian-oil-tanlker.html"
-        },
-        {
-          "name": "Reuters",
-          "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOcnN4M2daeFFsckkzUmdRUnpyRXRXTEY2ck9renFjRjRIaUtQWndRSG9GREVacmxSUW1ZVWZQMGFEbkdfaF92dTg5UU04cjBDcjA3R0hSeDNkRy1Qc2VKOVJGWmEtUlZlRkFvUERVZ3FnazJtVEtmVy12aVZ4MXpJcGg1QkMzT0pOSERVUmFhYm5PWVh6ZkJYLUtVaUtpdTZwcXJsV21FR2dYdW1FdjJ4XzJMVQ"
-        }
-      ]
-    },
-    {
-      "title": "以色列将投票表决针对巴勒斯坦人的死刑",
-      "summary": "以色列议会将于3月30日投票表决一项法案，对犯下致命袭击的巴勒斯坦人实施死刑。该法案获得广泛支持并有望通过，批评者认为这将剥夺许多保障正当法律程序的措施，包括赦免可能性。此举可能加剧巴以冲突，影响地区稳定与人权状况。",
-      "reason": "以色列拟对巴勒斯坦人实施死刑，加剧地区紧张局势",
-      "impact_areas": [
-        "政治",
-        "社会",
-        "地缘"
-      ],
-      "impact_level": "重大",
-      "sources": [
-        {
-          "name": "NYTimes",
-          "url": "https://www.nytimes.com/2026/03/30/world/middleeast/israel-death-penalty-palestinians-attacks.html"
-        }
-      ]
-    },
-    {
-      "title": "澳大利亚警方击毙涉嫌杀害两名警察的逃犯",
-      "summary": "澳大利亚警方于3月30日击毙了涉嫌在去年8月杀害两名警察的逃犯德齐·弗里曼。弗里曼自去年8月在其乡村财产上与执行搜查令的警察发生致命冲突后一直潜逃，此次行动结束了长达七个月的追捕。事件引发澳大利亚社会对警察安全的关注。",
-      "reason": "澳大利亚警方击毙杀害警察的逃犯，结束七个月追捕",
-      "impact_areas": [
-        "社会",
-        "政治"
-      ],
-      "impact_level": "重大",
-      "sources": [
-        {
-          "name": "BBC",
-          "url": "https://www.bbc.com/news/articles/c93e4gxn22wo?at_medium=RSS&at_campaign=rss"
-        },
-        {
-          "name": "NYTimes",
-          "url": "https://www.nytimes.com/2026/03/30/world/australia/australia-fugitive-police-killing.html"
-        }
-      ]
-    },
-    {
-      "title": "中国等129国启动投资便利化协定",
-      "summary": "在世贸组织第14届部长级会议期间，包括中国在内的129个国家于3月29日发布联合部长宣言，宣布启动投资便利化协定实施。这一多边协定将简化跨境投资程序，降低投资壁垒，促进全球投资流动，对重塑国际经贸规则具有重要意义。",
-      "reason": "129国联合启动投资便利化协定，重塑国际经贸规则",
-      "impact_areas": [
-        "经济金融",
-        "政治",
-        "地缘"
-      ],
-      "impact_level": "重大",
-      "sources": [
-        {
-          "name": "凤凰网",
-          "url": "https://news.ifeng.com/c/8rv4ZT3aJrd"
-        }
-      ]
-    },
-    {
-      "title": "中国恢复直飞平壤航线",
-      "summary": "中国国际航空公司于3月30日恢复北京至平壤的直飞航线，这是中朝直航中断后的首次恢复。航线的恢复标志着中朝关系正常化进程取得重要进展，可能促进朝鲜半岛局势缓和，并为区域经济合作创造新机遇。",
-      "reason": "中朝直航恢复，推动半岛局势缓和与区域合作",
-      "impact_areas": [
-        "政治",
         "地缘",
-        "经济金融"
+        "政治"
       ],
       "impact_level": "重大",
       "sources": [
         {
           "name": "凤凰网",
           "url": "https://news.ifeng.com/c/8rv4ZT3aJhs"
+        },
+        {
+          "name": "凤凰网",
+          "url": "https://news.ifeng.com/c/8rv2swKLEHW"
         }
       ]
     },
     {
-      "title": "印度卢比跌至十年新低",
-      "summary": "印度卢比兑美元汇率于3月30日跌破95:1，创下十年来最大年度跌幅。这一贬值反映了印度经济面临的结构性挑战，包括贸易逆差扩大、外汇储备减少以及全球资本流动变化。卢比贬值可能加剧印度通胀压力，影响进口依赖型产业。",
-      "reason": "印度卢比跌至十年新低，加剧经济通胀压力",
+      "title": "印尼缩减学生餐",
+      "summary": "印度尼西亚政府宣布缩减学生免费餐计划，以应对因中东冲突导致的能源价格上涨和全球供应紧张。印尼政府考虑推行每周一天远程办公以减少燃料消耗。这一决定将直接影响数百万印尼学生的营养状况，同时反映亚洲高度依赖能源进口的国家正在采取紧急措施应对危机。",
+      "reason": "中东冲突引发能源危机，亚洲国家采取紧急应对措施",
       "impact_areas": [
         "经济金融",
         "社会"
@@ -149,49 +65,125 @@
       "impact_level": "重大",
       "sources": [
         {
-          "name": "Reuters",
-          "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPWDYxamhleXZjSlB1djJyZzFhVWd4bVpuZDVJWllBczJOVjBYbnhzT2h0OUNUQ1EtaUlKVWxGZnhPMjNVd3dhT1c3YmV6bjhqZ3NRN0psNWthRGhYWlZpQTVUMWZKSktLN3FXVVdFRXJQbmt6YUdtelhmdnNTYnUycUtlb01qNDBLSVZEYlZBY2xtZXlCb28wNGNiZEVFNzNORHduX1NNRUlYZVdRbVVMMUVBdUZ3YjVhU2JYdWU5MW91QQ"
+          "name": "财新网",
+          "url": "https://international.caixin.com/2026-03-30/102428980.html"
         }
       ]
     },
     {
-      "title": "澳大利亚维多利亚州和塔斯马尼亚州因油价飙升免除公交费",
-      "summary": "面对伊朗战争导致的油价飙升，澳大利亚维多利亚州和塔斯马尼亚州于3月30日宣布暂时免除公共交通费用。这一临时措施反映了能源危机对民生的影响，表明伊朗战争引发的石油冲击已广泛扩散至全球多个地区，影响民众日常生活成本。",
-      "reason": "澳大利亚两州因油价飙升免除公交费，反映能源危机影响",
+      "title": "韩国出行限制",
+      "summary": "韩国考虑实施35年来首次对私人驾车出行实施限制，以缓解中东冲突导致的能源供应冲击。目前韩国已对公务员实施驾车限制，根据车牌尾号限制驾车进入政府办公地的次数。这一措施如全面实施，将影响韩国民众的日常生活和出行方式，同时反映能源危机对亚洲国家政策制定的影响。",
+      "reason": "韩国考虑实施35年来首次私人驾车限制应对能源危机",
       "impact_areas": [
         "经济金融",
-        "社会",
-        "生态"
+        "社会"
       ],
       "impact_level": "重大",
       "sources": [
         {
-          "name": "NYTimes",
-          "url": "https://www.nytimes.com/2026/03/30/world/australia/australia-melbourne-free-transit.html"
+          "name": "财新网",
+          "url": "https://finance.caixin.com/2026-03-30/102428903.html"
         }
       ]
     },
     {
-      "title": "中国邀请台湾反对党领袖访问大陆",
-      "summary": "中国国家主席习近平于3月30日邀请台湾反对党领袖郑丽文访问大陆，讨论和平议题。此次访问计划于4月7日至12日进行，旨在展示北京对台影响力，并在特朗普峰会前传递积极信号。此举可能影响两岸关系发展及台海局势稳定。",
-      "reason": "中国邀请台湾反对党领袖访问，影响两岸关系走向",
+      "title": "AI服务中断",
+      "summary": "中国AI公司DeepSeek的网页和App服务于3月30日中断超过10个小时后恢复。此次中断与智能体应用带动Token消耗量激增有关，反映出模型厂商推理服务面临的挑战。随着AI应用普及，此类服务中断事件可能对用户工作和生活产生广泛影响，同时也暴露出AI基础设施面临的稳定性挑战。",
+      "reason": "DeepSeek服务中断超10小时，反映AI基础设施面临挑战",
       "impact_areas": [
-        "政治",
+        "科技",
+        "经济金融"
+      ],
+      "impact_level": "重大",
+      "sources": [
+        {
+          "name": "财新网",
+          "url": "https://www.caixin.com/2026-03-30/102428899.html"
+        }
+      ]
+    },
+    {
+      "title": "张雪峰离世",
+      "summary": "峰学蔚来创始人、志愿填报名师张雪峰因心脏骤停抢救无效在苏州去世，年仅41岁。这一事件引发社会对中年人健康问题的关注，专家指出每天有近1500人发生心源性猝死，但运动并非心源性猝死的主要原因。张雪峰的突然离世为许多正处打拼年纪的中年人敲响警钟，引发对健康生活方式的讨论。",
+      "reason": "41岁知名教育人士离世引发中年健康问题讨论",
+      "impact_areas": [
+        "社会",
+        "公共卫生"
+      ],
+      "impact_level": "重大",
+      "sources": [
+        {
+          "name": "财新网",
+          "url": "https://www.caixin.com/2026-03-30/102428929.html"
+        }
+      ]
+    },
+    {
+      "title": "好未来发布AI教师",
+      "summary": "好未来集团发布行业内首款为教师群体打造的智能体——九章龙虾（NineClaw）。据介绍，目前教师用户使用最频繁的功能是生成互动课件和试卷诊断报告。这一产品标志着AI技术在教育领域的进一步应用，可能改变传统教学模式，同时引发对AI教育伦理和效果的讨论。",
+      "reason": "好未来发布首款教师AI智能体，教育AI应用进一步深化",
+      "impact_areas": [
+        "科技",
+        "教育"
+      ],
+      "impact_level": "重大",
+      "sources": [
+        {
+          "name": "财新网",
+          "url": "https://www.caixin.com/2026-03-30/102428911.html"
+        }
+      ]
+    },
+    {
+      "title": "明阳智能英国受阻",
+      "summary": "英国政府能源安全及净零排放部就中国供应商明阳智能（MingYang Smart Energy）在英国海上风电项目中的设备使用做出明确限制。这一决定反映了中英经贸关系呈现出明显的务实与防范并存的特征，同时也表明地缘政治因素正在影响清洁能源领域的国际合作。",
+      "reason": "中英清洁能源合作受阻，地缘政治影响绿色转型",
+      "impact_areas": [
+        "科技",
+        "生态",
         "地缘"
       ],
       "impact_level": "重大",
       "sources": [
         {
-          "name": "NYTimes",
-          "url": "https://www.nytimes.com/2026/03/30/world/asia/china-xi-taiwan-cheng.html"
-        },
+          "name": "财新网",
+          "url": "https://opinion.caixin.com/2026-03-30/102428968.html"
+        }
+      ]
+    },
+    {
+      "title": "柯文哲重判",
+      "summary": "前台北市长柯文哲京华城案一审遭台北地方法院判处17年有期徒刑、褫夺公权5年。这一判决引发台湾社会广泛关注，前台北市长柯文哲因涉及京华城开发案被起诉。此案涉及金额达210万元，判决结果将对台湾政坛产生深远影响。",
+      "reason": "前台北市长柯文哲涉贪案一审被判17年",
+      "impact_areas": [
+        "政治",
+        "社会"
+      ],
+      "impact_level": "重大",
+      "sources": [
         {
           "name": "凤凰网",
-          "url": "https://news.ifeng.com/c/8ruwI0UYLaM"
+          "url": "https://news.ifeng.com/c/8ruw4foOOzh"
+        }
+      ]
+    },
+    {
+      "title": "蚂蚁基金盈利",
+      "summary": "随着上市公司股东的年报披露，蚂蚁基金全年净利润跨越10亿大关，超过目前披露业绩的大部分基金管理公司净利水平。这一成绩表明互联网平台在金融领域的竞争力持续增强，传统金融与互联网金融的竞争格局正在发生变化。",
+      "reason": "蚂蚁基金净利润超10亿元，超过多数公募基金",
+      "impact_areas": [
+        "经济金融",
+        "科技"
+      ],
+      "impact_level": "重大",
+      "sources": [
+        {
+          "name": "财新网",
+          "url": "https://finance.caixin.com/2026-03-30/102429017.html"
         }
       ]
     }
   ],
-  "total_fetched": 272,
-  "generated_at": "2026-03-30T19:33:44.599292+08:00"
+  "total_fetched": 301,
+  "generated_at": "2026-03-30T19:42:05.012969+08:00"
 }
