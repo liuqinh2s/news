@@ -2,42 +2,58 @@
   "date": "2026-03-30",
   "news": [
     {
-      "title": "长江水下高铁",
-      "summary": "中国将在长江水下建设高铁隧道，采用盾构技术穿越长江底部。这一工程将连接南北交通要道，大幅缩短通行时间，预计2028年完工。项目采用世界领先的水下隧道技术，将克服复杂地质条件和高压水环境挑战。建成后将成为全球首条在水下高铁隧道，对长江经济带一体化发展具有重大战略意义。",
-      "reason": "长江水下高铁将改变中国交通格局，促进区域经济一体化发展",
+      "title": "美伊战争持续",
+      "summary": "美伊战争进入第五周，特朗普称伊朗已同意允许20艘油轮通过霍尔木兹海峡，但战事未见平息迹象。以色列对伊朗发动新一轮打击，伊朗军方警告美军若采取地面行动将成为波斯湾鲨鱼的猎物。巴基斯坦、沙特阿拉伯和土耳其官员举行会晤寻求结束冲突途径。霍尔木兹海峡封锁已达一个月，战争和海峡封锁有中长期化风险，全球能源供应链持续受到冲击。",
+      "reason": "中东局势持续紧张，全球能源供应链面临重大威胁",
       "impact_areas": [
-        "科技",
         "经济金融",
-        "产业"
+        "地缘",
+        "生态"
       ],
-      "impact_level": "重大",
+      "impact_level": "现象级",
       "sources": [
         {
-          "name": "微博热搜",
-          "url": "https://s.weibo.com/weibo?q=%23中国将在长江水下开高铁%23"
+          "name": "财新网",
+          "url": "https://database.caixin.com/2026-03-30/102428842.html"
+        },
+        {
+          "name": "财新网",
+          "url": "https://database.caixin.com/2026-03-30/102428840.html"
+        },
+        {
+          "name": "NYTimes",
+          "url": "https://www.nytimes.com/2026/03/29/world/middleeast/trump-says-iran-agreed-to-allow-20-more-ships-of-oil-through-strait-of-hormuz.html"
         }
       ]
     },
     {
-      "title": "DeepSeek系统崩溃",
-      "summary": "中国AI大模型DeepSeek系统出现大规模崩溃，导致用户无法正常访问和使用。此次故障持续数小时，影响范围覆盖全国主要用户群体。技术人员已紧急修复系统并发布道歉声明。事件引发对AI系统稳定性和安全性的广泛讨论，凸显人工智能基础设施建设的挑战。",
-      "reason": "主流AI系统崩溃引发对人工智能基础设施安全性的广泛关注",
+      "title": "天然气危机重燃",
+      "summary": "美伊战争引发的天然气供应危机正迫使欧洲和亚洲多国重新依赖煤炭。短短四年多内第二次出现的天然气供应危机，使亚洲作为最大液化天然气进口地区面临供应中断风险，各国已开始增加煤炭使用并减少消费。能源短缺导致全球铝价大涨6%，中东铝生产商遭伊朗袭击，影响全球9%的铝供应量。",
+      "reason": "能源危机迫使亚洲和欧洲重新依赖煤炭，全球供应链受冲击",
       "impact_areas": [
-        "科技",
-        "社会"
+        "经济金融",
+        "生态"
       ],
       "impact_level": "重大",
       "sources": [
         {
-          "name": "微博热搜",
-          "url": "https://s.weibo.com/weibo?q=%23DeepSeek崩了%23"
+          "name": "财新网",
+          "url": "https://database.caixin.com/2026-03-30/102428838.html"
+        },
+        {
+          "name": "财新网",
+          "url": "https://database.caixin.com/2026-03-30/102428782.html"
+        },
+        {
+          "name": "NYTimes",
+          "url": "https://www.nytimes.com/2026/03/30/business/lng-supply-asia-qatar-iran.html"
         }
       ]
     },
     {
-      "title": "伊朗向美以摊牌",
-      "summary": "伊朗就巴以冲突问题向美国和以色列发出强硬声明，宣布将采取进一步行动支持巴勒斯坦。伊朗外长召见美国驻伊朗临时代办，谴责美以对巴勒斯坦的军事行动。这一表态加剧中东地区紧张局势，可能导致地区冲突进一步升级，引发国际社会对中东和平进程的担忧。",
-      "reason": "伊朗强硬表态加剧中东地区紧张局势，可能引发地区冲突升级",
+      "title": "美国允许俄油轮抵古巴",
+      "summary": "特朗普政府允许一艘俄罗斯油轮驶抵古巴，尽管美国对古巴实施长期封锁。此举标志着美国对古巴政策的重大转变，俄罗斯原油将抵达古巴，为这个在美国压力下的岛国提供生命线。特朗普称伊朗领导人'非常合理'，同时美国在波斯湾地区部署超过5万名士兵，军事存在显著增强。",
+      "reason": "美国对古巴政策重大转变，中东军事部署大幅增加",
       "impact_areas": [
         "政治",
         "地缘"
@@ -45,134 +61,155 @@
       "impact_level": "重大",
       "sources": [
         {
-          "name": "微博热搜",
-          "url": "https://s.weibo.com/weibo?q=%23伊朗向美以进一步摊牌%23"
+          "name": "澎湃新闻",
+          "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE9yNm1INzd3akFiMVl0Nlh5RDNNR2lKTXRETkNCN0U0MGR5dm9lZzd1MUtRUDNyZFJ1Yks5U1ZYUGtKZU4xeG92d3ZkTy1CaG5HVkQtdE5BeXVldkptUy16SUp0MEpqZDI3RU5HaFBpX0NsUQ?oc=5"
+        },
+        {
+          "name": "Reuters",
+          "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOcnN4M2daeFFsckkzUmdRUnpyRXRXTEY2ck9renFjRjRIaUtQWndRSG9GREVacmxSUW1ZVWZQMGFEbkdfaF92dTg5UU04cjBDcjA3R0hSeDNkRy1Qc2VKOVJGWmEtUlZlRkFvUERVZ3FnazJtVEtmVy12aVZ4MXpJcGg1QkMzT0pOSERVUmFhYm5PWVh6ZkJYLUtVaUtpdTZwcXJsV21FR2dYdW1FdjJ4XzJMVQ?oc=5"
+        },
+        {
+          "name": "NYTimes",
+          "url": "https://www.nytimes.com/2026/03/29/world/americas/cuba-russian-oil-tanlker.html"
         }
       ]
     },
     {
-      "title": "亚洲三国与伊朗协议",
-      "summary": "亚洲三个国家与伊朗达成重要协议，涉及能源合作与地区安全。具体内容包括能源供应保障、经济合作以及地区安全机制建设。这一协议将重塑亚洲能源格局，对地区稳定和经济发展产生深远影响，可能改变亚洲国家在中东问题上的立场和策略。",
-      "reason": "亚洲三国与伊朗达成重要协议，重塑地区能源格局和安全架构",
+      "title": "创新药交易激增",
+      "summary": "国家药监局数据显示，今年前三个月，中国创新药对外授权交易总额超过600亿美元，接近2025年全年的一半。创新药概念逆势走强，显示中国医药产业国际竞争力提升。同时，网络安全股下跌，因Anthropic新模型据报构成安全风险，可能被黑客用来绕过现有网络防御措施。",
+      "reason": "中国创新药对外交易额创历史新高，医药产业国际竞争力提升",
+      "impact_areas": [
+        "科技",
+        "经济金融"
+      ],
+      "impact_level": "重大",
+      "sources": [
+        {
+          "name": "财新网",
+          "url": "https://database.caixin.com/2026-03-30/102428872.html"
+        },
+        {
+          "name": "财新网",
+          "url": "https://database.caixin.com/2026-03-30/102428783.html"
+        }
+      ]
+    },
+    {
+      "title": "两岸关系新进展",
+      "summary": "习近平欢迎并邀请国民党主席郑丽文来访，国民党欣然接受邀请。双方期望共同努力，推动两岸关系和平发展，促进两岸交流合作。这一高层互动为两岸关系注入新动力，正值台海局势敏感时期。同时，台湾新党在北京与大陆高层会晤，讨论和平发展两岸关系途径。",
+      "reason": "两岸高层互动新进展，国民党主席受邀访问大陆",
+      "impact_areas": [
+        "政治",
+        "社会"
+      ],
+      "impact_level": "重大",
+      "sources": [
+        {
+          "name": "财新网",
+          "url": "https://china.caixin.com/2026-03-30/102428832.html"
+        },
+        {
+          "name": "新华社",
+          "url": "http://www.chinadaily.com.cn/a/201712/12/WS5a2f23eba3108bc8c67219f0.html"
+        }
+      ]
+    },
+    {
+      "title": "美国经济下行风险",
+      "summary": "美国经济面临周期性下行风险，可能对全球经济产生外溢影响。不可忽视美国经济短周期继续下行带来的外溢影响，全球经济面临不确定性。同时，金价进入第五周下跌，反映市场对经济前景的担忧。美国经济走势将影响全球金融市场和贸易格局。",
+      "reason": "美国经济周期下行风险增加，可能引发全球经济外溢效应",
+      "impact_areas": [
+        "经济金融"
+      ],
+      "impact_level": "重大",
+      "sources": [
+        {
+          "name": "财新网",
+          "url": "https://opinion.caixin.com/2026-03-30/102428791.html"
+        },
+        {
+          "name": "财新网",
+          "url": "https://database.caixin.com/2026-03-30/102428840.html"
+        }
+      ]
+    },
+    {
+      "title": "车企业绩分化",
+      "summary": "广汽集团上市以来首次全年亏损，整车制造业务毛利率转负；长城汽车2025年净利同比下跌逾两成，直营渠道建设拖累盈利能力。相比之下，吉利星愿536天达成60万交付，坐稳冠军宝座。汽车行业呈现明显分化，传统车企面临转型压力，新能源车企表现强劲。",
+      "reason": "传统车企业绩下滑，新能源车企表现强劲，行业格局分化",
       "impact_areas": [
         "经济金融",
-        "地缘",
-        "政治"
+        "产业"
       ],
       "impact_level": "重大",
       "sources": [
         {
-          "name": "微博热搜",
-          "url": "https://s.weibo.com/weibo?q=%23亚洲3国与伊朗达成协议%23"
-        }
-      ]
-    },
-    {
-      "title": "不孕不育报告",
-      "summary": "最新研究报告显示，中国不孕不育夫妇数量将逐年增加，预计未来五年内增长30%。报告指出，环境污染、生活压力和生育年龄推迟是主要原因。这一趋势将对人口结构、医疗资源分配和社会福利体系产生深远影响，可能促使政府调整生育政策和医疗资源配置。",
-      "reason": "不孕不育夫妇数量增加将深刻影响中国人口结构和医疗体系",
-      "impact_areas": [
-        "社会",
-        "公共卫生"
-      ],
-      "impact_level": "重大",
-      "sources": [
-        {
-          "name": "微博热搜",
-          "url": "https://s.weibo.com/weibo?q=%23报告称我国不孕不育夫妇将逐年增加%23"
-        }
-      ]
-    },
-    {
-      "title": "洛克王国世界",
-      "summary": "经典游戏《洛克王国》推出世界级新版本，采用最新游戏引擎和AI技术，打造沉浸式游戏体验。游戏公测吸引数百万玩家同时在线，服务器一度瘫痪。新版本融合了元宇宙概念，引入社交互动和虚拟经济系统，可能引领国产游戏发展新方向，对游戏产业产生深远影响。",
-      "reason": "经典游戏新版本融合元宇宙概念，引领国产游戏发展方向",
-      "impact_areas": [
-        "科技",
-        "产业",
-        "社会"
-      ],
-      "impact_level": "重大",
-      "sources": [
-        {
-          "name": "B站热门",
-          "url": "https://b23.tv/BV1XaXmBnEAQ"
+          "name": "财新网",
+          "url": "https://www.caixin.com/2026-03-30/102428788.html"
         },
         {
-          "name": "抖音热搜",
-          "url": "https://www.douyin.com/search/洛克王国快速升级攻略"
-        }
-      ]
-    },
-    {
-      "title": "张雪机车夺冠",
-      "summary": "中国车手张雪在国际摩托车赛事WSBK（世界超级摩托车锦标赛）中夺冠，这是中国选手在该赛事历史上的首次夺冠。张雪在决赛中表现出色，击败多位世界顶级车手。这一突破性成就将极大提升中国在国际摩托车运动中的地位，可能带动国内摩托车运动热潮和相关产业发展。",
-      "reason": "中国车手首夺WSBK冠军，提升中国在国际摩托车运动中的地位",
-      "impact_areas": [
-        "产业",
-        "社会"
-      ],
-      "impact_level": "重大",
-      "sources": [
-        {
-          "name": "微博热搜",
-          "url": "https://s.weibo.com/weibo?q=%23张雪机车夺冠%23"
+          "name": "财新网",
+          "url": "https://www.caixin.com/2026-03-30/102428749.html"
         },
         {
-          "name": "抖音热搜",
-          "url": "https://www.douyin.com/search/张雪机车登顶WSBK"
+          "name": "凤凰网",
+          "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTFBzdXVEOVNJdGN3UHI0US1DenViQTZIV2NMdG9LYVF1V29IVjFPQUtJUlY1Ym8wMVQ5NnMyTnp5dUdSVU1kRHN0bQ?oc=5"
         }
       ]
     },
     {
-      "title": "强对流天气来袭",
-      "summary": "中国迎来今年首场大范围强对流天气，多个省份将遭遇雷暴、大风、冰雹等极端天气。气象部门已发布预警，提醒公众做好防范措施。此次强对流天气可能对农业生产、交通运输和人民生命财产安全造成影响，凸显气候变化背景下极端天气事件频发的挑战。",
-      "reason": "首场大范围强对流天气来袭，考验气象预警和应急响应能力",
+      "title": "全球铝供应链受冲击",
+      "summary": "中东铝生产商遭伊朗袭击，阿联酋全球铝业炼厂受损严重，铝价大涨6%。中东地区约占全球铝供应量的9%，其中大部分目前困在霍尔木兹海峡。袭击事件加剧全球铝供应紧张，可能影响多个行业的生产和成本。能源危机和地缘政治冲突正重塑全球金属供应链格局。",
+      "reason": "中东铝厂遭袭加剧全球铝供应紧张，影响多个行业",
       "impact_areas": [
-        "生态",
-        "社会"
+        "经济金融",
+        "产业"
       ],
       "impact_level": "重大",
       "sources": [
         {
-          "name": "抖音热搜",
-          "url": "https://www.douyin.com/search/首场大范围强对流天气来袭"
+          "name": "财新网",
+          "url": "https://www.caixin.com/2026-03-30/102428788.html"
+        },
+        {
+          "name": "财新网",
+          "url": "https://database.caixin.com/2026-03-30/102428782.html"
         }
       ]
     },
     {
-      "title": "雀巢巧克力被盗",
-      "summary": "瑞士食品巨头雀巢公司遭遇大规模盗窃，12吨巧克力产品被盗，价值约200万欧元。这起案件是欧洲近年来最大的食品盗窃案之一，警方已展开调查。事件引发对供应链安全和企业防盗措施的广泛关注，可能导致食品行业加强安全防护和物流管理。",
-      "reason": "12吨巧克力被盗案是欧洲最大食品盗窃案之一，引发供应链安全关注",
+      "title": "全球钾肥市场变局",
+      "summary": "白俄罗斯钾肥牵动全球市场，美国对白俄罗斯相关公司解除制裁可能带来新的市场变数。自俄乌冲突以来，全球钾肥供应链格局持续调整。近期，美国与白俄罗斯关系出现缓和信号，美国总统特使访问明斯克，白俄罗斯方面宣布赦免约250名在押人员。'白色黄金'市场格局面临重塑。",
+      "reason": "美白关系缓和影响全球钾肥供应链，资源市场格局面临重塑",
       "impact_areas": [
-        "产业",
-        "社会"
+        "经济金融",
+        "生态"
       ],
       "impact_level": "重大",
       "sources": [
         {
-          "name": "微博热搜",
-          "url": "https://s.weibo.com/weibo?q=%23雀巢12吨巧克力被盗%23"
+          "name": "财新网",
+          "url": "https://opinion.caixin.com/2026-03-30/102428776.html"
         }
       ]
     },
     {
-      "title": "AI常识普及",
-      "summary": "一部耗时180天制作的AI科普视频在各大平台走红，系统介绍人工智能基础知识、发展现状和未来趋势。视频以通俗易懂的方式解释复杂技术概念，累计观看量破亿，引发全民AI知识普及热潮。这一现象反映了公众对AI技术的关注和需求，将推动AI知识普及和公众科学素养提升。",
-      "reason": "180天制作的AI科普视频走红，推动全民AI知识普及热潮",
+      "title": "WTO推动电商协定",
+      "summary": "WTO推动《电子商务协定》先行实施，在喀麦隆召开的第十四届部长级会议上取得进展。这一协定将规范全球电子商务规则，影响数字贸易发展。同时，美国法院暂停国防部对Anthropic的禁令，AI监管政策出现新动向。全球贸易和数字治理面临新规则制定。",
+      "reason": "WTO推动电商协定先行实施，全球数字贸易规则面临重塑",
       "impact_areas": [
         "科技",
-        "社会"
+        "经济金融"
       ],
       "impact_level": "重大",
       "sources": [
         {
-          "name": "B站热门",
-          "url": "https://b23.tv/BV1bFXKBwECC"
+          "name": "财新网",
+          "url": "https://www.caixin.com/2026-03-30/102428771.html"
         }
       ]
     }
   ],
-  "total_fetched": 86,
-  "generated_at": "2026-03-30T00:01:12.388454+08:00"
+  "total_fetched": 228,
+  "generated_at": "2026-03-30T12:27:01.843289+08:00"
 }
