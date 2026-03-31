@@ -466,84 +466,136 @@ def parse_json_response(content: str) -> "list[dict] | None":
     return None
 
 
-def ai_filter_news(news_items: list[dict]) -> list[dict]:
-    """用 AI 大模型筛选重大新闻"""
-    if not ZHIPU_API_KEY:
-        logger.error("未设置 ZHIPU_API_KEY，跳过 AI 筛选")
-        return []
+def _sanitize_text(text: str) -> str:
+    """清洗文本：去除 HTML 标签、过长内容，降低触发内容安全过滤的概率"""
+    # 去除 HTML 标签
+    text = re.sub(r'<[^>]+>', '', text)
+    # 去除 HTML 实体
+    text = re.sub(r'&[a-zA-Z]+;', ' ', text)
+    text = re.sub(r'&#\d+;', ' ', text)
+    # 去除连续空白
+    text = re.sub(r'\s+', ' ', text).strip()
+    return text
 
-    # 加载提示词
-    system_prompt = load_prompt("filter_news.md")
-    user_prompt_template = load_prompt("filter_news_user.md")
 
-    # 构建新闻摘要文本
+def _build_news_text(news_items: list[dict], include_summary: bool = True) -> str:
+    """构建新闻摘要文本，可选是否包含 summary"""
     news_text = ""
     for item in news_items:
-        news_text += f"【{item['source']}】{item['title']}\n"
-        if item['summary']:
-            news_text += f"  摘要: {str(item['summary'])[:200]}\n"
+        title = _sanitize_text(item.get('title', ''))
+        news_text += f"【{item['source']}】{title}\n"
+        if include_summary and item.get('summary'):
+            summary = _sanitize_text(str(item['summary']))[:200]
+            news_text += f"  摘要: {summary}\n"
         if item.get('link'):
             news_text += f"  链接: {item['link']}\n"
         news_text += "\n"
 
-    # 控制上下文长度
     if len(news_text) > 50000:
         news_text = news_text[:50000] + "\n...(已截断)"
+    return news_text
 
-    user_prompt = user_prompt_template.format(
-        date=TODAY,
-        count=len(news_items),
-        news_text=news_text,
-    )
+
+def ai_filter_news(news_items: list[dict]) -> list[dict]:
+    """用 AI 大模型筛选重大新闻，带内容安全过滤重试机制"""
+    if not ZHIPU_API_KEY:
+        logger.error("未设置 ZHIPU_API_KEY，跳过 AI 筛选")
+        return []
+
+    system_prompt = load_prompt("filter_news.md")
+    user_prompt_template = load_prompt("filter_news_user.md")
 
     client = OpenAI(
         api_key=ZHIPU_API_KEY,
         base_url="https://open.bigmodel.cn/api/paas/v4",
     )
 
-    logger.info("🤖 AI 正在筛选重大新闻...")
-    logger.debug(f"输入新闻条数: {len(news_items)}")
-    logger.debug(f"news_text 长度: {len(news_text)} 字符")
-    logger.debug(f"user_prompt 长度: {len(user_prompt)} 字符")
-    logger.debug(f"system_prompt 长度: {len(system_prompt)} 字符")
-    try:
-        response = client.chat.completions.create(
-            model="glm-4-plus",
-            messages=[
-                {"role": "system", "content": system_prompt},
-                {"role": "user", "content": user_prompt},
-            ],
-            temperature=0.3,
-            max_tokens=16000,
-        )
-        content = response.choices[0].message.content.strip()
-        finish_reason = response.choices[0].finish_reason
-        usage = response.usage
+    # 定义多轮重试策略：逐步缩减输入内容
+    retry_strategies = [
+        {"name": "完整内容（清洗HTML）", "include_summary": True, "items": news_items},
+        {"name": "仅标题+链接", "include_summary": False, "items": news_items},
+        {"name": "仅标题+链接（去除社交媒体源）", "include_summary": False,
+         "items": [i for i in news_items if i.get("source") not in
+                   ("微博热搜", "知乎热榜", "B站热门", "抖音热搜", "豆瓣讨论")]},
+    ]
 
-        # 每次都把大模型原始返回存到文件，方便排查
-        ai_dump_path = LOGS_DIR / f"{TODAY}-ai-response.txt"
-        ai_dump_path.write_text(
-            f"finish_reason: {finish_reason}\n"
-            f"usage: {usage}\n"
-            f"content length: {len(content)}\n"
-            f"{'=' * 60}\n"
-            f"{content}\n",
-            encoding="utf-8",
+    for attempt, strategy in enumerate(retry_strategies):
+        news_text = _build_news_text(strategy["items"], strategy["include_summary"])
+        user_prompt = user_prompt_template.format(
+            date=TODAY,
+            count=len(strategy["items"]),
+            news_text=news_text,
         )
-        logger.info(f"AI 原始返回已保存: {ai_dump_path} (finish_reason={finish_reason}, {len(content)} 字符)")
 
-        result = parse_json_response(content)
-        if result is not None:
-            logger.info(f"✅ AI 筛选出 {len(result)} 条重大新闻")
-            if len(result) == 0:
-                logger.warning("AI 返回了空数组 []，大模型认为没有重大新闻")
-            return result
-        else:
-            logger.warning(f"AI 返回内容无法解析为 JSON (finish_reason={finish_reason}, 长度={len(content)})")
-            return []
-    except Exception as e:
-        logger.error(f"AI 筛选失败: {e}")
-        return []
+        logger.info(f"🤖 AI 筛选第 {attempt + 1} 次尝试：{strategy['name']}（{len(strategy['items'])} 条，{len(news_text)} 字符）")
+
+        try:
+            response = client.chat.completions.create(
+                model="glm-4-plus",
+                messages=[
+                    {"role": "system", "content": system_prompt},
+                    {"role": "user", "content": user_prompt},
+                ],
+                temperature=0.3,
+                max_tokens=16000,
+            )
+            content = response.choices[0].message.content.strip()
+            finish_reason = response.choices[0].finish_reason
+            usage = response.usage
+
+            # 保存到 logs/
+            ai_dump_path = LOGS_DIR / f"{TODAY}-ai-response.txt"
+            ai_dump_path.write_text(
+                f"attempt: {attempt + 1} ({strategy['name']})\n"
+                f"finish_reason: {finish_reason}\n"
+                f"usage: {usage}\n"
+                f"content length: {len(content)}\n"
+                f"{'=' * 60}\n"
+                f"{content}\n",
+                encoding="utf-8",
+            )
+            logger.info(f"AI 原始返回已保存: {ai_dump_path} (finish_reason={finish_reason}, {len(content)} 字符)")
+
+            # 保存到 reports/
+            ai_raw_path = REPORTS_DIR / f"{TODAY}-ai-raw.json"
+            ai_raw_data = {
+                "date": TODAY,
+                "model": "glm-4-plus",
+                "attempt": attempt + 1,
+                "strategy": strategy["name"],
+                "finish_reason": finish_reason,
+                "usage": {
+                    "prompt_tokens": usage.prompt_tokens if usage else None,
+                    "completion_tokens": usage.completion_tokens if usage else None,
+                    "total_tokens": usage.total_tokens if usage else None,
+                },
+                "content_length": len(content),
+                "raw_content": content,
+            }
+            ai_raw_path.write_text(json.dumps(ai_raw_data, ensure_ascii=False, indent=2), encoding="utf-8")
+            logger.info(f"📦 AI 原始返回 JSON 已保存: {ai_raw_path}")
+
+            result = parse_json_response(content)
+            if result is not None:
+                logger.info(f"✅ AI 筛选出 {len(result)} 条重大新闻")
+                if len(result) == 0:
+                    logger.warning("AI 返回了空数组 []，大模型认为没有重大新闻")
+                return result
+            else:
+                logger.warning(f"AI 返回内容无法解析为 JSON (finish_reason={finish_reason}, 长度={len(content)})")
+                return []
+
+        except Exception as e:
+            error_str = str(e)
+            is_content_filter = "1301" in error_str or "contentFilter" in error_str or "不安全或敏感内容" in error_str
+            if is_content_filter and attempt < len(retry_strategies) - 1:
+                logger.warning(f"⚠️ 第 {attempt + 1} 次尝试触发内容安全过滤，将缩减内容后重试...")
+                continue
+            else:
+                logger.error(f"AI 筛选失败: {e}")
+                return []
+
+    return []
 
 
 # ── 生成 Markdown 日报 ───────────────────────────────
