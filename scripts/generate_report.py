@@ -472,7 +472,7 @@ def ai_filter_news(news_items: list[dict]) -> list[dict]:
                 {"role": "user", "content": user_prompt},
             ],
             temperature=0.3,
-            max_tokens=8192,
+            max_tokens=16000,
         )
         content = response.choices[0].message.content.strip()
         result = parse_json_response(content)
