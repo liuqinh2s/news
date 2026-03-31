@@ -40,6 +40,14 @@ jobs:
           git diff --cached --quiet || git commit -m "📰 Daily news report $(date +%Y-%m-%d)"
           git push
 
+      - name: Upload logs artifact
+        if: always()
+        uses: actions/upload-artifact@v4
+        with:
+          name: daily-report-logs-${{ github.run_id }}
+          path: logs/
+          retention-days: 90
+
       - name: Upload Pages artifact
         uses: actions/upload-pages-artifact@v3
         with:
