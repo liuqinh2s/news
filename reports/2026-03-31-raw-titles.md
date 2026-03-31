@@ -23,14 +23,10 @@
 - Former Chongqing political official facing corruption investigation
 
 ## 澎湃新闻 (4 条)
-- 七言｜时光让人习惯疼痛 - thepaper.cn
 - 陈良玲执槌，草间弥生《南瓜》以3954万港元成交于佳士得香港 - thepaper.cn
+- 七言｜时光让人习惯疼痛 - thepaper.cn
 - 明宣德·青花花果纹大罐以408.5万美元成交，约合2820万元人民币 - thepaper.cn
 - “江南无所有，聊赠一枝春” - thepaper.cn
-
-## 南方周末 (2 条)
-- 被举报停职后，家长公开求情：南京一教师陷惩教边界争论
-- 2005年的超女街头，和一个时代的眼泪丨记者手记
 
 ## 凤凰网 (20 条)
 - 古巴外长驳斥美方对古“无惩罚性措施”说法
@@ -61,7 +57,7 @@
 - 分析｜海湾危机之下，巴斯夫87亿欧元湛江基地全面投产意味着什么？
 - 2025年华润置地“增收不增利” 经营性业务贡献核心净利首超50%
 - 解释｜伊朗有权向第三国船舶收取霍尔木兹海峡通行费么？
-- 【今日热点】股指震荡走弱 张雪机车关联公司连续大涨
+- 【今日热点】股指震荡走弱 “张雪机车”关联公司连续大涨
 - 蚂蚁收购耀才完成交割 董事会全面改组
 - 华泰证券2025年业绩增幅不足7% 扣非净利同比增幅80%
 - 校长拒绝拆鸟窝：宠物式育儿如何把人养废
@@ -105,11 +101,12 @@
 - Long queues in Myanmar as Iran war fuel crisis deepens
 - Shock, sadness and relief in town at centre of Australia's seven-month manhunt for Dezi Freeman
 
-## Reuters (7 条)
+## Reuters (8 条)
 - Attack on Michigan synagogue was Hezbollah-inspired 'act of terrorism,' FBI says - Reuters
 - China's top airlines cautious on outlook as Iran war raises fuel costs - Reuters
 - US Citizenship and Immigration Services resumes asylum claims after halt - Reuters
 - Dollar surges in Asia as war's safe-haven shelter - Reuters
+- At least 70 killed in Haiti massacre, rights group says, far exceeding official toll - Reuters
 - Exclusive: E*Trade in talks to lead SpaceX IPO share sale to small investors in US, sources say - Reuters
 - US airlines face fuel-driven financial shakeout - Reuters
 - Unilever-McCormick potential food unit deal includes $16 billion cash component, WSJ reports - Reuters
@@ -148,13 +145,12 @@
 - 鞠婧祎工作室声明
 - 地铁吐血女孩账户因转账频繁被封
 - 中国人海上百米高空吊装百米叶片
-- 上京东买应采儿同款演唱会神器
 - 月鳞绮纪OST
 - 韩国向中国14城发放十年签
 - 鹿晗超绝版权意识
-- 科学减重让脂肪肝可逆转
-- 广州大暴雨把动物也整emo了
+- ID.ERA 9X 32.98万元起售
 - 地球使用费
+- 广州大暴雨把动物也整emo了
 - 数学考17的人学会计
 - 张雪机车一战封神
 - 爸爸去哪儿的阿拉蕾长大了
@@ -163,8 +159,9 @@
 - AI演员 拼尸块
 - 卜凡团播
 - 新能源汽车安全没有上限
-- 陈都灵预告15秒换了13套衣服
+- 马嘉祺月鳞绮纪OST
 - 曝iPhoneXX将配屏下摄像头
+- 伊朗最大岛屿遭美以袭击
 
 ## 知乎热榜 (9 条)
 - 鸟类真的会「记住」对它们不好的人吗？
@@ -212,20 +209,22 @@
 - 长鹰8成功首飞
 - 张雪妻子讲述其创业故事
 - 张雪的逆袭是一部奋斗史
-- 重庆辟谣张飞古道重开
+- 3月科学流言榜
 - 054B型有多强
 - 月鳞绮纪定档0401
 - 孙颖莎3:0李昱谆迎开门红
 - 电影寒战1994定档五一
-- 电影消失的人定档五一
-- 白日提灯贺思慕残血反杀看爽了
 - 白日提灯第八集剧情太夯了
+- 白日提灯贺思慕残血反杀看爽了
+- 电影消失的人定档五一
+
+## 豆瓣讨论 (1 条)
+- 现在tsls是不是交钱了还能出来啊。。。 - 豆瓣
 
 ## 雪球热帖 (20 条)
-- 杨姓股民向*ST八钢发起索赔 牛彬律师接受咨询 - 新浪财经
+- 张姓股民向ST太重发起索赔 陈宇霞律师接受咨询 - 新浪财经
 - 黄姓股民向巨力索具发起索赔 牛彬律师接受咨询 - 新浪财经
 - 吴姓股民向ST得润发起索赔 张海峰律师接受咨询 - 新浪财经
-- 韩姓股民向*ST奥维发起索赔 宋一欣律师接受咨询 - 新浪财经
 - 新浪财经隔夜要闻大事汇总：2026年3月31日 - 新浪财经
 - CRO概念板块大涨 诚达药业涨幅居前 - 新浪财经
 - 昨日涨停板块活跃 宏昌科技涨停 - 新浪财经
@@ -242,6 +241,7 @@
 - Token，正在成为人工智能时代的新工资单位 - 新浪财经
 - 平潭实验区板块走强 平潭发展涨停 - 新浪财经
 - 好短剧教育（京ICP备2025112547号-4）被列入北京市通信管理局空壳网站名单 - 新浪财经
+- 雷公酒业（渝ICP备2025075579号-1X）被列入重庆通信管理局空壳网站名单 - 新浪财经
 
 ## 36氪 (20 条)
 - 支付宝发布支付集成Skill
@@ -266,6 +266,7 @@
 - 神州控股：2025年营业收入210.15亿元人民币，较去年同期增长26%
 
 ## 虎嗅 (20 条)
+- 别再说她矫情了，高敏感人群的苦你不懂
 - 太空环境有多“伤”心？航天员要面对哪些“心”的挑战？
 - 长城公寓：德黑兰的中国生意江湖
 - 高盛：参考1990年石油危机，美联储终将降息
@@ -285,7 +286,6 @@
 - 美伊谈判陷入罗生门：谈得很好，打得更狠
 - 我相信清洁工是无辜的
 - 苹果50年：天才退场，机器永生
-- 小心流量给张雪机车套上枷锁
 
 ## 少数派 (2 条)
 - 不用可以先收藏 | 有备无患：我的逃生包和生存盒都装了啥？
