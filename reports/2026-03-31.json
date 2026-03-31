@@ -2,144 +2,110 @@
   "date": "2026-03-31",
   "news": [
     {
-      "title": "美以伊战事升级",
-      "summary": "美国总统特朗普威胁将对伊朗能源设施发动猛烈攻击，同时声称与伊朗议长卡利巴夫进行对话。伊朗议会通过法案，决定对霍尔木兹海峡征收通行费，并警告美国不要向哈尔克岛派兵。德国总理默茨表示，若伊朗战事升级，欧洲承受的压力将堪比疫情时期。七国集团财长与能源部长举行会议，聚焦中东局势。",
-      "reason": "中东冲突升级引发全球能源市场动荡，威胁全球经济稳定",
+      "title": "伊朗封锁霍尔木兹海峡",
+      "summary": "伊朗议会3月30日批准对霍尔木兹海峡征收通行费的法案，并加强对这一战略水道的控制。此举导致全球油价飙升，两艘中国巨轮已顺利通过该海峡。伊朗还指责美以袭击伊朗钢铁企业构成国家恐怖主义，并警告可能报复美国对伊朗大学的袭击。霍尔木兹海峡是全球石油运输的关键通道，约占全球石油贸易的三分之一。",
+      "reason": "伊朗控制全球石油运输关键通道，引发全球能源市场动荡",
       "impact_areas": [
         "经济金融",
-        "政治",
-        "地缘"
+        "地缘",
+        "生态"
       ],
       "impact_level": "现象级",
       "sources": [
         {
           "name": "凤凰网",
-          "url": "https://news.ifeng.com/c/8rvr6qKYmsw"
+          "url": "https://news.ifeng.com/c/8rwMtoLsOmi"
         },
-        {
-          "name": "凤凰网",
-          "url": "https://news.ifeng.com/c/8rvkuip0XRK"
-        },
-        {
-          "name": "凤凰网",
-          "url": "https://news.ifeng.com/c/8rvhFr07fof"
-        },
-        {
-          "name": "凤凰网",
-          "url": "https://news.ifeng.com/c/8rvnPQg8Oni"
-        },
-        {
-          "name": "央视网",
-          "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE0xZnRzT1Y2UWtTTDhkNEtvQ3U4dUljTlhEMENJUTc4RE43TXpiUmYwTnZEMnp0R09WNXFmX2N6TlltT1VqU3RZUjk1QWRMLXhRUU1UelNpNVd6WFNQUkxDTFNHZEtWcHNObEZTdkRoMm"
-        },
-        {
-          "name": "NYTimes",
-          "url": "https://www.nytimes.com/live/2026/03/30/world/iran-war-trump-oil-news"
-        },
-        {
-          "name": "NYTimes",
-          "url": "https://www.nytimes.com/live/2026/03/30/world/iran-war-trump-oil-news/strait-of-hormuz-toll-iran"
-        }
-      ]
-    },
-    {
-      "title": "伊朗对以色列发动袭击",
-      "summary": "伊朗军队3月30日发布声明称，当天发射多类型无人机，对以色列境内多处军工企业进行打击。伊朗第一副总统阿雷夫警告美国总统特朗普不要派兵攻打伊朗，称向哈尔克岛派兵将有来无回。伊朗议会国家安全委员会通过拟对霍尔木兹海峡征收通行费的法案。",
-      "reason": "中东冲突升级引发全球能源安全担忧，威胁国际航运",
-      "impact_areas": [
-        "政治",
-        "地缘",
-        "经济金融"
-      ],
-      "impact_level": "重大",
-      "sources": [
-        {
-          "name": "凤凰网",
-          "url": "https://news.ifeng.com/c/8rvWNyL8j2L"
-        },
-        {
-          "name": "凤凰网",
-          "url": "https://news.ifeng.com/c/8rvgSIijKUQ"
-        },
-        {
-          "name": "凤凰网",
-          "url": "https://news.ifeng.com/c/8rveB6dXV0P"
-        },
-        {
-          "name": "央视网",
-          "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE0xZnRzT1Y2UWtTTDhkNEtvQ3U4dUljTlhEMENJUTc4RE43TXpiUmYwTnZEMnp0R09WNXFmX2N6TlltT1VqU3RZUjk1QWRMLXhRUU1UelNpNVd6WFNQUkxDTFNHZEtWcHNObEZTdkRoMm"
-        }
-      ]
-    },
-    {
-      "title": "美以伊战事冲击全球粮食安全",
-      "summary": "随着美以伊冲突持续升级，全球粮食供应链面临严重威胁。伊朗作为重要石油出口国，战事导致国际油价飙升，推高了农业生产成本和运输费用。分析指出，中东地区是全球粮食贸易的关键通道，冲突可能扰乱粮食运输路线，导致全球粮食价格波动，对粮食进口依赖度高的国家造成冲击。",
-      "reason": "中东冲突威胁全球粮食供应链，推高农业生产成本",
-      "impact_areas": [
-        "经济金融",
-        "社会",
-        "生态"
-      ],
-      "impact_level": "重大",
-      "sources": [
-        {
-          "name": "凤凰网",
-          "url": "https://news.ifeng.com/c/8rvpxJYri5i"
-        }
-      ]
-    },
-    {
-      "title": "先正达以色列工厂遭袭",
-      "summary": "中国化工巨头先正达集团位于以色列的工厂在伊朗导弹袭击中被击中。该工厂损失仅限于成品仓库，生产设施未遭到直接打击，事件已处在消防与救援部门的控制之下。先正达集团旗下子公司安道麦确认了这一事件，并表示正在评估损失情况。",
-      "reason": "中东冲突波及全球化工巨头，影响国际供应链",
-      "impact_areas": [
-        "经济金融",
-        "产业"
-      ],
-      "impact_level": "重大",
-      "sources": [
         {
           "name": "财新网",
-          "url": "https://www.caixin.com/2026-03-31/102429165.html"
+          "url": "https://international.caixin.com/2026-03-31/102429351.html"
+        },
+        {
+          "name": "央视网",
+          "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE0xZnRzT1Y2UWtTTDhkNEtvQ3U4dUljTlhEMENJUTc4RE43TXpiUmYwTnZEMnp0R09WNXFmX2N6TlltT1VqU3RZUjk1QWRMLXhRUU1UelNpNVd6WFNQUkxDTFNHZEtWcHNObEZTdkRoMmtkYmladlFBRg?oc=5"
+        },
+        {
+          "name": "央视网",
+          "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1SMHZJZ0U4UVR3bDhzOTFIb3VYcXN6MXRJU0dZMWVOTVlPS1FHcGVlbnA3Y1k5cURtWjY2bWFQZ0pOTUxkd0hvSG9nZHNrSjBycWZjeG1kSlVrYjhaeWhrVV96T0RyQnJLdS1GYzBJemhER0JPMDZlSA?oc=5"
         }
       ]
     },
     {
-      "title": "美国航空业面临燃油危机",
-      "summary": "随着美以伊冲突导致油价飙升，美国航空公司正面临严峻的财务挑战。分析指出，燃油成本已占航空公司运营成本的30%-40%，油价上涨将导致航空公司利润大幅下滑，可能引发行业洗牌。部分航空公司已开始调整航线网络，并考虑提高票价以应对成本上升。",
-      "reason": "油价上涨冲击航空业，可能引发行业洗牌",
+      "title": "敏昂莱当选缅甸副总统",
+      "summary": "缅甸联邦议会人民院民选议员团宣布，缅甸军方领导人敏昂莱当选为缅甸副总统。这一任命标志着缅甸军方进一步巩固政治控制，敏昂莱此前已辞去军方总司令职务，预计将担任下一届缅甸国家领导人。此举可能改变缅甸政治格局，加剧国内紧张局势。",
+      "reason": "缅甸军方领导人当选副总统，国家政治格局发生重大变化",
       "impact_areas": [
-        "经济金融",
-        "产业"
+        "政治",
+        "地缘"
       ],
       "impact_level": "重大",
       "sources": [
         {
-          "name": "Reuters",
-          "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNVWwzWnk3OTRpaVM4LWxXbk9BQXNFbmFzbExwQWEwUEppR1lpSEhDOXlkTjlsLWhkdkRLa2twNVVnenhRWDBiRE5LYzItWGxDcDV6ZGh1WGV3Q1JlcU43ZGF3WG05Yl9VdU56NFFpQjluS056Q0o0WFFoWkxEcWtibDlmMGNZeUtVbFNrdGh5Z2tlOHNaajZZ"
+          "name": "凤凰网",
+          "url": "https://news.ifeng.com/c/8rwNhMwHrnm"
+        },
+        {
+          "name": "NYTimes",
+          "url": "https://www.nytimes.com/2026/03/30/world/asia/myanmar-min-aung-hlaing-president.html"
         }
       ]
     },
     {
-      "title": "缅甸面临燃油危机",
-      "summary": "随着伊朗战争持续，全球能源市场受到冲击，缅甸出现严重燃油短缺。当地司机在加油站排起长队，等待数小时才能加油。分析指出，缅甸高度依赖进口燃油，国际油价上涨和供应链中断导致该国面临严峻的能源危机，可能进一步加剧经济困难。",
-      "reason": "中东冲突波及东南亚，引发燃油短缺危机",
+      "title": "朝鲜重启国境封锁",
+      "summary": "韩国军方称，朝鲜已重启'封锁国境'措施，包括埋设地雷、拆除铁轨和设置栅栏。这一行动针对朝鲜最高领导人金正恩参观新型洲际弹道导弹固体燃料发动机试验后的局势变化。此举加剧朝鲜半岛紧张局势，可能影响区域稳定和南北关系。",
+      "reason": "朝鲜重启国境封锁，加剧朝鲜半岛紧张局势",
       "impact_areas": [
-        "经济金融",
-        "社会"
+        "地缘",
+        "政治"
       ],
       "impact_level": "重大",
       "sources": [
         {
-          "name": "BBC",
-          "url": "https://www.bbc.com/news/videos/cn08w9ye38yo?at_medium=RSS&at_campaign=rss"
+          "name": "凤凰网",
+          "url": "https://news.ifeng.com/c/8rwMNnzZGSl"
         }
       ]
     },
     {
-      "title": "力箭二号运载火箭首飞",
-      "summary": "中国长鹰-8大型运输无人机于3月31日成功完成首飞。这款新型无人机具有大载重、长航时特点，将广泛应用于物流运输、应急救援等领域。同时，力箭二号运载火箭也成功发射，标志着中国在航天运输领域取得新突破。这两项成就将进一步提升中国在航空航天领域的竞争力。",
-      "reason": "中国航空航天技术取得重大突破，提升国际竞争力",
+      "title": "西班牙禁止美以打击伊朗飞机飞越领空",
+      "summary": "西班牙政府已对参与伊朗战争的美国军机关闭领空，这是西班牙在这场持续逾一个月的冲突中采取的最新限制举措。美国国务卿鲁比奥对此表示强烈不满，批评这一北约成员国'吹嘘'切断其领空。此举反映了欧洲国家在美国主导的伊朗战争中采取的谨慎立场，可能影响北约内部团结。",
+      "reason": "西班牙拒绝美以战机使用领空，美西对峙升级",
+      "impact_areas": [
+        "政治",
+        "地缘"
+      ],
+      "impact_level": "重大",
+      "sources": [
+        {
+          "name": "凤凰网",
+          "url": "https://news.ifeng.com/c/8rwKq9PmFBZ"
+        },
+        {
+          "name": "财新网",
+          "url": "https://international.caixin.com/2026-03-31/102429285.html"
+        }
+      ]
+    },
+    {
+      "title": "日本部署远程导弹",
+      "summary": "日本防卫大臣小泉进次郎3月31日宣布，日本首次部署具备'对敌基地攻击能力'的远程导弹。这一军事部署标志着日本安全政策的重大转变，可能改变东亚地区军事平衡。此举被视为应对地区安全挑战的举措，但也可能引发周边国家担忧和地区紧张局势。",
+      "reason": "日本首次部署具备对敌基地攻击能力的远程导弹",
+      "impact_areas": [
+        "政治",
+        "地缘"
+      ],
+      "impact_level": "重大",
+      "sources": [
+        {
+          "name": "凤凰网",
+          "url": "https://news.ifeng.com/c/8rwI0qMoFgN"
+        }
+      ]
+    },
+    {
+      "title": "长鹰-8大型运输无人机首飞",
+      "summary": "中国自主研发的长鹰-8大型运输无人机于3月31日成功完成首飞。这款无人机具备大载重、长航时特点，可广泛应用于军事和民用领域。此次首飞标志着中国在大型无人机领域取得重要进展，将提升中国航空工业水平和战略投送能力。",
+      "reason": "中国长鹰-8大型运输无人机成功首飞，航空工业取得重要进展",
       "impact_areas": [
         "科技",
         "产业"
@@ -152,59 +118,79 @@
         },
         {
           "name": "抖音热搜",
-          "url": "https://www.douyin.com/search/力箭二号遥一运载火箭成功发射"
+          "url": "https://www.douyin.com/search/长鹰8成功首飞"
         }
       ]
     },
     {
-      "title": "山东省设立中小学春秋假期",
-      "summary": "山东省宣布将设立中小学春秋假期，为学生提供更多休息和发展的时间。这一政策旨在减轻学生学业压力，促进学生全面发展。山东省教育部门表示，将合理安排假期时间，确保不影响正常教学进度，同时为学生提供更多参与社会实践和兴趣发展的机会。",
-      "reason": "教育政策改革，促进学生全面发展",
-      "impact_areas": [
-        "社会",
-        "教育"
-      ],
-      "impact_level": "重大",
-      "sources": [
-        {
-          "name": "抖音热搜",
-          "url": "https://www.douyin.com/search/山东省设立中小学春秋假期"
-        }
-      ]
-    },
-    {
-      "title": "国航中朝航线恢复运行",
-      "summary": "中国国际航空公司宣布恢复中朝航线运营，这一决定将为两国人员往来和经贸合作提供便利。国航表示，将根据市场需求安排航班频率，确保航线安全高效运行。中朝航线的恢复标志着两国关系进一步改善，有助于促进区域经济合作与交流。",
-      "reason": "中朝关系改善，恢复航线促进区域合作",
+      "title": "中国学者遭美执法人员约谈后自杀",
+      "summary": "一名中国学者在遭美方执法人员约谈盘问后，于次日不幸自杀身亡。中国驻美大使馆已对此事表达严重关切，并严正敦促美方彻查此事。这一事件引发中美关系紧张，可能影响两国学术交流和人员往来。",
+      "reason": "中国学者遭美执法人员约谈后自杀，中领馆敦促美方彻查",
       "impact_areas": [
         "政治",
-        "经济金融"
-      ],
-      "impact_level": "重大",
-      "sources": [
-        {
-          "name": "抖音热搜",
-          "url": "https://www.douyin.com/search/国航中朝航线恢复运行"
-        }
-      ]
-    },
-    {
-      "title": "瓦努阿图群岛7.3级地震",
-      "summary": "南太平洋岛国瓦努阿图群岛发生7.3级强烈地震，震源深度约10公里。目前尚未收到重大人员伤亡报告，但部分建筑物受损。太平洋海啸预警中心已发布海啸预警，建议沿海居民撤离至高地。瓦努阿图位于环太平洋地震带，地震和海啸频发。",
-      "reason": "强震引发海啸预警，威胁南太平洋地区安全",
-      "impact_areas": [
-        "生态",
         "社会"
       ],
       "impact_level": "重大",
       "sources": [
         {
+          "name": "凤凰网",
+          "url": "https://news.ifeng.com/c/8rwH1tjBu0m"
+        }
+      ]
+    },
+    {
+      "title": "重庆隧道爆炸事故",
+      "summary": "3月31日，重庆市万州区一在建隧道发生爆炸事故，造成4人死亡、9人受伤。该隧道项目原计划2027年底建成通车。事故发生后，当地已启动应急响应，事故原因正在调查中。此次事故引发对重大工程建设安全的关注。",
+      "reason": "重庆一在建隧道爆炸致4死9伤，重大工程建设安全受关注",
+      "impact_areas": [
+        "社会",
+        "产业"
+      ],
+      "impact_level": "重大",
+      "sources": [
+        {
+          "name": "凤凰网",
+          "url": "https://news.ifeng.com/c/8rwHS5wmzdE"
+        }
+      ]
+    },
+    {
+      "title": "韩国向中国14城发放十年签",
+      "summary": "韩国政府宣布向中国14个城市居民发放十年期签证，以促进两国人员往来和经贸合作。这一签证政策放宽将便利中国公民赴韩旅游、商务和留学，有助于加强中韩人文交流和经贸联系。",
+      "reason": "韩国向中国14城发放十年签，促进两国人员往来",
+      "impact_areas": [
+        "社会",
+        "经济金融"
+      ],
+      "impact_level": "重大",
+      "sources": [
+        {
+          "name": "微博热搜",
+          "url": "https://s.weibo.com/weibo?q=%23韩国向中国14城发放十年签%23"
+        }
+      ]
+    },
+    {
+      "title": "茅台时隔两年再提价",
+      "summary": "贵州茅台宣布时隔两年再次提高产品价格，部分产品涨幅达2.33%。这一提价举措将直接影响白酒市场价格格局，可能引发行业连锁反应。茅台作为中国高端白酒代表，其价格调整对行业具有重要风向标意义。",
+      "reason": "贵州茅台时隔两年再提价，白酒行业价格格局生变",
+      "impact_areas": [
+        "经济金融",
+        "产业"
+      ],
+      "impact_level": "重大",
+      "sources": [
+        {
+          "name": "财新网",
+          "url": "https://database.caixin.com/2026-03-31/102429349.html"
+        },
+        {
           "name": "抖音热搜",
-          "url": "https://www.douyin.com/search/瓦努阿图群岛7.3级地震"
+          "url": "https://www.douyin.com/search/贵州茅台宣布涨价"
         }
       ]
     }
   ],
-  "total_fetched": 220,
-  "generated_at": "2026-03-31T07:25:58.101166+08:00"
+  "total_fetched": 265,
+  "generated_at": "2026-03-31T13:56:56.309943+08:00"
 }
