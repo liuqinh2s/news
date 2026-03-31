@@ -1,6 +1,196 @@
 {
   "date": "2026-03-31",
-  "news": [],
-  "total_fetched": 226,
-  "generated_at": "2026-03-31T12:26:21.828968+08:00"
+  "news": [
+    {
+      "title": "伊朗封锁霍尔木兹海峡",
+      "summary": "伊朗议会3月30日批准对霍尔木兹海峡征收通行费的法案，并加强对这一战略水道的控制。此举导致全球油价飙升，两艘中国巨轮已顺利通过该海峡。伊朗还指责美以袭击伊朗钢铁企业构成国家恐怖主义，并警告可能报复美国对伊朗大学的袭击。霍尔木兹海峡是全球石油运输的关键通道，约占全球石油贸易的三分之一。",
+      "reason": "伊朗控制全球石油运输关键通道，引发全球能源市场动荡",
+      "impact_areas": [
+        "经济金融",
+        "地缘",
+        "生态"
+      ],
+      "impact_level": "现象级",
+      "sources": [
+        {
+          "name": "凤凰网",
+          "url": "https://news.ifeng.com/c/8rwMtoLsOmi"
+        },
+        {
+          "name": "财新网",
+          "url": "https://international.caixin.com/2026-03-31/102429351.html"
+        },
+        {
+          "name": "央视网",
+          "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE0xZnRzT1Y2UWtTTDhkNEtvQ3U4dUljTlhEMENJUTc4RE43TXpiUmYwTnZEMnp0R09WNXFmX2N6TlltT1VqU3RZUjk1QWRMLXhRUU1UelNpNVd6WFNQUkxDTFNHZEtWcHNObEZTdkRoMmtkYmladlFBRg?oc=5"
+        },
+        {
+          "name": "央视网",
+          "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1SMHZJZ0U4UVR3bDhzOTFIb3VYcXN6MXRJU0dZMWVOTVlPS1FHcGVlbnA3Y1k5cURtWjY2bWFQZ0pOTUxkd0hvSG9nZHNrSjBycWZjeG1kSlVrYjhaeWhrVV96T0RyQnJLdS1GYzBJemhER0JPMDZlSA?oc=5"
+        }
+      ]
+    },
+    {
+      "title": "敏昂莱当选缅甸副总统",
+      "summary": "缅甸联邦议会人民院民选议员团宣布，缅甸军方领导人敏昂莱当选为缅甸副总统。这一任命标志着缅甸军方进一步巩固政治控制，敏昂莱此前已辞去军方总司令职务，预计将担任下一届缅甸国家领导人。此举可能改变缅甸政治格局，加剧国内紧张局势。",
+      "reason": "缅甸军方领导人当选副总统，国家政治格局发生重大变化",
+      "impact_areas": [
+        "政治",
+        "地缘"
+      ],
+      "impact_level": "重大",
+      "sources": [
+        {
+          "name": "凤凰网",
+          "url": "https://news.ifeng.com/c/8rwNhMwHrnm"
+        },
+        {
+          "name": "NYTimes",
+          "url": "https://www.nytimes.com/2026/03/30/world/asia/myanmar-min-aung-hlaing-president.html"
+        }
+      ]
+    },
+    {
+      "title": "朝鲜重启国境封锁",
+      "summary": "韩国军方称，朝鲜已重启'封锁国境'措施，包括埋设地雷、拆除铁轨和设置栅栏。这一行动针对朝鲜最高领导人金正恩参观新型洲际弹道导弹固体燃料发动机试验后的局势变化。此举加剧朝鲜半岛紧张局势，可能影响区域稳定和南北关系。",
+      "reason": "朝鲜重启国境封锁，加剧朝鲜半岛紧张局势",
+      "impact_areas": [
+        "地缘",
+        "政治"
+      ],
+      "impact_level": "重大",
+      "sources": [
+        {
+          "name": "凤凰网",
+          "url": "https://news.ifeng.com/c/8rwMNnzZGSl"
+        }
+      ]
+    },
+    {
+      "title": "西班牙禁止美以打击伊朗飞机飞越领空",
+      "summary": "西班牙政府已对参与伊朗战争的美国军机关闭领空，这是西班牙在这场持续逾一个月的冲突中采取的最新限制举措。美国国务卿鲁比奥对此表示强烈不满，批评这一北约成员国'吹嘘'切断其领空。此举反映了欧洲国家在美国主导的伊朗战争中采取的谨慎立场，可能影响北约内部团结。",
+      "reason": "西班牙拒绝美以战机使用领空，美西对峙升级",
+      "impact_areas": [
+        "政治",
+        "地缘"
+      ],
+      "impact_level": "重大",
+      "sources": [
+        {
+          "name": "凤凰网",
+          "url": "https://news.ifeng.com/c/8rwKq9PmFBZ"
+        },
+        {
+          "name": "财新网",
+          "url": "https://international.caixin.com/2026-03-31/102429285.html"
+        }
+      ]
+    },
+    {
+      "title": "日本部署远程导弹",
+      "summary": "日本防卫大臣小泉进次郎3月31日宣布，日本首次部署具备'对敌基地攻击能力'的远程导弹。这一军事部署标志着日本安全政策的重大转变，可能改变东亚地区军事平衡。此举被视为应对地区安全挑战的举措，但也可能引发周边国家担忧和地区紧张局势。",
+      "reason": "日本首次部署具备对敌基地攻击能力的远程导弹",
+      "impact_areas": [
+        "政治",
+        "地缘"
+      ],
+      "impact_level": "重大",
+      "sources": [
+        {
+          "name": "凤凰网",
+          "url": "https://news.ifeng.com/c/8rwI0qMoFgN"
+        }
+      ]
+    },
+    {
+      "title": "长鹰-8大型运输无人机首飞",
+      "summary": "中国自主研发的长鹰-8大型运输无人机于3月31日成功完成首飞。这款无人机具备大载重、长航时特点，可广泛应用于军事和民用领域。此次首飞标志着中国在大型无人机领域取得重要进展，将提升中国航空工业水平和战略投送能力。",
+      "reason": "中国长鹰-8大型运输无人机成功首飞，航空工业取得重要进展",
+      "impact_areas": [
+        "科技",
+        "产业"
+      ],
+      "impact_level": "重大",
+      "sources": [
+        {
+          "name": "央视网",
+          "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1BR09OT21BdVVhQzc4VGUyaExVSV93dnZNUFpaZDVERW1iam5ZcEw2MEhpZE0tZDdFdFpka0hLX04wRk9lYm1KNUxsLUozaFZhdU4xRTJISHJEQzRtOUIyU0JXaFJ5THUydkFfbU5POWVXZ09xaGI5aQ?oc=5"
+        },
+        {
+          "name": "抖音热搜",
+          "url": "https://www.douyin.com/search/长鹰8成功首飞"
+        }
+      ]
+    },
+    {
+      "title": "中国学者遭美执法人员约谈后自杀",
+      "summary": "一名中国学者在遭美方执法人员约谈盘问后，于次日不幸自杀身亡。中国驻美大使馆已对此事表达严重关切，并严正敦促美方彻查此事。这一事件引发中美关系紧张，可能影响两国学术交流和人员往来。",
+      "reason": "中国学者遭美执法人员约谈后自杀，中领馆敦促美方彻查",
+      "impact_areas": [
+        "政治",
+        "社会"
+      ],
+      "impact_level": "重大",
+      "sources": [
+        {
+          "name": "凤凰网",
+          "url": "https://news.ifeng.com/c/8rwH1tjBu0m"
+        }
+      ]
+    },
+    {
+      "title": "重庆隧道爆炸事故",
+      "summary": "3月31日，重庆市万州区一在建隧道发生爆炸事故，造成4人死亡、9人受伤。该隧道项目原计划2027年底建成通车。事故发生后，当地已启动应急响应，事故原因正在调查中。此次事故引发对重大工程建设安全的关注。",
+      "reason": "重庆一在建隧道爆炸致4死9伤，重大工程建设安全受关注",
+      "impact_areas": [
+        "社会",
+        "产业"
+      ],
+      "impact_level": "重大",
+      "sources": [
+        {
+          "name": "凤凰网",
+          "url": "https://news.ifeng.com/c/8rwHS5wmzdE"
+        }
+      ]
+    },
+    {
+      "title": "韩国向中国14城发放十年签",
+      "summary": "韩国政府宣布向中国14个城市居民发放十年期签证，以促进两国人员往来和经贸合作。这一签证政策放宽将便利中国公民赴韩旅游、商务和留学，有助于加强中韩人文交流和经贸联系。",
+      "reason": "韩国向中国14城发放十年签，促进两国人员往来",
+      "impact_areas": [
+        "社会",
+        "经济金融"
+      ],
+      "impact_level": "重大",
+      "sources": [
+        {
+          "name": "微博热搜",
+          "url": "https://s.weibo.com/weibo?q=%23韩国向中国14城发放十年签%23"
+        }
+      ]
+    },
+    {
+      "title": "茅台时隔两年再提价",
+      "summary": "贵州茅台宣布时隔两年再次提高产品价格，部分产品涨幅达2.33%。这一提价举措将直接影响白酒市场价格格局，可能引发行业连锁反应。茅台作为中国高端白酒代表，其价格调整对行业具有重要风向标意义。",
+      "reason": "贵州茅台时隔两年再提价，白酒行业价格格局生变",
+      "impact_areas": [
+        "经济金融",
+        "产业"
+      ],
+      "impact_level": "重大",
+      "sources": [
+        {
+          "name": "财新网",
+          "url": "https://database.caixin.com/2026-03-31/102429349.html"
+        },
+        {
+          "name": "抖音热搜",
+          "url": "https://www.douyin.com/search/贵州茅台宣布涨价"
+        }
+      ]
+    }
+  ],
+  "total_fetched": 265,
+  "generated_at": "2026-03-31T13:56:56.309943+08:00"
 }
