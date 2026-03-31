@@ -10,6 +10,7 @@ from __future__ import annotations
 
 import asyncio
 import json
+import logging
 import os
 import re
 from datetime import datetime, timezone, timedelta
@@ -27,6 +28,9 @@ load_dotenv()  # 本地运行时从 .env 读取环境变量
 REPORTS_DIR = Path("reports")
 REPORTS_DIR.mkdir(exist_ok=True)
 
+LOGS_DIR = Path("logs")
+LOGS_DIR.mkdir(exist_ok=True)
+
 PROMPTS_DIR = Path("prompts")
 CONFIG_DIR = Path("config")
 
@@ -35,6 +39,25 @@ FIRECRAWL_API_KEY = os.environ.get("FIRECRAWL_API_KEY", "")
 
 BJT = timezone(timedelta(hours=8))
 TODAY = datetime.now(BJT).strftime("%Y-%m-%d")
+
+# ── 日志配置 ──────────────────────────────────────────
+
+logger = logging.getLogger("generate_report")
+logger.setLevel(logging.DEBUG)
+
+_log_formatter = logging.Formatter("%(asctime)s [%(levelname)s] %(message)s", datefmt="%Y-%m-%d %H:%M:%S")
+
+# 文件 handler：每天一个日志文件，DEBUG 级别全量记录
+_file_handler = logging.FileHandler(LOGS_DIR / f"{TODAY}.log", encoding="utf-8")
+_file_handler.setLevel(logging.DEBUG)
+_file_handler.setFormatter(_log_formatter)
+logger.addHandler(_file_handler)
+
+# 控制台 handler：保留原有 print 风格，INFO 级别
+_console_handler = logging.StreamHandler()
+_console_handler.setLevel(logging.INFO)
+_console_handler.setFormatter(_log_formatter)
+logger.addHandler(_console_handler)
 
 # ── 加载新闻源配置 ───────────────────────────────────
 
@@ -110,7 +133,7 @@ def _parse_rss_response(name: str, text: str) -> list[dict]:
         if len(items) >= 20:
             break
     if skipped:
-        print(f"  ⏭ {name}: 过滤掉 {skipped} 条非今日新闻")
+        logger.info(f"  ⏭ {name}: 过滤掉 {skipped} 条非今日新闻")
     return items
 
 
@@ -144,7 +167,7 @@ async def _async_fetch_api(client: httpx.AsyncClient, name: str, config: dict) -
 
     parser = API_PARSERS.get(parser_name)
     if not parser:
-        print(f"[WARN] 未知的解析器: {parser_name}，跳过 {name}")
+        logger.warning(f"未知的解析器: {parser_name}，跳过 {name}")
         return []
 
     try:
@@ -152,14 +175,14 @@ async def _async_fetch_api(client: httpx.AsyncClient, name: str, config: dict) -
                                 headers=headers)
         data = resp.json()
     except Exception as e:
-        print(f"[WARN] API 抓取失败 {name}: {e}")
+        logger.warning(f"API 抓取失败 {name}: {e}")
         return []
 
     try:
         raw_items = parser(data)
         return [{"source": name, **item} for item in raw_items]
     except Exception as e:
-        print(f"[WARN] 解析失败 {name}: {e}")
+        logger.warning(f"解析失败 {name}: {e}")
         return []
 
 
@@ -255,7 +278,7 @@ def fetch_with_firecrawl(url: str) -> str:
         data = resp.json()
         return data.get("data", {}).get("markdown", "")[:2000]
     except Exception as e:
-        print(f"[WARN] Firecrawl 抓取失败 {url}: {e}")
+        logger.warning(f"Firecrawl 抓取失败 {url}: {e}")
         return ""
 
 
@@ -278,13 +301,13 @@ async def collect_all_news() -> list[dict]:
 
     async with httpx.AsyncClient(headers={"User-Agent": BROWSER_UA}) as client:
         # 创建所有抓取任务
-        print("📡 抓取 RSS 新闻源...")
+        logger.info("📡 抓取 RSS 新闻源...")
         for name, config in RSS_FEEDS.items():
             urls = _get_urls(config)
             task = asyncio.create_task(_async_fetch_rss(client, name, urls))
             tasks.append((name, task))
 
-        print("📡 抓取社交媒体 & 垂直社区热搜...")
+        logger.info("📡 抓取社交媒体 & 垂直社区热搜...")
         for name, config in TRENDING_FEEDS.items():
             if isinstance(config, str):
                 task = asyncio.create_task(_async_fetch_rss(client, name, [config]))
@@ -304,12 +327,12 @@ async def collect_all_news() -> list[dict]:
 
     for (name, _), result in zip(tasks, results):
         if isinstance(result, Exception):
-            print(f"  ✓ {name}: 0 条 [ERROR: {result}]")
+            logger.error(f"  ✓ {name}: 0 条 [ERROR: {result}]")
         else:
             all_news.extend(result)
-            print(f"  ✓ {name}: {len(result)} 条")
+            logger.info(f"  ✓ {name}: {len(result)} 条")
 
-    print(f"\n📊 共抓取 {len(all_news)} 条新闻")
+    logger.info(f"📊 共抓取 {len(all_news)} 条新闻")
     return all_news
 
 
@@ -340,29 +363,39 @@ def repair_json(text: str) -> str:
 
 def parse_json_response(content: str) -> "list[dict] | None":
     """从 AI 返回内容中提取并解析 JSON，带容错处理"""
+    logger.debug(f"parse_json_response 输入长度: {len(content)} 字符")
+    logger.debug(f"输入内容前 300 字符: {content[:300]}")
+
     # 提取 [...] 部分
     json_match = re.search(r'\[.*\]', content, re.DOTALL)
 
     # 如果找不到完整的 [...], 可能是被截断了，尝试找 [ 开头的部分
     if not json_match:
+        logger.debug("未找到完整的 [...] JSON 数组，尝试查找 [ 开头的部分")
         json_match = re.search(r'\[.*', content, re.DOTALL)
     if not json_match:
+        logger.debug("完全未找到 JSON 数组结构，返回 None")
         return None
 
     raw = json_match.group()
+    logger.debug(f"提取到 JSON 片段长度: {len(raw)} 字符")
 
     # 第一次尝试：直接解析
     try:
-        return json.loads(raw)
-    except json.JSONDecodeError:
-        pass
+        result = json.loads(raw)
+        logger.debug(f"第一次尝试（直接解析）成功，得到 {len(result)} 条记录")
+        return result
+    except json.JSONDecodeError as e:
+        logger.debug(f"第一次尝试（直接解析）失败: {e}")
 
     # 第二次尝试：修复后解析
     try:
         repaired = repair_json(raw)
-        return json.loads(repaired)
-    except json.JSONDecodeError:
-        pass
+        result = json.loads(repaired)
+        logger.debug(f"第二次尝试（修复后解析）成功，得到 {len(result)} 条记录")
+        return result
+    except json.JSONDecodeError as e:
+        logger.debug(f"第二次尝试（修复后解析）失败: {e}")
 
     # 第三次尝试：截断修复 — 找到最后一个完整的 },  截断并闭合数组
     try:
@@ -395,14 +428,14 @@ def parse_json_response(content: str) -> "list[dict] | None":
             try:
                 result = json.loads(truncated)
                 if result:
-                    print(f"[INFO] JSON 被截断，成功恢复 {len(result)} 条完整记录")
+                    logger.info(f"JSON 被截断，成功恢复 {len(result)} 条完整记录")
                     return result
             except json.JSONDecodeError:
                 repaired = repair_json(truncated)
                 try:
                     result = json.loads(repaired)
                     if result:
-                        print(f"[INFO] JSON 被截断，修复后恢复 {len(result)} 条完整记录")
+                        logger.info(f"JSON 被截断，修复后恢复 {len(result)} 条完整记录")
                         return result
                 except json.JSONDecodeError:
                     pass
@@ -412,6 +445,7 @@ def parse_json_response(content: str) -> "list[dict] | None":
     # 第四次尝试：逐个对象提取（兜底）
     try:
         objects = re.findall(r'\{[^{}]*\}', raw, re.DOTALL)
+        logger.debug(f"第四次尝试（逐个对象提取），找到 {len(objects)} 个对象片段")
         results = []
         for obj_str in objects:
             try:
@@ -421,17 +455,21 @@ def parse_json_response(content: str) -> "list[dict] | None":
             except json.JSONDecodeError:
                 continue
         if results:
+            logger.debug(f"第四次尝试成功，恢复 {len(results)} 条记录")
             return results
-    except Exception:
-        pass
+        else:
+            logger.debug("第四次尝试未能恢复任何有效记录")
+    except Exception as e:
+        logger.debug(f"第四次尝试异常: {e}")
 
+    logger.debug("所有 JSON 解析尝试均失败，返回 None")
     return None
 
 
 def ai_filter_news(news_items: list[dict]) -> list[dict]:
     """用 AI 大模型筛选重大新闻"""
     if not ZHIPU_API_KEY:
-        print("[ERROR] 未设置 ZHIPU_API_KEY，跳过 AI 筛选")
+        logger.error("未设置 ZHIPU_API_KEY，跳过 AI 筛选")
         return []
 
     # 加载提示词
@@ -463,7 +501,11 @@ def ai_filter_news(news_items: list[dict]) -> list[dict]:
         base_url="https://open.bigmodel.cn/api/paas/v4",
     )
 
-    print("🤖 AI 正在筛选重大新闻...")
+    logger.info("🤖 AI 正在筛选重大新闻...")
+    logger.debug(f"输入新闻条数: {len(news_items)}")
+    logger.debug(f"news_text 长度: {len(news_text)} 字符")
+    logger.debug(f"user_prompt 长度: {len(user_prompt)} 字符")
+    logger.debug(f"system_prompt 长度: {len(system_prompt)} 字符")
     try:
         response = client.chat.completions.create(
             model="glm-4-plus",
@@ -475,16 +517,32 @@ def ai_filter_news(news_items: list[dict]) -> list[dict]:
             max_tokens=16000,
         )
         content = response.choices[0].message.content.strip()
+        finish_reason = response.choices[0].finish_reason
+        usage = response.usage
+
+        # 每次都把大模型原始返回存到文件，方便排查
+        ai_dump_path = LOGS_DIR / f"{TODAY}-ai-response.txt"
+        ai_dump_path.write_text(
+            f"finish_reason: {finish_reason}\n"
+            f"usage: {usage}\n"
+            f"content length: {len(content)}\n"
+            f"{'=' * 60}\n"
+            f"{content}\n",
+            encoding="utf-8",
+        )
+        logger.info(f"AI 原始返回已保存: {ai_dump_path} (finish_reason={finish_reason}, {len(content)} 字符)")
+
         result = parse_json_response(content)
         if result is not None:
-            print(f"✅ AI 筛选出 {len(result)} 条重大新闻")
+            logger.info(f"✅ AI 筛选出 {len(result)} 条重大新闻")
+            if len(result) == 0:
+                logger.warning("AI 返回了空数组 []，大模型认为没有重大新闻")
             return result
         else:
-            print("[WARN] AI 返回内容无法解析为 JSON")
-            print(f"[DEBUG] 原始返回:\n{content[:500]}")
+            logger.warning(f"AI 返回内容无法解析为 JSON (finish_reason={finish_reason}, 长度={len(content)})")
             return []
     except Exception as e:
-        print(f"[ERROR] AI 筛选失败: {e}")
+        logger.error(f"AI 筛选失败: {e}")
         return []
 
 
@@ -545,7 +603,7 @@ def save_raw_news(all_news: list[dict]) -> None:
         "news": all_news,
     }
     raw_path.write_text(json.dumps(raw_data, ensure_ascii=False, indent=2), encoding="utf-8")
-    print(f"📋 原始新闻已保存: {raw_path} ({len(all_news)} 条)")
+    logger.info(f"📋 原始新闻已保存: {raw_path} ({len(all_news)} 条)")
 
     # 按来源分组，只保留标题，方便快速浏览
     from collections import defaultdict
@@ -564,17 +622,17 @@ def save_raw_news(all_news: list[dict]) -> None:
 
     titles_path = REPORTS_DIR / f"{TODAY}-raw-titles.md"
     titles_path.write_text("\n".join(lines), encoding="utf-8")
-    print(f"📋 标题摘要已保存: {titles_path}")
+    logger.info(f"📋 标题摘要已保存: {titles_path}")
 
 
 def main():
-    print(f"🚀 开始生成 {TODAY} 新闻日报\n")
+    logger.info(f"🚀 开始生成 {TODAY} 新闻日报")
 
     # 1. 并发抓取所有新闻
     all_news = asyncio.run(collect_all_news())
 
     if not all_news:
-        print("[WARN] 未抓取到任何新闻，生成空报告")
+        logger.warning("未抓取到任何新闻，生成空报告")
 
     # 1.5 保存原始新闻
     save_raw_news(all_news)
@@ -586,7 +644,7 @@ def main():
     md_content = generate_markdown(filtered)
     report_path = REPORTS_DIR / f"{TODAY}.md"
     report_path.write_text(md_content, encoding="utf-8")
-    print(f"\n📝 日报已保存: {report_path}")
+    logger.info(f"📝 日报已保存: {report_path}")
 
     # 4. 同时保存结构化 JSON（供前端使用）
     json_path = REPORTS_DIR / f"{TODAY}.json"
@@ -597,7 +655,7 @@ def main():
         "generated_at": datetime.now(BJT).isoformat(),
     }
     json_path.write_text(json.dumps(json_data, ensure_ascii=False, indent=2), encoding="utf-8")
-    print(f"📦 JSON 已保存: {json_path}")
+    logger.info(f"📦 JSON 已保存: {json_path}")
 
 
 if __name__ == "__main__":

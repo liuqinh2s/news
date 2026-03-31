@@ -10,3 +10,4 @@ node_modules/
 # 构建产物（由脚本自动生成，不需要版本控制）
 reports/
 site/data/
+logs/
