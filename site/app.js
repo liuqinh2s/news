@@ -41,7 +41,7 @@
 
   function formatDate(dateStr) {
     const parts = dateStr.split("-");
-    return `${parts[0]}.${parts[1]}`;
+    return `${parts[0]}.${parts[1]}.${parts[2]}`;
   }
 
 
@@ -83,11 +83,12 @@
     return card;
   }
 
-  function renderArchiveItem(title, date) {
+  function renderArchiveItem(news, date) {
     const item = document.createElement("div");
     item.className = "archive-item";
+    item.addEventListener("click", () => showModal(news, date));
     item.innerHTML = `
-      <span class="archive-title">${title}</span>
+      <span class="archive-title">${news.title}</span>
       <span class="archive-date">(${formatDate(date)})</span>
     `;
     return item;
@@ -169,7 +170,7 @@
         } else {
           // 历史：归档条目
           for (const n of news) {
-            archiveItems.push({ title: n.title, date: report.date });
+            archiveItems.push({ news: n, date: report.date });
           }
         }
       }
@@ -188,7 +189,7 @@
       if (archiveItems.length > 0) {
         archiveNewsEl.innerHTML = "";
         for (const item of archiveItems) {
-          archiveNewsEl.appendChild(renderArchiveItem(item.title, item.date));
+          archiveNewsEl.appendChild(renderArchiveItem(item.news, item.date));
         }
       } else {
         archiveNewsEl.innerHTML = renderEmpty("暂无归档新闻");

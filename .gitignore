@@ -5,6 +5,7 @@ __pycache__/
 .env
 venv/
 node_modules/
+.kiro/
 
 # 构建产物（由脚本自动生成，不需要版本控制）
 reports/

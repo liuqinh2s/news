@@ -323,6 +323,13 @@ body {
     margin-top: 32px;
 }
 
+.footer .update-schedule {
+    margin-top: 6px;
+    font-size: 0.75rem;
+    color: var(--text-muted);
+    opacity: 0.8;
+}
+
 /* ── Responsive ───────────────────────────────── */
 @media (max-width: 480px) {
     .container {
