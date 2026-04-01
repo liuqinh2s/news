@@ -1,4 +1,4 @@
-# 2026-04-01 原始新闻标题 (217 条)
+# 2026-04-01 原始新闻标题 (256 条)
 
 ## 新华社 (20 条)
 - Education, health fees among key concerns
@@ -22,90 +22,110 @@
 - Former Chongqing political official facing corruption investigation
 - Former Chongqing political official facing corruption investigation
 
+## 澎湃新闻 (5 条)
+- 隧道行车切忌跟车太近，“距离产生美”，也保障安全！ - thepaper.cn
+- 人民日报钟声：中国经济的真实模样，不会因“滤镜”而改变 - thepaper.cn
+- 特朗普将发表全国讲话，就伊朗问题发布“重要更新” - thepaper.cn
+- 别再被忽悠了，食品添加剂不是 “毒药” - thepaper.cn
+- 马克龙访问日本，除了中东危机还将讨论稀土与太空合作 - thepaper.cn
+
 ## 南方周末 (1 条)
 - 盈科掌舵人梅向荣浮沉：“全球第一大律所”的诞生与失控 - 南方周末
 
 ## 凤凰网 (20 条)
-- 美军向中东部署第三艘航母：美军布什号航母启程赴中东 估计其行程将用时两至三周 - 凤凰网
-- 缅甸地方议员冀政府重启密松水电项目 - v.ifeng.com
-- AI吹哨人揭秘被掩盖的真相，我们正在被AI公司集体误导！ - 凤凰网
-- 奇豫之旅｜春光明媚，鸡冠洞的春意正浓到了极致 - v.ifeng.com
+- 张国荣离世已整整23年了！王祖贤晒温哥华长椅缅怀这张长椅哥哥曾经坐过网友泪目：小倩来看你了 - 凤凰视频
 - 忘了充电?不慌！博越REV 375km纯电续航，让健忘也从容 - 凤凰网
-- 伊朗总统：要结束战争对方须保证不再侵略伊朗曾带着诚意与美国谈判却在谈判中途遭到非法袭击 - v.ifeng.com
+- 外媒发出疑问：作为通过霍尔木兹海峡进口石油最多的国家，中国为何最从容？ - 凤凰视频
 - 现场直击|以色列空袭黎巴嫩贝鲁特南部 新华社记者驻地窗户被震碎 - 凤凰网
-- 喜德:东西部协作赋能蓝莓经济 激活乡村振兴“莓"好密码 - v.ifeng.com
-- 国际足联主席：伊朗将按计划参加世界杯比赛三场小组赛都在美国举行“足球能做的就是将人们团结起来” - v.ifeng.com
-- 美媒：政府停摆中 国会议员现身主题乐园 - v.ifeng.com
-- 第三波反制来了，高市辅臣被制裁，中方禁止入境，冻结其所有资产 - v.ifeng.com
-- 油价传导成高通膨 或反促进美联储降息 - v.ifeng.com
-- 俄军东线施压，乌军堡垒防线遭蚕食 - v.ifeng.com
-- 特朗普将发表全国讲话就 伊朗问题发布“重要更新” - v.ifeng.com
-- 美籍女记者在伊拉克遭不明身份人员绑架 - v.ifeng.com
-- 一“头”一“尾”，孤独症儿童的全生涯守护 - v.ifeng.com
-- 金融链主领航，智赋产业兴邦——中国银行山东分行以金融之力助推人工智能产业跃升 - 凤凰网
-- 没有V12的BMW M760Le，还符合豪华代名词吗？ - v.ifeng.com
-- 乌克兰选手夺冠奏响国歌，15岁俄罗斯体操运动员全程背对国旗 - v.ifeng.com
-- 张雪的“疯”，是对这个考编求稳时代的最大纠偏 - 凤凰网
+- ID. ERA 9X预售32.98万起，新势力没有的，他都有 - 凤凰网
+- 成都一凶宅第3次拍卖，起拍价仅为16.6万元，上一个买家因凑不齐钱悔拍 - 凤凰网
+- 英国冻结一中国公民及其关联公司超7.38亿元房产要求3个月内证明购房资金合法否则或面临资产被没收的风险 - 凤凰视频
+- 国家文物局：组织全国国有博物馆，逐件清点馆藏文物，全面核实账物相符情况 - 凤凰视频
+- 记者连线｜中国外交部批日本新型军国主义威胁地区和平稳定 - 凤凰视频
+- 孩子说话晚，再等等？孤独症干预切勿错过敏感期 - 凤凰网
+- 全球多Young观察丨工行数字人民币钱包的大湾区丝滑体验！ - 凤凰网
+- 驭见星海 共鉴未来 - 凤凰网
+- 甘肃陇南发布2026年中小学幼儿园春假放假安排 - 凤凰网
+- 为“少死几个人”不把爆款摩托卖给新手，张雪曾因此被投诉至市监局，发视频喊话：是否能从轻处罚 - 凤凰视频
+- 日本自卫队军官闯中国使馆，在野党领袖敦促政府向中国道歉 - 凤凰网
+- 世界杯上，美国和伊朗在这个情况下有望对打 - 凤凰网
+- 十方融海梨花教育入编2026“数据要素×”行业优秀案例 - 凤凰网
+- 市值缩水超270亿，押宝张雪机车的东鹏饮料跌麻了 - 凤凰网
+- 国务院国资委召开中央企业法治工作会议 - 凤凰网
+- 新乡支行再领罚单 广发银行去年被罚超亿元 - 凤凰网
 
 ## 财新网 (20 条)
-- 去见小海｜故事
-- 【公司速递】小米营收净利均创历史新高 为何机构仍下调其目标价？
-- 能“吹”能“武”能做官 “华夏吹埙第一人”将受审
-- 【市场动态】特朗普促盟友处理霍尔木兹海峡问题 伊朗重申愿意结束战争
-- 【市场动态】韩国3月出口继续飙升 伊朗冲突升级下芯片需求仍强劲
-- 【市场动态】浑水创始人在做空公司债ETF 以对冲AI冲击就业和经济的风险
-- 【市场动态】投资者一年来对特朗普关税政策的押注 都因一场伊朗战争冰消瓦解
-- 浦发银行2025年归母净利润同比增超10% 注重长三角区域策略
-- 【市场动态】OpenAI完成1220亿美元融资 估值达8520亿美元
-- 【市场动态】美欧因伊朗战争愈加离心 北约联盟裂痕加深
-- 【市场动态】联合国研究预计伊朗战争恐对阿拉伯国家造成近2000亿美元经济损失
-- 识破沉没成本效应｜以退为进的决策智慧③（完）
-- 黄金还是白菜：中国成熟制程的两种命运
-- 6大上市券商利润破百亿 券业经营业绩仅次于2015年牛市
-- 为何3月PMI大幅反弹
-- 能源内参｜美国平均油价突破每加仑4美元；2025年航空业持续“旺丁不旺财” 国有航司两亏一盈
-- 今日开盘：两市双双高开 沪指涨幅1.23%
-- 财新闻｜关于“龙虾”OpenClaw 最新风险提示
-- 人事观察｜三名地级行政区书记同日升任省级政府副职
-- T早报｜华为2025年销售收入增速放缓；英伟达向Marvell投资20亿美元；银河航天启动A股上市
+- 3月人事综述：省委常委兼任市委书记的若干模式
+- TCL拟93亿元收回旗下面板产线部分股权 广东国资套现
+- Anthropic不慎泄露编程应用Claude Code源代码 暂未涉大模型
+- 复星2025年巨亏背后：大幅减值非核心资产
+- 特朗普称或在两三周内结束伊战维持海峡通航并非美国责任
+- 造假高发、索赔增多 上海金融法院2025年虚假陈述案激增3倍
+- 2026盖尔德纳奖揭晓 冷冻电子断层技术等前沿生物技术获奖
+- 古巴3个月来首迎油轮 俄罗斯10万吨人道主义石油抵港
+- 经济学为什么总是充满争议
+- 以色列扬言再占黎巴嫩南部 称战争不会随美伊协议而停止
+- 两大上市AMC利润增长背后难掩隐忧 股权投资收益掩盖主业压力
+- 国家安全部：警惕可穿戴设备的信息泄露、泄密风险
+- 【市场动态】三星和SK海力士带动韩股强劲上涨 伊朗战争或将结束的预期升温
+- 【市场动态】伊朗战争令亚洲陷入能源紧缺困局 各国别无选择争相寻求俄罗斯原油
+- 【市场动态】多辆萝卜快跑无人计程车在武汉“不动如山” 引发群众报警
+- 【市场动态】原油期货小升且成交偏低 “数周内结束战争”说并未让市场吃下定心丸
+- 美国的贸易管制政策与中国应对
+- 国内航线燃油附加费调整方案落地：800公里以上航段翻五倍
+- 伦敦发展促进署：伦敦是中企全球扩张的理想跳板｜出海·专访
+- 《江南春》事件后，国家文物局推进馆藏文物逐件清点
 
 ## 央视网 (1 条)
 - 理响中国｜AI绘丰碑： 海天圆梦 - 央视网
 
-## BBC (15 条)
-- Israel says it will keep control over part of southern Lebanon after war with Hezbollah ends
+## BBC (20 条)
+- China is trying to play peacemaker in the Iran war - will it work?
+- Israel intensifies Lebanon attacks and hits areas not in Hezbollah's control
+- Russian military plane crash kills 29 in occupied Crimea
 - US journalist Shelly Kittleson kidnapped in Baghdad
-- Peacekeepers killed by roadside explosion in Lebanon, initial report finds
-- India begins counting more than a billion people in massive census
-- Italian Christmas meal tragedy turns into murder inquiry
+- Israel says it will keep control over part of southern Lebanon after war with Hezbollah ends
+- DR Congo declares national holiday after reaching World Cup for first time in 52 years
+- Divorced couples in Japan can now share custody of their children
+- Megan Thee Stallion taken to hospital during Moulin Rouge performance
+- Iran war economic shocks will last 'months', says Australia's PM
 - 'My six-year-old has nosebleeds': Chiang Mai air pollution sparks health fears
-- Tiger Woods to 'step away and seek treatment' after crash
+- Thousands lose their jobs in deep cuts at tech giant Oracle
 - Judge temporarily halts construction of Trump's White House ballroom
+- Peacekeepers killed by roadside explosion in Lebanon, initial report finds
+- Italian Christmas meal tragedy turns into murder inquiry
+- Tiger Woods to 'step away and seek treatment' after crash
 - US Army pilots who flew near Kid Rock's home suspended and then reinstated within hours
-- Tech giant Oracle makes 'significant' job cuts
 - King's state visit to US to go ahead in April, but no Harry meeting
-- 'Moonshots' and merch - what it's like to be on Florida's Space Coast ahead of Artemis launch
+- Billion-plus people, three million officials, 33 questions - India begins huge census
 - 'You're no longer my sister' - rows erupt as war divides Iranian families
-- 'A million things could go wrong' - why seizing Iran's uranium would be so risky for the US
-- Asia's migrant workers debate if Gulf jobs are worth deadly risk of Iran war
+- 'Moonshots' and merch - what it's like to be on Florida's Space Coast ahead of Artemis launch
 
 ## Reuters (11 条)
-- Wall Street soars as traders bet on potential war off-ramp - Reuters
-- Trump will personally go to Supreme Court for birthright citizenship case - Reuters
-- Rubio says Venezuela will ultimately need transition phase, free elections - Reuters
-- Judicial panel in Wisconsin dismisses lawsuit challenging state's congressional map - Reuters
-- Exclusive: US counterterror officials plan antifa summit, sources say - Reuters
-- Exclusive: SpaceX lines up 21 banks for mega IPO, code-named project Apex - Reuters
-- US consumer confidence rises, but job openings and hiring drop sharply - Reuters
-- Nike forecasts surprise sales drop as China weakness hurts turnaround efforts - Reuters
-- NY Fed appoints Citi CEO Jane Fraser to Federal Advisory Council - Reuters
-- FX payments startup OpenFX raises $94 million amid cross-border stablecoin push - Reuters
-- At least seven killed in Israeli strikes in Beirut area, Lebanon says - Reuters
+- Rubio says US can see 'finish line' on Iran war - reuters.com
+- Rubio says Venezuela will ultimately need transition phase, free elections - reuters.com
+- Judicial panel in Wisconsin dismisses lawsuit challenging state's congressional map - reuters.com
+- Trump will personally go to Supreme Court for birthright citizenship case - reuters.com
+- Wall Street soars as traders bet on potential war off-ramp - reuters.com
+- Exclusive: SpaceX lines up 21 banks for mega IPO, code-named project Apex - reuters.com
+- US consumer confidence rises, but job openings and hiring drop sharply - reuters.com
+- Serbian students, protesters clash with police in Belgrade - reuters.com
+- Nike forecasts surprise sales drop as China weakness hurts turnaround efforts - reuters.com
+- NY Fed appoints Citi CEO Jane Fraser to Federal Advisory Council - reuters.com
+- FX payments startup OpenFX raises $94 million amid cross-border stablecoin push - reuters.com
 
 ## NYTimes (20 条)
-- Iran War Live Updates: Trump Says U.S. Military Campaign to Wind Down and Plans National Address
+- Trump Says U.S. Military Campaign to Wind Down and Plans National Address
 - Putin’s Internet Blackout: A Chaotic Drive to Cut Off Russians From the World
 - U.S. Assures Colombian President Petro He Does Not Face Charges Right Now
+- The Fall of a Cambodian Money-Laundering Giant
+- Robot Taxis Stop in Traffic in Chinese City, Stranding Travelers
+- Israel’s Message to Southern Lebanon: Shiites Must Go
+- Albanese Urges Australians to Remain Calm Amid Fuel Crisis
+- 29 Killed in Russian Military Plane Crash in Crimea
+- U.S. Plans Military Expansion in Greenland
+- Here’s the latest.
+- Israelis Prepare to Celebrate Passover in Shadow of War
 - Where Million-Dollar Coastal Homes Glitter Near Metal Shacks
 - The Sailors Stranded in the Persian Gulf
 - In UK Prisons, Drones Fly In Contraband ‘As if by Uber Eats’
@@ -115,14 +135,6 @@
 - Narges Mohammadi Denied Treatment after Heart Attack in Iranian Prison, Husband Says
 - South Africa Sees Maritime Traffic Surge Amid Iran War
 - Forgoing Oversight of Iran War, G.O.P. Calls Hegseth to Testify on Budget
-- Here’s What Happened in the War in the Middle East on Tuesday
-- U.N. Peacekeepers in Lebanon Were Killed by Roadside Bomb
-- Is Social Media the New Tobacco?
-- Confident of Air Supremacy, U.S. Sends B-52 Bombers Over Iran
-- Trump Seeks to Redefine ‘Regime Change’ in Iran War
-- Trump Shares Video of Bombing in Iranian City of Isfahan
-- Why Australia Enshrined ‘a Succulent Chinese Meal’ Rant in Its Archive
-- US Journalist Shelly Kittleson Was Abducted in Iraq, Officials Say
 
 ## CNN (6 条)
 - 0% intro APR until 2024 is 100% insane
@@ -133,120 +145,149 @@
 - Want Cash Out of Your Home? Here Are Your Best Options
 
 ## 微博热搜 (20 条)
-- 从指甲看主角是真穷
-- 浙创投为张雪机车投资9000万
-- 雄安大脑赋能智慧城市
-- 甲骨文凌晨6点突发裁员3万人
-- 月鳞绮纪开播
-- 伊朗愿意结束战争
-- 王者新赛季竟然可以种田
-- 刷取餐码出了地铁站
-- 邓超称4月4日五哈播不了了
+- 有线耳机爆火原因
+- 你的公积金悄悄变多了
+- 4月1日起一批国家标准开始实施
+- 全新速腾S 7.98万起上市
+- 以色列决定报复法国
+- 369休息
+- 女教师被拖行5.9公里致死已两度尸检
+- 手机售后维修价格谁最良心
+- 时代少年团愚人节互发
+- 法国豪门弃子34岁终夺冠致谢张雪
+- 济南首台张雪机车夺冠车型受损
+- 官方通报1岁男童疑输液后抽搐去世
+- 网易云封号
+- 芭乐 早知道烂地里了
+- 成都一凶宅第三次拍卖起拍价16.6万
+- 特朗普认真考虑美退出北约
+- 周深新歌禁止用于AI训练
 - 优思益
-- 男子靠AI开一人公司年营收达150万
-- 李荣浩否认抄袭
-- 肖战陌森 到期
-- 打耳洞时先戴上耳机
-- 被杜海涛沈梦辰追着要合影
-- 张凌赫改了自动回复
-- 销冠澳洲优思益竟是假进口
-- 够爱作词人拒绝授权曾沛慈演唱
-- 美国一架F35战机坠毁
-- 央视曝光伪进口保健品
+- 婚前立遗嘱小伙称房子掏空父母积蓄
+- 孙俪回应蒋欣
 
-## 知乎热榜 (5 条)
-- Claude Code 源码深度解析 - 知乎
-- OpenAI 启动「智力红利」补贴计划，不问蠢问题即可获赠订阅费；最新出土古籍记载诸葛亮北伐或有百斤「方便面」助阵；惊喜表情包限时回归丨早报20260401 - 知乎
-- AI 四大王：豆包、DeepSeek、Kimi、OpenClaw 究竟什么关系？深度解析 2026 中国 AI 生态 - 知乎
-- 苹果公司究竟有什么底气能让现在的 iPhone 一直保持挤牙膏？ - 知乎
-- AutoDL 使用全攻略：从新手到熟练，租 GPU 高效完成 AI 任务 - 知乎
+## 知乎热榜 (17 条)
+- 为什么老虎的头比猫大很多，但并没有比猫聪明多少？
+- 抖音上有个能控制苍蝇的人，那视频看了几遍都不像 ai，难道真的有人可以驯服……类似苍蝇这样的生物吗？
+- 为什么巴赫被音乐界奉为神明？
+- 瞎扯 · 如何正确地吐槽
+- 鸟类真的会「记住」对它们不好的人吗？
+- 为什么蝙蝠是唯一能真正飞行的哺乳动物？
+- 夏威夷果是如何引进的？
+- 瞎扯 · 如何正确地吐槽
+- 网传冰箱贴一直不挪会伤害冰箱，有科学依据吗？冰箱贴到底该怎么贴？
+- 为什么越接近现代动物的体型越小，而史前却有很多身形巨大的动物？
+- 马和牛都只吃素，为何它们这么壮？
+- 为什么现在的飞机更颠簸了？
+- 是奴隶主养活了奴隶，还是奴隶养活了奴隶主？
+- 捏住老虎的后颈肉，它会像猫咪一样乖巧顺从吗？
+- 瞎扯 · 如何正确地吐槽
+- 有没有古人写诗时用了典故，结果诗传下来典故没传下来这种情况？
+- 瞎扯 · 如何正确地吐槽
 
 ## B站热门 (20 条)
-- 《黑色Doctor Drop》保质期七天的侵略者！
-- 噩耗！网红辛吉飞倒地抽搐，口歪眼斜倒沫子了？！【网络狠人88】
-- 如与现实不符，请以现实为准。
-- 民警两小时帮助群众找回遗失的手机后......网友：警民一家亲！
-- 陈翔六点半：有人谈感情，有人说买卖，有人看笑话
-- 为什么车企都在疯狂造增程？“没电不行”的顽疾能被治好吗？
+- ⚡对 对 子 战 神 2⚡
+- 鸟，为什么会飞？
+- 《忘本》
+- 《崩坏：星穹铁道》动画短片：「Never Gonna Give You Up」
+- 华语乐坛又迎新法师？李荣浩教科书级撕X！【单依纯事件细盘深扒】
+- 永 劫 无 间 取 消 愚 人 节
+- 逆战未来X猪猪侠联动 | 暴风猪甲闪亮登场！
+- 原创不让你唱，你唱不唱？
+- 4月1日25点更新丨生化模式即将来袭！
 - “4月1号才是情人节，2月14号才是愚人节”
-- 有梦想就去追 因为勇敢 我的人生更精彩！  2006年湖南卫视《晚间新闻》 采访怀化麻阳小伙张雪 完整版
-- 你们要的《爱情公寓》！！！终于来了！
-- 全美爆发反特大游行，奸臣已经自己跳出来了
-- 去了一趟英国-李四维篇
-- 【鬼谷闲谈】墨西拿盐度危机：那一年，地中海干了……
-- 抽象新闻：3月人类迷惑行为大赏（中）
-- 特朗普总能整出新花样
-- 李荣浩手撕单依纯！老实人真被逼急了！
-- 《关于公司只养闲人这件事》
-- 鲸的器官都是XXXXXL号的？为何须鲸能演化成百吨巨兽？【兽族时代】 #古兽篇19
-- 【边狱×宝宝巴士✓】 孩子们？孩子们！！！——  愚人节活动剧情汉化
+- 第一次演电影，有点紧张～
 - 《 Cos 商 鞅 》
-- 【央视新闻专访张雪机车创始人】那个有梦就追的少年
+- 你们要的《爱情公寓》！！！终于来了！
+- 李荣浩手撕单依纯！老实人真被逼急了！
+- 【IGN】《鸣潮》共鸣者「绯雪」、「达妮娅」演示
+- 为啥日本政治右转，自卫队却招不到兵？
+- 丧尸：拿我突破极限是吧？！
+- 陈翔六点半：有人谈感情，有人说买卖，有人看笑话
+- 特朗普总能整出新花样
+- 噩耗！网红辛吉飞倒地抽搐，口歪眼斜倒沫子了？！【网络狠人88】
 
 ## 抖音热搜 (20 条)
-- 四月第一天
-- 女科学家硬核跨界做短剧课堂
-- 四月起这些新规影响你我生活
-- 海空卫士王伟牺牲25周年
-- NASA即将发射载人绕月飞行器
-- 意大利连续3届无缘世界杯
 - 东鹏饮料怎么了
-- 张雪机车为什么能成功
+- 台湾掀“抢塑潮” 国台办回应
+- 电池有了专属“身份证”
+- 下周国内成品油价格将调整
+- 四月第一天
+- 因为勇敢我的人生更精彩
+- 一口尝到春茶的味道
+- 美加墨世界杯48支参赛球队确定
+- 海空卫士王伟牺牲25周年
+- 法国车手感谢张雪机车成就梦想
 - 詹姆斯开场追帽米切尔
-- 开拓者官宣易主
-- 碘伏洗头能控油去屑吗
-- 张雪：正在筹备达喀尔拉力赛
 - 日本1:0英格兰
-- 全面开展国有馆藏文物盘库清点
-- 苑举正解读郑丽文将访问大陆
-- 瑞典3:2波兰重返世界杯正赛
-- 孙俪吴慷仁危险关系开播
-- 陈妍希工作室发文
-- 月鳞绮纪开播
-- 先让自己乐起来
+- ClaudeCode源码泄露
+- 意大利连续3届无缘世界杯
+- 法国车手感谢张雪
+- 庞峥麟三连CBA月最佳星锐球员
+- 伊朗愿在诉求满足下结束战争
+- 安布罗西尼评意大利出局
+- 孙颖莎回应晋级世界杯16强
+- 李荣浩：我没有抄袭
 
 ## 雪球热帖 (20 条)
-- 陈姓股民向*ST声迅发起索赔 刘彦梅律师接受咨询 - 新浪财经
-- 蓝姓股民向巨力索具发起索赔 牛彬律师接受咨询 - 新浪财经
-- 国泰海通晨报 - 新浪网
-- 今日A股市场重要快讯汇总｜2026年4月1日 - 新浪财经
+- 陈姓股民向巨力索具发起索赔 许峰律师接受咨询 - 新浪财经
+- 宋姓股民向ST司特发起索赔 宋一欣律师接受咨询 - 新浪财经
+- 滕姓股民向退市苏吴发起索赔 张云律师接受咨询 - 新浪财经
 - 新浪财经隔夜要闻大事汇总：2026年4月1日 - 新浪财经
-- 每日晨报 - 新浪网
-- 中银晨会聚焦 - 新浪网
-- 抗癌药物板块走强 广生堂涨停 - 新浪财经
-- 电子布板块走强 中国巨石涨幅居前 - 新浪财经
-- 阿尔茨海默板块大涨 百普赛斯涨幅居前 - 新浪财经
-- 金融地产ETF汇添富（159931）涨0.99%，半日成交额83.53万元 - 新浪财经
-- 晨会 - 新浪网
-- 上证50ETF博时（510710）涨1.62%，半日成交额182.71万元 - 新浪财经
-- 央企改革ETF华夏（512950）涨0.88%，半日成交额1230.87万元 - 新浪财经
-- 国晟科技2026年4月1日涨停分析：新能源布局+股权激励+质押比例降低 - 新浪财经
-- A500ETF富国（563220）涨1.40%，半日成交额2.62亿元 - 新浪财经
-- 船舶ETF富国（560710）涨1.14%，半日成交额9174.51万元 - 新浪财经
-- 电网设备ETF易方达（560390）涨0.43%，半日成交额5302.58万元 - 新浪财经
-- 科创创业人工智能ETF工银（588430）涨2.91%，半日成交额1582.73万元 - 新浪财经
-- 电池ETF招商（561910）跌0.48%，半日成交额1.50亿元 - 新浪财经
+- 今日A股市场重要快讯汇总｜2026年4月1日 - 新浪财经
+- 粤开市场日报 - 新浪网
+- 正元智慧临时股东会通过担保调整议案 同意率99.94%反对率0.05% - 新浪财经
+- 克莱特临时股东会通过闲置募集资金现金管理议案 同意率100% - 新浪财经
+- 从数字经济到智能经济 - 新浪财经
+- 大禹节水临时股东会通过多项议案 关联交易预计议案同意率96.19% - 新浪财经
+- 4年亏5亿、市值跌掉95%，“两轮版特斯拉”跌落神坛 - 新浪财经
+- 芝麻AI速递：昨夜今晨财经热点要闻｜2026年4月1日 - 新浪财经
+- 关于终止为德邦物流股份有限公司提供证券交易所市场登记服务的公告 - 新浪财经
+- 中远海能(600026)：计费错期影响Q4利润 后续补库开启弹性可期 - 新浪网
+- 涛涛车业(301345)公司信息更新报告：2025Q4业绩增长提速 看好LSEV核心基本盘高增&关注智能新品类逐步落地 - 新浪网
+- 广发证券(000776)2025年年报点评：ROE重回10% 财富管理与自营业务共振向上 - 新浪网
+- ETF日报：在AI大科技浪潮下，医药有望释放新的成长逻辑，脑机接口、AI医疗等也在快速发展 - 新浪财经
+- 天弘现金管家货币年报解读：份额暴增82.41% 净利润下滑33.37% 费率下调引关注 - 新浪财经
+- 上市首月交出高质量销量答卷 岚图汽车3月交付15019辆 同比增长50% - 新浪财经
+- 费用 市场回暖下“双费”提升 公募让利投资者大势不改 - 新浪财经
 
-## 36氪 (15 条)
-- PathFinder recently completed an angel round of financing worth tens of millions of yuan. - 36 Kr
-- Xianglu Robotics hat eine Finanzierung in Höhe von 300 Millionen Yuan abgeschlossen. - 36 Kr
-- OpenAI completed a $122 billion financing round and is now valued at $852 billion. - 36 Kr
-- DigClaw secures angel round financing - 36 Kr
-- PathFinder hat kürzlich eine Angel-Runde-Finanzierung im Wert von mehreren Millionen Yuan abgeschlossen. - 36 Kr
-- Xianglu Robotics completed a financing of 300 million yuan. - 36 Kr
-- DigClaw hat eine Angel-Runde Finanzierung erhalten. - 36 Kr
-- OpenAI hat eine Finanzierung in Höhe von 122 Milliarden US-Dollar abgeschlossen und hat einen Marktwert von 852 Milliarden US-Dollar erreicht. - 36 Kr
-- OpenAI完成1220亿美元融资，估值达8520亿美元 - 36 Kr
-- Future Tech | 几步能将初创公司“塞进”世界人工智能大会？ - 36 Kr
-- “DigClaw”获天使轮融资 - 36 Kr
-- “PathFinder”近日完成数千万元天使轮融资 - 36 Kr
-- “橡鹿机器人”完成3亿元融资 - 36 Kr
-- 36氪企业全情报：AI舆情大数据助力投资决策快人一步 - 36 Kr
-- 全球首款AI笔记戒指Vocci Ring开启预售，揭秘AI agent入口最短路径|最前线 - 36 Kr
+## 36氪 (20 条)
+- 城投控股：股东拟减持不超3%公司股份
+- 东鹏饮料：拟以10亿元—20亿元回购公司股份
+- 东威科技：董事危勇军拟减持不超0.5%公司股份
+- 《2025年中国专利调查报告》发布，企业发明专利产业化率达54.0%
+- DRAM价格3月涨势稍歇，但预计Q2继续上涨
+- 宁波港：2025年净利润51.68亿元，同比增长5.63%
+- 12家企业宣布无限Token计划，支持深度使用飞书AI产品
+- 单季度首破100万辆次，“北上”港澳单牌车创历史同期新高
+- 长城汽车：3月总计销量10.62万台，同比增长8.38%
+- 光华科技：董事蔡雯因涉嫌内幕交易被证监会立案
+- 浙江建投：子公司中标约14亿港元项目
+- 甘肃能化：拟筹划收购金昌化工100%股权，股票4月2日起停牌
+- 机构今日买入神剑股份等19股，卖出中利集团7290万元
+- 喜临门：因涉嫌信息披露违法违规被证监会立案
+- 文远知行和Grab启动新加坡自动驾驶出行服务
+- 赛力斯：3月新能源汽车销量同比增长20.74%
+- 比亚迪：1-3月新能源汽车销量700463辆，同比下降30.01%
+- 沪电股份：计划约68亿元建设印制电路板生产项目及其配套设施
+- 国务院食安办等三部门核查跨境电商进口“优思益”违规营销行为
+- 谷歌旗下YouTube面临禁令要求，禁止面向儿童投放人工智能生成视频
 
-## 虎嗅 (2 条)
+## 虎嗅 (12 条)
+- 虎嗅网 - 虎嗅
+- 宝马中国2026年换帅，新CEO面临销量下滑与体系失灵挑战 - 虎嗅
+- 张雪机车夺冠后称重庆政府 - 虎嗅
+- 宝马中国2026年换帅，新CEO面临销量下滑与体系失灵挑战 - 虎嗅
+- 国际教育从精英主义转向实用主义，学术成绩成家长首要关注点 - 虎嗅
 - 智谱AI 2025年财报：收入7.24亿元同比增长131.9%，研发投入达31.8亿元 - 虎嗅
+- 武汉自动驾驶车辆集体瘫痪事件暴露L4级技术系统性风险 - 虎嗅
 - 英国航空加入免费机上WiFi行列，星链技术推动全球航司网络升级 - 虎嗅
+- 梅西起诉中国跨境卖家侵权索赔千万美元 - 虎嗅
+- A股3月收官：沪指月跌6.51% 商业航天与国产摩托成亮点 - 虎嗅
+- HBM之父预测AI芯片架构将从GPU主导转向内存主导 - 虎嗅
+- 美国3月消费者通胀预期升至5.2% 受中东冲突推高油价影响 - 虎嗅
 
-## 少数派 (1 条)
+## 少数派 (3 条)
+- 本月玩什么｜失落星船：马拉松、Pokémon Pokopia 等
+- Agent 的家：如何在 AI 时代搭建硬件基座
 - 派早报：Claude Code 源码意外泄露、OpenAI 获 1220 亿美元融资等
