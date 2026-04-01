@@ -496,6 +496,21 @@ def _build_news_text(news_items: list[dict], include_summary: bool = True) -> st
     return news_text
 
 
+def _load_history_titles(days: int = 3) -> str:
+    """加载近几天的历史新闻标题，供 AI 判断持续性热点"""
+    lines = []
+    today_dt = datetime.now(BJT).date()
+    for i in range(1, days + 1):
+        past_date = (today_dt - timedelta(days=i)).strftime("%Y-%m-%d")
+        titles_path = REPORTS_DIR / f"{past_date}-raw-titles.md"
+        if titles_path.exists():
+            content = titles_path.read_text(encoding="utf-8")
+            lines.append(content)
+        else:
+            lines.append(f"# {past_date}：无数据\n")
+    return "\n".join(lines)
+
+
 def ai_filter_news(news_items: list[dict]) -> list[dict]:
     """用 AI 大模型筛选重大新闻，带内容安全过滤重试机制"""
     if not ZHIPU_API_KEY:
@@ -504,6 +519,10 @@ def ai_filter_news(news_items: list[dict]) -> list[dict]:
 
     system_prompt = load_prompt("filter_news.md")
     user_prompt_template = load_prompt("filter_news_user.md")
+
+    # 加载近三天历史标题
+    history_text = _load_history_titles(days=3)
+    logger.info(f"📚 已加载历史新闻标题（{len(history_text)} 字符）")
 
     client = OpenAI(
         api_key=ZHIPU_API_KEY,
@@ -525,6 +544,7 @@ def ai_filter_news(news_items: list[dict]) -> list[dict]:
             date=TODAY,
             count=len(strategy["items"]),
             news_text=news_text,
+            history_text=history_text,
         )
 
         logger.info(f"🤖 AI 筛选第 {attempt + 1} 次尝试：{strategy['name']}（{len(strategy['items'])} 条，{len(news_text)} 字符）")
