@@ -538,6 +538,7 @@ def ai_filter_news(news_items: list[dict]) -> list[dict]:
                 ],
                 temperature=0.3,
                 max_tokens=16000,
+                response_format={"type": "json_object"},
             )
             content = response.choices[0].message.content.strip()
             finish_reason = response.choices[0].finish_reason
