@@ -42,6 +42,18 @@ def build():
     # 写入索引
     index_path = SITE_DATA_DIR / "reports-index.json"
     index_path.write_text(json.dumps(index, ensure_ascii=False, indent=2), encoding="utf-8")
+
+    # 生成内联数据 JS（兼容 file:// 本地打开）
+    all_data = {}
+    for entry in index:
+        date = entry["date"]
+        data_file = SITE_DATA_DIR / f"{date}.json"
+        if data_file.exists():
+            all_data[date] = json.loads(data_file.read_text(encoding="utf-8"))
+    js_content = f"window.__NEWS_INDEX__ = {json.dumps(index, ensure_ascii=False)};\n"
+    js_content += f"window.__NEWS_DATA__ = {json.dumps(all_data, ensure_ascii=False)};\n"
+    (SITE_DATA_DIR / "all-data.js").write_text(js_content, encoding="utf-8")
+
     print(f"✅ 构建完成: {len(index)} 份日报, 索引已写入 {index_path}")
 
 

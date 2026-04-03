@@ -5,54 +5,61 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>重大新闻挖掘器</title>
+    <link rel="icon" type="image/svg+xml" href="favicon.svg">
     <link rel="stylesheet" href="style.css">
 </head>
 
 <body>
-    <div class="container">
-        <!-- 顶栏 -->
-        <header class="header">
-            <div class="header-left">
-                <h1 class="logo">📰 新闻挖掘器</h1>
-            </div>
-            <div class="header-right">
-                <button class="theme-toggle" id="themeToggle" aria-label="切换主题">
-                    <span class="icon-light">☀️</span>
-                    <span class="icon-dark">🌙</span>
-                </button>
-            </div>
-        </header>
-
-        <!-- 近三天大新闻 -->
-        <section class="section" id="recentSection">
-            <h2 class="section-title">近三天大新闻</h2>
-            <div class="news-list" id="recentNews">
-                <div class="empty-state">
-                    <p>加载中...</p>
+    <div class="app">
+        <!-- 固定顶部区域 -->
+        <div class="sticky-top">
+            <header class="header">
+                <div class="header-inner">
+                    <h1 class="logo">📰 新闻挖掘器</h1>
+                    <button class="theme-toggle" id="themeToggle" aria-label="切换主题">
+                        <span class="icon-light">☀️</span>
+                        <span class="icon-dark">🌙</span>
+                    </button>
                 </div>
+            </header>
+            <nav class="tabs">
+                <div class="tabs-inner">
+                    <button class="tab active" data-tab="recent">近三天大新闻</button>
+                    <button class="tab" data-tab="archive">📁 归档新闻</button>
+                </div>
+            </nav>
+        </div>
+
+        <!-- 可滚动内容区 -->
+        <main class="content" id="scrollArea">
+            <div class="container">
+                <section class="tab-panel active" id="panelRecent">
+                    <div class="news-list" id="recentNews">
+                        <div class="empty-state"><p>加载中...</p></div>
+                    </div>
+                </section>
+                <section class="tab-panel" id="panelArchive">
+                    <div class="archive-tree" id="archiveTree">
+                        <div class="empty-state"><p>加载中...</p></div>
+                    </div>
+                </section>
+                <footer class="footer">
+                    <p>重大新闻挖掘器 · AI 自动筛选现象级新闻</p>
+                    <p class="update-schedule">每日北京时间 07:30 · 12:30 · 19:30 自动更新发布</p>
+                </footer>
             </div>
-        </section>
+        </main>
 
-        <!-- 历史归档 -->
-        <section class="section" id="archiveSection">
-            <h2 class="section-title">📁 归档大新闻</h2>
-            <div class="archive-list" id="archiveNews"></div>
-        </section>
-
-        <!-- 新闻详情弹窗 -->
+        <!-- 弹窗 -->
         <div class="modal-overlay" id="modalOverlay">
-            <div class="modal" id="newsModal">
+            <div class="modal">
                 <button class="modal-close" id="modalClose" aria-label="关闭">✕</button>
                 <div class="modal-content" id="modalContent"></div>
             </div>
         </div>
-
-        <footer class="footer">
-            <p>重大新闻挖掘器 · AI 自动筛选现象级新闻</p>
-            <p class="update-schedule">每日北京时间 07:30 · 12:30 · 19:30 自动更新发布</p>
-        </footer>
     </div>
 
+    <script src="data/all-data.js"></script>
     <script src="app.js"></script>
 </body>
 
