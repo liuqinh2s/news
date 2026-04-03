@@ -2,34 +2,96 @@
   "date": "2026-04-03",
   "news": [
     {
-      "title": "美伊冲突升级",
-      "summary": "美国与伊朗冲突持续升级，特朗普宣布对伊朗基础设施实施打击，包括卡拉季大桥等重要设施。伊朗外长称美以军事行动是局势紧张主因，伊朗仍在\"防御\"状态。联合国警告中东局势处于更大战争边缘，多国呼吁停火。美伊冲突已持续一个月，对全球能源供应和地区稳定造成严重影响。",
-      "reason": "美伊冲突持续升级，威胁全球能源安全与地区稳定",
+      "title": "马兴瑞被查",
+      "summary": "中央政治局委员马兴瑞因涉嫌严重违纪违法接受调查。马兴瑞曾任新疆维吾尔自治区党委书记、广东省省长等职，是近年来被查的最高级别官员之一。此次调查表明反腐败斗争持续深入，对党政高级干部形成有力震慑。马兴瑞被查将对其曾任职地区的政治生态产生深远影响，也彰显了党中央全面从严治党的坚定决心。",
+      "reason": "中央政治局委员被查，显示反腐败斗争持续深入",
       "impact_areas": [
-        "地缘",
-        "经济金融",
         "政治"
       ],
-      "impact_level": "现象级",
+      "impact_level": "重大",
       "sources": [
         {
           "name": "凤凰网",
-          "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE82cTJXMVZpVVY2bHJoU2I4dXAtdjRoSE9jbzlqbmhLNkM3RG9lVjNzUnZpUzZtcTc5YnViQWlyV3FldmRKa1pjWQ?oc=5"
+          "url": "https://news.ifeng.com/c/8s1hUkyK4zX"
         },
         {
-          "name": "央视网",
-          "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFA5eFJmaTJHNDl1eWo5N1duS3A2NUptNk1FS2RWTE1qM2h3LWdSY1d1cG9LaE0wLWVqLTRsdEVLWVp0MU90dm1JdlhBaHdkVDdrTThJTXhlSXBEaGhGTTV5Q3JpcDZYRENNTVVCSDZPX05jNTlnTTEzMA?oc=5"
-        },
-        {
-          "name": "NYTimes",
-          "url": "https://www.nytimes.com/live/2026/04/02/world/iran-war-trump-news"
+          "name": "财新网",
+          "url": "https://china.caixin.com/2026-04-03/102430695.html"
         }
       ]
     },
     {
-      "title": "SpaceX载人绕月任务",
-      "summary": "美国载人绕月任务Artemis II火箭成功发射升空，这是人类自1972年以来首次离开地球轨道。该任务不仅是科学探索，也是美中太空竞争的一部分。中国也在积极推进月球探测计划，两国在太空领域的竞争日益加剧。此次任务的成功标志着美国重返月球计划的重要一步。",
-      "reason": "美中太空竞争加剧，载人绕月任务取得重大进展",
+      "title": "伊朗战争持续升级",
+      "summary": "伊朗称再次击落美军F-35战斗机，并展开'真实承诺-4'第91轮行动，针对特拉维夫和海法目标。特朗普威胁将打击更多伊朗基础设施，包括桥梁和发电厂。美军'福特'号航母已离开克罗地亚港口，英国召集40余国筹划重开霍尔木兹海峡。伊朗两大钢铁厂因空袭关闭，战争已导致全球能源市场动荡，油价持续上涨。",
+      "reason": "美伊冲突升级，全球能源安全面临严峻挑战",
+      "impact_areas": [
+        "地缘",
+        "经济金融"
+      ],
+      "impact_level": "现象级",
+      "sources": [
+        {
+          "name": "央视网",
+          "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9kVUJ2di1YUUp4Z0RwT0VBSlM4cHAzdWFKd3VueHNHaGNPRmJkWXpJRzlBa19xV25BODdaRkhxM0lhZVNkR2c2ZkV2dVFoelNPbkU3WjVHeTJHQ1RpZmp5a01fYTNzNXdxcXVsTXhrZ0owN2xvMU12Nw"
+        },
+        {
+          "name": "财新网",
+          "url": "https://international.caixin.com/2026-04-03/102430640.html"
+        },
+        {
+          "name": "BBC",
+          "url": "https://www.bbc.com/news/articles/c1w4pdexxqpo?at_medium=RSS&at_campaign=rss"
+        }
+      ]
+    },
+    {
+      "title": "缅甸敏昂莱当选总统",
+      "summary": "缅甸军方领导人敏昂莱在军方控制的议会选举中当选为新任总统。敏昂莱是在2021年政变后上台的军方领导人，此次选举标志着缅甸军方在政变五年后进一步巩固了政治控制。国际社会普遍谴责此次选举缺乏公正性，联合国及多国表示不承认选举结果。缅甸自政变以来陷入内战，冲突已造成大量人员伤亡和人道主义危机。",
+      "reason": "军方领导人正式上台，缅甸政治格局固化",
+      "impact_areas": [
+        "政治",
+        "地缘"
+      ],
+      "impact_level": "重大",
+      "sources": [
+        {
+          "name": "财新网",
+          "url": "https://international.caixin.com/2026-04-03/102430702.html"
+        },
+        {
+          "name": "BBC",
+          "url": "https://www.bbc.com/news/articles/c1782nk0018o?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "name": "NYTimes",
+          "url": "https://www.nytimes.com/2026/04/03/world/asia/myanmar-president-min-aung-hlaing.html"
+        }
+      ]
+    },
+    {
+      "title": "SpaceX秘密筹备IPO",
+      "summary": "据报道，SpaceX已秘密提交IPO文件，估值可能超过1.75万亿美元。公司已与21家银行达成合作，为小投资者参与IPO做准备。此次IPO将是史上规模最大的科技企业上市之一，预计将重塑全球资本市场格局。SpaceX近年来在火箭发射、星链计划和载人航天领域取得突破性进展，马斯克个人财富也将因此大幅增长。",
+      "reason": "估值或超1.75万亿美元，将成史上最大科技IPO",
+      "impact_areas": [
+        "科技",
+        "经济金融"
+      ],
+      "impact_level": "重大",
+      "sources": [
+        {
+          "name": "Reuters",
+          "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNZ2RQLU85VDlOWmJFUWxWMXVQSHZ3UmNCYlhoSVlReEhKeDNQNUVuOUNiWnBPYzYxbDY3X1JqdG9ycTBvZWdiT0R1dkQxckNGSVF6Z2tBVFZvQU14dXpkTXI5ckozV3F1a3ZCRlBLUkw3X2FEWXUyVzZlNXF1NnI2M0hDQTNtTUJWX1pMQllfU1VkWVVkZm5Xbk1BcV9VRmtpNkQyd2JjY2RUTEpYUV9OMldsaUxTc3hxdzNNVlFncUN3V2ZoMVNCX09QRDI"
+        },
+        {
+          "name": "雪球热帖",
+          "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5VSV9TcnVfeFdZUm9sTHlwNEQxMU1SYjJzTEl5UHhXd0xQVnY3WWRyRTJGZmwwQVlUTGg5ZGcxNV96ZHg0d3FickRkdEZ5b2dPeUpUOFRMRXhmd2ljSE9rWEpPd18yUmlWYktwN0ZRTHFoS2YydnNwUg"
+        }
+      ]
+    },
+    {
+      "title": "Artemis II绕月任务成功",
+      "summary": "美国Artemis II载人绕月任务成功离开地球轨道，前往月球远侧。这是人类首次载人前往月球远侧，标志着深空探索的重要里程碑。任务包括四名宇航员，计划在月球轨道停留数日后返回地球。此次任务的成功为未来月球基地建设和火星探索奠定基础，也展示美国在太空竞赛中的领先地位。",
+      "reason": "首次载人前往月球远侧，深空探索里程碑",
       "impact_areas": [
         "科技",
         "地缘"
@@ -42,62 +104,14 @@
         },
         {
           "name": "Reuters",
-          "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPa1NwMFRHeFJxc1JuWEd6SFBYX3lRWUt2dHd1bFc0MUFZaGlFQkJZcDJ1SEc4NFRraFRUd29PMGNYOGFjMS1QNm1xdjFNSnRFMGlURDU0QWVVSG1fUGxIN1JhOHhPQy1JaFNJZnRkVXY2bm1TSjFLODl1N2x0dUZFSk5Lck5vTlBaVjNLc2lqS1pwR19oNDkydkxXdEVnTUU?oc=5"
-        },
-        {
-          "name": "NYTimes",
-          "url": "https://www.nytimes.com/2026/04/02/world/space-artemis-us-china-trump-iran-pam-bondi.html"
+          "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPa1NwMFRHeFJxc1JuWEd6SFBYX3lRWUt2dHd1bFc0MUFZaGlFQkJZcDJ1SEc4NFRraFRUd29PMGNYOGFjMS1QNm1xdjFNSnRFMGlURDU0QWVVSG1fUGxIN1JhOHhPQy1JaFNJZnRkVXY2bm1TSjFLODl1N2x0dUZFSk5Lck5vTlBaVjNLc2lqS1pwR19oNDkydkxXdEVnTUU"
         }
       ]
     },
     {
-      "title": "数字人民币大湾区推广",
-      "summary": "中国工商银行数字人民币钱包在大湾区实现丝滑体验，标志着数字人民币在跨境支付领域取得重要进展。数字人民币作为央行数字货币，正在加速推广和应用，有望改变全球支付格局。大湾区作为改革开放前沿，成为数字人民币跨境应用的重要试验场。",
-      "reason": "数字人民币跨境应用取得重大进展，改变全球支付格局",
-      "impact_areas": [
-        "科技",
-        "经济金融"
-      ],
-      "impact_level": "重大",
-      "sources": [
-        {
-          "name": "凤凰网",
-          "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQUDBCZGxYZEdOa19aVUt5VEdyc3B2akpFV25fdnZrNFUwR255N3N5T21UWTRjUEpXZHE2YlJOZ3NqcS15YlV1VGkweFg0MUZhOEQxSmZPTlRSUmZERUh4cnFnTlhMT0VncDdHWV9XNHhDX0pjb3h0NThYbEVITXpsa3lkOUs?oc=5"
-        },
-        {
-          "name": "央视网",
-          "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9Vby1Gbzhsaktkb3VKbHdFS0JKeHUzT0lXUjBlUWhVNFNobWgwMGhHQy11bkZiV01NQmVDUlpscGl0cmxXbDgyVDBKN1h5LVJtRDA2QXluTXBrNk9ZeG01MUNnbjFOdnpEb0dqMWVDRDQ0NjZremtObQ?oc=5"
-        }
-      ]
-    },
-    {
-      "title": "优思益营销违规",
-      "summary": "国务院食安办、市场监管总局、海关总署联合约谈抖音、淘天、小红书等平台企业，涉\"优思益\"违规营销等问题。\"老爸评测\"就优思益事件道歉，声明可退一赔三。此事引发对网络营销规范和消费者权益保护的广泛关注，监管部门加强对网络营销行为的监管力度。",
-      "reason": "网络营销违规引发监管加强，消费者权益保护受关注",
-      "impact_areas": [
-        "社会",
-        "经济金融"
-      ],
-      "impact_level": "重大",
-      "sources": [
-        {
-          "name": "财新网",
-          "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1ZRDIyR0RISEZreFhjSEdrNmhtNHAyY3BuOTBKb1RkYzlzdHFWa3lwUjhBTU1Hc0k5RzRDU2taanlQaW9uU0JwamhaVUJLaW1wWDh3UldEM2hheVZvY0E?oc=5"
-        },
-        {
-          "name": "凤凰网",
-          "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTFBqWGU0eHBmRm54V2pOT3pYZl9kUnR0U3pSdlZPNVh0b2xQMno4c19yNEoyaGVwN0Jkc2dEb1Y4TXM3M2pobnpVelFCbjA?oc=5"
-        },
-        {
-          "name": "微博热搜",
-          "url": "https://s.weibo.com/weibo?q=%23老爸评测就优思益事件道歉%23"
-        }
-      ]
-    },
-    {
-      "title": "韩国导演遇害案",
-      "summary": "韩国40岁导演遭围殴致死引发众怒，施暴者大笑并抢夺报警手机。此案引发韩国社会对暴力行为的强烈谴责，也暴露了韩国社会治安问题。韩国警方已介入调查，案件引发公众对韩国社会安全和司法公正的关注。",
-      "reason": "韩国导演遇害案引发社会对暴力与治安问题的关注",
+      "title": "张雪机车慈善拍卖",
+      "summary": "张雪宣布将拍卖其比赛车辆的复刻版，所得款项将全部捐赠给嫣然天使基金。此前张雪曾收到陈光标赠送的千万豪车，但她选择将其8折出售后捐出。张雪的机车事业在夺冠后持续引发关注，此次慈善行动进一步提升了其社会形象。工作人员表示，复刻版车辆的生产时间将根据实际情况确定。",
+      "reason": "冠军机车拍卖筹款，彰显社会责任感",
       "impact_areas": [
         "社会"
       ],
@@ -105,74 +119,34 @@
       "sources": [
         {
           "name": "凤凰网",
-          "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE5qREFFaEVPcVllQ25kNlFtcnBfQ012V1g2U2F3MGhRTENWNXFDOGJpeTdFaFJTcnJ4S0t2THdCN3Y3NEoyNFBMY2lVUG0?oc=5"
+          "url": "https://news.ifeng.com/c/8s1iM5bZUOC"
         },
         {
           "name": "微博热搜",
-          "url": "https://s.weibo.com/weibo?q=%23韩国40岁导演遭围殴致死引众怒%23"
+          "url": "https://s.weibo.com/weibo?q=%23张雪专门去查肝%23"
         }
       ]
     },
     {
-      "title": "伊朗称控制霍尔木兹海峡",
-      "summary": "伊朗称正与阿曼起草霍尔木兹海峡通行协议，并表示将监督该海峡交通，即使在和平时期也是如此。此举与美国在该地区的利益直接冲突，可能导致国际能源供应进一步紧张。霍尔木兹海峡是全球石油运输的关键通道，伊朗此举将加剧美伊冲突对全球能源市场的影响。",
-      "reason": "伊朗声称控制霍尔木兹海峡，加剧全球能源供应紧张",
-      "impact_areas": [
-        "地缘",
-        "经济金融"
-      ],
-      "impact_level": "重大",
-      "sources": [
-        {
-          "name": "财新网",
-          "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1SSHVIQmhvcUoyQzJoVDFWMWdVbEh1Rk11ekJOYnhlc2pJbldBdmQ2djlUT3FOLXR3cnMydjhKbDYxQmRYMUxOcUFXaExVb1VSaEI3bl82dENNb2xYdGV0SllR?oc=5"
-        },
-        {
-          "name": "NYTimes",
-          "url": "https://www.nytimes.com/2026/04/02/world/middleeast/iran-oman-hormuz-control.html"
-        }
-      ]
-    },
-    {
-      "title": "李在明称韩国进入战时状态",
-      "summary": "韩国总统李在明宣布韩国民生经济进入\"战时状态\"，应对中东冲突带来的能源危机。韩国正面临燃料短缺问题，伊朗战争导致亚洲地区能源紧缺，各国争相寻求俄罗斯原油。韩国政府采取紧急措施应对能源危机，这可能对韩国经济和社会稳定产生深远影响。",
-      "reason": "韩国宣布进入经济战时状态应对能源危机",
-      "impact_areas": [
-        "经济金融",
-        "政治"
-      ],
-      "impact_level": "重大",
-      "sources": [
-        {
-          "name": "凤凰网",
-          "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE8xNUdyMVBTdkNxeURPbUpWR1ZPNVVfNmtpOTZmNm1EN0tReGJ2andXVjZ3RG9WcHhMR0VQbTBTc21Kc1R2MGVLaw?oc=5"
-        },
-        {
-          "name": "财新网",
-          "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1SSHVIQmhvcUoyQzJoVDFWMWdVbEh1Rk11ekJOYnhlc2pJbldBdmQ2djlUT3FOLXR3cnMydjhKbDYxQmRYMUxOcUFXaExVb1VSaEI3bl82dENNb2xYdGV0SllR?oc=5"
-        }
-      ]
-    },
-    {
-      "title": "奔驰EQS二次改款",
-      "summary": "奔驰宣布EQS将推二次改款，搭载线控转向与Yoke异形方向盘，升级800V平台。这一改款反映了电动汽车技术快速迭代的特点，800V平台将大幅提升充电速度和能效。奔驰作为传统豪华车企，在电动化转型中持续发力，与特斯拉等新兴电动车企展开竞争。",
-      "reason": "奔驰高端电动车升级800V平台，加速电动化转型",
+      "title": "苹果用户紧急提醒",
+      "summary": "工信部紧急提醒苹果用户注意设备安全，称部分苹果产品存在信息泄露风险。此前有报道称，苹果公司可能撤回部分国行AI功能，引发用户担忧。专家建议用户及时更新系统，谨慎下载第三方应用，并定期检查设备权限设置。此次提醒反映出国家对个人信息保护的高度重视，也提示科技企业在华运营需严格遵守数据安全法规。",
+      "reason": "官方提醒苹果用户注意设备安全风险",
       "impact_areas": [
         "科技",
-        "产业"
+        "社会"
       ],
       "impact_level": "重大",
       "sources": [
         {
-          "name": "凤凰网",
-          "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE5TUWdiV0tDdFVBdGZNRTJaLUhZdENQNzNmUzYxSHhJY2pLS2hCaUxqV3RLVlVnY0k3NGg3M2FCSU4xYllJUlRfZ2JJaUQ?oc=5"
+          "name": "微博热搜",
+          "url": "https://s.weibo.com/weibo?q=%23工信部紧急提醒苹果用户%23"
         }
       ]
     },
     {
-      "title": "清明档电影片单发布",
-      "summary": "2026清明档电影片单发布，采用\"电影+\"形式多元促进观影消费。清明档作为重要档期，片单涵盖多种类型影片，满足不同观众需求。同时，多地实施住房公积金新政，促进消费和住房需求。这些措施旨在提振经济，特别是在疫情后恢复消费信心。",
-      "reason": "清明档电影片单发布，多元形式促进消费",
+      "title": "优思益海外工厂声明",
+      "summary": "优思益发布海外工厂情况声明，回应近期产品争议。此前有消费者反映服用优思益产品后出现不适，引发广泛关注。声明详细介绍了产品生产流程和质量控制措施，强调产品符合国际标准。此次事件反映出跨境消费维权和产品质量监管的复杂性，也提示消费者在购买海外产品时需更加谨慎。",
+      "reason": "回应产品争议，跨境消费维权引关注",
       "impact_areas": [
         "社会",
         "经济金融"
@@ -180,35 +154,47 @@
       "impact_level": "重大",
       "sources": [
         {
-          "name": "央视网",
-          "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5zUGFtaHpBR1VXQ1hLSlNBMjRmQVloTWI4THhyMzJtV3lKazJmQ1MyUElVRy1Db2hYMThIdnZ3NUNxcnpTek5jcmZpUW4ta0YzamVjQ0dUbk1aalBpbmhFbVYyR1kwa3g4cTlTRE5Db2hPZlhVaXY4WQ?oc=5"
-        },
-        {
-          "name": "央视网",
-          "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9Vby1Gbzhsaktkb3VKbHdFS0JKeHUzT0lXUjBlUWhVNFNobWgwMGhHQy11bkZiV01NQmVDUlpscGl0cmxXbDgyVDBKN1h5LVJtRDA2QXluTXBrNk9ZeG01MUNnbjFOdnpEb0dqMWVDRDQ0NjZremtObQ?oc=5"
+          "name": "微博热搜",
+          "url": "https://s.weibo.com/weibo?q=%23优思益发布海外工厂情况声明%23"
         }
       ]
     },
     {
-      "title": "美股波动加剧",
-      "summary": "美股波动加剧，特斯拉跌超5%，美油飙涨11%站上110美元，黄金止步四连涨。市场对美伊冲突持续和全球经济前景担忧加剧。投资者关注美联储政策走向和地缘政治风险，市场波动性上升。这种波动反映了当前全球经济面临的不确定性和风险。",
-      "reason": "美伊冲突推动油价飙升，美股波动加剧",
+      "title": "天龙三号火箭发射失利",
+      "summary": "天龙三号运载火箭在发射过程中失利，未能进入预定轨道。这是该型号火箭首次发射失败，对中国商业航天发展造成一定影响。专家表示，火箭发射存在固有风险，失败将推动技术改进和安全措施完善。中国商业航天近年来快速发展，此次失利提醒行业仍需在技术创新和质量控制方面持续努力。",
+      "reason": "新型火箭首飞失利，商业航天发展受挑战",
       "impact_areas": [
-        "经济金融"
+        "科技"
       ],
       "impact_level": "重大",
       "sources": [
         {
-          "name": "雪球热帖",
-          "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5VSV9TcnVfeFdZUm9sTHlwNEQxMU1SYjJzTEl5UHhXd0xQVnY3WWRyRTJGZmwwQVlUTGg5ZGcxNV96ZHg0d3FickRkdEZ5b2dPeUpUOFRMRXhmd2ljSE9rWEpPd18yUmlWYktwN0ZRTHFoS2YydnNwUg?oc=5"
+          "name": "抖音热搜",
+          "url": "https://www.douyin.com/search/天龙三号运载火箭发射失利"
+        }
+      ]
+    },
+    {
+      "title": "市场监管总局要求外卖平台整改",
+      "summary": "市场监管总局要求三大外卖平台尽快开展自查整改，针对平台存在的食品安全、价格欺诈等问题进行规范。此举旨在维护消费者权益，促进平台经济健康发展。近年来，外卖平台快速发展但也暴露出诸多问题，此次监管行动表明政府对平台经济的监管趋严，将推动行业更加规范有序发展。",
+      "reason": "规范外卖平台经营，促进行业健康发展",
+      "impact_areas": [
+        "经济金融",
+        "社会"
+      ],
+      "impact_level": "重大",
+      "sources": [
+        {
+          "name": "凤凰网",
+          "url": "https://news.ifeng.com/c/8s1kEaPNMqJ"
         },
         {
-          "name": "Reuters",
-          "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxORzZMOVRDU0NuWFBVVHF2MEtHZWVrMEpRRU9OTzRiRk1sYkF1YmFaelI1S2dWa0pBZ0NOZmVXS20tZ3Vrek1kUnhUNE9ObjhMbExSU1J3Z0dpdkVQLXQtZ3A0RU9Bd0ktcTNER1FCdnRRZU9LT0RDR21ELTRVLUVtdGxJOW1iNzduYk5QMG91NTNGSDVVeFhSZzJoS2ZiMVdlTmVKU2NqQml4N1VDb054eEtfNA?oc=5"
+          "name": "36氪",
+          "url": "https://www.36kr.com/newsflashes/3750959972155913"
         }
       ]
     }
   ],
-  "total_fetched": 259,
-  "generated_at": "2026-04-03T12:27:41.104457+08:00"
+  "total_fetched": 284,
+  "generated_at": "2026-04-03T19:26:13.912334+08:00"
 }
