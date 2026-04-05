@@ -1,0 +1,180 @@
+{
+  "date": "2026-04-06",
+  "news": [
+    {
+      "title": "美伊冲突升级",
+      "summary": "美国总统特朗普在社交媒体上使用粗俗语言威胁伊朗，称如果伊朗不重新开放霍尔木兹海峡，美国将轰炸伊朗的发电厂和桥梁。此前，美军成功在伊朗境内营救了一名被击落的F-15战机飞行员。伊朗方面则声称击落了美军战机，并悬赏活捉飞行员。双方在霍尔木兹海峡的紧张局势持续升级，全球能源供应链面临严重威胁。",
+      "reason": "美伊军事冲突持续升级，威胁全球能源安全，引发国际社会广泛关注",
+      "impact_areas": [
+        "地缘",
+        "经济金融"
+      ],
+      "impact_level": "现象级",
+      "sources": [
+        {
+          "name": "BBC",
+          "url": "https://www.bbc.com/news/articles/cvg0q6wdzp1o?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "name": "NYTimes",
+          "url": "https://www.nytimes.com/live/2026/04/05/world/iran-war-trump-news"
+        },
+        {
+          "name": "澎湃新闻",
+          "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFB0UDR6OUNRWHZubjRkRlY3NW1Md1hERlVhRUFnNUhfSUNtRDhvdzFQWTViRXU2Z1E2NXp3UmxMUDVDcGlBUW9KRG53UzZyWkJycWktSWNyNW01MWNGMWc?oc=5"
+        }
+      ]
+    },
+    {
+      "title": "王楚钦首夺世界杯",
+      "summary": "中国选手王楚钦在国际乒联世界杯男单决赛中以4-3战胜日本选手松岛辉空，首次夺得世界杯冠军。这是中国乒乓球在国际赛事中的重要突破，王楚钦距离实现大满贯仅差奥运冠军。孙颖莎也成功卫冕女单冠军，成为女单三连冠第一人。国乒在本次世界杯表现强势，展现了中国乒乓球的统治地位。",
+      "reason": "中国选手首夺世界杯冠军，微博、抖音等多平台热议，体育领域重大突破",
+      "impact_areas": [
+        "体育"
+      ],
+      "impact_level": "重大",
+      "sources": [
+        {
+          "name": "凤凰网",
+          "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE1aNE1aSnd5VDg3a0RtdmMxb0RvLVFiczJKdTlSalFLUnNZUHVjZlpUY3FXU1Nvcnotdy1aT3ZTdkVIUDdfdGRhMw?oc=5"
+        },
+        {
+          "name": "微博热搜",
+          "url": "https://s.weibo.com/weibo?q=%23王楚钦夺冠%23"
+        },
+        {
+          "name": "抖音热搜",
+          "url": "https://www.douyin.com/search/王楚钦首夺世界杯男单冠军"
+        }
+      ]
+    },
+    {
+      "title": "郭艾伦被诈骗",
+      "summary": "知名篮球运动员郭艾伦被曝遭遇熟人诈骗，金额高达千万元。此事引发广泛关注，成为微博热搜话题。郭艾伦作为中国篮球界的重要人物，此次事件不仅涉及个人财产安全，也引发了公众对名人诈骗风险的关注。警方已介入调查，案件详情仍在进一步核实中。",
+      "reason": "知名运动员遭遇大额诈骗，引发社会广泛关注和讨论",
+      "impact_areas": [
+        "社会"
+      ],
+      "impact_level": "重大",
+      "sources": [
+        {
+          "name": "微博热搜",
+          "url": "https://s.weibo.com/weibo?q=%23郭艾伦被诈骗近千万%23"
+        },
+        {
+          "name": "抖音热搜",
+          "url": "https://www.douyin.com/search/郭艾伦遭熟人诈骗千万元"
+        }
+      ]
+    },
+    {
+      "title": "周杰伦演唱会争议",
+      "summary": "周杰伦在演唱会上的表演引发争议，有观众指出其3小时演唱会实际演唱时间不足90分钟。此事在微博上引发热议，粉丝与批评者各执一词。作为华语乐坛的天王级人物，周杰伦的演唱会一直备受关注，此次争议再次引发了公众对演唱会真实性和艺人敬业度的讨论。",
+      "reason": "天王级歌手演唱会时长争议，引发广泛讨论和关注",
+      "impact_areas": [
+        "娱乐"
+      ],
+      "impact_level": "重大",
+      "sources": [
+        {
+          "name": "微博热搜",
+          "url": "https://s.weibo.com/weibo?q=%23周杰伦3小时演唱会实唱不足90分钟%23"
+        }
+      ]
+    },
+    {
+      "title": "济南厂房爆炸",
+      "summary": "山东省济南市莱芜区一厂房发生爆炸起火事故，亲历者称有房屋玻璃被震碎。当地消防部门已扑灭明火，事故原因正在调查中。此类安全生产事故再次引发公众对工业安全的关注，相关部门已启动事故调查程序，预计将公布详细调查结果和责任认定。",
+      "reason": "重大安全生产事故，造成财产损失和社会关注",
+      "impact_areas": [
+        "社会"
+      ],
+      "impact_level": "重大",
+      "sources": [
+        {
+          "name": "凤凰网",
+          "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE9NbHB5bHB3S055dk9RbXZVY00xc1MxaUg0UUtzVER0Zmlud0ctNkNHSllQVnoxcnN2RTlDa1E4NHkzX0lBbTNSZA?oc=5"
+        }
+      ]
+    },
+    {
+      "title": "女子撞劫匪案",
+      "summary": "一名女子在被抢劫后开车撞向劫匪，导致1死2伤。该女子随后被判无罪，案件引发广泛社会讨论。公众对正当防卫与过度防卫的界限再次展开热议，法律专家对此案进行了多角度解读。此案成为司法实践中正当防卫认定的典型案例，对类似案件的处理具有参考价值。",
+      "reason": "正当防卫引发社会热议，司法案例受广泛关注",
+      "impact_areas": [
+        "社会",
+        "法律"
+      ],
+      "impact_level": "重大",
+      "sources": [
+        {
+          "name": "微博热搜",
+          "url": "https://s.weibo.com/weibo?q=%23女子回应被抢后开车撞劫匪致1死2伤%23"
+        }
+      ]
+    },
+    {
+      "title": "黄晓明交通违法",
+      "summary": "演员黄晓明因交通违法行为被曝光后，已前往交警部门接受处罚。此事引发公众对名人守法意识和社会责任感的讨论。作为公众人物，黄晓明的一举一动都受到关注，此次事件也引发了社会对交通法规执行和名人示范效应的思考。",
+      "reason": "名人交通违法引发公众对名人社会责任的讨论",
+      "impact_areas": [
+        "社会"
+      ],
+      "impact_level": "重大",
+      "sources": [
+        {
+          "name": "微博热搜",
+          "url": "https://s.weibo.com/weibo?q=%23黄晓明已去交警部门接受处罚%23"
+        }
+      ]
+    },
+    {
+      "title": "AI儿子聊天",
+      "summary": "一则令人心酸的故事引发关注：一位母亲不知儿子已去世，与AI模拟的儿子聊天长达一年。此事引发公众对人工智能伦理和情感替代的深思。随着AI技术的发展，类似案例可能会增多，社会对AI伦理边界和情感替代的讨论日益深入。",
+      "reason": "AI技术引发伦理讨论，情感替代引发社会思考",
+      "impact_areas": [
+        "科技",
+        "社会"
+      ],
+      "impact_level": "重大",
+      "sources": [
+        {
+          "name": "微博热搜",
+          "url": "https://s.weibo.com/weibo?q=%23妈妈不知儿子去世跟AI儿子聊了1年%23"
+        }
+      ]
+    },
+    {
+      "title": "土耳其抛售黄金",
+      "summary": "土耳其大量抛售黄金引发国际市场关注，此举可能与其经济政策和国际储备调整有关。黄金市场波动加剧，投资者对土耳其经济状况表示担忧。作为全球重要的黄金市场之一，土耳其的动向对国际金价和地区经济稳定具有重要影响。",
+      "reason": "国家大规模抛售黄金，引发国际市场关注",
+      "impact_areas": [
+        "经济金融"
+      ],
+      "impact_level": "重大",
+      "sources": [
+        {
+          "name": "抖音热搜",
+          "url": "https://www.douyin.com/search/土耳其大量抛售黄金"
+        }
+      ]
+    },
+    {
+      "title": "陕西地震",
+      "summary": "陕西省发生地震，引发当地居民恐慌和关注。地震发生后，相关部门迅速启动应急响应机制，评估灾情并组织救援。此次地震提醒人们关注地震防范和应急准备的重要性，同时也考验了当地政府的应急处理能力。",
+      "reason": "突发自然灾害，引发社会关注和应急响应",
+      "impact_areas": [
+        "社会"
+      ],
+      "impact_level": "重大",
+      "sources": [
+        {
+          "name": "微博热搜",
+          "url": "https://s.weibo.com/weibo?q=%23陕西地震%23"
+        }
+      ]
+    }
+  ],
+  "total_fetched": 140,
+  "generated_at": "2026-04-06T07:26:08.006593+08:00"
+}
