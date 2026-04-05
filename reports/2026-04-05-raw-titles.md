@@ -1,4 +1,4 @@
-# 2026-04-05 原始新闻标题 (222 条)
+# 2026-04-05 原始新闻标题 (231 条)
 
 ## 新华社 (20 条)
 - Education, health fees among key concerns
@@ -22,51 +22,57 @@
 - Former Chongqing political official facing corruption investigation
 - Former Chongqing political official facing corruption investigation
 
-## 澎湃新闻 (9 条)
+## 澎湃新闻 (16 条)
 - 《上海书评》周刊 - html.thepaper.cn
+- 盘点｜绝对忠诚也非“铁饭碗”！特朗普为何连“砍”多位高官？ - thepaper.cn
+- 宋代的清明：四野如市，哀思与欢愉兼具 - thepaper.cn
+- 新华每日电讯：思念有所安放，身心有处栖居 - thepaper.cn
+- 多地党政领导采取“四不两直”方式暗访督查清明值班值守 - thepaper.cn
+- 胖东来再回应“鸡蛋被检出角黄素”：检测结果全部合格，针对“王海测评”发布的侵权与虚假不实信息已进行取证，将通过法律途径依法维权 - thepaper.cn
+- 张雪，回应“一个子儿都没有” - thepaper.cn
+- 浙大校友的眼镜公司IPO，雷军投了 - thepaper.cn
 - 日媒：41岁伊朗籍男子在日本被殴打致死，目击者称其与多名男子发生冲突，遭人用铁管等物品殴打；警方展开调查 - thepaper.cn
+- 中国殡葬网，正式上线运行！ - thepaper.cn
+- 从太空俯瞰春耕，竟是这样的春和景明！ - thepaper.cn
 - 美军被曝试图炸死失联飞行员 - thepaper.cn
 - 尹宏伟同志值班期间突发疾病不幸逝世，内蒙古自治区公安厅、通辽市公安局沉痛哀悼 - thepaper.cn
 - 尹宏伟同志，值班期间突发疾病逝世 - thepaper.cn
 - 今日，清明 - thepaper.cn
 - 国内航线燃油附加费，今起调整！ - thepaper.cn
-- 伊朗军方强硬拒绝特朗普“48小时”通牒 ：坚定捍卫民族权利、保护国家资产，让侵略者付出代价 - thepaper.cn
-- 也门胡塞武装称与伊朗及黎真主党共同打击以色列境内目标；以色列一议员住所遭伊朗导弹袭击，其与家人在遭到袭击前按照指引进入了避难所 - thepaper.cn
-
-## 南方周末 (1 条)
-- 向死而生：在告别中更好活着
 
 ## 凤凰网 (20 条)
-- 新华读报｜清明节为啥不“属”农历“属”公历 - 凤凰网
-- 新开局·新作为｜数智赋能，加快传统产业优化提升 - 凤凰网
-- 经济学家：一旦霍尔木兹海峡关闭，影响将是俄乌冲突的10倍 - news.ifeng.com
-- 莫氏鸡煲限号第一天老板有笑容了，莫氏鸡煲九点半已约完中午100个号 - 凤凰网
-- 云南禄丰黄花粑粑：一口春香寄清明 - 凤凰网
-- 3岁女童被毒蛇咬伤假死3天奇迹生还 - 凤凰网
-- 驭见星海 共鉴未来 - 凤凰网
-- 把规范带回去，把质量提上来！让机器人手术惠及更多患者 - 凤凰视频
+- 经济学家：一旦霍尔木兹海峡关闭，影响将是俄乌冲突的10倍 - 凤凰网
+- 家国永念丨崇尚英雄 英雄辈出 - 凤凰网
+- 男子清明烧纸，烟灰飞进眼睛竟烫掉角膜 - 凤凰网
+- 伊朗：又击落一架MQ－9“死神”无人机 - 凤凰网
+- 伊拉克第一夫人：特朗普要的是“和平”（peace）还是“瓜分”（piece）？ - 凤凰网
+- 车长和轴距增加后，车内空间非常宽敞 - 凤凰视频
+- 罗马天主教教宗首次主持复活节守夜礼 - 凤凰视频
+- 请停留3秒，为他献朵花！24岁民警谢雨丰跳入冰河救人，却永远留在了那个冬天，致敬英雄，警魂不朽 - 凤凰视频
+- 50台定制公交专线、几十名交警，护航2026武汉草莓音乐节乐迷出行 - 凤凰网
+- 围绕飞行员搜救行动 伊朗美国说法不一 - 凤凰视频
+- 男子寻找父亲40年，想知道其安葬之地，跨千里求助民警最终找到 - 凤凰视频
+- 国际乒联成立100周年 走进澳门社区 - 凤凰网
+- 专家：自然、四季、人生，我们和诗歌里的古人能够完全产生共鸣 - 凤凰网
+- 铂智7外观有哪些亮点？ - 凤凰视频
+- 踏青出游 让美景相伴 平安快乐同行 - 凤凰视频
 - 张雪深夜回应“一个子儿都没有”：当时说实话想装一下 - 凤凰网
 - 凤凰视频|坐上春日铛铛车，整个市南都被花海包围 - 凤凰网
-- 春假嗨玩大墅｜石韵研学游，吃喝玩乐一站式打卡！ - 凤凰视频
-- 三甲医院中年医生立预嘱：自己重病后“三不治” 治愈率低于30%不治救治后失能失智不治治疗费超家庭承受力60%不治 - 凤凰视频
-- 驭见星海 共鉴未来 - 凤凰网
-- 新华社消息｜伊朗军方拒绝特朗普“48小时”通牒 - 凤凰视频
-- 尴尬！《纽约时报》写错北约英文名，北大西洋误变“北美” - 凤凰视频
-- 可怕的硫磺熏大蒜，挑选大蒜看准这几个地方，硫磺大蒜注意辨别 - 凤凰网
-- 我来巴尔干只干三件事：吃肉，吃肉，还是吃肉 - 凤凰网
-- 张雪深夜发视频回应“一个子儿都没有”言论：说实话想装一下 - 凤凰网
-- 美媒：F-15E被击落戳穿特朗普吹嘘的谎言 - 凤凰视频
-- 真不知道这些厨房怪东西哪来的设计灵感 - 凤凰网
+- 俄乌战场外开辟新战线，双方在中东抢筹码！#时代的荣耀 - 凤凰视频
+- 以军打死3名维和军人，印尼以最强烈字眼谴责 - 凤凰视频
+- 凤凰女记者：美伊双方对搜寻飞行员说法不一 - 凤凰视频
 
-## 财新网 (8 条)
-- 在四川资阳看毗卢洞｜行路中国看古迹②
-- 【CCI快报】：中国大宗商品指数周跌0.94% 焦煤领跌8.74%
-- 伊朗军方强硬回应特朗普"48小时"通牒 美战机飞行员搜救仍在持续
-- 秘密·誓言·棋局｜猎读
-- 时间的法医｜观展
-- 朱学东：油浸蚕豆｜饮食
-- 半生打工，人到中年，还剩多少体力呢？｜带着问题去读书
-- 财新闻｜伊朗称动用新型防空系统击落美国战机，两架美国“黑鹰”被伊朗山民击中
+## 财新网 (10 条)
+- 商品详情 - 财新商城
+- 最新封面报道｜海湾战火外溢 - 财新网
+- 伊朗军方强硬回应特朗普"48小时"通牒 美战机飞行员搜救仍在持续 - 财新网
+- 一周天下｜美以伊冲突进入第五周、时隔53 年美国重启载人绕月计划 - 财新网
+- 秘密·誓言·棋局｜猎读 - 财新网
+- 朱学东：油浸蚕豆｜饮食 - 财新网
+- 时间的法医｜观展 - 财新网
+- 在四川资阳看毗卢洞｜行路中国看古迹② - 财新网
+- 半生打工，人到中年，还剩多少体力呢？｜带着问题去读书 - 财新网
+- 桂林国资终于拿到桂林航空全部股权 海航称“各自安好” - companies.caixin.com
 
 ## 央视网 (6 条)
 - 家国永念｜AI绘丰碑：山河有念， 英雄一直都在 - 央视网
@@ -77,30 +83,34 @@
 - 南方降雨再度增多局地或现暴雨 北方迎显著降温东北雨雪持续 - 央视网
 
 ## BBC (10 条)
-- Search for missing airman presents serious test for US
+- What we know so far about rescue of US airman in Iran
 - Man charged over fatal shooting of baby in pram in New York
 - US says it has arrested relatives of late Iranian ​general Qasem ​Soleimani
 - German males under 45 may need military approval for long stays abroad
-- Russian attack on Ukraine market kills five
-- The man who became one of India's greatest stage queens
+- AI videos fuel rhetoric as Orbán bids for four more years in Hungary
 - Cambodia unveils statue to honour famous landmine-sniffing rat
+- Russian attack on Ukraine market kills five
 - World's oldest leader to get a deputy for first time in 43-year rule
 - ICE wanted to build a detention centre -  this small farming town said no
-- What we know so far about the US fighter jet shot down over Iran
+- The man who became one of India's greatest stage queens
 
-## Reuters (1 条)
+## Reuters (2 条)
+- Kuwait says Iranian drones strike oil sector complex, power, government sites - Reuters
 - Russia evacuates 198 more staff from Iran's Bushehr nuclear plant, agencies report - Reuters
 
-## NYTimes (18 条)
+## NYTimes (20 条)
+- Iran War Live Updates: U.S. Rescues Officer From Downed Fighter Jet in Iran, Trump Says
 - China Built the World’s Drone Industry. Now It’s Locking Down the Skies.
-- Trump Wants to Make Deportation Deals. Autocrats Are Ready to Listen.
+- Interceptor Missiles Save Lives, but Stockpiles Are Dwindling
+- Dozens Killed in Haiti Massacre as International Force Trickles In
 - Deadly Earthquake and Floods Worsen Afghanistan’s Troubles
-- Iran War Live Updates: U.S. Rescues Downed Air Force Officer Deep Inside Iran, Officials Say
+- What We Know About the F-15E Strike Eagle Shot Down by Iran
+- Trump Wants to Make Deportation Deals. Autocrats Are Ready to Listen.
 - Three Charged With Arson in Attack on U.K. Jewish Charity’s Ambulances
 - Stephen Lewis Was a Singular Man on a Mission
+- Here’s the latest.
 - Here’s What Happened in the War in the Middle East on Saturday
 - Israel Strikes Iran’s Largest Petrochemical Complex
-- Dozens Killed in Haiti Massacre as International Force Trickles In
 - Satellite image company restricts Mideast content, citing a U.S. government request.
 - Here’s how two airmen would have ejected from the F-15E.
 - U.S. Fighter Jet Downed Over Iran Was Probably Based at R.A.F. Lakenheath, U.K. Airfield
@@ -109,7 +119,6 @@
 - Here’s the latest.
 - ‘Iran Is Being Destroyed in Front of Our Eyes’: Tehran Is Gripped by Fear
 - Iran’s Defenses Have Been Struck, but They Can Still Fire Missiles and Drones
-- Hegseth Says U.S. Troops Are Fighting for Jesus. The Pope Disagrees.
 
 ## CNN (6 条)
 - 0% intro APR until 2024 is 100% insane
@@ -120,26 +129,26 @@
 - Want Cash Out of Your Home? Here Are Your Best Options
 
 ## 微博热搜 (20 条)
-- 浪姐今日直播暂停
-- 王曼昱vs申裕斌
-- 清明假期新业态解锁新体验
-- 张月曾沛慈 评级人数
-- 张雪回应一个子儿没有言论
-- 原来软柿子在人群里这么明显
-- 美5名顶尖科学家离奇失踪或死亡
-- 乘风2026
-- 男子拿祖宗骨灰坛回家进门就打碎了
-- 孙颖莎vs温特
-- 美国前参议员表示特朗普已经住院
-- 嘴甜羞耻症
-- 何炅没开口维嘉就哭了
-- 网友爸爸曾在昆明石林偶遇张国荣
-- 特朗普一直呆在白宫
-- 谢娜的话筒一直是在冲着李小冉的
-- 黄婷婷没去浪姐去了演综
-- 黄金大买家狂抛
-- 吴京点赞吐槽浪姐博文
-- 莫氏鸡煲店家人均痛苦面具
+- 女子开车撞劫匪致1死2伤被判无罪
+- 王楚钦把雨果打笑了
+- 清明时节一起敬读碑文
+- AG对战KSG
+- 王楚钦淘汰卫冕冠军
+- 曹操墓前是布洛芬诸葛亮是高铁票
+- 我欲乘风领衔主演田曦薇王弘毅
+- 蓝色果然抑制食欲
+- 吴优贴脸开大周冬雨
+- 老人称养大4个子女晚年却无人陪伴
+- 美炸毁2架执行救援故障运输机
+- 散粉高反
+- 女子长期虐待2岁儿子还拍视频
+- 曝姐姐们集体抗议浪姐直播
+- 孙俪 当bro以为自己很有影响力
+- 美军营救行动致伊朗5死8伤
+- 孙怡紧急撤回一个盘腿
+- 网传浪姐7一公分组名单
+- 金价卷到老祖宗那边了吗
+- 文淇称妇科检查时医生对其有敌意
 
 ## 知乎热榜 (20 条)
 - 为什么鸟等动物很少因为肥胖生病，只有人类因为肥胖生病需要减肥。动物都不会太胖？
@@ -164,96 +173,92 @@
 - 瞎扯 · 如何正确地吐槽
 
 ## B站热门 (20 条)
-- 什么叫你爹转生成你女朋友？然后你俩开了一把？
-- 纸片海洋 清明节短片 孩子去世了烧多少钱才能不乱花？
-- “这种没流量的画画最狠了”
-- 【独家】牧神记 第77集 枯寂岭
-- 一家集齐中国、犹太和阿拉伯女婿，见面就吵，法国岳父崩溃了
-- 【灵笼修仙传】-凡人灵笼-惊变
-- 我被开除了...那就去旅行!!!
+- 《金牌打野》
 - 当学校来一名混的师时
-- 意外穿越怪谈世界，十二星座决定你的专属变身 第一期 （下）ASMR
-- 世界被核废水淹没，你只能靠钓鱼活下去！
-- 我 是 入
-- 朗诵马说（但读到“马”就马叫）
-- 美国荒村商业全倒闭，唯一营业的竟是家人气中餐老店？老板成功秘诀其实很简单！
-- 哈哈哈哈（1）
-- 集齐了三主宠后一对比，本就垃圾的胖猫更垃圾了
-- 我就这样在绝航盯着你7.0重制版
+- 最 难 绷 躲 猫 猫 ！！
+- 【独家】牧神记 第77集 枯寂岭
+- 【李荣浩】燃爆全场的《李白》六机位 2026.04.04 江苏徐州 天赐的声音 巅峰演唱会 多机位超清4K饭拍
+- 一家集齐中国、犹太和阿拉伯女婿，见面就吵，法国岳父崩溃了
+- 我被开除了...那就去旅行!!!
+- 《关于同事互相帮助这件事》
+- 【特效向】燕双鹰vs全明星【完结】
 - 带着100万，我们揭开了赌场的秘密…
-- 土块
-- 从DNA开始画张凌赫
-- 理 解 大 爷 🔥 成 为 大 爷！
+- 作者老年痴呆写出来的游戏
+- 什么叫你爹转生成你女朋友？然后你俩开了一把？
+- “不画逆天的眼线，不用抹匀粉底液”
+- 吃这么多菜ooc致歉
+- 哈哈哈哈（1）
+- “这种没流量的画画最狠了”
+- 朗诵马说（但读到“马”就马叫）
+- 挑战做出雨天流麻
+- unravel（粤语完整版）
+- 《青蛙上河图》
 
 ## 抖音热搜 (20 条)
 - 今天是清明节
+- 苹果密码泄露在哪查看
+- 边防战士清明致敬英烈
 - 一口气讲清楚清明那些事儿
-- 山河铭记 家国永念
-- 掘金鏖战加时击败马刺
-- 美官员：失踪美军飞行员已被找到
+- 王曼昱4:2申裕斌
 - 交出你的春日ootd
-- 马竞1:2巴萨
+- 中超浙江队0:1重庆铜梁龙
+- 王楚钦松岛辉空争冠
+- 土耳其大量抛售黄金
 - 朔州发生3.6级地震系谣言
+- 赖清德满意度下滑
 - 每当我找不到存在的意义
-- 山西人中午都在干嘛
-- 把手圈起来只看自己喜欢的
-- 锐评浪姐7初舞台
-- 张雪介绍机车新手模式
-- 国安部：踏青出游莫忘安全
-- 张雪晒最新量产车
-- 斗破苍穹萧晨霸气护萧炎
-- 父亲追星小鬼为女儿圆梦
-- 曼城4:0利物浦
-- 洛克王国好玩吗
-- 陈美嘉仿妆挑战
+- 如果说要我选出代表青春那个画面
+- 当年轻人开始拜山
+- 浪姐的七年之痒
+- 当我用彩色故障风打开春天
+- 白日提灯思胥万千大婚越看越带感
+- 海关截获18厘米长活体帝王蝎
+- 林昀儒不敌松岛辉空
+- 第一批吃上佛山鸡煲的人来了
 
-## 雪球热帖 (16 条)
+## 雪球热帖 (20 条)
 - 第十九届省运会 冰球及花样滑冰项目开赛 - 新浪财经
-- 今日期货市场重要快讯汇总｜2026年4月5日 - 新浪财经
 - 体坛联播｜巴萨、拜仁上演逆转，阿森纳不敌英冠球队遭淘汰 - 新浪财经
-- 资产配置月报：中国资产彰显韧性 - 手机新浪网
-- 钴锂金属行业周报：资源供给受限 价格高位横盘 - 手机新浪网
-- 泪目！吴石写给儿女的最后一封信↓ - 新浪财经
-- “黑天鹅”突袭！如何穿越风暴？A股走势分化，警惕永久性资本损失！ - 新浪财经
-- 澳门世界杯：王楚钦上演惊天逆转“很庆幸又活了一天”，今半决赛再战雨果 - 新浪财经
+- 红果下架AI盗脸易烊千玺短剧红果回应下架AI侵权易烊千玺短剧 - 新浪财经
+- 华阳集团(002906)：精密压铸业务实现较高增长 汽车电子拓展新产品 - 手机新浪网
+- 基金研究：私募借道ETF加码权益资产 - 手机新浪网
+- 特斯拉得州奥斯汀工厂 2025 年员工人数减少 22% - 新浪财经
+- 农林牧渔行业周报：清明备货难改供给宽松格局 仔猪亏损加深悲观预期加速释放 - 手机新浪网
+- 建筑材料行业周报：原油价格继续冲高 电子布4月提价落地 - 手机新浪网
+- 世界杯半决赛“复仇”雨果！王楚钦晋级决赛约战松岛辉空 - 新浪财经
+- 叶童说看乘风初舞台热血沸腾 - 新浪财经
+- 薪酬不及预期 A股公司新任财务负责人闪辞 - 新浪财经
+- 电影《超级马力欧银河大电影》内地票房破4000万 - 新浪财经
+- 黄金“大买家”，两周狂抛近120吨！发生了什么？ - 新浪财经
+- 演员舒畅发文！16年前在柳州拍的电视剧终于开播，热度冲上前三！网友：熬夜连看6集 - 新浪财经
+- 一季度A股：冲高回落收阴 - 新浪财经
+- 雷军投资的县城小厂，去IPO敲钟了，蔚来理想都是其客户 - 新浪财经
 - 让人工智能成为文化创新的“向善引擎” - 新浪财经
-- 澳门世界杯：陈幸同罕见“吞蛋”，孙颖莎被“六边形女战士”逼至绝境 - 新浪财经
-- 芝麻AI速递：昨夜今晨财经热点要闻｜2026年4月5日 - 新浪财经
-- 机器人“舞动”邕城 供需“链接”东盟 - 新浪财经
-- 人民日报评李荣浩、单依纯版权风波：“又能怎”，真的吗？ - 新浪财经
-- “同事.skill”带来的“职场鬼故事”，折射出哪些法律问题 - 新浪财经
-- 王燊超补时建功，海港积分转正，卫冕冠军2比1击败云南玉昆实属不易 - 新浪财经
-- 中国电动汽车“圈粉”澳大利亚 - 新浪财经
+- 301552，拟10派10元转3股！多只A股，公布分红方案 - 新浪财经
+- 霍尔木兹的终局：美元的暮色与A股的曙光 - 新浪财经
+- U20女足亚洲杯中国队胜孟加拉国队获两连胜 - 新浪财经
 
-## 36氪 (1 条)
-- 高端智能投影品牌AWOL Vision获近亿元B轮融资，新品拿下近2000万美金众筹｜硬氪首发 - 36 Kr
+## 36氪 (20 条)
+- 清明假期第二天 湖南客流1301.83万人次
+- 福田汽车：一季度福田重卡销量超4.4万辆 同比增长近40%
+- 民政部：清明假期第二天各地祭扫活动平稳有序
+- 4月5日全社会跨区域人员流动量预计超2.6亿人次
+- 机构最新调研路线图出炉，迈瑞医疗最获关注
+- 胖东来再回应“鸡蛋被检出角黄素”
+- 湖北多地密集优化公积金政策
+- 2026清明档票房破2亿
+- 张雪机车打假冒充账号
+- 拱北口岸清明假期迎出入境客流高峰，预计日均超37万人次
+- 清明假期第一天，全社会跨区域人员流动量30028.5万人次
+- 电影《我，许可》上映3天总票房破6000万元
+- 鸿海3月营收创历年同期新高
+- 小电驴退出国补，终端再迎涨价：有门店销量下滑40%
+- 富士康3月营收8037.4亿新台币，同比增长45.6%
+- 陈茂波：3月港股日均成交额超3000亿港元，同比增加逾8%
+- 张雪机车创始人深夜回应“一个子儿都没有”言论
+- 中国殡葬网正式上线运行 为公众提供殡葬信息查询服务
+- 清明假期客流持续增长，今天全国铁路预计发送旅客1470万人次
+- 启源海风电场首批机组并网 预计年发电量1.5亿度
 
-## 虎嗅 (18 条)
-- 这届年轻人，扫墓祭祖比长辈还积极了？
-- 如果有一天周杰伦用AI 写歌，你还会听吗？
-- 因为上坟太“疯”，川渝人正在被全国围观
-- 10万亿，世界铜王的坑比恒大的还深
-- 半年得给华为200亿，为啥车企还抢着加入鸿蒙智行？
-- 同事被“炼化”为Skill？大家把这事想简单了
-- 马云穿过的网红鞋，被2.68亿贱卖
-- 这部勇敢、轻盈的女性电影，给压抑的清明档一线光亮
-- 解禁俄油？能源危机下欧洲多国“坐不住了”
-- 这届年轻人，正在练习好好说再见
-- 为什么我们要用一生练习死亡？
-- 清明将至，想起那个差一点没走出医院的下午
-- 450万罚单，揭开“蒙面增持”乱象
-- PayPal崛起：“创业铁军”的白银时代
-- 没有人在乎优思益的汽修厂
-- “南非底特律”之死
-- 90后加拿大留子，想在欧美复制一个美团
-- 84岁的成人游戏公司社长逝世：一位孤独的游戏玩家，找到了最有趣的通关方式
-
-## GitHub Trending (8 条)
-- Blaizzy/mlx-vlm
-- onyx-dot-app/onyx
-- Yeachan-Heo/oh-my-codex
-- siddharthvaddem/openscreen
-- telegramdesktop/tdesktop
-- block/goose
-- microsoft/agent-framework
-- sherlock-project/sherlock
+## 少数派 (1 条)
+- 愿君多修葺，此物最相思：从我的故事谈「数字遗产」保护

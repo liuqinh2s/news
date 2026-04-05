@@ -3,37 +3,85 @@
   "news": [
     {
       "title": "美伊冲突升级",
-      "summary": "美国与伊朗军事冲突持续升级，美军F-15E战机被伊朗击落，一名飞行员获救，另一名仍失踪。美军在伊朗境内展开高风险营救行动，以色列则袭击了伊朗最大石化企业。伊朗军方强硬拒绝特朗普\"48小时\"通牒，誓言捍卫国家主权。霍尔木兹海峡作为全球石油运输要道，一旦关闭影响将是俄乌冲突的10倍，引发全球能源市场担忧。",
-      "reason": "美伊军事冲突升级，影响全球能源安全与地缘政治格局",
+      "summary": "美国宣布成功营救在伊朗被击落F-15战斗机的飞行员，同时以色列袭击了伊朗最大的石化工业综合体。伊朗称击落美军MQ-9无人机，并指控美军在救援行动中造成5名伊朗人死亡、8人受伤。霍尔木兹海峡局势持续紧张，经济学家警告一旦该海峡关闭，影响将是俄乌冲突的10倍。美伊双方对飞行员搜救行动说法不一，冲突已进入第五周。",
+      "reason": "中东局势持续恶化，全球能源安全面临重大威胁",
       "impact_areas": [
-        "政治",
+        "地缘",
         "经济金融",
-        "地缘"
+        "政治"
       ],
       "impact_level": "现象级",
       "sources": [
         {
-          "name": "财新网",
-          "url": "https://international.caixin.com/2026-04-05/102431154.html"
-        },
-        {
           "name": "BBC",
-          "url": "https://www.bbc.com/news/articles/c0le69de645o?at_medium=RSS&at_campaign=rss"
+          "url": "https://www.bbc.com/news/articles/cm2k1dgz142o?at_medium=RSS&at_campaign=rss"
         },
         {
           "name": "NYTimes",
-          "url": "https://www.nytimes.com/live/2026/04/04/world/iran-war-trump-news"
+          "url": "https://www.nytimes.com/live/2026/04/05/world/iran-war-trump-news"
         },
         {
           "name": "凤凰网",
-          "url": "https://news.ifeng.com/news/country/20260405/0348_20260405_035012_029.shtml"
+          "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE5wbWg5OFZhd0dqWHFVZ3RRb3RBNVZwWERldzZkZzNoY1NnTWlwZVFGbmNQYkV1ZjlzTFh6NnQ4RWZOSE9LTWx2cEFORC0?oc=5"
+        },
+        {
+          "name": "财新网",
+          "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5ubHBMTFRwd29TU09iamdjb0lFdEVqLTA1el84OWRBU2ZRemVORFdBcXozTnlYa2xya2xKRm45NE1INFZ5OVd1aUh1dGJHLXBYbkQ3WVg2SVhtTXhDa2NuN29TZXZmai1Za1E?oc=5"
         }
       ]
     },
     {
-      "title": "燃油附加费上调",
-      "summary": "国内航线燃油附加费自2026年4月5日起调整，800公里以上航段收取120元。多家航空公司已发布公告调整收费标准。此次调整与近期国际油价波动有关，将直接影响旅客出行成本。航空业表示将密切关注油价走势，适时调整票价策略。",
-      "reason": "国内航线燃油附加费上调，影响旅客出行成本",
+      "title": "清明祭扫高峰",
+      "summary": "清明假期第二天，全国祭扫人数较昨日明显上升，共接待现场祭扫群众3073.40万人次，疏导车辆685.65万台次。其中，选择鲜花祭扫等绿色低碳祭扫方式的群众达1957.86万人次，占比63.70%。湖南全省当日接待游客1301.83万人次，交易额38亿元，同比增长3.05%。全国各地党政领导采取'四不两直'方式暗访督查清明值班值守，确保祭扫活动安全有序。",
+      "reason": "传统节日祭扫活动规模创历史新高，反映社会文化变迁",
+      "impact_areas": [
+        "社会",
+        "生态"
+      ],
+      "impact_level": "重大",
+      "sources": [
+        {
+          "name": "36氪",
+          "url": "https://www.36kr.com/newsflashes/3753776578740996"
+        },
+        {
+          "name": "36氪",
+          "url": "https://www.36kr.com/newsflashes/3753797859328769"
+        },
+        {
+          "name": "澎湃新闻",
+          "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5VTWQzaFJnbWpVWmxHa3JKcTVNdmlZQmhzVnF1cEl5LUN6ejF4WlhidlJMc1pPYTBwWFhaLWEyQVM5bGtHZUJER250SXZzYU1UbEgtRVNBRXpjaG5vS3hocw?oc=5"
+        }
+      ]
+    },
+    {
+      "title": "张雪回应争议",
+      "summary": "针对此前'一个子儿都没有'的言论，张雪深夜回应称'当时说实话想装一下'。同时，张雪机车官方发布声明，小红书平台出现的'张雪的机车'账号均为假冒账号，其他发布张雪第一视角相关视频内容的账号也均为搬运，与张雪本人及公司无关。此前，张雪因在世界超级摩托车锦标赛夺冠引发广泛关注，相关话题在微博、抖音、B站等多平台持续发酵。",
+      "reason": "体育明星言论引发社会广泛讨论，反映公众对成功人士的期待与审视",
+      "impact_areas": [
+        "社会",
+        "体育"
+      ],
+      "impact_level": "重大",
+      "sources": [
+        {
+          "name": "凤凰网",
+          "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE1qT285cGZKelJPSHFMSG5RVUk4NnN5RFVhOVJyaWdJYlhuNi1fTkRZVm1HRDhfNGgwYWNwb2Q2a25sYWNzT3RCcg?oc=5"
+        },
+        {
+          "name": "36氪",
+          "url": "https://www.36kr.com/newsflashes/3753733557797382"
+        },
+        {
+          "name": "澎湃新闻",
+          "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFAyTWRaZ3dyUkZLNzlmY2RqUmUzT1RmWG9mMVo3WkhrbWUwRkJBbHlwUFdVYlctOGsxMDNaZFd5Zmt0S0xyTzhYRGYwdnFVQUFMNGNzY1R2WS1iQ2I0Z2c?oc=5"
+        }
+      ]
+    },
+    {
+      "title": "燃油附加费调整",
+      "summary": "国内航线燃油附加费今日起调整，800公里以上航段收取120元。此次调整与近期国际油价波动有关。与此同时，清明假期第二天，全社会跨区域人员流动量预计超2.6亿人次，环比下降11.0%，同比增长7.2%。交通运输部数据显示，预计铁路客运量1470万人次，公路人员流动量24952万人次，反映出清明假期出行需求依然旺盛。",
+      "reason": "燃油成本变动影响航空票价，假期出行数据反映经济活力",
       "impact_areas": [
         "经济金融",
         "社会"
@@ -41,199 +89,154 @@
       "impact_level": "重大",
       "sources": [
         {
+          "name": "央视网",
+          "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBSMjQtQ0dQdVpTTHNEcHd1b1AyYS1FdjBaRnBTbGhRemJlLTZTVHZVbWJPblpELTJKc0VfQzhiUTkyWVZ5cWgyYVNtTG9LRzNqcG5qcXFrUzZReG83OTNNcFY3WWU2b3RTTzFtR2NUTDl4b01sb2NFcw?oc=5"
+        },
+        {
           "name": "澎湃新闻",
-          "url": "https://www.thepaper.cn/newsDetail_forward_23845678"
+          "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE0wSzZlWEF4NWU0SVJxSVhWYXhfQTdCTFRQTVpxVkQtV0xtNUh3YjEtSWlNYjRLTTBidEpkMDRSemtYTVBsNk92NnFTTFFRVktZaGF2RElobjZTUE9fd2c?oc=5"
         },
         {
-          "name": "央视网",
-          "url": "https://news.cctv.com/2026/04/05/ARTIz0FfQq6W8J7zQ9Y6z0Q6260405.shtml"
-        },
-        {
-          "name": "财新网",
-          "url": "https://mini.caixin.com/2026-04-05/102431128.html"
+          "name": "36氪",
+          "url": "https://www.36kr.com/newsflashes/3753772095718153"
         }
       ]
     },
     {
-      "title": "张雪回应言论",
-      "summary": "张雪针对此前\"一个子儿都没有\"的言论深夜发布视频回应，坦言\"说实话想装一下\"。这一回应引发网友热议，相关话题登上微博热搜。张雪表示当时只是想表达一种态度，并非真实经济状况。此前张雪因机车夺冠和一系列商业活动引发广泛关注，此次回应再次成为公众焦点。",
-      "reason": "张雪回应争议言论，引发公众热议",
+      "title": "霍尔木兹海峡紧张",
+      "summary": "经济学家警告，一旦霍尔木兹海峡关闭，影响将是俄乌冲突的10倍。伊朗称又击落一架MQ-9'死神'无人机，而美国则表示已成功营救被击落F-15战斗机的飞行员。科威特报告伊朗无人机袭击了石油部门综合设施、发电站和政府设施。俄罗斯开始从伊朗布什尔核电站撤离更多工作人员。霍尔木兹海峡作为全球石油运输的关键通道，其局势持续紧张引发全球能源市场担忧。",
+      "reason": "全球能源运输命脉面临威胁，可能引发国际油价剧烈波动",
+      "impact_areas": [
+        "经济金融",
+        "地缘",
+        "生态"
+      ],
+      "impact_level": "现象级",
+      "sources": [
+        {
+          "name": "凤凰网",
+          "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE12VzhPcF9iX3ZpM3h0cFFSSDlVSVV3SW1CdjEyQ05WdEQ4bnhLdE9FRlo2OVpSTElxRlE2OGFiOVo0MDl0MnhuYm5fTkg?oc=5"
+        },
+        {
+          "name": "凤凰网",
+          "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE5wbWg5OFZhd0dqWHFVZ3RRb3RBNVZwWERldzZkZzNoY1NnTWlwZVFGbmNQYkV1ZjlzTFh6NnQ4RWZOSE9LTWx2cEFORC0?oc=5"
+        },
+        {
+          "name": "Reuters",
+          "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNcXVncDFVcTcwdG5sVHpKMzR5UVFLN0JJX0kwRjgwUWJjVXV0amlhbEszbkZPdHVoSnkxc0kyRHMwNGZRd0luLUd1OExDUVFkeHdGY2w3a2tVR2o4M2hMR1FyQXVBNVRwcjZzUXhTV3pKa05vOVNLQWRjN0RkaDhxaTlTaUhYdWhCTTVndFlsOXN4SlRXbE5XcU9lbk9VUUpCZk1rOEliSlI4aWlwbVJ2OE9pVUlvYWoyNGI1cl8xY080bURxS3l3MFdsOA?oc=5"
+        },
+        {
+          "name": "雪球热帖",
+          "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOWS1jQlFIZzNRM19XLTZLYmVOWU5Wem95TXJ0dUE4dXRrS29CVXpyc1Y1UllicFRHWVd0bFI4aVJVc1psSFQyeWF5RVR0bTNabXhScWF5ZmhNcm5Nc2pia19pUUF5b3VscUlLeUhnZWhka3VfRnFrakUxeGFZbmd5ejdzeGJMWVY0UmY2TndR?oc=5"
+        }
+      ]
+    },
+    {
+      "title": "清明假期出行数据",
+      "summary": "清明假期第二天，湖南全省接待游客1301.83万人次，其中省外游客186.57万人次，占比14.33%；本省游客1115.26万人次，占比85.67%，同比增长3.10。交易额达38亿元，同比增长3.05%。拱北口岸迎来出入境客流高峰，预计日均超37万人次，较去年同比增长10%。全国祭扫活动平稳有序，共接待现场祭扫群众3073.40万人次，其中63.70%选择绿色低碳祭扫方式。",
+      "reason": "假期出行数据反映消费复苏态势，文旅市场持续回暖",
       "impact_areas": [
         "社会",
-        "产业"
+        "经济金融"
       ],
       "impact_level": "重大",
       "sources": [
         {
-          "name": "凤凰网",
-          "url": "https://news.ifeng.com/ent/20260405/0348_20260405_035012_029.shtml"
+          "name": "36氪",
+          "url": "https://www.36kr.com/newsflashes/3753797859328769"
         },
         {
-          "name": "微博热搜",
-          "url": "https://s.weibo.com/weibo?q=%23张雪回应一个子儿没有言论%23"
+          "name": "36氪",
+          "url": "https://www.36kr.com/newsflashes/3753776578740996"
         },
         {
-          "name": "抖音热搜",
-          "url": "https://www.douyin.com/search/张雪介绍机车新手模式"
+          "name": "36氪",
+          "url": "https://www.36kr.com/newsflashes/3753672728396294"
         }
       ]
     },
     {
-      "title": "清明假期新体验",
-      "summary": "清明假期期间，各地推出文旅新业态，如春日铛铛车、研学游等，为游客提供多样化体验。多地推出\"景区免票+交通服务\"惠民礼包，解锁春日文旅新场景。文旅消费持续升温，数字技术与传统文化融合创新，带动相关产业发展。清明祭扫活动也呈现新趋势，线上线下结合，表达对先人的缅怀之情。",
-      "reason": "清明假期文旅消费升温，新业态带来体验升级",
+      "title": "富士康业绩增长",
+      "summary": "鸿海(富士康)公布2026年3月营收为8037亿新台币，月增34.90%，年增45.57%，为历年同期最高。第一季度营收为2.1296万亿新台币，季减18.18%，年增29.68%，同样为历年同期最高。富士康称，根据当前可见前景，预计第二季度运营业绩将实现环比及同比双增长，人工智能服务器机架预计将保持持续增长的态势。这一业绩表现显示全球电子制造业需求依然强劲。",
+      "reason": "电子制造业龙头业绩超预期，反映全球科技产业复苏态势",
       "impact_areas": [
-        "社会",
-        "产业"
+        "经济金融",
+        "科技"
       ],
       "impact_level": "重大",
       "sources": [
         {
-          "name": "凤凰网",
-          "url": "https://news.ifeng.com/travel/20260405/0348_20260405_035012_029.shtml"
+          "name": "36氪",
+          "url": "https://www.36kr.com/newsflashes/3753653352514306"
         },
         {
-          "name": "央视网",
-          "url": "https://news.cctv.com/2026/04/05/ARTIz0FfQq6W8J7zQ9Y6z0Q6260405.shtml"
-        },
-        {
-          "name": "抖音热搜",
-          "url": "https://www.douyin.com/search/清明假期新业态解锁新体验"
+          "name": "36氪",
+          "url": "https://www.36kr.com/newsflashes/3753639574848256"
         }
       ]
     },
     {
-      "title": "AI无人机监管",
-      "summary": "中国政府加强无人机监管，出台新规限制非法无人机使用。纽约时报报道称，中国正收紧无人机飞行规则，引发部分用户担忧限制过多。此举旨在规范无人机行业发展，保障公共安全，同时推动无人机技术在民用领域的合法合规应用。无人机产业作为新兴科技领域，正面临监管与发展的平衡挑战。",
-      "reason": "中国加强无人机监管，规范行业发展",
+      "title": "港股成交活跃",
+      "summary": "香港特区政府财政司司长陈茂波发文称，2026年第一季度港股交易活跃，首两月日均成交额超过2600亿港元，按年升17%。3月市况更为活跃，港股日均成交额超过3000亿港元，较去年同期增加逾8%。陈茂波表示，这反映在不明朗形势下，投资者增加在香港配置资产，视香港为资金可靠避风港。同时，香港首季新股集资额创五年新高，高科技公司占比近半，显示香港资本市场活力依然充沛。",
+      "reason": "港股成交额创近年新高，反映国际资本对香港市场信心增强",
       "impact_areas": [
-        "科技",
+        "经济金融",
         "政治"
       ],
       "impact_level": "重大",
       "sources": [
         {
-          "name": "NYTimes",
-          "url": "https://www.nytimes.com/2026/04/05/world/asia/china-drone-regulations.html"
+          "name": "36氪",
+          "url": "https://www.36kr.com/newsflashes/3753639574848256"
         },
         {
-          "name": "央视网",
-          "url": "https://news.cctv.com/2026/04/05/ARTIz0FfQq6W8J7zQ9Y6z0Q6260405.shtml"
+          "name": "财新网",
+          "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBfSmhmSTJhYnJPajRlNHNRclM4eng0dkMxdzBWMmI3NndXTGtnaHZLSTVMY0NteVROazc5YS13RGVpZEF5bk55ZnY3Q0tncmZVcHJueml6RzZTV29TdXhvUmM4S3E?oc=5"
         }
       ]
     },
     {
-      "title": "莫氏鸡煲现象",
-      "summary": "莫氏鸡煲因限号措施引发关注，首日预约火爆，九点半已约完中午100个号。相关话题登上微博热搜，网友调侃\"店家人均痛苦面具\"。这一现象反映了网红餐饮的火爆与经营压力，也折射出消费者对特色餐饮的追求。餐饮行业正经历从流量导向到价值导向的转变，如何平衡热度与品质成为关键。",
-      "reason": "莫氏鸡煲限号引发关注，反映网红餐饮现象",
+      "title": "清明档票房破2亿",
+      "summary": "2026年清明档（4月4日-4月6日）总票房破2亿，《超级马力欧银河大电影》《我，许可》《挽救计划》分列清明档票房榜前三位。其中电影《我，许可》上映3天总票房破6000万元。同时，电影《超级马力欧银河大电影》内地票房破4000万。清明档票房表现强劲，反映出观众在假期对文化娱乐的旺盛需求，也显示中国电影市场在疫情后持续复苏的态势。",
+      "reason": "清明档票房创历史新高，反映文化消费市场强劲复苏",
       "impact_areas": [
         "社会",
-        "产业"
+        "经济金融"
       ],
       "impact_level": "重大",
       "sources": [
         {
-          "name": "凤凰网",
-          "url": "https://news.ifeng.com/food/20260405/0348_20260405_035012_029.shtml"
+          "name": "36氪",
+          "url": "https://www.36kr.com/newsflashes/3753736783512071"
         },
         {
-          "name": "微博热搜",
-          "url": "https://s.weibo.com/weibo?q=%23莫氏鸡煲店家人均痛苦面具%23"
-        }
-      ]
-    },
-    {
-      "title": "健康话题热议",
-      "summary": "清明节期间，健康话题引发关注，包括心源性猝死预防、肥胖问题、安宁疗护等。知乎热榜相关话题讨论热烈，专家指出肥胖与心源性猝死的关联，强调健康生活方式的重要性。三甲医院医生提出\"三不治\"原则，引发社会对医疗资源分配和生命尊严的思考。健康科普内容在社交媒体广泛传播，提升公众健康意识。",
-      "reason": "健康话题引发热议，提升公众健康意识",
-      "impact_areas": [
-        "公共卫生",
-        "社会"
-      ],
-      "impact_level": "重大",
-      "sources": [
-        {
-          "name": "知乎热榜",
-          "url": "https://daily.zhihu.com/story/9788590"
+          "name": "36氪",
+          "url": "https://www.36kr.com/newsflashes/3753662286512905"
         },
-        {
-          "name": "央视网",
-          "url": "https://news.cctv.com/2026/04/05/ARTIz0FfQq6W8J7zQ9Y6z0Q6260405.shtml"
-        },
-        {
-          "name": "知乎热榜",
-          "url": "https://daily.zhihu.com/story/9788579"
-        }
-      ]
-    },
-    {
-      "title": "体育赛事动态",
-      "summary": "清明假期期间，多项体育赛事进行，包括澳门世界杯乒乓球赛、NBA常规赛等。王楚钦在澳门世界杯上演惊天逆转，孙颖莎与陈幸同也表现抢眼。掘金与马刺的NBA比赛进入加时赛，曼城4:0大胜利物浦。体育赛事成为假期重要娱乐内容，相关话题登上热搜，引发球迷热议。",
-      "reason": "假期体育赛事精彩纷呈，引发球迷关注",
-      "impact_areas": [
-        "社会"
-      ],
-      "impact_level": "重大",
-      "sources": [
         {
           "name": "雪球热帖",
-          "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE03QU54a1ktdFZ6QmlPNzBKU1JWbTZac2hBUGFKTl9HMkdJWWZabmhZbEVkcVpsRFQ4NVI5eDZxeDdoZjlpY0F5ekd5QzNCbGc5Mml0V3BUc0dYT0lNZEs4NkNzZEZzdlZ4MWdidC1iaWxieERZR3NLTg"
-        },
-        {
-          "name": "抖音热搜",
-          "url": "https://www.douyin.com/search/掘金鏖战加时击败马刺"
-        },
-        {
-          "name": "抖音热搜",
-          "url": "https://www.douyin.com/search/曼城4:0利物浦"
+          "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQSUVEZU44S3dleTlqX2VPYXo5cEZhSTU1RkRlT194ZHFuQTZidlhaUk85YnZST09nNmRzNlNEeU9RZnVIOE1vRTNmXzBHOUxjRGNnMjNMLTY4UFFzZzNwV2wwT2MxU2toUjFOWU9wbWNocDlkSjlITEhnVEt3LUs0ZlBwX0xXNzA?oc=5"
         }
       ]
     },
     {
-      "title": "AI技术发展",
-      "summary": "人工智能领域持续发展，GitHub上多个AI项目成为热门，包括MLX-VLM、Open Source AI Platform等。这些项目在视觉语言模型、AI聊天等领域取得进展。同时，AI技术在文化创新、医疗等领域的应用引发关注。专家呼吁将AI打造为文化创新的\"向善引擎\"，推动技术与人文融合。AI技术正加速渗透各行业，改变传统工作方式。",
-      "reason": "AI技术持续发展，多领域应用引发关注",
+      "title": "电动自行车国补取消",
+      "summary": "2026年'国补'政策调整，电动自行车已不在6大类消费品以旧换新补贴的名单中。各地市也暂无推出电动自行车'地补'政策。受此影响，电动自行车终端价格普遍上涨，广州等地部分门店销量下滑达40%。经销商表示，新国标电动自行车需要促销才能慢慢卖出去，店端平均一天需卖出5、6辆才能维持经营。这一政策调整将对电动自行车行业产生深远影响，加速行业洗牌和产品升级。",
+      "reason": "补贴政策调整影响行业格局，加速电动自行车产业升级",
       "impact_areas": [
+        "经济金融",
         "科技",
-        "产业"
+        "社会"
       ],
       "impact_level": "重大",
       "sources": [
         {
-          "name": "GitHub Trending",
-          "url": "https://github.com/Blaizzy/mlx-vlm"
-        },
-        {
-          "name": "雪球热帖",
-          "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5nRm9lc2Q5T3VTUFc5U281TkZ6aGt4dDdubHpTb0FHUXVPa0k4R2ZXRTNERDliU2tlLVZlVEI1LWwzM0FPRlRTemNUcmd5bUt1cG5tNWZ5TzBUU2ZZQjZOXzJzaHhCdUFGV0VSYmEtbEZwTm93dDVtRw"
-        }
-      ]
-    },
-    {
-      "title": "清明文化传承",
-      "summary": "清明节期间，传统与现代文化交融，各地开展丰富多样的纪念活动。\"AI绘丰碑\"等创新形式表达对先人的缅怀，\"山河铭记 家国永念\"等话题引发共鸣。年轻人扫墓祭祖的热情高涨，传统习俗与现代生活方式结合。清明文化传承与创新成为社会关注焦点，反映当代人对生命价值与历史记忆的思考。",
-      "reason": "清明文化传承与创新，展现当代价值观",
-      "impact_areas": [
-        "社会",
-        "文化"
-      ],
-      "impact_level": "重大",
-      "sources": [
-        {
-          "name": "央视网",
-          "url": "https://news.cctv.com/2026/04/05/ARTIz0FfQq6W8J7zQ9Y6z0Q6260405.shtml"
-        },
-        {
-          "name": "抖音热搜",
-          "url": "https://www.douyin.com/search/山河铭记 家国永念"
-        },
-        {
-          "name": "虎嗅",
-          "url": "https://www.huxiu.com/article/4848221.html"
+          "name": "36氪",
+          "url": "https://www.36kr.com/newsflashes/3753644099813890"
         }
       ]
     }
   ],
-  "total_fetched": 222,
-  "generated_at": "2026-04-05T12:26:34.811181+08:00"
+  "total_fetched": 231,
+  "generated_at": "2026-04-05T19:26:31.163639+08:00"
 }
