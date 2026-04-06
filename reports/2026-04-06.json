@@ -3,104 +3,97 @@
   "news": [
     {
       "title": "美伊冲突升级",
-      "summary": "美国总统特朗普在社交媒体上使用粗俗语言威胁伊朗，称如果伊朗不重新开放霍尔木兹海峡，美国将轰炸伊朗的发电厂和桥梁。此前，美军成功在伊朗境内营救了一名被击落的F-15战机飞行员。伊朗方面则声称击落了美军战机，并悬赏活捉飞行员。双方在霍尔木兹海峡的紧张局势持续升级，全球能源供应链面临严重威胁。",
-      "reason": "美伊军事冲突持续升级，威胁全球能源安全，引发国际社会广泛关注",
+      "summary": "美国总统特朗普宣布美军成功营救在伊朗被击落的美军飞行员，同时威胁若伊朗不重新开放霍尔木兹海峡，将轰炸伊朗基础设施。伊朗军方称过去两天击落美军12架战机，并警告若美国'再犯错误'，将封锁曼德海峡作为反制。霍尔木兹海峡作为全球石油运输关键水道，其持续封锁已导致国际油价上涨，全球能源供应链面临严重冲击。",
+      "reason": "美伊军事对抗升级，威胁全球能源安全与地区稳定",
       "impact_areas": [
         "地缘",
-        "经济金融"
+        "经济金融",
+        "政治"
       ],
       "impact_level": "现象级",
       "sources": [
         {
           "name": "BBC",
-          "url": "https://www.bbc.com/news/articles/cvg0q6wdzp1o?at_medium=RSS&at_campaign=rss"
+          "url": "https://www.bbc.com/news/articles/cx2vpz1kwreo?at_medium=RSS&at_campaign=rss"
         },
         {
-          "name": "NYTimes",
-          "url": "https://www.nytimes.com/live/2026/04/05/world/iran-war-trump-news"
+          "name": "凤凰网",
+          "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE1PajVnSnprOWVrMzJCY2J0dnlWdmM2Vnp0LTRCdTZrU0tvQV9kcDNiMnpWLTMyMGgzaTA2M0N1bk4zS040SE4xRQ?oc=5"
         },
         {
           "name": "澎湃新闻",
-          "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFB0UDR6OUNRWHZubjRkRlY3NW1Md1hERlVhRUFnNUhfSUNtRDhvdzFQWTViRXU2Z1E2NXp3UmxMUDVDcGlBUW9KRG53UzZyWkJycWktSWNyNW01MWNGMWc?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBZUmpnSDZhaDViT0FRck9IUUxtTWM2OGJvcEtlRXRZcHktV3Q1RDV2M1pxSWdwaEFDbTN3eFBCd3ZORTJpUzY5SW04MXN2Q3FGY0RLLVdTR0tGTzYyY1E?oc=5"
         }
       ]
     },
     {
       "title": "王楚钦首夺世界杯",
-      "summary": "中国选手王楚钦在国际乒联世界杯男单决赛中以4-3战胜日本选手松岛辉空，首次夺得世界杯冠军。这是中国乒乓球在国际赛事中的重要突破，王楚钦距离实现大满贯仅差奥运冠军。孙颖莎也成功卫冕女单冠军，成为女单三连冠第一人。国乒在本次世界杯表现强势，展现了中国乒乓球的统治地位。",
-      "reason": "中国选手首夺世界杯冠军，微博、抖音等多平台热议，体育领域重大突破",
+      "summary": "4月5日晚，2026年国际乒联男子和女子世界杯在中国澳门完成所有赛程。在男单决赛中，王楚钦击败法国选手勒布伦，首次夺得世界杯男单冠军。同时，孙颖莎在女单决赛中战胜韩国选手申裕斌，实现世界杯单打三连冠，成为历史首位达成此成就的选手。国乒在本届世界杯包揽全部五项冠军，展现了中国乒乓球队的绝对统治力。",
+      "reason": "国乒包揽世界杯全部冠军，王楚钦首夺男单冠军",
       "impact_areas": [
-        "体育"
-      ],
-      "impact_level": "重大",
-      "sources": [
-        {
-          "name": "凤凰网",
-          "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE1aNE1aSnd5VDg3a0RtdmMxb0RvLVFiczJKdTlSalFLUnNZUHVjZlpUY3FXU1Nvcnotdy1aT3ZTdkVIUDdfdGRhMw?oc=5"
-        },
-        {
-          "name": "微博热搜",
-          "url": "https://s.weibo.com/weibo?q=%23王楚钦夺冠%23"
-        },
-        {
-          "name": "抖音热搜",
-          "url": "https://www.douyin.com/search/王楚钦首夺世界杯男单冠军"
-        }
-      ]
-    },
-    {
-      "title": "郭艾伦被诈骗",
-      "summary": "知名篮球运动员郭艾伦被曝遭遇熟人诈骗，金额高达千万元。此事引发广泛关注，成为微博热搜话题。郭艾伦作为中国篮球界的重要人物，此次事件不仅涉及个人财产安全，也引发了公众对名人诈骗风险的关注。警方已介入调查，案件详情仍在进一步核实中。",
-      "reason": "知名运动员遭遇大额诈骗，引发社会广泛关注和讨论",
-      "impact_areas": [
+        "体育",
         "社会"
       ],
       "impact_level": "重大",
       "sources": [
         {
-          "name": "微博热搜",
-          "url": "https://s.weibo.com/weibo?q=%23郭艾伦被诈骗近千万%23"
+          "name": "财新网",
+          "url": "https://mini.caixin.com/2026-04-06/102431244.html"
         },
         {
-          "name": "抖音热搜",
-          "url": "https://www.douyin.com/search/郭艾伦遭熟人诈骗千万元"
-        }
-      ]
-    },
-    {
-      "title": "周杰伦演唱会争议",
-      "summary": "周杰伦在演唱会上的表演引发争议，有观众指出其3小时演唱会实际演唱时间不足90分钟。此事在微博上引发热议，粉丝与批评者各执一词。作为华语乐坛的天王级人物，周杰伦的演唱会一直备受关注，此次争议再次引发了公众对演唱会真实性和艺人敬业度的讨论。",
-      "reason": "天王级歌手演唱会时长争议，引发广泛讨论和关注",
-      "impact_areas": [
-        "娱乐"
-      ],
-      "impact_level": "重大",
-      "sources": [
+          "name": "雪球热帖",
+          "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1hWGpVVFJGZTVHWVVjLVktZDhXNVZoQUtHMUtSRGlkUE85ZmVpSEFVUUdWWmpDTDUyXzZ4ME53XzlaOU04enU1SmZjT3dEM0ZSQ0xFZVBSU1RaRnJ5MG9aeTNGYTN3R0wwNDJwdXp4elpkaXVQdElqSQ?oc=5"
+        },
         {
           "name": "微博热搜",
-          "url": "https://s.weibo.com/weibo?q=%23周杰伦3小时演唱会实唱不足90分钟%23"
+          "url": "https://s.weibo.com/weibo?q=%23王楚钦首夺世界杯男单冠军%23"
         }
       ]
     },
     {
-      "title": "济南厂房爆炸",
-      "summary": "山东省济南市莱芜区一厂房发生爆炸起火事故，亲历者称有房屋玻璃被震碎。当地消防部门已扑灭明火，事故原因正在调查中。此类安全生产事故再次引发公众对工业安全的关注，相关部门已启动事故调查程序，预计将公布详细调查结果和责任认定。",
-      "reason": "重大安全生产事故，造成财产损失和社会关注",
+      "title": "AI大模型调用量创新高",
+      "summary": "根据OpenRouter最新数据测算，上周（3月30日至4月5日）全球AI大模型总调用量为27万亿Token，环比增长18.9%。其中，中国AI大模型的周调用量上升至12.96万亿Token，较此前一周上涨31.48%；美国AI大模型周调用量为3.03万亿Token，环比增长0.76%。中国AI大模型周调用量连续五周增长，且连续五周超越美国，显示中国AI产业快速发展态势。",
+      "reason": "中国AI大模型调用量连续五周超越美国",
       "impact_areas": [
-        "社会"
+        "科技",
+        "经济金融"
       ],
       "impact_level": "重大",
       "sources": [
         {
-          "name": "凤凰网",
-          "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE9NbHB5bHB3S055dk9RbXZVY00xc1MxaUg0UUtzVER0Zmlud0ctNkNHSllQVnoxcnN2RTlDa1E4NHkzX0lBbTNSZA?oc=5"
+          "name": "36氪",
+          "url": "https://www.36kr.com/newsflashes/3754746077921799"
         }
       ]
     },
     {
-      "title": "女子撞劫匪案",
-      "summary": "一名女子在被抢劫后开车撞向劫匪，导致1死2伤。该女子随后被判无罪，案件引发广泛社会讨论。公众对正当防卫与过度防卫的界限再次展开热议，法律专家对此案进行了多角度解读。此案成为司法实践中正当防卫认定的典型案例，对类似案件的处理具有参考价值。",
-      "reason": "正当防卫引发社会热议，司法案例受广泛关注",
+      "title": "清明假期出行创新高",
+      "summary": "清明假期迎来返程高峰，全社会跨区域人员流动量增长明显。交通运输部数据显示，三天假期，全社会跨区域人员流动量预计达8.4亿人次，铁路、公路、民航首日客运量均超历史同期峰值。4月6日，全国铁路预计发送旅客2080万人次，计划加开旅客列车1369列。长三角铁路预计发送旅客425万人次，迎来假期返程客流最高峰。",
+      "reason": "清明假期跨区域人员流动量达8.4亿人次创新高",
+      "impact_areas": [
+        "社会",
+        "经济金融"
+      ],
+      "impact_level": "重大",
+      "sources": [
+        {
+          "name": "36氪",
+          "url": "https://www.36kr.com/newsflashes/3754834610848262"
+        },
+        {
+          "name": "36氪",
+          "url": "https://www.36kr.com/newsflashes/3754735672181254"
+        },
+        {
+          "name": "36氪",
+          "url": "https://www.36kr.com/newsflashes/3754664690336519"
+        }
+      ]
+    },
+    {
+      "title": "郭艾伦疑遭诈骗",
+      "summary": "知名篮球运动员郭艾伦被曝遭熟人诈骗近千万元，家属已报警，公安机关已正式立案。此事引发社会广泛关注，多位体育界人士发声支持郭艾伦。近年来，体育明星遭遇诈骗案件频发，反映出名人财产安全保护问题日益突出，也提醒公众提高防范意识。",
+      "reason": "知名篮球运动员郭艾伦疑遭熟人诈骗近千万元",
       "impact_areas": [
         "社会",
         "法律"
@@ -108,73 +101,100 @@
       "impact_level": "重大",
       "sources": [
         {
-          "name": "微博热搜",
-          "url": "https://s.weibo.com/weibo?q=%23女子回应被抢后开车撞劫匪致1死2伤%23"
+          "name": "澎湃新闻",
+          "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9MajdTbzg2eEV1ZWpWcW1pV19OMmhTSnBEdDJ4ejgwOWg4TGNja1dNTDVkVnBOQ2l3QkVXdzhlYkg3TE1YR2NQWkd5S0NDc1huSlpJUkNqWlpfR05mMEE?oc=5"
+        },
+        {
+          "name": "雪球热帖",
+          "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1BVFBnQ000dlNvRnpOVzZfSXR6OW9iRGdoTnBsQkU5NXV0bXIwbTY0ZGp6dm5PYkxrMUdzV3dkRXNwV0V5aWRMSDhfa0I3WVZLWGNRY04wTE9qWWlCeHVESVZOdV9nXzRuWnY4VFZRZ3BUYndZa3c?oc=5"
         }
       ]
     },
     {
-      "title": "黄晓明交通违法",
-      "summary": "演员黄晓明因交通违法行为被曝光后，已前往交警部门接受处罚。此事引发公众对名人守法意识和社会责任感的讨论。作为公众人物，黄晓明的一举一动都受到关注，此次事件也引发了社会对交通法规执行和名人示范效应的思考。",
-      "reason": "名人交通违法引发公众对名人社会责任的讨论",
+      "title": "比特币价格再创新高",
+      "summary": "比特币价格升破69000美元，日内涨幅达2.60%，再次创下历史新高。这一价格水平使比特币总市值超过1.3万亿美元。分析师认为，机构投资者持续买入、通胀预期以及全球货币政策宽松预期是推动比特币价格上涨的主要因素。同时，比特币ETF的持续资金流入也为市场提供了强劲支撑。",
+      "reason": "比特币价格升破69000美元再创新高",
       "impact_areas": [
-        "社会"
+        "经济金融",
+        "科技"
       ],
       "impact_level": "重大",
       "sources": [
         {
-          "name": "微博热搜",
-          "url": "https://s.weibo.com/weibo?q=%23黄晓明已去交警部门接受处罚%23"
+          "name": "36氪",
+          "url": "https://www.36kr.com/newsflashes/3754658733228800"
         }
       ]
     },
     {
-      "title": "AI儿子聊天",
-      "summary": "一则令人心酸的故事引发关注：一位母亲不知儿子已去世，与AI模拟的儿子聊天长达一年。此事引发公众对人工智能伦理和情感替代的深思。随着AI技术的发展，类似案例可能会增多，社会对AI伦理边界和情感替代的讨论日益深入。",
-      "reason": "AI技术引发伦理讨论，情感替代引发社会思考",
+      "title": "红果短剧整治AI违规",
+      "summary": "红果短剧官方发布《关于持续治理AI短剧素材违规使用行为的公告》：今年第一季度，平台已累计下架违反平台治理规范的漫剧1718部。针对近期AI短剧素材违规使用问题频发的情况，平台专项开展集中治理，已完成1.5万部作品的全面核查，依规处置违规作品670部。此举反映了AI内容生成领域监管趋严的趋势。",
+      "reason": "红果短剧处置670部AI违规作品，监管趋严",
       "impact_areas": [
         "科技",
-        "社会"
+        "法律"
       ],
       "impact_level": "重大",
       "sources": [
         {
-          "name": "微博热搜",
-          "url": "https://s.weibo.com/weibo?q=%23妈妈不知儿子去世跟AI儿子聊了1年%23"
+          "name": "36氪",
+          "url": "https://www.36kr.com/newsflashes/3754835385614848"
         }
       ]
     },
     {
-      "title": "土耳其抛售黄金",
-      "summary": "土耳其大量抛售黄金引发国际市场关注，此举可能与其经济政策和国际储备调整有关。黄金市场波动加剧，投资者对土耳其经济状况表示担忧。作为全球重要的黄金市场之一，土耳其的动向对国际金价和地区经济稳定具有重要影响。",
-      "reason": "国家大规模抛售黄金，引发国际市场关注",
+      "title": "日本国债收益率创新高",
+      "summary": "当地时间4月6日，作为日本长期利率指标的10年期新发国债收益率一度上升至2.400%，为1999年2月以来的最高水平。这一收益率水平反映了市场对日本央行可能调整超宽松货币政策的预期。日本国债收益率上升将对日本政府债务成本、国内投资环境以及日元汇率产生深远影响。",
+      "reason": "日本10年期国债收益率达1999年以来最高水平",
       "impact_areas": [
+        "经济金融",
+        "政治"
+      ],
+      "impact_level": "重大",
+      "sources": [
+        {
+          "name": "36氪",
+          "url": "https://www.36kr.com/newsflashes/3754665311093254"
+        }
+      ]
+    },
+    {
+      "title": "商务部推动AI+电商",
+      "summary": "商务部等6部门发布关于更好服务实体经济、推进电子商务高质量发展的指导意见，提出发展'人工智能+电商'，引导电商企业加强人工智能大模型等技术研发应用，优化消费体验、降低运营成本、提升流通效能。意见还支持符合条件的电商企业发行债券融资，优化融资等政策流程，体现了国家对电商与AI融合发展的政策支持。",
+      "reason": "商务部等六部门推动'人工智能+电商'发展",
+      "impact_areas": [
+        "科技",
         "经济金融"
       ],
       "impact_level": "重大",
       "sources": [
         {
-          "name": "抖音热搜",
-          "url": "https://www.douyin.com/search/土耳其大量抛售黄金"
+          "name": "36氪",
+          "url": "https://www.36kr.com/newsflashes/3754713105957637"
+        },
+        {
+          "name": "36氪",
+          "url": "https://www.36kr.com/newsflashes/3754714165134080"
         }
       ]
     },
     {
-      "title": "陕西地震",
-      "summary": "陕西省发生地震，引发当地居民恐慌和关注。地震发生后，相关部门迅速启动应急响应机制，评估灾情并组织救援。此次地震提醒人们关注地震防范和应急准备的重要性，同时也考验了当地政府的应急处理能力。",
-      "reason": "突发自然灾害，引发社会关注和应急响应",
+      "title": "脑机接口概念股受热捧",
+      "summary": "在多重因素叠加推动下，脑机接口技术有望进入大规模商业化落地'黄金窗口期'，2026年成为脑机接口规模化应用元年。据证券时报·数据宝统计，A股市场涉及脑机接口概念的股票合计不到30只，今年以来合计有5只概念股获得超百家机构扎堆调研。脑机接口技术作为人工智能与生物科技的前沿交叉领域，正受到资本市场高度关注。",
+      "reason": "脑机接口概念股获超百家机构扎堆调研",
       "impact_areas": [
-        "社会"
+        "科技",
+        "经济金融"
       ],
       "impact_level": "重大",
       "sources": [
         {
-          "name": "微博热搜",
-          "url": "https://s.weibo.com/weibo?q=%23陕西地震%23"
+          "name": "36氪",
+          "url": "https://www.36kr.com/newsflashes/3754653360734726"
         }
       ]
     }
   ],
-  "total_fetched": 140,
-  "generated_at": "2026-04-06T07:26:08.006593+08:00"
+  "total_fetched": 217,
+  "generated_at": "2026-04-06T12:26:17.218167+08:00"
 }
