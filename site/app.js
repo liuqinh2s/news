@@ -17,16 +17,22 @@
   const modalClose = document.getElementById("modalClose");
   const tabs = document.querySelectorAll(".tab");
   const panels = document.querySelectorAll(".tab-panel");
+  const searchInput = document.getElementById("searchInput");
+  const searchResults = document.getElementById("searchResults");
+  const searchMeta = document.getElementById("searchMeta");
+
+  // ── 全量新闻缓存（供搜索用）────────────────
+  let allNewsItems = [];
 
   // ── Tab 切换 ──────────────────────────────────
+  const tabPanelMap = { recent: "panelRecent", archive: "panelArchive", search: "panelSearch" };
   tabs.forEach((tab) => {
     tab.addEventListener("click", () => {
       tabs.forEach((t) => t.classList.remove("active"));
       panels.forEach((p) => p.classList.remove("active"));
       tab.classList.add("active");
-      document.getElementById(
-        tab.dataset.tab === "recent" ? "panelRecent" : "panelArchive"
-      ).classList.add("active");
+      document.getElementById(tabPanelMap[tab.dataset.tab]).classList.add("active");
+      if (tab.dataset.tab === "search") searchInput.focus();
     });
   });
 
@@ -226,6 +232,8 @@
         const news = detail.news || [];
         if (!news.length) continue;
 
+        news.forEach((n) => allNewsItems.push({ news: n, date: report.date }));
+
         if (isWithinDays(report.date, RECENT_DAYS)) {
           news.forEach((n) => recentItems.push({ news: n, date: report.date }));
         } else {
@@ -249,6 +257,42 @@
       console.error("加载数据失败:", err);
       recentNewsEl.innerHTML = renderEmpty("数据加载失败，请稍后刷新");
     }
+  }
+
+  // ── 搜索 ──────────────────────────────────────
+  let searchTimer = null;
+  searchInput.addEventListener("input", () => {
+    clearTimeout(searchTimer);
+    searchTimer = setTimeout(doSearch, 250);
+  });
+
+  function doSearch() {
+    const q = searchInput.value.trim().toLowerCase();
+    if (!q) {
+      searchResults.innerHTML = renderEmpty("输入关键词搜索所有新闻");
+      searchMeta.textContent = "";
+      return;
+    }
+    const keywords = q.split(/\s+/);
+    const matched = allNewsItems.filter(({ news }) => {
+      const haystack = [
+        news.title,
+        news.summary,
+        news.reason,
+        ...(news.impact_areas || []),
+        news.impact_level || "",
+      ].join(" ").toLowerCase();
+      return keywords.every((kw) => haystack.includes(kw));
+    });
+    searchMeta.textContent = `找到 ${matched.length} 条结果`;
+    if (!matched.length) {
+      searchResults.innerHTML = renderEmpty("没有找到相关新闻");
+      return;
+    }
+    searchResults.innerHTML = "";
+    matched.forEach((item) =>
+      searchResults.appendChild(renderNewsCard(item.news, item.date))
+    );
   }
 
   // ── 初始化 ────────────────────────────────────

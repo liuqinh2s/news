@@ -26,6 +26,7 @@
                 <div class="tabs-inner">
                     <button class="tab active" data-tab="recent">近三天大新闻</button>
                     <button class="tab" data-tab="archive">📁 归档新闻</button>
+                    <button class="tab" data-tab="search">🔍 搜索</button>
                 </div>
             </nav>
         </div>
@@ -41,6 +42,15 @@
                 <section class="tab-panel" id="panelArchive">
                     <div class="archive-tree" id="archiveTree">
                         <div class="empty-state"><p>加载中...</p></div>
+                    </div>
+                </section>
+                <section class="tab-panel" id="panelSearch">
+                    <div class="search-box">
+                        <input type="text" id="searchInput" placeholder="搜索新闻标题、摘要、关键词..." aria-label="搜索新闻">
+                    </div>
+                    <div class="search-meta" id="searchMeta"></div>
+                    <div class="news-list" id="searchResults">
+                        <div class="empty-state"><p>输入关键词搜索所有新闻</p></div>
                     </div>
                 </section>
                 <footer class="footer">
