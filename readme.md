@@ -49,6 +49,7 @@ https://liuqinh2s.github.io/news/
 │   └── data/                   # 构建后的数据文件
 │       ├── reports-index.json  # 日报索引
 │       └── YYYY-MM-DD.json/md  # 每日数据
+├── package.json                # Node.js 开发依赖（live-server）
 ├── requirements.txt            # Python 依赖
 └── .env                        # 本地开发环境变量（不提交）
 ```
@@ -59,6 +60,7 @@ https://liuqinh2s.github.io/news/
 - 近三天大新闻模块（卡片展示，点击查看详情）
 - 历史归档模块（标题 ≤ 15 字 + 日期，按时间倒序）
 - 亮色/暗色主题切换，自动记忆用户偏好
+- 自动刷新：每 60 秒轮询检测数据更新，有新内容自动刷新页面，无需手动刷新浏览器
 
 ## 本地开发
 
@@ -87,7 +89,15 @@ python3 scripts/build.py
 
 ### 本地预览网站
 
-在 `site/` 目录下启动任意静态文件服务器即可，例如：
+```bash
+# 安装依赖（首次）
+npm install
+
+# 启动开发服务器（自动监听文件变化，浏览器实时刷新）
+npm run dev
+```
+
+也可以用 Python 简单起一个静态服务器：
 
 ```bash
 python3 -m http.server 8000 -d site

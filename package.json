@@ -1,0 +1,10 @@
+{
+  "name": "news-digger",
+  "private": true,
+  "scripts": {
+    "dev": "live-server site/ --port=8080 --wait=500"
+  },
+  "devDependencies": {
+    "live-server": "^1.2.2"
+  }
+}

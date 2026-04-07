@@ -295,7 +295,45 @@
     );
   }
 
+  // ── 自动刷新（轮询检测更新）─────────────────
+  const POLL_INTERVAL = 60_000; // 60秒轮询一次
+  let lastIndexHash = null;
+
+  function hashString(str) {
+    // 简单哈希，用于比较内容是否变化
+    let h = 0;
+    for (let i = 0; i < str.length; i++) {
+      h = ((h << 5) - h + str.charCodeAt(i)) | 0;
+    }
+    return h;
+  }
+
+  async function checkForUpdates() {
+    try {
+      const resp = await fetch(`${DATA_BASE}/reports-index.json?_t=${Date.now()}`);
+      if (!resp.ok) return;
+      const text = await resp.text();
+      const hash = hashString(text);
+      if (lastIndexHash !== null && hash !== lastIndexHash) {
+        console.log("[auto-refresh] 检测到数据更新，刷新中...");
+        allNewsItems = [];
+        await loadData();
+      }
+      lastIndexHash = hash;
+    } catch {
+      // 静默忽略网络错误
+    }
+  }
+
+  function startPolling() {
+    // file:// 协议下不轮询
+    if (location.protocol === "file:") return;
+    // 首次记录 hash
+    checkForUpdates();
+    setInterval(checkForUpdates, POLL_INTERVAL);
+  }
+
   // ── 初始化 ────────────────────────────────────
   initTheme();
-  loadData();
+  loadData().then(startPolling);
 })();
