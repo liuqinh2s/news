@@ -1,0 +1,211 @@
+{
+  "date": "2026-04-08",
+  "news": [
+    {
+      "title": "美伊达成停火协议",
+      "summary": "美国总统特朗普于4月8日宣布与伊朗达成为期两周的双向停火协议，避免了原定对伊朗实施的打击。特朗普表示，这是在伊朗同意完全、立即且安全地开放霍尔木兹海峡的前提下作出的决定。伊朗最高国家安全委员会也发表声明，接受巴基斯坦提出的停火提议。此前特朗普曾威胁，若伊朗不重新开放霍尔木兹海峡，将导致伊朗'整个文明灭亡'。此次停火是在特朗普设定的最后期限前达成，由巴基斯坦斡旋促成。",
+      "reason": "美伊冲突升级后达成停火，避免更大规模战争爆发",
+      "impact_areas": [
+        "地缘",
+        "经济金融"
+      ],
+      "impact_level": "现象级",
+      "sources": [
+        {
+          "name": "财新网",
+          "url": "https://international.caixin.com/2026-04-08/102431597.html"
+        },
+        {
+          "name": "NYTimes",
+          "url": "https://www.nytimes.com/live/2026/04/07/world/iran-war-trump-news"
+        },
+        {
+          "name": "微博热搜",
+          "url": "https://s.weibo.com/weibo?q=%23特朗普同意停火2周%23"
+        }
+      ]
+    },
+    {
+      "title": "伊朗民众自发保护关键设施",
+      "summary": "在特朗普设定的最后期限临近之际，伊朗民众自发在一些发电厂和桥梁聚集，组成'人链'保护这些关键基础设施。这一行动响应了伊朗政府的呼吁，旨在防范美国和以色列可能的袭击。据报道，这些民众聚集在伊朗重要的能源和交通设施周围，形成了一道'人墙'。此举反映了伊朗民众面对外部威胁时的团结和决心，也成为国际媒体报道的焦点。",
+      "reason": "伊朗民众自发组成人链保护关键设施，展现面对威胁的团结",
+      "impact_areas": [
+        "社会",
+        "地缘"
+      ],
+      "impact_level": "重大",
+      "sources": [
+        {
+          "name": "凤凰网",
+          "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE9BY3BtUldMLWJFYy1qWndYdng0dG9TdG1veHE1QjJQUXhpWFdka0FqV1lLdUVDTnNLOWpOUlFDM2VtYS04TFJBVg?oc=5"
+        },
+        {
+          "name": "BBC",
+          "url": "https://www.bbc.com/news/articles/clyxk5640wko?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "name": "微博热搜",
+          "url": "https://s.weibo.com/weibo?q=%23伊朗民众组成人链保护发电厂和桥梁%23"
+        }
+      ]
+    },
+    {
+      "title": "美以袭击哈尔克岛",
+      "summary": "美国和以色列对伊朗'石油心脏'哈尔克岛发动袭击，该岛是伊朗最大的石油出口设施。据报道，袭击目标包括桥梁、钢铁厂和制药设施等关键基础设施。专家分析指出，哈尔克岛地理位置特殊，易攻难守，美军战果与伤亡可能不成正比。此次袭击是美伊冲突升级的重要节点，对全球石油供应链产生直接影响。伊朗方面表示将采取报复措施，局势持续紧张。",
+      "reason": "美以袭击伊朗石油心脏哈尔克岛，加剧地区紧张局势",
+      "impact_areas": [
+        "地缘",
+        "经济金融"
+      ],
+      "impact_level": "重大",
+      "sources": [
+        {
+          "name": "凤凰网",
+          "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE9seVpSRXNfWElJUERpUlk1VFlUT1d2VUwtX29yYTdjZ2tJbGZJTFRNMElJWU51TnlkUTk0dWhUNTJmQXd2YU92LQ?oc=5"
+        },
+        {
+          "name": "BBC",
+          "url": "https://www.bbc.com/news/articles/cx2w0v19gw8o?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "name": "微博热搜",
+          "url": "https://s.weibo.com/weibo?q=%23美以袭击哈尔克岛%23"
+        }
+      ]
+    },
+    {
+      "title": "特朗普威胁引发国际谴责",
+      "summary": "美国总统特朗普威胁要'消灭整个伊朗文明'，引发国际社会广泛谴责和担忧。多位美国国内政治人士，包括部分共和党议员，对特朗普的言论表示不安，认为这可能构成战争罪威胁。联合国安理会就美伊局势召开紧急会议，但俄罗斯和中国否决了旨在要求伊朗重新开放霍尔木兹海峡的决议。特朗普的言论不仅加剧了地区紧张局势，也引发了对其精神状态的质疑，成为全球媒体关注的焦点。",
+      "reason": "特朗普威胁'消灭整个伊朗文明'引发国际谴责和国内担忧",
+      "impact_areas": [
+        "政治",
+        "地缘"
+      ],
+      "impact_level": "重大",
+      "sources": [
+        {
+          "name": "NYTimes",
+          "url": "https://www.nytimes.com/2026/04/07/world/middleeast/trump-iran-war-crimes.html"
+        },
+        {
+          "name": "NYTimes",
+          "url": "https://www.nytimes.com/2026/04/07/world/middleeast/democrats-react-trump-iran-civilization.html"
+        },
+        {
+          "name": "微博热搜",
+          "url": "https://s.weibo.com/weibo?q=%23特朗普最后通牒之后%23"
+        }
+      ]
+    },
+    {
+      "title": "美伊冲突推高油价",
+      "summary": "美伊冲突持续升级导致国际油价大幅上涨，美国原油期货价格达到52周新高。霍尔木兹海峡作为全球石油运输的关键通道，其安全状况直接影响全球能源供应。市场担忧冲突可能扩大导致石油供应中断，推动油价持续攀升。多国央行对地缘政治风险上升表示担忧，调查显示中央银行对地缘政治紧张局势的担忧程度显著上升。油价上涨对全球经济复苏构成压力，尤其对依赖石油进口的国家影响更为显著。",
+      "reason": "美伊冲突导致国际油价飙升，影响全球能源市场",
+      "impact_areas": [
+        "经济金融",
+        "地缘"
+      ],
+      "impact_level": "重大",
+      "sources": [
+        {
+          "name": "雪球热帖",
+          "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQNGk5RExJS3h3a2pqeXNzQ3VqeFprYkV1dnoyV3FiUFdIR25DbUZnSExqUzhiZmppMmhVUzVaSkxMdkh5bUFuVkhsdnVLUjhqQlJydmsydllFNkswUU1NaXZtLWFSWVR4ek51SUZiaXBLaFhoakRnSXBYbmNGVzByeVVkbWo4eWkwbFVsN0F3SnQ1UWVKU1lJUEs1S1M?oc=5"
+        },
+        {
+          "name": "虎嗅",
+          "url": "https://www.huxiu.com/article/4848658.html"
+        },
+        {
+          "name": "微博热搜",
+          "url": "https://s.weibo.com/weibo?q=%23全球缺油之际教你无中生%22油%22%23"
+        }
+      ]
+    },
+    {
+      "title": "美绕月飞船厕所故障",
+      "summary": "美国载人绕月任务中的1.5亿美元厕所设施出现故障，引发关注。这一消息在社交媒体上广泛传播，成为热门话题。此次绕月任务是美国时隔53年重启的载人绕月计划，旨在探索深空技术并测试未来火星任务所需的技术。厕所故障虽然不影响任务核心目标，但凸显了长期太空任务中生活设施维护的挑战。这一事件也引发了公众对太空探索成本和实用性的讨论。",
+      "reason": "美绕月飞船价值1.5亿美元厕所故障引发关注",
+      "impact_areas": [
+        "科技",
+        "产业"
+      ],
+      "impact_level": "重大",
+      "sources": [
+        {
+          "name": "微博热搜",
+          "url": "https://s.weibo.com/weibo?q=%23美绕月飞船1.5亿厕所已瘫痪%23"
+        },
+        {
+          "name": "抖音热搜",
+          "url": "https://www.douyin.com/search/美载人绕月任务刷新人类历史纪录"
+        }
+      ]
+    },
+    {
+      "title": "AI安全国家标准制定",
+      "summary": "中国成都团队参与为人工智能安全制定国家标准，推动AI技术规范发展。随着AI技术的快速发展和广泛应用，安全问题日益凸显。此次标准的制定旨在规范AI技术的研发和应用，确保AI系统的安全可靠。参与标准制定的专家表示，标准将涵盖AI系统的安全性、可控性和可解释性等多个方面。这一举措反映了国家对AI安全的高度重视，也将为全球AI治理提供中国方案。",
+      "reason": "中国参与制定AI安全国家标准，规范AI技术发展",
+      "impact_areas": [
+        "科技",
+        "政治"
+      ],
+      "impact_level": "重大",
+      "sources": [
+        {
+          "name": "雪球热帖",
+          "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5iWU9jaE1kMGxYVHp0T25yVWdZVjhVZ1RVUkJDWTNua1dpcU5ha0dFZ3haX09MekRuMzdTOUVTTThfNHFpM2NfX2NSWnhoSzlmZXA2ZkNFNGxiTlcwZVZQSE44d1BPQzVkZkFLclhjM2U5ejFramtSXw?oc=5"
+        }
+      ]
+    },
+    {
+      "title": "英特尔加入马斯克芯片项目",
+      "summary": "英特尔正式加入马斯克旗下的'Terafab'芯片项目，与SpaceX、特斯拉和xAI共同推进先进半导体制造。该项目旨在将逻辑芯片、存储芯片与先进封装整合于同一工厂，目标是实现每年1太瓦的AI算力产出。英特尔的加入为该项目提供了强大的制造能力和技术支持，有望加速AI芯片技术的发展。这一合作反映了科技巨头在AI算力领域的激烈竞争，也将对全球半导体产业格局产生深远影响。",
+      "reason": "英特尔加入马斯克芯片项目，加速AI算力发展",
+      "impact_areas": [
+        "科技",
+        "产业"
+      ],
+      "impact_level": "重大",
+      "sources": [
+        {
+          "name": "36氪",
+          "url": "https://www.36kr.com/newsflashes/3757362881413633"
+        }
+      ]
+    },
+    {
+      "title": "理想前高管创业机器人公司",
+      "summary": "理想汽车前AI首席科学家陈伟和前第二产品线负责人张骁联合创办具身智能公司'斜跃智能'，并获得理想汽车和元璟资本投资。公司成立于2026年2月，专注于具身智能技术研发。这一创业反映了汽车行业AI人才向更具前瞻性的机器人领域流动的趋势。随着自动驾驶和AI技术的发展，汽车制造商与科技公司之间的界限日益模糊，人才流动也更加频繁。斜跃智能的成立有望加速具身智能技术的商业化应用，推动人形机器人产业发展。",
+      "reason": "理想前高管创业机器人公司，加速具身智能发展",
+      "impact_areas": [
+        "科技",
+        "产业"
+      ],
+      "impact_level": "重大",
+      "sources": [
+        {
+          "name": "36氪",
+          "url": "https://www.36kr.com/newsflashes/3757373782966793"
+        }
+      ]
+    },
+    {
+      "title": "Alphabet为Gemini增加心理健康功能",
+      "summary": "Alphabet为其Gemini聊天机器人增加新的心理健康支持功能，并承诺在未来三年内投入3000万美元，帮助全球危机热线扩大服务能力。这一举措反映了AI技术在心理健康领域的应用趋势，也体现了科技巨头对社会责任的重视。Gemini新增的功能将包括情绪识别、危机干预和心理健康资源推荐等，旨在为用户提供更好的心理健康支持。这一投资不仅有助于扩大心理健康服务的覆盖范围，也将推动AI在医疗健康领域的创新应用。",
+      "reason": "Alphabet为Gemini增加心理健康功能，扩大AI应用场景",
+      "impact_areas": [
+        "科技",
+        "公共卫生"
+      ],
+      "impact_level": "重大",
+      "sources": [
+        {
+          "name": "36氪",
+          "url": "https://www.36kr.com/newsflashes/3757363875660296"
+        }
+      ]
+    }
+  ],
+  "total_fetched": 175,
+  "generated_at": "2026-04-08T07:26:26.176353+08:00"
+}
