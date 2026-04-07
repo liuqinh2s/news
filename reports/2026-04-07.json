@@ -2,67 +2,39 @@
   "date": "2026-04-07",
   "news": [
     {
-      "title": "美伊停火谈判僵持",
-      "summary": "美国总统特朗普设定周二为伊朗重新开放霍尔木兹海峡的最后期限，伊朗回应美方停战提议提出10项条款，包括永久结束战争、战后重建及解除制裁等。美伊双方在停火谈判中立场强硬，特朗普威胁若伊朗不满足要求将\"一夜之间\"解决伊朗问题，而伊朗则强调必须永久结束战争。目前霍尔木兹海峡通行量被AIS系统低估50%，全球能源供应链面临持续风险。",
-      "reason": "美伊冲突持续升级，全球能源安全面临重大威胁",
+      "title": "美伊最后通牒",
+      "summary": "美国总统特朗普4月7日向伊朗发出最后通牒，要求伊朗在当天晚8点前重新开放霍尔木兹海峡，否则将对伊朗关键基础设施实施更严厉打击。伊朗此前已通过巴基斯坦等中间渠道提出10项要求，寻求永久结束战争，但特朗普评价该提议\"还不够好\"。目前美军已打击伊朗超过1.3万个目标，155艘伊朗海军舰艇被损坏或摧毁。以色列方面也持续对伊朗实施打击，称已打击伊朗最大石化设施。霍尔木兹海峡是全球能源运输的关键通道，若持续关闭将引发全球能源危机。",
+      "reason": "美伊冲突升级，霍尔木兹海峡成全球能源安全焦点",
       "impact_areas": [
         "地缘",
         "经济金融",
-        "政治"
+        "生态"
       ],
       "impact_level": "现象级",
       "sources": [
         {
           "name": "凤凰网",
-          "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTFBzOEQtS0FyaGh4azF0a2I5aVZYeG9sNWZ6c3k5TDhSOGFINzhlenMtOTBTb18tQldKQXRLTjZwTng3Zm15WGNBMA?oc=5"
+          "url": "https://news.ifeng.com/c/8s7oswhR4cg"
         },
         {
           "name": "财新网",
-          "url": "https://finance.caixin.com/2026-04-07/102431303.html"
+          "url": "https://international.caixin.com/2026-04-07/102431324.html"
         },
         {
-          "name": "BBC",
-          "url": "https://www.bbc.com/news/articles/cqj8ep9w1pno?at_medium=RSS&at_campaign=rss"
+          "name": "凤凰网",
+          "url": "https://news.ifeng.com/c/8s7n7LukBeq"
         },
         {
-          "name": "虎嗅",
-          "url": "https://www.huxiu.com/article/4848398.html"
+          "name": "凤凰网",
+          "url": "https://news.ifeng.com/c/8s7mYbW8uAj"
         }
       ]
     },
     {
-      "title": "美军上校获救行动",
-      "summary": "美军成功在伊朗境内完成对被击落F-15E战机上校的救援行动，此次行动被描述为美国特种作战史上最具挑战性和最复杂的任务之一。救援过程中，美军上校在爬上约2100米高的山脊后向后方发出\"上帝是好的\"信息。然而，美军在执行任务过程中损失了一架运输机，残骸中发现一具美军士兵遗体。伊朗教育部称美以袭击已导致310名师生死亡。",
-      "reason": "美军在敌对国境内完成高风险救援行动，加剧地区紧张局势",
-      "impact_areas": [
-        "地缘",
-        "政治",
-        "军事"
-      ],
-      "impact_level": "重大",
-      "sources": [
-        {
-          "name": "财新网",
-          "url": "https://international.caixin.com/2026-04-07/102431305.html"
-        },
-        {
-          "name": "BBC",
-          "url": "https://www.bbc.com/news/articles/cx2vpz1kwreo?at_medium=RSS&at_campaign=rss"
-        },
-        {
-          "name": "凤凰网",
-          "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE5Odk9VaDlVUTgwUDQ2Q1JXVUNfM2YyUDRHdW5wNUNTa3h5cjdadGdhUGZ4a0RaVC1DZDljclVPVkZWd19HQ1MyQmotRm8?oc=5"
-        },
-        {
-          "name": "凤凰网",
-          "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE03OUpSN3FPVG5PeDBBOGRkSDgwYTA1NmRQeWlzeVY1R1JIT0FEUkUxX3JvTUhvTDNfVVdqQzVJUnNsUnBrVFd5OVVZMXo?oc=5"
-        }
-      ]
-    },
-    {
-      "title": "OpenAI与马斯克争端",
-      "summary": "OpenAI致信加州与特拉华州总检察长，呼吁对埃隆·马斯克及其关联方展开调查，指控其\"不当且反竞争行为\"。OpenAI战略总监贾森·权称，马斯克通过一系列\"攻击行为\"蓄意破坏OpenAI，包括与Meta首席执行官马克·扎克伯格\"协同行动\"，可能阻碍OpenAI研发通用人工智能(AGI)的进程。与此同时，OpenAI据悉有望最早于第四季度进行IPO。马斯克此前已公开批评OpenAI偏离其最初使命。",
-      "reason": "AI巨头间争端升级，可能影响全球AI发展格局",
+      "title": "SpaceX启动IPO",
+      "source": "SpaceX将启动IPO项目推介 高估值能否成立仰赖马斯克兜售梦想能力",
+      "summary": "据财新网4月7日报道，在与xAI完成合并两个月后，SpaceX即将启动IPO项目推介，估值傲视群雄。这家集火箭、卫星与人工智能于一体的公司计划于6月初进行路演，其估值能否吸引投资者将取决于马斯克的\"兜售梦想能力\"。SpaceX的IPO被视为科技界年度重大事件，可能重塑航天与AI产业格局。",
+      "reason": "航天与AI巨头启动IPO，估值挑战市场预期",
       "impact_areas": [
         "科技",
         "经济金融"
@@ -70,23 +42,19 @@
       "impact_level": "重大",
       "sources": [
         {
-          "name": "36氪",
-          "url": "https://www.36kr.com/newsflashes/3755938700968450"
+          "name": "财新网",
+          "url": "https://database.caixin.com/2026-04-07/102431355.html"
         },
         {
-          "name": "36氪",
-          "url": "https://www.36kr.com/newsflashes/3755943540916992"
-        },
-        {
-          "name": "雪球热帖",
-          "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQanpla3puUGU0N2JDYU90ZdVem1iNGVFYTVES1FsSzBKRkswNFJyenpfSnBBWXhhX2lFdGZiWmM1VnoxUVR6Zmw2alRXVEg4enhJZkpGVXVUNXZZYnVtMEt2Z0k5OWk0S3dxVXJEZHM1QjRrbkVvSGxjbjZuRUN1SF9CZGJGREk?oc=5"
+          "name": "Reuters",
+          "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPRHlRUEo1YjFydmRwWkgzaV9ULWdjSWl0SGJFaGVQVTVpYjJFaGc1blNIRm1tNnlvSXYzQ3I1RzNENFNIZEt4TVFFS285TTcxdHFfcXJaVFloRFdiZUZzMkp4RkRrbzktOUE5MDU3ZGFfR1RWMWhZUTFNZXAzY3ltbXVFNXZ4eGRKWVBQZkZJdm84aUc4dk92VVBXcU1kYnB4MXVBcjd4R3pnRTM5Vzl0SGd3?oc=5"
         }
       ]
     },
     {
-      "title": "三星电子业绩飙升",
-      "summary": "三星电子发布初步数据显示，其第一季度营业利润达到创纪录的57.2万亿韩元（约合380亿美元），同比增长755%，远超市场预期。营收增长68.1%至133万亿韩元。这一业绩主要得益于存储芯片业务强劲复苏和显示面板需求增长。三星电子将于本月晚些时候发布第一季度正式财报。与此同时，三星家族支付了549亿元遗产税尾款，引发市场关注。",
-      "reason": "全球最大芯片制造商业绩超预期，半导体行业复苏信号明显",
+      "title": "Anthropic收入破300亿",
+      "summary": "AI公司Anthropic宣布其年化收入已突破300亿美元，今年以来对其Claude服务的需求加速增长，超过1000家企业客户在该服务上的年化支出超过100万美元，这一数字自2月以来已翻倍。Anthropic将与博通和谷歌合作扩大AI算力，显示AI产业商业化进程加速。这一数据表明企业级AI市场正在快速扩张，大型科技公司在AI算力领域的竞争加剧。",
+      "reason": "AI商业化加速，企业级市场快速增长",
       "impact_areas": [
         "科技",
         "经济金融"
@@ -94,28 +62,24 @@
       "impact_level": "重大",
       "sources": [
         {
-          "name": "36氪",
-          "url": "https://www.36kr.com/newsflashes/3755940074111494"
-        },
-        {
-          "name": "微博热搜",
-          "url": "https://s.weibo.com/weibo?q=%23三星家族549亿元遗产税尾款%23"
+          "name": "财新网",
+          "url": "https://database.caixin.com/2026-04-07/102431347.html"
         }
       ]
     },
     {
-      "title": "美\"阿耳忒弥斯2号\"创纪录",
-      "summary": "美国\"阿耳忒弥斯2号\"载人绕月任务成功打破人类距离地球最远飞行纪录。此次任务标志着人类重返月球计划的重要里程碑，也为未来火星探索奠定基础。任务期间，宇航员在距离地球约45万公里的轨道上进行了多项科学实验和技术测试。这一成就正值全球太空竞赛加剧之际，多国加速推进月球和深空探索计划。",
-      "reason": "人类太空探索新里程碑，深空竞赛加剧",
+      "title": "NASA登月任务突破",
+      "summary": "美国东部时间4月6日，NASA\"阿尔忒弥斯二号\"的四名宇航员开始对月球背面的飞掠，标志着人类首次目睹月球背面。此次任务不仅创造了距离地球的新纪录，还面临技术挑战，宇航员被迫使用\"尿不湿\"应对紧急情况。这是美国重返月球计划的重要里程碑，为未来登月任务奠定基础，也标志着美苏登月竞赛后的新一轮太空探索热潮。",
+      "reason": "人类首次飞掠月球背面，登月计划取得重大突破",
       "impact_areas": [
         "科技",
-        "政治"
+        "地缘"
       ],
       "impact_level": "重大",
       "sources": [
         {
           "name": "凤凰网",
-          "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTFBzYWhzUElVVy0wd3pjcmc0dk5WR3g3NEpiYTJHejFLYnY0Z1lVOWlnNHM4d2UwMWp5YWlrOFpFWmtlVzkzWGFKZ19HRWU?oc=5"
+          "url": "https://news.ifeng.com/c/8s7lSlfecNc"
         },
         {
           "name": "Reuters",
@@ -124,94 +88,100 @@
       ]
     },
     {
-      "title": "霍尔木兹海峡通行量被低估",
-      "summary": "Citrini Research报告显示，霍尔木兹海峡实际通行量被AIS系统低估50%，这一发现对全球能源供应链评估产生重大影响。霍尔木兹海峡是全球最重要的石油运输通道，每天约有五分之一的全球石油贸易通过该海峡。随着美伊冲突持续，该海峡的通行安全已成为全球能源市场关注的焦点。伊朗已表示霍尔木兹海峡\"永远回不到从前\"，特别是对美国和以色列而言。",
-      "reason": "全球能源运输关键通道数据被低估，影响能源市场评估",
+      "title": "越南国家主席选举",
+      "summary": "当地时间4月7日，在越南第十六届国会会议上，苏林当选越南国家主席。苏林1957年7月生于越南北部兴安省，长期在越南公安部任职，2016年4月至2024年5月任公安部部长，2024年5月当选国家主席，2024年8月当选越共中央总书记。此次选举是越南政治生活中的重要事件，将对越南内外政策走向产生重要影响。",
+      "reason": "苏林当选越南国家主席，政治格局发生变化",
       "impact_areas": [
-        "经济金融",
+        "政治",
         "地缘"
       ],
       "impact_level": "重大",
       "sources": [
         {
-          "name": "虎嗅",
-          "url": "https://www.huxiu.com/article/4848398.html"
-        },
+          "name": "凤凰网",
+          "url": "https://news.ifeng.com/c/8s7oLlwYyMz"
+        }
+      ]
+    },
+    {
+      "title": "私募信贷赎回潮",
+      "summary": "据财新网4月7日报道，私募信贷赎回潮正在蔓延，高盛称其私募信贷基金凭借机构资金更具抗风险能力。在这一波资金外流背景下，高盛称贷款环境正在发生\"显著转变\"。这一现象反映出在美伊冲突引发的金融市场波动中，投资者风险偏好下降，资金从高风险资产向更稳健产品转移，可能对信贷市场产生深远影响。",
+      "reason": "私募信贷市场出现赎回潮，风险偏好下降",
+      "impact_areas": [
+        "经济金融"
+      ],
+      "impact_level": "重大",
+      "sources": [
+        {
+          "name": "财新网",
+          "url": "https://database.caixin.com/2026-04-07/102431350.html"
+        }
+      ]
+    },
+    {
+      "title": "清明档票房下滑",
+      "summary": "国家电影专资办数据显示，清明假期（4月4日-4月6日）全国电影票房收入3.05亿元，同比下滑19%。假期观影人次800.5万，同比下滑13.8%。尽管新片数量增加、放映场次增加、票价更便宜，但缺乏高热度话题电影导致观影人次减少。外国动画片连续五年成为清明档冠军，反映出中国本土电影创作面临的挑战。",
+      "reason": "清明档票房同比下滑19%，观影人次减少",
+      "impact_areas": [
+        "社会"
+      ],
+      "impact_level": "重大",
+      "sources": [
+        {
+          "name": "财新网",
+          "url": "https://www.caixin.com/2026-04-07/102431314.html"
+        }
+      ]
+    },
+    {
+      "title": "AI医疗趋势",
+      "summary": "财新网4月7日刊载文章分析AI+医疗的发展趋势与终局，指出这场不可逆的变革正在倒逼医院和医生全方位向服务升级转型。文章认为，AI技术正在改变医疗行业格局，从诊断、治疗到管理全链条渗透，但也面临数据安全、伦理规范等挑战。医疗AI的快速发展将重塑医患关系，并可能改变未来医疗服务的提供方式。",
+      "reason": "AI技术重塑医疗行业，推动服务升级转型",
+      "impact_areas": [
+        "科技",
+        "公共卫生"
+      ],
+      "impact_level": "重大",
+      "sources": [
+        {
+          "name": "财新网",
+          "url": "https://opinion.caixin.com/2026-04-07/102431357.html"
+        }
+      ]
+    },
+    {
+      "title": "大学生运动猝死",
+      "summary": "据长江日报4月6日报道，21岁女大学生晓晴在锻炼时突然倒地，心跳呼吸全无。经15天全力救治后脱离生命危险，目前仍在医院接受治疗。医院急救团队立即启动ECMO进行抢救。这一事件引发社会对年轻人健康问题的关注，特别是过度劳累与运动安全的关系，也反映出当代大学生面临的健康压力。",
+      "reason": "女大学生运动时猝死引发健康关注",
+      "impact_areas": [
+        "公共卫生",
+        "社会"
+      ],
+      "impact_level": "重大",
+      "sources": [
         {
           "name": "凤凰网",
-          "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE5SUW43dVpQMFF2c2IySUM0UlpHcHhTd3JjcV9pSnd1X3BvQzhCV0NJMWVOS1dwVS1oa2dnbFpCUlFrd0UyRXdETklwSjg?oc=5"
+          "url": "https://news.ifeng.com/c/8s7o2M1DXos"
         }
       ]
     },
     {
-      "title": "高铁隧道海底突破",
-      "summary": "中国高铁建设取得重大技术突破，成功将高铁隧道延伸至海底。这一工程突破标志着中国在复杂地质条件下的隧道工程技术达到世界领先水平。该技术不仅将改变沿海地区的交通格局，还将为未来跨海通道建设提供重要技术支撑。抖音等平台相关话题引发广泛关注，显示公众对这一重大工程成就的高度关注。",
-      "reason": "中国基建技术重大突破，改变沿海交通格局",
+      "title": "AI复刻员工",
+      "summary": "近日，山东一家游戏传媒公司尝试将离职员工训练成AI人继续工作引发关注。该公司员工表示，事件中的同事是真离职，本次尝试经过他本人同意，其数字分身目前能做咨询、邀约、制作PPT和表格等简易工作。这一案例引发关于AI与人类工作边界、数字身份权等问题的讨论，也反映出企业对AI技术的探索应用。",
+      "reason": "公司尝试AI复刻离职员工，引发伦理讨论",
       "impact_areas": [
         "科技",
-        "经济"
+        "社会"
       ],
       "impact_level": "重大",
       "sources": [
         {
-          "name": "抖音热搜",
-          "url": "https://www.douyin.com/search/我国把高铁隧道挖到了海底"
-        }
-      ]
-    },
-    {
-      "title": "清明假期出行高峰",
-      "summary": "清明假期迎来跨区域人员流动高峰，预计全社会跨区域人员流动量达8.4亿人次。各地交通部门采取多项措施保障出行安全顺畅，包括增加运力、优化服务等。假期期间，文旅市场呈现回暖态势，多地推出特色文化活动吸引游客。这一数据反映了中国庞大的人口流动能力和消费潜力，也为后疫情时代经济复苏提供积极信号。",
-      "reason": "假期出行创纪录，反映中国人口流动与消费活力",
-      "impact_areas": [
-        "社会",
-        "经济"
-      ],
-      "impact_level": "重大",
-      "sources": [
-        {
-          "name": "36氪",
-          "url": "https://www.36kr.com/newsflashes/3755941662917126"
-        },
-        {
-          "name": "微博热搜",
-          "url": "https://s.weibo.com/weibo?q=%23清明假期预计跨区域流动8.4亿人次%23"
-        }
-      ]
-    },
-    {
-      "title": "特斯拉智能召唤调查结束",
-      "summary": "美国国家公路交通安全管理局宣布结束对特斯拉高级智能召唤功能(\"Actually Smart Summon\")的调查，该调查涉及约259万辆汽车。这一决定意味着特斯拉无需针对该功能进行大规模召回。高级智能召唤功能允许车辆在驾驶员监督下自动泊车和低速行驶，是特斯拉自动驾驶系统的重要组成部分。调查结束有助于缓解市场对特斯拉自动驾驶安全性的担忧。",
-      "reason": "特斯拉自动驾驶功能调查结束，缓解市场担忧",
-      "impact_areas": [
-        "科技",
-        "经济"
-      ],
-      "impact_level": "重大",
-      "sources": [
-        {
-          "name": "36氪",
-          "url": "https://www.36kr.com/newsflashes/3755945502130950"
-        }
-      ]
-    },
-    {
-      "title": "甲骨文任命新CFO",
-      "summary": "甲骨文公司宣布任命Hilary Maxson为首席财务官，该任命自2026年4月6日起生效。Maxson将向首席执行官Clay Magouyrk汇报。此次人事变动正值甲骨文加速向云计算和人工智能领域转型的关键时期。作为企业软件巨头，甲骨文的战略调整对全球企业IT市场产生重要影响。新CFO的任命将有助于公司推进其云业务增长和国际化扩张战略。",
-      "reason": "科技巨头管理层变动，影响云业务战略方向",
-      "impact_areas": [
-        "科技",
-        "经济"
-      ],
-      "impact_level": "重大",
-      "sources": [
-        {
-          "name": "36氪",
-          "url": "https://www.36kr.com/newsflashes/3755944779662087"
+          "name": "凤凰网",
+          "url": "https://news.ifeng.com/c/8s7n7LukBrq"
         }
       ]
     }
   ],
-  "total_fetched": 176,
-  "generated_at": "2026-04-07T07:26:58.965330+08:00"
+  "total_fetched": 264,
+  "generated_at": "2026-04-07T10:40:34.917080+08:00"
 }
