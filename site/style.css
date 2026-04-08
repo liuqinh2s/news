@@ -48,6 +48,7 @@ html, body {
     height: 100%;
     font-size: 16px;
     scroll-behavior: smooth;
+    overflow-x: hidden;
 }
 
 body {
@@ -156,8 +157,10 @@ body {
 
 .container {
     max-width: 680px;
+    width: 100%;
     margin: 0 auto;
     padding: 20px 16px 0;
+    overflow: hidden;
 }
 
 /* ── Tab Panels ───────────────────────────────── */
@@ -174,6 +177,8 @@ body {
     cursor: pointer;
     transition: all 0.2s;
     box-shadow: var(--shadow);
+    overflow: hidden;
+    min-width: 0;
 }
 
 .news-card:hover {
@@ -193,6 +198,9 @@ body {
     font-weight: 600;
     color: var(--text-primary);
     line-height: 1.4;
+    word-break: break-word;
+    overflow-wrap: break-word;
+    min-width: 0;
 }
 
 .news-card .card-date {
@@ -231,6 +239,8 @@ body {
     font-size: 0.8rem;
     color: var(--text-muted);
     margin-top: 8px;
+    word-break: break-all;
+    overflow-wrap: break-word;
 }
 
 .card-sources a, .modal-sources a {
