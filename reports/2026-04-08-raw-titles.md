@@ -1,4 +1,4 @@
-# 2026-04-08 原始新闻标题 (175 条)
+# 2026-04-08 原始新闻标题 (214 条)
 
 ## 新华社 (20 条)
 - Education, health fees among key concerns
@@ -22,62 +22,97 @@
 - Former Chongqing political official facing corruption investigation
 - Former Chongqing political official facing corruption investigation
 
-## 澎湃新闻 (2 条)
+## 澎湃新闻 (12 条)
+- 芜湖单轨，全国通报表扬！ - thepaper.cn
+- 厉害的中国画丨一支秃笔开天地——贺天健 - thepaper.cn
+- 首例沙子岭猪克隆猪成功产仔 - thepaper.cn
+- 闸坡猪肉零售价持续走低 市民“菜篮子”负担减轻 - thepaper.cn
+- 中俄投出反对票 - thepaper.cn
+- 4月7日：“农产品批发价格200指数”比节前下降0.93个点 - thepaper.cn
 - 从雪山酱板鸭到集体律师函，AI版权的水有多深？ - thepaper.cn
 - 算力逃逸：地面数据达极限，太空机房接棒未来 - thepaper.cn
+- 第十七届广东省运会首战：阳江市冲浪队斩获2金1银 金牌数全省第一 - thepaper.cn
+- 女子称休完产假发现“公司没了”，已申请仲裁，劳动监察部门回应 - thepaper.cn
+- 造成国有公司严重损失，原中化集团副总经理冯志斌被提起公诉 - thepaper.cn
+- 禁用社交平台与不买智能手机，澳大利亚与爱尔兰的两种童年路径 - thepaper.cn
 
-## 凤凰网 (4 条)
-- 专家：哈尔克岛易攻难守，美军战果与伤亡或不成正比 - 凤凰视频
-- 距特朗普的“最终期限”不到半天之际伊朗民众在一些发电厂和桥梁聚集自发组成“人链”保护这些伊朗关键基础设施 - 凤凰视频
-- 台湾评论员：郑丽文随行人员中，苏起的出现最具意义 - 凤凰视频
-- 20260407 2300突发_2图文区 - 凤凰网
+## 凤凰网 (20 条)
+- 伊朗民众组成人链保护发电厂，特朗普回应 - 凤凰网
+- 农村女团：留守妇女的“限时庇护所” - 凤凰网
+- 博主自助餐吃12个汉堡被店主报警？老板回应 - 凤凰网
+- 郑丽文拜谒中山陵，发言时数度哽咽 - 凤凰网
+- 特朗普转变心意是再一次的TACO还是有深层考量？ - 凤凰视频
+- 日本一钢铁厂脚手架倒塌 多名工人坠落 - 凤凰视频
+- 现场视频：郑丽文拜谒中山陵 - 凤凰网
+- 凤凰女记者：伊朗民众希望能有喘息机会，但不相信美国 - 凤凰视频
+- 记者连线｜特朗普：收到伊朗提出的10点方案 - 凤凰视频
+- 美伊同意停火两周 国际油价最高跌幅超22% 一度跌至不到92美元 金价重上4800美元 - 凤凰视频
+- 凤凰女记者：伊朗叙事中自己取得了胜利，民众在广场欢呼 - 凤凰网
+- 受战争影响 今年逾越节哭墙广场空无一人 - 凤凰视频
+- 美国新任国土安全部长警告：有国际机场城市须与联邦合作 - 凤凰视频
+- 凤凰女记者：伊朗有声音说美国同意停火是伊朗的胜利 - 凤凰视频
+- 特朗普：美国与伊朗同意双向停火两周 - 凤凰视频
+- 如何确保美国落实两周停火提议？ - 凤凰视频
+- 美国白宫附近举行反战示威，呼吁特朗普下台 - 凤凰视频
+- 15年坚守！江苏师大师生在甘肃民勤书写绿色奇迹 - 凤凰网
+- 美伊为何同意停火？这是和平曙光还是权宜之计？ - 凤凰视频
+- 凤凰女记者：伊朗有声音说美国同意停火是伊朗的胜利 - 凤凰网
 
-## 财新网 (2 条)
-- 特朗普称美伊同意双向停火两周 伊朗确定谈判将展开
-- 财经早知道｜特朗普同意停火两周
+## 财新网 (3 条)
+- 今日开盘：两市双双高开 沪指涨幅1.03% - 财新
+- 财经早知道｜特朗普同意停火两周，伊朗称伊美谈判10日开始 - 财新
+- 巴基斯坦证实伊美同意立即停火 将于10日开始谈判 - 财新
 
-## BBC (9 条)
-- Tracking recent US-Israeli strikes on Iranian infrastructure
+## 央视网 (1 条)
+- 国台办：两岸的事是两岸同胞的家里事 - 央视网
+
+## BBC (12 条)
+- Iran ceasefire deal a partial win for Trump - but at a high cost
+- What we know about the two-week ceasefire between the US and Iran
+- Trump-backed Republican Clay Fuller wins election to replace Marjorie Taylor Greene
+- Oil plunges after US-Iran ceasefire deal to reopen Strait of Hormuz
 - Wireless Festival cancelled after Kanye West blocked from coming to UK
-- US journalist Shelly Kittleson to be released after kidnap in Iraq, militia says
+- US journalist Shelly Kittleson released after kidnap in Iraq, officials say
+- Plan to scrap presidential elections puts Zimbabweans at loggerheads
 - French couple leave Iran after more than three years in jail
 - JD Vance backs Orbán's re-election bid in Budapest visit and hits out at EU
-- Plan to scrap presidential elections puts Zimbabweans at loggerheads
-- What the US military could do if Iran fails to meet Trump's ultimatum
+- Tracking recent US-Israeli strikes on Iranian infrastructure
 - Indian migrant workers hit by cooking gas shortages are leaving cities
 - Iranians form human chains at bridges and power plants
 
-## Reuters (8 条)
+## Reuters (10 条)
 - Wall Street closes mixed, with signs of progress as Trump's Iran deadline draws near - Reuters
-- US soldier's wife freed from ICE detention as deportation attempt continues - Reuters
-- Gunfight outside Israeli consulate in Istanbul leaves one attacker dead - Reuters
-- US SEC says it filed 456 enforcement actions during fiscal year 2025 - Reuters
-- Protesters break into Kuwaiti consulate in Iraq’s Basra after rocket attack kills three - Reuters
-- Brayan Rocchio delivers winning run in 9th as Guardians top Royals - Reuters
+- Trump says he agrees to suspend bombing of Iran for two weeks - Reuters
 - Central banks' concern over rising geopolitical tensions surges, survey shows - Reuters
+- Protesters break into Kuwaiti consulate in Iraq’s Basra after rocket attack kills three - Reuters
+- US soldier's wife freed from ICE detention as deportation attempt continues - Reuters
+- Fed's Jefferson sees risks to both employment, inflation - Reuters
+- Gunfight outside Israeli consulate in Istanbul leaves one attacker dead - Reuters
+- Moody's cuts outlook on Blue Owl fund to 'negative' over surge in redemption requests - Reuters
+- Brayan Rocchio delivers winning run in 9th as Guardians top Royals - Reuters
 - Bourbon demand is down and tariffs aren't helping. But distillers keep building. - Reuters
 
 ## NYTimes (20 条)
-- Iran War Live Updates: U.S. and Iran Agree to Cease-Fire, Avoiding Trump’s Threats of Imminent Devastation
+- Iran War Live Updates: U.S., Iran and Israel Agree to Cease-Fire
 - ‘I Love Viktor’: Trump and Vance Cheer on Orban in Hungarian Race
 - Kanye West ‘Should Never Have Been Invited,’ Starmer Says After Barring Rapper From UK
 - Shelly Kittleson, American Journalist Abducted in Iraq, Is Freed
 - Gunman Killed in Shootout Near Israeli Consulate in Istanbul, Officials Say
-- Trump Backs Down, but Questions Remain About Iran’s Concessions and the Strait
+- How China Built Its Vast Natural Gas Stockpile
+- He Got Rich Buying and Selling Luxury Watches. Was It a Ponzi Scheme?
+- Hours Before News of Cease-Fire, Pope Leo XIV Issues Strong Rebuke of Trump
 - Iran War Timeline: Key Moments and Attacks In U.S. and Israel’s Campaign
 - Trump’s Iran Threats Look Like Self-Incrimination for Potential War Crimes
 - Russia and China Veto Proposed U.N. Resolution to Open the Strait of Hormuz
 - Deadline Time
-- Democrats Condemn Trump’s Iran Threats as Some Lawmakers Call for Impeachment
+- Democrats Condemn Trump’s Iran Threats as Some Call for His Removal Via 25th Amendment
 - Trump Says He Has Agreed to a 2-Week Cease-Fire With Iran
 - Some Republicans Vent Concern as Party Backs Trump’s Iran Threat
 - As Deadline Nears, Confusion Over U.S.-Iran Talks Swirls Worldwide
 - Trump’s Threat to Wipe Out a ‘Whole Civilization’ Appalls Some Conservatives
 - Chairman of the Joint Chiefs Struggles to Justify Trump’s Threats
 - U.S. Warns of Cyberattacks Tied to Iran on Water and Energy Systems
-- Pentagon Stays Mum on School Strike, Even As Trump Boasts of Iran Rescue
-- Iranian Officials Say Indirect Talks With U.S. Ended After Trump’s Latest Threat
-- Trump Threatens Broad Attacks in Iran. How Is Illegal Conduct in War Defined?
+- Pentagon Stays Mum on School Strike, Even as Trump Boasts of Iran Rescue
 
 ## CNN (6 条)
 - 0% intro APR until 2024 is 100% insane
@@ -88,119 +123,127 @@
 - Want Cash Out of Your Home? Here Are Your Best Options
 
 ## 微博热搜 (20 条)
-- 乘风2026一公小考倒数第一
-- 仅一户报名摇号的房子第二天售罄
-- 外国人来中国旅游更火了
-- 特朗普同意停火2周
+- 店主回应因博主吃12个汉堡报警
+- 浪姐一公小考
+- 从超3亿元退费看民生保障力度
+- 海湾多国遭袭
+- 吴镇宇 王格格你是来炫耀的吗
+- 午睡悲伤综合征
+- 冰湖重生平了我的意难平
+- 仅1户报名摇号没买到房当事人发声
+- 粉色蓝莓
+- 伊朗代表感谢中俄
+- 压塌20年樱花树女子认错愿赔偿
+- 金子涵 再逼我就把所有的都说出来
+- 徐艺洋回应黄子韬身体状况
 - 伊朗接受停火提议
-- 直播涉黄牛奶品牌为中华老字号
-- 美绕月飞船1.5亿厕所已瘫痪
-- 上海女子爬树压塌20年樱花树
-- 王楚钦称跟樊振东打出了自己的问题
-- 华晨宇的民宿定价3块钱
-- 特朗普最后通牒之后
-- 伊朗称若局势失控曼德海峡也将关闭
-- 伊朗民众组成人链保护发电厂和桥梁
-- 把蓝莓当消炎药吃
-- 美以大规模轰炸计划被曝已准备就绪
-- 身体有慢性炎症可以多吃这些水果
-- 美以袭击哈尔克岛
-- 陈少荣只给江语晨写过歌
-- 张雪母亲发声
-- 韩国回应特朗普
+- 妻子称上班11天死亡丈夫不抱怨工作
+- 倪虹洁1个人要赡养5个老人
+- 王艳19岁儿子时尚感
+- 谁懂我的五一不想将就住
+- 779元滴眼液暴涨至3382元
+- 以色列仍在持续打击伊朗
 
-## 知乎热榜 (14 条)
-- 为什么拉稀的时候放屁不会出来屎，人体（主要是肛门）是靠什么分辨屎和屁的？
-- 瞎扯 · 如何正确地吐槽
-- 中国古代上流社会的吃货到底能吃到些什么？
-- 刘邦的起义团队，在张良、韩信加入前是不是草台班子?
-- Python 中的 range 函数为什么要设计成「左闭右开」的样子，这是有啥用意吗？
-- 川西和瑞士的区别在哪里？
-- 为什么墨子会觉得音乐是像精神鸦片一样的东西？
-- 为什么苏轼明明喜欢他堂妹，却最后却在《江城子·乙卯正月二十日夜记梦》里对夫人王弗那么思念？
-- 什么东西早就应该发明出来，而现在却没有？
-- 宋朝的夜市那么繁华，有哪些延续到今天的美食？
-- 瞎扯 · 如何正确地吐槽
-- 如何评价纪念碑谷这个游戏？
-- 瞎扯 · 如何正确地吐槽
-- 为什么老虎的头比猫大很多，但并没有比猫聪明多少？
+## 知乎热榜 (3 条)
+- 伊朗公布提交给美方的十点计划核心内容，包括全额赔偿伊朗的损失、解除制裁等，美方会接受吗？ - 知乎
+- 美伊双方同意停火两周，伊朗外长称若袭击停止会开放霍尔木兹海峡，对全球能源市场会有怎样的影响？ - 知乎
+- LongCat-Flash-Prover：AI 攻克数学定理证明，不仅要“算得对”，更要“证得严” - 知乎专栏
 
 ## B站热门 (20 条)
-- 真人版 GeoGuessr！苏州 24 小时极限盲猜！本地记忆 VS 逻辑推理，谁能封神？
-- 《溺水の鱼》
 - 我嫁给你是来享福的，不是来吃苦的！别再被这句话洗脑了！
-- 2026年4-6月国创春季导视-哔哩哔哩版权国创
-- 用船制作的跑酷？
-- 住手☆！不要用1月新番玷污我啊啊啊！！【泛式】
+- 《溺水の鱼》
 - “至此，已成仙品！！！”
-- 当你穿进老钱班21
-- 《原神》角色预告-「莉奈娅：精准答疑，倾心追奇！」
+- 2026年4-6月国创春季导视-哔哩哔哩版权国创
+- 《逆战：未来》樱之渊赛季CG
+- 用船制作的跑酷？
+- 《渣养翻车》1-3合集
+- 萌新原创末日故事连载剧【归墟】第二集-暗潮
+- 这下真的要永别了，“粉底液将军”！
+- 当我花20租了个房子
+- 住手☆！不要用1月新番玷污我啊啊啊！！【泛式】
 - 你芈月阿姨一个雷霆大招，你就史辣！
-- 葫芦娃救大兵瑞恩？这波伊朗和美国都赢了！
+- 三国杀up锐评新三国268：这是上天要我建功啊！
+- 人民的班长！全集
 - 儿时的老水果真的消失了吗？？？【主播说三农】
+- 《原神》角色预告-「莉奈娅：精准答疑，倾心追奇！」
+- 谁是镇站之腿？现场测量up主们的腿长
+- 葫芦娃救大兵瑞恩？这波伊朗和美国都赢了！
+- 这首领血脉秘药十分的珍贵，得让胖猫先喝
 - 我将与他奇观对顶！【帝国时代4】
-- 爆了！价值700万的火影全服第一战力账号被助理毁号！无奈之下拆东补西突破9300万战力！
-- 历史上哪件兵器光听名字就很厉害？小孩哥的回答“硬控”全场！
-- 老酒馆最逆天人物排行
-- 陈鲁豫对话陈文淇：那个领完奖要回去上学的女孩，走入成人世界后 | 陈鲁豫·慢谈EP15【视频播客】
-- 四川妹子在芬兰市中心开中式烧烤餐车摆摊创业火爆街头！川渝烧烤宜宾燃面各国老外街头撸串太疯狂！大排长龙求开店！
-- 他用一百美元，办了场奥运会
-- 6位UP主100天理财挑战！谁将成为最强理财王？
 
 ## 抖音热搜 (20 条)
-- 皇马1:2拜仁
-- 一代人有一代人的神兵利器
-- 春假清明连休点燃春季消费市场
-- 全球缺油之际教你无中生“油”
-- 荆芥为什么走不出河南
-- 特朗普：同意停火两周
-- 景德镇的手艺人有多厉害
-- 我用摄影看世界
 - 开始期待五一假期了
+- 我用摄影看世界
+- 春季消费热起来了
 - 春天就要去春游
+- 我就这样美美走进春夏
 - 伊朗接受停火提议
 - 千禧年复古手机开箱
-- 月鳞绮纪全员傀儡舞手势舞
-- 辽宁男篮3.8秒上演极致配合
+- A股
+- 女生买衣服一定要学会看细节
+- 伊朗公布十点计划核心内容
+- 国际现货金银齐拉升
+- 伊美双方停火生效
+- 10万亿中央转移支付流向了哪里
+- 皇马1:2拜仁
 - 当我打电话说没钱吃饭时
-- 我和我完美的旅游搭子
-- 美载人绕月任务刷新人类历史纪录
 - 各地特色美食花海大赏
 - 伊朗称伊美谈判4月10日开始
-- 伊朗：哈尔克岛遭到袭击
+- 田嘉瑞现场戏腔清唱ost
+- 荒野垂钓也能过上小康生活
+- 我和我完美的旅游搭子
 
-## 雪球热帖 (5 条)
-- 曹姓股民向电科数字发起索赔 宋一欣律师接受咨询 - 新浪财经
-- 万家瑞兴C净值上涨3.59% - 新浪财经
-- 美国原油期货收于52周新高，特朗普设定的最后期限在即 - 新浪财经
-- 给人工智能安全定“国标” 成都团队参与 - 新浪财经
-- 李书福家族资本疾行 - 新浪财经
+## 雪球热帖 (20 条)
+- 刘姓股民向航锦科技发起索赔 赵敬国律师接受咨询 - 新浪财经
+- 徐姓股民向巨力索具发起索赔 赵敬国律师接受咨询 - 新浪财经
+- 周姓股民向利尔达发起索赔 张海峰律师接受咨询 - 新浪财经
+- 新浪财经隔夜要闻大事汇总：2026年4月8日 - 新浪财经
+- 粮食ETF广发（159587）涨0.80%，半日成交额4379.38万元 - 新浪财经
+- 智能车ETF泰康（159720）涨3.39%，半日成交额21.02万元 - 新浪财经
+- 750亿美元！SpaceX最新披露→ - 新浪财经
+- 旅游ETF富国（159766）涨4.17%，半日成交额2.83亿元 - 新浪财经
+- 智能驾驶ETF华泰柏瑞（516520）涨4.12%，半日成交额4421.27万元 - 新浪财经
+- 上证180ETF兴业（530680）涨2.61%，半日成交额287.49万元 - 新浪财经
+- 医疗ETF建信（159891）涨1.90%，半日成交额484.60万元 - 新浪财经
+- 美元人民币盘中下跌322点 - 新浪财经
+- 智能制造ETF华宝（516800）涨4.78%，半日成交额577.40万元 - 新浪财经
+- A50ETF广发（159136）涨3.11%，半日成交额42.66万元 - 新浪财经
+- 光伏ETF汇添富（516290）涨3.76%，半日成交额1805.48万元 - 新浪财经
+- 中证A50ETF摩根（560350）涨3.03%，半日成交额2162.35万元 - 新浪财经
+- 碳中和ETF泰康（560560）涨2.99%，半日成交额41.68万元 - 新浪财经
+- 粮食ETF鹏华（159698）涨0.93%，半日成交额5156.15万元 - 新浪财经
+- 锂电池ETF工银（159840）涨2.97%，半日成交额4835.28万元 - 新浪财经
+- 公用事业ETF国投瑞银（159159）涨0.88%，半日成交额410.38万元 - 新浪财经
 
 ## 36氪 (20 条)
-- 富时罗素确认越南的新兴市场地位
-- 多家上市券商加大国际业务投入，打造国际一流投行“排位战”开启
-- AlmondNet宣布与亚马逊达成专利侵权纠纷和解
-- Waymo在纳什维尔推出自动驾驶网约车服务
-- 前理想高管联合创业做机器人，理想汽车、元璟资本投资
-- 德国商业银行驳回裕信的收购要约
-- 韩国2月经常帐顺差达231.9亿美元，创历史新高
-- 德国3月纯电动车注册量同比增长66.2%
-- 思格新能：拟全球发售1357.39万股H股，发售价324.20港元
-- 甲骨文任命Hilary Maxson为首席财务官
-- 达美航空上调行李托运费
-- 美联储4月维持利率不变的概率为98.4%
-- Alphabet为Gemini增加心理健康功能
-- H.I.G.Capital任命新首席执行官
-- 英特尔加入马斯克领衔的Terafab芯片合资项目
-- 微软、Spotify、Viking被列入美银美国1号名单
-- 比特币日内涨幅扩大至5%
-- PIMCO考虑为甲骨文密歇根数据中心提供140亿美元债务融资
-- 现货白银日内涨幅达5.0%，报76.69美元/盎司
-- 马斯克要求将诉讼赔偿金归还OpenAI旗下慈善机构
+- TIKTOK计划投资11.6亿美元建设第二个芬兰数据中心
+- 半日主力资金加仓电子板块，抛售医药生物板块
+- 习近平：推进生产性服务业向专业化和价值链高端延伸
+- 希音2025年物流减碳超60万吨
+- 恒指午间休盘涨2.82%，恒生科技指数涨4.42%
+- 慧谷新材：公司目前没有应用于氢能源领域的产品
+- 南向资金净卖出额达100亿港元
+- 本田中国3月终端汽车销量36201辆，同比下降34.34%
+- A股三大指数午间休盘集体上涨，贵金属板块领涨
+- 沪深两市成交额突破1.5万亿
+- 沪指涨超2%
+- 新西兰央行维持关键利率不变
+- 阿特斯：近期光伏组件价格较此前低点已有明显回升
+- “双派机器人”完成A轮融资，深耕适老化出行场景
+- GLM再度提价10%，智谱大涨近19%
+- 微信香港钱包：2026年复活节假期内地线下零售金额同比翻倍
+- 老旧小区、经营性自建房将由政府购买服务，建共享消防设施
+- 蔚来资本旗下企业等入股灵猴机器人
+- 沪深两市成交额突破1万亿
+- “地瓜机器人”宣布完成1.5亿美元B2轮融资
 
 ## 虎嗅 (5 条)
-- 油价在涨，石油股却尴尬了
-- 刚刚，DeepSeek 大升级，V4真的不远了
-- 便宜的Token，难赚的钱：AI行业最尴尬的真相
-- 公司，开始变得多余
-- 甲骨文凌晨6点裁员3万人背后：AI时代真正被重写的是企业生产要素
+- 美伊战争启示录，霍尔木兹海峡，扯掉了谁的底裤？ - 虎嗅
+- 中国科研实力在多领域超越美国，引发全球科技格局重构 - 虎嗅
+- 大陆摩托车品牌世界超级摩托车锦标赛夺冠 国台办回应两岸产业合作 - 虎嗅
+- 成都警方刑拘一房多租诈骗嫌疑人 涉案金额待查 - 虎嗅
+- 经济日报：探索证券行业数字人民币应用。 - 虎嗅
+
+## 少数派 (2 条)
+- 🎁 福利派 | 少数派首款超薄钢化膜今日开售
+- 派早报：macOS 内核 TCP 协议栈存在溢出漏洞、Google Pixel 10a 推出独占版本等
