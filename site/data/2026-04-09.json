@@ -1,6 +1,207 @@
 {
   "date": "2026-04-09",
-  "news": [],
-  "total_fetched": 228,
-  "generated_at": "2026-04-09T11:29:17.860186+08:00"
+  "news": [
+    {
+      "title": "美伊达成两周停火",
+      "summary": "美国与伊朗达成为期两周的停火协议，结束了持续40天的军事冲突。以色列表示停火不适用于黎巴嫩，继续对黎巴嫩发动空袭。多国谴责以色列在停火后继续军事行动。霍尔木兹海峡仍未恢复全面通航，国际油价波动。中国外交部表示支持巴勒斯坦等斡旋方为推动局势降温所做的努力。",
+      "reason": "美伊冲突持续发酵，停火协议影响全球能源安全与地缘政治格局。",
+      "impact_areas": [
+        "地缘政治",
+        "经济金融",
+        "能源"
+      ],
+      "impact_level": "现象级",
+      "sources": [
+        {
+          "name": "BBC",
+          "url": "https://www.bbc.com/news/articles/ce84z6y3ke4o"
+        },
+        {
+          "name": "凤凰网",
+          "url": "https://news.ifeng.com/c/8sBCc4xb2US"
+        },
+        {
+          "name": "澎湃新闻",
+          "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE81aFlaVjhuRmJFb0RBcVR5VEZEQU01Q0h6ekRkMzdRTDRQY21GaUFibGZfbVlzd0VvSUo0UlVBSGYxN0xRcDNuYjVLTENrdTdxT0pLT0JLSERzRUREaG9naA"
+        }
+      ]
+    },
+    {
+      "title": "以空袭黎巴嫩致182死",
+      "summary": "以色列在美伊停火协议宣布后继续对黎巴嫩发动大规模空袭，造成至少182人死亡，袭击目标包括贝鲁特南郊、南部黎巴嫩和东部贝卡谷地。多国谴责以色列的军事行动，认为其违反了国际人道主义法。联合国呼吁各方保持克制，避免局势进一步升级。",
+      "reason": "停火后继续军事行动，加剧地区紧张局势，引发国际社会广泛谴责。",
+      "impact_areas": [
+        "地缘政治",
+        "国际关系"
+      ],
+      "impact_level": "重大",
+      "sources": [
+        {
+          "name": "BBC",
+          "url": "https://www.bbc.com/news/articles/c0j6d538l6qo"
+        },
+        {
+          "name": "微博热搜",
+          "url": "https://s.weibo.com/weibo?q=%23以空袭黎巴嫩致254死1165伤%23"
+        }
+      ]
+    },
+    {
+      "title": "贾浅浅论文涉抄袭",
+      "summary": "西北大学教师贾浅浅（著名作家贾平凹之女）被指2014年发表的学术论文《文学视阈下贾平凹绘画艺术研究》涉嫌抄袭。西北大学已成立工作专班启动调查。事件引发学术界对论文评审机制和学术诚信的广泛讨论，公众质疑学术评审是否存在'人情分'和'关系分'。",
+      "reason": "知名作家之女涉嫌学术抄袭，引发学术界和公众对学术诚信的广泛质疑。",
+      "impact_areas": [
+        "教育",
+        "社会"
+      ],
+      "impact_level": "重大",
+      "sources": [
+        {
+          "name": "凤凰网",
+          "url": "https://news.ifeng.com/c/8sB9dOjDo1m"
+        },
+        {
+          "name": "微博热搜",
+          "url": "https://s.weibo.com/weibo?q=%23贾浅浅的论文是如何一路通关的%23"
+        }
+      ]
+    },
+    {
+      "title": "河南三地数据造假",
+      "summary": "河南三地被曝出招商数据严重造假，上报78亿元，实际到账不足1亿元。事件引发对地方政府招商引资数据真实性的质疑，也反映出一些地方在经济发展压力下可能存在的数据造假问题。相关部门已介入调查。",
+      "reason": "多地招商数据严重造假，暴露地方政府数据造假问题，损害政府公信力。",
+      "impact_areas": [
+        "政治",
+        "经济金融"
+      ],
+      "impact_level": "重大",
+      "sources": [
+        {
+          "name": "B站热门",
+          "url": "https://b23.tv/BV1dRD7BKEH6"
+        },
+        {
+          "name": "抖音热搜",
+          "url": "https://www.douyin.com/search/河南三地招商数据造假"
+        }
+      ]
+    },
+    {
+      "title": "霍尔木兹海峡再关闭",
+      "summary": "霍尔木兹海峡在美伊停火协议后再次关闭，只有少数船只通过。这一关键能源通道的持续关闭对全球石油供应造成严重影响，国际油价因此大幅波动。BBC分析显示，霍尔木兹海峡的实际通行量被AIS系统低估50%，加剧了市场对能源供应的担忧。",
+      "reason": "全球能源咽喉持续关闭，影响国际石油供应和全球经济稳定。",
+      "impact_areas": [
+        "经济金融",
+        "能源",
+        "地缘政治"
+      ],
+      "impact_level": "重大",
+      "sources": [
+        {
+          "name": "澎湃新闻",
+          "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE81aFlaVjhuRmJFb0RBcVR5VEZEQU01Q0h6ekRkMzdRTDRQY21GaUFibGZfbVlzd0VvSUo0UlVBSGYxN0xRcDNuYjVLTENrdTdxT0pLT0JLSERzRUREaG9naA"
+        },
+        {
+          "name": "虎嗅",
+          "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBnM0dmdGRoU2wwdHlRd1FvRnRPTXBmZUkyLWthZWlBUVd1MWZrdHlqbUxmR1VmU3Z6Wjd2UHVuWGVpT2kzYlVRd3E2aHBBbzRqRXc"
+        }
+      ]
+    },
+    {
+      "title": "A股三大指数集体下跌",
+      "summary": "A股三大指数集体下跌，沪指跌0.73%，深成指跌0.31%，创业板指跌0.67%。光模块、半导体板块逆势走强，东山精密涨停，光迅科技涨超8%。主力资金净流入电子、机械设备、通信等板块，净流出传媒、非银金融板块。沪深两市成交额突破1万亿元，较上一个交易日缩量超1100亿元。",
+      "reason": "A股市场波动加剧，板块分化明显，反映投资者对经济复苏预期的分歧。",
+      "impact_areas": [
+        "经济金融"
+      ],
+      "impact_level": "重大",
+      "sources": [
+        {
+          "name": "36氪",
+          "url": "https://www.36kr.com/newsflashes/3759039359812355"
+        },
+        {
+          "name": "雪球热帖",
+          "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE10a1VTVlZNLTgyRFpZdF8wdlBlbkNGd1JzMXBSQkM0UlJaTVRJT3VrOXFZZFhGRHM5MklwNXN1Ym5qa2QySlRKc0I2MEdzbVNqQzBwWFJUUDF4OWJKYjhmYmk3eW1Xd2RFdVFWQndHRkVxRENneVFmRQ"
+        }
+      ]
+    },
+    {
+      "title": "MiniMax发布MMX-CLI",
+      "summary": "中国AI企业MiniMax发布面向AI Agent的命令行工具MMX-CLI。接入后，Agent可以在ClaudeCode、OpenClaw等环境中原生调用MiniMax最新的编程、视频生成、语音合成、音乐创作等全模态模型，无需适配繁琐接口。这一工具降低了AI应用开发门槛，有望加速AI技术在各行业的落地应用。",
+      "reason": "国内AI企业发布重要开发工具，降低AI应用开发门槛，推动AI技术普及。",
+      "impact_areas": [
+        "科技"
+      ],
+      "impact_level": "重大",
+      "sources": [
+        {
+          "name": "36氪",
+          "url": "https://www.36kr.com/newsflashes/3759016669922056"
+        },
+        {
+          "name": "港股AI应用股持续走高",
+          "url": "https://www.36kr.com/newsflashes/3758999578067714"
+        }
+      ]
+    },
+    {
+      "title": "宇树阿里战略合作",
+      "summary": "宇树科技最新款机器人R1现身阿里西溪园区，双方将开展出海战略级合作，预计落地阿里旗下跨境电商平台速卖通。这一合作旨在为中国品牌提供出海解决方案，特别是在智能机器人领域。宇树科技由清华00后团队创办的'零次方机器人'也完成超亿元融资，显示智能机器人产业正迎来快速发展期。",
+      "reason": "科技巨头与机器人企业战略合作，推动中国智能机器人产业全球化发展。",
+      "impact_areas": [
+        "科技",
+        "经济金融"
+      ],
+      "impact_level": "重大",
+      "sources": [
+        {
+          "name": "36氪",
+          "url": "https://www.36kr.com/newsflashes/3759012263314180"
+        },
+        {
+          "name": "具身智能企业融资",
+          "url": "https://www.36kr.com/newsflashes/3758962984141317"
+        }
+      ]
+    },
+    {
+      "title": "玉龙雪山游客滞留",
+      "summary": "清明假期第一天，多名游客反映在玉龙雪山景区被滞留数小时，大索道突然停运且无提前通知和应急预案。游客在社交媒体上投诉景区服务差，排队时间长，应急措施不足。景区管理部门表示将加强应急管理，提升服务质量，避免类似事件再次发生。",
+      "reason": "知名景区管理混乱，游客体验差，暴露旅游服务应急管理短板。",
+      "impact_areas": [
+        "社会",
+        "旅游"
+      ],
+      "impact_level": "重大",
+      "sources": [
+        {
+          "name": "凤凰网",
+          "url": "https://news.ifeng.com/c/8sBEKMOvLYY"
+        }
+      ]
+    },
+    {
+      "title": "桑切斯将访华",
+      "summary": "西班牙首相桑切斯将于4月11日至15日开启自2023年以来的第四次访华行程。西班牙媒体认为这种频率在欧洲国家领导人中并不常见，并将此行解读为马德里对华政策延续和深化的重要一步。此次访问旨在加强与中国的政治联系，巩固互信，强化中西全方位战略合作。",
+      "reason": "欧洲国家领导人频繁访华，显示中西关系持续深化，中欧合作不断加强。",
+      "impact_areas": [
+        "政治",
+        "国际关系"
+      ],
+      "impact_level": "重大",
+      "sources": [
+        {
+          "name": "凤凰网",
+          "url": "https://news.ifeng.com/c/8sBAht8D3Kn"
+        },
+        {
+          "name": "抖音热搜",
+          "url": "https://www.douyin.com/search/西班牙首相桑切斯将访华"
+        }
+      ]
+    }
+  ],
+  "total_fetched": 178,
+  "generated_at": "2026-04-09T12:27:09.467755+08:00"
 }

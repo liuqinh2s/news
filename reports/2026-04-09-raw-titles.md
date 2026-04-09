@@ -1,4 +1,4 @@
-# 2026-04-09 原始新闻标题 (228 条)
+# 2026-04-09 原始新闻标题 (178 条)
 
 ## 新华社 (20 条)
 - Education, health fees among key concerns
@@ -22,44 +22,46 @@
 - Former Chongqing political official facing corruption investigation
 - Former Chongqing political official facing corruption investigation
 
-## 澎湃新闻 (7 条)
+## 澎湃新闻 (8 条)
+- 洲际酒店：高度重视并诚恳接受京津冀消协组织的监督与指导 - thepaper.cn
 - 内蒙古通辽市一煤炭物流企业被指违规作业十余年，生态环境局：环评未通过验收，限期整改 - thepaper.cn
-- 湘乡市再添一个国家级平台 - thepaper.cn
-- 山西2集体1个人受生态环境部表彰 - thepaper.cn
-- 严惩“机闹”、编造传播虚假恐怖信息等行为 - thepaper.cn
-- 接孩子途中突然爆燃！妻子全身70%深度烧伤，面临终身残疾，男子痛悔：“早知道会这样，打死我也不买” - thepaper.cn
-- 科技赋能轮作种植 海陵400亩早稻插秧全面铺开 - thepaper.cn
 - 霍尔木兹海峡再次关闭 - thepaper.cn
+- 155人！鹤壁发布最新进入面试人员名单 - thepaper.cn
+- 山西2集体1个人受生态环境部表彰 - thepaper.cn
+- 湘乡市再添一个国家级平台 - thepaper.cn
+- 奖励资金4500万元！鹤壁市淇县-浚县入选全国试点 - thepaper.cn
+- 严惩“机闹”、编造传播虚假恐怖信息等行为 - thepaper.cn
 
-## 凤凰网 (6 条)
-- 万斯：伊朗提交的第一版10点方案被我们扔进了垃圾桶 - 凤凰网
-- 黎巴嫩多地遭以色列大规模袭击，超250人身亡 - 凤凰网
-- 伊朗革命卫队称准备回击以色列 - 凤凰网
-- 白宫称特朗普已考虑退出北约 - 凤凰网
-- 白宫：伊朗提“更合理、更简明”新方案，可作谈判基础 - 凤凰网
-- 伊朗称“十点计划”中的三项被违反，“谈判基础”已破坏 - 凤凰网
+## 凤凰网 (20 条)
+- 以色列民众：要是停火成了战争终点，以军行动该改名“小猫的叫唤”
+- 大量游客滞留高海拔山顶，玉龙雪山景区回应
+- 欲选彰化县长狂被问“你爸同意吗”，谢衣凤霸气回应
+- 女儿涉嫌抄袭，贾平凹应有所回应
+- 柯文哲谈陆配“立委”失言风波
+- 男子非法采挖出售野生兰花被判缓刑，自费种植800株兰花修复生态获从宽处理
+- 松弛感拉满！三只“雪山萌兽”罕见同框
+- 最后逆转：特朗普毁灭文明的战争如何被叫停？
+- 特朗普说美媒披露的10项停战条款是“假新闻”
+- 福州吴石故居被命名为全国国家安全教育基地
+- 男子下载涉黄软件，从未输入个人信息，数万元不翼而飞
+- 安徽省政协原副主席姚玉舟被查
+- 民进党台北市长人选难产？蓝营青年揭原因：激进与温和路线的抉择
+- 还有“神秘第五人”？绿营台北市长人选，传出徐国勇也被点名
+- 初三女生被5名舍友欺负致骨折，警方立案，校园欺凌认定3个月无结果
+- 西班牙首相桑切斯四年内四次访华，西媒热议
+- 虚假摆拍“深山救助流浪女”，3人被查
+- 贾浅浅的论文是如何一路通关的？
+- 陈丽华告别仪式，六小龄童、马德华、白岩松到场悼念
+- 伊朗学者：停火是胜利，但不意味着战争结束
 
-## 财新网 (18 条)
-- 【市场动态】油价在大跌后反弹 霍尔木兹海峡通行仍受阻
-- 【市场动态】美国副总统万斯将率团开启美伊和谈 德黑兰指责停火协议遭破坏
-- 最后的波西米亚人｜猎读
-- 全球资产的“史诗愤怒”
-- 霍尔木兹海峡再关闭 以色列持续打击黎真主党引发伊朗反制
-- 遇到这样的采访对象，实在是不可多得的幸运｜小说《地层深处》⑧
-- 人事观察｜任职中联部30年 54岁金鑫升任副部长
-- 【市场动态】美联储会议纪要显示官员们认为伊朗战争带来双向风险
-- 【市场动态】银行合规审查导致售油资金到账缓慢 美国考虑对委内瑞拉央行解除制裁
-- 【市场动态】大型基金纷纷涌入美债和AI概念股 押注战争最动荡阶段已过
-- 缪延亮：中国通胀形势分析
-- 今日开盘：两市双双低开 沪指跌幅0.69%
-- 财新闻｜局势升级，霍尔木兹海峡再次关闭；伊朗：3项停战条款已遭违反
-- T早报｜OpenAI 拟在 IPO 中为散户预留股份；阿里围绕AI成立集团技术委员会；《哪吒2》全球票房超《泰坦尼克号》
-- 农民养老金怎么涨？钱从哪来？学者提多种思路
-- 慈善的冬天？报告称中国社会组织、社会捐赠总量近年持续下降
-- 投资扩床建医养中心，又一批二级医院涉足养老
-- 财经早知道｜习近平就服务业发展作出重要指示
+## 财新网 (2 条)
+- 今日开盘：两市双双低开 沪指跌幅0.69% - 财新
+- 财经早知道｜习近平就服务业发展作出重要指示 - 财新
 
-## BBC (12 条)
+## 央视网 (1 条)
+- 【够科普】国际护胃日｜根除幽门螺杆菌， 最怕半途而废 - 央视网
+
+## BBC (13 条)
 - Trump criticises Nato as alliance chief describes meeting as 'very frank'
 - What we know about the two-week ceasefire between the US and Iran
 - At least 182 killed across Lebanon in large wave of Israeli strikes
@@ -68,40 +70,20 @@
 - Pioneering wildlife cameraman Doug Allan dies in Nepal
 - Iran Strait of Hormuz warning adds to shipping uncertainty
 - Gambia appoints British barrister to prosecute gruesome Jammeh-era crimes
-- Arirang: Is BTS losing its K-pop identity as it aims for a bigger world stage?
+- Is BTS losing its K-pop identity as it aims for a bigger world stage?
+- Watch: BBC asks Artemis II crew a question in space
 - Watch: Pope Leo XIV spins basketball on his finger, with help from Harlem Globetrotters
 - Everything you need to know about BTS's comeback tour
 - Watch: Fire damages roof of Rio's Olympic velodrome
 
-## Reuters (6 条)
+## Reuters (7 条)
 - US Army veteran charged with leaking classified information to journalist - Reuters
 - Vietnam's top leader will make four-day visit to China, Chinese state media says - Reuters
+- US banks could release $320 billion in capital with new draft rules, analysts say - Reuters
 - Indiana suspends gas tax for 30 days amid rising prices - Reuters
 - Fire at Rio Olympic Park velodrome brought under control, no injuries reported - Reuters
 - NASA's lunar success sharpens focus on China's 2030 crewed landing goal - Reuters
 - Delta hits brakes on growth plans as fuel spike reshapes airline economics - Reuters
-
-## NYTimes (20 条)
-- Iran War Live Updates: Cease-Fire Tested by Confusion Over Strait and Strikes on Lebanon
-- Greece Plans to Block Social Media for Children Under 15
-- Canada’s Mark Carney Poised to Secure Liberal Party Majority After Gladu’s Defection
-- Even as They Praise Iran Cease-Fire, World Leaders Are Whipsawed by Trump
-- Gas Prices Won’t Quickly Return to Prewar Levels, Even if the Strait of Hormuz Reopens
-- China Pressed Iran Toward Cease-Fire, Iranian Officials Say
-- Disagreement Over Lebanon’s Inclusion in Cease-Fire Threatens to Unravel It
-- Trump Finds Himself With Fragile Iran Cease-Fire After the Scramble to Make a Deal
-- Here’s What Happened in the War in the Middle East on Wednesday.
-- Is Strait of Hormuz Open Again? Maybe, but Few Ships Are Using It.
-- Vance Says Lebanon Was Never Part of U.S.-Iran Cease-Fire Deal
-- White House Knew About Pakistan’s Cease-Fire Post on X Before It Was Sent
-- White House Secures Foreign Steel for Trump’s Ballroom Project
-- A Shaky Truce
-- How War in the Middle East Paralyzed an Asian Food Giant
-- Vietnam Farms Hit by the War in Iran
-- Has Trump Met His War Goals in Iran?
-- Uncertainty Clouds Cease-Fire as Lebanon and Gulf States Are Struck
-- For Trump, Resuming Combat in Iran Would Be Risky, Even if Cease-Fire Expires
-- Gulf Arab nations report a barrage of Iranian attacks since the cease-fire.
 
 ## CNN (6 条)
 - 0% intro APR until 2024 is 100% insane
@@ -112,48 +94,26 @@
 - Want Cash Out of Your Home? Here Are Your Best Options
 
 ## 微博热搜 (20 条)
-- 宁波男篮当场裁掉外援
-- 卤菜店使用四姐二字被索赔50万
+- 20元中6715万彩票店老板发声
+- 17部影片定档2026五一档
 - 虚假摆拍深山救助流浪女3人被查
-- 以色列政坛集体破防
-- 杀发小男子因儿时手指被炸断积怨
-- 以空袭黎巴嫩致254死1165伤
-- 网络辟谣标签
-- 杭州西湖将连续一周撒7吨漂白粉
+- 多国齐声谴责以色列
+- 卤菜店使用四姐二字被索赔50万
+- 胃不好的人每天belike
+- 蔚来ES9正式发布
 - 猛禽飞入女子怀里依偎猫咪震惊
-- 丹麦改台湾人居留证国籍为中国
-- 贾平凹女儿被指论文抄袭
+- 贾浅浅的论文是如何一路通关的
+- 宁波男篮当场裁掉外援
+- 以色列政坛集体破防
+- 以色列议员公开辱骂特朗普
 - 金子涵否认是秦岚
-- 深圳通报救护车截单延误抢救致死
+- 乳腺癌早期的5个警示症状
+- 以空袭黎巴嫩致254死1165伤
 - 金靖说明显感觉到张凌赫太火了
-- NCT十周年预告
-- 以色列搅局
+- 男子求复合遭女友拒绝次日坠楼身亡
+- 月鳞绮纪胡闹了一天后的cp榜
 - 秦岚工作室声明
-- 男子求爱遭拒坠亡家属向女方索赔
-- 吴克群人民日报撰文
-- 霍尔木兹海峡再度关闭
-
-## 知乎热榜 (20 条)
-- 古人每天的工作时间是不是都挺短的？
-- 甲骨文目前已知有大概四千多个，是否能证明商代之前必然有文字？
-- 为什么 MiniMax 无法识别马嘉祺是谁？
-- 瞎扯 · 如何正确地吐槽
-- 为什么拉稀的时候放屁不会出来屎，人体（主要是肛门）是靠什么分辨屎和屁的？
-- 中国古代上流社会的吃货到底能吃到些什么？
-- 刘邦的起义团队，在张良、韩信加入前是不是草台班子?
-- 瞎扯 · 如何正确地吐槽
-- Python 中的 range 函数为什么要设计成「左闭右开」的样子，这是有啥用意吗？
-- 川西和瑞士的区别在哪里？
-- 为什么墨子会觉得音乐是像精神鸦片一样的东西？
-- 瞎扯 · 如何正确地吐槽
-- 把全世界的粪便集中排放到太平洋的正中心，会发生什么事情？
-- 为什么古典音乐圈更强调童子功、神童效应、等级考试和师承关系？
-- 王羲之的书法到底牛在什么地方？
-- 瞎扯 · 如何正确地吐槽
-- 为什么鸟等动物很少因为肥胖生病，只有人类因为肥胖生病需要减肥。动物都不会太胖？
-- 哪些情况可能导致因心源性猝死？第一时间该怎样急救？可以怎样尽早发现？
-- 为什么日本的鲷鱼烧要做成鱼的形状？
-- 新疆库木塔格沙漠惊现雪豹，雪豹不是住高山的吗，为什么会出现在沙漠？它靠什么活？
+- 深圳通报救护车截单延误抢救致死
 
 ## B站热门 (20 条)
 - 我嫁给你是来享福的，不是来吃苦的！别再被这句话洗脑了！
@@ -179,49 +139,53 @@
 
 ## 抖音热搜 (20 条)
 - 武汉暴雨
-- 高级穿搭万能公式
+- 河南三地招商数据造假
 - 3月我国物流业务活动趋于活跃
 - 我就这样美美走进春夏
-- 河南三地招商数据造假
+- 高级穿搭万能公式
+- 3人摆拍“深山救助流浪女”被查
+- 体验西双版纳的泼水文化
 - NASA发布“最清晰的月球照片”
-- TES战胜WE
-- 四所交通大学建校130周年
 - 霍尔木兹海峡已再次关闭
-- 哪吒2票房升至全球第4
-- 3月辟谣榜
 - 大巴黎2:0利物浦
-- 王毅将访问朝鲜
-- 冰湖重生带着复仇摇来复仇了
+- 陈丽华告别仪式
+- 3月辟谣榜
+- TES战胜WE
+- 美联储会议纪要
 - 乘风2026一公小考
-- 全网都在复刻莫氏鸡煲
+- 冰湖重生带着复仇摇来复仇了
 - 阿凡提怎么天天都这么开心
+- 全网都在复刻莫氏鸡煲
 - 剑来2李二问拳大隋
-- 冰湖重生抖音追剧团
 - A股
 
-## 雪球热帖 (20 条)
+## 雪球热帖 (18 条)
 - Contact Us_2025可持续全球领导者大会 - 新浪财经
 - 黄姓股民向英集芯发起索赔 张海峰律师接受咨询 - 新浪财经
-- 王姓股民向田野股份发起索赔 张海峰律师接受咨询 - 新浪财经
-- 国泰海通晨报 - 手机新浪网
+- 李姓股民向喜临门发起索赔 宋一欣律师接受咨询 - 新浪财经
 - 新浪财经隔夜要闻大事汇总：2026年4月9日 - 新浪财经
-- 每日晨报 - 手机新浪网
-- 晨会 - 手机新浪网
+- 电子布板块大涨 金安国纪涨停 - 新浪财经
 - 光电子板块大涨 光智科技涨停 - 新浪财经
-- 山东黄金股东山东黄金集团增持656.3万股耗资2.92亿元 - 新浪财经
+- 4月8日创业板50ETF景顺（159682）份额减少2.14亿份，最新份额26.37亿份，最新规模40.52亿元 - 新浪财经
 - 山西证券刘琪因违规委托非经纪人招揽客户 被陕西证监局出具警示函 - 新浪财经
-- 哈森股份2026年4月9日涨停分析：业务转型+股权收购+业绩改善 - 新浪财经
-- 美克家居2026年4月9日涨停分析：重大资产重组+业务调整+银行授信 - 新浪财经
-- 券商首席：三重利好共振 A股中期韧性凸显 - 新浪财经
+- *ST云网2026年4月9日涨停分析：新能源光伏+资金支持+净资产转正 - 新浪财经
+- 珈伟新能股东上海储阳光伏电力有限公司36天减持583.92万股，套现3117.29万元 - 新浪财经
+- 消费投诉哪个平台好用，几个渠道的真实使用区别 - 新浪财经
+- 伟星新材(002372)更新：稳价策略见效 高分红趋势延续 - 手机新浪网
 - 淮北矿业(600985)：加强成本管控 在建项目推进公司成长 - 手机新浪网
-- ST西发2026年4月9日跌停分析 - 新浪财经
-- 长江通信2026年4月9日涨停分析：资金管理+资产处置+公司治理 - 新浪财经
+- 纺织行业美棉价格复盘深度2：突破70美分／磅 后续向上驱动何在？ - 手机新浪网
 - 移动电源行业专题：充电宝新国标落地 格局重塑带来新机遇 - 手机新浪网
-- 伊朗公布霍尔木兹海峡安全航路图 - 新浪财经
-- 逝者｜带队时心梗终不治，这位罗马尼亚足球传奇曾说：死在球场上是最美好的事 - 新浪财经
-- 国乒男队伦敦世乒赛名单出炉：樊振东因个人原因自愿放弃，梁靖崑登上末班车 - 新浪财经
+- 航天机电2026年4月9日涨停分析：新能源订单+现金流改善+业务转型 - 新浪财经
+- 豪威集团于4月8日斥资3455.57万元回购36.25万股A股 - 新浪财经
+- A股港股联袂大涨 带动科技主题基金爆发 - 新浪财经
 
 ## 36氪 (20 条)
+- 海尔消费金融公司增资至约31.2亿元
+- 恒指午间休盘跌0.35%，恒生科技指数跌1.26%
+- 半日主力资金加仓电子板块，抛售传媒板块
+- 九岭锂业沪主板IPO终止，原计划募资31.35亿元
+- 杭氧股份、昆仑信托在上海成立气体公司
+- A股三大指数午间休盘集体下跌，光模块逆势走强
 - 中汽协：1-2月中国出口到“一带一路”沿线国家的汽车商品累计金额达263.3亿美元
 - 机器人租赁平台擎天租成智元新款人形机器人A3“首发应用场”
 - 高盛：将布油和美油第二季度价格预测分别下调至90美元和87美元
@@ -236,28 +200,10 @@
 - 具身智能企业“零次方机器人”完成超亿元融资，由清华00后团队创办
 - 小马智行全球化布局再迎新进展，克罗地亚开启欧洲首个商业化Robotaxi服务
 - 全球基金对泰国债券的购买量创两个月新高
-- 华宝股份：将加速HNB专用香精在烟芯材料等方面的应用
-- 纪录再刷新，横琴口岸提前29天客流破千万
-- 深成指、创业板指均跌超1%
-- 中信证券：看好国内洁净室领先企业
-- A股三大指数集体低开，油气股领涨
-- 中国央行公开市场开展5亿元7天期逆回购操作
 
 ## 虎嗅 (1 条)
 - 一场全面入侵，字节被逼急了 - 虎嗅
 
-## 少数派 (1 条)
+## 少数派 (2 条)
+- 雷鸟 Air3 AR 眼镜：一年使用体验复盘
 - 派早报：智谱发布旗舰模型 GLM-5.1、索尼推出 Playerbase 计划等
-
-## GitHub Trending (11 条)
-- forrestchang/andrej-karpathy-skills
-- TheCraigHewitt/seomachine
-- google-ai-edge/gallery
-- NVIDIA/personaplex
-- google-ai-edge/LiteRT-LM
-- elebumm/RedditVideoMakerBot
-- obra/superpowers
-- newton-physics/newton
-- abhigyanpatwari/GitNexus
-- virattt/ai-hedge-fund
-- goharbor/harbor
