@@ -511,8 +511,76 @@ def _load_history_titles(days: int = 3) -> str:
     return "\n".join(lines)
 
 
+def _call_ai_once(client, system_prompt: str, user_prompt: str, attempt_label: str, temperature: float = 0.3) -> "list[dict] | None":
+    """单次 AI 调用，返回解析后的列表，失败返回 None（区别于空列表 []）"""
+    try:
+        response = client.chat.completions.create(
+            model="glm-4-plus",
+            messages=[
+                {"role": "system", "content": system_prompt},
+                {"role": "user", "content": user_prompt},
+            ],
+            temperature=temperature,
+            max_tokens=16000,
+            response_format={"type": "json_object"},
+        )
+        content = response.choices[0].message.content.strip()
+        finish_reason = response.choices[0].finish_reason
+        usage = response.usage
+
+        # 保存到 logs/
+        ai_dump_path = LOGS_DIR / f"{TODAY}-ai-response.txt"
+        with open(ai_dump_path, "a", encoding="utf-8") as f:
+            f.write(
+                f"\n{'=' * 60}\n"
+                f"attempt: {attempt_label}\n"
+                f"finish_reason: {finish_reason}\n"
+                f"usage: {usage}\n"
+                f"content length: {len(content)}\n"
+                f"{'=' * 60}\n"
+                f"{content}\n"
+            )
+        logger.info(f"AI 原始返回已保存: {ai_dump_path} (finish_reason={finish_reason}, {len(content)} 字符)")
+
+        # 保存到 reports/（每次覆盖，保留最后一次）
+        ai_raw_path = REPORTS_DIR / f"{TODAY}-ai-raw.json"
+        ai_raw_data = {
+            "date": TODAY,
+            "model": "glm-4-plus",
+            "attempt": attempt_label,
+            "finish_reason": finish_reason,
+            "usage": {
+                "prompt_tokens": usage.prompt_tokens if usage else None,
+                "completion_tokens": usage.completion_tokens if usage else None,
+                "total_tokens": usage.total_tokens if usage else None,
+            },
+            "content_length": len(content),
+            "raw_content": content,
+        }
+        ai_raw_path.write_text(json.dumps(ai_raw_data, ensure_ascii=False, indent=2), encoding="utf-8")
+        logger.info(f"📦 AI 原始返回 JSON 已保存: {ai_raw_path}")
+
+        result = parse_json_response(content)
+        if result is not None:
+            logger.info(f"✅ AI 返回 {len(result)} 条新闻")
+            return result
+        else:
+            logger.warning(f"AI 返回内容无法解析为 JSON (finish_reason={finish_reason}, 长度={len(content)})")
+            return None
+
+    except Exception as e:
+        error_str = str(e)
+        is_content_filter = "1301" in error_str or "contentFilter" in error_str or "不安全或敏感内容" in error_str
+        if is_content_filter:
+            logger.warning(f"⚠️ {attempt_label} 触发内容安全过滤: {e}")
+            return None  # 返回 None 表示需要重试
+        else:
+            logger.error(f"AI 调用异常 ({attempt_label}): {e}")
+            return None
+
+
 def ai_filter_news(news_items: list[dict]) -> list[dict]:
-    """用 AI 大模型筛选重大新闻，带内容安全过滤重试机制"""
+    """用 AI 大模型筛选重大新闻，带多层重试和结果验证机制"""
     if not ZHIPU_API_KEY:
         logger.error("未设置 ZHIPU_API_KEY，跳过 AI 筛选")
         return []
@@ -529,8 +597,8 @@ def ai_filter_news(news_items: list[dict]) -> list[dict]:
         base_url="https://open.bigmodel.cn/api/paas/v4",
     )
 
-    # 定义多轮重试策略：逐步缩减输入内容
-    retry_strategies = [
+    # 定义输入策略：逐步缩减输入内容（应对内容安全过滤）
+    input_strategies = [
         {"name": "完整内容（清洗HTML）", "include_summary": True, "items": news_items},
         {"name": "仅标题+链接", "include_summary": False, "items": news_items},
         {"name": "仅标题+链接（去除社交媒体源）", "include_summary": False,
@@ -538,7 +606,12 @@ def ai_filter_news(news_items: list[dict]) -> list[dict]:
                    ("微博热搜", "知乎热榜", "B站热门", "抖音热搜", "豆瓣讨论")]},
     ]
 
-    for attempt, strategy in enumerate(retry_strategies):
+    # 最大总尝试次数（跨所有策略），防止无限重试
+    MAX_TOTAL_ATTEMPTS = 5
+    MIN_EXPECTED = 10
+    total_attempt = 0
+
+    for strategy_idx, strategy in enumerate(input_strategies):
         news_text = _build_news_text(strategy["items"], strategy["include_summary"])
         user_prompt = user_prompt_template.format(
             date=TODAY,
@@ -547,75 +620,53 @@ def ai_filter_news(news_items: list[dict]) -> list[dict]:
             history_text=history_text,
         )
 
-        logger.info(f"🤖 AI 筛选第 {attempt + 1} 次尝试：{strategy['name']}（{len(strategy['items'])} 条，{len(news_text)} 字符）")
+        # 每个策略最多尝试 2 次（第二次用更高 temperature 增加多样性）
+        temps = [0.3, 0.7]
+        for retry in range(len(temps)):
+            if total_attempt >= MAX_TOTAL_ATTEMPTS:
+                logger.warning(f"已达最大尝试次数 {MAX_TOTAL_ATTEMPTS}，停止重试")
+                break
+            total_attempt += 1
+            label = f"{total_attempt}/{MAX_TOTAL_ATTEMPTS} 策略={strategy['name']} retry={retry}"
+            logger.info(f"🤖 AI 筛选 [{label}]（{len(strategy['items'])} 条，{len(news_text)} 字符，temp={temps[retry]}）")
 
-        try:
-            response = client.chat.completions.create(
-                model="glm-4-plus",
-                messages=[
-                    {"role": "system", "content": system_prompt},
-                    {"role": "user", "content": user_prompt},
-                ],
-                temperature=0.3,
-                max_tokens=16000,
-                response_format={"type": "json_object"},
-            )
-            content = response.choices[0].message.content.strip()
-            finish_reason = response.choices[0].finish_reason
-            usage = response.usage
+            # 临时覆盖 temperature
+            result = _call_ai_once(client, system_prompt, user_prompt, label, temperature=temps[retry])
 
-            # 保存到 logs/
-            ai_dump_path = LOGS_DIR / f"{TODAY}-ai-response.txt"
-            ai_dump_path.write_text(
-                f"attempt: {attempt + 1} ({strategy['name']})\n"
-                f"finish_reason: {finish_reason}\n"
-                f"usage: {usage}\n"
-                f"content length: {len(content)}\n"
-                f"{'=' * 60}\n"
-                f"{content}\n",
-                encoding="utf-8",
-            )
-            logger.info(f"AI 原始返回已保存: {ai_dump_path} (finish_reason={finish_reason}, {len(content)} 字符)")
-
-            # 保存到 reports/
-            ai_raw_path = REPORTS_DIR / f"{TODAY}-ai-raw.json"
-            ai_raw_data = {
-                "date": TODAY,
-                "model": "glm-4-plus",
-                "attempt": attempt + 1,
-                "strategy": strategy["name"],
-                "finish_reason": finish_reason,
-                "usage": {
-                    "prompt_tokens": usage.prompt_tokens if usage else None,
-                    "completion_tokens": usage.completion_tokens if usage else None,
-                    "total_tokens": usage.total_tokens if usage else None,
-                },
-                "content_length": len(content),
-                "raw_content": content,
-            }
-            ai_raw_path.write_text(json.dumps(ai_raw_data, ensure_ascii=False, indent=2), encoding="utf-8")
-            logger.info(f"📦 AI 原始返回 JSON 已保存: {ai_raw_path}")
-
-            result = parse_json_response(content)
-            if result is not None:
-                logger.info(f"✅ AI 筛选出 {len(result)} 条重大新闻")
-                if len(result) == 0:
-                    logger.warning("AI 返回了空数组 []，大模型认为没有重大新闻")
-                return result
-            else:
-                logger.warning(f"AI 返回内容无法解析为 JSON (finish_reason={finish_reason}, 长度={len(content)})")
-                return []
-
-        except Exception as e:
-            error_str = str(e)
-            is_content_filter = "1301" in error_str or "contentFilter" in error_str or "不安全或敏感内容" in error_str
-            if is_content_filter and attempt < len(retry_strategies) - 1:
-                logger.warning(f"⚠️ 第 {attempt + 1} 次尝试触发内容安全过滤，将缩减内容后重试...")
+            # 结果验证
+            if result is None:
+                # 解析失败或异常，换策略
+                logger.warning(f"[{label}] AI 调用失败或解析失败，继续下一次尝试")
                 continue
-            else:
-                logger.error(f"AI 筛选失败: {e}")
-                return []
 
+            if len(result) >= MIN_EXPECTED:
+                logger.info(f"✅ AI 筛选出 {len(result)} 条重大新闻，符合预期")
+                return result
+
+            if len(result) == 0:
+                logger.warning(f"[{label}] AI 返回空数组，将重试（换 temperature 或换策略）")
+                continue
+
+            if 0 < len(result) < MIN_EXPECTED:
+                logger.warning(f"[{label}] AI 只返回了 {len(result)} 条（期望 {MIN_EXPECTED}），将重试")
+                # 保存这个不完整的结果作为兜底
+                if not hasattr(ai_filter_news, '_best_partial'):
+                    ai_filter_news._best_partial = result
+                elif len(result) > len(ai_filter_news._best_partial):
+                    ai_filter_news._best_partial = result
+                continue
+
+        if total_attempt >= MAX_TOTAL_ATTEMPTS:
+            break
+
+    # 所有尝试都未得到 >= MIN_EXPECTED 条结果，使用最佳部分结果
+    best = getattr(ai_filter_news, '_best_partial', None)
+    if best:
+        logger.warning(f"⚠️ 所有尝试均未达到 {MIN_EXPECTED} 条，使用最佳部分结果（{len(best)} 条）")
+        del ai_filter_news._best_partial
+        return best
+
+    logger.error(f"❌ 所有 {total_attempt} 次尝试均失败，返回空列表")
     return []
 
 

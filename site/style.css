@@ -112,6 +112,53 @@ body {
 [data-theme="light"] .icon-dark { display: none; }
 [data-theme="dark"] .icon-light { display: none; }
 
+/* ── Hero ─────────────────────────────────────── */
+.hero {
+    border-bottom: 1px solid var(--border);
+    background: var(--bg-primary);
+}
+
+.hero-inner {
+    max-width: 680px;
+    margin: 0 auto;
+    padding: 20px 16px;
+    text-align: center;
+}
+
+.hero-tagline {
+    font-size: 1.15rem;
+    font-weight: 700;
+    color: var(--text-primary);
+    letter-spacing: 0.5px;
+}
+
+.hero-sub {
+    font-size: 0.85rem;
+    color: var(--text-secondary);
+    margin-top: 6px;
+}
+
+.hero-stats {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-wrap: wrap;
+    gap: 6px;
+    margin-top: 12px;
+    font-size: 0.78rem;
+    color: var(--text-muted);
+}
+
+.stat-divider {
+    color: var(--border);
+}
+
+@media (max-width: 480px) {
+    .hero-inner { padding: 16px 12px; }
+    .hero-tagline { font-size: 1.05rem; }
+    .hero-stats { gap: 4px; font-size: 0.72rem; }
+}
+
 /* ── Tabs ─────────────────────────────────────── */
 .tabs {
     background: var(--tab-bg);
@@ -487,6 +534,13 @@ body {
     font-size: 0.8rem;
     border-top: 1px solid var(--border);
     margin-top: 32px;
+}
+
+.footer .footer-slogan {
+    font-size: 0.88rem;
+    color: var(--text-secondary);
+    font-weight: 500;
+    margin-bottom: 6px;
 }
 
 .footer .update-schedule {
