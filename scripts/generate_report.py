@@ -349,22 +349,84 @@ def load_prompt(filename: str) -> str:
 
 def repair_json(text: str) -> str:
     """尝试修复常见的 JSON 格式问题"""
+    # 清理非法控制字符和异常字节（保留常见的 \n \r \t）
+    text = re.sub(r'[\x00-\x08\x0b\x0c\x0e-\x1f\x7f]', '', text)
     # 去除可能的 markdown 代码块标记
     text = re.sub(r'^```(?:json)?\s*', '', text.strip())
     text = re.sub(r'\s*```$', '', text.strip())
-    # 修复中文引号
-    text = text.replace('\u201c', '"').replace('\u201d', '"')
+    # 将中文引号统一替换为转义的 ASCII 双引号（避免破坏 JSON 结构）
+    text = text.replace('\u201c', '\\"').replace('\u201d', '\\"')
     text = text.replace('\u2018', "'").replace('\u2019', "'")
     # 修复未转义的换行符（在字符串值内部的真实换行）
-    # 匹配 "key": "...内容中的换行..." 这种情况
     text = re.sub(r'(?<=": ")(.*?)(?=")', lambda m: m.group(0).replace('\n', '\\n'), text, flags=re.DOTALL)
     return text
+
+
+def _fix_unescaped_quotes_in_json(text: str) -> str:
+    """修复 JSON 字符串值中未转义的双引号（LLM 常见问题）。
+    
+    例如 AI 返回: "summary": "中国金融机构在"一带一路"倡议下"
+    应修复为:       "summary": "中国金融机构在\\"一带一路\\"倡议下"
+    """
+    result = []
+    i = 0
+    n = len(text)
+    
+    while i < n:
+        ch = text[i]
+        
+        # 跳过非字符串部分
+        if ch != '"':
+            result.append(ch)
+            i += 1
+            continue
+        
+        # 找到一个 " —— 判断是否是 JSON 字符串的开始
+        result.append(ch)
+        i += 1
+        
+        # 现在我们在字符串内部，收集直到找到真正的结束引号
+        while i < n:
+            ch = text[i]
+            
+            if ch == '\\':
+                # 转义序列，保留两个字符
+                result.append(ch)
+                i += 1
+                if i < n:
+                    result.append(text[i])
+                    i += 1
+                continue
+            
+            if ch == '"':
+                # 判断这个 " 是字符串结束还是未转义的内嵌引号
+                # 看后面的字符来判断
+                rest = text[i+1:i+20].lstrip()
+                # 如果后面是 JSON 结构字符，说明这是真正的字符串结束
+                if not rest or rest[0] in (',', '}', ']', ':'):
+                    result.append(ch)
+                    i += 1
+                    break
+                # 如果后面跟的是中文或字母（不是JSON结构），说明是未转义的引号
+                else:
+                    result.append('\\')
+                    result.append('"')
+                    i += 1
+                    continue
+            
+            result.append(ch)
+            i += 1
+    
+    return ''.join(result)
 
 
 def parse_json_response(content: str) -> "list[dict] | None":
     """从 AI 返回内容中提取并解析 JSON，带容错处理"""
     logger.debug(f"parse_json_response 输入长度: {len(content)} 字符")
     logger.debug(f"输入内容前 300 字符: {content[:300]}")
+
+    # 清理非法控制字符
+    content = re.sub(r'[\x00-\x08\x0b\x0c\x0e-\x1f\x7f]', '', content)
 
     # 提取 [...] 部分
     json_match = re.search(r'\[.*\]', content, re.DOTALL)
@@ -396,6 +458,15 @@ def parse_json_response(content: str) -> "list[dict] | None":
         return result
     except json.JSONDecodeError as e:
         logger.debug(f"第二次尝试（修复后解析）失败: {e}")
+
+    # 第 2.5 次尝试：修复字符串值中未转义的双引号
+    try:
+        fixed = _fix_unescaped_quotes_in_json(raw)
+        result = json.loads(fixed)
+        logger.debug(f"第 2.5 次尝试（修复未转义引号）成功，得到 {len(result)} 条记录")
+        return result
+    except json.JSONDecodeError as e:
+        logger.debug(f"第 2.5 次尝试（修复未转义引号）失败: {e}")
 
     # 第三次尝试：截断修复 — 找到最后一个完整的 },  截断并闭合数组
     try:
@@ -442,10 +513,35 @@ def parse_json_response(content: str) -> "list[dict] | None":
     except Exception:
         pass
 
-    # 第四次尝试：逐个对象提取（兜底）
+    # 第四次尝试：逐个顶层对象提取（支持嵌套 {}）
     try:
-        objects = re.findall(r'\{[^{}]*\}', raw, re.DOTALL)
-        logger.debug(f"第四次尝试（逐个对象提取），找到 {len(objects)} 个对象片段")
+        objects = []
+        depth = 0
+        start = -1
+        in_string = False
+        escape_next = False
+        for i, ch in enumerate(raw):
+            if escape_next:
+                escape_next = False
+                continue
+            if ch == '\\' and in_string:
+                escape_next = True
+                continue
+            if ch == '"' and not escape_next:
+                in_string = not in_string
+                continue
+            if in_string:
+                continue
+            if ch == '{':
+                if depth == 0:
+                    start = i
+                depth += 1
+            elif ch == '}':
+                depth -= 1
+                if depth == 0 and start >= 0:
+                    objects.append(raw[start:i + 1])
+                    start = -1
+        logger.debug(f"第四次尝试（逐个对象提取），找到 {len(objects)} 个顶层对象片段")
         results = []
         for obj_str in objects:
             try:
