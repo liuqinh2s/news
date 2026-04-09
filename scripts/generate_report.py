@@ -611,7 +611,7 @@ def _call_ai_once(client, system_prompt: str, user_prompt: str, attempt_label: s
     """单次 AI 调用，返回解析后的列表，失败返回 None（区别于空列表 []）"""
     try:
         response = client.chat.completions.create(
-            model="glm-4-plus",
+            model="glm-4.5-air",
             messages=[
                 {"role": "system", "content": system_prompt},
                 {"role": "user", "content": user_prompt},
@@ -642,7 +642,7 @@ def _call_ai_once(client, system_prompt: str, user_prompt: str, attempt_label: s
         ai_raw_path = REPORTS_DIR / f"{TODAY}-ai-raw.json"
         ai_raw_data = {
             "date": TODAY,
-            "model": "glm-4-plus",
+            "model": "glm-4.5-air",
             "attempt": attempt_label,
             "finish_reason": finish_reason,
             "usage": {
