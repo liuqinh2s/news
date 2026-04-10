@@ -9,8 +9,8 @@ https://liuqinh2s.github.io/news/
 ## 工作原理
 
 1. GitHub Actions 定时任务（北京时间每天 8:00 / 20:00）触发
-2. `scripts/generate_report.py` 从 RSS 源和社交媒体热搜抓取新闻
-3. 智谱 AI（GLM-4-Plus）筛选出真正重大的新闻（每天 0-5 条，宁缺毋滥），但如果实在没有合适的，可以放宽标准，保证每天至少有一条
+2. `scripts/fetch_news.py` 从 RSS 源和社交媒体热搜抓取新闻
+3. `scripts/ai_filter.py` 通过 AI 大模型筛选出真正重大的新闻，生成日报
 4. 生成 Markdown 日报 + 结构化 JSON，保存到 `reports/`
 5. `scripts/build.py` 将日报数据整理到 `site/data/`，生成索引
 6. GitHub Pages 自动部署 `site/` 目录
@@ -40,7 +40,9 @@ https://liuqinh2s.github.io/news/
 │   └── daily-report.yml       # GitHub Actions 定时任务（每天两次）
 ├── reports/                    # 生成的日报（Markdown + JSON，按日期命名）
 ├── scripts/
-│   ├── generate_report.py      # 新闻抓取 + AI 筛选脚本
+│   ├── fetch_news.py           # 新闻抓取脚本（RSS + 社交媒体热搜）
+│   ├── ai_filter.py            # AI 筛选脚本（读取原始新闻 → AI 分析 → 生成日报）
+│   ├── generate_report.py      # 兼容入口（依次调用 fetch_news + ai_filter）
 │   └── build.py                # 构建网站数据（生成索引、复制文件到 site/data/）
 ├── site/                       # 静态网站（部署到 GitHub Pages）
 │   ├── index.html
@@ -78,8 +80,15 @@ FIRECRAWL_API_KEY=你的Firecrawl API密钥（可选，备用抓取方案）
 ### 运行
 
 ```bash
-# 生成今日新闻日报
+# 生成今日新闻日报（抓取 + AI 筛选一步完成）
 python3 scripts/generate_report.py
+
+# 或者分步执行：
+# 1. 只抓取新闻
+python3 scripts/fetch_news.py
+
+# 2. 只运行 AI 筛选（使用已抓取的数据，适合调试 AI 或重跑）
+python3 scripts/ai_filter.py
 
 # 构建网站数据
 python3 scripts/build.py

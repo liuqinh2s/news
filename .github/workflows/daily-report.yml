@@ -23,11 +23,15 @@ jobs:
       - name: Install dependencies
         run: pip install -r requirements.txt
 
-      - name: Generate news report
+      - name: Fetch news
+        run: python scripts/fetch_news.py
+
+      - name: AI filter and generate report
         env:
           ZHIPU_API_KEY: ${{ secrets.ZHIPU_API_KEY }}
+          KIMI_API_KEY: ${{ secrets.KIMI_API_KEY }}
           FIRECRAWL_API_KEY: ${{ secrets.FIRECRAWL_API_KEY }}
-        run: python scripts/generate_report.py
+        run: python scripts/ai_filter.py
 
       - name: Build site data
         run: python scripts/build.py
