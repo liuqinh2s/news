@@ -1,4 +1,4 @@
-# 2026-04-11 原始新闻标题 (233 条)
+# 2026-04-11 原始新闻标题 (264 条)
 
 ## 新华社 (20 条)
 - Education, health fees among key concerns
@@ -22,72 +22,126 @@
 - Former Chongqing political official facing corruption investigation
 - Former Chongqing political official facing corruption investigation
 
-## 澎湃新闻 (9 条)
+## 澎湃新闻 (17 条)
 - 中国（内蒙古）自由贸易试验区揭牌仪式暨建设动员大会召开 - thepaper.cn
-- 湖北男子涉嫌杀害4岁女儿后报溺水假警，已被刑拘 - thepaper.cn
-- 谈判前，伊朗开出两大条件 - thepaper.cn
-- 特朗普：霍尔木兹海峡将“很快”开放 - thepaper.cn
-- “强基计划”报名启动！（附39所试点高校名单） - thepaper.cn
-- 特朗普：若无法与伊朗达成协议，将以更大力度恢复军事行动，美方已为军舰装载“最先进的武器” - thepaper.cn
+- “铭记历史，推进和平”，周边国家驻华外交官在抗战馆赴“和平之约” - thepaper.cn
+- 承办苏州队首个主场赛事，常熟的N种玩法待解锁 - thepaper.cn
 - “乒乓外交”55年｜让中美青年沿着“乒乓足迹”走近彼此 - thepaper.cn
-- 周末走起，沉浸式咖啡游乐园开市啦｜澎友好会花 - thepaper.cn
-- 广东肇庆一汽车零部件公司用洗枪水作业时发生轰燃，致3死4伤 - thepaper.cn
+- 巴基斯坦政府权威人士：美伊谈判形式尚不确定，双方做出多种安排，包括“面对面”和“背对背”，巴方已做好准备 - thepaper.cn
+- 湖北男子涉嫌杀害4岁女儿后报溺水假警，已被刑拘 - thepaper.cn
+- 总投资超29亿元！山西一国道改建工程有新动态 - thepaper.cn
+- 谈判前，伊朗开出两大条件 - thepaper.cn
+- 今晚潍坊市融媒体中心《潍有中医》栏目播出第119期节目《张瑞荣：扎根临朐九载，以本草初心护一方安康》 - thepaper.cn
+- 特朗普：霍尔木兹海峡将“很快”开放 - thepaper.cn
+- 芜湖这些学校，有了“午睡神器” - thepaper.cn
+- 伊朗：若美方代表“以色列优先”，谈判将无果而终 - thepaper.cn
+- “强基计划”报名启动！（附39所试点高校名单） - thepaper.cn
+- 伊朗代表团飞机上，放着这些孩子的照片…… - thepaper.cn
+- 特朗普：若无法与伊朗达成协议，将以更大力度恢复军事行动，美方已为军舰装载“最先进的武器” - thepaper.cn
+- 特朗普要在美国首都建“凯旋门”：高约76米，配有金色装饰；设计方案已提交，负责审批的部门由特朗普亲自挑人组成 - thepaper.cn
+- 盘活特殊资产 渤海湾特资平台一站赋能 - thepaper.cn
 
-## 凤凰网 (4 条)
-- 郑丽文：只要对两岸和平有帮助的事，都愿意去做 - 凤凰网
-- 司机开路虎加油后逃单，江西警方发布警情通报 - 凤凰网
-- 新华社：别让功利主义毁掉中国足球的未来 - 凤凰网
-- 特朗普称霍尔木兹海峡“很快就会重新开放” - 凤凰网
+## 凤凰网 (20 条)
+- 美以伊停火，为何是巴基斯坦出面调停？
+- 一次访问撬动三重变化，郑丽文大陆行重塑蓝营前进方向
+- 美国强烈反对后，英国暂缓“还岛”
+- 新华社：切莫再出“陪葬大奔”的荒诞闹剧！
+- 伊朗：将以最高谨慎态度参与谈判
+- 巴基斯坦总理发表声明
+- 现场视频：万斯及美方代表团抵伊斯兰堡
+- 美官员否认美国已同意解冻伊朗被冻结资产
+- 万斯与巴基斯坦总理举行会谈
+- 巴基斯坦官员说伊美谈判进程慢于预期
+- 张靓颖发文怒斥：我真是服了，2026了还能遇到这种人？
+- 美伊举行首轮谈判，专家：美方或心怀鬼胎
+- 郑丽文参观北京故宫，游客兴奋打招呼
+- 伊朗消息人士称谈判启动条件尚未得到满足
+- 男子杀害4岁女儿骗保：预谋5个月，家属提出其作案时精神状态异常
+- 伊朗学者谈美伊谈判：只是一次“脆弱的暂时停歇”
+- 巴基斯坦官员：巴方正努力推动实现美伊面对面直接谈判
+- 中国国民党副主席就“一国两制”的台湾方案答凤凰记者
+- 伊朗消息人士：美国已同意解冻伊朗海外资产
+- 伊美谈判安保层层设防，记者探访谈判地点
 
-## 央视网 (2 条)
+## 财新网 (20 条)
+- “东旭系”造假余波：中兴财光华遭罚没2.43亿元、暂停经营1年 创本土审计所处罚记录
+- 新车热销难持久 蔚来李斌揭开产销失衡“陷阱”
+- 首批大型油轮通过“替代航道”驶出霍尔木兹海峡 伊朗集装箱码头恢复作业
+- 睡个好觉，是人生最划算的投资｜猎读
+- 特稿｜没“卷”就业先“卷”实习 直击阿里校园实习生春招现场
+- 第69届荷赛揭晓 中国摄影师吴芳凭《60岁为母》获长期项目大奖
+- 这么近，那么美，周末到邯郸｜纪行
+- 千古跃动：松冈美术馆的中国古陶磁之光（上）｜观展
+- 这一次，我自己的报道，也做好了被起诉的准备｜小说《地层深处》⑩
+- 财新闻｜伊朗：各方已达成共识，伊方十点计划将作为谈判基础
+- 【周刊提前读】财政金融联手促信贷 如何拉动企业投资与居民消费？
+- 【周刊提前读】口罩需求高峰过后客户不提货了 法律如何平衡各方利益？
+- 【周刊提前读】爱泼斯坦案“震中”转移欧洲 美国关注度已下降
+- 【周刊提前读】深度：美伊分歧巨大 海湾战事难言平息
+- 【周刊提前读】商业健康险存多重堵点 行业如何抓住政策春风？
+- 【周刊提前读】石磊专栏：石油危机与产业变局
+- 【周刊提前读】优化算力分配 阿里大刀阔斧重塑组织架构
+- 【周刊提前读】数据中心倒逼电网升级 中国电力设备全面出海
+- 【周刊提前读】电动化不是单向发展 燃油车仍有一席之地
+- 【周刊提前读】重返月球一波三折：阿尔忒弥斯二号的启示
+
+## 央视网 (4 条)
+- 夫妻用AI写公众号年赚200万？平台集体对“AI代笔”说不 - 央视网
+- 各地限定春鲜解锁“舌尖密码” “特色美食+文旅”延伸消费链条 - 央视网
+- 美以官员称 伊朗导弹发射装置损毁过半但可修复 - 央视网
 - 辽宁鞍山市岫岩县发生3.7级地震，震源深度10千米 - 央视网
-- 哥伦比亚申请正式加入南方共同市场 - 央视网
 
-## BBC (14 条)
-- Lyse Doucet: Historic US-Iran talks must bridge deep distrust
-- Final push for votes as challenger to Hungary's Orbán scents victory
-- Lebanon and Israel officials to meet in US on Tuesday
-- Irish government prepares fuel support deal after blockade pressure
-- Palestinian shot dead during Israeli settler attack on occupied West Bank village
-- Chimpanzees in Uganda locked in vicious 'civil war', say researchers
-- Gunmen kill at least four people at Afghanistan picnic spot
-- South Korea deploys thermal imaging cameras in search for escaped zoo wolf
+## BBC (20 条)
+- Final push for votes as challenger to Hungary's Orbán senses victory
+- Artemis II mission was a triumph - now comes the hard part
+- Frontrunner for California governor denies sexual assault allegations
 - Melania Trump's speech propels Epstein crisis back to forefront
+- 'You are my god', Japan's PM tells British rock band Deep Purple
+- Trump posts graphic video of slaying to argue for stricter immigration policies
+- Baseball statue broken as it is unveiled in Seattle
+- Chimpanzees in Uganda locked in vicious 'civil war', say researchers
+- Djibouti's president wins unprecedented sixth term with 97.8% of vote
+- Palestinian shot dead during Israeli settler attack on occupied West Bank village
+- Irish government prepares fuel support deal after blockade pressure
+- South Korea deploys thermal imaging cameras in search for escaped zoo wolf
+- Gunmen kill at least four people at Afghanistan picnic spot
 - French man charged with locking son in van for more than a year
-- Trump has handed JD Vance his most difficult mission yet
-- The five big sticking points in US-Iran talks
 - 'Every drop of water counts': Fear for the future of Argentina's glaciers
+- Lyse Doucet: Historic US-Iran talks must bridge deep distrust
+- Trump has handed JD Vance his most difficult mission yet
+- This idyllic US town was full of police families - and a serial killer in their midst
+- Concerns after satellite provider restricts Iran images following US pressure
 - An inappropriate joke nearly ended his career. Now he's back with more humour
 
 ## Reuters (6 条)
-- US consumer inflation hot in March amid record surge in gasoline prices - Reuters
+- German debt brake reform won't happen during current government term, Bild reports - Reuters
 - Photos of the week - Reuters
 - Wall St ends mixed, notches weekly gains as investors parse Middle East negotiations - Reuters
 - IBM to pay $17 million to settle US government probe over DEI - Reuters
+- US consumer inflation hot in March amid record surge in gasoline prices - Reuters
 - Fed will need to explain why current inflation jump differs from 2022 surge - Reuters
-- China's top diplomat meets North Korea's Kim, calls for closer coordination - Reuters
 
 ## NYTimes (20 条)
-- Iran War Live Updates: Iranian Delegation Arrives at Peace Talks, With Vance en Route
+- Iran War Live Updates: Vance Lands in Pakistan for Peace Talks With Iran
+- How Lu Xun, a Famous Chinese Writer, Became a Cute Communist Mascot
+- Iran Has Been Consistent in War. Will It Be Consistent in Peace Talks?
+- Iran Tries to Grasp Economic Devastation of War, and Find a Way Past It
+- In New War With Israel, Hezbollah Defies Notion That It Was Crippled
+- Killing of Masood Masjoody Exposes Deep Rifts in Canada’s Iranian Diaspora
+- Growing List of Orban Loyalists Defecting Before Critical Election
 - Prince Harry Is Sued for Libel by a Charity He Founded
 - ‘I’m Fed Up.’ Frustrated With Trump, Starmer Embraces Other Allies.
 - Should Churches Remove Art by a Priest Accused of Sexual Abuse?
 - Iran’s South Africa Mission Trolls Trump Amid Hormuz Ceasefire
-- Growing List of Orban Loyalists Defecting Before Critical Election
-- Iran Has Been Consistent in War. Will It Be Consistent in Peace Talks?
-- How Lu Xun, a Famous Chinese Writer, Became a Cute Communist Mascot
-- In New War With Israel, Hezbollah Defies Notion That It Was Crippled
+- Monthly Report
+- When the Moon Met Canada
+- There are few public details about the high-level talks — not even the timing.
+- Many Iranians Are Glad the Fighting Has Paused. Some Hard-liners Aren’t.
+- Mexico’s Police Focus on World Cup While Thousands Remain Missing
+- Here’s the latest.
+- Iran Looks to Project Unity With Large Delegation to Peace Talks
 - Fallout of War Piles Economic Pain Onto Europe’s Political Stress
 - World Leaders Push to Save Iran Talks Amid Israel’s Attacks in Lebanon
-- What the Cease-Fire Means for Iran
-- University of Ottawa Lockdown Lifted After a Man Is Arrested
-- New Evidence Further Implicates U.S. Missiles in Strikes That Killed 21 Civilians in Iran
-- Trump Is Racing to Redefine ‘America First’ in a Time of War
-- With U.S.-Iran Peace Talks Set to Begin, Prospects for Long-Term Deal Uncertain
-- Facing Many Crises, Pakistan Tries to End a Big One — in Iran
-- Why Opening the Strait of Hormuz Won’t Immediately Lower Gas Prices
-- Only two ships passed through the Strait of Hormuz on Friday.
-- Israel and Lebanon Plan Talks in D.C. as War Threatens U.S.-Iran Cease-Fire Deal
 
 ## CNN (6 条)
 - 0% intro APR until 2024 is 100% insane
@@ -98,171 +152,150 @@
 - Want Cash Out of Your Home? Here Are Your Best Options
 
 ## 微博热搜 (20 条)
-- 湖南一路段插满白事灯笼
-- 每天做三顿饭肺癌风险高2.1倍
-- 嫦娥七号计划下半年发射
-- 孙怡送了一个白眼给芒果
-- 医生回应9斤婴儿出生1月瘦到7斤
-- 时代少年团 演唱会
-- 伊朗谈判代表团命名米纳卜168
-- 邓超发五哈新阵容照
-- 毛血旺里的毛到底是啥
-- 黄瓜拌菠萝
-- 赵子琪不会再来浪姐
-- 温峥嵘下班也一直在哭着饭撒
-- 阿尔忒弥斯2号
-- 白鹿晚餐吃水煮菜
-- 张慧雯掀翻刘昊然
-- 官方回应湖南一道路插满奠字灯笼
-- 范丞丞新中式帅得我有心事了
-- 赵子琪回应被指茶言茶语
-- 小猫被亲一口感觉世界都亮了
-- 文班亚马40分13篮板
+- 妻子发现丈夫藏200多枚金币气炸
+- 郑丽文收到机器手礼物秒变郑三岁
+- 国风BGM打开中国舰也太燃了
+- 苏超直播
+- 狼队对战KSG
+- 月租万元小区房成为研究生宿舍
+- 羽生结弦冰演REALIVE
+- 狼队醒醒
+- 原来我真能花100万
+- 苏超
+- 女子从日本带回244本淫秽漫画获刑
+- 曝曾沛慈退出浪姐
+- 张予曦毕雯珺合伙人零互动
+- Danielle更新iG
+- 孙怡 赵子琪淘汰发布会
+- 十日终焉长安二十四计海报
+- 30多岁程序员熬夜喝咖啡确诊帕金森
+- 李小冉唐艺昕一公造型
+- 仅靠卖车企业已经无法盈利了
+- 马頔 我还要生孩子呢
 
-## 知乎热榜 (20 条)
+## 知乎热榜 (8 条)
 - 在你的专业领域，大模型目前最难跨越的一道「门坎」是什么？
 - 人，可以废物到什么程度？
 - 曾经大干快上的垃圾分类为何没人再提了？
 - 吃自助餐能吃回本吗？
-- 各位学界大佬是怎么发现新史料的？
+- 火车走火车道，那开火车的人怎么知道该走哪条车道了？
 - 古城为什么就要保留下来？
-- 瞎扯 · 如何正确地吐槽
 - 古人每天的工作时间是不是都挺短的？
-- 甲骨文目前已知有大概四千多个，是否能证明商代之前必然有文字？
-- 为什么 MiniMax 无法识别马嘉祺是谁？
-- 瞎扯 · 如何正确地吐槽
-- 为什么拉稀的时候放屁不会出来屎，人体（主要是肛门）是靠什么分辨屎和屁的？
-- 中国古代上流社会的吃货到底能吃到些什么？
-- 刘邦的起义团队，在张良、韩信加入前是不是草台班子?
-- 瞎扯 · 如何正确地吐槽
-- Python 中的 range 函数为什么要设计成「左闭右开」的样子，这是有啥用意吗？
-- 川西和瑞士的区别在哪里？
-- 为什么墨子会觉得音乐是像精神鸦片一样的东西？
-- 瞎扯 · 如何正确地吐槽
-- 把全世界的粪便集中排放到太平洋的正中心，会发生什么事情？
+- 为什么古典音乐圈更强调童子功、神童效应、等级考试和师承关系？
 
 ## B站热门 (20 条)
-- 五年了，他还是坐上了这个位置…
-- 评论区摄影大赛新一期锐评篇开启，欢迎投稿玻璃心慎重。
 - 《崩坏：星穹铁道》原创动画•概念PV——「死于午后」
+- 五年了，他还是坐上了这个位置…
+- 学生抓老师！校园躲猫猫大赛4！
 - 【纪录片】守护解放西·探案季 第7集 危险布局
 - 《崩坏：星穹铁道》三周年主题曲：「天生鬼才」
-- 求了8个月终于加人 进来那一刻我人都傻了#程序员 #打工人 #人力资源 #牛马 #小公司
-- 哞～
-- 如何用四分钟叒把一个广东人唱红温🤟
-- 好久没见到这么雷霆的游戏了，不愧是王者荣耀世界啊
+- 《缉毒犬阿B跌宕起伏的狗生》
+- 末地圆环太远？0.25秒瞬移！接力珍珠炮全图火力覆盖！
+- 《龙族：卡塞尔之门》x《非人哉》全新联动｜神仙驾到！
+- 我们喝醉之后，把自己录了下来...（1）
 - 【独家】永生之大道归一 第1集 龙争虎斗【12月国创】
-- 网络热传生物鉴定 第59期
-- 水蜜桃的极限吃法，皮也不浪费，被粉粉甜蜜腌入味了啦
-- 《崩坏：星穹铁道》4.2版本「如是，众生欢笑不已」前瞻特别节目
+- 评论区摄影大赛新一期锐评篇开启，欢迎投稿玻璃心慎重。
+- 双方选出了熟练度最高的英雄并开启了巅峰赛
 - 天生鬼才 翻唱（星穹铁道）
-- 如何成为班级楚霸王
-- 班味女主？绝望鬼王？这届女主比反派还惨？【贺思慕视角打开白日提灯】
-- 一斤水能浮起十斤木头？答对了你就是阿基米德......
-- 小阮篇第三期，没得选也逃不掉
-- 【独家】有兽焉 第五季 第9集 月球之旅【总第57集】
-- 带你穿越回梵高割耳那晚，原来这么多细节都是谣言！
+- 求了8个月终于加人 进来那一刻我人都傻了#程序员 #打工人 #人力资源 #牛马 #小公司
+- 这座商场里有100个异常！！
+- 欧洲黑帮乱不乱，阿尔巴尼亚人说了算？
+- 幻想
+- 你可能不认识我，但你一定听过我的音乐。光靠3秒前奏就能识曲的通关率只有1%吧？
+- 特厨探店|全好评！全好吃！上海街边小馆到底多好吃—姐妹餐厅
+- 黑白色悬浮字，写《征明临兰亭》，我也来！
 
 ## 抖音热搜 (20 条)
+- 2026苏超今天开赛
 - 全抖音都在问广西三月三怎么玩
+- 我国首个海上注碳增气项目开工
+- 泼水节才是放飞自我的最佳时刻
+- 张玲任天津市委常委
 - 春天是从山开始醒的
-- 南极科考成绩单刷新
-- 我国将深度统合登月探月资源力量
-- 男子微信群多次侮辱某运动员被拘
-- 春天就要出去野
-- 小树本就该在森林里长大
-- 适合淡颜的初春粉彩妆
-- 伊朗谈判代表团抵达巴基斯坦
+- 西班牙首相桑切斯访华
+- 一块布要被折磨成这样才变蓝
+- 美伊举行首轮谈判
 - 美载人绕月飞船返回地球
-- 薛之谦万兽之王演唱会长沙站
-- 前方是未知迎面是海风
-- 和朋友约个color eat
-- 谁才是这个世界上最爱你的人
-- 穿普拉达的女王2中国首映礼
-- 孙怡阚清子遗憾舞台
-- 火影手游体验服平衡性调整
-- 单依纯重回武汉开唱
-- 镜头一拉就长大了
-- 月鳞绮纪马嘉祺捧花奔赴
+- 水豚噜噜抖音小火人联动
+- 春天就要出去野
+- 择天记陈长生终极之战夯爆
+- 小树本就该在森林里长大
+- 我也来试一下这个wait
+- 李荣浩太原演唱会
+- 爱情鸟舞蹈挑战
+- 曾舜晞陈都灵婚纱转场
+- 谢霆锋武汉演唱会
+- 不怕翻唱
 
-## 豆瓣讨论 (1 条)
+## 豆瓣讨论 (2 条)
+- 张敬轩居然绣🚩了 - 豆瓣
 - 旧日烟云 - 豆瓣
 
 ## 雪球热帖 (20 条)
-- 桑姓股民向航锦科技发起索赔 宋一欣律师接受咨询 - 新浪网
-- 潘姓股民向*ST世茂发起索赔 宋一欣律师接受咨询 - 新浪网
-- 新浪财经隔夜要闻大事汇总：2026年4月11日 - 新浪网
-- 中鑫家居收到证监会境外上市备案反馈意见要求说明境外子公司合规性、项目能耗属性及股东股份权利瑕疵情况 - 新浪网
-- 可孚医疗：中国家用医疗器械企业——通过港交所聆讯，或很快香港上市 - 新浪网
-- 奥科达医药收到证监会境外上市备案反馈意见 要求说明股权变动合规性等五大问题 - 新浪网
-- 上了绿茵场，就要拼到底 - 新浪网
-- 中青赛爆严重虚假比赛事件，新华时评：别让功利主义毁掉中国足球的未来 - 新浪网
-- 上海德比：从“争冠劲敌”到“难兄难弟”，申花如战胜海港就能负分转正 - 新浪网
-- 永赢先锋半导体智选混合发起A净值上涨3.44% - 新浪网
-- 国际实业十大流通股东格局生变：摩根士丹利国际等新进，陈莹等退出，金元顺安元启灵活配置混合等增持 - 新浪网
-- 思维列控十大流通股东格局生变：南方中证1000ETF等新进，社保基金115组合等退出，北向资金等减持 - 新浪网
-- 国内云服务三巨头集体调高算力价格 - 新浪网
-- 收缩达播投放、加码货架电商 蓝月亮能否扭亏为盈 - 新浪网
-- 美以伊战事进入43天，霍尔木兹海峡依旧关闭，纳指八连阳，黄金、石油、美元齐跌 - 新浪网
-- 法国央行黄金“乾坤大挪移”的三手招式 - 新浪网
-- OpenAI 的 ChatGPT 被指控助长跟踪狂的偏执妄想。 - 新浪网
-- 人工智能将纳入教师资格考试和认证内容 - 新浪网
-- 聚焦首部AI伦理新规：“审查+服务”并行治理 - 新浪网
-- 飞南资源副总经理盛勇新任财务总监，年龄50岁 - 新浪网
+- 杨姓股民向*ST宋都发起索赔 许峰律师接受咨询 - 新浪财经
+- 陈姓股民向*ST紫鑫发起索赔 刘彦梅律师接受咨询 - 新浪财经
+- 监管，重拳出手！2家中介机构，遭罚没近3亿！暂停业务1年、半年 - 新浪财经
+- 思维列控十大流通股东格局生变：南方中证1000ETF等新进，社保基金115组合等退出，北向资金等减持 - 新浪财经
+- 人民同泰2025年高管薪酬曝光：董事长、总经理及执行公司事务的董事朱卫东57岁年薪125.63万，董事会秘书王磊44岁年薪22.04万 - 新浪财经
+- 新兴赛事如何激活体育消费 - 新浪财经
+- 华尔街银行内部测试Anthropic公司的Mythos模型 - 新浪财经
+- 国际实业十大流通股东格局生变：摩根士丹利国际等新进，陈莹等退出，金元顺安元启灵活配置混合等增持 - 新浪财经
+- 中青赛爆严重虚假比赛事件，新华时评：别让功利主义毁掉中国足球的未来 - 新浪财经
+- 南宁老友粉借势演唱会经济出彩又出圈 - 新浪财经
+- 国内云服务三巨头集体调高算力价格 - 新浪财经
+- 蔚来李斌：高阶智驾芯片神玑NX9031与蔚来世界模型上车乐道L90 - 新浪财经
+- 千亿诉讼临近 OpenAI指控马斯克搞“突袭” - 新浪财经
+- 首批公募基金产品2026年一季报出炉 - 新浪财经
+- 鹏华基金旗下科创50增强ETF联接基金经理变更 陈鸿旭接任寇斌权 - 新浪财经
+- 永赢先锋半导体智选混合发起A净值上涨3.44% - 新浪财经
+- 鹏华基金陈鸿旭接任科创板50增强ETF联接基金经理 寇斌权因工作安排离任 - 新浪财经
+- 伊朗消息人士：美国同意解冻伊朗资产 - 新浪财经
+- 伊朗：谈判启动条件尚未得到满足 - 新浪财经
+- 虚假“富豪人设”暗藏多重法律风险 - 新浪财经
 
 ## 36氪 (20 条)
+- 工业和信息化部将发布一批“人工智能+”高价值场景
+- 美国土安全部召回员工，下笔薪资无着落
+- 韩国政府将向收入下游70%人群发放现金援助，以缓解油价上涨压力
+- 多家快递公司宣布涨价
+- 千亿诉讼临近 OpenAI指控马斯克搞“突袭”
+- 3月北京二手房成交近2万套，创近15个月新高
+- 凯文沃什获特朗普提名出任下一任美联储主席，提名确认程序恐遭延误
+- 崔东树：3月的A00级电动车剧烈萎缩带来均价的上升，2026年销量增长压力较大
+- 中信证券：流动性冲击扰动，互联网板块关注业绩韧性与AI主线
+- 闪迪公司将于2026年4月20日起纳入纳斯达克100指数
+- 滴滴自动驾驶张博：聚焦安全和体验，推动自动驾驶全球化落地
+- 康斯特：压力传感器产品暂未向半导体、新材料等行业客户推广
+- 蔚来李斌：高阶智驾芯片神玑NX9031与蔚来世界模型上车乐道L90
+- 日本投入160亿美元，力推初创企业Rapidus进军人工智能芯片领域
+- 郑州出台8条楼市新政
+- 我国首个海上注碳增气技术示范应用项目启动
+- 蔚来董事长李斌：建议尽快推动电芯标准化和芯片归一化
+- IBM将支付1700万美元解决美国政府对DEI的调查
 - 北向资金一季度持股情况公布，12个行业环比获加仓
 - 华泰证券：美国3月CPI环比增速符合预期，核心通胀仍然温和
-- YouTube近三年来首次在美国上调订阅价格
-- 私募三月新发产品数量创近一年来新高
-- 供需双向博弈上演，化工品涨价持续性存差异
-- OpenAI就第三方开发者库安全事件发声明：未发现用户数据泄露或系统遭入侵
-- “阿基视觉”完成数千万元天使轮融资
-- 宝马印度公司称一季度销量增长17%，但豪华车型需求仍显谨慎
-- 汽车行业已在阿里云上使用超10万卡“真武”PPU研发智驾
-- 京东否认进入网约车领域：正在测试新项目，4月13日上线
-- 34家上市房企债务压降8900亿元，打造好项目提升“造血”能力成关键
-- “锐盟半导体”完成近亿元A轮融资
-- 高盛、摩根士丹利等大行正测试Anthropic的Mythos大模型
-- 黑石为数据中心收购公司IPO提交文件
-- 一季度全国铁路完成固定资产投资1379亿元，同比增长5.1%
-- 液冷逐渐成为“刚需”，16只概念股获机构调研
-- 资本“抢跑”量产元年，具身智能产业链迎价值重估
-- 华泰证券：光模块加速迭代驱动设备需求增长
-- 工信部原副部长苏波：2030年新能源汽车市场渗透率预计超过70%
-- 报道：特朗普承诺将在卸任前为政府高级官员颁发特赦令
 
-## 虎嗅 (19 条)
-- 平民之矛，骑士之殇：瑞士战戟与中世纪步兵的逆袭传奇
-- 营收增速、毛利率均在30%以上，苦熬10年的B2B机器人为什么还难说赚钱？
-- 一季度杀青37部，在保险和冒险之间纠结横跳…
-- AI救活了一家马桶公司，也点燃了存储芯片超级周期
-- 这次裁员跟以往的逻辑非常不一样
-- 创业板新规落地，哪些企业有望率先上市？
-- 最新进展：Sam Altman博客回应住宅遭纵火未遂
-- 如何摈弃受害者心理
-- 降价11次，无印良品终于想通了
-- 如何让大脑保持高速运行？
-- 多面张雪和他未完的征途
-- AI裁的不是人，是旧时代的任务分工
-- 从拒绝AI到一切先问Agent，DHH：这是我最爽的编程时刻之一，但程序员黄金时代到头了
-- 漫剧弥补了女性开后宫的市场空白
-- 营收刚破百亿，却豪掷45亿买理财，母婴零售巨头孩子王不靠“孩子”赚钱了？
-- 9系厮杀正酣：蔚来ES9凭什么抢增程的饭碗
-- 王传福答了17年的试卷，“9系”只是答案之一
-- 手机不好卖，电脑还在涨
-- 李嘉诚400亿“世纪回归”，地产见底了吗？
+## 虎嗅 (20 条)
+- 120家门店倒闭了一半？又一个海鲜自助“大撤退”
+- 奥特曼家被烧了
+- 深陷“高利贷”争议、背负对赌重压：研趣科技闯关港股
+- 单依纯：不会抽象的歌手不是好法师
+- 机器人财报里的“隐性成本”与“显性焦虑”
+- 供应链企业想做C端品牌，这条路不好走
+- 四川女学生状告老师：校园师生之间的同意算同意吗？
+- 成交上2.3万亿，主力单日流入创年内纪录：A股主线现关键变化
+- 大时代的跌宕，总在器物中隐现
+- 他山之石：海外企业AI转型的路线图
+- 民航的流量真好蹭
+- 数据背后的“发疯”：SBTI 爆火底层逻辑与算法深度拆解
+- 让全网AI 翻车的“洗车难题”，终于有人破案了
+- 部分研究生不再入住校内宿舍，而是住进月租万元的小区？深圳大学回应：相关事项仍在推进中
+- 为什么中年人的登味，总是突如其来？
+- 2026年的“最后一次降息”
+- 我们需要什么能力驾驭越来越强大的AI？
+- “猎户座”载人绕月归来，美国人却对“即将登月”异常冷淡？
+- 魏哲家“大陆机器人无用论”背后，台积电往何处去？
+- 一个AI团队融资2亿，倒闭了
 
-## GitHub Trending (12 条)
-- microsoft/markitdown
-- coleam00/Archon
-- NousResearch/hermes-agent
-- rowboatlabs/rowboat
-- multica-ai/multica
-- forrestchang/andrej-karpathy-skills
-- shiyu-coder/Kronos
-- HKUDS/DeepTutor
-- opendataloader-project/opendataloader-pdf
-- obra/superpowers
-- jqlang/jq
-- shanraisshan/claude-code-best-practice
+## 少数派 (1 条)
+- 浅谈人工智能时代的用户体验：Agent Experience 导论
