@@ -557,3 +557,25 @@ body {
     .news-card { padding: 14px; }
     .tab { font-size: 0.84rem; }
 }
+
+/* ── Toast 提示 ───────────────────────────────── */
+.toast {
+    position: fixed;
+    bottom: 24px;
+    left: 50%;
+    transform: translateX(-50%);
+    background: var(--accent);
+    color: #fff;
+    padding: 10px 24px;
+    border-radius: 8px;
+    font-size: 0.88rem;
+    font-weight: 500;
+    z-index: 200;
+    box-shadow: 0 4px 16px rgba(0, 0, 0, 0.2);
+    transition: opacity 0.3s;
+    pointer-events: none;
+}
+
+.toast.hidden {
+    display: none;
+}

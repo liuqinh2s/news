@@ -20,6 +20,7 @@
   const searchInput = document.getElementById("searchInput");
   const searchResults = document.getElementById("searchResults");
   const searchMeta = document.getElementById("searchMeta");
+  const toastEl = document.getElementById("toast");
 
   // ── 全量新闻缓存（供搜索用）────────────────
   let allNewsItems = [];
@@ -196,28 +197,34 @@
 
   // ── 数据加载 ──────────────────────────────────
 
-  async function loadIndex() {
+  async function loadIndex(bustCache) {
     // 优先使用内联数据（兼容 file://）
     if (window.__NEWS_INDEX__) return window.__NEWS_INDEX__;
-    const resp = await fetch(`${DATA_BASE}/reports-index.json`);
+    const url = bustCache
+      ? `${DATA_BASE}/reports-index.json?_t=${Date.now()}`
+      : `${DATA_BASE}/reports-index.json`;
+    const resp = await fetch(url);
     if (!resp.ok) return null;
     return resp.json();
   }
 
-  async function loadDetail(date) {
+  async function loadDetail(date, bustCache) {
     if (window.__NEWS_DATA__ && window.__NEWS_DATA__[date])
       return window.__NEWS_DATA__[date];
     try {
-      const resp = await fetch(`${DATA_BASE}/${date}.json`);
+      const url = bustCache
+        ? `${DATA_BASE}/${date}.json?_t=${Date.now()}`
+        : `${DATA_BASE}/${date}.json`;
+      const resp = await fetch(url);
       return resp.json();
     } catch {
       return null;
     }
   }
 
-  async function loadData() {
+  async function loadData(bustCache) {
     try {
-      const index = await loadIndex();
+      const index = await loadIndex(bustCache);
       if (!index) {
         recentNewsEl.innerHTML = renderEmpty("暂无新闻数据，等待首次抓取...");
         return;
@@ -227,7 +234,7 @@
       const archiveData = [];
 
       for (const report of index) {
-        const detail = await loadDetail(report.date);
+        const detail = await loadDetail(report.date, bustCache);
         if (!detail) continue;
         const news = detail.news || [];
         if (!news.length) continue;
@@ -295,9 +302,18 @@
     );
   }
 
+  // ── Toast 提示 ─────────────────────────────────
+  function showToast(msg) {
+    if (!toastEl) return;
+    toastEl.textContent = msg;
+    toastEl.classList.remove("hidden");
+    setTimeout(() => toastEl.classList.add("hidden"), 2000);
+  }
+
   // ── 自动刷新（轮询检测更新）─────────────────
   const POLL_INTERVAL = 60_000; // 60秒轮询一次
   let lastIndexHash = null;
+  let autoRefreshTimer = null;
 
   function hashString(str) {
     // 简单哈希，用于比较内容是否变化
@@ -317,7 +333,8 @@
       if (lastIndexHash !== null && hash !== lastIndexHash) {
         console.log("[auto-refresh] 检测到数据更新，刷新中...");
         allNewsItems = [];
-        await loadData();
+        await loadData(true);
+        showToast("数据已自动更新");
       }
       lastIndexHash = hash;
     } catch {
@@ -325,15 +342,16 @@
     }
   }
 
-  function startPolling() {
+  function startAutoRefresh() {
     // file:// 协议下不轮询
     if (location.protocol === "file:") return;
+    if (autoRefreshTimer) return;
     // 首次记录 hash
     checkForUpdates();
-    setInterval(checkForUpdates, POLL_INTERVAL);
+    autoRefreshTimer = setInterval(checkForUpdates, POLL_INTERVAL);
   }
 
   // ── 初始化 ────────────────────────────────────
   initTheme();
-  loadData().then(startPolling);
+  loadData(true).then(startAutoRefresh);
 })();
