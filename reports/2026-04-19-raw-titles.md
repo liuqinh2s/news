@@ -1,4 +1,4 @@
-# 2026-04-19 原始新闻标题 (229 条)
+# 2026-04-19 原始新闻标题 (228 条)
 
 ## 新华社 (20 条)
 - Education, health fees among key concerns
@@ -22,80 +22,98 @@
 - Former Chongqing political official facing corruption investigation
 - Former Chongqing political official facing corruption investigation
 
-## 澎湃新闻 (5 条)
+## 澎湃新闻 (13 条)
+- 长三角人口告别全域增长，请看《浪尖周报》第70期 - thepaper.cn
+- 王伟中对俄罗斯后贝加尔边疆区交通事故作出批示 - thepaper.cn
+- 视频丨张雪机车正赛首回合第四，张雪：瞬息万变，精彩至极 - thepaper.cn
 - 伊朗议长称距离与美达成最终协议仍有很长的路要走 - thepaper.cn
-- 人民日报：民营经济代表人士专题宣讲活动举行，“底气不是等出来的，是干出来的” - thepaper.cn
 - 人民日报聚焦：AI来了，大学课堂应该怎么变 - thepaper.cn
+- 人民日报：民营经济代表人士专题宣讲活动举行，“底气不是等出来的，是干出来的” - thepaper.cn
+- 经纬度：从“养生跑”到破人类纪录，中国机器人成了！ - thepaper.cn
+- 特大假酒网络被摧毁，查获侵权假冒白酒近2万箱、涉案2.6亿元 - thepaper.cn
+- 又一批高校组建人工智能学院 - thepaper.cn
+- 古特雷斯：强烈谴责！ - thepaper.cn
 - 潍坊寿光：巡演步履不停 乡村戏韵飘香 - thepaper.cn
 - 中国女子称在韩遭日本男子骚扰，韩国警方正式立案：正调查是否涉性犯罪，涉案男子称愿意回韩配合调查；中使馆启动领事保护程序 - thepaper.cn
-
-## 南方周末 (2 条)
-- 在约死群里的150余天｜记者手记
-- 论文抽检再改革：本科论文写不写，质量关怎么守？｜议教
+- 滑草坡走红后，“泼天流量”如何变“留量”？ - thepaper.cn
 
 ## 凤凰网 (20 条)
-- “最快女护士”张水华云南石屏马拉松退赛，本人回应“不舒服就没跑”，其辞职后已拿下2个冠军，获折现超20万奖励
-- 曹兴诚挺沈伯洋选台北市长，林佳新：“大罢免”时期的混乱景象又要出现了
-- 伊朗外交部：霍尔木兹海峡无条件过境通行“已成历史”
-- 俄军：占领哈尔科夫一村庄，距俄乌边境仅4.5公里
-- 日本男子杀害11岁继子，自导自演失踪假象
-- 载中国旅客大巴车在俄侧翻，内蒙古党委书记作出批示
-- 北约秘书长：我认为美国不会退出北约
-- 民进党一手“抹红”妈祖一手讨选票，台媒：徒增民众反感
-- 伊朗取消军队日阅兵，穆杰塔巴发出警告：给敌人“新的惨败”
-- 赖当局称两岸直航需求不高？赖士葆痛批：全是政治算计
-- 柯文哲逛逢甲夜市遭喷辣椒水，民众党议员严厉谴责
-- 记者连线丨朝鲜据报发射弹道导弹，日本有何反应？
-- 约617万元！泰坦尼克号幸存者救生衣首次被拍卖
-- 中央通报后，河南问责25人
-- 施压李四川支持者、盯梢活动现场！苏巧慧不敢认，被痛批
-- 记者连线丨朝鲜频繁试射导弹，或为抬高与美方接触的价码
-- 酒店回访电话暴露开房致女子离婚？工作人员称对方没接电话
-- 身披美国国旗，跳伞者撞上橄榄球赛计分板
-- 伊朗民航组织：领空将分4个阶段重新开放
-- 特朗普签令推动致幻剂疗法研究，还说“给我来点儿！”
+- 伊朗被激怒，印度遭了殃 - 凤凰网
+- 油轮遭袭，印度召见伊朗大使抗议 - 凤凰网
+- “让互联网更好造福人民” - 凤凰网
+- 人民之心·总书记谈政绩观①丨一词一观：为人民 - 凤凰网
+- 【新思想引领新征程】推进数字中国建设 打造高质量发展新引擎 - 凤凰网
+- 伊丽莎白二世官方传记作者，定了 - 凤凰网
+- 美伊谈判敏感之际，伊朗高级将领出访伊拉克 - 凤凰网
+- 福建一车辆逆行撞人，致2死1伤 - 凤凰网
+- 主人以为是小狗，收留后发现味道实在太冲，怀化消防到场轻松收服“狐尼克” - 凤凰网
+- 法国女星娜塔莉贝伊去世，享年77岁，曾出演《唐顿庄园2》 - 凤凰网
+- 蓄意挑衅？日本军舰过航台湾海峡中国军号发布视频《枕戈待旦》 配文：中国军队从不惧怕挑衅！同天东部战区发声：战备巡航 - 凤凰网
+- 男子花费30万为41岁儿子介绍对象，闪婚生活3个月后老婆一去不回 - 凤凰网
+- 甘肃省最美退役军人何东阳：商道兵心 唯诺唯实 - 凤凰网
+- 何润东身披霸王战甲亮相“苏超”，赛后回应为何不骑马：已经51岁了，摔倒的话可能破坏大家对项羽的喜爱 - 凤凰网
+- 俄罗斯人最爱吃的面饼，必须用土炉子闷烤，配一锅热菜来吃超级香 - 凤凰网
+- 成都凌晨排队的蹄花，代驾师傅深夜食堂，味道堪称一绝 - 凤凰网
+- 美国1年投1300万美元在中国搞“渗透” 俄罗斯、伊朗、古巴也是重点！细节曝光：涉90多个国家1900个项目 - 凤凰视频
+- 甘肃省最美退役军人石宝云：他将伤痛与遗憾活成照亮他人的光 - 凤凰网
+- 男子攀岩倒挂70米高悬崖 两名路过大学生 爬了50多米悬崖救他 还脱下外套为他取暖 - 凤凰视频
+- 到西宁看看发小，花怼个手抓，攒劲 - 凤凰网
 
-## 财新网 (5 条)
-- 美元霸权是如何建立的，又将走向何方？｜带着问题去读书
-- 重磅政策提振创新药，多家药企“出海”有新进展｜医药股周报
-- 伊朗再关闭霍尔木兹海峡并向船只开火 第二轮会谈日期仍未定
-- 人事观察｜川藏干部再交流 徐芝文履新西藏宣传部长
-- 财新闻｜“霸王”亮相主场，宿迁2：0南京！网友：“苏超”太有排面了
+## 财新网 (1 条)
+- 一周天下｜黎以达成10天停火协议、第139 届广交会开幕 - 财新
 
-## 央视网 (4 条)
+## 央视网 (8 条)
+- 在希望的田野上 - 央视网
 - 人形机器人半程马拉松｜记者探访：人形机器人能跑多快？ - 央视网
+- 新“机器人”辈出！我国人形机器人产业“加速跑” - 央视网
+- 买全球、卖全球 消博会见证中国大市场以开放姿态持续“圈粉”世界 - 央视网
+- 涉“幽灵外卖”案被罚35.97亿元！电商平台暗藏“幽灵店铺” 假证牵出大案 - 央视网
 - 丰富文旅体验 享受春光之美 - 央视网
 - 沉浸式演艺《再回闽南》在侨乡漳州上演 - 央视网
-- 涉“幽灵外卖”案被罚35.97亿元！电商平台暗藏“幽灵店铺” 假证牵出大案 - 央视网
+- 从“凭经验”到“看数据” “智慧种田”为乡村振兴插上“科技翅膀” - 央视网
 
-## BBC (8 条)
-- Strait of Hormuz closed again, Iran says, as ships attacked
+## BBC (16 条)
+- Australia's most-decorated soldier vows to fight war crime charges
 - At least six killed in Kyiv as gunman opens fire and takes hostages
 - Pope says 'tyrants' speech was not aimed at Trump
 - Mexico's Sheinbaum denies 'diplomatic crisis' with Spain after conquest row
+- Zelensky condemns US extension of Russian sanctions waiver
+- Bodies of 50 infants dumped at Trinidad graveyard
 - Building of Trump's White House ballroom can resume in full, appeals court says
 - French peacekeeper killed in southern Lebanon
-- HiPP recalls jarred baby food in Austria over contamination fears
+- Harry and Meghan's trip felt like a royal tour - except many Aussies weren't interested
+- Chernobyl's last wedding: The couple who married as a nuclear disaster unfolded
+- Scammers are becoming ever more sophisticated - this is what the fightback looks like
+- 'The weapons were loud, but there was always music': Sudanese band play on through the war
 - Orbán's era was over in a flash and Hungary's next PM is a man in a hurry
+- 'Croatia, but cheaper': The quirky holiday spots on trend for 2026
+- The South Korean authors rising above a tide of hate to become bestsellers
+- Watch: Runners v robots at China half marathon
 
-## NYTimes (17 条)
+## Reuters (1 条)
+- Two foreigners arrested in Iran for importing Starlink technology, Tasnim reports - Reuters
+
+## NYTimes (20 条)
+- Iran War Live Updates: Strait of Hormuz Largely Closed as Iran Says Parties Are Far From Final Deal
+- Gen Z Looks to Nepal as a Test Case of Its Hopes
+- In Qatar, Trapped Between the U.S. and Iran, War Forced a Reckoning
 - What to Know About the Bulgarian Election
-- Tensions Rise in Strait of Hormuz Over Ship Attacks and Iranian Threats
+- How Gen Z Protests Have Fared Around the World
 - U.S. Officials Visited Havana to Lay Out Proposals for Cuban Reforms
 - Kyiv Mass Shooting Kills 6 and Gunman Is Shot Dead After Taking Hostages in Grocery
 - Pope Says News Outlets Misread Some of His Remarks as Criticism of Trump
 - Trump Spat Gives Spain Leader Pedro Sánchez a Political Lifeline
 - Carney’s Liberal Majority Reshapes Fortunes to the Left and the Right
 - In Angola, Pope Leo XIV Faces the Legacy of Colonialism
-- A Mild-Mannered Pope Finds His Voice
+- Syrian Billionaires Needed a Favor in Washington. They Invoked the Trump Name.
+- Here’s the latest.
 - Hezbollah is willing to cooperate with a cease-fire with Israel. For now.
 - Ships Attacked in Strait of Hormuz as Iran Declares Strict Control of Vital Shipping Route
 - Six Are Missing After Cargo Ship Is Found Overturned Near Guam
 - More Displaced Lebanese Head Home as Cease-Fire Is Tested
 - Who Is the New Leader of Hungary?
 - Here’s the latest.
-- Trump Extends Sanctions Exemption on Some Russian Oil as High Gas Prices Persist
-- Mark Mobius, Pioneering Investor in Emerging Markets, Dies at 89
+- A Mild-Mannered Pope Finds His Voice
 
 ## CNN (6 条)
 - 0% intro APR until 2024 is 100% insane
@@ -106,161 +124,144 @@
 - Want Cash Out of Your Home? Here Are Your Best Options
 
 ## 微博热搜 (20 条)
-- 花少8 南美
-- 宇树机器人打破人类1500米世界纪录
-- 五一列车增开
-- 梁朝伟迪丽热巴幸运咖品牌代言人
-- 谢娜晒和马嘉祺聊天记录
-- 睡觉时被空调砸到头了
-- 谁家猫怀孕都怀到脖子上了
-- 王星越海底捞非遗寻味直播
-- 宇树H1机器人被担架抬离赛道
-- 湖人战胜火箭
-- 华住会否认酒店回访致女子离婚
-- 低精力 杏仁核长期应激
-- 何润东狂接商务
-- 曝歌手2026阵容
-- 酒店回访电话暴露开房致女子离婚
-- 攻玉 辞演
-- 杜兰特 火箭
-- 宇树H1机器人半马赛场终点累倒
-- 梁朝伟迪丽热巴好像在拍电影
-- 官方通报卸沙现场出现一具男尸
+- 铁路12306已拒绝出票105.6万张
+- 张雪机车热身赛再获第一
+- 消博会上的硬核科技展现未来趋势
+- 肖战携手安吉尔两周年
+- 仙逆
+- 无限暖暖
+- 出门和不出门过的是两种人生
+- 微博文化之夜年度荣誉
+- 金像奖
+- 李雨桐被行拘
+- 韩警方称骚扰中国游客日本男子愿回韩
+- 专家称黄金完成了阶段性的历史使命
+- 虞书欣父亲索赔17w败诉
+- 曝李小冉退出浪姐
+- 歌手2026
+- 男子在电诈园区开超市被判刑
+- 薛之谦方回应李雨桐被行拘
+- Jennie八年来都长一个样
+- 夫妻骑车为躲狗摔倒致妻死亡
+- 李小冉疑回应退出浪姐
 
-## 知乎热榜 (20 条)
-- 为什么历史中记载的女画家几乎没有呢？无论中西方都是如此，其根本原因是什么？
+## 知乎热榜 (9 条)
 - 古时候，一座城池究竟有多大?
 - 药品说明书「一粒米盖住 6 个字」，为什么要印这么小？会带来哪些用药风险？该如何改进？
+- 为什么历史中记载的女画家几乎没有呢？无论中西方都是如此，其根本原因是什么？
 - 木蜂躺着把花瓣揽在怀里引起热议，有人说这是临死的表现，是这样吗？
-- 为什么猪没在进化中灭绝？
-- 从生物学或心理学角度，人类讨厌苍蝇的原因是什么？
-- 动物史上，存在两个物种没有生殖隔离且生出全新物种的情况吗？
-- 为什么公文要用「仿宋_GB2312」字体？
-- 有什么有趣的中国文化溢出？
-- 人类为什么要进化出这么长的睡眠时间？
-- 古人的闲章到底有多闲？
-- 瞎扯 · 如何正确地吐槽
 - 有哪些流传甚广的生物学「常识」其实是错误的？
 - 大熊猫吃那么多竹子不扎胃吗？不扎屁股吗？
-- 都说生物的基因像屎山代码，那在演化史上有没有屎山被推倒重构的案例？
 - 瞎扯 · 如何正确地吐槽
 - 如何对于统计专业来说，哪个方向是核心?
-- 为什么计算机计算从不会出错（即使快要报废的电脑，计算器功能也不会算错数）？
-- 为什么《百年孤独》的评价这么高？
 - 瞎扯 · 如何正确地吐槽
 
 ## B站热门 (20 条)
+- 《崩坏：星穹铁道》银狼LV.999角色PV——「我独自满级」
+- "每次生日许的愿 其实都与你有关"2.0
 - 《异环》公测PV丨Play on！
-- 口技表演《三打白骨精》
-- 《异环》公测前瞻特别节目回顾
 - 【独家】牧神记 第79集 镇海天王
-- 疑似三打白骨精现场真实画面流出
+- 口技表演《三打白骨精》
 - 【独家】有兽焉 第五季 第10集 严师出高徒【总第58集】
-- 《生鱼忧患 死鱼安乐》
-- ［meme］豌豆公主
-- 不该进爷爷的房间的······
-- 【纪录片】守护解放西·探案季 第8集 人性的底线
-- 当你穿进老钱班22
-- 【何同学】我们做了把自动驾驶办公椅...
-- 《非法组队》
-- 楚人美游记 1-5 合集：当楚人美被孙悟空拐去取经
-- 破产大王如何搞发明？【小约翰】
 - 全明星登场无限城！无惨；你们都是什么柱？！
-- 医生：病人死于急性卡车过敏
-- 短片《榜样》·致敬雷锋
+- 精油开背仁王盾
+- 当你穿进老钱班22
+- 刘巳道重拍《哭声》：怀疑即有罪，神明皆恶鬼，万般抉择，皆赴既定终局  /  上集
+- 疑似三打白骨精现场真实画面流出
+- 【何同学】为了随地大小坐，我们做了这个…
 - 《重返未来：1999》三周年特别版本·3.7版本PV：他者的悲哀
-- 名场面超多，但对于奥斯卡最佳的荣誉来说，它也算是个冷门电影了
+- 破产大王如何搞发明？【小约翰】
+- 郝 哥 不 在
+- 三角洲第一届躲猫猫大赛
+- “什么叫惊喜”？
+- 没有知识储备量进了山胡球吃就得噶
+- 当我意识到我是这条街的小房东
+- 千万别把魔鬼辣椒切开埋在土里，要不然它就会这样生长！
 
 ## 抖音热搜 (20 条)
-- DeepSeek被曝融资20亿
-- 赵心童斯诺克世锦赛开门红
-- 各地春耕有序推进
-- 湖人107:98战胜火箭
+- 国内油价将迎来新一轮调整
+- 丁俊晖迎战吉尔伯特
+- 看清洁能源如何点亮绿色经济
 - 国防部回应日舰过航台湾海峡
-- 自制“长腿豆包”参加机器人半马
-- 此刻风景真美
-- 今年机器人跑半马也太快了
-- 三月三荠菜煮鸡蛋
-- 皇家社会击败马竞夺冠
-- 中国军号发布视频枕戈待旦
-- 后湖煎饼也是吃上了
-- 街头回收CT片或涉嫌违法
+- 赵心童斯诺克世锦赛开门红
 - 已经跟不上拼豆人的脑洞了
-- 苏超宿迁2:0南京
-- 重庆的火锅店已经发展成这样了
 - 三月三机器人来广西也要跳竹竿舞
-- 骑士126:113战胜猛龙
-- 伊朗恢复对霍尔木兹海峡控制
-- 机器人马拉松前五名均来自荣耀
+- 三月三荠菜煮鸡蛋
+- 湖人107:98战胜火箭
+- 后湖煎饼也是吃上了
+- 苏超积分榜乱成一锅粥了
+- “环保新规致蛋价上涨”系谣言
+- 中国军号发布视频枕戈待旦
+- 詹姆斯再现死亡之瞳
+- 今年机器人跑半马也太快了
+- 王者荣耀与哪吒2联动
+- 闽超揭幕战
+- 日本启动十二年来最重大军售
+- 三月三拜轩辕
+- 何润东项羽造型亮相苏超
 
 ## 豆瓣讨论 (1 条)
 - 追剧 - 豆瓣
 
-## 雪球热帖 (11 条)
-- 首创证券冲击第14家“A+H”券商获备案，去年营收增速不到5% - 新浪财经_金融信息服务商
-- 特斯拉AI5芯片完成流片，性能较前代提升40倍 - 新浪财经_金融信息服务商
-- 演员王安宇遭激光笔扫射面部？剧组紧急声明：将全面升级安保措施 - 新浪财经_金融信息服务商
-- 视频|黄仁勋罕见发火：你的想法太幼稚太片面！ - 新浪财经_金融信息服务商
-- 乌克兰：击中3艘俄军舰 - 新浪财经_金融信息服务商
-- 北京发布沙尘蓝色预警 - 新浪财经_金融信息服务商
-- 苏宁环球震荡持平大盘 资金净流出估值处历史低位 - 新浪财经_金融信息服务商
-- 美官员称伊朗目前仍保留约40%的攻击型无人机库存 - 新浪财经_金融信息服务商
-- 北影节主题市集吸引市民游客打卡 - 新浪财经_金融信息服务商
-- 霍尔木兹海峡航运再次停滞 - 新浪财经_金融信息服务商
-- 伊朗议长称伊朗组织结构非常稳固 已向敌方展示实力 - 新浪财经_金融信息服务商
+## 雪球热帖 (20 条)
+- 罗姓股民向实达集团发起索赔 赵敬国律师接受咨询 - 新浪财经
+- A500ETF华安4月16日净赎回900万份，份额降至6.74亿，规模缩水至8.84亿，溢价率0.03%处高风险区 - 新浪财经
+- 特斯拉Robotaxi服务登陆达拉斯、休斯顿 - 新浪财经
+- 苏宁环球震荡持平大盘 资金净流出估值处历史低位 - 新浪财经
+- 国家气候中心：现在断言为时尚早 - 新浪财经
+- 巴西总统批评美国非法干涉他国内政 - 新浪财经
+- 洛轴股份创业板IPO披露首轮审核问询函回复 - 新浪财经
+- 孟加拉国将国内零售燃油价格上调10%至15% - 新浪财经
+- 一同见证光影艺术的无限可能 - 新浪财经
+- 华之杰一季度营收3.96亿元同比增17.54%，归母净利润3114.28万元同比降29.72%，毛利率下降4.82个百分点 - 新浪财经
+- 广西百色5岁男童走失身亡，官方通报 - 新浪财经
+- 信立泰：JK06境外临床试验展现出良好的安全性和疗效 - 新浪财经
+- 阿尔特：股东拟合计减持不超2.05%公司股份 - 新浪财经
+- 伊朗称逮捕4名涉嫌与美以进行情报合作人员 - 新浪财经
+- 土耳其外长表示美国和伊朗有继续谈判的意愿 - 新浪财经
+- 注意防范 重庆17个区县部分中小河流有涨水风险 - 新浪财经
+- 皇家社会夺国王杯冠军 - 新浪财经
+- Edge AI Daily 早报（4月19日） - 新浪财经
+- 乌称波尔塔瓦州铁路基础设施遭俄袭击受损 - 新浪财经
+- 长信基金增聘李仆共同管理稳健均衡6个月持有期混合 26年证券从业老将再挑大梁 - 新浪财经
 
 ## 36氪 (20 条)
+- 联翔股份：预计2025年净亏损1080万元至1550万元 公司股票可能在年报披露后被实施退市风险警示
+- 东方环宇：2025年归母净利润同比增长9.43%，拟10派9元
+- 力源信息：第一季度净利润同比增长241%
+- 万达电影：4月20日起证券简称变更为“儒意电影”
+- 天迈科技：筹划收购芬能自动化100%股权 预计构成重大资产重组明起停牌
+- 东方证券：拟收购上海证券100%股权，4月20日起停牌
+- 匠心家居：持续关注美国相关税收及退税政策，目前具体适用情况及对公司的实际影响仍存在不确定性
+- 特斯拉将自动驾驶出租车服务扩展至达拉斯和休斯顿
+- 沙特能源公司与沙特电力采购公司签署购电协议
+- 五一假期售票开始以来 ，12306已拒绝“抢票软件”出票105.6万张
+- 香港明天将公布新一批重点引进企业
+- 荣耀包揽北京亦庄人形机器人半马前六，新能安电池助力荣耀元气仔斩获“最佳步态控制奖”
+- 我国摧毁特大假酒网络
+- 三星停产两大内存
+- 东升宇航完成新一轮融资
+- 年内26只FOF募集规模超10亿元
 - 五家AIC去年净赚超184亿元
 - 第二人生获数千万融资，加码全彩3D打印与世界大模型
 - 油价上涨催生丹麦“电车热”
 - 北京产权交易所去年交易规模超10万亿元
-- 飞荣达：现有产能可灵活应对当前订单交付需求 适时规划专用产能
-- 荣耀家族机器人包揽冠亚季军
-- 北京首个交警机器人亮相街头 参与指挥亦庄半程马拉松比赛
-- 高德发布全球首个面向AGI的全栈具身技术体系“ABot”
-- WSBK荷兰站第二轮正赛将举行 “张雪机车”今日再战
-- 首创证券冲击第14家“A+H”上市券商获证监会备案。
-- 国产光纤全球爆单 部分产品价格暴涨650%
-- 新突破 我国首个十万户级天然气掺氢应用项目启动
-- Hitch Open联合智元发起全球首个AI自主决策机器人乒乓球赛事
-- 荣耀齐天大圣队“闪电”机器人获得北京亦庄半马冠军
-- 河南省脑机接口康复设备技术创新中心揭牌
-- 蔚来：全国建成8,766座充换电站
-- “闪电”完成2026人形机器人半马
-- 宇树称打破人类1500米世界纪录
-- 燃油成本飙升冲击航空业 多家航司上调费用并削减航线
-- C3安全大会成立多项AI安全生态联盟，华为、阿里云、ABB等参与
 
-## 虎嗅 (20 条)
-- 法国通过归还法案，中国文物要回家了？
-- 果然，最恨AI 的人，是大学毕业生
-- 自嗨锅是怎么玩崩的？
-- 老潘的反思，究竟说对了什么？
-- 我走访了数个县城，发现青年回乡创业普遍失败的根源
-- 梁文锋想通了
-- 一季度数据显露冰火两重天的特征
-- 喜欢的IP不更了？网友：不怕，我有AI…
-- 别让“老祖宗早就知道”阻碍了科学进步
-- SBTI爆火后，我们为什么还在做人格测试？
-- 企业AI盈利真相：唯有这一层，能真正赚到钱
-- 国产悬疑剧速成指南
-- 机器人半马“百团大战”：荣耀“闪电”机器人50分钟碾压式夺冠
-- 台积电和张忠谋：诚信为本
-- 从商业地产到国家命脉，数据中心成为“数字珍珠港”？
-- 中国载人登月进展--中美这次谁先载人登月仍然不好说
-- 哈根达斯丢掉的高端，被他捡起来了
-- 宇树证明了自己，现在轮到智元了
-- 揭开“离线休息权”的真面目：你的“已读不回”，有戏了？
-- 养老补贴落地百日，先垫后报机构有点吃不消
+## 虎嗅 (2 条)
+- 特朗普对伊朗政策言论频繁反转 美伊局势分析揭示信息差问题 - 虎嗅
+- 野人先生冰淇淋两年扩张至1300家门店 跻身中国冰淇淋行业前三 - 虎嗅
+
+## 少数派 (1 条)
+- AI 输出中的 ** 是怎么来的：谈中文 Markdown 强调标记的渲染问题
 
 ## GitHub Trending (10 条)
+- Fincept-Corporation/FinceptTerminal
 - thunderbird/thunderbolt
-- BasedHardware/omi
-- openai/openai-agents-python
-- EvoMap/evolver
-- deepseek-ai/DeepGEMM
-- Lordog/dive-into-llms
-- aaddrick/claude-desktop-debian
-- rustdesk/rustdesk
-- SimoneAvogadro/android-reverse-engineering-skill
 - tractorjuice/arc-kit
+- openai/openai-agents-python
+- pingdotgg/t3code
+- paperless-ngx/paperless-ngx
+- ruvnet/RuView
+- EvoMap/evolver
+- BasedHardware/omi
+- Donchitos/Claude-Code-Game-Studios
