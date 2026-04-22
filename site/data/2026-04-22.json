@@ -2,191 +2,221 @@
   "date": "2026-04-22",
   "news": [
     {
-      "title": "美伊冲突持续",
-      "summary": "美国总统特朗普宣布延长对伊朗的停火期限，尽管和平谈判已陷入停滞。多国媒体报道，伊朗因与美以战争面临大规模裁员风险。胡塞武装表示，如果美以升级行动，将加大反击力度。美以开战后，更多国家寻求中国造船服务。国际社会高度关注这一地区冲突的全球影响。",
-      "reason": "多源密集报道，全球政治经济格局面临重大挑战",
+      "title": "美伊冲突持续升级",
+      "summary": "美国延长对伊朗停火期限，同时继续实施海上封锁。伊朗革命卫队在波斯湾及周边海域拦截多艘船只，称其为\"未授权船只\"。国际油价波动，霍尔木兹海峡这一全球能源运输关键通道面临不确定性。多国呼吁保持商船自由通行，避免地区冲突进一步扩大。",
+      "reason": "多平台持续报道的国际热点，影响全球能源安全和地缘政治格局",
       "impact_areas": [
-        "政治",
-        "经济",
-        "地缘"
+        "地缘",
+        "经济金融",
+        "生态"
       ],
       "impact_level": "现象级",
       "sources": [
         {
-          "name": "新华社",
-          "url": "http://www.xinhuanet.com"
-        },
-        {
-          "name": "凤凰网",
-          "url": "http://ifeng.com"
-        },
-        {
           "name": "BBC",
-          "url": "http://www.bbc.com"
+          "url": "https://www.bbc.com/news/articles/cvg4yr90jr2o?at_medium=RSS&at_campaign=rss"
         },
         {
           "name": "Reuters",
-          "url": "http://www.reuters.com"
+          "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQWU5pSnFPTHpSYi1aNnVNMnVRMWdKRURqVHdjT2JJZlJ6T1Y1Wi0tbEh5c3ZjMktqbWJDeXptcHNhcGl3VVdjWWs5d0w4eFh0Q3BEQ09xZ0lUcUJqRXg2UHdHNGEyb1pydjVMR25ZNDB5aGF2YVBrZWtLaWpLVWx3blNhYw?oc=5"
         },
         {
           "name": "NYTimes",
-          "url": "http://www.nytimes.com"
+          "url": "https://www.nytimes.com/live/2026/04/22/world/iran-war-trump-ceasefire-talks"
         }
       ]
     },
     {
-      "title": "赖清德窜访受阻",
-      "summary": "赖清德拟窜访被有关国家拒绝发放飞行许可，外交部和国台办回应表示坚决反对。赖清德被迫\"暂缓\"窜访计划。国台办驳斥赖清德谬论，回应\"日本自卫队舰艇进入台湾海峡\"事件，并坚决反对美国一些人搞\"以台遏华\"。台海局势持续紧张。",
-      "reason": "多源密集报道，台海局势重大变化",
-      "impact_areas": [
-        "政治",
-        "地缘"
-      ],
-      "impact_level": "重大",
-      "sources": [
-        {
-          "name": "凤凰网",
-          "url": "http://ifeng.com"
-        },
-        {
-          "name": "新华社",
-          "url": "http://www.xinhuanet.com"
-        }
-      ]
-    },
-    {
-      "title": "中东战事冲击中国经济",
-      "summary": "中东战事对中国经济金融产生多方面影响，包括能源安全、供应链稳定、区域投资环境等。专家分析认为，中国需加强能源多元化战略，优化供应链布局，同时把握区域重建机遇。金融机构已开始调整相关风险评估模型，为可能的市场波动做准备。",
-      "reason": "全球重大冲突对中国经济直接影响",
-      "impact_areas": [
-        "经济金融",
-        "地缘"
-      ],
-      "impact_level": "重大",
-      "sources": [
-        {
-          "name": "财新网",
-          "url": "http://www.caixin.com"
-        }
-      ]
-    },
-    {
-      "title": "宁德时代钠电新突破",
-      "summary": "宁德时代宣布钠离子电池将在乘用车换电体系中率先搭载，标志着钠电技术商业化应用取得重大进展。这一突破将降低新能源汽车成本，缓解锂资源依赖问题，推动能源结构多元化。业内专家认为，这将加速新能源汽车普及，促进碳中和目标实现。",
-      "reason": "新能源技术重大突破，影响产业格局",
+      "title": "苹果CEO更换",
+      "summary": "苹果公司宣布CEO库克将卸任，由硬件副总裁约翰·特努斯接替。这一人事变动发生在苹果面临AI竞争压力的关键时期。特努斯以产品完美主义著称，将带领苹果进入AI时代。市场对这一变动反应积极，苹果股价上涨。这一变动标志着苹果进入新的发展阶段，也将影响全球科技产业格局。",
+      "reason": "科技巨头领导层变动，影响全球科技产业格局和AI竞争态势",
       "impact_areas": [
         "科技",
-        "产业",
-        "生态"
-      ],
-      "impact_level": "重大",
-      "sources": [
-        {
-          "name": "36氪",
-          "url": "http://36kr.com"
-        }
-      ]
-    },
-    {
-      "title": "阿尔茨海默病新发现",
-      "summary": "华人学者在《细胞》杂志发表颠覆性研究，发现阿尔茨海默病可能与\"大脑癌症\"相关，癌症基因突变在AD患者大脑免疫细胞中富集并驱动炎症和增殖。这一发现有望改变阿尔茨海默病的治疗方向，从传统的淀粉样蛋白清除转向针对基因突变和免疫调节的新疗法。",
-      "reason": "医学研究重大突破，将改变疾病认知和治疗方向",
-      "impact_areas": [
-        "科技",
-        "公共卫生"
-      ],
-      "impact_level": "重大",
-      "sources": [
-        {
-          "name": "虎嗅",
-          "url": "http://www.huxiu.com"
-        }
-      ]
-    },
-    {
-      "title": "军民融合促经济",
-      "summary": "中国宣布更多军事技术将转向民用领域，以促进经济发展。这一政策旨在推动军民深度融合，加速科技成果转化，培育新经济增长点。专家分析认为，这将有助于提升产业竞争力，同时加强国家安全与经济发展的协同效应。",
-      "reason": "国家重大政策，影响产业格局",
-      "impact_areas": [
-        "科技",
-        "产业",
-        "政治"
-      ],
-      "impact_level": "重大",
-      "sources": [
-        {
-          "name": "新华社",
-          "url": "http://www.xinhuanet.com"
-        }
-      ]
-    },
-    {
-      "title": "AI编程公司融资创纪录",
-      "summary": "人工智能编程初创公司Cursor正在洽谈融资20亿美元，估值超过500亿美元，创下AI领域融资新纪录。这一融资反映了资本市场对AI编程工具的高度认可，预示着软件开发行业即将迎来重大变革。业内专家认为，这将加速AI在编程领域的应用，提高软件开发效率。",
-      "reason": "AI产业重大融资事件，影响软件开发格局",
-      "impact_areas": [
-        "科技",
-        "产业"
-      ],
-      "impact_level": "重大",
-      "sources": [
-        {
-          "name": "财新网",
-          "url": "http://www.caixin.com"
-        }
-      ]
-    },
-    {
-      "title": "特斯拉AI语音上线",
-      "summary": "特斯拉宣布AI语音功能即将上线，这将大幅提升车辆交互体验。新功能采用先进自然语言处理技术，能够理解复杂指令并执行多种操作。业内分析认为，这将推动汽车智能化进程，加速智能语音技术在车载系统中的应用，改变人车交互方式。",
-      "reason": "AI应用重大进展，影响智能汽车发展",
-      "impact_areas": [
-        "科技",
-        "产业"
-      ],
-      "impact_level": "重大",
-      "sources": [
-        {
-          "name": "36氪",
-          "url": "http://36kr.com"
-        }
-      ]
-    },
-    {
-      "title": "存储芯片超级周期",
-      "summary": "存储芯片股估值引发市场激烈讨论，是否进入\"超级周期\"成为焦点。分析师认为，随着AI、5G、物联网等新兴应用快速发展，存储芯片需求将持续增长，行业可能迎来新一轮增长周期。这一趋势将影响全球半导体产业格局，相关企业估值面临重估。",
-      "reason": "产业格局重大变化，影响全球半导体行业",
-      "impact_areas": [
-        "科技",
-        "产业",
         "经济金融"
       ],
       "impact_level": "重大",
       "sources": [
         {
+          "name": "澎湃新闻",
+          "url": "https://m.thepaper.cn/detail/33028231"
+        },
+        {
           "name": "财新网",
-          "url": "http://www.caixin.com"
+          "url": "https://www.caixin.com/2026-04-22/102436729.html"
+        },
+        {
+          "name": "36氪",
+          "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE9oVFZRajlfcFR3RU5fUWNqRUhqS2pMbURma1hFQTZ5LUhObEJCTFkzSmxJZWRnVzlWMnVrSmdoY1JfYXIzb1p1R0xLSVhCdw?oc=5"
         }
       ]
     },
     {
-      "title": "中俄导弹战备演习",
-      "summary": "北京与莫斯科举行针对潜在导弹战争的联合军事演习，旨在提升两国应对导弹威胁的能力。演习内容包括导弹防御系统协同作战、导弹预警信息共享等。分析人士认为，这一演习反映了当前国际安全形势的复杂性，也体现了中俄军事合作的深化。",
-      "reason": "地缘政治重大事件，影响国际安全格局",
+      "title": "中国空间站迎外籍航天员",
+      "summary": "中国官方宣布，2名巴基斯坦籍航天员入选中国空间站项目，将成为首位进入中国空间站的外籍航天员。这一合作标志着中国航天国际合作的重要里程碑，也是\"一带一路\"倡议在科技领域的具体体现。中国空间站正在成为国际科技合作的重要平台，为全球太空探索提供新机遇。",
+      "reason": "中国航天科技国际合作的重要里程碑，提升国际影响力",
       "impact_areas": [
-        "政治",
-        "地缘",
-        "军事"
+        "科技",
+        "政治"
       ],
       "impact_level": "重大",
       "sources": [
         {
-          "name": "新华社",
-          "url": "http://www.xinhuanet.com"
+          "name": "澎湃新闻",
+          "url": "https://m.thepaper.cn/detail/33027809"
+        },
+        {
+          "name": "凤凰网",
+          "url": "https://news.ifeng.com/c/8sXEkMl0xFb"
+        },
+        {
+          "name": "微博热搜",
+          "url": "https://s.weibo.com/weibo?q=%23首批2名外籍航天员为巴基斯坦籍%23"
+        }
+      ]
+    },
+    {
+      "title": "英国通过终身禁烟法案",
+      "summary": "英国议会两院审议通过禁烟法案，规定2008年后出生人群将终身禁购香烟。这一法案是全球最严格的控烟措施之一，旨在减少吸烟相关疾病和医疗支出。法案的实施将影响烟草行业和公众健康，预计将引发其他国家效仿，推动全球控烟进程。",
+      "reason": "全球最严格的控烟措施之一，将影响公共卫生政策和烟草行业",
+      "impact_areas": [
+        "公共卫生",
+        "政治"
+      ],
+      "impact_level": "重大",
+      "sources": [
+        {
+          "name": "财新网",
+          "url": "https://international.caixin.com/2026-04-22/102436783.html"
+        },
+        {
+          "name": "NYTimes",
+          "url": "https://www.nytimes.com/2026/04/21/world/europe/uk-smoking-ban-2009.html"
+        }
+      ]
+    },
+    {
+      "title": "深圳一季度经济数据亮眼",
+      "summary": "深圳市公布一季度经济数据，GDP增长5.8%，进出口总额增长33.6%，表现优于全国平均水平。这一数据表明中国经济重要引擎之一的深圳经济活力强劲，特别是在外贸领域表现突出。深圳的经济发展态势为中国经济复苏提供了积极信号，也将影响区域经济格局。",
+      "reason": "中国经济重要指标，显示经济复苏态势和外贸活力",
+      "impact_areas": [
+        "经济金融"
+      ],
+      "impact_level": "重大",
+      "sources": [
+        {
+          "name": "澎湃新闻",
+          "url": "https://m.thepaper.cn/detail/33028212"
+        },
+        {
+          "name": "央视网",
+          "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1paHFRUEJsYWVkZ1JvUElTTWppdkQwVXpqMHFQaHJMOTB6WkFPZWZ4U1J0LUcyS2Nudk90YVFtSVFtQXdXRTRZckdUY0dkbEhDT1RzcktieGE3eE4ydl9RcjBBR08zVkFWMWI1MWZVVEEyLW9DQ3VaOA?oc=5"
+        }
+      ]
+    },
+    {
+      "title": "伊朗扣押多艘船只",
+      "summary": "伊朗革命卫队宣布在波斯湾及周边海域扣押多艘\"未授权船只\"，其中包括一艘香港油轮。这一行动发生在美伊停火期限延长的背景下，加剧了地区紧张局势。伊朗方面表示，此举是为了回应美国对伊朗的封锁和制裁。霍尔木兹海峡这一全球能源运输关键通道的安全形势进一步恶化，国际社会对此表示关切。",
+      "reason": "美伊冲突最新进展，影响全球能源运输安全",
+      "impact_areas": [
+        "地缘",
+        "经济金融"
+      ],
+      "impact_level": "重大",
+      "sources": [
+        {
+          "name": "澎湃新闻",
+          "url": "https://m.thepaper.cn/detail/33028066"
+        },
+        {
+          "name": "凤凰网",
+          "url": "https://news.ifeng.com/c/8sXElr5BoEt"
+        },
+        {
+          "name": "财新网",
+          "url": "https://database.caixin.com/2026-04-22/102436694.html"
+        }
+      ]
+    },
+    {
+      "title": "曹德旺回应美国加征关税",
+      "summary": "福耀玻璃董事长曹德旺公开回应美国加征关税问题，表示\"大不了关掉美国工厂\"，强调福耀玻璃\"绝不做赔本买卖\"。这一表态反映了中美贸易摩擦背景下，中国企业家的应对态度。曹德旺的言论引发广泛关注，被视为中国企业应对贸易保护主义的重要表态。",
+      "reason": "中美贸易关系的重要表态，反映中国企业应对贸易保护主义的态度",
+      "impact_areas": [
+        "经济金融",
+        "政治"
+      ],
+      "impact_level": "重大",
+      "sources": [
+        {
+          "name": "澎湃新闻",
+          "url": "https://m.thepaper.cn/detail/33027444"
+        },
+        {
+          "name": "微博热搜",
+          "url": "https://s.weibo.com/weibo?q=%23曹德旺说大不了把美国工厂关掉%23"
+        }
+      ]
+    },
+    {
+      "title": "蓝色光标业绩增长",
+      "summary": "蓝色光标公布一季度业绩，净利润1.26亿元，同比增长超三成，研发费用大增240%。这一业绩表现反映了AI营销领域的快速增长趋势。蓝色光标作为国内领先的营销服务公司，其业绩增长表明AI技术在营销领域的应用正在加速，也将影响整个营销行业的格局。",
+      "reason": "AI相关企业业绩表现，反映AI技术在营销领域的应用加速",
+      "impact_areas": [
+        "科技",
+        "经济金融"
+      ],
+      "impact_level": "重大",
+      "sources": [
+        {
+          "name": "澎湃新闻",
+          "url": "https://m.thepaper.cn/detail/33028074"
+        },
+        {
+          "name": "虎嗅",
+          "url": "https://www.huxiu.com/article/4852861.html"
+        }
+      ]
+    },
+    {
+      "title": "张雪机车发布召回",
+      "summary": "知名摩托车手张雪的机车品牌发布召回通告，涉及部分安全问题。这一事件引发广泛关注，特别是在摩托车爱好者和体育粉丝群体中。张雪作为世界级摩托车手，其品牌的安全问题引发了对摩托车行业标准的讨论，也将影响相关企业的市场表现。",
+      "reason": "体育领域重要事件，引发对摩托车行业标准的讨论",
+      "impact_areas": [
+        "社会"
+      ],
+      "impact_level": "重大",
+      "sources": [
+        {
+          "name": "澎湃新闻",
+          "url": "https://m.thepaper.cn/detail/33026797"
+        },
+        {
+          "name": "微博热搜",
+          "url": "https://s.weibo.com/weibo?q=%23张雪机车补偿%23"
+        }
+      ]
+    },
+    {
+      "title": "中国海军发布宣传片",
+      "summary": "在中国人民海军成立77周年之际，海军发布宣传片《向大洋》，展示了中国海军现代化建设的成果。宣传片结尾的彩蛋喊话\"小湾\"回归母亲怀抱，引发广泛关注。这一宣传片的发布展示了中国海军的实力和决心，也将影响地区安全格局。",
+      "reason": "军事领域重要事件，展示中国海军现代化建设成果",
+      "impact_areas": [
+        "政治",
+        "地缘"
+      ],
+      "impact_level": "重大",
+      "sources": [
+        {
+          "name": "凤凰网",
+          "url": "https://news.ifeng.com/c/8sXFAKkOjMM"
+        },
+        {
+          "name": "央视网",
+          "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9udEVqckVJMk81VjBYS1hmYTA3Mm5IQUNhb3Ryc01WRGpUTjNRRHN3TlNlVW4xc1J2MG94QVRIajk2LVVQdkhqWnZfTTQ1YkpUZkpZTGgwMnNvNm9hZUJBeHpNWXU1MEowbTZoc2EwNUFHT3daeVVQUQ?oc=5"
         }
       ]
     }
   ],
-  "total_fetched": 261,
-  "generated_at": "2026-04-22T12:26:50.524831+08:00"
+  "total_fetched": 278,
+  "generated_at": "2026-04-22T19:27:47.669960+08:00"
 }
