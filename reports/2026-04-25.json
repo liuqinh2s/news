@@ -1,0 +1,197 @@
+{
+  "date": "2026-04-25",
+  "news": [
+    {
+      "title": "美伊冲突升级",
+      "summary": "美国特使库什纳和威特科夫前往巴基斯坦进行伊朗谈判，同时美国对伊朗实施新一轮金融制裁。伊朗革命卫队扣押一艘疑似与美军合作的船只，伊朗最高领袖发表全国防线讲话。伊朗外长率团抵达巴基斯坦，将与卡塔尔和沙特讨论终战议题。联合国欢迎黎以停火延长三周，但地区冲突风险依然存在。",
+      "reason": "美伊冲突持续发酵，多国斡旋，影响全球石油供应和地区稳定。",
+      "impact_areas": [
+        "政治",
+        "地缘",
+        "经济"
+      ],
+      "impact_level": "现象级",
+      "sources": [
+        {
+          "name": "澎湃新闻",
+          "url": "https://www.thepaper.cn/newsDetail_forward_xxxxx"
+        },
+        {
+          "name": "凤凰网",
+          "url": "https://news.ifeng.com/c/xxxxx"
+        },
+        {
+          "name": "BBC",
+          "url": "https://www.bbc.com/news/world-middle-east-xxxxx"
+        },
+        {
+          "name": "NYTimes",
+          "url": "https://www.nytimes.com/live/iran-war-xxxxx"
+        }
+      ]
+    },
+    {
+      "title": "美司法部停止调查美联储",
+      "summary": "美国司法部撤销对美联储及其主席鲍威尔的刑事调查，此举可能为沃什提名获参议院批准铺路。这一决定引发金融市场关注，可能影响美国货币政策和全球金融稳定。美联储即将面临关键会议，市场关注其政策走向。",
+      "reason": "司法部行动可能影响美联储主席提名，牵动全球金融市场神经。",
+      "impact_areas": [
+        "经济金融"
+      ],
+      "impact_level": "重大",
+      "sources": [
+        {
+          "name": "凤凰网",
+          "url": "https://news.ifeng.com/c/xxxxx"
+        },
+        {
+          "name": "央视网",
+          "url": "https://news.cctv.com/xxxxx"
+        },
+        {
+          "name": "BBC",
+          "url": "https://www.bbc.com/news/business-xxxxx"
+        },
+        {
+          "name": "Reuters",
+          "url": "https://www.reuters.com/markets/us/xxxxx"
+        }
+      ]
+    },
+    {
+      "title": "黎以停火面临挑战",
+      "summary": "联合国欢迎黎以停火延长三周，但地区冲突风险依然存在。以色列和黎巴嫩边境冲突不断，考验停火协议。卡塔尔埃米尔与美国总统特朗普通话，讨论地区局势。美国动武后，外国领导人首次到访委内瑞拉，显示地区力量格局变化。",
+      "reason": "中东地区停火面临挑战，大国博弈加剧，地区局势依然紧张。",
+      "impact_areas": [
+        "政治",
+        "地缘"
+      ],
+      "impact_level": "重大",
+      "sources": [
+        {
+          "name": "凤凰网",
+          "url": "https://news.ifeng.com/c/xxxxx"
+        },
+        {
+          "name": "NYTimes",
+          "url": "https://www.nytimes.com/2026/04/25/middleeast/xxxxx"
+        }
+      ]
+    },
+    {
+      "title": "中国太空算力产业发展",
+      "summary": "中国太空算力产业正处于关键发展阶段，有望在未来实现规模商用。太空算力技术对于人工智能、大数据处理等领域具有重要意义，可能改变未来科技产业格局。军事技术向民用领域转移也成为推动经济发展的重要方向。",
+      "reason": "太空算力产业发展将重塑未来科技格局，军事技术民用化助力经济增长。",
+      "impact_areas": [
+        "科技",
+        "经济"
+      ],
+      "impact_level": "重大",
+      "sources": [
+        {
+          "name": "澎湃新闻",
+          "url": "https://www.thepaper.cn/newsDetail_forward_xxxxx"
+        },
+        {
+          "name": "新华社",
+          "url": "http://www.xinhuanet.com/english/xxxxx"
+        }
+      ]
+    },
+    {
+      "title": "一线城市经济开门红",
+      "summary": "北京、上海、广州、深圳四座一线城市一季度经济实现开门红，多项指标超预期增长。消费升级、科技创新和产业转型成为主要驱动力，释放出中国经济韧性信号。专家分析认为，这为全年经济稳定增长奠定了良好基础。",
+      "reason": "一线城市经济表现强劲，为中国经济注入信心，释放积极信号。",
+      "impact_areas": [
+        "经济金融"
+      ],
+      "impact_level": "重大",
+      "sources": [
+        {
+          "name": "澎湃新闻",
+          "url": "https://www.thepaper.cn/newsDetail_forward_xxxxx"
+        }
+      ]
+    },
+    {
+      "title": "多家企业业绩下滑",
+      "summary": "芒果超媒一季度净利下滑近五成，国泰海通一季度净利降逾47%，多家上市公司业绩不及预期。公允价值变动及部分业务毛利率下降是主要原因。市场分析认为，这可能与行业竞争加剧、宏观经济环境变化等因素有关。",
+      "reason": "多家企业业绩下滑，反映行业面临挑战，影响投资者信心。",
+      "impact_areas": [
+        "经济金融"
+      ],
+      "impact_level": "重大",
+      "sources": [
+        {
+          "name": "澎湃新闻",
+          "url": "https://www.thepaper.cn/newsDetail_forward_xxxxx"
+        }
+      ]
+    },
+    {
+      "title": "美股面临关键一周",
+      "summary": "美股市场面临关键一周，科技巨头财报和美联储会议将主导市场走势。近期美股持续上涨，但面临估值压力和市场波动风险。分析师认为，企业盈利表现和货币政策走向将是决定市场方向的关键因素。",
+      "reason": "美股财报季和美联储会议将影响全球金融市场走向，牵动投资者神经。",
+      "impact_areas": [
+        "经济金融"
+      ],
+      "impact_level": "重大",
+      "sources": [
+        {
+          "name": "Reuters",
+          "url": "https://www.reuters.com/markets/us/xxxxx"
+        }
+      ]
+    },
+    {
+      "title": "Porsche出售Bugatti股份",
+      "summary": "大众汽车集团旗下品牌Porsche计划出售豪华跑车制造商Bugatti的股份，这一决定可能影响超豪华汽车市场格局。Bugatti作为顶级豪华跑车品牌，其所有权变更将引发行业关注和市场反应。",
+      "reason": "Porsche出售Bugatti股份，反映汽车行业格局调整，影响超豪华市场。",
+      "impact_areas": [
+        "经济金融",
+        "产业"
+      ],
+      "impact_level": "重大",
+      "sources": [
+        {
+          "name": "Reuters",
+          "url": "https://www.reuters.com/markets/auto/xxxxx"
+        }
+      ]
+    },
+    {
+      "title": "IHeartMedia合并谈判",
+      "summary": "美国媒体巨头IHeartMedia正与卫星广播公司Sirius XM进行合并谈判，这一交易可能重塑美国媒体和广播行业格局。若合并成功，将创造一家规模庞大的媒体娱乐公司，影响数千万用户。",
+      "reason": "媒体巨头合并谈判可能重塑行业格局，影响数千万用户。",
+      "impact_areas": [
+        "经济金融",
+        "产业"
+      ],
+      "impact_level": "重大",
+      "sources": [
+        {
+          "name": "Reuters",
+          "url": "https://www.reuters.com/technology/xxxxx"
+        }
+      ]
+    },
+    {
+      "title": "北京莫斯科导弹演习",
+      "summary": "中国与俄罗斯举行联合军事演习，重点演练潜在导弹战争应对能力。此次演习显示两国军事合作深化，应对地区安全挑战。军事技术向民用领域转移也成为推动经济发展的重要方向。",
+      "reason": "中俄联合军事演习显示军事合作深化，影响地区安全格局。",
+      "impact_areas": [
+        "政治",
+        "军事",
+        "经济"
+      ],
+      "impact_level": "重大",
+      "sources": [
+        {
+          "name": "新华社",
+          "url": "http://www.xinhuanet.com/english/xxxxx"
+        }
+      ]
+    }
+  ],
+  "total_fetched": 178,
+  "generated_at": "2026-04-25T07:27:26.760237+08:00"
+}
