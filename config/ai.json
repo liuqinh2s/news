@@ -1,5 +1,5 @@
 {
-    "provider": "huoshan",
+    "provider": "deepseek",
     "providers": {
         "huoshan": {
             "api_key_env": "HUOSHAN_API_KEY",
@@ -19,6 +19,12 @@
             "model": "kimi-k2.5",
             "max_tokens": 16000,
             "temperature": 1
+        },
+        "deepseek": {
+            "api_key_env": "DEEPSEEK_API_KEY",
+            "base_url": "https://api.deepseek.com",
+            "model": "deepseek-v4-flash",
+            "max_tokens": 16000
         }
     }
 }

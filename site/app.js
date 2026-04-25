@@ -61,9 +61,15 @@
   function renderSources(sources) {
     if (!sources || !sources.length) return "";
     return sources.map((s) => {
-      if (typeof s === "object" && s.url)
-        return `<a href="${s.url}" target="_blank" rel="noopener">${s.name || s.url}</a>`;
-      return typeof s === "string" ? s : s.name || "";
+      if (typeof s === "object") {
+        const name = s.name || s.url || "";
+        const url = s.url || "";
+        if (url) return `<a href="${url}" target="_blank" rel="noopener">${name}</a>`;
+        // url 为空时，用来源名称生成搜索链接，保持可点击
+        if (name) return `<a href="https://www.google.com/search?q=${encodeURIComponent(name)}" target="_blank" rel="noopener">${name}</a>`;
+        return "";
+      }
+      return typeof s === "string" ? s : "";
     }).join(", ");
   }
 
