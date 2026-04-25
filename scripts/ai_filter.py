@@ -490,7 +490,7 @@ def _try_filter_with_provider(provider_name: str, news_items: list[dict],
     non_social_items = [i for i in news_items if i.get("source") not in
                         ("微博热搜", "知乎热榜", "B站热门", "抖音热搜", "豆瓣讨论")]
     input_strategies = [
-        {"name": "仅标题（去除社交媒体源）", "include_summary": False, "include_link": False,
+        {"name": "仅标题+链接（去除社交媒体源）", "include_summary": False, "include_link": True,
          "items": non_social_items, "skip_history": True},
         {"name": "仅标题+链接", "include_summary": False, "include_link": True,
          "items": news_items, "skip_history": False},
@@ -561,6 +561,97 @@ def _try_filter_with_provider(provider_name: str, news_items: list[dict],
     return best_partial
 
 
+def _backfill_sources(filtered_news: list[dict], raw_news: list[dict]) -> list[dict]:
+    """后处理：确保每条筛选结果都有带链接的 sources 字段。
+    1. 检查 AI 返回的 sources 中是否有有效 url，保留有效的
+    2. 对缺失 url 的条目，从原始新闻中按标题模糊匹配回填链接
+    3. 最终仍无链接的，用来源名生成搜索链接兜底
+    """
+    # 构建原始新闻的标题→(source, link) 索引
+    raw_index: list[tuple[str, str, str]] = []
+    for item in raw_news:
+        title = item.get("title", "").strip().lower()
+        source = item.get("source", "")
+        link = item.get("link", "")
+        if title:
+            raw_index.append((title, source, link))
+
+    def _find_matching_sources(news_title: str) -> list[dict]:
+        """从原始新闻中查找与标题相关的来源"""
+        matches = []
+        seen_urls = set()
+        title_lower = news_title.lower()
+        # 提取标题中的关键词（至少2个字符的词）
+        keywords = [w for w in re.split(r'[\s，。、：；！？""''（）\[\]【】]', title_lower) if len(w) >= 2]
+        for raw_title, raw_source, raw_link in raw_index:
+            if not raw_link:
+                continue
+            # 标题包含关系或关键词匹配
+            matched = (title_lower in raw_title or raw_title in title_lower)
+            if not matched and keywords:
+                hit_count = sum(1 for kw in keywords if kw in raw_title)
+                matched = hit_count >= max(1, len(keywords) // 2)
+            if matched and raw_link not in seen_urls:
+                matches.append({"name": raw_source, "url": raw_link})
+                seen_urls.add(raw_link)
+        return matches
+
+    for news in filtered_news:
+        sources = news.get("sources", [])
+        # 规范化 sources 格式
+        normalized = []
+        for s in sources:
+            if isinstance(s, dict):
+                normalized.append(s)
+            elif isinstance(s, str):
+                normalized.append({"name": s, "url": ""})
+
+        # 检查是否有有效链接
+        has_valid_url = any(
+            isinstance(s, dict) and s.get("url", "").startswith("http")
+            for s in normalized
+        )
+
+        if not has_valid_url:
+            # AI 没返回有效链接，从原始数据回填
+            matched = _find_matching_sources(news.get("title", ""))
+            if matched:
+                news["sources"] = matched
+                logger.debug(f"🔗 回填来源链接: {news.get('title', '')[:20]}... → {len(matched)} 个来源")
+                continue
+
+        # 对已有 sources 中缺少 url 的条目，尝试补充
+        for s in normalized:
+            if isinstance(s, dict) and not s.get("url", "").startswith("http"):
+                name = s.get("name", "")
+                # 从原始数据中按来源名查找
+                for raw_title, raw_source, raw_link in raw_index:
+                    if raw_source == name and raw_link:
+                        s["url"] = raw_link
+                        break
+
+        news["sources"] = normalized
+
+        # 最终检查：如果仍然没有任何有效链接，用搜索链接兜底
+        still_no_url = not any(
+            isinstance(s, dict) and s.get("url", "").startswith("http")
+            for s in news["sources"]
+        )
+        if still_no_url:
+            title = news.get("title", "")
+            news["sources"] = [{"name": "搜索查看", "url": f"https://www.google.com/search?q={title}"}]
+            logger.debug(f"🔗 兜底搜索链接: {title[:20]}...")
+
+    # 统计链接覆盖情况
+    total = len(filtered_news)
+    with_url = sum(1 for n in filtered_news
+                   if any(isinstance(s, dict) and s.get("url", "").startswith("http")
+                          for s in n.get("sources", [])))
+    logger.info(f"🔗 来源链接覆盖: {with_url}/{total} 条新闻有有效链接")
+
+    return filtered_news
+
+
 def ai_filter_news(news_items: list[dict]) -> list[dict]:
     """用 AI 大模型筛选重大新闻，支持多提供商 fallback。"""
 
@@ -584,7 +675,7 @@ def ai_filter_news(news_items: list[dict]) -> list[dict]:
         )
 
         if result and len(result) >= 10:
-            return result
+            return _backfill_sources(result, news_items)
 
         # 保留最佳部分结果
         if result and (best_result is None or len(result) > len(best_result)):
@@ -595,7 +686,7 @@ def ai_filter_news(news_items: list[dict]) -> list[dict]:
 
     if best_result:
         logger.warning(f"⚠️ 所有提供商均未达到 10 条，使用最佳部分结果（{len(best_result)} 条）")
-        return best_result
+        return _backfill_sources(best_result, news_items)
 
     logger.error("❌ 所有提供商均失败，返回空列表")
     return []
