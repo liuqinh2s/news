@@ -2,59 +2,102 @@
   "date": "2026-04-26",
   "news": [
     {
-      "title": "白宫晚宴枪击事件",
-      "summary": "2026年4月26日，美国白宫记者协会年度晚宴期间发生枪击事件，枪手向现场开火，特朗普总统及夫人被紧急疏散，副总统万斯、国务卿鲁比奥和国防部长赫格塞思等高官均出席了此次晚宴。目前枪手已被击毙，一名嫌疑人被拘捕，事件动机尚不明确。这是特朗普任期内发生的重大安全事件，引发美国社会高度关注。",
-      "reason": "多平台报道，特朗普遇袭事件引发全球关注",
+      "title": "华盛顿晚宴枪击事件",
+      "summary": "4月25日，美国白宫记者协会年度晚宴突发枪击事件，特朗普和万斯被紧急护送离场。嫌疑人身份已曝光，毕业于加州理工学院曾为辅导教师。事件引发全球关注，美国安全措施面临质疑。这一事件发生在美伊紧张局势升级背景下，可能对美国国内政治和国际关系产生深远影响。",
+      "reason": "全球关注的政治安全事件，多平台破圈报道",
       "impact_areas": [
         "政治",
-        "社会"
+        "国际关系"
       ],
       "impact_level": "重大",
       "sources": [
         {
-          "name": "澎湃新闻",
-          "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5JdHRYdWRfSDg0R3c1Sk5EQkdXU2E5Q3g2M3FmZW1aS1owWVlNZ1ZtTEZMd1Jzd3FIVnhSOHpDU3dXOVhFMDVwQlVKZGNrVnRuRjZHMFdscDlSVUdHWlE?oc=5"
+          "name": "财新网",
+          "url": "https://international.caixin.com/2026-04-26/102437996.html"
         },
         {
-          "name": "凤凰网",
-          "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE1KeVg2dGQ1cWdTRUVWSElFSzdhekFVVE9YU1dwQ0J2VzJVbjlKRG4xYzZjWmhiZ0VPWk02QkxGWC04ZGtrWkhvbE12djI?oc=5"
+          "name": "BBC",
+          "url": "https://www.bbc.com/news/articles/c62j23wzeqeo?at_medium=RSS&at_campaign=rss"
         },
         {
-          "name": "虎嗅",
-          "url": "https://www.huxiu.com/article/4853840.html"
+          "name": "NYTimes",
+          "url": "https://news.google.com/rss/articles/CBMisAJBVV95cUxOdEdBajVocWpGVkxZNXBHZ0VNbVRXSkZ3dUpBeGFXdlJfczgtTUtBVkR1QXFBMXlRVEFIcDhURW1SdFpBWU5QaGc3RDVGaTV0LVdnTGdxTEFDejU4OG1pYWYzdFNjZVc5TmVvbS1xS19IMXZaRG1fNWJXem5ReVJrVWw1em5FNHZZdlo3VzRSVjZQcmRibFl5ZTlPY2FwbThJN25iM3Q5NTlCTjZVUlBhTmo2NEh3MlVfdXhFbWxHZy1MZlFMZ19lWHEwZzVmRjdWOGVJdFREd2FxYkhFU2Rzc09ldWZkZFhPYThlZ1cyeDBRSDlfbHh2NkVSVHRjM01lVHdhT0tXc1kzTTh0VWFCWlFkb05iQTJLeGNYWUk5QzJObVJZOEM4cXBubFJCOGxy"
         }
       ]
     },
     {
-      "title": "美伊和谈取消",
-      "summary": "2026年4月26日，美国总统特朗普突然取消高级代表维特科夫和库什纳前往巴基斯坦参加美伊和平谈判的行程，称\"路程太远太折腾，耗时久，成本也太高\"。与此同时，美军宣布将继续对进出伊朗港口船只实施全面封锁。伊朗最高领袖呼吁民众\"认清形势，正确判断，保持警惕\"，伊朗总统表示不会在压力、威胁和封锁下进行谈判。美伊紧张局势进一步升级。",
-      "reason": "美伊和谈取消，地区冲突风险加剧",
+      "title": "美伊冲突持续升级",
+      "summary": "近期美伊紧张局势持续升级，伊朗称已成功摧毁3枚美国巨型钻地弹，美军则继续对进出伊朗港口船只实施全面封锁。伊朗外长密集访问试图破局，但美对伊海上封锁仍待解。伊朗总统表示不会在压力、威胁和封锁下进行谈判。冲突已影响伊拉克库区，在美以伊冲突期间遭逾800次袭击。这一系列事件可能导致中东地区局势进一步动荡，并对全球能源市场产生重大影响。",
+      "reason": "地缘政治热点，多源密集报道，影响全球能源市场",
       "impact_areas": [
-        "政治",
-        "地缘"
+        "国际关系",
+        "经济金融"
       ],
       "impact_level": "重大",
       "sources": [
         {
-          "name": "澎湃新闻",
-          "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5JdHRYdWRfSDg0R3c1Sk5EQkdXU2E5Q3g2M3FmZW1aS1owWVlNZ1ZtTEZMd1Jzd3FIVnhSOHpDU3dXOVhFMDVwQlVKZGNrVnRuRjZHMFdscDlSVUdHWlE?oc=5"
+          "name": "财新网",
+          "url": "https://www.caixin.com/2026-04-26/102437972.html"
         },
         {
           "name": "凤凰网",
-          "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE5pc3NHQTgzRFQ3RlFWaV9UTlRDSHRiWDRxLVBvckI4VVFScl8tX3luMU90S0l5WXotb2FUb3FucE14ZDNQS0JDWm1tWGI?oc=5"
+          "url": "https://news.ifeng.com/c/8sdwwvxNzJq"
         },
         {
           "name": "央视网",
           "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBBTDV4bkhtckluX2JULTltXzNKaXJ2YUJMMl82ZFhTVWdXZmpneTNEVEF4ZWlLSzc5dW41bC1Ca2MtUVFiR0lYZzdMU1hhR2x5N0NndUlDa2dTSUNLdGlmT214ajUyeWFzU2h4ZkRWdWMxLVZNZ0NSRQ?oc=5"
+        },
+        {
+          "name": "BBC",
+          "url": "https://www.bbc.com/news/articles/c5yv1nvd4gjo?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "name": "NYTimes",
+          "url": "https://www.nytimes.com/2026/04/26/world/middleeast/iranian-negotiators-set-to-return-to-pakistan-to-try-to-revive-truce-talks.html"
         }
       ]
     },
     {
-      "title": "欧尔班选举失利",
-      "summary": "2026年4月25日，匈牙利举行议会选举，执政多年的青民盟(Fidesz)遭遇惨败，欧尔班宣布辞去议员职务。这一结果被视为欧洲政治格局的重大变化，欧尔班执政期间采取的强硬移民政策和与欧盟的紧张关系引发争议。选举结果将对匈牙利未来政治走向及欧洲整体政治格局产生深远影响。",
-      "reason": "欧洲政治格局重大变化，欧尔班下台",
+      "title": "DeepSeek-V4成AI新标杆",
+      "summary": "中国AI模型DeepSeek-V4成为OpenClaw默认模型，引发全球AI圈关注。这一突破性进展表明中国在人工智能领域取得重大进展，可能改变全球AI竞争格局。DeepSeek-V4在多项基准测试中表现优异，其开源特性和高性能使其成为开发者的首选。这一事件将加速AI技术在各行业的应用，并对全球科技产业产生深远影响。",
+      "reason": "AI领域重大突破，科技圈广泛关注",
       "impact_areas": [
-        "政治"
+        "科技"
+      ],
+      "impact_level": "重大",
+      "sources": [
+        {
+          "name": "澎湃新闻",
+          "url": "https://m.thepaper.cn/detail/33057893"
+        }
+      ]
+    },
+    {
+      "title": "马拉松破2历史性突破",
+      "summary": "肯尼亚选手萨维在马拉松比赛中实现\"破2\"壮举，成为历史上首位跑进2小时的运动员。这一突破打破了长期被认为不可逾越的极限，标志着人类耐力运动的新里程碑。赛事组织者称这一成就将激励更多运动员挑战极限，并对马拉松运动的发展产生深远影响。这一突破也引发了关于人类体能极限的科学讨论。",
+      "reason": "体育领域历史性突破，多平台报道",
+      "impact_areas": [
+        "体育"
+      ],
+      "impact_level": "重大",
+      "sources": [
+        {
+          "name": "澎湃新闻",
+          "url": "https://m.thepaper.cn/detail/33058264"
+        },
+        {
+          "name": "凤凰网",
+          "url": "https://news.ifeng.com/c/8sdvzyYW4rr"
+        }
+      ]
+    },
+    {
+      "title": "匈牙利执政党败选",
+      "summary": "匈牙利执政党在议会选举中遭遇惨败，总理欧尔班宣布将辞去议会职务。这一结果标志着匈牙利政治格局的重大变化，可能影响中东欧地区的政治走向。欧尔班执政期间采取的强硬移民政策和与欧盟的紧张关系被认为是败选的主要原因。这一事件将对匈牙利未来的内外政策产生深远影响，并可能引发中东欧地区政治格局的连锁反应。",
+      "reason": "欧洲政治格局重大变化，多国媒体报道",
+      "impact_areas": [
+        "政治",
+        "国际关系"
       ],
       "impact_level": "重大",
       "sources": [
@@ -69,69 +112,41 @@
       ]
     },
     {
-      "title": "马里遭武装袭击",
-      "summary": "2026年4月25日，非洲国家马里多地遭武装组织协同袭击，造成重大人员伤亡。军方称已控制局势，但袭击事件引发国际社会对马里安全局势的担忧。与基地组织有关的武装组织宣称对袭击负责，这是马里近年来最严重的安全事件之一。",
-      "reason": "马里遭大规模武装袭击，安全局势恶化",
+      "title": "金融稳定立法提上日程",
+      "summary": "中国2026年度立法计划正式纳入《金融法》和《金融稳定法》，标志着金融监管体系将迎来重大变革。这两部法律旨在完善金融监管框架，防范系统性金融风险，促进金融市场健康发展。专家认为，这一立法进程将对金融机构经营模式、金融产品创新以及投资者保护产生深远影响，有助于提升中国金融体系的韧性和稳定性。",
+      "reason": "金融领域重大立法，影响行业格局",
       "impact_areas": [
-        "政治",
-        "社会"
+        "经济金融",
+        "政治"
       ],
       "impact_level": "重大",
       "sources": [
         {
-          "name": "BBC",
-          "url": "https://www.bbc.com/news/articles/clyx7nnrkqdo?at_medium=RSS&at_campaign=rss"
-        },
-        {
-          "name": "NYTimes",
-          "url": "https://www.nytimes.com/2026/04/25/world/africa/mali-attacks-jnim-al-qaeda-bamako.html"
-        },
-        {
-          "name": "凤凰网",
-          "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE02OERsVHdZVnU1Vmw3ZGpYYUJRMXRoUy1BWkRFNjNpWVAwRXR2cjc5bHA3RzRoclcxeEF1N08zdDlha2k0RDZoTA?oc=5"
+          "name": "财新网",
+          "url": "https://finance.caixin.com/2026-04-26/102438129.html"
         }
       ]
     },
     {
-      "title": "AI座舱芯片发布",
-      "summary": "2026年4月26日，中国芯片企业芯擎科技正式发布新一代AI座舱芯片\"龍鹰二号\"，该芯片将于2027年第一季度启动适配工作。这款芯片专为智能汽车座舱设计，具备强大的AI计算能力和低功耗特性，将进一步提升智能汽车的交互体验和智能化水平。此次发布标志着中国在汽车芯片领域的重要技术突破。",
-      "reason": "中国发布新一代AI座舱芯片，汽车芯片领域重大突破",
+      "title": "美伊制裁升级影响中国企业",
+      "summary": "美国升级对伊朗石油制裁，中企恒力石化遭波及。这一制裁升级导致国际油价波动，并对全球能源供应链产生连锁反应。恒力石化作为中国企业，其业务受到直接影响，可能面临经营压力。分析人士指出，这一事件反映了中美在能源领域的竞争加剧，可能促使中国加速能源多元化战略，减少对单一市场的依赖。",
+      "reason": "国际经贸关系重大变化，影响中国企业",
       "impact_areas": [
-        "科技",
-        "产业"
+        "经济金融",
+        "国际关系"
       ],
       "impact_level": "重大",
       "sources": [
         {
-          "name": "36氪",
-          "url": "https://www.36kr.com/newsflashes/3783080587926793"
+          "name": "财新网",
+          "url": "https://www.caixin.com/2026-04-26/102437972.html"
         }
       ]
     },
     {
-      "title": "DeepSeek-V4免费开放",
-      "summary": "2026年4月26日，中国超算互联网平台宣布推出DeepSeek-V4大语言模型限时免费对话服务。DeepSeek-V4是中国自主研发的新一代大语言模型，在多项基准测试中表现优异。此次免费开放将加速AI技术在各行业的应用普及，推动中国人工智能产业发展。同时，DeepSeek-V4-Pro模型API也宣布限时2.5折优惠，进一步降低AI技术使用门槛。",
-      "reason": "中国超算互联网推出DeepSeek-V4免费服务，AI技术普及加速",
-      "impact_areas": [
-        "科技",
-        "产业"
-      ],
-      "impact_level": "重大",
-      "sources": [
-        {
-          "name": "36氪",
-          "url": "https://www.36kr.com/newsflashes/3783020652518401"
-        },
-        {
-          "name": "36氪",
-          "url": "https://www.36kr.com/newsflashes/3782954220608512"
-        }
-      ]
-    },
-    {
-      "title": "公募增配科技硬件",
-      "summary": "2026年4月26日，申万宏源发布研究报告指出，2026年一季度公募基金持仓呈现明显结构性变化，重点增配科技硬件和能源安全相关产业链。报告显示，AI服务器、半导体设备、智能汽车等科技硬件板块获得大幅增持，同时国防军工、新能源、粮食安全等能源安全相关产业链配置比例显著提升。这一持仓变化反映市场对未来科技发展和国家安全战略的重点布局。",
-      "reason": "公募基金大幅增配科技硬件和能源安全产业链，市场信号明确",
+      "title": "原材料涨价冲击电动车企",
+      "summary": "原材料价格上涨叠加标准切换，挤压电动两轮车企业一季度利润。数据显示，多家电动两轮车企业净利润同比下降超过30%。行业分析师指出，锂、钢等原材料价格上涨是主要原因，同时新国标实施带来的技术升级成本也增加了企业负担。这一趋势可能导致行业洗牌，加速头部企业市场份额提升，并推动行业向高端化、智能化方向发展。",
+      "reason": "产业格局变化，经济数据异常",
       "impact_areas": [
         "经济金融",
         "产业"
@@ -139,60 +154,44 @@
       "impact_level": "重大",
       "sources": [
         {
-          "name": "36氪",
-          "url": "https://www.36kr.com/newsflashes/3783130507025673"
+          "name": "财新网",
+          "url": "https://www.caixin.com/2026-04-26/102437969.html"
         }
       ]
     },
     {
-      "title": "光纤光缆产业大周期",
-      "summary": "2026年4月26日，华泰证券发布研究报告指出，光纤光缆产业正进入历史性大周期。报告分析，随着5G-A/6G网络建设加速、数据中心扩容以及工业互联网普及，光纤光缆需求将持续旺盛。同时，上游原材料价格稳定，行业集中度提升，龙头企业有望迎来量价齐升。这一判断对通信产业链相关企业具有重要投资指引意义。",
-      "reason": "光纤光缆产业进入历史大周期，通信产业链迎来重大机遇",
+      "title": "蒙古6.0级地震",
+      "summary": "蒙古发生6.0级地震，震源深度15千米。地震发生后，当地政府启动紧急响应机制，评估灾情并展开救援工作。专家表示，此次地震可能对当地基础设施和矿产资源开发造成影响。蒙古作为矿产资源丰富的国家，地震可能对全球供应链中的关键矿产供应产生连锁反应。目前尚无重大人员伤亡报告，但灾后重建工作面临挑战。",
+      "reason": "自然灾害，可能影响地区经济和全球供应链",
       "impact_areas": [
-        "经济金融",
-        "产业"
+        "生态",
+        "经济金融"
       ],
       "impact_level": "重大",
       "sources": [
         {
-          "name": "36氪",
-          "url": "https://www.36kr.com/newsflashes/3782964689148937"
+          "name": "央视网",
+          "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFAtVG1TYm1ienNsZFI0Q1Z3SjFnblRnNHZacjZPUTFqTGdUVFJpSWctSVBpdVBmSjhyZDJpQ2pUZlBOekFLMHZIMkNwWjZwYUdfSTdhWFctNVVZNGpNS2pZcF96amtlYmg2YkhnX3VPSlo0UlozbmtoWQ?oc=5"
         }
       ]
     },
     {
-      "title": "切尔诺贝利再遭灾难",
-      "summary": "2026年4月26日，恰逢切尔诺贝利核事故40周年，乌克兰局势再次为这一地区带来灾难性影响。战争导致核设施维护困难，辐射监测受阻，核安全风险加剧。国际原子能机构警告称，切尔诺贝利地区的核安全状况正面临前所未有的挑战，呼吁国际社会共同关注并采取措施。这一事件引发全球对核安全与和平的深刻反思。",
-      "reason": "切尔诺贝利核事故40周年再遭战争影响，核安全风险加剧",
+      "title": "互联网广告整治启动",
+      "summary": "国家互联网广告市场秩序整治行动正式启动，行动为期半年。此次整治重点包括虚假宣传、数据造假、不正当竞争等突出问题。监管部门表示，将通过技术手段和人工巡查相结合的方式，对互联网广告进行全面监管。分析人士认为，这一行动将促使互联网广告行业更加规范发展，提升广告质量和用户体验，同时可能对依赖广告收入的互联网企业短期业绩产生影响。",
+      "reason": "行业监管政策，影响互联网企业发展",
       "impact_areas": [
-        "政治",
-        "生态"
+        "产业",
+        "经济金融"
       ],
       "impact_level": "重大",
       "sources": [
         {
-          "name": "NYTimes",
-          "url": "https://www.nytimes.com/2026/04/26/world/europe/chernobyl-anniversary.html"
-        }
-      ]
-    },
-    {
-      "title": "日本整治不文明游客",
-      "summary": "2026年4月26日，日本政府加大力度整治不文明游客行为，特别是在富士山和樱花季热门景点。随着国际旅游恢复，日本面临越来越多的游客不文明行为问题，包括乱扔垃圾、破坏植被、不遵守当地习俗等。日本政府推出多项措施，包括加强巡逻、提高罚款额度、开展文明旅游宣传等，以保护自然环境和文化遗产，维护日本旅游形象。",
-      "reason": "日本加大整治不文明游客力度，旅游与环保平衡挑战",
-      "impact_areas": [
-        "社会",
-        "生态"
-      ],
-      "impact_level": "重大",
-      "sources": [
-        {
-          "name": "NYTimes",
-          "url": "https://www.nytimes.com/2026/04/26/world/asia/japan-fuji-tourism-cherry-blossoms-overtourism.html"
+          "name": "央视网",
+          "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBYWWI4M2pUNmRxTHF0b2daZXdGNzNLSzFieUtoX2lBdGNXaDU3WklXMXZObFgzc25ndEp2R1FOR195WkpiZGtzaUZ1bTZEdXZIMU9JcDlDRVdLNVlFUmptSzU3WUd2WTNUeWJ4dzRaT1pqRThZMWpRZA?oc=5"
         }
       ]
     }
   ],
-  "total_fetched": 189,
-  "generated_at": "2026-04-26T12:27:50.709531+08:00"
+  "total_fetched": 289,
+  "generated_at": "2026-04-26T19:48:54.102103+08:00"
 }
