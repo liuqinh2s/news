@@ -1,4 +1,4 @@
-# 2026-04-29 原始新闻标题 (207 条)
+# 2026-04-29 原始新闻标题 (234 条)
 
 ## 新华社 (20 条)
 - Education, health fees among key concerns
@@ -22,44 +22,61 @@
 - Former Chongqing political official facing corruption investigation
 - Former Chongqing political official facing corruption investigation
 
-## 澎湃新闻 (12 条)
-- 重访“新闻名篇”丨今天为何需要重温陈景润精神？
-- 重访“新闻名篇”｜重新“理解”陈景润
-- 历史上的今天｜1954年4月29日，“和平共处五项原则”首次写入中印两国协定
-- 纪念建国250周年，美国将发行印有特朗普肖像的护照
-- 美国防部正式申请更名为“战争部”
-- 英媒：因与特朗普意见相左，美驻乌临时代办将离任
-- 阿联酋能源部长：退出欧佩克对市场影响有限
-- 新疆阿克苏地区库车市发生4.8级地震
-- 美国宣布对35个伊朗相关实体及个人实施制裁
-- 英媒：欧盟贸易高官因不满欧美贸易协议将离职
-- 英国下议院否决调查首相动议
-- 新华社：阿联酋为什么退出欧佩克及“欧佩克+”
+## 澎湃新闻 (7 条)
+- 重构城市的“呼吸系统”：芬兰双城如何把气候危机变成一场“经济成功史”？ - thepaper.cn
+- 最火“五一假期”预订：多地中小学生喜提超长假，热门景区搜索热度数倍增长 - thepaper.cn
+- 何帆：AI应用的“第一枪”，极大概率在中国落地 - thepaper.cn
+- 突发！事涉4.7万户股民，粮油大王遭立案调查 - thepaper.cn
+- 中国代表点名以色列！ - thepaper.cn
+- 湘潭万楼・青年码头三期项目“决战”正酣 - thepaper.cn
+- 凤栖书香 悦读成长 - thepaper.cn
 
-## 凤凰网 (17 条)
-- 纪念建国250周年，美国将发行印有特朗普肖像的护照
-- 美菲军演强化反无人机能力，解放军南海巡航严正回应
-- 英王访美：无论存在怎样分歧，双方都将坚定团结
-- 以总理：下令以军“特别行动”对付黎真主党无人机
-- 美方禁止本国个人或实体向伊朗缴纳海峡通行费
-- 美国防部正式申请更名为“战争部”
-- 美军以违反对伊封锁为由在阿拉伯海拦查一艘商船
-- 阿联酋能源部长：退出欧佩克对市场影响有限
-- 胡锡进：我们用不着为年轻一代操心，他们决不会“躺平”
-- 美国宣布对35个伊朗相关实体及个人实施制裁
-- 因不满欧美贸易协议，欧盟贸易高官被曝将离职
-- 特朗普：我的母亲曾暗恋查尔斯国王
-- 美最新民调：特朗普支持率跌至任内新低
-- 曾负责“通俄门”调查的FBI前局长再次被起诉
-- 英国下议院否决调查首相动议
-- 美军：在对伊朗港口封锁行动中已要求39艘船只掉头
-- 伊朗或向巴基斯坦提交调整版谈判方案
+## 凤凰网 (20 条)
+- 英国王给特朗普送了口钟，双关语里的英式幽默
+- 伊朗政府回应断网：危机局势结束后将调整，当前需防舆论战
+- 继发芽马铃薯后，美国花生将“零关税”输台，岛内舆论批“灭农”
+- 英大使私下录音曝光：美国只和以色列有特殊关系
+- LABUBU冰箱被炒到9万元
+- 曾与乘客机场对骂：“你回到南昌，有你好瞧的”，副部级洪礼和被判20年
+- 美发芽土豆可输台，国台办答凤凰：民进党当局献媚美国的投名状
+- 岛内担忧美国花生可能在台倾销，国台办回应
+- 日本查处近百名涉网络儿童色情犯罪人员
+- 强对流天气影响广东，多地暴雨雷雨大风预警生效
+- 金门赴厦门考察团被迫降低层级，国台办回应
+- 赖清德取消窜访斯威士兰，国台办回应
+- 2025年度全国十大考古新发现揭晓
+- 傅聪：以色列必须立即停止非法定居点活动，对所有袭击事件严肃问责
+- 国台办：一流军队、强大国防是挫败任何分裂中国图谋的利剑
+- 民进党当局威胁禁高德地图，国台办回应
+- 特朗普白宫迎接查尔斯三世，刻意回避敏感议题
+- 中国要暂停硫酸出口？海外慌了，“没有可替代来源”
+- 代母参选！应晓薇女儿应佳妤表态“准备好了”：议员也是一个选项
+- 黄国昌会加入竞选团队？李四川：是最好的战友，不能用职务框住他
 
-## 财新网 (1 条)
-- 财经早知道｜政治局会议定调：扩内需、稳楼市、实施“人工智能+”
+## 财新网 (20 条)
+- 印度富家子欲救哥伦比亚毒枭留下的80头河马 原计划被安乐死
+- 贵州数据反腐 云上贵州集团首任董事长康克岩被查
+- 刑法保持克制力，企业才有生命力
+- 能源内参｜阿联酋声明将于5月1日退出欧佩克 原为该组织第三大产油国；绿电直连新模式即将发布 用户将可“一变多”
+- 黎明未至，硝烟里的一杯咖啡｜画志·2026第一季
+- 【市场动态】城堡证券在亚洲扩张 招兵买马并杀入大宗交易领域
+- 【市场动态】台股市值超过加拿大 跃居全球第六大股市
+- 震惊！贵州密集官宣四名女厅官落马
+- 【市场动态】阿克曼旗下Pershing Square通过IPO募集50亿美元
+- 被控从河池书记“贪”到广西主席 正省级蓝天立将在湖南常德受审
+- 【霍尔木兹日报】昨日两艘中国船舶试图穿越海峡 尚未驶出阿曼湾
+- 地缘扰动下的出口三问
+- 财新闻｜阿联酋宣布将退出欧佩克及“欧佩克+”机制
+- 【市场动态】中资港股派息高峰6月将至 远期购汇提前锁定料将助缓人民币升值
+- 【市场动态】阿联酋宣布退出令OPEC猝不及防 威胁到联盟对石油市场的掌控
+- 【市场动态】日本超级油轮成功驶离霍尔木兹海峡 或为战争以来首次
+- 【市场动态】OpenAI称媒体报道是标题党 公司各项业务“火力全开”
+- 今日开盘：两市双双低开 沪指跌幅0.41%
+- T早报｜北京将于5月1日起全面禁售无人机 ；腾讯上调智能体CodeBuddy、WorkBuddy价格；网信部门查处“剪映”App等
+- “荷兰士大夫”高罗佩的学术人生｜带着问题去读书
 
 ## 央视网 (1 条)
-- 世界银行预测今年全球能源价格将大涨24% - 央视网
+- 文化与体育交相辉映 - 央视网
 
 ## BBC (10 条)
 - Comey charged with threatening Trump's life in Instagram post
@@ -73,19 +90,16 @@
 - 'It's bizarre': Californians grapple with revelation that suspected Trump gunman was neighbour
 - Watch: Elderly woman rescued by robot from Ukraine's frontline
 
-## Reuters (10 条)
+## Reuters (7 条)
 - Oil prices rise with eyes on Iran, UAE; AI concerns weigh on stocks - Reuters
-- Oil ends up nearly 3% as Hormuz disruption outweighs UAE OPEC exit - Reuters
-- US companies project resilience even as Iran war risks mount - Reuters
-- US, allies release joint statement supporting Panama's sovereignty - Reuters
+- Trump administration fires entire National Science Board - Reuters
 - Holders PSG edge Bayern 5-4 in record-breaking semi-final first leg - Reuters
-- Exclusive: US orders chip equipment companies to halt some shipments to China's No. 2 chipmaker Hua Hong - Reuters
+- Nasdaq, S&P 500 end lower on renewed AI growth worries ahead of big tech earnings - Reuters
+- US mandates what it calls 'enhanced' security checks for immigration applicants - Reuters
+- EU’s top trade official leaves after clashing over Trump deal, FT reports - Reuters
 - Barrick names top executives to work on North American IPO - Reuters
-- Exclusive: Ghana rejects proposed US health aid deal, citing data concerns, source says - Reuters
-- FCC to order early license reviews of Disney-owned ABC stations, source says - Reuters
-- Pernod Ricard and Jack Daniel's owner Brown-Forman end merger talks - Reuters
 
-## NYTimes (16 条)
+## NYTimes (20 条)
 - UAE Says It Will Leave OPEC as Iran War Strains Oil Markets
 - The Small U.K. Agency That’s a 911 for Ships in the Strait of Hormuz
 - They Lost Their Homes in Cuba to the Communist Government. Will They Ever Get Them Back?
@@ -95,6 +109,10 @@
 - Afghanistan Accuses Pakistan of Artillery Strike on a University
 - Mexico Says 4 Foreigners Were at Cartel Raid Where 2 C.I.A. Officers Died
 - In Iran, Cheetah Sightings Offer Rare Spots of Hope Amid War
+- Ron Paul Saw The U.S. Mint’s Gold Problems Coming
+- Gallows Humor Provides Respite From Mideast Wars
+- Global Deforestation Slows, W.R.I. Report Finds. But Wildfires Are Taking a Toll.
+- Acid Attack in Indonesia Evokes Brutality of Suharto Era
 - The British public have taken a dim view of the king’s visit.
 - Prime Minister Mark Carney Says Canada’s Economy Is Expected to Grow and Deficit to Fall
 - The E.P.A.’s Lost Science
@@ -113,25 +131,25 @@
 
 ## 微博热搜 (20 条)
 - 朋友圈改版
-- 玉龙雪山景区报警
-- 五一全社会流动预计超15亿人次
+- 躺平网红
+- 新中国首条通江达海大运河来了
 - 大众点评成谢霆锋朋友圈了
-- 铁证 刘宇宁
-- 腾讯客服回应朋友圈排版变了
-- 情绪压力对一个人体态的影响
-- 21.99万起极狐问道V9预售
-- 第一次知道羽绒服能这么补
-- 不敢想i人住进去得有多幸福
-- 阿联酋退出石油输出国组织
-- 欧冠联赛
-- 白冰上海买豪宅后一年搬进别墅
-- 天云
-- 普通人长见识最快的方式
-- 33岁迪丽热巴状态
-- 欧冠
-- 小钰回应谣言
-- 出轨女被情人杀害案发细节曝光
-- 黄子弘凡 银河左岸出场顺序
+- 网传孙杨妈妈要求删除马頔发言
+- 偏偏宠爱
+- 多平台已下架毒品前体
+- 假期的健康轻盈攻略
+- 孙杨妈妈
+- 体育老师考教资太尴尬了
+- 我国新发现13个亿吨级油田
+- 王楚钦放狠话
+- 曝吴宣仪提解约遭乐华拒绝
+- 请假10天5天连做5台手术男子发声
+- 曝乐华不允许艺人查看工作合同
+- 赛琳娜老公cue比丑帖
+- 日本广岛爆炸现场视频
+- 苹果天气崩了
+- 一博一拧一口一瓶
+- 免单大奖过期未使用急坏飞猪
 
 ## 知乎热榜 (20 条)
 - 捕蝇草怎么知道碰它的不是雨滴？
@@ -156,87 +174,96 @@
 - 一角钱为什么叫一毛钱？
 
 ## B站热门 (20 条)
+- 《明日方舟》限定干员「凯尔希·思衡托」前瞻PV
 - 《代号：神不言》首曝PV&实机技术演示｜心动，这次来点真的
-- 《阴阳师》思金神CG丨醒世达观（CV：五十岚雅）
-- 《鸣潮》共鸣者「绯雪」PV | 不见春
-- 眼“色”游戏（12）
-- 杰哥来了，就不会两手空空
-- 合作遗迹探险游戏《吉时已到》首支预告片｜上海烛龙
+- 极致还原Billie jean现场名场面|【定格动画】
 - 《天打雷劈の好心人》
+- 贵州免费风景堪比游戏大作。实拍无AI，安全合规飞行。
+- 《鸣潮》共鸣者「绯雪」PV | 不见春
+- 【沉浸体验】我把小时候的“秘密基地”搬进了这台车里...
+- 眼“色”游戏（12）
 - 人民币疯涨，为什么？背后有什么秘密？
-- 无公司，无投资，无AI！我们手搓了一个原创中恐无限流大电影！？
-- 当你穿进老钱班23
-- 当浮一大白！请苑举正老师从台湾来撸串
-- 让 暗 号 飞 一 会 ！！
 - 跑刀鼠被亲妈大义灭亲!
-- 【NMIXX】“Crescendo” M/V
-- 白宫晚宴有刺客，让领导先走！
-- 卓别林：这么一剪，原来嘎子才是真的默片喜剧大师！
-- 独立，是对父母最大的报复
+- 当你穿进老钱班23
+- 合作遗迹探险游戏《吉时已到》首支预告片｜上海烛龙
+- 无公司，无投资，无AI！我们手搓了一个原创中恐无限流大电影！？
+- 虚质危机通讯 | 第二代拟制炉芯的制作进展
 - 第一次女装，整得有点没轻没重的
-- 歌剧老师锐评《乘风破浪的姐姐2026》二公（下）
-- 在意大利摆摊卖中餐，被客人解锁各种奇葩吃法！
+- 《英魂归乡》
+- 当浮一大白！请苑举正老师从台湾来撸串
+- 白宫晚宴有刺客，让领导先走！
+- 爆笑！诺兰导演致敬过的片段！！
+- 【NMIXX】“Crescendo” M/V
 
 ## 抖音热搜 (20 条)
-- 这里是“黄站长”的家乡安徽宣城
 - 这里才是假期旅行天花板
-- 五一小客车上高速继续免收通行费
 - 五一带上256G的胃见面吧
-- CBA季后赛广东首场爆冷负广州
-- 阿联酋宣布将退出欧佩克
-- 国产螺丝刀成了老外的梦中情刀
+- 千亿级新赛道崛起
+- 巴黎5:4拜仁
+- 非遗青年郭大侠重现神奇酒海
 - 夏日穿搭显贵技巧
+- 赵心童8:8墨菲追平比分
 - 五一主打不费力的快乐
-- 小米宣布MiMo V2.5正式开源
-- NBA球星为CBA季后赛应援
-- 徐昕杜锋世纪握手
-- 全球迎来超级央行周
-- 揭阳文旅主打一个听劝
+- 国产螺丝刀成了老外的梦中情刀
+- 阿联酋宣布将退出欧佩克
+- 特朗普再次无视英国王室规矩
+- CBA季后赛广东首场爆冷负广州
+- 脑机接口正重塑人类生活
+- 官方辟谣老人迫于生计景区卖花
+- 影响金价的关键因素是什么
+- 赵一程打破速度攀岩世界纪录
 - 王者芈月敖闰新皮肤
-- 金建希获刑4年
+- 全球迎来超级央行周
+- 特朗普支持率降至任内新低
 - 初夏第一个转场挑战
-- CBA季后赛辽宁胜山东夺赛点
-- 你最想把哪个男孩带回家
-- 阿sa蔡卓妍官宣结婚
 
-## 雪球热帖 (4 条)
+## 雪球热帖 (20 条)
+- 宁德时代获贝莱德增持约86.96万股 每股作价705.5909港元 - 新浪财经
+- 王姓股民向神马股份发起索赔 刘鹏律师接受咨询 - 新浪财经
 - 新浪财经隔夜要闻大事汇总：2026年4月29日 - 新浪财经
+- 天弘国证航天航空行业ETF净值下跌3.41% - 新浪财经
+- 华夏国证航天航空行业ETF净值下跌3.43% - 新浪财经
+- 招商中证煤炭等权指数A净值上涨3.28% - 新浪财经
+- 广发中证港股通汽车ETF净值下跌3.00% - 新浪财经
+- 招商中证卫星产业ETF净值下跌3.24% - 新浪财经
+- 万家国证航天航空行业ETF净值下跌3.38% - 新浪财经
+- 中海魅力长三角混合净值下跌3.14% - 新浪财经
+- 国新国证新锐A净值下跌3.34% - 新浪财经
+- 南方中证通用航空主题ETF发起联接A净值下跌3.40% - 新浪财经
+- 国泰中证煤炭ETF联接C净值上涨3.34% - 新浪财经
+- 广发中证卫星产业ETF净值下跌3.34% - 新浪财经
+- 4月29日外盘头条：阿联酋将于5月退出OPEC OpenAI称公司各项业务“火力全开” 马斯克在OpenAI审判中出庭作证 - 新浪财经
+- 科创创业人工智能ETF华泰柏瑞（159139）涨1.97%，半日成交额3168.73万元 - 新浪财经
 - 同和药业一季度营收1.84亿元同比降1.34%，归母净利润1877.95万元同比降9.63%，净利率下降0.93个百分点 - 新浪财经
-- 大普微一季度营收13.10亿元同比增340.95%，归母净利润3.70亿元同比增398.88%，销售费用同比增长33.83% - 新浪财经
-- 东宝生物股东会完成董事会换届 王爱国刘芳当选非独立董事 - 新浪财经
+- 金安国纪2025年净利润增长近712%背后：PCB营收同比下滑超34% - 新浪财经
+- 科创创业人工智能ETF富国（159022）涨1.84%，半日成交额2032.13万元 - 新浪财经
+- 赤峰黄金(06693.HK)获T. Rowe Price Associates, Inc.增持300.44万股 - 新浪财经
 
-## 36氪 (12 条)
-- 武汉聚芯微电子股份有限公司向港交所提交上市申请书
-- 英伟达斥资1.3亿美元在班加罗尔签订10年租约，扩大印度业务版图
-- OpenAI：企业和广告业务正在增长
-- 通用汽车将获5亿美元关税退款，盈利表现超出华尔街预期
-- 星巴克第二财季净营收95亿美元，同比增长8.4%
-- 立讯精密：2026年半年度净利同比预增18%-22%
-- 国轩高科：第一季度净利润2109.32万元，同比下降79.04%
-- 泸州老窖：2025年净利润108.31亿元，同比下降19.61%
-- 五粮液：延期披露《2025年度报告》及《2026年第一季度报告》至2026年4月30日收市后
-- 隆基绿能：第一季度净亏损19亿元
-- 阿联酋宣布将退出欧佩克及“欧佩克+”
-- 美股三大指数集体收跌，大型科技股多数下跌
+## 36氪 (20 条)
+- OpenRouter发布最新大模型调用量排行榜，混元Hy3 preview登顶
+- 吉利汽车：第一季度母公司拥有人应占利润为人民币41.7亿元，同比下降27%
+- 国家税务总局首次发布丹麦等3国全球最低税规则国别实施指引
+- 恒指午间休盘涨1.23%，恒生科技指数涨1.07%
+- 阶跃星辰发布新一代图像生成编辑模型Step Image Edit 2
+- 半日主力资金加仓电力设备股，抛售银行股
+- 英伟达高管将与三星、SK海力士高管会面，洽谈实体人工智能合作事宜
+- A股三大指数午间休盘集体上涨，新能源产业链大涨
+- 掌阅科技：2026年将全面推进AI短剧工业化布局
+- 创业板指盘中涨超2%
+- 国轩高科旗下江苏新能源科技公司增资至约26.8亿元
+- 腾讯ima推出全新知识Agent——copilot
+- 源杰科技股价创新高
+- 兆驰股份：2026年光通信业务将作为公司产业升级的核心战略方向
+- 厦门士兰集华微电子公司注册资本增至51.1亿元
+- 创业板指拉升涨超1%
+- 2025年我国全年词元累计调用量达21100万亿，日均调用量呈指数级增长
+- “擎天租”完成数亿元Pre-A轮融资
+- 沪深两市成交额突破1万亿
+- 白宫据悉正在研讨恢复与Anthropic合作
 
-## 虎嗅 (5 条)
-- 招行陷入“优等生困境”
-- 马斯克的薪酬神话，正在制造一群“对赌炮灰”
-- 为何谁都觉得银发经济风口来了，却鲜有人赚到钱？
-- AI时代，文凭和高校教师的双重危机
-- 五粮液，为何推迟披露财报？
+## 虎嗅 (1 条)
+- 招商银行2025年财报显示增长质量优于同业但面临息差压力 - 虎嗅
 
-## GitHub Trending (13 条)
-- mattpocock/skills
-- abhigyanpatwari/GitNexus
-- ComposioHQ/awesome-codex-skills
-- microsoft/VibeVoice
-- davila7/claude-code-templates
-- HunxByts/GhostTrack
-- fspecii/ace-step-ui
-- public-apis/public-apis
-- CJackHwang/ds2api
-- Alishahryar1/free-claude-code
-- donnemartin/system-design-primer
-- EbookFoundation/free-programming-books
-- iamgio/quarkdown
+## 少数派 (2 条)
+- 用 iPad「画」出来的电影：《燃比娃》的幕后故事
+- 派早报：乐道 L80 发布、一加 Ace 6 至尊版发布等
