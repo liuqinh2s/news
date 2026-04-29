@@ -3,8 +3,24 @@
   "news": [
     {
       "title": "阿联酋退出OPEC",
-      "summary": "阿联酋宣布将于5月1日退出石油输出国组织(OPEC)及\"欧佩克+\"机制，成为该组织第三大产油国。这一决定令OPEC猝不及防，威胁到联盟对石油市场的掌控。阿联酋此举正值伊朗战争持续、全球能源市场紧张之际，可能引发其他成员国效仿，进一步削弱OPEC对国际油价的控制力。国际油价应声上涨，反映市场对供应格局变化的担忧。",
-      "reason": "全球能源格局重大变革，OPEC第三大产油国退出威胁石油市场稳定",
+      "summary": "阿联酋宣布将离开石油输出国组织(OPEC)，理由是伊朗战争对全球石油市场造成压力。这一决定标志着OPEC影响力的进一步削弱，可能引发其他成员国效仿，重塑全球能源格局。阿联酋作为OPEC第三大产油国，其退出将加剧全球石油市场的不确定性，对油价和能源安全产生深远影响。",
+      "reason": "伊朗战争引发全球能源格局重大变化，OPEC影响力进一步削弱。",
+      "impact_areas": [
+        "经济金融",
+        "地缘"
+      ],
+      "impact_level": "重大",
+      "sources": [
+        {
+          "name": "NYTimes",
+          "url": "https://www.nytimes.com/2026/04/29/business/energy-environment/uae-opec-oil-cartel.html"
+        }
+      ]
+    },
+    {
+      "title": "全球央行购金潮",
+      "summary": "全球央行在一季度金价大幅波动期间\"大量购入\"黄金，创下单季购金新高。这一趋势反映各国央行加速去美元化进程，寻求资产多元化以应对地缘政治风险和经济不确定性。中国、俄罗斯等国家持续增持黄金储备，而美元在全球储备中的份额持续下降，可能重塑国际货币体系格局。",
+      "reason": "全球央行加速去美元化，黄金储备创历史新高。",
       "impact_areas": [
         "经济金融",
         "地缘"
@@ -13,96 +29,136 @@
       "sources": [
         {
           "name": "财新网",
-          "url": "https://www.caixin.com/2026-04-29/102439026.html"
-        },
-        {
-          "name": "BBC",
-          "url": "https://www.bbc.com/news/articles/cj4pxwlr52yo?at_medium=RSS&at_campaign=rss"
-        },
-        {
-          "name": "NYTimes",
-          "url": "https://www.nytimes.com/2026/04/28/world/middleeast/uae-opec.html"
+          "url": "https://database.caixin.com/2026-04-29/102439161.html"
         }
       ]
     },
     {
-      "title": "OpenAI业务扩张",
-      "summary": "OpenAI否认媒体报道是标题党，表示公司各项业务\"火力全开\"。同时，马斯克在OpenAI相关诉讼中出庭作证，称慈善捐赠基础受到威胁。OpenRouter最新大模型调用量排行榜显示，混元Hy3 preview登顶。多家AI相关ETF表现活跃，反映市场对AI行业的持续关注。阶跃星辰发布新一代图像生成编辑模型Step Image Edit 2，显示AI技术持续创新。",
-      "reason": "AI行业巨头业务扩张与法律诉讼并行，技术持续创新",
+      "title": "存储芯片涨价潮",
+      "summary": "存储芯片成本大幅上涨，比亚迪等部分产品已宣布涨价。这一趋势反映全球芯片供需格局出现重大变化，可能源于产能限制、原材料价格上涨等多重因素。存储芯片作为电子产品的核心组件，其价格上涨将影响从智能手机到数据中心等多个行业，可能加速产业链重构和成本转嫁。",
+      "reason": "存储芯片成本创历史新高，产业链面临重大调整。",
+      "impact_areas": [
+        "科技",
+        "经济金融"
+      ],
+      "impact_level": "重大",
+      "sources": [
+        {
+          "name": "财新网",
+          "url": "https://www.caixin.com/2026-04-29/102439222.html"
+        }
+      ]
+    },
+    {
+      "title": "液流电池新突破",
+      "summary": "铁基液流电池技术取得重大突破，可实现6000次循环无衰减，寿命可达16年。这一突破有望大幅降低储能成本，提高可再生能源的利用效率。相比传统锂电池，液流电池具有安全性高、寿命长、容量大等优势，在电网调峰、家庭储能等领域具有广阔应用前景，可能加速全球能源转型进程。",
+      "reason": "储能技术重大突破，大幅延长电池寿命并降低成本。",
+      "impact_areas": [
+        "科技",
+        "生态"
+      ],
+      "impact_level": "重大",
+      "sources": [
+        {
+          "name": "虎嗅",
+          "url": "https://www.huxiu.com/article/4854844.html"
+        }
+      ]
+    },
+    {
+      "title": "查尔斯三世访美演讲",
+      "summary": "英国国王查尔斯三世在美国国会发表演讲，成为35年来首位在美国国会演讲的英国君主。此次访问正值英美关系面临挑战之际，查尔斯三世强调英美\"特殊关系\"的重要性，同时呼吁应对气候变化等全球挑战。此次访问对修复英美关系、加强两国在气候变化等领域的合作具有重要意义。",
+      "reason": "35年来首位英君主在美国国会演讲，英美关系重要外交信号。",
+      "impact_areas": [
+        "政治",
+        "生态"
+      ],
+      "impact_level": "重大",
+      "sources": [
+        {
+          "name": "财新网",
+          "url": "https://photos.caixin.com/2026-04-29/102439233.html"
+        }
+      ]
+    },
+    {
+      "title": "国有银行一季度业绩",
+      "summary": "中国多家国有银行公布一季度业绩，中国银行净利润566.31亿元，同比增长4.17%；农业银行净利润751.85亿元，同比增长4.52%；中国石油净利润483.33亿元，同比增长1.9%。数据显示银行业整体保持稳健增长，但增速有所放缓。这些数据反映中国经济复苏态势和金融行业运行状况，对投资者决策具有重要参考价值。",
+      "reason": "国有银行一季度业绩稳健，反映中国经济金融运行状况。",
+      "impact_areas": [
+        "经济金融"
+      ],
+      "impact_level": "重大",
+      "sources": [
+        {
+          "name": "36氪",
+          "url": "https://www.36kr.com/newsflashes/3787811593854217"
+        },
+        {
+          "name": "36氪",
+          "url": "https://www.36kr.com/newsflashes/3787801432890372"
+        },
+        {
+          "name": "36氪",
+          "url": "https://www.36kr.com/newsflashes/3787754906967304"
+        }
+      ]
+    },
+    {
+      "title": "深圳优化房地产政策",
+      "summary": "深圳市进一步优化调整房地产相关政策，放松限购并提高住房公积金贷款额度。这一政策调整旨在支持合理住房需求，促进房地产市场平稳健康发展。作为中国一线城市，深圳的政策调整可能对其他城市产生示范效应，反映地方政府对房地产市场的调控思路转变，对房地产行业和购房者预期产生重要影响。",
+      "reason": "一线城市放松限购，房地产政策重大调整信号。",
+      "impact_areas": [
+        "经济金融",
+        "社会"
+      ],
+      "impact_level": "重大",
+      "sources": [
+        {
+          "name": "澎湃新闻",
+          "url": "https://m.thepaper.cn/detail/33078964"
+        },
+        {
+          "name": "36氪",
+          "url": "https://www.36kr.com/newsflashes/3787763168599299"
+        }
+      ]
+    },
+    {
+      "title": "苹果AI焦虑",
+      "summary": "苹果公司在iOS 27中发力AI修图功能，显示科技巨头在AI领域的竞争加剧。随着谷歌、微软、亚马逊等公司纷纷加大AI投入，苹果面临保持技术领先的压力。这一趋势反映AI技术正从实验室走向大规模商业应用，科技行业竞争格局正在重塑，可能加速AI技术在消费电子领域的普及。",
+      "reason": "科技巨头AI竞争加剧，苹果显示技术焦虑。",
       "impact_areas": [
         "科技"
       ],
       "impact_level": "重大",
       "sources": [
         {
-          "name": "财新网",
-          "url": "https://database.caixin.com/2026-04-29/102439021.html"
-        },
-        {
-          "name": "雪球热帖",
-          "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE82eE12dURRcE5WempNRHU0ejZ4TlBiUkpOM1p1X3ZseENxX3ZwOHV0cDdicHVqZmliS3V6WXFWUUtuREdVOUh1WE5icDZNRVdLd2w3M2FvMUdzWXJkWGpTYVpNejVNTU1hNUVsMElvXzN6Qm0wOTJOVEhR?oc=5"
-        },
-        {
-          "name": "36氪",
-          "url": "https://www.36kr.com/newsflashes/3787373798333696"
+          "name": "虎嗅",
+          "url": "https://www.huxiu.com/article/4854829.html"
         }
       ]
     },
     {
-      "title": "贵州反腐行动",
-      "summary": "贵州省密集反腐行动，云上贵州集团首任董事长康克岩被查，四名女厅官同时落马。正省级蓝天立被控从河池书记\"贪\"到广西主席，将在湖南常德受审。此次反腐行动涉及高级官员，显示反腐力度持续加强，对地方政治生态和营商环境产生深远影响。",
-      "reason": "高级官员密集落马，反腐行动持续深入",
+      "title": "欧盟GDPR新裁决",
+      "summary": "欧盟法院裁决GDPR反滥诉，限制企业利用数据保护法规进行滥诉。这一裁决同时撤销了对ChatGPT的GDPR罚款，显示欧盟在AI与数据治理方面的政策转向。这一变化将影响全球企业在欧盟的业务合规策略，可能促进AI技术在欧洲的发展，同时平衡数据保护与创新的关系。",
+      "reason": "欧盟数据保护政策转向，影响全球AI企业合规策略。",
       "impact_areas": [
+        "科技",
         "政治"
       ],
       "impact_level": "重大",
       "sources": [
         {
-          "name": "财新网",
-          "url": "https://china.caixin.com/2026-04-29/102439089.html"
-        },
-        {
-          "name": "财新网",
-          "url": "https://china.caixin.com/2026-04-29/102439059.html"
-        },
-        {
-          "name": "财新网",
-          "url": "https://china.caixin.com/2026-04-29/102439054.html"
+          "name": "虎嗅",
+          "url": "https://www.huxiu.com/article/4854839.html"
         }
       ]
     },
     {
-      "title": "中东局势紧张",
-      "summary": "霍尔木兹海峡局势持续紧张，两艘中国船舶试图穿越海峡但尚未驶出阿曼湾。英国成立专门机构应对霍尔木兹海峡航运安全。伊拉克新任总理被卷入美伊权力斗争。伊朗战争持续，猎豹 sightings成为战争中的罕见亮点。英国召见伊朗大使，美国对伊朗石油出口实施更多制裁。中国代表点名以色列，显示地区局势复杂化。",
-      "reason": "霍尔木兹海峡航运安全受威胁，美伊冲突持续升级",
-      "impact_areas": [
-        "地缘",
-        "经济金融"
-      ],
-      "impact_level": "重大",
-      "sources": [
-        {
-          "name": "财新网",
-          "url": "https://database.caixin.com/2026-04-29/102439033.html"
-        },
-        {
-          "name": "NYTimes",
-          "url": "https://www.nytimes.com/2026/04/28/world/europe/ukmto-shipping-strait-hormuz.html"
-        },
-        {
-          "name": "NYTimes",
-          "url": "https://www.nytimes.com/2026/04/28/world/middleeast/iraq-ali-al-zaidi.html"
-        },
-        {
-          "name": "凤凰网",
-          "url": "https://news.ifeng.com/c/8si2qqUHRCX"
-        }
-      ]
-    },
-    {
-      "title": "AI产业快速发展",
-      "summary": "中国AI产业呈现快速发展态势，2025年全年词元累计调用量达21100万亿，日均调用量呈指数级增长。英伟达高管将与三星、SK海力士高管会面，洽谈实体人工智能合作。掌阅科技宣布2026年将全面推进AI短剧工业化布局。腾讯推出全新知识Agent——copilot。多家AI相关ETF表现活跃，反映市场对AI行业的持续看好。",
-      "reason": "AI技术广泛应用，产业链布局加速",
+      "title": "AI巨头财报季",
+      "summary": "谷歌、微软、亚马逊、Meta等全球AI巨头将集中发布财报，AI业务表现成为市场关注焦点。同时，美联储将公布重磅利率决议，可能对科技股估值产生重要影响。这一\"超级星期四\"反映AI技术正从概念走向商业化，科技行业面临盈利能力验证的关键时刻，可能决定未来AI投资热潮的走向。",
+      "reason": "AI巨头财报集中发布，行业面临\"大考\"。",
       "impact_areas": [
         "科技",
         "经济金融"
@@ -110,139 +166,12 @@
       "impact_level": "重大",
       "sources": [
         {
-          "name": "36氪",
-          "url": "https://www.36kr.com/newsflashes/3787291440831488"
-        },
-        {
-          "name": "36氪",
-          "url": "https://www.36kr.com/newsflashes/3787354913496321"
-        },
-        {
-          "name": "36氪",
-          "url": "https://www.36kr.com/newsflashes/3787345802386435"
-        },
-        {
-          "name": "36氪",
-          "url": "https://www.36kr.com/newsflashes/3787314918743047"
-        }
-      ]
-    },
-    {
-      "title": "中国船舶穿越霍尔木兹",
-      "summary": "两艘中国船舶试图穿越霍尔木兹海峡但尚未驶出阿曼湾，显示中东紧张局势对国际航运的影响。日本超级油轮成功驶离霍尔木兹海峡，成为战争以来的首次。这一系列事件反映霍尔木兹海峡作为全球石油运输咽喉的重要性，以及地区冲突对全球能源安全的潜在威胁。",
-      "reason": "中国船舶穿越霍尔木兹海峡，中东局势影响国际航运",
-      "impact_areas": [
-        "地缘",
-        "经济金融"
-      ],
-      "impact_level": "重大",
-      "sources": [
-        {
-          "name": "财新网",
-          "url": "https://database.caixin.com/2026-04-29/102439033.html"
-        },
-        {
-          "name": "财新网",
-          "url": "https://database.caixin.com/2026-04-29/102439022.html"
-        },
-        {
-          "name": "NYTimes",
-          "url": "https://www.nytimes.com/2026/04/28/world/europe/ukmto-shipping-strait-hormuz.html"
-        }
-      ]
-    },
-    {
-      "title": "全球最低税规则实施",
-      "summary": "国家税务总局首次发布丹麦等3国全球最低税规则国别实施指引，标志着全球最低税规则在中国开始落地。这一政策旨在防止跨国企业通过避税港逃避纳税义务，将对跨国企业的全球税务策略产生深远影响。同时，台股市值超过加拿大，跃居全球第六大股市，反映区域经济格局变化。",
-      "reason": "全球最低税规则在中国落地，跨国企业税务策略受影响",
-      "impact_areas": [
-        "经济金融",
-        "政治"
-      ],
-      "impact_level": "重大",
-      "sources": [
-        {
-          "name": "36氪",
-          "url": "https://www.36kr.com/newsflashes/3787384713649160"
-        },
-        {
-          "name": "财新网",
-          "url": "https://database.caixin.com/2026-04-29/102439066.html"
-        }
-      ]
-    },
-    {
-      "title": "A股成交额破万亿",
-      "summary": "沪深两市成交额突破1万亿，显示市场活跃度大幅提升。A股三大指数集体上涨，创业板指盘中涨超2%，新能源产业链表现突出。恒指午间休盘涨1.23%，恒生科技指数涨1.07%。同时，主力资金加仓电力设备股，抛售银行股，反映市场风格切换。这一系列数据表明投资者情绪回暖，市场风险偏好提升。",
-      "reason": "A股成交额突破万亿，市场活跃度大幅提升",
-      "impact_areas": [
-        "经济金融"
-      ],
-      "impact_level": "重大",
-      "sources": [
-        {
-          "name": "36氪",
-          "url": "https://www.36kr.com/newsflashes/3787281253784576"
-        },
-        {
-          "name": "36氪",
-          "url": "https://www.36kr.com/newsflashes/3787380693638148"
-        },
-        {
-          "name": "36氪",
-          "url": "https://www.36kr.com/newsflashes/3787350761331714"
-        },
-        {
-          "name": "36氪",
-          "url": "https://www.36kr.com/newsflashes/3787363568655620"
-        }
-      ]
-    },
-    {
-      "title": "粮油大王遭立案调查",
-      "summary": "知名粮油企业遭立案调查，涉及4.7万户股民，引发市场广泛关注。这一事件可能对相关产业链产生连锁反应，影响农产品价格和市场稳定。同时，中国可能暂停硫酸出口的消息引发海外市场担忧，显示原材料供应对全球产业链的重要性。这些事件反映大宗商品市场波动对经济的影响。",
-      "reason": "粮油龙头企业遭调查，涉及大量投资者",
-      "impact_areas": [
-        "经济金融",
-        "产业"
-      ],
-      "impact_level": "重大",
-      "sources": [
-        {
-          "name": "澎湃新闻",
-          "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1EUDJaRlhjMlJDYW92cEtPaVEyeGFoLUNickhaWUJCVjBJWGhUbUNkaTNmY2JTcWZzQWhleTY5YnBhVmJleXVVQWt3WG9jN3JtVDBZc0treV9RYzdJcnc?oc=5"
-        },
-        {
-          "name": "凤凰网",
-          "url": "https://news.ifeng.com/c/8siMVyqGkNa"
-        }
-      ]
-    },
-    {
-      "title": "光通信产业升级",
-      "summary": "兆驰股份宣布2026年光通信业务将作为公司产业升级的核心战略方向，显示行业发展趋势。厦门士兰集华微电子公司注册资本增至51.1亿元，反映产业投资活跃。源杰科技股价创新高，表明市场对光通信产业的看好。这些动态显示中国在光通信领域的持续投入和技术进步，对数字经济基础设施建设具有重要意义。",
-      "reason": "光通信产业升级加速，数字经济基础设施受关注",
-      "impact_areas": [
-        "科技",
-        "产业"
-      ],
-      "impact_level": "重大",
-      "sources": [
-        {
-          "name": "36氪",
-          "url": "https://www.36kr.com/newsflashes/3787307756526595"
-        },
-        {
-          "name": "36氪",
-          "url": "https://www.36kr.com/newsflashes/3787290414373893"
-        },
-        {
-          "name": "36氪",
-          "url": "https://www.36kr.com/newsflashes/3787308877782274"
+          "name": "虎嗅",
+          "url": "https://www.huxiu.com/article/4854820.html"
         }
       ]
     }
   ],
-  "total_fetched": 234,
-  "generated_at": "2026-04-29T12:26:57.102416+08:00"
+  "total_fetched": 305,
+  "generated_at": "2026-04-29T19:27:17.673358+08:00"
 }
