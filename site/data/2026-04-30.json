@@ -2,100 +2,136 @@
   "date": "2026-04-30",
   "news": [
     {
-      "title": "美联储三度按息",
-      "summary": "美联储今日宣布连续第三次维持利率不变，但投票分歧创1992年以来最大。鲍威尔表示卸任主席后将留任理事。这一决策反映美联储在通胀压力与经济增长间的平衡考量，对全球金融市场和货币政策走向具有重要影响。",
-      "reason": "全球货币政策关键决策，影响金融市场走向",
-      "impact_areas": [
-        "经济金融",
-        "政治"
-      ],
-      "impact_level": "重大",
-      "sources": [
-        {
-          "name": "澎湃新闻",
-          "url": "https://m.thepaper.cn/detail/33080321"
-        },
-        {
-          "name": "凤凰网",
-          "url": "https://news.ifeng.com/c/8sjOWWpBUgN"
-        },
-        {
-          "name": "Reuters",
-          "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPYnVEbHl1RXdOcW5vdXNpck5fcm1BNG90S09weTRjQlVkZGMzMG5wdkR3VDk1emJCTnE2TzdWdDlkX1hzX0k2clgzVVZNNHduNGVwQUJGU2ppOTJmMmRNQmVhRkZyUFA2alZLZzdMLWNQUUtnSzZqLXBBTThreGhNY3hlSTcwbmJRdE5mZnFyMVhKU1RQTnJNVUIydGJobXVlaVRiZWFJWXJCUDlIZnVz?oc=5"
-        }
-      ]
-    },
-    {
-      "title": "油价破百伊战升级",
-      "summary": "国际油价突破120美元/桶，因伊朗封锁报道。美国对伊战争已耗资250亿美元。特朗普称伊朗战争与俄乌战争可能在相似时间表内结束，并告知内塔尼亚胡对黎巴嫩军事行动仅限\"精准打击\"。伊朗海军司令警告美军勿进一步行动，议长称敌人正发起新一轮攻势。中东局势持续紧张，全球能源市场波动加剧。",
-      "reason": "地缘冲突升级推高油价，影响全球能源市场",
+      "title": "美伊冲突升级",
+      "summary": "美国总统特朗普听取打击伊朗新方案，国际油价飙升至2022年以来最高水平。美伊紧张局势加剧引发全球市场担忧，可能导致能源价格进一步上涨，影响全球经济复苏进程。多国呼吁通过外交途径解决争端，避免地区冲突扩大化。",
+      "reason": "多源密集报道的地缘政治热点，直接影响全球能源市场和经济稳定",
       "impact_areas": [
         "地缘",
-        "经济金融",
-        "生态"
+        "经济金融"
       ],
       "impact_level": "重大",
       "sources": [
         {
           "name": "BBC",
-          "url": "https://www.bbc.com/news/articles/cj4pxr0gr02o?at_medium=RSS&at_campaign=rss"
+          "url": "https://www.bbc.com/news/articles/cx21m88rd14o?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "name": "NYTimes",
+          "url": "https://www.nytimes.com/2026/04/29/business/oil-gas-prices-iran.html"
         },
         {
           "name": "Reuters",
-          "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQM0pxNmpQTG80bzB6MDFrTi1IcHBXZEZEc2hoNEc5bTZ2cFllZ3ExcWZYSzVaVGJmbGVra0plRDFVdlUxX0VDM0hxSGdiTzE1M3hXaXg4allzazM4SllWUkU3RDBBZVg4YTRaRzZLVkhqS3VlSE50blp1UVpOdGt1VWNzVmpseGtmdXY5SFJxLWJBcWZpWFllMGJ1dVpJUmtQbVJXVF9ndFNVc2VENmk3ZjRkbUpJQQ?oc=5"
-        },
-        {
-          "name": "凤凰网",
-          "url": "https://news.ifeng.com/c/8sjeOAdhdMa"
-        },
-        {
-          "name": "凤凰网",
-          "url": "https://news.ifeng.com/c/8sjlgDgZaFC"
-        },
-        {
-          "name": "凤凰网",
-          "url": "https://news.ifeng.com/c/8sjXJBe2YkG"
-        },
-        {
-          "name": "凤凰网",
-          "url": "https://news.ifeng.com/c/8sjaNL92b3E"
-        },
-        {
-          "name": "凤凰网",
-          "url": "https://news.ifeng.com/c/8sjTfnBikf0"
-        },
-        {
-          "name": "凤凰网",
-          "url": "https://news.ifeng.com/c/8sjVKyQ3bqx"
-        },
-        {
-          "name": "凤凰网",
-          "url": "https://news.ifeng.com/c/8sjKhSIhII2"
-        },
-        {
-          "name": "凤凰网",
-          "url": "https://news.ifeng.com/c/8sjNHnY34HR"
+          "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNenJuVUpiT09JY3BnSGZyRlE5YjF6TFVDZmt4UW5xVW5lWWVCV285c3p5WGlFeGxFX3RZcUdQb3l3NjJDaWJ2R2RaekFaSmpPZWhza0RCYXJNT0dDaTZfMEJTUEthQVRFaVVyb1NMOTRERk5WLW9mS3JoVGJxS1FTdlFBak5QYlRTYllsdFdKQ1A5bnBEeUhPbXIzSDYybWk5dmZpQU53TkVkc3Zh?oc=5"
         }
       ]
     },
     {
-      "title": "Meta增支股价跌",
-      "summary": "Meta发布一季度财报，营收563.1亿美元同比增长33%，但提高支出预期并面临法律审查，股价应声下跌。公司正面临欧洲监管机构对其未能阻止儿童使用Instagram和Facebook的指控。这一情况反映了科技巨头在扩张与监管之间的持续博弈，以及社交媒体平台面临的日益严格的法律环境。",
-      "reason": "科技巨头财报与法律挑战，反映行业监管趋势",
+      "title": "美联储维持利率",
+      "summary": "美联储维持利率不变，但董事会投票为1992年以来最分歧的一次。鲍威尔留任理事，美联储进入过渡时期。市场关注美联储新主席沃什的通胀新算法可能带来的政策变化，以及这对特朗普期望的降息意味着什么。",
+      "reason": "全球央行政策转向关键节点，对金融市场和全球经济走向有重大影响",
       "impact_areas": [
-        "科技",
-        "政治"
+        "经济金融"
       ],
       "impact_level": "重大",
       "sources": [
         {
           "name": "Reuters",
-          "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPNFNSQmtUam5teWJnNHNkcDVSSHVwbGl4d0luVzYwSUxaVnVpcVNmcW9LcXFGZ1IyWWxsZ1VPbmJ4N0FrR1ZXbkFfZG16cUJYQUFSdnhmdU95TUVXaUstaWF3M1drcXVDbHRjVlZVMTUwY3h0VnhhMVEycnRWbC1TNElfamZrNDlXQjNGbTg0dGN0MENzZDYwSDgtLUV6MW5HcXlDdlEtQmxJQQ?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPYnVEbHl1RXdOcW5vdXNpck5fcm1BNG90S09weTRjQlVkZGMzMG5wdkR3VDk1emJCTnE2TzdWdDlkX1hzX0k2clgzVVZNNHduNGVwQUJGU2ppOTJmMmRNQmVhRkZyUFA2alZLZzdMLWNQUUtnSzZqLXBBTThreGhNY3hlSTcwbmJRdE5mZnFyMVhKU1RQTnJNVUIydGJobXVlaVRiZWFJWXJCUDlIZnVz?oc=5"
+        },
+        {
+          "name": "财新网",
+          "url": "https://opinion.caixin.com/2026-04-30/102439601.html"
+        },
+        {
+          "name": "财新网",
+          "url": "https://opinion.caixin.com/2026-04-30/102439588.html"
+        }
+      ]
+    },
+    {
+      "title": "寒武纪股价创新高",
+      "summary": "寒武纪盘中股价上摸1699元创历史新高，重夺A股'股王'宝座。这反映AI芯片市场持续火热，投资者对国产AI芯片企业前景看好。寒武纪作为国内AI芯片领军企业，其股价表现被视为AI产业发展的重要风向标。",
+      "reason": "AI芯片市场热度持续，国产AI领军企业股价创历史新高",
+      "impact_areas": [
+        "科技"
+      ],
+      "impact_level": "重大",
+      "sources": [
+        {
+          "name": "澎湃新闻",
+          "url": "https://m.thepaper.cn/detail/33082463"
         },
         {
           "name": "36氪",
-          "url": "https://www.36kr.com/newsflashes/3788513858772226"
+          "url": "https://www.36kr.com/newsflashes/3788715529985026"
+        }
+      ]
+    },
+    {
+      "title": "三星芯片利润飙升",
+      "summary": "三星电子芯片业务季度利润飙升约48倍，人工智能大潮使得内存芯片炙手可热。这一业绩表现反映了AI热潮对半导体产业的深远影响，也预示着全球科技产业格局可能因AI而重塑。三星作为全球最大内存芯片制造商，其业绩变化对行业有重要指示意义。",
+      "reason": "AI热潮推动芯片业务利润飙升48倍，反映科技产业格局正在重塑",
+      "impact_areas": [
+        "科技",
+        "经济金融"
+      ],
+      "impact_level": "重大",
+      "sources": [
+        {
+          "name": "财新网",
+          "url": "https://database.caixin.com/2026-04-30/102439564.html"
+        }
+      ]
+    },
+    {
+      "title": "OpenAI面临诉讼",
+      "summary": "七起针对OpenAI的诉讼由加拿大大规模枪击受害者的家属在美国法院提起，指控OpenAI对枪击事件负有责任。这反映了AI技术快速发展带来的法律和伦理挑战，以及社会对AI监管的日益关注。案件结果可能对AI行业监管框架产生深远影响。",
+      "reason": "AI伦理与法律挑战升级，多家媒体报道引发广泛关注",
+      "impact_areas": [
+        "科技",
+        "法律"
+      ],
+      "impact_level": "重大",
+      "sources": [
+        {
+          "name": "BBC",
+          "url": "https://www.bbc.com/news/articles/c99l03k0ly4o?at_medium=RSS&at_campaign=rss"
         },
+        {
+          "name": "Reuters",
+          "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOa2Zzc3RXcGk5Q1ZBLUdRNVhKN0VkY3g1Q0thQTgyUWdZc0NRWkpTUUdnUmJGcU94a2VzZmJJLVQ2R0l2d1cweEhEeGNXV1VDWVlKT1JUcmVYUHYzT2FuUWt2TjVrWjhVbXliNGFMVHFZR1pXUmY5aW05WVNGZWJyR0hoc1JrS09HYlZnRVFzNjQtODJWajUxdnhaMi1fNGREX2hoLXBIaHgzSzJoQXpzTjZ3?oc=5"
+        },
+        {
+          "name": "NYTimes",
+          "url": "https://www.nytimes.com/2026/04/29/world/americas/jeffrey-epstein-islam-mosque-island-kaaba-sex-offender-kiswa.html"
+        }
+      ]
+    },
+    {
+      "title": "4月制造业PMI微降",
+      "summary": "4月统计局制造业PMI微降至50.3，非制造业景气再度收缩。这一数据表明中国经济复苏进程面临一定压力，制造业扩张速度放缓。作为经济先行指标，PMI变化对未来经济政策走向和投资决策具有重要参考价值。",
+      "reason": "关键经济先行指标显示经济复苏压力，对政策制定和投资决策有重要参考价值",
+      "impact_areas": [
+        "经济金融"
+      ],
+      "impact_level": "重大",
+      "sources": [
+        {
+          "name": "财新网",
+          "url": "https://economy.caixin.com/2026-04-30/102439584.html"
+        }
+      ]
+    },
+    {
+      "title": "Meta被控未保护儿童",
+      "summary": "Meta被指控在欧洲未能让儿童远离Instagram和Facebook，面临监管挑战。这一案件反映了科技巨头在全球范围内面临的日益严格的监管环境，特别是在数据保护和儿童安全方面。案件结果可能对全球社交媒体监管框架产生重要影响。",
+      "reason": "科技巨头面临全球监管挑战，社交媒体监管框架可能重塑",
+      "impact_areas": [
+        "科技",
+        "法律"
+      ],
+      "impact_level": "重大",
+      "sources": [
         {
           "name": "NYTimes",
           "url": "https://www.nytimes.com/2026/04/29/business/meta-instagram-facebook-children.html"
@@ -103,80 +139,40 @@
       ]
     },
     {
-      "title": "Alphabet云业务创新高",
-      "summary": "Alphabet发布第一季度财报，营收1099亿美元同比增长22%，云计算业务创纪录季度表现。强劲的云服务需求推动公司业绩超预期，反映了企业数字化转型加速的趋势。谷歌母公司在AI领域的持续投入也开始显现成效，为未来增长奠定基础。",
-      "reason": "科技巨头财报强劲，云计算业务创新高",
+      "title": "特斯拉Semi量产新阶段",
+      "summary": "特斯拉宣布电动卡车Semi进入量产新阶段，这一进展标志着新能源汽车产业的重要里程碑。Semi作为特斯拉进军商用车市场的关键产品，其量产进展对新能源汽车产业链和全球运输行业电气化进程具有重要影响。",
+      "reason": "新能源汽车产业重要里程碑，商用车电气化进程加速",
       "impact_areas": [
         "科技",
+        "产业"
+      ],
+      "impact_level": "重大",
+      "sources": [
+        {
+          "name": "36氪",
+          "url": "https://www.36kr.com/newsflashes/3788703209954568"
+        }
+      ]
+    },
+    {
+      "title": "巴西央行再降息",
+      "summary": "巴西央行再次下调利率，同时关注伊朗冲突对经济的影响。这一政策反映了新兴市场国家在应对全球经济不确定性时的货币政策取向。巴西作为拉美最大经济体，其货币政策变化对区域经济和全球资本流动有重要影响。",
+      "reason": "新兴市场货币政策转向，对全球资本流动和区域经济有重要影响",
+      "impact_areas": [
         "经济金融"
       ],
       "impact_level": "重大",
       "sources": [
         {
           "name": "Reuters",
-          "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOVGtaR1g4ZGZaM1lyUzIxZDJlQU0tWDlHaC1SLU1fYmZnNC1ndEVKdWdLXzZDTzRGMDVVM25FTE0yd1ZOZHR5Q3NCcTNaSTN1TDhVVDVTNVpxeUhKaV93MzJ2WmlONk1fTnM5OVc3b0t1YjNWZklCQUZ5X29mZnkwYWNxYTMyM2todk9QVnh6dTBmYS12bFNKS21uRkhUOWZ2eEtobFpQSHJzLUJYYW8wc0dwQVA2LTQ?oc=5"
-        },
-        {
-          "name": "36氪",
-          "url": "https://www.36kr.com/newsflashes/3788495010913541"
+          "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNenJuVUpiT09JY3BnSGZyRlE5YjF6TFVDZmt4UW5xVW5lWWVCV285c3p5WGlFeGxFX3RZcUdQb3l3NjJDaWJ2R2RaekFaSmpPZWhza0RCYXJNT0dDaTZfMEJTUEthQVRFaVVyb1NMOTRERk5WLW9mS3JoVGJxS1FTdlFBak5QYlRTYllsdFdKQ1A5bnBEeUhPbXIzSDYybWk5dmZpQU53TkVkc3Zh?oc=5"
         }
       ]
     },
     {
-      "title": "iOS 27升级AI视觉",
-      "summary": "苹果计划在iOS 27中推出Siri相机模式并升级视觉AI功能，进一步增强设备的人工智能能力。这一举措反映了苹果在AI领域的持续投入，以及将AI技术深度整合到消费电子产品的战略方向。随着AI技术的快速发展，科技巨头正竞相将AI功能融入日常用户体验。",
-      "reason": "科技巨头AI功能升级，反映消费电子AI化趋势",
-      "impact_areas": [
-        "科技"
-      ],
-      "impact_level": "重大",
-      "sources": [
-        {
-          "name": "36氪",
-          "url": "https://www.36kr.com/newsflashes/3788513104206850"
-        }
-      ]
-    },
-    {
-      "title": "Anthropic融资估值创新高",
-      "summary": "AI公司Anthropic正考虑以超9000亿美元估值开启新一轮融资，这一估值水平反映了AI领域的投资热潮。作为OpenAI的主要竞争对手，Anthropic的发展受到市场高度关注。巨额融资将支持其在AI安全和通用人工智能研究方面的探索，可能重塑AI行业竞争格局。",
-      "reason": "AI独角兽超高估值融资，反映行业投资热潮",
-      "impact_areas": [
-        "科技",
-        "经济金融"
-      ],
-      "impact_level": "重大",
-      "sources": [
-        {
-          "name": "36氪",
-          "url": "https://www.36kr.com/newsflashes/3788499894770947"
-        }
-      ]
-    },
-    {
-      "title": "英特尔股价创新高",
-      "summary": "英特尔股价大涨逾12%创历史新高，反映市场对AI芯片需求的强劲预期。随着AI应用的爆发式增长，芯片制造商成为市场关注焦点。英特尔的股价表现表明投资者看好其在AI硬件领域的竞争力和未来发展潜力，同时也反映了整个半导体行业在AI时代的价值重估。",
-      "reason": "芯片股创历史新高，反映AI硬件需求旺盛",
-      "impact_areas": [
-        "科技",
-        "经济金融"
-      ],
-      "impact_level": "重大",
-      "sources": [
-        {
-          "name": "雪球热帖",
-          "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQaEVlWDhFeGhQS1dBR05fNmVjNjZFVkl6akRKOGduellGdElScUxEQlBaOGtNbUttZi1rR3NZekN2d1gwWWpBNUtDQ0pnMDlxaFhpSWRzVjFnTkozQ3F4M3VXcDhyb1VUWWhuS1ROeDhpUXAxdHF6WWNVSDFURXVYNzdmQjk1UWc?oc=5"
-        },
-        {
-          "name": "虎嗅",
-          "url": "https://www.huxiu.com/article/4854919.html"
-        }
-      ]
-    },
-    {
-      "title": "普特朗通话谈乌战",
-      "summary": "俄罗斯总统普京与美国前总统特朗普进行了一个半小时的电话通话，讨论了包括乌克兰在内的多项国际议题。特朗普称与普京讨论了乌克兰问题并呼吁短暂停火，而普京则表示愿意帮助美国处理伊朗浓缩铀问题。两位领导人的互动可能对俄乌冲突走向和美俄关系产生重要影响。",
-      "reason": "美俄领导人通话，可能影响俄乌冲突走向",
+      "title": "特朗普普京呼吁停火",
+      "summary": "特朗普与普京通电话，共同呼吁乌克兰停火。这一外交动向表明国际社会对乌克兰冲突的调解努力正在加强，可能影响冲突走向和地区稳定。两位领导人同时呼吁停火的情况较为罕见，反映了国际社会对和平解决争端的迫切期望。",
+      "reason": "国际外交重大动向，地缘政治格局可能因停火努力而改变",
       "impact_areas": [
         "政治",
         "地缘"
@@ -184,56 +180,12 @@
       "impact_level": "重大",
       "sources": [
         {
-          "name": "澎湃新闻",
-          "url": "https://m.thepaper.cn/detail/33080621"
-        },
-        {
-          "name": "凤凰网",
-          "url": "https://news.ifeng.com/c/8sjTfnBikf0"
-        },
-        {
           "name": "NYTimes",
           "url": "https://www.nytimes.com/2026/04/29/world/europe/ukraine-russia-ceasefire-trump-putin.html"
         }
       ]
-    },
-    {
-      "title": "马里国防部长遇害",
-      "summary": "马里国防部长遇害，两大敌对势力合流，国家可能再现\"大乱斗\"场景。中国驻马里大使馆再次发出安全提醒，提醒在马里中国公民注意安全。马里局势持续动荡，可能影响西非地区稳定，并对国际反恐合作产生重要影响。",
-      "reason": "非洲国家局势动荡，影响地区稳定",
-      "impact_areas": [
-        "地缘",
-        "政治"
-      ],
-      "impact_level": "重大",
-      "sources": [
-        {
-          "name": "澎湃新闻",
-          "url": "https://m.thepaper.cn/detail/33078865"
-        },
-        {
-          "name": "凤凰网",
-          "url": "https://news.ifeng.com/c/8sjQR63cuz7"
-        }
-      ]
-    },
-    {
-      "title": "OpenAI面临多起诉讼",
-      "summary": "OpenAI面临七起由加拿大 mass-shooting 受害者家庭提起的诉讼，指控其AI技术被用于策划袭击。这一情况反映了AI技术发展带来的法律和伦理挑战，以及社会对AI安全性的担忧。随着AI技术的广泛应用，相关法律框架和监管措施亟待完善。",
-      "reason": "AI伦理法律问题凸显，反映监管挑战",
-      "impact_areas": [
-        "科技",
-        "政治"
-      ],
-      "impact_level": "重大",
-      "sources": [
-        {
-          "name": "BBC",
-          "url": "https://www.bbc.com/news/articles/c99l03k0ly4o?at_medium=RSS&at_campaign=rss"
-        }
-      ]
     }
   ],
-  "total_fetched": 201,
-  "generated_at": "2026-04-30T07:27:53.688982+08:00"
+  "total_fetched": 300,
+  "generated_at": "2026-04-30T12:30:26.191489+08:00"
 }
