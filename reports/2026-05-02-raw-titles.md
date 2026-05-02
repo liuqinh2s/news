@@ -1,4 +1,4 @@
-# 2026-05-02 原始新闻标题 (176 条)
+# 2026-05-02 原始新闻标题 (244 条)
 
 ## 新华社 (20 条)
 - Education, health fees among key concerns
@@ -22,64 +22,94 @@
 - Former Chongqing political official facing corruption investigation
 - Former Chongqing political official facing corruption investigation
 
-## 澎湃新闻 (11 条)
-- 美防长下令从德国撤出5000名驻军
-- 纽约股市三大股指1日涨跌不一
-- 伊朗革命卫队：将按最高领袖指示重塑波斯湾管理规则
-- 规避“60天期限”，特朗普致函国会称与伊朗敌对行动已“结束”
-- 国际油价1日下跌
-- 美元指数1日上涨
-- 美媒：特朗普告知国会 对伊朗战事已“结束”
-- 伊朗最高领袖：当前阶段需要推动“经济抗争”
-- 伊朗赞詹省发生弹药爆炸事故，已致14人死亡
-- 特朗普威胁提高欧盟汽车进口关税，欧盟：不可接受
-- 美军称执行对伊海上封锁已使45艘商船调转航向
+## 澎湃新闻 (18 条)
+- 洛阳博物馆：未委托、授权任何第三方平台代理参观、讲解服务
+- 博主称249元毛巾暴利、员工工资虚假宣传，胖东来称已正式起诉
+- 规避《战争权力法》？特朗普称对伊行动结束，但仍有法律争议
+- “小黄鸭”机器人亮相杭州，协助铁路民警守护旅客出行安全
+- 汉学家宇文所安逝世，享年79岁
+- 专访｜赵又廷：别让AI取代我就行
+- 送别宇文所安先生｜张万民：“有人夜半持山去”
+- 游客打卡网红轮渡突发身体不适，警医轮渡工作人员联手紧急救援
+- 著名汉学家宇文所安逝世
+- 山西涉嫌猥亵案件当事人的法官吕云锁已被免职
+- 河南老君山景区发布禁止夜爬声明：切勿轻信非官方平台宣传
+- 国际顶级马术赛事来到中国12年，原来它能这么接地气
+- 时政专题片丨为有源头活水来——习近平总书记指引基础研究高质量发展
+- 五一档首日:《寒战1994》领跑，票价下调释放消费
+- 巴菲特六十年来首次退居幕后，阿贝尔接掌伯克希尔后今晚首秀！股东大会有何看点？
+- 男子30年前被扣押2859克黄金申请退赔被拒受理续：辽宁盖州警方被责令重新作出决定
+- 追光的你②丨既上班也做号，00后女孩成60万粉读书大V：先站着，不被大风吹倒
+- 上海4月二手房网签量创近10年同期新高：购房者决策周期明显缩短
 
-## 凤凰网 (17 条)
-- 美国务院批准向中东四国出售武器
-- “60天期限”已到，核心诉求错位，美伊局势将走向何方？
-- 美防长下令从德国撤出5000名驻军
-- 伊朗革命卫队：将按最高领袖指示重塑波斯湾管理规则
-- 白宫记协晚宴枪击案后美记者直播连线中断，网友质疑“假旗事件”
-- 白宫致函美国国会，称对伊战争已“结束”
-- 受美国拖欠会费等因素影响，世贸组织计划削减10%预算
-- 伊朗最高领袖：当前阶段需要推动“经济抗争”
-- 美军在中东8国16处军事设施在袭击中受损
-- 美最新民调：超六成民众认为对伊朗动武是“错误决定”
-- “全球坚韧船队”部分成员在希腊登岸，约30人受伤
-- 欧盟：特朗普的做法不可接受
-- 特朗普暗示不会就持续对伊朗军事行动寻求国会批准
-- 特朗普：对伊朗最新的谈判方案不满意
-- 美总统签署行政令，扩大对古巴制裁范围
-- 不能在美国办！80国2300余名学者联名抵制
-- 泽连斯基称将启动对乌军的改革
+## 南方周末 (1 条)
+- 根本分歧、信任危机与战略困境：美伊和谈何以陷入僵局
 
-## 财新网 (2 条)
+## 凤凰网 (20 条)
+- 男子被诊断为疑似肝癌，辗转他院检查均无癌症依据，院方称报告意见无问题，卫健委介入
+- 249元毛巾被指暴利，胖东来：已起诉
+- 五角大楼与英伟达、微软和亚马逊等AI巨头签署合作协议
+- 临近台湾地区！日美将举行联合演习
+- 美媒：美军在中东8国16处军事设施受损
+- 东京审判曾当庭展示南京大屠杀视频，铁证如山岂容翻案！
+- 美德领导人互呛美国用撤军拿捏欧洲，会动摇美军力量投射吗？
+- 刘晓庆亮相“王婆说媒”，被指架子大
+- 美议员没完了：H200芯片卖没卖中国，商务部长和黄仁勋谁在撒谎？
+- 古巴国家主席：美国制裁是“种族灭绝式封锁”
+- 日本采购的俄罗斯原油将于2日抵达
+- 山西猥亵当事人的法官已被免职
+- 记者申请拍东京审判法庭旧址遭拒
+- “五一”兴起大城市“捡漏”：“冷门”小城酒店价格翻3倍，一线城市有高档酒店打8折
+- 伊朗考虑用携带水雷的海豚袭击美军舰
+- 榴莲大降价！一地“隔天降10元”，广州果商：一天卖9000斤
+- 中国常驻联合国代表就伊朗局势答凤凰，并透露特朗普访华进展
+- 联合国副秘书长：美对伊战争耗资可为8700万人提供救助
+- 美国批准对以色列等4国超86亿美元军售
+- 内塔尼亚胡发健身视频，想证明自己身体没问题
+
+## 财新网 (14 条)
+- 特朗普称对伊敌对行动已结束 对伊朗新谈判方案“不满意”
+- 4月财新中国新经济指数升至32.5
+- 在四川绵阳看平武报恩寺｜行路中国看古迹⑥
+- 【周刊提前读】地缘冲突冲击能源安全 中国储能出海大爆发
+- 【周刊提前读】应对地缘博弈与保护主义 中国完善涉外法治
+- 【周刊提前读】地方专项债出偏差 项目收益如何覆盖成本仍是关键
+- 【周刊提前读】徐小庆专栏：美股V型反弹能持续多久？
+- 【周刊提前读】从王良平到王小青 招行新旧掌门接棒
+- 【周刊提前读】外部有利条件积聚 人民币国际化再进阶
+- 【周刊提前读】科技股再次狂欢：透支未来还是实现未来
+- 中国出国留学人数回落至十年前水平｜教育
+- 照顾老人与喂养系统孰轻孰重：数字时代养老护理的新矛盾｜猎读
 - 朱学东：春天的野笋炒咸菜｜饮食
 - 财新闻｜美国防部与7家人工智能公司达成协议
 
-## 央视网 (3 条)
-- 新职业 新机遇 新职业增动能 如何培育壮大？ - 央视网
+## 央视网 (6 条)
+- 你以为的养胃良方 或许正是伤胃“凶手” - 央视网
+- 各地红色旅游迎来客流高峰 - 央视网
+- 筑牢生态屏障 守护美丽中国——我国自然保护区建设走过七十年 - 央视网
 - 健康之路 | 养胃传言辨真假 - 央视网
+- 新职业 新机遇 新职业增动能 如何培育壮大？ - 央视网
 - 特朗普威胁提高欧盟汽车进口关税 欧盟：不可接受 - 央视网
 
-## BBC (10 条)
+## BBC (13 条)
 - US to cut troop levels in Germany by 5,000 amid Trump spat with Merz
 - Trump tells Congress ceasefire means he does not need their approval for Iran war
-- Australia wants to be first nation in the world to eliminate a cancer - can it?
+- Trump claims other presidents flouted war powers law. It's a mixed record
+- Australia wants to become the first country to eliminate a cancer - can it?
 - Who shot a Secret Service officer at the Trump press dinner?
 - French PM fuels row with trip to buy baguettes
+- US court limits mail-order access to abortion pill mifepristone
 - Turkish police arrest more than 500 people at May Day rallies
 - Israeli police arrest man after nun attacked in Jerusalem
 - Zayn Malik cancels US tour and cuts UK dates after hospital bed photo shared
+- 'This tree was planted by my ancestor hundreds of years ago and my family settled here'
 - Thousands of 'lost Canadians' have applied for dual citizenship - is Canada ready?
 - Love, lies, angry ghosts: Indians are bingeing on two-minute dramas
 
-## Reuters (2 条)
-- Trump gives Spirit final rescue proposal as airline prepares shutdown - Reuters
-- S&P 500, Nasdaq end higher, notch weekly gains after earnings-heavy week - Reuters
+## Reuters (1 条)
+- Wall St Week Ahead US stocks rally could find fuel in earnings, jobs data amid surging oil prices - Reuters
 
-## NYTimes (13 条)
+## NYTimes (18 条)
 - U.S. Indictment of Sinaloa’s Governor Is a Reckoning for Residents of the Mexican State
 - What the End of Saudi Arabia’s Big-Spending Era Means for the Kingdom and Beyond
 - Trump ‘Not Satisfied’ With Iran’s Proposal on Ending War
@@ -87,8 +117,13 @@
 - Suspect in UK Stabbing Attack on Jewish Men Faces Third Attempted Murder Charge
 - In Packed Cafes, Iranians Yearn to Escape War’s Wreckage
 - How Indigenous Acknowledgments Became a Target in Australia
+- In Bulgaria, a New Government Challenges an Old Puppet Master
 - Myanmar’s Junta Claims ‘Benevolence’ for Aung San Suu Kyi. It Still Rules Cruelly.
 - Co-Founder of Superdry Fashion Brand Is Convicted of Rape
+- South Korea’s Cherry Blossoms Attract a Connoisseur: The Japanese
+- Learning Muay Thai Can Allow Visitors to Stay in Thailand Longer
+- A 5-Month Wait and a 50% Fail Rate: It’s Hard to Get a British Driving License
+- Narges Mohammadi, Iranian Nobel Laureate, Is Hospitalized
 - Why U.S. Officials Are in Venezuela Right Now
 - On May Day Cuba’s Communist Leaders Deliver a Defiant Tone to the U.S.
 - Very Dramatique! 4 Are Rescued After Trainee Driver Plunges Bus Into Seine
@@ -103,26 +138,26 @@
 - Want Cash Out of Your Home? Here Are Your Best Options
 
 ## 微博热搜 (20 条)
-- 火车票开售即售罄的原因找到了
-- 张雪机车杆位赛第6名
-- 数读我国创新全方位加速突破
-- 陈思诚说1200万票房不够电影院房租
-- 真的有人能成功请到这三天假吗
-- 人到了一定年纪就会解锁的动作
-- 这不叫堵车 这叫铺红地毯
-- 美军福特号航母离开中东
-- 21世纪大君夫人
-- 京东把项羽复刻铠甲送回宿迁
-- 女子照顾瘫痪丈夫19年想有个孩子
-- 难听
-- 主人经期贫血晕厥2只狗子立大功
-- 迪丽热巴在还63张自拍的债了
-- 李建宏讣告
-- 李若彤被路人认成40岁
-- 5岁男童被自家哈士奇咬伤面部颈部
-- 保姆抱娃踩床边台阶摔倒在地
-- 莫氏鸡煲分店开业客流不及预期
-- 白鹿摘了姚译添眼镜给自己戴
+- 胖东来正式起诉博主惊梦人
+- 跑男什么时候变成这样了
+- 用最美镜头致敬铁路劳动者
+- 新SU7卡布里蓝带你慢游五一
+- 王濛张月抢同一首歌是为了同一个人
+- 湖人vs火箭
+- 王鹤棣第一次情绪失控
+- 云深不知梦新PV夯爆了
+- 霸王茶姬水银门当事人称是对象下单
+- 突然就懂了朋友和好朋友的区别
+- 巴雷特绝杀骑士
+- 日本战犯竟称侵华是为了管教兄弟
+- 水银奶茶 男友投毒
+- 时代峰峻回应严浩翔家庭事宜
+- 西安上空现不明物持续一小时后消失
+- 刘晓庆回应和王婆互动冷淡
+- 何洁听跳楼机还没到副歌就直接关掉了
+- DeepSeek 现在我是你爹了
+- 杨幂脸上烫伤还没好
+- 李飞怎么变这么薄一片了
 
 ## 知乎热榜 (20 条)
 - 如何理解马孔多在下雨这句话？
@@ -147,55 +182,90 @@
 - 瞎扯 · 如何正确地吐槽
 
 ## B站热门 (20 条)
-- 梓渝“游”点意思2026巡回演唱会第一阶段纪录片《渝的七秒记忆》
 - 《无实物表演》
+- 抽象新闻：4月人类迷惑行为大赏（下）
+- 满电VS亏电性能比拼！最终结果居然是这样？？？
+- 【独家】永生之大道归一 第4集 伏鬼驱魔【12月国创】
 - 线条重现中式美学世界
-- 当用学历代表网文中的战力境界【小明修仙传1-4合集】
-- 测试招募开启！《遗忘之海》剧情概念PV 「余烬」
 - 「无敌少侠」以爱推至500年
 - 【相变临界】17章主线磨难/沙盘推演全关卡 摆完挂机 简单好抄 明日方舟
-- 抽象新闻：4月人类迷惑行为大赏（下）
-- 这一分半我录了3个月，能火吗？
-- 【独家/完结】有兽焉 第五季 第12集 核桃入梦来【总第60集】
-- 【朱志鑫&苏新皓｜罗生门】“爱从来没有标准答案”
+- 当用学历代表网文中的战力境界【小明修仙传1-4合集】
+- 测试招募开启！《遗忘之海》剧情概念PV 「余烬」
+- 【剧情】神秘博士 第八季（2014）01【彼得·卡帕尔迪 / 珍娜·科尔曼】
+- 校 园 爸 临
+- 梓渝“游”点意思2026巡回演唱会第一阶段纪录片《渝的七秒记忆》
+- 486不是罪过
+- 瓜摊1947:黑手党秘录
+- [航空学]⚡初音屹立于大地之上⚡
+- 猛攻节的航天基地每天都这么热闹吗？
+- 《重返未来：1999》三周年纪念动画：隙光掠影
 - 极致还原迈克尔杰克逊Billie Jean舞蹈【幕后制作】
-- 极致还原Billie jean现场名场面|【定格动画】
-- "见过花开就好 何必在意花为谁开"2.0
-- 夏天煎饼无限流《ENEMY》民国篇
-- 在意大利摆摊卖中餐，用烟火温暖异国日常
-- 探访中国“最孤独”的城市茫崖，当地人生活啥样？
-- 【warma】来观察人类吧！《朋友收集：梦想生活》欢乐实况【更新中】
-- "戴上耳机，释放多巴胺"
-- DECO*27 - Love Para feat. Hatsune Miku
+- 两口子吵架三星w25重摔不开机 看看是什么问题？#折叠屏维修#手机维修#心系天下
+- 这...这猫不对吧🙀
 
 ## 抖音热搜 (20 条)
-- WSBK匈牙利站排位赛
+- 五一景区旅游现状
 - 都来这里过五一
-- 4月中国创新成绩单超提气
-- 假期先来这里吃一口
-- 如果幸福是一顿漂亮饭
+- 915亿“真金白银”直达16个领域
+- 哪个好孩子想在玩的时候收到试卷
+- 活塞逆转魔术拖入抢七
 - 五一开启享福模式
+- 周锐王师傅大胜刘智杰贝利亚
+- 巴雷特三分绝杀骑士
+- 如果幸福是一顿漂亮饭
+- 假期先来这里吃一口
 - 江苏常晋队员齐发抖音庆祝晋级
-- 赣超揭幕战赣州1:0南昌
-- 南宁烧烤野生代言人出现了
-- 各地老字号申请上桌
-- 南部战区战备警巡黄岩岛画面
 - 中超上海申花2:3成都蓉城
 - “无糖饮料会加速老年痴呆”系谣言
 - 中超大连英博1:0重庆铜梁龙
-- CBA山东胜辽宁 总比分扳平
-- 周锐王师傅大胜刘智杰贝利亚
-- 郑智不满判罚被直红罚下
-- 乘风2026三公选曲
+- 罗峰配吹梦到西洲宇宙感绝了
 - 电影消失的人第89分钟全场尖叫
-- 不要在我寂寞的时候说爱我舞蹈
+- 乘风2026三公选曲
+- ENEMY二人离开无限流世界
+- 别人的五一vs我的五一
+- 拼豆又卷出新玩法了
 
-## 雪球热帖 (1 条)
-- 王姓股民向利欧股份发起索赔 宋一欣律师接受咨询 - 新浪财经
+## 36氪 (18 条)
+- 英特尔收购Sambanova获美国反垄断批准
+- 上汽大通4月销量23860辆，同比增长35%
+- 苹果下架256GB入门版Mac Mini，售价涨至799美元起
+- 美联储副主席鲍曼：监管机构必须考虑如何应对Mythos等新技术
+- 美联储6月维持利率不变的概率为92.8%
+- 今天全国铁路预计发送旅客1970万人次
+- 新一代SU7锁单超7万台
+- 特斯拉去年为马斯克支付安保费480万美元
+- 上海4月二手房网签量创近10年同期新高
+- 长安汽车：4月交付20.95万辆，同比增长1.7%
+- Meta收购机器人AI公司，加速布局人形机器人技术
+- 节后首日，将有31只基金齐发
+- 受美国拖欠会费等因素影响，世贸组织计划削减10%预算
+- 五角大楼与七家AI巨头签约，Anthropic遭排除
+- 辉瑞与Arvinas公司乳腺癌新药获得美国FDA批准
+- 沃什执掌美联储后交易难度或上升
+- 特朗普：将于下周对欧盟输美汽车和卡车加征25%关税
+- 美股三大指数收盘涨跌不一，大型科技股多数上涨
 
-## 虎嗅 (2 条)
+## 虎嗅 (20 条)
+- 没有“网红打卡套路”前，我们旅行是什么样？
+- 上百人的AI公司，要推倒重来了
+- 基金“跑路”，牛散21亿“接盘”，券商业绩爆发也要大洗牌？
+- 我在黑人区做规划：美式“政治正确”的傲慢与偏见
+- 当欧盟选择印度：全球贸易格局正在悄悄改变
+- 节前科创50涨8%、主力却抛了824亿：五一后A股会怎么走？
+- 在大厂，token用少了不“健康”
+- 出海是一场信任工程
+- 这个动作喝饮料，相当于给水接种细菌，很多人都在做
+- 连三只松鼠、蒙牛都开始做电解质水了
+- 物理规律让人工智能伪造的内容无处遁形
+- 红杉万亿AI叙事：“服务即新软件”，看似完美，实则走不通
+- 等DeepSeek 回复的30秒，是手机最好玩的半小时
+- 穿越周期的常识与定力：重温巴菲特1999年太阳谷演讲
+- “全军出击”pocket相机，佳能、小米均要入场
+- 台湾2025年人均GDP超日韩，今年人均GDP将破四万美元，两岸半导体决战何时到来
+- 一部爆款到底能养活一家公司多久
+- 未婚=未尽孝？孝道信念与单身群体幸福感
+- 结余腰斩，魔都医保真的撑不住了
 - 现在的05后去夜店，为什么只玩抓手指啊？
-- Manus收购被禁之后，还没做完的功课是？
 
 ## GitHub Trending (9 条)
 - TauricResearch/TradingAgents
