@@ -1,0 +1,209 @@
+{
+  "date": "2026-05-03",
+  "news": [
+    {
+      "title": "中东局势升级",
+      "summary": "美国计划在中东部署高超声速导弹，伊朗提出14点谈判方案聚焦终战，\"欧佩克+\"原则上同意6月增产，霍尔木兹海峡通行规则可能改变。多国军事部署与外交斡旋并行，地区紧张局势持续升级，全球能源供应链面临不确定性。",
+      "reason": "多平台多源密集报道，地缘政治风险急剧上升",
+      "impact_areas": [
+        "地缘",
+        "经济金融"
+      ],
+      "impact_level": "重大",
+      "sources": [
+        {
+          "name": "澎湃新闻",
+          "url": "https://m.thepaper.cn/detail/33093229"
+        },
+        {
+          "name": "澎湃新闻",
+          "url": "https://m.thepaper.cn/detail/33093964"
+        },
+        {
+          "name": "凤凰网",
+          "url": "https://news.ifeng.com/c/8soYMdHAiGm"
+        },
+        {
+          "name": "凤凰网",
+          "url": "https://news.ifeng.com/c/8soQeRyEkUy"
+        },
+        {
+          "name": "BBC",
+          "url": "https://www.bbc.com/news/articles/cpwprl0v2npo?at_medium=RSS&at_campaign=rss"
+        }
+      ]
+    },
+    {
+      "title": "古巴危机升级",
+      "summary": "古巴国家主席称美国对古威胁升至\"危险且前所未有\"级别，哥伦比亚总统公开反对对古巴进行任何形式军事干预。美古关系急剧恶化，拉美地区立场分化，可能引发新一轮地区紧张局势。",
+      "reason": "多源报道，地区紧张局势升级",
+      "impact_areas": [
+        "地缘",
+        "政治"
+      ],
+      "impact_level": "重大",
+      "sources": [
+        {
+          "name": "澎湃新闻",
+          "url": "https://m.thepaper.cn/detail/33093581"
+        },
+        {
+          "name": "凤凰网",
+          "url": "https://news.ifeng.com/c/8soI1VaQt95"
+        },
+        {
+          "name": "凤凰网",
+          "url": "https://news.ifeng.com/c/8soaEpk95lB"
+        },
+        {
+          "name": "央视网",
+          "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE42RTlxcWh1QTU0elo3RVdJbWhuV2RsTXdPSW81ejdWZ1I0WjByY2kxNFluN1g3VkpkWFUxamRkWEk0S2ZYLWlHRGUtVHQ1SGU3RzdrZkFudHBZekM4TzZ3eWdqSXg0STRzQTdyVTFnRGFKanFwbFhadg?oc=5"
+        }
+      ]
+    },
+    {
+      "title": "巴菲特正式退休",
+      "summary": "95岁巴菲特正式\"退役\"，伯克希尔·哈撒韦CEO阿贝尔接任，强调战略协同优先于金融回报，计划开设霍尔木兹海峡保险业务，对AI持保守态度。巴菲特时代落幕，投资风格可能转变，全球资本市场关注。",
+      "reason": "全球知名投资人变动，多平台热议",
+      "impact_areas": [
+        "经济金融",
+        "科技"
+      ],
+      "impact_level": "重大",
+      "sources": [
+        {
+          "name": "虎嗅",
+          "url": "https://www.huxiu.com/article/4855531.html"
+        },
+        {
+          "name": "雪球热帖",
+          "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5EbFJXZVYxU044X0R1OVJVS1p3NllkWHVBbFBHNzhVUzlkSzFYV0g4Q3ExZk1nMjQ0aE1SOHI3Sk8xTHFmY1prQmc4VHNCaWhwbFNJWUZyMHVpeTg2emZTZWEySkZTTExadkVoVHphRExRcjdqUHRVcQ?oc=5"
+        },
+        {
+          "name": "Reuters",
+          "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxNVndtM1gwTVdjS21FaHNxdDh2QWpydy1iOEhfZzNWY1FPNVpTd093eHNrQVpZUEJUSXE1Zmp2WUV3Ql9EMjAzOVc4dWthNGtnRzJOLW9rZmtGaExRTkcxMEczb2dXZGFobTdhMHF6SFM5N2twdUVMR25ObVNWNHBuLXUwWXNiUWljbXRtbVc2V2dJTkRWeTdKMHMyU1BWT1h2MUVQNXJQQnVhOHJxMUdVcnhlaHRCTTByazdBazgzcW84QWNHMHB1bnRZWTFNUW5QTnpTSE5IVk5pc1pRM2pkV1Vn?oc=5"
+        }
+      ]
+    },
+    {
+      "title": "DeepSeek多模态AI突破",
+      "summary": "DeepSeek推出多模态新范式，一张图片可压缩7056倍，思考能力反超GPT和Claude。该技术突破大幅提升AI处理效率，降低计算成本，可能重塑AI产业格局，加速多模态AI应用落地。",
+      "reason": "科技重大突破，性能超越现有主流模型",
+      "impact_areas": [
+        "科技"
+      ],
+      "impact_level": "重大",
+      "sources": [
+        {
+          "name": "雪球热帖",
+          "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5VUk1EQ2hoZmtwV0NXLXRhNnJzQzdSUWdoTVoxb3lzdUtrTGkwVHhQY190VzB1WXVQQ1hOSFBOdnJaNHhxMUpRTDRsWUtqT0xTUXE1QlN5UTZqbDdkeUZOb1VYMnJTanM3YU9mRjJoWTl1ajh6Nmc?oc=5"
+        }
+      ]
+    },
+    {
+      "title": "美国会担忧驻德美军撤出",
+      "summary": "美国会高层对驻德美军撤出计划表示\"深感担忧\"，认为此举可能削弱北约在欧洲的安全架构。德国方面称美军撤出\"可预见\"，北约寻求澄清美国意图。跨大西洋关系面临新挑战，欧洲安全格局可能重塑。",
+      "reason": "军事战略重大调整，跨大西洋关系紧张",
+      "impact_areas": [
+        "地缘",
+        "政治"
+      ],
+      "impact_level": "重大",
+      "sources": [
+        {
+          "name": "澎湃新闻",
+          "url": "https://m.thepaper.cn/detail/33093747"
+        }
+      ]
+    },
+    {
+      "title": "欧佩克+同意6月增产",
+      "summary": "阿联酋退出后，\"欧佩克+\"原则上同意6月增产计划，旨在稳定全球能源市场。此举可能缓解国际油价压力，影响全球通胀走势，并对能源出口国与进口国经济产生不同影响。",
+      "reason": "多源报道，能源市场重大决策",
+      "impact_areas": [
+        "经济金融"
+      ],
+      "impact_level": "重大",
+      "sources": [
+        {
+          "name": "澎湃新闻",
+          "url": "https://m.thepaper.cn/detail/33093530"
+        },
+        {
+          "name": "凤凰网",
+          "url": "https://news.ifeng.com/c/8soYMdHAiGm"
+        }
+      ]
+    },
+    {
+      "title": "伊朗霍尔木兹海峡新规",
+      "summary": "伊朗将批准一项法律，规定哪些船只可以通行霍尔木兹海峡。这一举措可能影响全球能源运输安全，霍尔木兹海峡是中东石油出口的关键通道，全球约20%的石油贸易经此运输。",
+      "reason": "可能影响全球能源供应链安全",
+      "impact_areas": [
+        "经济金融",
+        "地缘"
+      ],
+      "impact_level": "重大",
+      "sources": [
+        {
+          "name": "凤凰网",
+          "url": "https://news.ifeng.com/c/8soQeRyEkUy"
+        }
+      ]
+    },
+    {
+      "title": "美国对伊朗单边制裁",
+      "summary": "中国明确表示对美国对伊朗的单边制裁\"没有义务遵守\"，强调制裁需联合国授权。这一立场可能影响国际制裁体系效力，并重塑大国在伊朗问题上的互动模式。",
+      "reason": "国际关系重大立场表态",
+      "impact_areas": [
+        "政治",
+        "地缘"
+      ],
+      "impact_level": "重大",
+      "sources": [
+        {
+          "name": "凤凰网",
+          "url": "https://news.ifeng.com/c/8soFEfSiOET"
+        }
+      ]
+    },
+    {
+      "title": "美国计划中东部署高超声速导弹",
+      "summary": "美国计划在中东部署高超声速导弹，此举可能改变地区军事平衡，引发周边国家安全担忧。高超声速武器具有高速、难以拦截的特点，可能引发新一轮军备竞赛。",
+      "reason": "军事战略重大调整，地区安全格局变化",
+      "impact_areas": [
+        "地缘",
+        "政治"
+      ],
+      "impact_level": "重大",
+      "sources": [
+        {
+          "name": "澎湃新闻",
+          "url": "https://m.thepaper.cn/detail/33093229"
+        }
+      ]
+    },
+    {
+      "title": "伊朗提出终战谈判方案",
+      "summary": "伊朗公布最新谈判方案，提出14点提议聚焦终战，所有问题应在30天内解决。伊朗副外长表示\"球在美国一边\"，已做好两手准备。这一外交动向可能为持续紧张的中东局势提供缓和契机。",
+      "reason": "外交重大进展，地区紧张局势可能缓和",
+      "impact_areas": [
+        "政治",
+        "地缘"
+      ],
+      "impact_level": "重大",
+      "sources": [
+        {
+          "name": "澎湃新闻",
+          "url": "https://m.thepaper.cn/detail/33093964"
+        },
+        {
+          "name": "央视网",
+          "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5YcDd1MW1kTEhFMFloNXY1LVJhWFBITm05czM1bDY3VExMVE1ISnJsX29oSTZkbklHcHhSTW1acHdLME1mUHNsQVdJVHdZX2JfX3BwdTJJdlAtbVVIbDNnbksta25IS25hUUNUYTJiU2Vsb0l0emlLNw?oc=5"
+        }
+      ]
+    }
+  ],
+  "total_fetched": 147,
+  "generated_at": "2026-05-03T07:27:23.152972+08:00"
+}
