@@ -2,172 +2,190 @@
   "date": "2026-05-04",
   "news": [
     {
-      "title": "中国队获汤杯冠军",
-      "summary": "中国队在汤姆斯杯决赛中以3-1战胜法国队，成功夺得第12个汤姆斯杯冠军。这是中国羽毛球队在国际大赛中的又一次重要胜利，展现了我国在羽毛球项目上的强大实力。中国队在比赛中表现稳定，各单项选手发挥出色，最终以总比分3-1战胜对手夺冠。这一胜利不仅提升了我国在国际羽坛的地位，也为年轻选手提供了宝贵的国际比赛经验。",
-      "reason": "体育赛事历史性突破，多平台报道引发关注",
+      "title": "霍尔木兹海峡紧张升级",
+      "summary": "特朗普预告将于4日上午启动霍尔木兹海峡\"新管理制度\"，伊朗发出警告称此举将被视为违反停火协议。伊朗副议长表示霍尔木兹海峡不会回到战前状态，伊朗议会要员警告美国干涉霍尔木兹海峡\"新管理制度\"将被视为违反停火。多国媒体报道此事，显示该事件已引发国际关注。霍尔木兹海峡是全球石油运输的关键通道，局势紧张可能影响全球能源供应和油价，对全球经济产生深远影响。",
+      "reason": "多平台报道的地缘政治热点，直接影响全球能源安全",
       "impact_areas": [
-        "体育"
+        "地缘",
+        "经济金融"
       ],
       "impact_level": "重大",
       "sources": [
         {
-          "name": "澎湃新闻",
-          "url": "https://m.thepaper.cn/detail/33096049"
+          "name": "凤凰网",
+          "url": "https://news.ifeng.com/c/8sqiRql55lX"
         },
         {
           "name": "凤凰网",
-          "url": "https://news.ifeng.com/c/8sqNLrPJimF"
-        }
-      ]
-    },
-    {
-      "title": "美将介入霍尔木兹海峡",
-      "summary": "美国总统特朗普宣布，美国将启动引导被困在霍尔木兹海峡船只驶离的行动。这一表态是在伊朗局势持续紧张的背景下做出的，霍尔木兹海峡作为全球石油运输的关键通道，其安全状况对全球能源供应具有重要影响。特朗普表示，美国将确保国际航运安全，同时警告伊朗不要干扰国际航运。这一行动可能进一步加剧美伊之间的紧张关系，对全球能源市场和中东局势产生深远影响。",
-      "reason": "国际地缘政治热点，多平台报道",
-      "impact_areas": [
-        "政治",
-        "经济金融",
-        "地缘"
-      ],
-      "impact_level": "重大",
-      "sources": [
-        {
-          "name": "澎湃新闻",
-          "url": "https://m.thepaper.cn/detail/33096047"
+          "url": "https://news.ifeng.com/c/8sqgZVKtIdr"
         },
         {
-          "name": "凤凰网",
-          "url": "https://news.ifeng.com/c/8sq45pVuDDD"
-        }
-      ]
-    },
-    {
-      "title": "以总理禁止官员谈伊朗",
-      "summary": "以色列总理要求政府所有部长不得就伊朗问题接受媒体采访。这一决定反映了以色列在伊朗问题上的谨慎态度，可能是在避免进一步加剧地区紧张局势。以色列与伊朗之间的紧张关系持续升级，特别是在美国对伊朗政策变化的背景下。这一禁令可能影响以色列在国际事务中的表态空间，同时也反映了以色列对伊朗问题的敏感性。",
-      "reason": "国际政治热点，多平台报道",
-      "impact_areas": [
-        "政治",
-        "地缘"
-      ],
-      "impact_level": "重大",
-      "sources": [
-        {
-          "name": "澎湃新闻",
-          "url": "https://m.thepaper.cn/detail/33095973"
-        },
-        {
-          "name": "凤凰网",
-          "url": "https://news.ifeng.com/c/8spzvhCLfsE"
-        }
-      ]
-    },
-    {
-      "title": "新疆阿克苏发生4.8级地震",
-      "summary": "新疆阿克苏地区库车市发生4.8级地震，震源深度18公里。地震发生后，当地政府迅速启动应急响应机制，组织救援力量赶赴现场。目前暂无人员伤亡报告，部分建筑物受损。此次地震发生在新疆地震活跃带，当地地质条件复杂，历史上曾多次发生地震。相关部门已加强监测，防范余震可能带来的次生灾害。",
-      "reason": "自然灾害新闻，多平台报道",
-      "impact_areas": [
-        "社会",
-        "生态"
-      ],
-      "impact_level": "重大",
-      "sources": [
-        {
-          "name": "澎湃新闻",
-          "url": "https://m.thepaper.cn/detail/33095906"
-        }
-      ]
-    },
-    {
-      "title": "美军士兵摩洛哥失踪",
-      "summary": "据美国媒体报道，两名美军士兵在摩洛哥失踪，可能已坠海。这起事件发生在美军在非洲地区执行任务期间，具体情况仍在调查中。美军已启动搜救行动，同时与摩洛哥当局合作寻找失踪人员。这一事件可能影响美国在北非地区的军事部署和外交关系，也引发了对美军海外行动安全的关注。",
-      "reason": "军事新闻，多平台报道",
-      "impact_areas": [
-        "政治",
-        "地缘"
-      ],
-      "impact_level": "重大",
-      "sources": [
-        {
-          "name": "澎湃新闻",
-          "url": "https://m.thepaper.cn/detail/33095904"
-        },
-        {
-          "name": "凤凰网",
-          "url": "https://news.ifeng.com/c/8spz7h4qafG"
+          "name": "央视网",
+          "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5ZakJRUUVROTNTazYtemxSeWlEcDBVa3VILUJUUUhWX0tkbVJOSE5JaDBKTjZWbGZCSUNEZG9JeWYtSjVLQzFnREhBYkcweTRoUHZCY25iMy12cjdTYlBjTC1DbFc4VHBxTzc0SE1wN0EtbzJtd3I3Qw?oc=5"
         },
         {
           "name": "BBC",
-          "url": "https://www.bbc.com/news/articles/cn7prznmllko?at_medium=RSS&at_campaign=rss"
-        }
-      ]
-    },
-    {
-      "title": "神舟航天员太空任务",
-      "summary": "神舟二十一号乘组航天员在太空站工作已满一个月，接下来将执行一系列重要任务。航天员们需要进行科学实验、设备维护和空间站运营等工作，同时还要进行体能训练和心理调适。此次任务持续时间较长，对航天员的身心素质提出了更高要求。中国航天事业持续发展，空间站运营能力不断提升，为未来深空探测奠定了基础。",
-      "reason": "航天科技成就，展现中国航天实力",
-      "impact_areas": [
-        "科技",
-        "政治"
-      ],
-      "impact_level": "重大",
-      "sources": [
+          "url": "https://www.bbc.com/news/articles/cn0px2x53k2o?at_medium=RSS&at_campaign=rss"
+        },
         {
-          "name": "央视网",
-          "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9NeWFGeS1rVTFqM3BUTW1pNEhuVDFaaTloelJiOU9Sa2hHYXFBWEJWY1RHSjV4bllvaU9yWVhhdXlXSUFDeEliVTdVOXp0Uk41cG4wdGt4em9hQ21hUWYzdjJPdHp6N0xXaExWQmtBcFNwcnY1MDlhaw?oc=5"
+          "name": "NYTimes",
+          "url": "https://www.nytimes.com/2026/05/04/world/africa/ukraine-russia-war-african-soldiers.html"
+        },
+        {
+          "name": "NYTimes",
+          "url": "https://www.nytimes.com/2026/05/04/world/africa/africans-russia-war-ukraine.html"
+        },
+        {
+          "name": "NYTimes",
+          "url": "https://www.nytimes.com/2026/05/03/us/politics/trump-china-iran-war.html"
+        },
+        {
+          "name": "雪球热帖",
+          "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1hYTZqMGhxM2hDSFpCNlFYVUQyZFVVX2l1YkdjQU54N2hlaWZ3cWRpZllkSlBDa05tRl9qVmt4QVNOamc4Z0R6a1Jpb1ZvZ01pTmZoWC12UkNkV3N2Q3o5Y01UV2ZwRlE0eUw4YVZlTTZBaWthUVE?oc=5"
         }
       ]
     },
     {
-      "title": "中国汽车行业困境",
-      "summary": "中国汽车行业面临前所未有的挑战，包括市场竞争加剧、技术转型压力增大、供应链不稳定等问题。随着新能源汽车的快速发展和国际竞争的加剧，传统汽车制造商面临巨大转型压力。同时，芯片短缺、原材料价格上涨等问题也困扰着行业发展。专家认为，中国汽车行业需要加快技术创新和产业升级，提升核心竞争力，才能在全球竞争中占据有利位置。",
-      "reason": "产业格局变化，影响经济和就业",
+      "title": "阿联酋退出欧佩克",
+      "summary": "阿联酋宣布退出阿拉伯石油输出国组织，这一决定被战争暂时掩盖但可能引发能源大地震。阿联酋作为中东重要产油国，退出欧佩克将改变全球能源格局。多家媒体对此进行报道，显示该事件已引起国际关注。此举可能影响全球石油供应和定价机制，对全球经济和能源安全产生深远影响。",
+      "reason": "多源报道的能源格局重大变化，影响全球石油供应",
       "impact_areas": [
         "经济金融",
-        "产业"
+        "地缘"
       ],
       "impact_level": "重大",
       "sources": [
         {
+          "name": "澎湃新闻",
+          "url": "https://m.thepaper.cn/detail/33096527"
+        },
+        {
+          "name": "凤凰网",
+          "url": "https://news.ifeng.com/c/8sqjw5N3VeX"
+        },
+        {
           "name": "虎嗅",
-          "url": "https://www.huxiu.com/article/4855610.html"
+          "url": "https://www.huxiu.com/article/4855618.html"
         }
       ]
     },
     {
-      "title": "科技产品策略争议",
-      "summary": "科技产品更新换代引发的\"老用户背刺\"争议再次引发关注。有观点认为，科技厂商通过快速迭代和功能差异对待新老用户，损害了消费者权益。然而，从商业角度看，这种策略有助于推动技术创新和产业发展。1997年乔布斯回归苹果时也曾面临类似问题，他的回答强调了创新和用户体验的重要性。这一争议反映了科技产业发展中的消费者权益与商业创新之间的平衡问题。",
-      "reason": "科技产品策略影响消费者权益和产业发展",
+      "title": "游戏驿站拟收购eBay",
+      "summary": "游戏驿站(GameStop)提出以近560亿美元收购eBay，这一重大并购案可能改变电商行业格局。GameStop以游戏零售闻名，而eBay是全球知名电商平台，两者的合并将创造新的市场力量。多家媒体报道此事，显示该事件已引起行业关注。这一并购可能影响电商市场竞争格局，对相关企业和消费者产生深远影响。",
+      "reason": "大型企业并购可能改变电商行业格局，影响市场结构",
       "impact_areas": [
         "科技",
-        "社会"
+        "经济金融"
       ],
       "impact_level": "重大",
       "sources": [
         {
-          "name": "虎嗅",
-          "url": "https://www.huxiu.com/article/4855609.html"
+          "name": "Reuters",
+          "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNWGJFS2ZmckFmMHBZb3VZem5nWldjQVBMbGptVUZycUJBRXRCTEdsaUM5TEtTWHJ4aHpBZWFpSjBkeTJ0UTlzOThRTFRTUGFvbXVyT3VUQkl1YnNKYnJaZThSNlpHeDdpNDFYaDBRZ052eUVvdXhOeEdDWTRiSjdVaGhDcUhuYkpLLTUzR2V6QzU0RHZNRmhraU9wQ0ZobmZJQ0w3VllnaGNjSGlNQldxa2pDOVVqSWF4cXZHT1Jwc0o?oc=5"
+        },
+        {
+          "name": "36氪",
+          "url": "https://www.36kr.com/newsflashes/3794262182993161"
         }
       ]
     },
     {
-      "title": "DeepSeek-TUI开源项目",
-      "summary": "DeepSeek-TUI是一个开源的人工智能工具界面项目，近期在GitHub上获得广泛关注。该项目提供了一个简洁而强大的命令行界面，使用户能够更高效地与AI模型交互。DeepSeek-TUI的出现反映了AI工具开发的新趋势，即更加注重用户体验和实用性。这一开源项目可能对AI工具的普及和应用产生重要影响，推动AI技术在更多领域的落地。",
-      "reason": "AI工具开源项目，推动AI技术普及",
+      "title": "AI学会自我坦白",
+      "summary": "Anthropic最新研究提出\"内省适配器\"技术，使AI能够自我分析和解释其决策过程，这一突破可能改变AI研发和应用方向。该技术使黑盒模型能够自己说出隐藏行为，提高AI系统的透明度和可解释性。多家科技媒体报道此事，显示该技术已引起行业关注。这一进展可能推动AI向更透明、更可控的方向发展，对AI安全和伦理产生深远影响。",
+      "reason": "AI技术重大突破，提高模型透明度和可解释性",
       "impact_areas": [
         "科技"
       ],
       "impact_level": "重大",
       "sources": [
         {
-          "name": "GitHub Trending",
-          "url": "https://github.com/Hmbown/DeepSeek-TUI"
+          "name": "雪球热帖",
+          "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFA2Yk1xNWpYVmJXUUhPMXF5M21hVktCZ1hOOWdnUjd5WEctdlZZbUg4SXNUaU0tVmRwOWFqajlLZDNzdzhDR092WmttYWV0MEpfN05FR242ZUFoQWh5MWhvSVoxNFlXbUNRZTg1UXk1QnBPSXJNVkE?oc=5"
+        },
+        {
+          "name": "虎嗅",
+          "url": "https://www.huxiu.com/article/4855633.html"
         }
       ]
     },
     {
-      "title": "AI视频生成技术突破",
-      "summary": "Pixelle-Video是一个基于AI的视频生成项目，近期在GitHub上获得广泛关注。该项目能够根据文本描述生成高质量的视频内容，展现了AI技术在视频生成领域的最新进展。这一技术的突破可能对媒体、广告和娱乐产业产生深远影响，改变内容创作的方式和效率。随着AI技术的不断发展，视频生成技术将更加成熟，为创意产业带来新的可能性。",
-      "reason": "AI视频生成技术突破，影响媒体和娱乐产业",
+      "title": "恒生科技指数飙升",
+      "summary": "恒生科技指数今日大幅上涨，涨幅近4%，升破5000点关口，小米集团等科技股表现强劲。多家财经媒体多次报道此事，显示该事件已引起市场关注。这一上涨反映科技行业投资者情绪乐观，可能预示科技板块新一轮行情。指数大涨对相关企业和投资者产生积极影响，也可能带动整个科技板块表现。",
+      "reason": "科技板块指数大涨反映市场情绪，可能预示新一轮行情",
+      "impact_areas": [
+        "经济金融"
+      ],
+      "impact_level": "重大",
+      "sources": [
+        {
+          "name": "36氪",
+          "url": "https://www.36kr.com/newsflashes/3794415662373895"
+        },
+        {
+          "name": "36氪",
+          "url": "https://www.36kr.com/newsflashes/3794323081026816"
+        },
+        {
+          "name": "36氪",
+          "url": "https://www.36kr.com/newsflashes/3794317199203592"
+        },
+        {
+          "name": "36氪",
+          "url": "https://www.36kr.com/newsflashes/3794303505292545"
+        }
+      ]
+    },
+    {
+      "title": "东阳光药胰岛素获FDA批准",
+      "summary": "东阳光药甘精胰岛素获得美国FDA批准，这一医药领域重要进展可能影响相关企业股价和行业格局。多家财经媒体报道此事，显示该事件已引起行业关注。胰岛素是治疗糖尿病的重要药物，此次批准将为东阳光药带来新的增长点，也可能改变全球胰岛素市场竞争格局，对糖尿病患者和医疗行业产生积极影响。",
+      "reason": "医药领域重要进展，可能改变全球胰岛素市场竞争格局",
+      "impact_areas": [
+        "科技",
+        "公共卫生"
+      ],
+      "impact_level": "重大",
+      "sources": [
+        {
+          "name": "36氪",
+          "url": "https://www.36kr.com/newsflashes/3794266619665417"
+        }
+      ]
+    },
+    {
+      "title": "杨立昆质疑大模型路线",
+      "summary": "Meta首席科学家杨立昆发表反共识判断，认为大语言模型路线错误，JEPA世界模型才是通往AGI的唯一解。多家科技媒体报道此事，显示该观点已引起行业关注。作为AI领域权威专家，杨立昆的观点可能影响AI研发方向和资源分配，对AI未来发展产生深远影响。这一争议反映了AI领域对技术路线的不同思考，可能推动AI研究向多元化方向发展。",
+      "reason": "AI领域权威专家对技术路线的质疑，可能影响研发方向",
+      "impact_areas": [
+        "科技"
+      ],
+      "impact_level": "重大",
+      "sources": [
+        {
+          "name": "虎嗅",
+          "url": "https://www.huxiu.com/article/4855636.html"
+        }
+      ]
+    },
+    {
+      "title": "潍柴动力股价创新高",
+      "summary": "潍柴动力港股今日涨近14%，股价再创历史新高，反映行业动态和投资者信心。多家财经媒体报道此事，显示该事件已引起市场关注。股价创新高可能预示相关行业趋势，对投资者和企业产生积极影响。潍柴动力作为工程机械龙头企业，其股价表现可能反映整个行业的发展前景。",
+      "reason": "行业龙头企业股价创新高，反映行业发展趋势",
+      "impact_areas": [
+        "经济金融",
+        "产业"
+      ],
+      "impact_level": "重大",
+      "sources": [
+        {
+          "name": "36氪",
+          "url": "https://www.36kr.com/newsflashes/3794364928695554"
+        }
+      ]
+    },
+    {
+      "title": "新航将部署星链Wi-Fi",
+      "summary": "新加坡航空宣布将于明年起在部分飞机上部署星链Wi-Fi，这一科技应用进展可能影响航空业服务模式。多家科技媒体报道此事，显示该计划已引起行业关注。星链Wi-Fi将为乘客提供更高速、更稳定的网络服务，提升飞行体验。这一应用可能推动航空业数字化转型，对航空服务和乘客体验产生积极影响。",
+      "reason": "航空业引入卫星互联网技术，提升乘客体验",
       "impact_areas": [
         "科技",
         "产业"
@@ -175,12 +193,28 @@
       "impact_level": "重大",
       "sources": [
         {
-          "name": "GitHub Trending",
-          "url": "https://github.com/AIDC-AI/Pixelle-Video"
+          "name": "36氪",
+          "url": "https://www.36kr.com/newsflashes/3794337428151559"
+        }
+      ]
+    },
+    {
+      "title": "科创板PCB板块增长",
+      "summary": "科创板PCB板块超七成企业营收净利双增长，反映特定行业良好表现。多家财经媒体报道此事，显示该板块已引起市场关注。这一表现可能预示相关行业发展趋势，对投资者和企业产生积极影响。PCB作为电子产业的基础元件，其增长反映了电子产业的整体发展态势。",
+      "reason": "特定行业板块表现良好，反映产业发展趋势",
+      "impact_areas": [
+        "经济金融",
+        "产业"
+      ],
+      "impact_level": "重大",
+      "sources": [
+        {
+          "name": "虎嗅",
+          "url": "https://www.huxiu.com/article/4855614.html"
         }
       ]
     }
   ],
-  "total_fetched": 156,
-  "generated_at": "2026-05-04T07:26:45.458252+08:00"
+  "total_fetched": 223,
+  "generated_at": "2026-05-04T12:27:59.866974+08:00"
 }
