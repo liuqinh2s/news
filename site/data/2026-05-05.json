@@ -2,9 +2,37 @@
   "date": "2026-05-05",
   "news": [
     {
-      "title": "美伊霍尔木兹对峙",
-      "summary": "美国与伊朗在霍尔木兹海峡发生军事冲突，美军击沉6艘伊朗小型船只，特朗普称若伊朗攻击美国军舰将被\"从地球上彻底抹去\"。伊朗则称管控霍尔木兹海峡是其合法权利，并指责阿联酋石油设施起火是美国军事冒险所致。阿联酋国防部证实拦截了伊朗发射的导弹和无人机。此次冲突导致全球股市下跌，S&P 500从历史高点回落。事件引发国际社会对中东局势恶化的担忧，可能影响全球能源供应和经济稳定。",
-      "reason": "多源密集报道的地缘政治危机，直接影响全球能源安全和经济稳定",
+      "title": "浏阳烟花厂爆炸致21死",
+      "summary": "2026年5月5日，湖南省浏阳市一烟花厂发生爆炸事故，已造成21人死亡、61人受伤。事故发生后，当地迅速启动应急响应，482人投入救援工作。习近平对事故作出重要指示，要求全力救治伤员，做好善后工作。浏阳作为\"花炮之乡\"，此次事故引发对烟花行业安全生产的广泛关注。",
+      "reason": "重大安全事故，国家领导人已作出指示，多源密集报道",
+      "impact_areas": [
+        "社会",
+        "公共卫生"
+      ],
+      "impact_level": "重大",
+      "sources": [
+        {
+          "name": "澎湃新闻",
+          "url": "https://m.thepaper.cn/detail/33098736"
+        },
+        {
+          "name": "财新网",
+          "url": "https://china.caixin.com/2026-05-05/102440650"
+        },
+        {
+          "name": "财新网",
+          "url": "https://photos.caixin.com/2026-05-05/102440622"
+        },
+        {
+          "name": "澎湃新闻",
+          "url": "https://m.thepaper.cn/detail/33097953"
+        }
+      ]
+    },
+    {
+      "title": "美伊冲突再起霍尔木兹",
+      "summary": "2026年5月5日，美伊紧张局势升级。伊朗发布向美军舰发射导弹视频，美国称击沉7艘欲干预商船的伊朗小艇。阿联酋富查伊拉石油工业区遭伊朗无人机袭击起火。霍尔木兹海峡作为全球石油运输要道，局势紧张引发国际社会广泛关注，可能影响全球能源供应和市场稳定。",
+      "reason": "地缘政治热点，多源密集报道，可能影响全球能源市场",
       "impact_areas": [
         "地缘",
         "经济金融"
@@ -12,227 +40,31 @@
       "impact_level": "重大",
       "sources": [
         {
-          "name": "澎湃新闻",
-          "url": "https://m.thepaper.cn/detail/33098364"
+          "name": "财新网",
+          "url": "https://international.caixin.com/2026-05-05/102440615"
         },
         {
           "name": "凤凰网",
-          "url": "https://news.ifeng.com/c/8srw6TBrvHf"
+          "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE1DblJTemk5MkwyaFEta1U4WnA0MDhZRXJOT1FGekZiVndMNzVaU0Z1ZW1aX2k3dl84MzM1ZGZET0cybEd4dHVzVw?oc=5"
         },
         {
           "name": "凤凰网",
-          "url": "https://news.ifeng.com/c/8srcxcRkLl5"
+          "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE5XVzRwUERXc29vSjR3SnJQa3FNZmNzRXkzVUZ4U3VqdW9iWXNPYjVjY1hzYVJwS09DSTh5UlAxYUVRNVphVTVOMkhDYjNDNDg0aU5nLXNWWm1laG0yNV9VLWZYQm40QW5hYXBsQWdwTXdUWHFGd20wSw?oc=5"
         },
         {
-          "name": "凤凰网",
-          "url": "https://news.ifeng.com/c/8srcxcRkLjT"
-        },
-        {
-          "name": "凤凰网",
-          "url": "https://news.ifeng.com/c/8srbS2HSV3K"
-        },
-        {
-          "name": "凤凰网",
-          "url": "https://news.ifeng.com/c/8srZ1I69kPJ"
+          "name": "BBC",
+          "url": "https://www.bbc.com/news/articles/cjwp432d0v5o?at_medium=RSS&at_campaign=rss"
         },
         {
           "name": "Reuters",
-          "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQMFZzU0o4cVloeVB2Q3hOb0wzeHhFMDlGMkxsT3FFZDhLdjJnei1qcFp1NDFFaXhyZzRtTTRoVFBWbzZHSUo0aXZIQkV3b2pfMUloTUliaWg3RXBlSTVlN3daSHhQNEdqWDNXb1Uwa2prVXMtdFVOZ0EzMk5sLWlzSTFEa0JoNGt6LXJiRWRmUVRYbVVhTzNhZ3pNbnMwd0E?oc=5"
-        },
-        {
-          "name": "NYTimes",
-          "url": "https://www.nytimes.com/live/2026/05/04/world/iran-hormuz-ships-navy"
-        },
-        {
-          "name": "NYTimes",
-          "url": "https://www.nytimes.com/2026/05/04/us/politics/us-iran-attacks.html"
-        },
-        {
-          "name": "NYTimes",
-          "url": "https://www.nytimes.com/2026/05/04/world/middleeast/iran-trump-ships-hormuz-strait.html"
+          "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOZl91cm9Xd3FTOXB0VnE2SHVGOFRxU2NwT2RhSXhqOGhPajdVc0ptVXBnRzFHQTU5RWplem96SS1qaVRZdWxQMXVuZFgtSENES0ZwZFllSk9sYmhWZGZIdkVVbVNrYko2Tmw4bVAwTmRmZ0dVSjhIWHo2Slp5dFk0VXBTQ1FyTkJMQUxLMHNQVUJpbWQ5SGhVUEM2RklXbDZJZlFHcEtwUHo3MENwT3AwVHVveVpqejFTWGZIYkdR?oc=5"
         }
       ]
     },
     {
-      "title": "乌单方面宣布停火",
-      "summary": "乌克兰总统泽连斯基宣布乌方自6日零时起实施单方面停火。此举旨在缓解近期紧张局势，为和平谈判创造条件。普京也决定在5月8日至9日期间实施停火。这一停火决定是在俄乌冲突持续升级背景下作出的，可能为双方提供喘息机会，但长期停火前景仍不明朗。国际社会对这一停火决定表示关注，呼吁双方抓住机会寻求持久和平解决方案。",
-      "reason": "俄乌冲突关键进展，多源报道的国际政治事件",
-      "impact_areas": [
-        "政治",
-        "地缘"
-      ],
-      "impact_level": "重大",
-      "sources": [
-        {
-          "name": "澎湃新闻",
-          "url": "https://m.thepaper.cn/detail/33098360"
-        },
-        {
-          "name": "凤凰网",
-          "url": "https://news.ifeng.com/c/8srqxLa3jFO"
-        },
-        {
-          "name": "央视网",
-          "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFAwUm5EQlFsb0ZXRG01bHBOZ3BmOGRrdGR3T1V1Ty11VUtVb1pzX2U0NTRLS2s3LTkxa2k3MVNKTFE0aVYzdDJDTUZjWWl3UW4tLUZ4VWFtZzNKZjgwaTh1bUdRVmlWRTA4TUVGWjIydlk1MUZ5empWeQ?oc=5"
-        },
-        {
-          "name": "NYTimes",
-          "url": "https://www.nytimes.com/2026/05/04/world/europe/moscow-drone-attack.html"
-        }
-      ]
-    },
-    {
-      "title": "德国汽车冲撞人群",
-      "summary": "德国莱比锡市发生汽车冲撞人群事件，已造成2人死亡，多人受伤。事件发生在市中心区域，引发当地警方紧急响应。德国总理已对事件表示谴责，并承诺加强公共安全措施。此次事件引发欧洲社会对恐怖袭击和安全问题的担忧，可能促使欧洲各国重新评估公共安全策略和反恐措施。目前警方正在调查事件动机，尚未确定是否为恐怖袭击。",
-      "reason": "造成多人伤亡的安全事件，引发欧洲安全担忧",
-      "impact_areas": [
-        "社会",
-        "政治"
-      ],
-      "impact_level": "重大",
-      "sources": [
-        {
-          "name": "澎湃新闻",
-          "url": "https://m.thepaper.cn/detail/33098362"
-        },
-        {
-          "name": "凤凰网",
-          "url": "https://news.ifeng.com/c/8srvJTiKDwQ"
-        },
-        {
-          "name": "央视网",
-          "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9VQVlLaklXZHZ0OXZ6cjE1dEo0ZHA5QWRsd3hSMWNLQkFxQkFsNWlZcTl6M2NlVldvYTFjeXhvMldCSlZnYXZYZHlQUllHejJhMFF1RnlCaWNNdFZhOTcxNDRJVnc1YkNNQV9GOUFkbm9pcHNnV1htVQ?oc=5"
-        },
-        {
-          "name": "BBC",
-          "url": "https://www.bbc.com/news/articles/ckgpzgxgz58o?at_medium=RSS&at_campaign=rss"
-        },
-        {
-          "name": "Reuters",
-          "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNUEJnLTRROGxrVVpuU3VNYWM4VmM2N0htYlFuQS1namNHQll5cjZscEFKVnUyc2xUX3BjUnRSODZ6YW5KTl9DbVU4VnhSa0d0MDBGM0I4UUFHUTUxUmktSG5kVGZHdktEV0lYLXZZMmpEU3BRcU1tM1NXWDRiV01ROTNDS2pMNDZZbzZ5OHRJRmowX3g2UmRDS2FpT2x6T2F3STVJaWV1WmxvTGJxMXc?oc=5"
-        },
-        {
-          "name": "NYTimes",
-          "url": "https://www.nytimes.com/2026/05/04/world/europe/leipzig-car-ramming-germany.html"
-        }
-      ]
-    },
-    {
-      "title": "00后首夺斯诺克世锦赛",
-      "summary": "中国选手吴宜泽在斯诺克世锦赛决赛中战胜墨菲，成为首位00后斯诺克世锦赛冠军。这一成就打破了斯诺克运动的历史纪录，标志着新一代选手的崛起。吴宜泽的胜利不仅是中国斯诺克运动的里程碑，也是亚洲选手在世界台坛的重要突破。这一胜利可能激励更多年轻选手投身斯诺克运动，改变世界台坛格局。赛事在全球范围内引发广泛关注，多平台直播和讨论。",
-      "reason": "体育领域历史性突破，多平台关注的社会事件",
-      "impact_areas": [
-        "社会",
-        "体育"
-      ],
-      "impact_level": "重大",
-      "sources": [
-        {
-          "name": "澎湃新闻",
-          "url": "https://m.thepaper.cn/detail/33098366"
-        },
-        {
-          "name": "凤凰网",
-          "url": "https://news.ifeng.com/c/8srvJTiKDwV"
-        }
-      ]
-    },
-    {
-      "title": "浏阳烟花厂爆炸致3死",
-      "summary": "湖南长沙浏阳市一烟花厂发生爆炸事故，已造成3人死亡、25人受伤。国家领导人已对事故作出重要指示，要求全力救治伤员，查明事故原因。当地多家医院已接收多名伤员，救援工作正在进行。此次事故引发对烟花行业安全生产的广泛关注，可能导致行业监管政策收紧。烟花作为中国传统文化产业，事故可能对相关产业链产生深远影响，促使行业加速转型升级。",
-      "reason": "造成重大伤亡的工业安全事故，引发行业监管关注",
-      "impact_areas": [
-        "社会",
-        "产业"
-      ],
-      "impact_level": "重大",
-      "sources": [
-        {
-          "name": "澎湃新闻",
-          "url": "https://m.thepaper.cn/detail/33097953"
-        },
-        {
-          "name": "凤凰网",
-          "url": "https://news.ifeng.com/c/8srPJ7aoHvI"
-        }
-      ]
-    },
-    {
-      "title": "莫斯科高层遭无人机袭击",
-      "summary": "乌克兰无人机袭击莫斯科一栋高档住宅楼，袭击发生在胜利日军事 parade 前夕。此次袭击造成建筑受损，但无人员伤亡。俄罗斯方面称这是恐怖袭击行为，并已加强首都防空措施。事件引发国际社会对俄乌冲突升级的担忧，特别是在胜利日这一敏感时间点。此次袭击可能影响俄罗斯对乌克兰的军事策略，以及国际社会对冲突的调解努力。",
-      "reason": "胜利日前夕的政治敏感事件，可能影响俄乌冲突走向",
-      "impact_areas": [
-        "政治",
-        "地缘"
-      ],
-      "impact_level": "重大",
-      "sources": [
-        {
-          "name": "BBC",
-          "url": "https://www.bbc.com/news/articles/cwy234llx3vo?at_medium=RSS&at_campaign=rss"
-        },
-        {
-          "name": "NYTimes",
-          "url": "https://www.nytimes.com/2026/05/04/world/europe/moscow-drone-attack.html"
-        }
-      ]
-    },
-    {
-      "title": "邮轮汉坦病毒致3死",
-      "summary": "一艘在大西洋航行的邮轮爆发汉坦病毒疫情，已造成3人死亡，世界卫生组织已介入调查。疫情引发国际社会对邮轮公共卫生安全的关注，可能导致邮轮行业加强防疫措施。汉坦病毒是一种可通过鼠类传播的病毒，症状包括发热、肾损伤等。此次疫情可能影响全球邮轮旅游业的复苏进程，促使各国重新评估国际旅行卫生检疫标准。",
-      "reason": "国际公共卫生事件，可能影响全球旅游业",
-      "impact_areas": [
-        "公共卫生",
-        "社会"
-      ],
-      "impact_level": "重大",
-      "sources": [
-        {
-          "name": "BBC",
-          "url": "https://www.bbc.com/news/articles/cy0294829ndo?at_medium=RSS&at_campaign=rss"
-        },
-        {
-          "name": "NYTimes",
-          "url": "https://www.nytimes.com/2026/05/03/well/cruise-ship-virus-fatal-outbreak.html"
-        }
-      ]
-    },
-    {
-      "title": "DeepMind掌门人谈AI未来",
-      "summary": "诺贝尔奖得主、DeepMind掌门人哈萨比斯在接受最新访谈中表示，AGI(通用人工智能)距离实现仅差1-2个关键想法，当前最缺乏的不是算力而是创新思维。他认为AI发展需要更多跨学科合作，并警告AI安全挑战需要全球共同应对。哈萨比斯的观点引发科技界广泛关注，可能影响AI研发方向和政策制定。作为AI领域的领军人物，他的见解对行业发展具有重要指导意义。",
-      "reason": "AI领域重要人物观点，科技类高权重新闻",
-      "impact_areas": [
-        "科技",
-        "社会"
-      ],
-      "impact_level": "重大",
-      "sources": [
-        {
-          "name": "新浪财经",
-          "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1JUEw5V0hNT2hEMEM0LTZSX1Vha2R5S1ByMnFyR3cxUm02OEZ0VG8yRXFkc1ZiYXZQREFZSGE1X0hDT0JhU0RrNTRDYVNJYm9UTW9oZ0NVUzhEOGxJTDJubm41am1yc3JCdk04N000aHJBb0xJclE?oc=5"
-        }
-      ]
-    },
-    {
-      "title": "AI领域获15亿美元投资",
-      "summary": "AI公司Anthropic联合高盛、黑石等金融机构设立15亿美元人工智能项目，专注于私募股权控股企业的AI应用开发。这一投资反映了金融资本对AI领域的持续看好，可能加速AI技术在金融行业的落地应用。项目将重点研究AI在风险评估、投资决策等方面的应用，有望改变传统金融业务模式。这一大型投资表明AI与金融融合趋势加速，可能重塑金融行业格局。",
-      "reason": "AI领域重大投资，科技与金融融合的重要信号",
-      "impact_areas": [
-        "科技",
-        "经济金融"
-      ],
-      "impact_level": "重大",
-      "sources": [
-        {
-          "name": "新浪财经",
-          "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNY2VhZE1qcVNqMTYyX0lrVEhOOHBZU3huLWxFTHnuQjdZM0MxajJlZTR5Wm1ERjYwTmVIRTR4a1owalpwSUpYdndWYXpXaVZZZEJJaTh6Y2JqQ1g4ZVZwODVUMzdRWmVjVGdBYXZVUDl5S3FZTDEzUjhmTHI3OEN2T0IyYWxFcHM?oc=5"
-        }
-      ]
-    },
-    {
-      "title": "美股因地缘政治下跌",
-      "summary": "受中东局势紧张影响，美国标普500指数从历史高点回落，投资者对地缘政治风险担忧加剧。美伊冲突升级导致全球市场避险情绪上升，石油价格波动加剧。此次下跌反映了市场对地缘政治风险的敏感度，以及全球经济对中东局势的高度依赖。分析师认为，若冲突持续，可能对全球经济复苏产生负面影响，促使各国央行重新评估货币政策。",
-      "reason": "金融市场对地缘政治风险的直接反应，具有经济指标意义",
+      "title": "阿联酋石油设施遭袭起火",
+      "summary": "2026年5月5日，阿联酋富查伊拉石油工业区遭伊朗无人机袭击并引发火灾。富查伊拉是阿联酋重要石油设施所在地，此次袭击可能导致全球石油供应受到影响。国际社会对中东局势表示担忧，霍尔木兹海峡作为全球石油运输要道，安全形势进一步紧张。",
+      "reason": "能源设施遭袭，可能影响全球石油供应和市场",
       "impact_areas": [
         "经济金融",
         "地缘"
@@ -240,12 +72,133 @@
       "impact_level": "重大",
       "sources": [
         {
-          "name": "Reuters",
-          "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQMFZzU0o4cVloeVB2Q3hOb0wzeHhFMDlGMkxsT3FFZDhLdjJnei1qcFp1NDFFaXhyZzRtTTRoVFBWbzZHSUo0aXZIQkV3b2pfMUloTUliaWg3RXBlSTVlN3daSHhQNEdqWDNXb1Uwa2prVXMtdFVOZ0EzMk5sLWlzSTFEa0JoNGt6LXJiRWRmUVRYbVVhTzNhZ3pNbnMwd0E?oc=5"
+          "name": "央视网",
+          "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5XVzRwUERXc29vSjR3SnJQa3FNZmNzRXkzVUZ4U3VqdW9iWXNPYjVjY1hzYVJwS09DSTh5UlAxYUVRNVphVTVOMkhDYjNDNDg0aU5nLXNWWm1laG0yNV9VLWZYQm40QW5hYXBsQWdwTXdUWHFGd20wSw?oc=5"
+        }
+      ]
+    },
+    {
+      "title": "中国加速油气基础设施建设",
+      "summary": "2026年5月5日，央视网报道我国重大油气基础设施项目建设加速，\"全国一张网\"油气输送体系更加完善。这一举措将提升国家能源安全保障能力，优化能源资源配置，对保障国家能源安全和促进经济高质量发展具有重要意义。",
+      "reason": "国家重大能源战略，影响经济命脉",
+      "impact_areas": [
+        "经济金融",
+        "科技"
+      ],
+      "impact_level": "重大",
+      "sources": [
+        {
+          "name": "央视网",
+          "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE82eXA4ZXdaNDNNXzE0S2Rpb0E0MlRCeVRKVHlVRjREaXIteFlYdTlUbzFwbF9vUS1TS3hRemY2RlY4NDNzU0NSRkVMdTQ3MzdGZDNiNWJpeXZVaUF2a1ZPb01MQU0wWXdOMXFoaWJQSDFWZDlBbnJQSA?oc=5"
+        }
+      ]
+    },
+    {
+      "title": "美拟监管新AI模型",
+      "summary": "2026年5月5日，凤凰网报道美国政府考虑对新AI模型引入政府监管。此举反映了AI技术快速发展带来的监管挑战，可能影响全球AI产业发展方向。美国作为AI技术领先国家，其监管政策将对全球AI格局产生深远影响。",
+      "reason": "科技政策重大调整，影响全球AI产业发展",
+      "impact_areas": [
+        "科技",
+        "政治"
+      ],
+      "impact_level": "重大",
+      "sources": [
+        {
+          "name": "凤凰网",
+          "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE85RkFfSjQ1VDI3T2FEMld1QUxhNHZiRFJlYWV3UHJBVnVqQVFtUWstQzY0dXpUNnlRaWM0bDM1NFZtaU5BTGhSMg?oc=5"
+        }
+      ]
+    },
+    {
+      "title": "乌方宣布单方面停火",
+      "summary": "2026年5月5日，央视网报道泽连斯基宣布乌方6日零时起实施单方面停火。这一决定标志着俄乌冲突可能出现转机，国际社会对停火前景表示关注。停火能否持续、是否得到俄方回应，将成为影响地区局势的关键因素。",
+      "reason": "俄乌局势重要进展，可能影响地缘政治格局",
+      "impact_areas": [
+        "政治",
+        "地缘"
+      ],
+      "impact_level": "重大",
+      "sources": [
+        {
+          "name": "央视网",
+          "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFAwUm5EQlFsb0ZXRG01bHBOZ3BmOGRrdGR3T1V1Ty11VUtVb1pzX2U0NTRLS2s3LTkxa2k3MVNKTFE0aVYzdDJDTUZjWWl3UW4tLUZ4VWFtZzNKZjgwaTh1bUdRVmlWRTA4TUVGWjIydlk1MUZ5empWeQ?oc=5"
+        }
+      ]
+    },
+    {
+      "title": "印度人民党赢得西孟加拉邦选举",
+      "summary": "2026年5月5日，NYTimes报道莫迪领导的印度人民党(BJP)在西孟加拉邦选举中首次获胜。这一结果标志着印度政治格局的重要变化，可能影响未来国家政策走向。西孟加拉邦是印度人口大省，此次选举结果对印度政治版图具有重要意义。",
+      "reason": "印度政治格局重大变化，影响国家政策走向",
+      "impact_areas": [
+        "政治"
+      ],
+      "impact_level": "重大",
+      "sources": [
+        {
+          "name": "NYTimes",
+          "url": "https://www.nytimes.com/2026/05/04/world/asia/india-modi-hindu-bjp-west-bengal.html"
+        }
+      ]
+    },
+    {
+      "title": "中国加大风能发展力度",
+      "summary": "2026年5月5日，NYTimes报道在油价高企背景下，中国加大风能发展力度。这一举措反映了中国在能源转型方面的决心，将对全球可再生能源发展产生重要影响。中国作为全球最大能源消费国之一，其能源政策对全球能源格局具有举足轻重的影响。",
+      "reason": "能源转型重大举措，影响全球可再生能源发展",
+      "impact_areas": [
+        "科技",
+        "生态"
+      ],
+      "impact_level": "重大",
+      "sources": [
+        {
+          "name": "NYTimes",
+          "url": "https://www.nytimes.com/2026/05/05/business/china-wind-turbines.html"
+        }
+      ]
+    },
+    {
+      "title": "德国莱比锡汽车冲撞人群",
+      "summary": "2026年5月5日，德国莱比锡发生汽车冲撞人群事件，已致2人死亡多人受伤。事件发生后，当地警方迅速介入调查。此类事件引发对公共安全和社会稳定的关注，德国政府可能加强相关安全措施。",
+      "reason": "重大安全事件，多源报道，引发公共安全关注",
+      "impact_areas": [
+        "社会"
+      ],
+      "impact_level": "重大",
+      "sources": [
+        {
+          "name": "央视网",
+          "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9VQVlLaklXZHZ0OXZ6cjE1dEo0ZHA5QWRsd3hSMWNLQkFxQkFsNWlZcTl6M2NlVldvYTFjeXhvMldCSlZnYXZYZHlQUllHejJhMFF1RnlCaWNNdFZhOTcxNDRJVnc1YkNNQV9GOUFkbm9pcHNnV1htVQ?oc=5"
+        },
+        {
+          "name": "央视网",
+          "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5WZGxGMVB1a2c5OFlVOXUtQTk4LWJfVmxCUloxSzRZZExYdFNUa2U0cjg3MDg3ZjE0a0cySHQ3YUtGX3dQVVpRVTJYU0stWHhnYU5MYXFoT0ZBbWZOVEFBdlZEX0tfclFOdUtRNlQ4bEFSbE5jVFQ2Tg?oc=5"
+        },
+        {
+          "name": "BBC",
+          "url": "https://www.bbc.com/news/articles/ckgpzgxgz58o?at_medium=RSS&at_campaign=rss"
+        }
+      ]
+    },
+    {
+      "title": "吴宜泽首夺世锦赛冠军",
+      "summary": "2026年5月5日，财新网报道22岁的中国选手吴宜泽成为首位\"00后\"斯诺克世锦赛冠军。这一成就创造了中国斯诺克历史新篇章，标志着中国选手在世界台坛的崛起。吴宜泽的胜利不仅是个人的荣誉，也是中国体育事业发展的体现。",
+      "reason": "体育历史性突破，中国选手首次获此殊荣",
+      "impact_areas": [
+        "体育"
+      ],
+      "impact_level": "重大",
+      "sources": [
+        {
+          "name": "财新网",
+          "url": "https://database.caixin.com/2026-05-05/102440698.html"
+        },
+        {
+          "name": "财新网",
+          "url": "https://mini.caixin.com/2026-05-05/102440609.html"
         }
       ]
     }
   ],
-  "total_fetched": 207,
-  "generated_at": "2026-05-05T07:28:58.699913+08:00"
+  "total_fetched": 226,
+  "generated_at": "2026-05-05T12:27:06.850982+08:00"
 }
