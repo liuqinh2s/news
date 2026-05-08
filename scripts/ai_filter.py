@@ -380,12 +380,13 @@ def _build_news_text(news_items: list[dict], include_summary: bool = True, inclu
     return news_text
 
 
-def _load_history_titles(days: int = 3) -> str:
+def _load_history_titles(days: int = 3, date: str = "") -> str:
     """加载近几天的历史新闻标题，供 AI 判断持续性热点"""
+    effective_date = date or TODAY
+    target_dt = datetime.strptime(effective_date, "%Y-%m-%d").date()
     lines = []
-    today_dt = datetime.now(BJT).date()
     for i in range(1, days + 1):
-        past_date = (today_dt - timedelta(days=i)).strftime("%Y-%m-%d")
+        past_date = (target_dt - timedelta(days=i)).strftime("%Y-%m-%d")
         titles_path = REPORTS_DIR / f"{past_date}-raw-titles.md"
         if titles_path.exists():
             content = titles_path.read_text(encoding="utf-8")
@@ -400,8 +401,9 @@ def _load_history_titles(days: int = 3) -> str:
 
 def _call_ai_once(client, model_name: str, system_prompt: str, user_prompt: str,
                   attempt_label: str, temperature: float = 0.3,
-                  max_tokens: int = 16000) -> "list[dict] | None | str":
+                  max_tokens: int = 16000, date: str = "") -> "list[dict] | None | str":
     """单次 AI 调用，返回解析后的列表，失败返回 None，429 过载返回 'rate_limited'"""
+    effective_date = date or TODAY
     try:
         response = client.chat.completions.create(
             model=model_name,
@@ -418,7 +420,7 @@ def _call_ai_once(client, model_name: str, system_prompt: str, user_prompt: str,
         usage = response.usage
 
         # 保存到 logs/
-        ai_dump_path = LOGS_DIR / f"{TODAY}-ai-response.txt"
+        ai_dump_path = LOGS_DIR / f"{effective_date}-ai-response.txt"
         with open(ai_dump_path, "a", encoding="utf-8") as f:
             f.write(
                 f"\n{'=' * 60}\n"
@@ -432,9 +434,9 @@ def _call_ai_once(client, model_name: str, system_prompt: str, user_prompt: str,
         logger.info(f"AI 原始返回已保存: {ai_dump_path} (finish_reason={finish_reason}, {len(content)} 字符)")
 
         # 保存到 reports/
-        ai_raw_path = REPORTS_DIR / f"{TODAY}-ai-raw.json"
+        ai_raw_path = REPORTS_DIR / f"{effective_date}-ai-raw.json"
         ai_raw_data = {
-            "date": TODAY,
+            "date": effective_date,
             "model": model_name,
             "attempt": attempt_label,
             "finish_reason": finish_reason,
@@ -479,8 +481,9 @@ def _call_ai_once(client, model_name: str, system_prompt: str, user_prompt: str,
 
 def _try_filter_with_provider(provider_name: str, news_items: list[dict],
                               system_prompt: str, user_prompt_template: str,
-                              history_text: str) -> "list[dict] | None":
+                              history_text: str, date: str = "") -> "list[dict] | None":
     """用指定的 AI 提供商尝试筛选新闻，成功返回结果列表，全部失败返回 None"""
+    effective_date = date or TODAY
     ai_setup = _get_ai_client_and_model(provider_name)
     if not ai_setup:
         return None
@@ -491,28 +494,39 @@ def _try_filter_with_provider(provider_name: str, news_items: list[dict],
                         ("微博热搜", "知乎热榜", "B站热门", "抖音热搜", "豆瓣讨论")]
     input_strategies = [
         {"name": "仅标题+链接（去除社交媒体源）", "include_summary": False, "include_link": True,
-         "items": non_social_items, "skip_history": True},
+         "items": non_social_items, "skip_history": True, "relax_date": False},
         {"name": "仅标题+链接", "include_summary": False, "include_link": True,
-         "items": news_items, "skip_history": False},
+         "items": news_items, "skip_history": False, "relax_date": False},
         {"name": "完整内容（清洗HTML）", "include_summary": True, "include_link": True,
-         "items": news_items, "skip_history": False},
+         "items": news_items, "skip_history": False, "relax_date": False},
+        {"name": "降级策略：放宽日期过滤", "include_summary": False, "include_link": True,
+         "items": news_items, "skip_history": False, "relax_date": True},
     ]
 
-    MAX_TOTAL_ATTEMPTS = 6
+    MAX_TOTAL_ATTEMPTS = 8
     MIN_EXPECTED = 10
     total_attempt = 0
     best_partial = None
+    empty_result_count = 0
 
     for strategy_idx, strategy in enumerate(input_strategies):
         news_text = _build_news_text(strategy["items"], strategy["include_summary"],
                                      strategy.get("include_link", True))
         effective_history = "" if strategy.get("skip_history") else history_text
         user_prompt = user_prompt_template.format(
-            date=TODAY,
+            date=effective_date,
             count=len(strategy["items"]),
             news_text=news_text,
             history_text=effective_history,
         )
+
+        if strategy.get("relax_date"):
+            relax_suffix = (
+                f"\n\n【降级提醒】之前的筛选返回了空结果。请放宽日期限制："
+                f"不要排除任何新闻，无论其日期如何，从中选出最重要的10条。"
+                f"日期过滤在此模式下完全禁用，只按重要性排序选出10条。"
+            )
+            user_prompt += relax_suffix
 
         temp = fixed_temperature if fixed_temperature is not None else 0.3
         max_retries_for_strategy = 3 if strategy_idx == 0 else 2
@@ -527,7 +541,7 @@ def _try_filter_with_provider(provider_name: str, news_items: list[dict],
             logger.info(f"🤖 AI 筛选 [{label}]（{len(strategy['items'])} 条，{len(news_text)} 字符，temp={temp}）")
 
             result = _call_ai_once(client, model_name, system_prompt, user_prompt, label,
-                                   temperature=temp, max_tokens=max_tokens)
+                                   temperature=temp, max_tokens=max_tokens, date=effective_date)
 
             if result == "rate_limited":
                 wait_sec = 15 * (retry + 1)
@@ -544,7 +558,11 @@ def _try_filter_with_provider(provider_name: str, news_items: list[dict],
                 return result
 
             if len(result) == 0:
-                logger.warning(f"[{label}] AI 返回空数组，将重试")
+                empty_result_count += 1
+                logger.warning(f"[{label}] AI 返回空数组（第{empty_result_count}次），将重试")
+                if empty_result_count >= 2 and strategy_idx < len(input_strategies) - 1:
+                    logger.info(f"[{provider_name}] 连续返回空数组，跳到降级策略")
+                    break
                 continue
 
             if 0 < len(result) < MIN_EXPECTED:
@@ -652,13 +670,14 @@ def _backfill_sources(filtered_news: list[dict], raw_news: list[dict]) -> list[d
     return filtered_news
 
 
-def ai_filter_news(news_items: list[dict]) -> list[dict]:
+def ai_filter_news(news_items: list[dict], date: str = "") -> list[dict]:
     """用 AI 大模型筛选重大新闻，支持多提供商 fallback。"""
+    effective_date = date or TODAY
 
     system_prompt = load_prompt("filter_news.md")
     user_prompt_template = load_prompt("filter_news_user.md")
 
-    history_text = _load_history_titles(days=3)
+    history_text = _load_history_titles(days=3, date=effective_date)
     logger.info(f"📚 已加载历史新闻标题（{len(history_text)} 字符）")
 
     providers = _get_fallback_providers()
@@ -671,7 +690,8 @@ def ai_filter_news(news_items: list[dict]) -> list[dict]:
     for provider_name in providers:
         logger.info(f"🔄 尝试 AI 提供商: {provider_name}")
         result = _try_filter_with_provider(
-            provider_name, news_items, system_prompt, user_prompt_template, history_text
+            provider_name, news_items, system_prompt, user_prompt_template, history_text,
+            date=effective_date
         )
 
         if result and len(result) >= 10:
@@ -695,9 +715,10 @@ def ai_filter_news(news_items: list[dict]) -> list[dict]:
 # ── 生成 Markdown 日报 ───────────────────────────────
 
 
-def generate_markdown(filtered_news: list[dict]) -> str:
+def generate_markdown(filtered_news: list[dict], date: str = "") -> str:
     """生成 Markdown 格式的日报"""
-    lines = [f"# {TODAY} 重大新闻", ""]
+    effective_date = date or TODAY
+    lines = [f"# {effective_date} 重大新闻", ""]
 
     if not filtered_news:
         lines.append("今日暂无达到入选门槛的重大新闻。")
@@ -756,10 +777,10 @@ def main():
         logger.warning("无原始新闻数据，生成空报告")
 
     # 2. AI 筛选
-    filtered = ai_filter_news(news_items)
+    filtered = ai_filter_news(news_items, date=date)
 
     # 3. 生成 Markdown
-    md_content = generate_markdown(filtered)
+    md_content = generate_markdown(filtered, date=date)
     report_path = REPORTS_DIR / f"{date}.md"
     report_path.write_text(md_content, encoding="utf-8")
     logger.info(f"📝 日报已保存: {report_path}")
