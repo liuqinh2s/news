@@ -2,57 +2,9 @@
   "date": "2026-05-09",
   "news": [
     {
-      "title": "中东防空部署",
-      "summary": "以色列向阿联酋部署防空系统，此举将深刻冲击中东安全格局。阿联酋与以色列关系正常化后，军事合作进一步深化，可能引发地区国家连锁反应。此举不仅改变了中东地区的军事平衡，还可能影响地区国家间的联盟关系，对伊朗构成战略压力。美国在中东的军事存在与地区国家合作将更加紧密，可能加剧地区紧张局势。",
-      "reason": "中东安全格局重大变化，多国军事合作引发地区战略重组",
-      "impact_areas": [
-        "政治",
-        "地缘"
-      ],
-      "impact_level": "重大",
-      "sources": [
-        {
-          "name": "澎湃新闻",
-          "url": "https://m.thepaper.cn/detail/33122049"
-        }
-      ]
-    },
-    {
-      "title": "美伊海上冲突",
-      "summary": "美军称向两艘\"违反封锁\"的伊朗油轮开火，伊朗方面则指责美国进行\"鲁莽的军事冒险\"。这一事件发生在霍尔木兹海峡这一全球能源运输关键通道，可能导致国际油价波动。美伊紧张关系进一步升级，可能引发更广泛的地区冲突。联合国已对事件表示关注，呼吁各方保持克制。",
-      "reason": "霍尔木兹海峡冲突升级，全球能源通道安全受威胁",
-      "impact_areas": [
-        "地缘",
-        "经济金融"
-      ],
-      "impact_level": "重大",
-      "sources": [
-        {
-          "name": "澎湃新闻",
-          "url": "https://m.thepaper.cn/detail/33129040"
-        }
-      ]
-    },
-    {
-      "title": "美伊交火升级",
-      "summary": "美伊在霍尔木兹海峡水域再次发生交火，联合国秘书长对局势升级表示担忧。此次交火导致国际油价上涨，全球金融市场波动。伊朗警告过往船只远离美军舰艇，称要给美国\"上一课\"。美国则指责伊朗威胁国际航运自由。双方冲突持续升级，可能对全球能源供应和地区稳定造成严重影响。",
-      "reason": "美伊冲突升级，联合国介入调解，全球能源安全受威胁",
-      "impact_areas": [
-        "地缘",
-        "经济金融"
-      ],
-      "impact_level": "重大",
-      "sources": [
-        {
-          "name": "凤凰网",
-          "url": "https://news.ifeng.com/c/8syKJtpwN1p"
-        }
-      ]
-    },
-    {
-      "title": "伊美军舰冲突",
-      "summary": "伊武装部队在霍尔木兹海峡水域与美军舰发生\"零星冲突\"，双方互有指责。伊朗方面称美军舰艇\"非法进入\"伊朗水域，而美国则指责伊朗船只\"危险接近\"美军舰艇。霍尔木兹海峡是全球石油运输的关键通道，任何冲突都可能影响全球能源供应。中国作为伊朗的主要贸易伙伴，可能受到间接影响。",
-      "reason": "霍尔木兹海峡冲突，全球能源通道安全受威胁",
+      "title": "伊美霍尔木兹冲突升级",
+      "summary": "伊朗武装部队在霍尔木兹海峡水域与美军舰发生\"零星冲突\"，已致1死10伤。伊朗外长谴责美军事行动严重威胁国际航行自由，美国则指控伊朗进行\"reckless military adventure\"。这一冲突发生在全球重要石油运输通道，可能导致油价波动，并引发更广泛的中东地区紧张局势。",
+      "reason": "多源报道的国际冲突，影响全球能源安全",
       "impact_areas": [
         "地缘",
         "经济金融"
@@ -62,13 +14,57 @@
         {
           "name": "央视网",
           "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBJazcyVHdPc1NyeTZNNWRjWktDWGNORnNRV3lNUk81Ql9XRGdfNUgwc3o3QkE5M1UyU0JSUXYtT2pwc1ZUclJnLUlfSlN1ZFlyTXBTbVE1VDVxbHBaVWhGTHMweUlvZjJTYmNYZXVFVVRrVmxickhLVw?oc=5"
+        },
+        {
+          "name": "央视网",
+          "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE53clVwaHR5Z0hMRUVmc1g0WGNsdmVEamFVYnI2Ynl1MGQ0b3E2czZUSFUyMlZIdVgzUjJfdThMcEpVY2hYZ3hMY3plRERDd0t0aHpkSFExME5lTlNqTDhtbXY5aUZQZ0R4TkdvcWo1LVZ5VEc5S0J3UA?oc=5"
+        },
+        {
+          "name": "央视网",
+          "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE8xQU1vbnRaOHROSWd6cUstWEpXR0VnZUMzWUc5VUdDQmhnQlY1VUpuOVFGd1VrSXk2SkdhZk5KVWR4bGhRb1Z6WnV2R280ZUZqYVNaWS12ektrU0I4Q3RhMGg4QWpYek1xVFNyMjIyXy1xdnVwQ2Rocw?oc=5"
+        },
+        {
+          "name": "BBC",
+          "url": "https://www.bbc.com/news/articles/c99lpn9ze8ro?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "name": "NYTimes",
+          "url": "https://www.nytimes.com/live/2026/05/08/world/iran-strikes-trump-ceasefire-hormuz"
         }
       ]
     },
     {
-      "title": "伊朗指控美国",
-      "summary": "伊朗指责美国进行\"鲁莽的军事冒险\"，称美军在霍尔木兹海峡的行动威胁地区和平。伊朗最高领袖顾问表示，掌控霍尔木兹海峡堪比手握\"原子弹\"，显示伊朗对该战略通道的重视。国际社会对美伊紧张关系升级表示担忧，呼吁双方通过对话解决分歧。",
-      "reason": "伊朗强烈谴责美国军事行动，地区紧张局势加剧",
+      "title": "俄胜利日阅兵规模缩减",
+      "summary": "俄罗斯莫斯科红场将于9日举行胜利日阅兵，但参演人数和装备规模较往年有所缩减。分析认为这反映了普京政府面临的经济和地缘政治压力。阅兵式是俄罗斯展示军事实力和国家凝聚力的重要场合，规模缩减可能被视为俄罗斯国际地位变化的信号。",
+      "reason": "俄罗斯重要军事外交活动，反映国际格局变化",
+      "impact_areas": [
+        "地缘",
+        "政治"
+      ],
+      "impact_level": "重大",
+      "sources": [
+        {
+          "name": "凤凰网",
+          "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTFByWThWOWU1S2Q5c1lKNUZHajE2aDdpYjR2MFh6aFVVMERsTUxObEdMT2VmMVBXOElhdDJkUXhsZWNXRkdvRmZKVQ?oc=5"
+        },
+        {
+          "name": "凤凰网",
+          "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE5GSk9WV0ZhZklZMUFBdnBoMmxXMFNOclpscmNqd25nZm1lSEcxNmNzbUJYQ3JDVXpmYk02WlEzaEpWVmVhY0hDQw?oc=5"
+        },
+        {
+          "name": "凤凰网",
+          "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE9ZWl9oUnBwR2VIZFhZRVh4VnZpd1ZKR1QxVFJYTjhFMkNnTFM4d3lsazNVN2NvYm02Qy15ZWxxSVJzZHlKMUVySA?oc=5"
+        },
+        {
+          "name": "NYTimes",
+          "url": "https://www.nytimes.com/2026/05/09/world/europe/russia-victory-day-parade.html"
+        }
+      ]
+    },
+    {
+      "title": "匈牙利政权更迭",
+      "summary": "匈牙利即将举行新总理就职仪式，被描述为\"政权更迭\"党。现任总理欧尔班的忠实追随者纷纷跳船，彼得·马加尔准备接替欧尔班成为匈牙利新领导人。这一政治变化可能影响匈牙利在欧洲联盟中的立场以及与邻国的关系，标志着匈牙利政治格局的重大转变。",
+      "reason": "中东欧国家政权更迭，影响地区政治格局",
       "impact_areas": [
         "政治",
         "地缘"
@@ -77,29 +73,126 @@
       "sources": [
         {
           "name": "BBC",
-          "url": "https://www.bbc.com/news/articles/c99lpn9ze8ro?at_medium=RSS&at_campaign=rss"
+          "url": "https://www.bbc.com/news/articles/ce3pqvvzgnko?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "name": "NYTimes",
+          "url": "https://www.nytimes.com/2026/05/09/world/europe/hungary-orban-fidesz-magyar.html"
+        },
+        {
+          "name": "NYTimes",
+          "url": "https://www.nytimes.com/2026/05/09/world/europe/peter-magyar-hungary-viktor-orban.html"
         }
       ]
     },
     {
-      "title": "英国选举变局",
-      "summary": "英国地方选举工党失利，斯塔默称不会\"一走了之\"。此次选举结果被视为对工党政府的重大考验，可能影响英国政治格局。保守党和改革党在部分地区取得进展，而工党在传统优势区域失守。分析人士认为，这一结果反映了选民对当前政府政策的不满，可能促使工党调整政策方向。",
-      "reason": "英国地方选举工党失利，政治格局面临重大调整",
+      "title": "中国第四代量子计算机上线",
+      "summary": "中国第四代自主超导量子计算机\"本源悟空-180\"正式上线运行。这一量子计算机具有180个量子比特，代表了量子计算领域的重要进展。量子计算在密码破解、药物研发、材料科学等领域具有革命性潜力，中国的这一进展可能加速全球量子计算竞赛，并对未来科技格局产生深远影响。",
+      "reason": "中国科技重大突破，影响全球科技竞争格局",
       "impact_areas": [
+        "科技"
+      ],
+      "impact_level": "现象级",
+      "sources": [
+        {
+          "name": "央视网",
+          "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5IWXZEU2JZSzRvcUpzeUJYeHJpRGdCT0pzWUFseGhtTDFBR2gtWVkzNFlTVXJTSlBUR1gxRGlHLTE1a2VldlpyRGI3MEZkZ2pPZ3ZtWDhYbFNYYVoxejZ1UEhMTWw2Q3YydV9KVkozOXRXTXJtbnFOSA?oc=5"
+        }
+      ]
+    },
+    {
+      "title": "中国进出口超预期增长",
+      "summary": "中国4月出口（以美元计价）同比增14.1%，进口增25.3%，双双超出市场预期。进口增速显著高于出口，表明国内需求强劲复苏。这一数据可能影响全球贸易格局和中国经济政策走向，对相关产业链和跨国企业战略具有重要参考价值。",
+      "reason": "关键经济数据超预期，反映中国经济复苏态势",
+      "impact_areas": [
+        "经济金融",
+        "产业"
+      ],
+      "impact_level": "重大",
+      "sources": [
+        {
+          "name": "36氪",
+          "url": "https://www.36kr.com/newsflashes/3801467094867461"
+        }
+      ]
+    },
+    {
+      "title": "欧盟限制中国光伏融资",
+      "summary": "欧盟对中国逆变器融资实施禁令，这可能只是针对中国清洁能源产业限制的开始。禁令将影响中国光伏企业在欧洲市场的融资渠道，可能减缓欧洲可再生能源发展速度。这一举措反映了中欧在清洁能源领域的竞争加剧，并对全球碳中和进程产生潜在影响。",
+      "reason": "欧盟对中国清洁能源产业设限，影响全球碳中和进程",
+      "impact_areas": [
+        "经济金融",
+        "生态",
+        "科技"
+      ],
+      "impact_level": "重大",
+      "sources": [
+        {
+          "name": "财新网",
+          "url": "https://opinion.caixin.com/2026-05-09/102442280.html"
+        }
+      ]
+    },
+    {
+      "title": "洪迪厄斯\"号汉坦疫情",
+      "summary": "洪迪厄斯\"号邮轮爆发汉坦病毒疫情，引发全球关注。英国报告第三例疑似感染病例，多国展开乘客追踪行动。疫情发生在国际旅行恢复背景下，可能影响全球旅游业和公共卫生政策。汉坦病毒可引起严重出血热，死亡率较高，此次疫情规模和传播范围受到密切监测。",
+      "reason": "国际邮轮疫情爆发，威胁全球公共卫生安全",
+      "impact_areas": [
+        "公共卫生",
+        "社会"
+      ],
+      "impact_level": "重大",
+      "sources": [
+        {
+          "name": "财新网",
+          "url": "https://photos.caixin.com/2026-05-09/102442310.html"
+        },
+        {
+          "name": "BBC",
+          "url": "https://www.bbc.com/news/articles/c5y0gkg038yo?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "name": "BBC",
+          "url": "https://www.bbc.com/news/articles/clyp1505p84o?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "name": "BBC",
+          "url": "https://www.bbc.com/news/articles/c5yr41vq2ero?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "name": "NYTimes",
+          "url": "https://www.nytimes.com/2026/05/08/world/hantavirus-mv-hondius-cruise.html"
+        }
+      ]
+    },
+    {
+      "title": "美国公布UFO相关文件",
+      "summary": "美国国防部公布首批UFO相关文件，详细描述了军方 encounters with unidentified aerial phenomena 的案例。文件揭示了政府对这些现象的了解程度，以及调查过程中的挑战。这一发布可能影响公众对不明飞行物的认知，并推动政府对UFO现象更透明的态度，同时也可能引发新的国家安全和航空航天领域讨论。",
+      "reason": "美国政府首次系统性公开UFO文件，引发公众关注",
+      "impact_areas": [
+        "科技",
         "政治"
       ],
       "impact_level": "重大",
       "sources": [
         {
           "name": "凤凰网",
-          "url": "https://news.ifeng.com/c/8syeNQAJCwE"
+          "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE5MTVFIU2QwSEU3M3pIOGtuSkFRTjdwSkxPTDBIXzNaeWg2eHd2Wnh6TVRjZ1ZwVmhYRGNPcTZwc0hJbkVYREQwLQ?oc=5"
+        },
+        {
+          "name": "BBC",
+          "url": "https://www.bbc.com/news/articles/c1m2epkey44o?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "name": "NYTimes",
+          "url": "https://www.nytimes.com/2026/05/08/us/politics/ufo-sightings-us-government.html"
         }
       ]
     },
     {
-      "title": "工党选举失利",
-      "summary": "英国地方选举结果显示，斯塔默领导的工党遭遇重大失利，保守党和改革党在多个地区取得进展。此次选举被视为对工党政府执政能力的考验，结果可能影响英国未来政治走向。工党在传统优势区域失守，显示选民对当前政策的不满。斯塔默表示不会因此辞职，但承诺反思和调整政策。",
-      "reason": "英国工党地方选举惨败，政治格局面临重组",
+      "title": "英国地方选举工党失利",
+      "summary": "英国地方选举结果显示，斯塔默领导的工党遭受严重挫折。在伦敦外围的一个选区，保守党成功阻止了改革党的挑战。这一结果可能影响英国政治格局和未来大选走向，反映了选民对各党派的支持度变化，以及当前政治议题的优先级。",
+      "reason": "英国地方选举结果反映政治格局变化",
       "impact_areas": [
         "政治"
       ],
@@ -108,58 +201,33 @@
         {
           "name": "NYTimes",
           "url": "https://www.nytimes.com/live/2026/05/08/world/uk-local-elections-results"
-        }
-      ]
-    },
-    {
-      "title": "UFO文件公布",
-      "summary": "五角大楼公布UFO相关文件，揭示美国政府掌握的不明飞行物信息。文件详细描述了多起UFO目击事件，包括飞行器的不寻常特征和运动方式。这一公布引发公众广泛关注，可能改变公众对UFO现象的认知。专家表示，这些文件为研究不明空中现象提供了官方视角，有助于科学界更好地理解这一现象。",
-      "reason": "美国政府公布UFO文件，官方视角引发公众关注",
-      "impact_areas": [
-        "科技",
-        "政治"
-      ],
-      "impact_level": "重大",
-      "sources": [
-        {
-          "name": "澎湃新闻",
-          "url": "https://m.thepaper.cn/detail/33131136"
-        }
-      ]
-    },
-    {
-      "title": "美国政府UFO文件",
-      "summary": "美国政府公布160多份UFO相关文件，详细描述了不明飞行物的特征和目击事件。文件显示，许多UFO目击事件具有无法解释的特征，如突然加速、隐形能力等。这一公布引发了公众和科学界的广泛关注，可能推动对不明空中现象的更多研究。部分专家认为，这些文件为UFO研究提供了官方视角，有助于科学界更好地理解这一现象。",
-      "reason": "美国政府公布大量UFO文件，官方视角推动科学认知",
-      "impact_areas": [
-        "科技",
-        "政治"
-      ],
-      "impact_level": "重大",
-      "sources": [
+        },
         {
           "name": "NYTimes",
-          "url": "https://www.nytimes.com/2026/05/08/us/politics/ufo-sightings-us-government.html"
+          "url": "https://www.nytimes.com/2026/05/08/world/europe/uk-elections-local-takeaways.html"
+        },
+        {
+          "name": "NYTimes",
+          "url": "https://www.nytimes.com/live/2026/05/08/world/uk-local-elections-results/in-one-borough-on-londons-outer-reaches-conservatives-stave-off-reform-uk"
         }
       ]
     },
     {
-      "title": "科创板欺诈退市",
-      "summary": "科创板再现欺诈发行退市案例，中介机构与实控人联合先行赔付。这一事件显示中国资本市场对欺诈行为的零容忍态度，有助于保护投资者权益。科创板作为支持科技创新的重要平台，其健康发展对国家创新战略具有重要意义。此次退市案例的处理方式为类似事件提供了参考，有助于完善资本市场制度。",
-      "reason": "科创板欺诈发行退市，资本市场制度建设进一步完善",
+      "title": "黄金ETF创纪录增仓",
+      "summary": "2026年一季度国内黄金ETF增仓量为50.438吨，同比增长114.88%，创历史新高。这一现象反映了投资者对黄金作为避险资产的强烈需求，可能预示着市场对经济不确定性的担忧加剧。央行连续增持黄金储备也反映了去美元化趋势加速，对全球货币体系可能产生深远影响。",
+      "reason": "黄金ETF增仓创纪录，反映市场避险情绪升温",
       "impact_areas": [
-        "经济金融",
-        "科技"
+        "经济金融"
       ],
       "impact_level": "重大",
       "sources": [
         {
-          "name": "财新网",
-          "url": "https://finance.caixin.com/2026-05-09/102442209.html"
+          "name": "36氪",
+          "url": "https://www.36kr.com/newsflashes/3801447586340616"
         }
       ]
     }
   ],
-  "total_fetched": 198,
-  "generated_at": "2026-05-09T07:28:25.788370+08:00"
+  "total_fetched": 275,
+  "generated_at": "2026-05-09T12:28:04.985801+08:00"
 }
