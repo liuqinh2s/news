@@ -1,0 +1,201 @@
+{
+  "date": "2026-05-12",
+  "news": [
+    {
+      "title": "汉坦病毒邮轮危机",
+      "summary": "涉疫邮轮'洪迪厄斯'号完成人员转运，多国出现确诊病例。世卫组织报告病例增至9例，隔离检疫措施持续实施。美国乘客在 Nebraska 被隔离，官方称公众感染风险'非常低'。该事件引发国际社会对公共卫生安全的关注，各国加强边境检疫措施。",
+      "reason": "多国媒体报道，公共卫生安全受威胁，持续发酵",
+      "impact_areas": [
+        "公共卫生",
+        "国际关系"
+      ],
+      "impact_level": "重大",
+      "sources": [
+        {
+          "name": "BBC",
+          "url": "https://www.bbc.com/news/articles/cjep78l5835o?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "name": "NYTimes",
+          "url": "https://www.nytimes.com/article/hantavirus-cruise-ship-outbreak-hondius.html"
+        }
+      ]
+    },
+    {
+      "title": "伊美冲突持续升级",
+      "summary": "特朗普称伊朗停火协议'处于生命支持状态'，称其为'垃圾'。伊朗议会坚持'14点提案'不可替代，武装部队已做好应对任何侵略行为的准备。伊朗官员表示，伊美就浓缩铀处置方式存在严重分歧。霍尔木兹海峡局势紧张，国际油价预测将保持在每桶100美元以上。",
+      "reason": "地缘政治紧张升级，影响全球能源安全，多国密集报道",
+      "impact_areas": [
+        "地缘政治",
+        "经济金融"
+      ],
+      "impact_level": "重大",
+      "sources": [
+        {
+          "name": "BBC",
+          "url": "https://www.bbc.com/news/articles/cvgznxn18zgo?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "name": "NYTimes",
+          "url": "https://www.nytimes.com/live/2026/05/11/world/iran-war-trump-hormuz"
+        },
+        {
+          "name": "Reuters",
+          "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNTTFIeHh6enp1TW1pNmRpVy1pZ1ZtaVFvNTF2emxOOUg3VXV1RWE3SkFqb3pwY28yS0pBTDF3MjRFSVNRclFhTWtCZlN0SmQ1MDV2YUZJSXJhdXRUdldyM3VZbEkzYnIxUXlvSk1JREJwVURVVGJhcV9vcEU2WnlLcVZKaXZQX0Fac1VEWW1VZjlwdDNNWHp5ZENCNTROaEhsVFRuQ2ZUd0gwTmc?oc=5"
+        }
+      ]
+    },
+    {
+      "title": "特朗普即将访华",
+      "summary": "美国总统特朗普表示非常期待即将到来的中国之行，称这是'关键时刻'的高层互动。马斯克和蒂姆·库克等美国企业CEO预计将陪同特朗普访华。人民日报发表钟声文章，强调以大历史观把握中美关系发展方向。此次访问将在中美关系的关键时刻进行，备受国际社会关注。",
+      "reason": "中美关系重要事件，全球关注度高，可能影响全球经济格局",
+      "impact_areas": [
+        "政治",
+        "经济金融"
+      ],
+      "impact_level": "重大",
+      "sources": [
+        {
+          "name": "澎湃新闻",
+          "url": "https://m.thepaper.cn/detail/33160584"
+        },
+        {
+          "name": "凤凰网",
+          "url": "https://news.ifeng.com/c/8t3e0pLOqqq"
+        },
+        {
+          "name": "BBC",
+          "url": "https://www.bbc.com/news/articles/c5yx757w048o?at_medium=RSS&at_campaign=rss"
+        }
+      ]
+    },
+    {
+      "title": "沪指创11年新高",
+      "summary": "A股市场大幅上涨，沪指重返4200点，创近11年来新高。市场成交量显著放大，投资者情绪高涨。分析认为，这一突破可能吸引更多资金入市，但也需警惕市场过热风险。此次上涨反映了市场对中国经济复苏的信心增强，同时也对投资者资产配置策略产生重要影响。",
+      "reason": "股市创11年新高，对投资者信心和市场情绪有重大影响",
+      "impact_areas": [
+        "经济金融"
+      ],
+      "impact_level": "重大",
+      "sources": [
+        {
+          "name": "澎湃新闻",
+          "url": "https://m.thepaper.cn/detail/33157553"
+        },
+        {
+          "name": "财新网",
+          "url": "https://finance.caixin.com/2026-05-12/102443137.html"
+        }
+      ]
+    },
+    {
+      "title": "AI智能体发展获规范",
+      "summary": "中国三部门联合发文规范AI智能体发展，强调规范与创新并举。文件指出，AI智能体作为人工智能发展新方向，需要在保障安全的前提下促进创新发展。此举旨在引导AI产业健康发展，防范潜在风险，同时推动技术创新与产业应用深度融合。",
+      "reason": "对AI产业发展有重要指导意义，影响科技创新方向",
+      "impact_areas": [
+        "科技",
+        "政策"
+      ],
+      "impact_level": "重大",
+      "sources": [
+        {
+          "name": "财新网",
+          "url": "https://www.caixin.com/2026-05-12/102443126.html"
+        }
+      ]
+    },
+    {
+      "title": "农业法修订启动",
+      "summary": "中国农业法再启修订工作，粮食产销区利益补偿机制等拟入法。此次修订旨在完善农业法律体系，保障国家粮食安全，促进农业可持续发展。修订内容重点关注粮食生产、农业支持保护、农村土地制度等方面，将对农业生产和农民权益产生深远影响。",
+      "reason": "涉及粮食安全和国家战略，影响农业生产和农民利益",
+      "impact_areas": [
+        "政策",
+        "经济金融"
+      ],
+      "impact_level": "重大",
+      "sources": [
+        {
+          "name": "财新网",
+          "url": "https://china.caixin.com/2026-05-12/102443130.html"
+        }
+      ]
+    },
+    {
+      "title": "软银布局储能产业",
+      "summary": "软银宣布进军储能产业，计划到2028年实现吉瓦级产能，重点关注'不起火'电池技术。这一举措反映了科技巨头对新能源领域的战略布局，可能加速储能技术发展和成本下降。此举也将对全球能源转型和碳中和目标实现产生积极影响。",
+      "reason": "科技巨头布局新能源领域，可能影响能源产业格局",
+      "impact_areas": [
+        "科技",
+        "生态"
+      ],
+      "impact_level": "重大",
+      "sources": [
+        {
+          "name": "36氪",
+          "url": "https://www.36kr.com/newsflashes/3805016745287168"
+        }
+      ]
+    },
+    {
+      "title": "汶川地震18周年",
+      "summary": "今天是汶川特大地震18周年纪念日，社会各界举行纪念活动。媒体回顾了地震救援和重建历程，展示了灾区18年来的巨大变化。这一事件成为中国应急管理发展的重要转折点，推动了防灾减灾体系建设和灾后重建经验的总结，对提升国家应急能力具有重要意义。",
+      "reason": "社会关注度高，具有纪念意义和社会教育价值",
+      "impact_areas": [
+        "社会"
+      ],
+      "impact_level": "重大",
+      "sources": [
+        {
+          "name": "澎湃新闻",
+          "url": "https://m.thepaper.cn/detail/33155409"
+        },
+        {
+          "name": "B站热门",
+          "url": "https://b23.tv/BV1hZ5t6ME4A"
+        }
+      ]
+    },
+    {
+      "title": "恶意退款引关注",
+      "summary": "针对电商平台恶意退款退货问题，央视《新闻1+1》节目指出，这一问题不能仅靠'较真'解决，需要平台、商家和监管部门多方协作。专家建议完善相关法律法规，加强技术手段防范，同时提高消费者诚信意识。这一问题反映了电商消费环境中的诚信挑战，需要系统性解决。",
+      "reason": "涉及电商消费环境，影响消费者权益和市场秩序",
+      "impact_areas": [
+        "经济金融",
+        "社会"
+      ],
+      "impact_level": "重大",
+      "sources": [
+        {
+          "name": "央视网",
+          "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5MbHkyNlVHWmZ0T3NqbE1MdGJyc3doNlNjM0hzRE5MRFR0SEM0UDFYSGVKWFFmU3NXdWl2S3IxSFpLbnNUQWRJZjl6b3pPMlduQUNKczNHZk9lZUpuWkZaQ244SmRJeTNhZFdaMmkteW05S2hNbFJ5dw?oc=5"
+        },
+        {
+          "name": "凤凰网",
+          "url": "https://news.ifeng.com/c/8t3IBAioz3p"
+        }
+      ]
+    },
+    {
+      "title": "他信获假释出狱",
+      "summary": "泰国前总理他信获假释出狱，结束部分刑期。他信身穿标志性白衬衫宣布'不再从政'，但其政治前景仍受关注。他信的获释可能对泰国政治格局产生影响，引发国内外对其政治角色的猜测。这一事件也反映了泰国司法与政治的复杂关系。",
+      "reason": "可能影响泰国政治格局，国际关注度较高",
+      "impact_areas": [
+        "政治",
+        "国际关系"
+      ],
+      "impact_level": "重大",
+      "sources": [
+        {
+          "name": "财新网",
+          "url": "https://international.caixin.com/2026-05-12/102443139.html"
+        },
+        {
+          "name": "澎湃新闻",
+          "url": "https://m.thepaper.cn/detail/33160485"
+        }
+      ]
+    }
+  ],
+  "total_fetched": 193,
+  "generated_at": "2026-05-12T07:27:22.674983+08:00"
+}
