@@ -2,151 +2,112 @@
   "date": "2026-05-12",
   "news": [
     {
-      "title": "英国首相职位危机",
-      "summary": "英国首相斯塔默面临党内反叛情绪，施罗德资产管理公司表示因担心斯塔默可能下台而避开英国国债。这一政治危机可能导致英国金融市场动荡，影响英镑汇率和英国国债市场。市场担忧英国政治不稳定可能引发经济政策不确定性，进而影响投资者信心。",
-      "reason": "英国政治危机可能引发金融市场动荡，具有实质影响力",
+      "title": "特朗普访华引热议",
+      "summary": "美国前总统特朗普率领包括马斯克、库克在内的17家美企高管访华，代表团名单中黄仁勋未在列引发猜测。此次访问被视为中美关系的重要互动，双方在人工智能、贸易等领域展开深入交流，对全球产业格局和地缘政治产生深远影响。访问期间，中美元首会晤讨论了台湾问题、贸易合作等关键议题，释放出双边关系可能缓和的信号。",
+      "reason": "多平台热议，中美关系牵动全球",
       "impact_areas": [
         "政治",
-        "经济金融"
+        "经济",
+        "科技"
       ],
-      "impact_level": "重大",
+      "impact_level": "现象级",
       "sources": [
         {
-          "name": "财新网",
-          "url": "https://database.caixin.com/2026-05-12/102443243.html"
+          "name": "澎湃新闻",
+          "url": "https://m.thepaper.cn/detail/33163218"
+        },
+        {
+          "name": "虎嗅",
+          "url": "https://www.huxiu.com/article/4857732.html"
+        },
+        {
+          "name": "虎嗅",
+          "url": "https://www.huxiu.com/article/4857729.html"
         }
       ]
     },
     {
-      "title": "英国首相面临下台风险",
-      "summary": "英国首相斯塔默面临党内日益严重的反叛情绪，多位内阁成员和议员公开表示对其领导能力的不满。政治分析人士认为，如果党内反叛持续加剧，斯塔默可能面临不信任投票甚至被迫下台的风险。这一政治动荡可能影响英国政府的稳定性和政策连续性，对英国经济和金融市场造成冲击。",
-      "reason": "英国首相面临下台风险，可能引发政治动荡，具有实质影响力",
+      "title": "伊朗战事升级影响全球",
+      "summary": "伊朗战争持续升级，特朗普称停火协议处于'生命维持'状态。阿联酋被曝秘密袭击伊朗，美国对伊朗向中国出口石油实施新制裁。战争导致日本零食包装改为黑白，全球能源供应面临长期危机。多国警告将面临长期经济困境，国际社会对和平解决方案的呼声日益高涨，霍尔木兹海峡航运安全受到严重威胁。",
+      "reason": "多源密集报道，影响全球能源安全",
+      "impact_areas": [
+        "地缘",
+        "经济金融",
+        "生态"
+      ],
+      "impact_level": "现象级",
+      "sources": [
+        {
+          "name": "BBC",
+          "url": "https://www.bbc.com/news/articles/cvgznxn18zgo?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "name": "Reuters",
+          "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPRVR5MnozSldhdWdnVTRZakJJMG8za2l6V0xUSjhFOUwtVTY0aWdJa2U5M1dWM29Qa012QS14ZUxpdWJoUkRuRzBpNXhOR2tyNjZuYUtKYVV1RjM4bExEMWxOZ09MbHkrX1F1UNJjaUVJTVlqOFhRek5jRnhPTWI2WjdOT1VjTk0tUTV3d29qZm9SVEF4SUdEcTZVRkxFQWpxdU5lOUd3S3hOYmpyN1ZZMA?oc=5"
+        },
+        {
+          "name": "NYTimes",
+          "url": "https://www.nytimes.com/live/2026/05/11/world/iran-war-trump-hormuz"
+        },
+        {
+          "name": "凤凰网",
+          "url": "https://news.ifeng.com/c/8t4P5pr0mGW"
+        }
+      ]
+    },
+    {
+      "title": "英国首相面临辞职压力",
+      "summary": "英国首相斯塔默面临内阁成员要求设定辞职时间表的压力。尽管如此，斯塔默表示将继续执政，专注于国家事务。这一政治动荡引发英国政坛震动，可能影响英国在欧洲的地位和政策方向，同时对英欧关系和英国国内经济政策产生深远影响，英镑汇率出现波动。",
+      "reason": "多平台报道，英国政坛重大变动",
       "impact_areas": [
         "政治",
-        "经济金融"
-      ],
-      "impact_level": "重大",
-      "sources": [
-        {
-          "name": "财新网",
-          "url": "https://database.caixin.com/2026-05-12/102443242.html"
-        }
-      ]
-    },
-    {
-      "title": "日本央行或迎加息",
-      "summary": "日本央行委员山口广秀发表讲话警示通胀风险，暗示下月有可能加息。这一表态与日本央行长期以来的超宽松货币政策形成鲜明对比，引发市场对日本货币政策转向的预期。如果日本央行真的加息，将对全球金融市场产生重大影响，可能导致日元升值、日本国债收益率上升，并影响全球资本流动格局。",
-      "reason": "日本央行可能加息，对全球金融市场有重大影响，是消息面信号",
-      "impact_areas": [
-        "经济金融"
-      ],
-      "impact_level": "重大",
-      "sources": [
-        {
-          "name": "财新网",
-          "url": "https://database.caixin.com/2026-05-12/102443240.html"
-        }
-      ]
-    },
-    {
-      "title": "美伊和平谈判受挫",
-      "summary": "霍尔木兹海峡四艘液体散货船通过，这一举动被视为美伊和平谈判受挫的信号。特朗普政府近期对伊朗采取强硬立场，称停火协议\"濒临死亡\"。美伊关系紧张可能导致霍尔木兹海峡这一全球能源运输关键通道的不稳定，进而影响全球石油供应和价格，对全球经济产生深远影响。",
-      "reason": "美伊关系紧张，可能影响全球能源供应，具有实质影响力",
-      "impact_areas": [
-        "地缘",
-        "经济金融"
-      ],
-      "impact_level": "重大",
-      "sources": [
-        {
-          "name": "财新网",
-          "url": "https://database.caixin.com/2026-05-12/102443235.html"
-        }
-      ]
-    },
-    {
-      "title": "特朗普称伊朗停火命悬一线",
-      "summary": "美国总统特朗普表示伊朗停火协议处于\"massive life support\"状态，暗示美和平谈判可能失败。特朗普称美伊停火协议\"濒临死亡\"，消息称美方或恢复对伊军事行动。这一表态加剧了中东地区紧张局势，可能导致霍尔木兹海峡这一全球能源运输关键通道的不稳定，对全球石油供应和价格产生重大影响。",
-      "reason": "美伊关系紧张，可能引发地区冲突，具有高热度",
-      "impact_areas": [
-        "地缘",
-        "政治"
+        "经济"
       ],
       "impact_level": "重大",
       "sources": [
         {
           "name": "BBC",
-          "url": "https://www.bbc.com/news/articles/cvgznxn18zgo?at_medium=RSS&at_campaign=rss"
-        }
-      ]
-    },
-    {
-      "title": "特朗普称伊朗停火协议命悬一线",
-      "summary": "美国总统特朗普表示伊朗停火协议处于\"on life support\"状态，随着和平谈判希望减弱，这一表态加剧了中东地区紧张局势。特朗普称美伊停火协议\"濒临死亡\"，消息称美方或恢复对伊军事行动。这一表态与BBC报道同一事件，多源报道显示美伊关系紧张，可能引发地区冲突，对全球能源供应和价格产生重大影响。",
-      "reason": "美伊关系紧张，与BBC报道同一事件，多源报道，具有高热度",
-      "impact_areas": [
-        "地缘",
-        "政治"
-      ],
-      "impact_level": "重大",
-      "sources": [
+          "url": "https://www.bbc.com/news/articles/cwy2k7re9jdo?at_medium=RSS&at_campaign=rss"
+        },
         {
           "name": "Reuters",
-          "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNTTFIeHh6enp1TW1pNmRpVy1pZ1ZtaVFvNTF2emxOOUg3VXV1RWE3SkFqb3pwY282S0pBTDF3MjRFSVNRclFhTWtCZlN0SmQ1MDV2YUZJSXJhdXRUdldyM3VZbEkzYnIxUXlvSk1JREJwVURVVGJhcV9vcEU2WnlLcVZKaXZQX0Fac1VEWW1VZjlwdDNNWHp5ZENCNTROaEhsVFRuQ2ZUd0gwTmc?oc=5"
-        }
-      ]
-    },
-    {
-      "title": "美伊冲突或引发能源危机",
-      "summary": "《纽约时报》报道，随着特朗普称伊朗停火协议\"命悬一线\"，长期能源危机正在显现。美伊关系紧张可能导致霍尔木兹海峡这一全球能源运输关键通道的不稳定，进而影响全球石油供应和价格。分析人士警告，如果美伊冲突升级，可能导致全球油价大幅上涨，对全球经济产生深远影响，特别是对依赖石油进口的国家和行业。",
-      "reason": "美伊冲突可能引发能源危机，多源报道同一事件，具有高热度",
-      "impact_areas": [
-        "地缘",
-        "经济金融"
-      ],
-      "impact_level": "重大",
-      "sources": [
+          "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxONmlLX0hoVzVxNW1ySmRxZjQ4a19tODFUZlBqVWpYMUIzOGxYM1AwOHZVclNkcGVJTmx5d1dBWjBqRTBVVGl1TlgyQmZucmNqMllwZHQwU0tCbjJhaEpzVUlKX2F2VzFRRS1OY0RIWURzMjg5RjhGa1FnWDUxaDc5MHZaVmtlSWY1aTdEX1RMWmVpdTZELW9Rd0xJTTdNMFU?oc=5"
+        },
         {
           "name": "NYTimes",
-          "url": "https://www.nytimes.com/live/2026/05/11/world/iran-war-trump-hormuz"
+          "url": "https://www.nytimes.com/live/2026/05/12/world/uk-starmer"
         }
       ]
     },
     {
-      "title": "宇树发布载人变形机甲",
-      "summary": "中国科技公司宇树发布GD01载人变形机甲，售价390万元起。这款产品可实现人形与车辆两种形态转换，配备先进的人工智能系统和多种传感器。这一发布标志着中国在机器人技术领域的重大突破，可能改变未来人机交互和特种作业方式，对军事、救援、物流等多个领域产生深远影响。",
-      "reason": "科技突破，机器人技术重大进展，科技类新闻权重高",
-      "impact_areas": [
-        "科技"
-      ],
-      "impact_level": "重大",
-      "sources": [
-        {
-          "name": "36氪",
-          "url": "https://www.36kr.com/newsflashes/3805805349871360"
-        }
-      ]
-    },
-    {
-      "title": "中国攻克芯片光刻胶难题",
-      "summary": "上海AI实验室联合团队宣布成功攻克芯片核心材料光刻胶稳定制备难题。这一突破解决了芯片制造中的\"卡脖子\"问题，对中国半导体产业发展具有重要意义。光刻胶是芯片制造过程中的关键材料，其稳定制备技术长期被国外垄断。这一突破将有助于提升中国芯片制造能力，减少对进口依赖，对全球半导体产业格局可能产生深远影响。",
-      "reason": "科技突破，解决芯片\"卡脖子\"问题，科技类新闻权重高",
+      "title": "中美AI发展路径分化",
+      "summary": "中美AI发展呈现不同路径，中国提出'中等技术生态'战略试图超越硅谷霸权。海外AI赛道出现调整，引发市场担忧。快手重组视频生成模型可灵AI，预期年收入超3亿美元。AI技术在各领域加速应用，从教育到医疗，从金融到制造业，正在重塑全球产业格局和就业市场，同时引发数据隐私和伦理问题的新讨论。",
+      "reason": "科技前沿，影响深远",
       "impact_areas": [
         "科技",
-        "经济金融"
+        "经济金融",
+        "社会"
       ],
       "impact_level": "重大",
       "sources": [
         {
-          "name": "36氪",
-          "url": "https://www.36kr.com/newsflashes/3805700079721985"
+          "name": "虎嗅",
+          "url": "https://www.huxiu.com/article/4857750.html"
+        },
+        {
+          "name": "虎嗅",
+          "url": "https://www.huxiu.com/article/4857726.html"
+        },
+        {
+          "name": "财新网",
+          "url": "https://www.caixin.com/2026-05-12/102443271.html"
         }
       ]
     },
     {
-      "title": "央行加强汇率风险管理",
-      "summary": "中国人民银行发布通知，指导金融机构提供汇率避险服务，旨在营造稳定的汇率环境。这一政策举措反映了央行对汇率波动风险的重视，可能包括提供更多汇率避险工具、加强外汇市场监测等措施。这一政策将有助于企业和个人更好地管理汇率风险，稳定市场预期，对维护金融稳定和促进外贸发展具有积极意义。",
-      "reason": "央行政策干预，是消息面信号，对金融市场有重大影响",
+      "title": "A股创11年新高",
+      "summary": "A股市场创下11年来新高，两融余额达到2.8万亿元创历史新高。这一现象表明市场风险偏好提升，投资者信心增强。同时，人民币需求升温，境外货币当局动用的双边本币互换余额创两年新高，反映国际对中国经济和金融市场的信心增强。这一趋势可能吸引更多外资流入中国股市，推动市场进一步上涨，但也引发对资产泡沫的担忧。",
+      "reason": "市场信号强劲，创历史新高",
       "impact_areas": [
         "经济金融"
       ],
@@ -154,11 +115,103 @@
       "sources": [
         {
           "name": "财新网",
-          "url": "https://finance.caixin.com/2026-05-12/102443185.html"
+          "url": "https://finance.caixin.com/2026-05-12/102443295.html"
+        },
+        {
+          "name": "财新网",
+          "url": "https://database.caixin.com/2026-05-12/102443375.html"
+        }
+      ]
+    },
+    {
+      "title": "腾讯收购喜马拉雅获批",
+      "summary": "市场监管总局附条件批准腾讯收购喜马拉雅股权案，腾讯回应将确保交易依法合规推进。这一收购案涉及中国互联网和音频内容领域的重要整合，可能改变中国数字内容产业格局。交易完成后，腾讯将进一步扩大在音频内容领域的影响力，与喜马拉雅形成协同效应，为用户提供更丰富的内容服务，同时可能加剧互联网平台领域的竞争。",
+      "reason": "互联网巨头并购，影响产业格局",
+      "impact_areas": [
+        "科技",
+        "经济"
+      ],
+      "impact_level": "重大",
+      "sources": [
+        {
+          "name": "澎湃新闻",
+          "url": "https://m.thepaper.cn/detail/33164785"
+        },
+        {
+          "name": "澎湃新闻",
+          "url": "https://m.thepaper.cn/detail/33164275"
+        },
+        {
+          "name": "36氪",
+          "url": "https://www.36kr.com/newsflashes/3806166335348487"
+        }
+      ]
+    },
+    {
+      "title": "国内航线燃油附加费上调",
+      "summary": "国内航线燃油附加费将于5月16日起上调，单程最高达170元。这一调整与国际油价上涨和航空公司运营成本增加有关。燃油附加费上调将增加旅客出行成本，可能影响航空市场需求，同时也反映能源价格波动对交通运输行业的持续影响。航空公司将通过这一措施部分传导成本压力，维持盈利能力，但可能抑制部分航空出行需求。",
+      "reason": "影响民生出行，反映能源成本变化",
+      "impact_areas": [
+        "经济金融",
+        "社会"
+      ],
+      "impact_level": "重大",
+      "sources": [
+        {
+          "name": "澎湃新闻",
+          "url": "https://m.thepaper.cn/detail/33164276"
+        }
+      ]
+    },
+    {
+      "title": "美国汽油价格飙升",
+      "summary": "美国内汽油价格在过去70天内飙升逾50%，特朗普表示有意取消汽油税以缓解消费者压力。油价快速上涨对美国家庭预算和通胀压力产生直接影响，可能影响消费者支出和经济复苏。同时，高油价也对全球能源市场产生连锁反应，可能加速各国对新能源和替代能源的投资，推动能源结构转型，并对全球通胀形势产生持续影响。",
+      "reason": "价格创近期新高，影响民生和经济",
+      "impact_areas": [
+        "经济金融",
+        "生态"
+      ],
+      "impact_level": "重大",
+      "sources": [
+        {
+          "name": "财新网",
+          "url": "https://international.caixin.com/2026-05-12/102443286.html"
+        }
+      ]
+    },
+    {
+      "title": "中国汽车销量同比下跌",
+      "summary": "4月国内汽车销量同比下跌逾两成，显示内需仍待提振。这一数据反映了中国汽车市场面临的挑战，包括消费信心不足、市场竞争加剧等因素。汽车销量下滑可能影响相关产业链，包括零部件制造、汽车金融服务等。同时，这也可能加速新能源汽车和智能网联汽车的发展，推动行业转型升级，对汽车产业的技术路线和竞争格局产生深远影响。",
+      "reason": "经济先行指标，反映内需状况",
+      "impact_areas": [
+        "经济金融",
+        "科技"
+      ],
+      "impact_level": "重大",
+      "sources": [
+        {
+          "name": "财新网",
+          "url": "https://www.caixin.com/2026-05-12/102443305.html"
+        }
+      ]
+    },
+    {
+      "title": "快手重组AI视频模型",
+      "summary": "快手拟重组视频生成模型可灵AI，预期年收入超3亿美元。这一举措反映中国互联网公司在AI领域的战略布局，特别是在生成式AI领域的竞争。快手作为中国领先的短视频平台，通过AI技术提升内容创作效率和用户体验，可能改变短视频行业的竞争格局和技术路线。同时，这也表明中国科技企业在AI领域的投入和商业化进程加速，与国际科技巨头形成新的竞争态势。",
+      "reason": "科技巨头AI布局，商业化前景广阔",
+      "impact_areas": [
+        "科技",
+        "经济"
+      ],
+      "impact_level": "重大",
+      "sources": [
+        {
+          "name": "财新网",
+          "url": "https://www.caixin.com/2026-05-12/102443271.html"
         }
       ]
     }
   ],
-  "total_fetched": 282,
-  "generated_at": "2026-05-12T12:28:05.161924+08:00"
+  "total_fetched": 317,
+  "generated_at": "2026-05-12T19:28:32.412233+08:00"
 }
