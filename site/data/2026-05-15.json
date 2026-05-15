@@ -2,59 +2,49 @@
   "date": "2026-05-15",
   "news": [
     {
-      "title": "中美元首会晤",
-      "summary": "2026年5月15日，中国国家主席习近平与美国总统特朗普在北京中南海举行会晤。双方就中美关系达成重要共识，确立了两国建设性战略稳定关系的新定位。此次会晤正值中美关系关键时期，双方通过小范围茶叙等方式进行了深入交流。特朗普在会晤中表现出对中国文化的兴趣，特别要求无糖可乐。此次会晤为中美关系未来发展指明了方向，对全球政治经济格局将产生深远影响。",
-      "reason": "全球最重要的双边关系达成新定位，影响国际格局走向",
+      "title": "中美元首北京会晤",
+      "summary": "中国国家主席与美国总统在北京举行会晤，双方就中美关系及共同关心的国际和地区问题深入交换意见。此次会晤为两国关系定调，强调\"建设性战略稳定关系\"，涉及经贸、科技、地区安全等多个领域。中方表示愿与美方共同努力，推动两国关系健康稳定发展。美方则关注贸易平衡、市场准入等议题。此次会晤对全球政治经济格局产生深远影响。",
+      "reason": "多平台破圈，中美关系全球关注，影响重大",
       "impact_areas": [
         "政治",
-        "经济",
-        "外交"
+        "经济金融"
       ],
       "impact_level": "现象级",
       "sources": [
         {
           "name": "澎湃新闻",
-          "url": "https://m.thepaper.cn/detail/33181499"
-        },
-        {
-          "name": "凤凰网",
-          "url": "https://news.ifeng.com/c/8t8t1DPdLYj"
+          "url": "https://m.thepaper.cn/detail/33182596"
         },
         {
           "name": "NYTimes",
-          "url": "https://www.nytimes.com/2026/05/14/world/asia/trump-xi-jinping-us-china.html"
+          "url": "https://www.nytimes.com/2026/05/15/world/asia/trump-china-xi-meeting-what-happened.html"
         }
       ]
     },
     {
-      "title": "伊朗局势紧张",
-      "summary": "伊朗局势持续紧张，霍尔木兹海峡附近海域发生多起船只遇袭事件。美国官员称已大幅削弱伊朗军事力量，而沙特阿拉伯和阿联酋被指对伊朗发动秘密袭击。伊朗允许中国船只通过霍尔木兹海峡，但印度籍商船在海峡遭袭。这一系列事件导致美元与油价正相关性创纪录新高，改变了市场逻辑。霍尔木兹海峡是全球石油运输的关键通道，任何不稳定因素都可能引发全球能源市场震荡。",
-      "reason": "地缘政治紧张升级，影响全球能源市场稳定",
+      "title": "乌克兰遭大规模空袭",
+      "summary": "乌克兰称遭遇开战以来最大规模空袭，俄军发射超过1500架无人机袭击乌克兰多个城市。此次空袭造成重大基础设施损坏和人员伤亡。乌克兰方面表示防空系统拦截了大部分无人机，但仍有多处关键设施受损。国际社会对局势升级表示担忧，呼吁双方保持克制。此次事件可能影响欧洲能源安全和地区稳定。",
+      "reason": "国际冲突升级，多平台报道，影响欧洲安全格局",
       "impact_areas": [
         "政治",
-        "经济",
-        "能源"
+        "地缘"
       ],
       "impact_level": "重大",
       "sources": [
         {
-          "name": "澎湃新闻",
-          "url": "https://m.thepaper.cn/detail/33181485"
-        },
-        {
           "name": "财新网",
-          "url": "https://database.caixin.com/2026-05-15/102444194.html"
+          "url": "https://photos.caixin.com/2026-05-15/102444301.html"
         },
         {
-          "name": "NYTimes",
-          "url": "https://www.nytimes.com/2026/05/14/world/middleeast/iran-strait-hormuz-china-ships.html"
+          "name": "BBC",
+          "url": "https://www.bbc.com/news/articles/cze2wpk7y76o?at_medium=RSS&at_campaign=rss"
         }
       ]
     },
     {
-      "title": "AI芯片股暴涨",
-      "summary": "AI芯片制造商Cerebras Systems在纳斯达克上市首日股价飙升68%，市值一度突破千亿美元。这一表现反映了市场对AI芯片的强烈需求。此前，该公司已完成年内最大IPO。Cerebras的暴涨带动了AI相关股票整体上涨，科创50指数午盘涨1.12%，人形机器人及半导体设备板块领涨。这一现象表明AI热潮正从科技巨头向整个产业链扩散，传统行业如福特汽车股价两日飙升21%，显示AI技术商业化进程加速。",
-      "reason": "AI芯片股暴涨，反映AI产业热潮向全产业链扩散",
+      "title": "AI芯片股飙升",
+      "summary": "AI芯片公司Cerebras在上市首日股价大幅飙升，反映市场对AI芯片领域的狂热追捧。该公司专注于开发AI训练芯片，其产品在性能上具有独特优势。此次股价飙升表明投资者对AI技术前景的乐观预期，同时也可能引发芯片行业估值重估。分析师认为，随着AI应用普及，高端芯片需求将持续增长，相关产业链将迎来发展机遇。",
+      "reason": "AI芯片股飙升，反映市场对AI技术前景的乐观预期",
       "impact_areas": [
         "科技",
         "经济金融"
@@ -62,95 +52,15 @@
       "impact_level": "重大",
       "sources": [
         {
-          "name": "澎湃新闻",
-          "url": "https://m.thepaper.cn/detail/33181602"
-        },
-        {
-          "name": "财新网",
-          "url": "https://database.caixin.com/2026-05-15/102444197.html"
-        },
-        {
-          "name": "雪球热帖",
-          "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBFc1I4Mlg0R09zV2ZmbW5DY2dCWEFIRGVYc1Z1UHNlYW0yUy1Wa0huTVVESmJVZExYVmJacXZqR0lhNFB6Qm1POW9BVE56M1l3TXBaYzY5NHRHNExlWEUwRUdMU1QwZlRUUG91Ym1VeUZxR3p1Sk9FZw?oc=5"
+          "name": "Reuters",
+          "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPY0RWNkR1ZVo1bF9Eem0xdEdhT080RURtem5xNVpDalRuZUMwTDZ6V19YQW41QXVaLW5tT2Y5SFZjdHNjR1JMWTBybW1xekJvajAxZXB0OW9vYk1pemN6UnFQeXRfRHFEX2FFNlNqdVdPcXJWVmxwOFk4S2diN1BaZFdTQ1V0MG9sajNpdnp2SW9PQm5IOXhDaVg3NzlzOENVVFZ4Sk42TV94bHc?oc=5"
         }
       ]
     },
     {
-      "title": "支付宝扣款风波",
-      "summary": "支付宝'关闭支付功能仍被扣款捐赠184万'事件引发广泛关注。支付宝回应称，此事件可能涉嫌违法犯罪，已向警方寻求帮助。涉事服务特性此前曾被要求改进。该事件涉及金融科技领域的用户权益保护问题，反映出数字支付平台在用户授权和资金安全方面仍存在漏洞。事件引发监管部门对金融科技平台的关注，可能促使相关行业加强监管和用户权益保护措施。",
-      "reason": "金融科技平台用户权益问题引发监管关注",
-      "impact_areas": [
-        "科技",
-        "经济金融"
-      ],
-      "impact_level": "重大",
-      "sources": [
-        {
-          "name": "澎湃新闻",
-          "url": "https://m.thepaper.cn/detail/33181507"
-        },
-        {
-          "name": "凤凰网",
-          "url": "https://news.ifeng.com/c/8t8rFX3mEQN"
-        }
-      ]
-    },
-    {
-      "title": "新能源车安全管理",
-      "summary": "三部门联合部署持续加强新能源汽车安全管理，旨在提升行业安全水平。随着新能源汽车保有量快速增长，安全问题日益凸显。此次部署涵盖了电池安全、充电安全、自动驾驶安全等多个方面，将推动行业技术标准提升和安全管理体系完善。此举不仅关系到消费者生命财产安全，也将影响新能源汽车产业发展方向，加速行业向更安全、更可靠的方向发展。",
-      "reason": "三部门联合部署，提升新能源汽车安全管理水平",
-      "impact_areas": [
-        "科技",
-        "产业"
-      ],
-      "impact_level": "重大",
-      "sources": [
-        {
-          "name": "央视网",
-          "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE53R0FjXy14TzZMOUo3YnNMejZta0tWbjlEOGtFQ1NoY0xtMWxaZ2k2NVpqNzBpVFhCRVZuekpsd3hNWUdrcXNGb0g4ZTZySGo4akdWXzYzbk5IeGtEckxtRVhyNThyNndVM0VVbDJkbXBQcWtiZWpkYg?oc=5"
-        }
-      ]
-    },
-    {
-      "title": "美元油价相关性创纪录",
-      "summary": "伊朗冲突导致市场逻辑发生重大变化，美元与油价正相关性创纪录新高。这一现象打破了传统的负相关关系，反映了地缘政治风险对能源市场的深远影响。贸易商维多据悉推销可在霍尔木兹海峡外交付的伊拉克石油，显示市场对能源通道安全的担忧加剧。这一变化将对全球能源定价机制、投资策略和货币政策产生深远影响，可能重塑全球能源市场格局。",
-      "reason": "地缘冲突打破传统市场关系，美元油价相关性创纪录",
-      "impact_areas": [
-        "经济金融",
-        "能源"
-      ],
-      "impact_level": "重大",
-      "sources": [
-        {
-          "name": "财新网",
-          "url": "https://database.caixin.com/2026-05-15/102444194.html"
-        },
-        {
-          "name": "财新网",
-          "url": "https://database.caixin.com/2026-05-15/102444190.html"
-        }
-      ]
-    },
-    {
-      "title": "苹果OpenAI合作裂痕",
-      "summary": "苹果与OpenAI合作关系出现裂痕，未来可能爆发诉讼战。这一变化反映了AI产业生态的复杂性和竞争态势。苹果此前与OpenAI建立了合作关系，但双方在技术路线、商业利益等方面存在分歧。这一事件可能影响AI产业格局，促使科技巨头重新评估其AI战略。同时，这也反映了AI技术商业化过程中的知识产权和利益分配问题，可能对整个AI生态系统产生深远影响。",
-      "reason": "科技巨头AI合作裂痕，可能影响AI产业生态格局",
-      "impact_areas": [
-        "科技",
-        "产业"
-      ],
-      "impact_level": "重大",
-      "sources": [
-        {
-          "name": "财新网",
-          "url": "https://database.caixin.com/2026-05-15/102444177.html"
-        }
-      ]
-    },
-    {
-      "title": "AI热潮扩散至传统行业",
-      "summary": "福特汽车股价两日飙升21%，显示AI热潮正从科技巨头向传统行业扩散。这一现象反映了AI技术商业化进程的加速，以及市场对AI赋能传统产业的期待。与此同时，韩国政府表示AI繁荣带动经济周期起飞，进一步印证了AI技术的广泛影响。这种扩散效应不仅改变了投资者对传统行业的估值逻辑，也将推动传统产业加速数字化转型，重塑全球产业竞争格局。",
-      "reason": "AI技术商业化加速，传统行业迎来估值重估",
+      "title": "中芯国际业绩增长",
+      "summary": "中国最大芯片制造商中芯国际公布一季度业绩，收入同比增长11.8%，主要受益于AI需求持续增长带来的产能压力。公司表示，AI相关芯片订单旺盛，产能利用率保持在高位。这一业绩增长反映了中国在芯片制造领域的进步，同时也表明全球AI发展对中国芯片产业的需求拉动。分析师认为，随着中美科技竞争加剧，中国芯片产业将迎来更多发展机遇和挑战。",
+      "reason": "中国芯片制造商业绩增长，反映AI需求对产业拉动作用",
       "impact_areas": [
         "科技",
         "经济金融"
@@ -159,18 +69,29 @@
       "sources": [
         {
           "name": "财新网",
-          "url": "https://database.caixin.com/2026-05-15/102444173.html"
-        },
-        {
-          "name": "财新网",
-          "url": "https://opinion.caixin.com/2026-05-15/102444163.html"
+          "url": "https://www.caixin.com/2026-05-15/102444290.html"
         }
       ]
     },
     {
-      "title": "南水北调工程进展",
-      "summary": "南水北调工程已累计向北方调水880亿立方米，这一重大基础设施工程持续发挥效益。南水北调工程是缓解我国北方水资源短缺、优化水资源配置的战略性工程，对促进区域协调发展、改善生态环境具有重要意义。工程进展反映了我国在水资源管理和大型基础设施建设方面的成就，也将对北方地区经济社会发展产生深远影响，为区域协调发展提供有力支撑。",
-      "reason": "重大水利工程持续发挥效益，促进区域协调发展",
+      "title": "全球债券大跌",
+      "summary": "全球债券市场大幅下跌，因通胀担忧加剧引发投资者恐慌。美国国债收益率上升，欧洲债券市场也出现类似走势。分析师认为，通胀压力主要源于能源价格上涨、供应链紧张以及劳动力市场紧张等因素。此次债券下跌可能对全球金融市场产生连锁反应，包括股市波动加剧、借贷成本上升等。各国央行可能面临更复杂的货币政策抉择。",
+      "reason": "全球债券大跌，通胀担忧加剧，金融市场动荡",
+      "impact_areas": [
+        "经济金融"
+      ],
+      "impact_level": "重大",
+      "sources": [
+        {
+          "name": "Reuters",
+          "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQRVF0cC1lVXEtTWsyazNaMHlnSVRZZlBmMTNJUTJIN3JmbXJLdjJlLXJoSEp3ODdVdzF1bHdkSWkzUUlWdEZVcldHc21RWGdkNGJOS3VkWHMyblRJdE43STQ5SHd4eG8zZEtOelRxRU9YUGEyOHlXMmRLUVBZemZ6LXpfVDhpUUl3MTY2R0RHdWMtZC1vaUZ5WVYtSmhPWGs5?oc=5"
+        }
+      ]
+    },
+    {
+      "title": "印度强对流天气致百人死亡",
+      "summary": "印度北方邦遭遇强对流天气，已造成超过110人死亡，数百人受伤。此次极端天气包括强风、冰雹和暴雨，摧毁了大量房屋和农作物。印度政府已启动救援行动，并向受灾地区提供紧急援助。气象部门警告，未来几天可能仍有极端天气。此次灾害凸显气候变化对南亚地区的影响，也引发对印度农业和基础设施脆弱性的担忧。",
+      "reason": "印度自然灾害造成重大人员伤亡，气候变化影响显现",
       "impact_areas": [
         "社会",
         "生态"
@@ -178,28 +99,79 @@
       "impact_level": "重大",
       "sources": [
         {
-          "name": "央视网",
-          "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFAtNGE0UkJMeVNnajVMeGdMUWc3TWJzLUV4a3F1emdmMk8yVGl5TGtza2tzLWUxcVgyNmVVNVBTNGxuN1Y3b2lMQlA5ZTFOX2ZZRnhSSkpySGVnQUdJQXpSLTlFdDJncUlSN1FpRXcycROcUFrZWkzdg?oc=5"
+          "name": "财新网",
+          "url": "https://international.caixin.com/2026-05-15/102444320.html"
         }
       ]
     },
     {
-      "title": "中美将讨论AI安全",
-      "summary": "美国和中国将开始讨论AI安全问题，这一合作反映了全球AI治理的重要性日益凸显。随着AI技术快速发展，其安全风险和伦理挑战也日益突出。中美作为AI技术领先国家，其合作对全球AI治理框架的建立具有重要意义。这一讨论可能涉及AI安全标准、数据隐私、算法透明度等多个方面，将影响全球AI技术发展方向和应用边界，对人类社会产生深远影响。",
-      "reason": "中美合作推进AI安全治理，影响全球AI发展方向",
+      "title": "A股强势反弹",
+      "summary": "中国A股市场四月出现强势反弹，成长风格领涨，创业板指数创下十年新高。市场分析认为，这一反弹主要受益于政策支持、经济数据改善以及外资流入等多重因素。科技、新能源等成长板块表现尤为突出，反映市场对未来经济结构的乐观预期。分析师认为，此次反弹可能标志着市场情绪的转折，但持续性仍需观察。",
+      "reason": "A股强势反弹，创业板十年新高，市场情绪转折信号",
       "impact_areas": [
-        "科技",
-        "政治"
+        "经济金融"
       ],
       "impact_level": "重大",
       "sources": [
         {
-          "name": "NYTimes",
-          "url": "https://www.nytimes.com/2026/05/14/world/asia/china-us-ai-safety.html"
+          "name": "财新网",
+          "url": "https://database.caixin.com/2026-05-15/102444288.html"
+        }
+      ]
+    },
+    {
+      "title": "印度燃料价格上涨",
+      "summary": "印度自伊朗战争开始以来首次上调零售燃料价格，引发市场对通胀压力的担忧。此次涨价主要受国际油价上涨和印度卢比贬值影响。印度政府表示，将采取措施缓解涨价对低收入家庭的影响。分析师认为，燃料价格上涨可能加剧印度的通胀压力，并对经济增长产生抑制作用。这一变化也反映了全球能源市场的紧张局势。",
+      "reason": "伊朗战争以来印度首次上调燃料价格，通胀压力加剧",
+      "impact_areas": [
+        "经济金融",
+        "能源"
+      ],
+      "impact_level": "重大",
+      "sources": [
+        {
+          "name": "Reuters",
+          "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQN1Vpck9GV3BPb1A5LW5aM0xsWGJ4OV9udnZDMTEzbTJZOXR1RFhTay1tVXRpV1FDZDd0U2gxU2hCd1BXVEFJOTFZVjYyR293UXVEUGJ1dWt6TEhTYmwwblF6YXZsOVJWMk9WQl9nempVaEdBYWtnN0thaWgwazQ3N2U0MjVDVHZVYWlwdDNKQlRrajMwazEwMEpGRGxNOS1kalBvSXZkVUhOeWZaQXRscEsySXdTQQ?oc=5"
+        }
+      ]
+    },
+    {
+      "title": "特朗普结束访华",
+      "summary": "美国总统特朗普结束对华国事访问，双方就经贸合作达成多项共识。特朗普宣布中方同意购买200架波音飞机，外交部则表示中美经贸关系本质是互利共赢。此次访问期间，双方还就大豆贸易、农产品采购等议题进行了深入讨论。分析师认为，此次访问可能为中美经贸关系带来短期缓和，但长期结构性问题仍需解决。",
+      "reason": "特朗普访华结束，中美经贸关系短期缓和信号",
+      "impact_areas": [
+        "政治",
+        "经济金融"
+      ],
+      "impact_level": "重大",
+      "sources": [
+        {
+          "name": "澎湃新闻",
+          "url": "https://m.thepaper.cn/detail/33182143"
+        },
+        {
+          "name": "财新网",
+          "url": "https://www.caixin.com/2026-05-15/102444384.html"
+        }
+      ]
+    },
+    {
+      "title": "埃博拉疫情爆发",
+      "summary": "刚果（金）东部地区爆发新一轮埃博拉疫情，已造成65人死亡。世界卫生组织已派遣专家小组前往疫区协助防控工作。此次疫情是刚果（金）自2018年以来爆发的第14轮埃博拉疫情。当地医疗系统面临挑战，国际社会正提供援助。专家警告，疫情可能进一步扩散，需要加强边境管控和公共卫生措施。",
+      "reason": "刚果东部埃博拉疫情爆发，已致65人死亡，全球公共卫生威胁",
+      "impact_areas": [
+        "公共卫生",
+        "社会"
+      ],
+      "impact_level": "重大",
+      "sources": [
+        {
+          "name": "BBC",
+          "url": "https://www.bbc.com/news/articles/cze2wpk7y76o?at_medium=RSS&at_campaign=rss"
         }
       ]
     }
   ],
-  "total_fetched": 216,
-  "generated_at": "2026-05-15T12:27:24.720473+08:00"
+  "total_fetched": 300,
+  "generated_at": "2026-05-15T19:26:52.428184+08:00"
 }
