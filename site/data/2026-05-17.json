@@ -1,0 +1,168 @@
+{
+  "date": "2026-05-17",
+  "news": [
+    {
+      "title": "内塔尼亚胡秘访阿联酋",
+      "summary": "以色列总理内塔尼亚胡秘密访问阿联酋，此举引发国际社会广泛关注。此次访问正值美以伊关系紧张之际，可能对中东地缘政治格局产生深远影响。分析人士认为，此举或旨在加强以色列与阿拉伯国家的关系，同时应对伊朗威胁。访问细节尚未完全公开，但已引起海湾地区国家的高度关注，可能导致地区力量重组。",
+      "reason": "中东局势关键动向，涉及多国关系，地缘政治影响重大",
+      "impact_areas": [
+        "政治",
+        "地缘"
+      ],
+      "impact_level": "重大",
+      "sources": [
+        {
+          "name": "澎湃新闻",
+          "url": "https://m.thepaper.cn/detail/33187746"
+        }
+      ]
+    },
+    {
+      "title": "日本押注无人装备",
+      "summary": "解放军报发表文章指出日本正大力发展无人装备技术，包括无人战机、无人舰艇等军事装备，此举引发地区安全关切。文章分析认为，日本此举旨在突破和平宪法限制，增强军事能力，可能改变地区军事平衡。专家警告，无人装备的快速发展可能导致军备竞赛升级，增加地区不稳定因素。",
+      "reason": "军事科技发展动向，影响地区安全格局",
+      "impact_areas": [
+        "政治",
+        "科技",
+        "地缘"
+      ],
+      "impact_level": "重大",
+      "sources": [
+        {
+          "name": "澎湃新闻",
+          "url": "https://m.thepaper.cn/detail/33189766"
+        }
+      ]
+    },
+    {
+      "title": "中美关系可持续发展",
+      "summary": "人民日报发表文章强调推动中美关系稳定、健康、可持续发展的重要性。文章指出，中美作为世界前两大经济体，关系稳定对全球经济复苏至关重要。文章呼吁双方加强沟通，妥善处理分歧，避免对抗，共同应对全球性挑战。分析人士认为，这表明中方在复杂国际环境下寻求稳定双边关系的努力。",
+      "reason": "全球最重要的双边关系，影响全球经济政治格局",
+      "impact_areas": [
+        "政治",
+        "经济金融"
+      ],
+      "impact_level": "重大",
+      "sources": [
+        {
+          "name": "澎湃新闻",
+          "url": "https://m.thepaper.cn/detail/33189700"
+        }
+      ]
+    },
+    {
+      "title": "以军官黎巴嫩身亡",
+      "summary": "以色列军方宣布一名军官在黎巴嫩南部执行任务时死亡。此次行动发生在黎以边境紧张局势升级的背景下，引发地区安全担忧。以色列军方称此次行动旨在阻止真主党武装的渗透活动。事件发生后，黎以边境局势更加紧张，国际社会呼吁双方保持克制，避免冲突升级。",
+      "reason": "中东军事冲突升级，地区安全风险上升",
+      "impact_areas": [
+        "政治",
+        "地缘"
+      ],
+      "impact_level": "重大",
+      "sources": [
+        {
+          "name": "凤凰网",
+          "url": "https://news.ifeng.com/c/8tBwg37tAd4"
+        }
+      ]
+    },
+    {
+      "title": "卡桑旅指挥官遇袭身亡",
+      "summary": "巴勒斯坦伊斯兰抵抗运动（哈马斯）下属的卡桑旅确认其指挥官哈达德在以色列袭击中丧生。此次袭击发生在巴以冲突持续紧张的背景下，可能引发新一轮暴力循环。卡桑旅是哈马斯的军事分支，此次袭击可能导致哈马斯对以色列发动报复性袭击，加剧地区紧张局势。",
+      "reason": "巴以冲突关键人物遇袭，可能引发局势升级",
+      "impact_areas": [
+        "政治",
+        "地缘"
+      ],
+      "impact_level": "重大",
+      "sources": [
+        {
+          "name": "央视网",
+          "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9ma1RSR05HZDRUVzhQdGtXaGltWjIxNXd0Q2h0YjZDazJqcTJIZFpCMVNoY3Vyb1k4NlB0bFdQT1MxelNFdmU4aW8yN3hyMGctUW5RRE5CUUFUeGgweEtKNFRiVElPUEdmYVpHb3hLWi1MUW9VNy1ENg?oc=5"
+        }
+      ]
+    },
+    {
+      "title": "黎巴嫩空袭致6死",
+      "summary": "黎巴嫩方面表示，以色列空袭造成6人死亡，美国宣布延长停火期限。此次空袭发生在黎以边境紧张局势升级的背景下，引发国际社会对地区冲突扩大的担忧。美国宣布延长停火期限旨在缓和地区紧张局势，但分析人士认为，停火协议的脆弱性依然存在，地区和平前景仍不明朗。",
+      "reason": "中东冲突升级，国际社会介入调解",
+      "impact_areas": [
+        "政治",
+        "地缘"
+      ],
+      "impact_level": "重大",
+      "sources": [
+        {
+          "name": "BBC",
+          "url": "https://www.bbc.com/news/articles/cqlpzzl0d67o?at_medium=RSS&at_campaign=rss"
+        }
+      ]
+    },
+    {
+      "title": "伊朗股市恢复交易",
+      "summary": "伊朗宣布将于5月19日起恢复股票市场交易。此举标志着伊朗金融市场在经历一段时间的关闭后重新开放，可能对伊朗经济产生积极影响。分析人士认为，股市恢复交易有助于缓解伊朗经济压力，吸引国内外投资，但同时也面临地缘政治风险和国际制裁的挑战。",
+      "reason": "伊朗金融市场重大调整，影响地区经济稳定",
+      "impact_areas": [
+        "经济金融",
+        "地缘"
+      ],
+      "impact_level": "重大",
+      "sources": [
+        {
+          "name": "澎湃新闻",
+          "url": "https://m.thepaper.cn/detail/33189620"
+        }
+      ]
+    },
+    {
+      "title": "AI收费需尊重逻辑",
+      "summary": "经济日报发表文章指出AI服务收费应尊重服务逻辑，不能变成'收割'。文章强调，随着AI技术快速发展，合理定价机制对行业健康发展至关重要。文章呼吁企业建立透明、合理的AI服务收费模式，避免过度收费损害消费者利益。分析人士认为，这反映了AI产业发展面临的伦理和商业模式挑战。",
+      "reason": "AI产业发展关键问题，影响技术商业化进程",
+      "impact_areas": [
+        "科技",
+        "经济金融"
+      ],
+      "impact_level": "重大",
+      "sources": [
+        {
+          "name": "澎湃新闻",
+          "url": "https://m.thepaper.cn/detail/33189703"
+        }
+      ]
+    },
+    {
+      "title": "低空经济政策解读",
+      "summary": "经济日报金观平文章强调不要误读低空经济发展政策。文章指出，低空经济作为新兴领域，发展需要政策支持和规范引导。文章澄清了相关政策意图，强调低空经济发展应安全有序，避免盲目扩张。分析人士认为，这反映了国家对新兴产业的审慎态度，旨在平衡创新与安全。",
+      "reason": "新兴产业发展政策导向，影响未来产业格局",
+      "impact_areas": [
+        "科技",
+        "经济"
+      ],
+      "impact_level": "重大",
+      "sources": [
+        {
+          "name": "澎湃新闻",
+          "url": "https://m.thepaper.cn/detail/33189702"
+        }
+      ]
+    },
+    {
+      "title": "AI赋能新生态",
+      "summary": "雪球热帖讨论AI赋能新生态'单人成军'闯市场的现象。文章指出，AI技术正在改变传统商业模式，使个人创业者能够借助AI工具实现规模化运营。这种现象正在重塑创业生态，降低创业门槛，提高效率。分析人士认为，这反映了AI技术在商业应用中的创新趋势，可能对就业市场和经济结构产生深远影响。",
+      "reason": "AI技术商业应用创新，改变创业生态",
+      "impact_areas": [
+        "科技",
+        "经济"
+      ],
+      "impact_level": "重大",
+      "sources": [
+        {
+          "name": "新浪财经",
+          "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1UU3J1WUFGZ1JNRFE4aTh1d3BqQkJ4bUdBeHNva2tJS2k5YVA5OTFPSUQzR2xVdXdXRlZaZ3gtcWx2VFUtWUxiZm44V0kzQWlVVVNKbGIwZm40MEFhTm9qMnhLOW54cXVvbTBMZEM3WVpCNEh2ZmQ0Qw?oc=5"
+        }
+      ]
+    }
+  ],
+  "total_fetched": 152,
+  "generated_at": "2026-05-17T07:27:47.358382+08:00"
+}
