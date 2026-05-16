@@ -1,4 +1,4 @@
-# 2026-05-16 原始新闻标题 (246 条)
+# 2026-05-16 原始新闻标题 (275 条)
 
 ## 新华社 (20 条)
 - Education, health fees among key concerns
@@ -22,49 +22,53 @@
 - Former Chongqing political official facing corruption investigation
 - Former Chongqing political official facing corruption investigation
 
-## 澎湃新闻 (18 条)
-- 马上评｜盲人女孩摆拍，伤害的是社会信任
-- 高瑞梓评《不止日常》｜唐朝历史的另一种打开方式
-- 赵洋评《不止日常》｜史料、量化与日常：重访唐人的历史世界
-- 特朗普面临是否恢复对伊朗打击抉择，称接受暂停核计划20年
-- 华住集团：第一季度收入和营业额同比双位数增长，净利润降8.6%
-- 2名香港游客在新西兰因交通事故遇难，中领馆发安全提醒
-- 国际锐评丨落实元首共识，以新定位开启中美关系新篇章
-- 特朗普说“伊斯兰国”二号头目被“清除”
-- 油柑、橄榄菜、无米粿和木棉花：在《给阿嬷的情书》中重新看见女性
-- 前车司机昏迷不醒，后车司机和城管队员破窗施救
-- 民警下班途中慧眼识嫌犯 ，街头悄悄跟上抓捕藏匿已久的嫌疑人
-- 神舟二十三号计划近日择机实施发射，船箭组合体已转运至发射区
-- 国家医保局约谈4家连锁药房股份有限公司
-- 最高涨价200元！贵州茅台宣布公斤茅台等四款产品提价
-- 国际赛事转播版如何定价？从央视与世界杯天价转播费博弈说起｜907编辑部
-- 网传“三大运营商即将免月租”，传统月租套餐会终结吗？
-- 微镜头·中美元首在北京举行会谈丨“让2026年成为中美关系继往开来的历史性、标志性年份”
-- 深一度｜世界杯依然夺目，但它不再“无价”
+## 澎湃新闻 (17 条)
+- “后巴菲特时代”伯克希尔大调仓：建仓达美航空、加码谷歌，清仓亚马逊
+- WSBK捷克站正赛首回合，张雪机车车手斩获赛季第四冠
+- 广州长隆野生动物世界：大熊猫“家和”因病离世， “婷仔”目前体征相对稳定
+- 《给阿嬷的情书》里的面孔：很新，很真，很生动
+- 何以李昌钰｜半卷书
+- 中国首位男子综合格斗世界冠军唐凯，卫冕羽量级世界冠军头衔
+- 辽宁大学校长余淼杰获评英国皇家经济学会终身院士
+- 山西一载有学生的车辆侧翻，已致2人遇难
+- 巴基斯坦下调瓜达尔港收费，欲借中东战火打造区域贸易枢纽
+- 哈马斯官员证实其军事领导人哈达德身亡，以军确认
+- 泰国火车与巴士相撞已致5人死亡
+- 马上评｜学术打假需要“耿同学”，更需要长效机制建设
+- 惠州仲恺高新区通报“多家酒店床单未一客一换”
+- 今年首轮大范围降雨即将上线，多地提醒市民非必要不外出
+- “充足错觉”下夏季能源告急，全球石油库存正以创纪录速度下降
+- 时政微纪录丨中美元首会晤：跨越大洋的握手
+- 俄罗斯总统普京将访华
 
 ## 凤凰网 (20 条)
-- 震撼全网的中国军人，究竟是哪个部队的？
-- 人民日报评摆拍盲道被撞事件：盲人需要被关注而非被消费
-- 江西赣州多个区县出现暴雨，局地道路、车辆被淹
-- 30岁女子用爬楼机锻炼，摔倒后身亡
-- 俄军政治工作者日来临，俄防长发表贺信
-- 股市冲破7000点，韩国全民炒股
-- 蒋万安“直球对决”赖清德，台北选战将点燃全台战火
-- 绿营派系博弈白热化！周玉蔻逼宫卓荣泰，称赞英系陈其迈有谋略
-- 民进党创党元老：统一后“台独”顽固分子没赦免机会！美军在台海没赢的可能
-- 台湾旅游业者：上海有旅行团申请赴金门马祖盼申请通过
-- 台湾里长赴大陆看《哪吒》1年后竟遭调查，詹江村酸：别把我收押
-- 12省区市将出现大到暴雨，广东湖南部分地区有大暴雨
-- 曾火遍全网的“网红小胖”，如今样貌大变！每周血透3次
-- 新西兰发生交通事故，2名香港游客遇难
-- 退礼服女孩发声：因此事带来网络资源占用，在此深表歉意
-- 洛阳警方：男子驾驶汽车发生追尾后失控，造成1死2伤
-- 民进党创党元老：融合发展政策见效，“台独”支持者减少，郑丽文2028年有机会
-- 男子疑伪装“爱狗家庭”，骗养20多只狗供其烈犬撕咬，警方发声
-- NASA高官放话：我睡得着，中方睡不着
-- 广西河池强降雨致宜州区部分河段水位上涨，将出现洪峰
+- 伊朗官员：伊方制定的霍尔木兹海峡航线交通管理机制将于近期公布
+- 泰国火车与公交车相撞已致8死25伤，现场画面曝光
+- 黄仁勋喝蜜雪冰城，品出了什么味？
+- 山西一辆载有学生车辆侧翻，已致2人遇难
+- 左手库克、右手马斯克，初中辍学的打工妹，凭什么坐在国宴C位？
+- 研究生骗了医院1400万！根本就没做实验，判8年
+- 以军发布声明，证实其打死哈马斯在加沙地带军事指挥官
+- 媒体：央视拿下世界杯版权，背后早就藏着几个必然
+- 中美关系有了新定位，“台湾牌”效力还剩几何？
+- 特朗普表态“不希望台湾走向独立”，引爆岛内舆论
+- 泰国火车与巴士相撞已致5人死亡
+- 多所高校撤销外语专业，外语类高校增加工科专业
+- 泰国曼谷火车与公交车相撞，已致多人死亡
+- 听到特朗普这句话，台湾当局该醒了
+- 哈马斯官员证实其军事领导人哈达德已身亡
+- 上市连锁药房多次骗保还对抗检查，国家医保局公开谴责
+- 消息人士：国际足联将“保证”伊朗参赛世界杯
+- 以色列收的巴勒斯坦税款，美国盯上了
+- 不涨薪就罢工，墨西哥教师威胁干扰世界杯揭幕战
+- 美国民众抵制政府在旧金山修建移民设施
 
-## 财新网 (16 条)
+## 财新网 (20 条)
+- 波音称中国之行非常成功 获200架飞机购机承诺
+- 特朗普就涉台问题作重要表态 明言反对“台独”引起战争
+- 巴基斯坦首支熊猫债发布 首期全场认购数量超5倍
+- “奥德赛时期”从何而来？｜热议
+- 零跑一季度毛利率跌至9.4% 预计二季度回升
 - 《穿普拉达的女王2》：女王归来，童话难续｜影视
 - 大西洋观察｜雏形初现的亚太经济安全同盟
 - 一周天下｜特朗普访华、涉汉坦病毒疫情邮轮完成疏散
@@ -80,54 +84,72 @@
 - 【周刊提前读】深度：求索战略稳定关系 中美如何管控分歧扩大合作
 - 履职一年后美药监局长辞任，他推进了哪些改革？
 - 财新闻｜《给阿嬷的情书》预测票房破10亿
-- 【CCI快报】中国大宗商品指数周跌0.23% 焦煤领跌4.83%
 
-## 央视网 (3 条)
+## 央视网 (13 条)
 - 15日起多地大范围降雨上线 - 央视网
 - 北京警方：盲人女孩盲道被撞反被骂视频系摆拍 - 央视网
+- 联播+｜读懂中国的特别窗口 - 央视网
 - 感知中国活力：西南麦区迎来大面积收获 - 央视网
+- 神舟二十三号计划近日择机实施发射 船箭组合体已转运至发射区 - 央视网
+- 世卫组织：已确认10例汉坦病毒感染病例 - 央视网
+- 新西兰南岛再发严重事故 我使馆提醒游客注意交通安全 - 央视网
+- 自然资源部对湖北贵州启动地质灾害防御Ⅳ级响应 - 央视网
+- 麦穗千重浪、智慧农机忙 各地全力以赴战“三夏”稳粮增收促振兴 - 央视网
+- 特朗普称“伊斯兰国”二号头目被“清除” - 央视网
+- 文化“点亮”生活 首届中国新文创市集开幕 - 央视网
+- 彩礼做减法，幸福做加法 - 央视网
+- 从支付的“一键触达”到出行的“无缝衔接” 看中国实力如何圈粉全球 - 央视网
 
-## BBC (11 条)
+## BBC (19 条)
+- Senior IS leader killed in joint operation, US and Nigeria say
 - Trump warns Taiwan against declaring independence, hours after summit with China's Xi
 - Trump and Xi conclude 'very successful' talks but few deals confirmed
-- Trump says 20-year nuclear programme suspension by Iran would be enough
+- Switzerland to open secret files on Auschwitz 'Angel of Death' Mengele
+- Man killed by 13ft great white shark in Western Australia
 - Lebanon says six killed in Israeli strike as US announces ceasefire extension
+- New outbreak of Ebola kills 80 in eastern DR Congo
+- US planning to criminally indict ex-Cuban leader Raúl Castro
+- Palestinian leaders hold rare party meeting as polls show rising discontent
 - Judge declares another mistrial in Harvey Weinstein New York rape case
-- Israel says it has killed Hamas commander in Gaza air strike
+- Hamas confirms top commander killed in Israeli air strike
+- Trump says 20-year nuclear programme suspension by Iran would be enough
 - Five Italians die during cave scuba dive in Maldives
 - New York Times defends journalist after Israel threatens to sue
-- New outbreak of Ebola kills 80 in eastern DR Congo
 - CIA chief visits Cuba as energy crisis worsens
 - What China critics in Maga movement make of Trump's Beijing trip
+- What is a 'safe death'? Mentally ill woman asks for assisted dying in Canada
+- From misfit to rap sensation: A 'Reble' storms into Indian hip-hop
+- Alleged murder of Aboriginal girl highlights Australia's deep inequalities
 
-## Reuters (5 条)
-- Markets recoil as left-leaning mayor finds potential path to be UK PM - Reuters
-- Tech CEOs invited to US Capitol to testify about children's online safety - Reuters
+## Reuters (6 条)
+- Trump says he is losing patience with Iran, did not ask China for favors - Reuters
+- BRICS talks end without joint statement, exposing divisions over war in Iran - Reuters
+- Exclusive: SpaceX accelerates IPO timeline, targets June 12 listing on Nasdaq, sources say - Reuters
 - Private equity circles Magnum as ice cream giant's shares sag, sources say - Reuters
 - Seven killed in Gaza as Israel says it targets Hamas leader - Reuters
-- Exclusive: SpaceX accelerates IPO timeline, targets June 12 listing on Nasdaq, sources say - Reuters
+- Ackman's Pershing Square takes Microsoft stake, exits Google parent Alphabet - Reuters
 
 ## NYTimes (20 条)
+- How a Nature Cruise Turned Into a Nightmare
+- Trump Turns Taiwan Arms Sales Into Bargaining Chip With China
+- They Fled to Safety in Palestinian Territory, Then Settlers Attacked Again
+- Rival Protests Begin in London, With a Major Security Effort
+- Trump Says a Top ISIS Leader Was Killed in a U.S.-Nigerian Mission
+- It’s Been a Wild Week in British Politics. What Happens Next?
 - Trump’s ‘Learning Curve’ on China Ends With Conciliation at Summit
 - How a Drug Cartel Made a Mexican State Its Tool
 - Justice Dept. Aims to Use Terrorism Laws to Target Mexican Officials
 - Executions Surge in Iran Since Cease-Fire, Rights Groups Say
 - Large Ebola Outbreak Is Declared in Congo
-- German Chancellor, After Iran Spat With Trump, Reports ‘Good’ Phone Call
-- Five Italians Die While Scuba Diving Deep Caves in the Maldives
-- Trump and Boeing Announce China Will Purchase 200 Planes
-- In Photos and Video: President Trump Goes to China
-- It’s Been a Wild Week in British Politics. What Happens Next?
+- Finishing School
+- How a Times Reporter Found Cartel Gold at the Royal Canadian Mint
+- Rubio, Once a China Hawk, Strikes Softer Tone to Align With Trump
+- Which Countries Are Profiting From the Iran War Oil Shock
 - The Push to Indict Raúl Castro, Cuba’s Former President
 - With Possible Raúl Castro Indictment, U.S. Eyes Venezuela Playbook
 - Photos: Cuba Plunges Into Darkness as U.S. Cuts Off Oil Supply
 - André Cerdini, Judge in Trial of Nazi Klaus Barbie, Dies at 96
 - Kataib Hezbollah: What to Know
-- Israeli Strike Targeted Top Hamas Leader in Gaza, Officials Say
-- Back From China, Trump Faces Decision on Whether to Resume Strikes on Iran
-- Republicans Waited to Challenge Trump on the Iran War. Now It May Be Too Late.
-- ‘For Example, Putin’: How Xi Used a Private Garden Walk to Charm Trump
-- Trump Touts ‘Fantastic Trade Deals’ With China, but Details Are Scarce
 
 ## CNN (6 条)
 - 0% intro APR until 2024 is 100% insane
@@ -138,26 +160,26 @@
 - Want Cash Out of Your Home? Here Are Your Best Options
 
 ## 微博热搜 (20 条)
-- 中美元首会晤情况和共识
-- 退礼服女孩道歉
+- 张雪机车捷克站夺冠
+- 山西一研学车辆侧翻已致2人死亡
+- 一季度数字产业实现收入9.5万亿元
+- 女孩盲道被撞摆拍细节露馅
+- 樊振东出战欧冠半决赛
+- 碳水哥震撼中国人
+- 张艺兴君佩全球首位品牌代言人
+- 这几类衣服普通人尽量不要买
+- 歌手首发阵容
+- 樊振东vs雷德齐姆斯基
 - 盲人女孩盲道被撞系自导自演
-- 中南大学帅出圈男生已保研同济大学
-- 奔跑吧14收视率创新高
-- 金鹰奖提名神仙打架
-- 京东健康送免单 刘涛同款诺特兰德
-- 警方通报女孩盲道被撞事件
-- 何宣林要求退出师姐帮唱
-- 2人摆拍盲道被撞被采取刑事措施
-- 小鹿 九尾
+- 明星个人捐款名单
+- 丧假 上传证明
+- 宋浩然整成李佳琦了
+- 李昀锐白鹿跑男十指相扣
 - 特朗普抵达美国现场画面
-- 白鹿卢昱晓 短视频营业
-- 洁丽雅 毛巾少爷
-- 热依扎疑似回应二胎
-- 牛冠凯宣布结婚
-- 英伟达跌4%
-- 算力网要来了
-- 台密室逃脱员工扮吊死鬼身亡
-- 方媛对自己的人生比较满意
+- 姜乘澜给化妆新手的8条建议
+- 姑姑养大侄女却扣下16万彩礼拒返还
+- 张凌赫Mai晚宴合照
+- 女子沉迷炒黄金跟博士儿子断绝关系
 
 ## 知乎热榜 (20 条)
 - 现在的生态葬、海葬、树葬越来越多，还有哪些奇特的丧葬方式？
@@ -182,100 +204,109 @@
 - 瞎扯 · 如何正确地吐槽
 
 ## B站热门 (20 条)
-- 循环歌单|【Light It Up】|“【雷德王の小曲】【王从天降の小曲】”
-- 火漆套色｜无神论者｜众神时代的流光溢彩与纸醉金迷的浪漫主义
-- 《ENEMY》主创最新作品预告
-- 【独家】永生之大道归一 第6集 水火双猿【12月国创】
 - 6月5日公测开启 | 《夜幕之下（代号砰砰）》定档PV首发！
-- 凭实力单身
+- 地牢酒馆-08集 《史莱姆与角斗场》
 - ピノキオピー - 歌姫失格 feat. 初音ミク
+- 【独家】永生之大道归一 第6集 水火双猿【12月国创】
+- 评分9.1！只要抵达那个地方！假面骑士ZZZ中期吐槽！【瓶子君152】
+- 万斯的无奈
+- 《鸣潮》拉海洛纪念动画 | 眺望者们
+- 火漆套色｜无神论者｜众神时代的流光溢彩与纸醉金迷的浪漫主义
+- 凭实力单身
+- 《ENEMY》主创最新作品预告
+- 就没有大学生赶不上的早八
+- 我飞跃10000公里，重走权游路，圆一个骑士梦
+- 在南京，急头白脸吃一顿鸭子需要几步？
 - 谁在做“毒科普”的帮凶？
+- 这个视频会成为你26年最难忘的回忆
 - 我伟大的甲方，又来指导技术教学了，哈啊哈哈哈，本视频由libtv赞助算力 #程序员 #打工人 #职场 #LibTV制作 #哩布哩布
 - 天热如何快速吃上饭，5分钟搞定超级过瘾的糖醋凉面，昨天做了点卤肉，今天吃上肉夹馍了～
-- 在南京，急头白脸吃一顿鸭子需要几步？
-- 最尊孔：孔子刻在美国最高法院门楣 我们无比荣幸
-- 这个视频会成为你26年最难忘的回忆
-- 真正的少女心事，是渴望出人头地的野心
 - 旧说唱乐队第三弹巅峰之作
-- 特朗普访华礼宾细节解读，马斯克抢镜成显眼包
-- 我飞跃10000公里，重走权游路，圆一个骑士梦
 - 仅推荐给有趣的人
-- 佳树的独特到底在哪？兄妹羁绊能超过男女之爱？温水佳树的人物解读！
-- 马路上碰到了一只蒙圈的橘猫，它到底经历了什么
+- 【电影合集版】“Cheems，你要逃出时间循环吗？”
 
 ## 抖音热搜 (20 条)
-- 习主席今秋访美
-- U17国足3:1逆转沙特
-- 中国算力基建开辟海上赛道
-- 黄山迎客松开花啦
-- 美加墨世界杯十大热门球队前瞻
-- 一口气刷完金融入门知识
-- 我的初夏充能计划
-- 岁月为我大浪淘沙
 - 不靠建模靠穿搭
-- 金价银价大跌
+- 苏超淮安VS常州
+- 第二艘国产大型邮轮试航
+- 苏超扬州VS镇江
+- 盲人女孩盲道被撞系自导自演
+- 普京将于5月19日至20日访华
+- 马刺淘汰森林狼晋级西决
+- 美加墨世界杯十大热门球队前瞻
+- 苏超苏州vs连云港
 - 骑士94:115不敌活塞
-- 不倒翁挑战
-- BLG战胜TES
-- 樊振东备战欧冠半决赛
-- 跑男真夫妻就是甜
-- 人形机器人“上岗”快递分拣员
-- 尼克杨现场观战CBA京沪大战
+- 唐凯卫冕成功
+- 石宇奇退出泰羽赛半决赛
+- 国产光纤光模块卖爆全球
+- U17国足3:1逆转沙特
+- 歌手2026首发阵容
+- 美加墨世界杯你更看好谁
+- 乘风2026主题曲MV
 - 蒙超开幕式豪迈歌声点燃赛场
-- 七彩阳光手指操来了
-- 我发现灰太狼的城堡了
+- 岁月为我大浪淘沙
+- 中超上海海港2:2浙江队
 
-## 雪球热帖 (15 条)
-- 张姓股民向ST章鼓发起索赔 刘彦梅律师接受咨询 - 新浪财经
+## 雪球热帖 (20 条)
 - 黄姓股民向*ST益通发起索赔 刘彦梅律师接受咨询 - 新浪财经
+- 邓姓股民向濮耐股份发起索赔 徐劲律师接受咨询 - 新浪财经
 - 新浪财经隔夜要闻大事汇总：2026年5月16日 - 新浪财经
-- 王姓股民向兰石重装发起索赔 刘彦梅律师接受咨询 - 新浪财经
-- 山西通宝能源股份有限公司关于参加山西辖区上市公司2026年投资者网上集体接待日暨年报业绩说明会的公告 - 新浪财经
 - 马斯克随特朗普访华！从南非书呆子到世界首富的“极致硬核”之路 - 新浪财经
-- 翼菲科技（6871）香港公開發售超購14,855.4倍 擬於2026年5月18日上市 - 新浪财经
 - 企展控股 ：通過一般授權配售新股份 募资约 5290 万港元 營運資金 - 新浪财经
 - 邁富時 ：通過一般授權認購新股份募资约 5.0 亿港元 智算基礎設施建設及運營 - 新浪财经
+- 翼菲科技（6871）香港公開發售超購14,855.4倍 擬於2026年5月18日上市 - 新浪财经
 - 国际足联秘书长：相信中国男足国家队也会很快获得世界杯参赛资格 - 新浪财经
+- 蔚来秦力洪： 高内存带宽、真实算力、高效协同、稳定量产，是衡量先进车载芯片的四大硬核标准 - 新浪财经
+- 感谢全国网友支持！央视拿下两届世界杯版权 美加墨费用约4亿：揭秘国际足联服软原因 - 新浪财经
 - 广发中证半导体材料设备ETF净值上涨4.39% - 新浪财经
-- 莫让谣言成为产业发展绊脚石 - 新浪财经
-- 转播权“拉锯战”背后：变“大”的世界杯谁来买单？ - 新浪财经
-- 奔驰CEO：愿意涉足国防生产 - 新浪财经
-- 知情人士：SpaceX股东批准普通股1拆5拆分方案 - 新浪财经
+- 调整就是机会？机构大动作调仓，这个板块年内还跌超13%，30亿资金借道ETF疯狂扫货 - 新浪财经
+- 哈马斯：伊兹丁·哈达德已身亡 - 新浪财经
+- 降雨推迟，预计20时前后影响北京城区 - 新浪财经
+- 明日，S2线、怀柔-密云线、通密线部分列车临时停运 - 新浪财经
+- 泰国发生火车与公交车相撞事故 已致8人死亡 - 新浪财经
+- Stellantis将在法国雷恩工厂组装至少一款东风汽车车型 - 新浪财经
+- 泰国一火车与一公交车相撞，已致8死25伤 - 新浪财经
+- OpenAI与马耳他达成协议，当地所有民众可免费使用ChatGPT Plus一年 - 新浪财经
+- 中银基金阎安琪1年6个月收益38.93%同类排名1640/3951，新发基金中银先进制造混合发起值得买吗？ - 新浪财经
 
-## 36氪 (1 条)
-- 高瓴增持英伟达、英特尔、台积电、Lumentum - 36kr.com
+## 36氪 (20 条)
+- 海南自贸港封关以来“零关税”进口货值超过22亿元
+- 比特币跌破78000美元，日内跌1.42%
+- 阿里健康正式发布医学AI助手“氢离子”
+- 马斯克称他不会出售任何SpaceX股票
+- 网易新闻、网易小蜜蜂宣布已接入DeepSeek-V4
+- 电影《给阿嬷的情书》观影人次破1000万
+- OpenAI再次重组高管团队：布罗克曼正式接管产品
+- 最高涨价200元，贵州茅台宣布公斤茅台等四款产品提价
+- SpaceX拟推万亿火星薪酬方案，马斯克回应：旨在确保公司专注于多行星生活愿景
+- 蜜雪冰城：蜜桃四季春销量环比前日增长接近140%
+- 中国机电商会率团访问美国洛杉矶
+- 秦力洪： 高内存带宽、真实算力、高效协同、稳定量产，是衡量先进车载芯片的四大硬核标准。
+- 海信与印尼国家投资部门战略合作签约
+- 华为鸿蒙智行首款旗舰级MPV智界V9上市
+- 乐道L80上市，售价24.28万起
+- 虚拟动点加入OpenLET工作委员会，共建具身智能数据新生态
+- 波音：已获200架中国意向订单初步承诺
+- 国内品牌金饰克价跌破1400元
+- FF获2500万美元新融资
+- SpaceX批准“1拆5”拆股方案，所有C类股将转换为A类股
 
-## 虎嗅 (19 条)
-- 讨厌AI 和液态玻璃？iOS27只会变本加厉……
-- 支撑YouTube、Netflix的隐形帝国：FFmpeg与VLC幕后工程师：核心团队仅5人，下载量超65亿次
-- Big Technology播客：5000亿美元的星际之门去哪了？苹果在AI投资上做对了？AI行业的权力版图正在重写
-- 走进数采工厂：深聊机器人数据荒漠、四层金字塔与种树人
-- AI打工人的“第一笔工资”：16.88美元
-- 文旅和物流，已抢先跑通
-- 库存激增55%，1.6亿商誉吞噬净利润，冻品一哥被小龙虾绊住
-- 靠给盒马代工，新业务营收暴涨3倍，“乳酸菌第一股”今年能扭亏吗？
-- 当精神障碍被滥用为社交标签
-- 航司觉得OTA没价值，这个想法对吗？
-- 从三周流水破亿到多次裁员：被朝夕光年收购后，他们能翻盘吗？
-- AI购物越好用，淘宝越危险
-- 这个女人什么来头？
-- 美国主机游戏30年：内容和生态定座次
-- 我输墨车辆断崖式下滑：关税政策调整的影响评估
-- 川普第一次那么冷静
-- 谢林点上的中美bromance
-- 美国游客疯狂涌入中国，中国游客悄悄远离美国
-- 今年20岁的老剧，多少年轻人还在狂刷
+## 虎嗅 (4 条)
+- 川普访华期间表现冷静 中美高层互动氛围平和 - 虎嗅
+- 半导体存储股票暴涨38倍 投资者焦虑情绪与AI公司估值逻辑分析 - 虎嗅
+- 存储与白酒行业周期对比：技术革命与信用扩张的不同结局 - 虎嗅
+- 央视以6000万美元获得2026年世界杯转播权 价格回归理性 - 虎嗅
 
-## GitHub Trending (12 条)
-- tinyhumansai/openhuman
-- obra/superpowers
-- K-Dense-AI/scientific-agent-skills
-- supertone-inc/supertonic
-- ruvnet/RuView
-- influxdata/telegraf
-- anthropics/skills
-- czlonkowski/n8n-mcp
-- NVIDIA-AI-Blueprints/video-search-and-summarization
+## 少数派 (1 条)
+- 为什么我觉得好的东西，媒体评测却给了低分？
+
+## GitHub Trending (9 条)
 - oven-sh/bun
-- mattpocock/skills
-- joeseesun/qiaomu-anything-to-notebooklm
+- K-Dense-AI/scientific-agent-skills
+- obra/superpowers
+- Anil-matcha/Open-Generative-AI
+- supertone-inc/supertonic
+- tinyhumansai/openhuman
+- ruvnet/RuView
+- pranshuparmar/witr
+- colbymchenry/codegraph
