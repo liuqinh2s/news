@@ -2,9 +2,53 @@
   "date": "2026-05-19",
   "news": [
     {
-      "title": "AI与制造业深度融合",
-      "summary": "中国国务院总理李强强调推动人工智能与先进制造业深度融合，旨在通过技术创新提升产业链现代化水平。这一政策导向将加速AI技术在工业场景的应用，促进制造业数字化转型，有望提升中国在全球产业链中的竞争力。政策实施将带动相关产业投资增加，创造新的就业机会，并对传统制造业产生深远影响。",
-      "reason": "国家战略层面推动AI与制造业融合，政策导向明确，影响深远",
+      "title": "中东局势紧张升级",
+      "summary": "美国总统特朗普威胁对伊朗采取军事行动后又宣布取消，以色列对黎巴嫩空袭已造成超过3000人死亡。美伊关系急剧恶化，霍尔木兹海峡面临封锁风险，国际社会担忧中东地区可能爆发更大规模冲突。G7财长正紧急磋商应对伊朗经济影响，全球能源市场波动加剧。",
+      "reason": "多源密集报道的中东危机，可能影响全球能源市场和地缘政治格局",
+      "impact_areas": [
+        "地缘",
+        "经济金融"
+      ],
+      "impact_level": "重大",
+      "sources": [
+        {
+          "name": "BBC",
+          "url": "https://www.bbc.com/news/articles/c7079e55zjro?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "name": "NYTimes",
+          "url": "https://www.nytimes.com/2026/05/18/world/middleeast/trump-iran-war-talks.html"
+        }
+      ]
+    },
+    {
+      "title": "马斯克OpenAI诉讼败诉",
+      "summary": "马斯克起诉OpenAI改革案因超时效被陪审团驳回，法院认为其提起诉讼时间过晚。马斯克曾指控OpenAI偏离其最初非营利使命，转向商业利益。这一判决对AI行业的治理模式和发展方向具有重要影响，可能引发更多关于AI伦理和监管的讨论。",
+      "reason": "科技巨头法律纠纷影响AI行业治理方向，多源密集报道",
+      "impact_areas": [
+        "科技",
+        "法律"
+      ],
+      "impact_level": "重大",
+      "sources": [
+        {
+          "name": "澎湃新闻",
+          "url": "https://m.thepaper.cn/detail/33198004"
+        },
+        {
+          "name": "财新网",
+          "url": "https://database.caixin.com/2026-05-19/102445348.html"
+        },
+        {
+          "name": "BBC",
+          "url": "https://www.bbc.com/news/articles/cewpyv79pw1o?at_medium=RSS&at_campaign=rss"
+        }
+      ]
+    },
+    {
+      "title": "AI应用加速落地",
+      "summary": "AI技术正在多个领域加速落地，包括金融生态圈、海外贸易与跨境沟通。渣打集团计划裁减后台岗位并借助人工智能提升回报，戴尔核心AI产品线新增1000家客户。报告显示2025年中国AI云市场规模超567亿元，阿里云在AI IaaS和MaaS领域双料领先。AI崛起促成美国670亿美元最大能源并购案，显示AI技术正深刻改变传统产业格局。",
+      "reason": "AI技术在多领域加速落地，科技类新闻权重高",
       "impact_areas": [
         "科技",
         "经济金融"
@@ -13,143 +57,189 @@
       "sources": [
         {
           "name": "财新网",
-          "url": "https://finance.caixin.com/2026-05-19/102445311.html"
-        }
-      ]
-    },
-    {
-      "title": "铝库存创历史新低",
-      "summary": "花旗银行研究报告指出，全球铝库存将在未来6至12个月内降至历史新低，主要受供应紧张和需求增长双重因素影响。这一变化将导致铝价大幅上涨，对铝加工、建筑、汽车等下游行业成本产生显著影响。同时，库存下降反映全球供应链重构趋势，可能引发相关产业链利润重新分配，并对全球通胀走势产生重要影响。",
-      "reason": "大宗商品库存创历史新低，对产业链和通胀有重大影响",
-      "impact_areas": [
-        "经济金融",
-        "产业"
-      ],
-      "impact_level": "重大",
-      "sources": [
+          "url": "https://www.caixin.com/2026-05-19/102445408.html"
+        },
+        {
+          "name": "财新网",
+          "url": "https://database.caixin.com/2026-05-19/102445349.html"
+        },
+        {
+          "name": "财新网",
+          "url": "https://database.caixin.com/2026-05-19/102445350.html"
+        },
         {
           "name": "36氪",
-          "url": "https://www.36kr.com/newsflashes/3815404146810629"
-        }
-      ]
-    },
-    {
-      "title": "iOS系统引入AI助手",
-      "summary": "苹果公司计划于6月发布最新操作系统，将引入AI写作助手等多项人工智能功能。这一举措标志着科技巨头正式将AI技术深度整合到主流消费电子产品中，可能加速AI技术在消费级应用的普及。新功能将提升用户体验，改变人机交互方式，并对整个AI产业链产生积极影响，可能引发更多企业跟进AI应用开发。",
-      "reason": "科技巨头正式将AI技术整合到主流操作系统，影响行业格局",
-      "impact_areas": [
-        "科技",
-        "产业"
-      ],
-      "impact_level": "重大",
-      "sources": [
-        {
-          "name": "36氪",
-          "url": "https://www.36kr.com/newsflashes/3815398796713729"
-        }
-      ]
-    },
-    {
-      "title": "马斯克诉OpenAI败诉",
-      "summary": "美国陪审团驳回了马斯克对OpenAI的诉讼，认为其提起诉讼时间过晚。这一裁决结束了科技巨头之间关于AI创始愿景的法律纠纷，为AI行业的发展方向提供了法律层面的确定性。结果可能影响未来AI研发的开放性与商业化平衡，并对AI伦理和治理框架的建立产生深远影响。",
-      "reason": "科技巨头间AI法律纠纷终结，对AI行业发展方向有重大影响",
-      "impact_areas": [
-        "科技",
-        "法律"
-      ],
-      "impact_level": "重大",
-      "sources": [
-        {
-          "name": "36氪",
-          "url": "https://www.36kr.com/newsflashes/3815396763098881"
-        }
-      ]
-    },
-    {
-      "title": "沃什将任美联储主席",
-      "summary": "美联储新任主席沃什将于22日宣誓就职，标志着美国货币政策进入新阶段。沃什被视为通胀鹰派，其上任可能推动更紧缩的货币政策，对全球金融市场产生深远影响。这一人事变动将影响美元走势、国际资本流动和全球利率环境，并对各国央行政策制定产生连锁反应。",
-      "reason": "美联储主席更迭，全球货币政策进入新阶段",
-      "impact_areas": [
-        "经济金融",
-        "政治"
-      ],
-      "impact_level": "重大",
-      "sources": [
-        {
-          "name": "36氪",
-          "url": "https://www.36kr.com/newsflashes/3815401439649287"
-        }
-      ]
-    },
-    {
-      "title": "三星罢工影响韩国经济",
-      "summary": "韩国央行发布报告称，三星电子持续罢工预计将拉低韩国GDP增速0.5个百分点。作为韩国最大的企业集团，三星电子的运营状况对韩国经济具有举足轻重的影响。此次罢工不仅影响短期经济增长，还可能对韩国半导体产业全球竞争力产生长期影响，并引发全球供应链担忧。",
-      "reason": "全球最大芯片制造商罢工，对韩国经济和全球供应链产生重大影响",
-      "impact_areas": [
-        "经济金融",
-        "产业",
-        "科技"
-      ],
-      "impact_level": "重大",
-      "sources": [
-        {
-          "name": "36氪",
-          "url": "https://www.36kr.com/newsflashes/3815403116011017"
-        }
-      ]
-    },
-    {
-      "title": "SpaceX实施拆股计划",
-      "summary": "SpaceX公司正式启动\"1拆5\"的拆股计划，这是航天科技领域的重要企业动态。拆股将提高股票流动性，吸引更多投资者参与，为公司未来发展提供资金支持。作为全球领先的私营航天企业，SpaceX的这一举措可能影响整个航天产业的投资格局，并加速太空商业化进程。",
-      "reason": "航天科技巨头拆股，影响行业投资格局和太空商业化进程",
-      "impact_areas": [
-        "科技",
-        "经济金融"
-      ],
-      "impact_level": "重大",
-      "sources": [
-        {
-          "name": "36氪",
-          "url": "https://www.36kr.com/newsflashes/3815399409147651"
-        }
-      ]
-    },
-    {
-      "title": "AI Agent创业热潮",
-      "summary": "科技巨头高管和AI领域顶尖人才正集中投身AI Agent创业领域，形成新一轮创业热潮。这一趋势反映了AI技术从通用模型向专业化应用转变，预示着AI产业进入新阶段。大量人才和资本涌入将加速AI Agent技术迭代，推动应用场景创新，并可能重塑人机交互方式和产业格局。",
-      "reason": "AI领域顶尖人才集中创业，预示产业进入新阶段",
-      "impact_areas": [
-        "科技",
-        "产业"
-      ],
-      "impact_level": "重大",
-      "sources": [
+          "url": "https://www.36kr.com/newsflashes/3815679486909954"
+        },
         {
           "name": "虎嗅",
-          "url": "https://www.huxiu.com/article/4859310.html"
+          "url": "https://www.huxiu.com/article/4859510.html"
         }
       ]
     },
     {
-      "title": "AI重塑管理权力",
-      "summary": "知名管理学者陈春花提出，在AI时代，管理者需要重建判断权，重新定义自身在组织中的价值。这一观点揭示了AI技术对传统管理模式的深刻影响，提示组织需要重新思考人机协作下的权力分配和决策机制。随着AI技术在管理场景的深入应用，组织结构和领导力模式将面临重大变革。",
-      "reason": "AI技术对管理模式产生深远影响，组织结构面临变革",
+      "title": "中国多地遭遇极端天气",
+      "summary": "中国多地遭遇极端天气，湖南279个乡镇出现暴雨，常德澧县降雨打破当地历史极值。湖南石门一所中学被淹，救援人员连夜转移五六百名学生。贵州中南部5县出现特大暴雨，20县降大暴雨。广西车辆坠河事故已致6人遇难。极端天气对当地居民生活、农业生产和基础设施造成严重影响，多地已启动应急响应。",
+      "reason": "多地极端天气打破历史极值，影响范围广",
       "impact_areas": [
-        "科技",
+        "社会",
+        "生态"
+      ],
+      "impact_level": "重大",
+      "sources": [
+        {
+          "name": "澎湃新闻",
+          "url": "https://m.thepaper.cn/detail/33198017"
+        },
+        {
+          "name": "澎湃新闻",
+          "url": "https://m.thepaper.cn/detail/33197928"
+        },
+        {
+          "name": "澎湃新闻",
+          "url": "https://m.thepaper.cn/detail/33197597"
+        },
+        {
+          "name": "凤凰网",
+          "url": "https://news.ifeng.com/c/8tFXemD4Lpk"
+        }
+      ]
+    },
+    {
+      "title": "柳州地震救援持续",
+      "summary": "柳州地震后救援工作持续进行，五月天主唱阿信宣布向震区提拨急难救助100万元。震后有居民在乒乓球台上搭帐篷过夜，中国地震局已调派85名专家赴柳州开展救援工作。地震对当地居民生活和基础设施造成影响，救援人员正全力开展搜救和安置工作。",
+      "reason": "地震救援涉及人道主义援助和应急管理，多源报道",
+      "impact_areas": [
+        "社会",
+        "公共卫生"
+      ],
+      "impact_level": "重大",
+      "sources": [
+        {
+          "name": "澎湃新闻",
+          "url": "https://m.thepaper.cn/detail/33198008"
+        },
+        {
+          "name": "凤凰网",
+          "url": "https://news.ifeng.com/c/8tFXUCtnmxj"
+        },
+        {
+          "name": "凤凰网",
+          "url": "https://news.ifeng.com/c/8tFbCCIGbN9"
+        }
+      ]
+    },
+    {
+      "title": "台湾地区领导人弹劾案投票",
+      "summary": "台湾地区领导人赖清德就职满2年，首例台湾地区领导人弹劾案今日进行投票。王毅赞赏塞舌尔撤销赖清德飞行许可，台当局前高官警告台湾产业失衡问题。赖清德弹劾案投票引发关注，卢秀燕表示政治人物都应接受检验。台湾地区政治动态可能影响两岸关系和区域稳定。",
+      "reason": "台湾地区领导人弹劾案投票，影响两岸关系",
+      "impact_areas": [
+        "政治",
         "社会"
       ],
       "impact_level": "重大",
       "sources": [
         {
-          "name": "虎嗅",
-          "url": "https://www.huxiu.com/article/4859414.html"
+          "name": "凤凰网",
+          "url": "https://news.ifeng.com/c/8tFaLmXbYy2"
+        },
+        {
+          "name": "凤凰网",
+          "url": "https://news.ifeng.com/c/8tFXUCtnmqC"
+        },
+        {
+          "name": "凤凰网",
+          "url": "https://news.ifeng.com/c/8tFVGKuoNq1"
+        },
+        {
+          "name": "凤凰网",
+          "url": "https://news.ifeng.com/c/8tFUJQrirll"
         }
       ]
     },
     {
-      "title": "海王生物资金危机",
-      "summary": "海王生物曝出19亿元资金占用问题，审计机构表示\"无法判断\"，公司已被ST处理，投资者索赔已正式启动。这一事件暴露了上市公司治理漏洞，可能引发监管机构对类似问题的全面排查。事件将对公司股价产生重大影响，并可能波及整个生物医药板块，投资者需警惕相关风险。",
-      "reason": "上市公司重大财务风险事件，对市场和投资者有重大警示意义",
+      "title": "全球金融市场波动",
+      "summary": "全球金融市场出现波动，A股三大指数午间休盘涨跌不一，通信设备板块领跌。恒指午间休盘涨0.39%，恒生科技指数跌0.11%。沪深两市成交额突破1.5万亿元。美债收益率飙升威胁人工智能推动的亚股涨势。机构报告显示受存储成本上涨影响，一季度东南亚智能手机平均售价创历史新高。大众汽车将发行30亿元熊猫债，日产考虑将在中国合资制造的电动汽车出口至加拿大。",
+      "reason": "全球金融市场波动，影响投资者决策和全球经济走势",
+      "impact_areas": [
+        "经济金融"
+      ],
+      "impact_level": "重大",
+      "sources": [
+        {
+          "name": "财新网",
+          "url": "https://finance.caixin.com/2026-05-19/102445335.html"
+        },
+        {
+          "name": "36氪",
+          "url": "https://www.36kr.com/newsflashes/3815691745599240"
+        },
+        {
+          "name": "36氪",
+          "url": "https://www.36kr.com/newsflashes/3815661887872517"
+        },
+        {
+          "name": "36氪",
+          "url": "https://www.36kr.com/newsflashes/3815621121121796"
+        },
+        {
+          "name": "财新网",
+          "url": "https://database.caixin.com/2026-05-19/102445346.html"
+        },
+        {
+          "name": "36氪",
+          "url": "https://www.36kr.com/newsflashes/3815607301070601"
+        },
+        {
+          "name": "36氪",
+          "url": "https://www.36kr.com/newsflashes/3815604493049347"
+        },
+        {
+          "name": "36氪",
+          "url": "https://www.36kr.com/newsflashes/3815594133151489"
+        }
+      ]
+    },
+    {
+      "title": "刚果（金）埃博拉疫情",
+      "summary": "刚果（金）埃博拉疫情已造成至少118人死亡，官方确认疫情在WHO宣布紧急状态前数周已被识别。疫情引发国际社会关注，美国已对来自疫区的旅行者实施限制。埃博拉疫情的再次爆发对全球公共卫生安全构成挑战，国际组织和各国正采取措施应对疫情扩散风险。",
+      "reason": "埃博拉疫情已造成重大伤亡，威胁全球公共卫生安全",
+      "impact_areas": [
+        "公共卫生",
+        "社会"
+      ],
+      "impact_level": "重大",
+      "sources": [
+        {
+          "name": "BBC",
+          "url": "https://www.bbc.com/news/articles/cq6pz60p996o?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "name": "NYTimes",
+          "url": "https://www.nytimes.com/2026/05/18/world/africa/congo-ebola-testing.html"
+        }
+      ]
+    },
+    {
+      "title": "人形机器人新突破",
+      "summary": "矩阵超智发布MATRIX-3全能旗舰级人形机器人，标志着人形机器人技术取得重要突破。该机器人具备高度自主性和环境适应能力，能在复杂环境中执行多种任务。这一突破可能改变制造业、服务业等多个行业的生产和服务模式，对未来人机协作和社会发展产生深远影响。",
+      "reason": "人形机器人技术取得重大突破，科技类新闻权重高",
+      "impact_areas": [
+        "科技",
+        "产业"
+      ],
+      "impact_level": "重大",
+      "sources": [
+        {
+          "name": "36氪",
+          "url": "https://www.36kr.com/newsflashes/3815634489433865"
+        }
+      ]
+    },
+    {
+      "title": "Lululemon与创始人谈判破裂",
+      "summary": "运动服饰品牌Lululemon宣布与创始人Chip Wilson的谈判破裂，称其观点\"过时\"。公司表示将继续推进战略转型，专注于产品创新和市场扩张。同时，Uber增加对德国Delivery Hero的持股，成为其最大股东。这些企业重大决策可能影响相关行业格局和市场竞争态势。",
+      "reason": "大型企业重大决策影响相关行业格局",
       "impact_areas": [
         "经济金融",
         "产业"
@@ -157,12 +247,16 @@
       "impact_level": "重大",
       "sources": [
         {
-          "name": "雪球热帖",
-          "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQdmhMbjdwMlpvblZLekVjOWVISzlPZFJpQ19PcmozdnpJYU5NUzJwRUFCamJURkowZ1o0a2h2X19NLXVpMXZoUnNCNWlZdnhZdVUtbnZNM2VwV1BSMUxkVm9fMnFuTkJLTmd5dG9DcGhHNWxONkFnSkhqRm5MNDUzZ1pQdzhHVzFnc0htOE1Rcw?oc=5"
+          "name": "Reuters",
+          "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQTkI4WWJFZ1ZFUXFrTndOMUNUOHd4OVBlaG5qUFUzSjdaMmFuTTFkdF92LUNqcHRqZVFuSlBWdHlyc2FwclpGWWVKOXMteWdVNGxSa3VndUlHYTZrVWxlSllqUWpSamRmc1p5cjhqR2E3NzFjMzI5cjBtcThLdmZSdFpNaEg2VFRhcVgyVkVwX1otWjlKSWQ3Tzd2MGpvQmxUbUJJRDg4MnFwLVlfRERwVWxR?oc=5"
+        },
+        {
+          "name": "Reuters",
+          "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNOEdmOUlmclpuRHU1elhjQThZRmZoWTZjVmZWaENkWXJaa1NNNU1Fek9CR0ppdWZUQWMyV3RJb0FtV0tjR2FNcmlBV19wYVlBLWNINDJHV0F0UUtDX2pYM1AyTjc0RmIzSW9mdDM5UjVoQ0hpbUNwUE5wQkRsVTVHUUZsYlR6dmp2YzBXdGRB?oc=5"
         }
       ]
     }
   ],
-  "total_fetched": 213,
-  "generated_at": "2026-05-19T07:27:25.353653+08:00"
+  "total_fetched": 289,
+  "generated_at": "2026-05-19T12:28:24.106000+08:00"
 }
