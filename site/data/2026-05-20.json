@@ -3,73 +3,68 @@
   "news": [
     {
       "title": "普京访华",
-      "summary": "俄罗斯总统普京于2026年5月20日抵达北京，开启对中国的正式访问。此次访问正值国际局势复杂多变之际，中俄关系面临新的发展机遇。普京车队已驶入钓鱼台国宾馆，并沿长安街行驶，受到高规格接待。此次访问预计将深化两国在政治、经济、科技等领域的合作，特别是在能源、军事技术和基础设施建设方面。中俄关系的深化将对全球地缘政治格局产生深远影响，特别是在应对西方压力方面形成更紧密的战略协作。",
-      "reason": "多平台报道的高热度国际新闻，涉及中俄关系这一全球战略议题。",
+      "summary": "俄罗斯总统普京于5月20日抵达北京，开始对中国进行正式访问。普京此次访华率领了庞大的代表团，包括多位内阁成员和经济官员。习近平主席与普京举行了会谈，双方讨论了中俄全面战略协作伙伴关系、国际形势和地区热点问题等议题。两国领导人还共同签署了《中俄睦邻友好合作条约》延期文件。此次访问正值国际局势复杂变化之际，中俄加强战略合作对维护地区稳定和全球战略平衡具有重要意义。",
+      "reason": "中俄元首会晤，地缘政治格局重大调整，多平台持续关注。",
       "impact_areas": [
         "政治",
-        "经济"
+        "地缘"
       ],
       "impact_level": "重大",
       "sources": [
         {
           "name": "澎湃新闻",
-          "url": "https://m.thepaper.cn/detail/33200995"
+          "url": "https://m.thepaper.cn/detail/33203039"
+        },
+        {
+          "name": "澎湃新闻",
+          "url": "https://h.xinhuaxmt.com/vh512/share/13110607?newstype=1001&homeshow=1"
+        },
+        {
+          "name": "财新网",
+          "url": "https://photos.caixin.com/2026-05-20/102445729.html"
         },
         {
           "name": "凤凰网",
-          "url": "https://news.ifeng.com/c/8tGVrtfAZSb"
+          "url": "https://news.ifeng.com/c/8tHF1m2FGue"
         },
         {
-          "name": "36氪",
-          "url": "https://www.36kr.com/newsflashes/3816804969350017"
+          "name": "凤凰网",
+          "url": "https://news.ifeng.com/c/8tHE3fRBKyz"
         }
       ]
     },
     {
-      "title": "美伊紧张升级",
-      "summary": "美国于2026年5月20日公布新一轮对伊朗制裁名单，同时美参院推进法案限制特朗普对伊动武。特朗普宣布曾暂停对伊打击，但表示美国可能再次打击伊朗。万斯称美伊谈判取得'很大进展'，但也预备了'B方案'。美军在印度洋扣押一艘伊朗相关油轮，伊朗民众则学习如何使用AK-47步枪应对可能的冲突。这一系列事件导致中东局势持续紧张，国际油价波动加剧。美伊冲突不仅影响中东地区稳定，还可能对全球能源供应和金融市场造成冲击。",
-      "reason": "多平台密集报道的国际热点，涉及中东地缘政治和能源安全。",
+      "title": "中美经贸磋商",
+      "summary": "中美两国近日完成了新一轮经贸磋商，取得初步成果。据商务部美大司负责人解读，此次磋商涵盖关税、稀土、农产品等多个领域，双方原则同意在贸易理事会项下讨论同等规模产品对等降税框架安排。同时，中国航空根据自身航空运输发展需要，将按照商业化原则引进200架波音飞机。此次磋商为中美经贸关系注入了积极因素，但双方在关键领域的分歧仍然存在，未来谈判仍面临挑战。",
+      "reason": "中美经贸关系取得重要进展，全球贸易格局有望调整。",
       "impact_areas": [
-        "政治",
-        "经济",
-        "能源"
+        "经济金融",
+        "政治"
       ],
       "impact_level": "重大",
       "sources": [
         {
           "name": "澎湃新闻",
-          "url": "https://m.thepaper.cn/detail/33202099"
-        },
-        {
-          "name": "澎湃新闻",
-          "url": "https://m.thepaper.cn/detail/33202014"
-        },
-        {
-          "name": "澎湃新闻",
-          "url": "https://m.thepaper.cn/detail/33201698"
-        },
-        {
-          "name": "澎湃新闻",
-          "url": "https://m.thepaper.cn/detail/33201239"
+          "url": "https://m.thepaper.cn/detail/33202939"
         },
         {
           "name": "凤凰网",
-          "url": "https://news.ifeng.com/c/8tGva9Gq2RX"
+          "url": "https://news.ifeng.com/c/8tHGB4D1AFA"
         },
         {
-          "name": "凤凰网",
-          "url": "https://news.ifeng.com/c/8tESuwrFZfc"
+          "name": "36氪",
+          "url": "https://www.36kr.com/newsflashes/3817076525351817"
         },
         {
-          "name": "凤凰网",
-          "url": "https://news.ifeng.com/c/8tEZfWCwrB8"
+          "name": "财新网",
+          "url": "https://international.caixin.com/2026-05-20/102445763.html"
         }
       ]
     },
     {
       "title": "埃博拉疫情蔓延",
-      "summary": "埃博拉病毒在非洲东部地区持续蔓延，引发国际社会高度关注。BBC报道称埃博拉疫情可能比最初想象的传播得更快，WHO医生警告称疫情可能持续数月。已有报道称'埃博拉折磨着我们'，当地民众陷入恐慌。这一疫情不仅威胁当地居民健康，还可能对地区经济和社会稳定造成严重影响。国际卫生组织已介入应对，但疫情控制面临诸多挑战，包括医疗资源不足、基础设施薄弱和民众对防疫措施的不信任等。",
-      "reason": "多平台报道的公共卫生危机，对非洲地区和全球健康安全构成威胁。",
+      "summary": "刚果(金)东部地区埃博拉疫情持续蔓延，世界卫生组织(WHO)警告称疫情可能持续数月。目前已有数十人感染，多人死亡。专家表示，此次疫情传播速度可能比最初预期的更快。国际社会已开始向疫区派遣医疗队和提供援助物资。埃博拉病毒是一种高度致命的病毒，通过体液传播，症状包括高烧、出血等，死亡率高达50%-90%。此次疫情引发国际社会对公共卫生安全的担忧。",
+      "reason": "非洲埃博拉疫情扩散，WHO警告可能持续数月，全球公共卫生安全受威胁。",
       "impact_areas": [
         "公共卫生",
         "社会"
@@ -83,126 +78,159 @@
         {
           "name": "BBC",
           "url": "https://www.bbc.com/news/articles/ceqp11gn1l8o?at_medium=RSS&at_campaign=rss"
-        }
-      ]
-    },
-    {
-      "title": "Google I/O大会",
-      "summary": "Google于2026年5月20日凌晨举行年度I/O开发者大会，展示了多项人工智能和云计算领域的最新进展。大会重点介绍了Google Pics应用，该应用结合AI生成技术和局部精细编辑功能，为用户提供更强大的图像处理能力。此外，Google还展示了其在自然语言处理、计算机视觉和机器学习等领域的突破性进展。这些技术进步将进一步推动AI在各个行业的应用，可能改变人机交互方式和内容创作模式。科技巨头在AI领域的竞争也将加速技术创新，为消费者和企业带来更多可能性。",
-      "reason": "科技巨头年度开发者大会，展示AI领域重大进展，影响科技产业发展方向。",
-      "impact_areas": [
-        "科技"
-      ],
-      "impact_level": "重大",
-      "sources": [
-        {
-          "name": "虎嗅",
-          "url": "https://www.huxiu.com/article/4859733.html"
         },
         {
-          "name": "雪球热帖",
-          "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1xV3U2bUlCVExzbW9ma2ZXZ1VlQzdydHhNVm5FUTdBRjNzT1RrMm9VcXhKMmhPc2h6WGlDbEk1SVNtc29wZDVHUzQ0cW10VHFOOXAtZHh1REFrUDk2SnN5ZWgybVpVTXRvUlBYWGhhUzFMaGhrX0RTU0E5Ulk?oc=5"
-        }
-      ]
-    },
-    {
-      "title": "美债收益率创新高",
-      "summary": "美国30年期国债收益率于2026年5月20日升至2007年以来最高水平，引发市场广泛关注。这一现象反映出投资者对通胀预期和经济增长前景的担忧。高收益率将增加美国政府融资成本，可能影响财政政策空间。同时，国债收益率上升将推高整个市场的借贷成本，对房地产市场、企业融资和消费者信贷产生连锁反应。这一趋势还可能引发全球资本重新配置，影响美元汇率和国际资本流动。美联储官员表示当前政策适当，但考虑延长加息周期或进一步加息，以应对通胀压力。",
-      "reason": "关键经济指标创19年新高，对全球金融市场和货币政策走向有重大影响。",
-      "impact_areas": [
-        "经济金融"
-      ],
-      "impact_level": "重大",
-      "sources": [
-        {
-          "name": "36氪",
-          "url": "https://www.36kr.com/newsflashes/3816294733136768"
+          "name": "NYTimes",
+          "url": "https://www.nytimes.com/2026/05/19/world/africa/ebola-outbreak-deaths-congo-who.html"
         },
         {
-          "name": "Reuters",
-          "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPNVgxSXNqUFY4YzVIVUhfQUgwRTU5TmpEbHZ3cWVUY0FhVFpBN2NSeGh6RGNISFRUakpaYU16ci12OHotLUdrbUU4ODJ1TC0tQVd1R0N0LTB1MFNQTG5LUEdhU2w5Mk13cS1ZWnpMaGdrRUd6OWxQVGQtNExUZVN0UWZwX2pCZzBBYXA3WkJJWVhrX1l0WjJZN3hHX09ibnU3aDBYRDRUZ21DdW54NWFFZEJDM0NCOURfSHI1MGpBQ2g?oc=5"
+          "name": "NYTimes",
+          "url": "https://www.nytimes.com/2026/05/19/world/aid-cuts-somalia-putin-china.html"
         }
       ]
     },
     {
-      "title": "港股IPO募资创新高",
-      "summary": "2026年1月至5月20日，香港股市IPO募资总额已超过1500亿港元，创下近年来新高。这一强劲表现反映出香港作为国际金融中心的吸引力依然强劲，特别是在亚洲地区。多家知名企业选择在香港上市，包括科技、金融和消费品行业的公司。香港证监会近期推出的多项改革措施，包括简化上市流程和吸引更多新经济企业，为这一增长提供了支持。强劲的IPO市场将为香港股市带来更多流动性，提升市场活力，并可能带动其他金融业务的发展。这一趋势也表明全球投资者对中国和亚洲市场的信心依然较高。",
-      "reason": "港股IPO募资额创近年来新高，反映亚洲市场活力和国际资本流向。",
-      "impact_areas": [
-        "经济金融"
-      ],
-      "impact_level": "重大",
-      "sources": [
-        {
-          "name": "36氪",
-          "url": "https://www.36kr.com/newsflashes/3816808957559944"
-        }
-      ]
-    },
-    {
-      "title": "自贸离岸债突破",
-      "summary": "2026年5月20日，FTU首次参与认购上海自贸离岸债，标志着两万亿元中资离岸债市场迎来关键突破。这一事件将进一步提升上海作为国际金融中心的地位，促进人民币国际化进程。自贸离岸债市场的突破将为中资企业在海外融资提供更多渠道，降低融资成本，同时为国际投资者提供更多投资中国市场的机会。这一发展还将推动中国金融市场的进一步开放，增强中国在全球金融体系中的话语权。分析师认为，这一突破将吸引更多国际金融机构参与中国金融市场，促进中国与全球金融市场的深度融合。",
-      "reason": "自贸离岸债市场获重大突破，对中国金融开放和人民币国际化有重要意义。",
-      "impact_areas": [
-        "经济金融"
-      ],
-      "impact_level": "重大",
-      "sources": [
-        {
-          "name": "36氪",
-          "url": "https://www.36kr.com/newsflashes/3816807815283589"
-        }
-      ]
-    },
-    {
-      "title": "U17男足进决赛",
-      "summary": "中国U17男足于2026年5月20日战胜澳大利亚队，时隔22年再次闯入亚洲杯决赛。这一历史性突破为中国足球带来了新的希望，也展现了中国青少年足球的发展成果。比赛过程激烈，中国队凭借顽强的斗志和出色的团队配合战胜了实力强劲的澳大利亚队。这一胜利不仅提升了国内足球爱好者的信心，也将促进中国足球青训体系的发展。中国足协表示将继续加大对青少年足球的投入，培养更多优秀足球人才。这一成就也为中国足球的未来发展注入了新的动力。",
-      "reason": "中国足球时隔22年再进决赛，具有历史性突破意义，引发全国关注。",
-      "impact_areas": [
-        "社会",
-        "体育"
-      ],
-      "impact_level": "重大",
-      "sources": [
-        {
-          "name": "澎湃新闻",
-          "url": "https://m.thepaper.cn/detail/33201860"
-        }
-      ]
-    },
-    {
-      "title": "玻利维亚抗议升级",
-      "summary": "玻利维亚于2026年5月20日爆发全国性抗议活动，新总统就职半年即面临下台呼声。抗议者对政府的经济政策和社会改革表示不满，要求总统下台。抗议活动已导致全国多地交通中断，部分商业活动暂停。玻利维亚政府已启动对话机制，试图与抗议代表进行谈判。这一政治危机反映出玻利维亚社会深层次的经济和社会问题，包括贫困、失业和不平等等。国际社会呼吁各方保持克制，通过和平对话解决分歧。这一事件可能对玻利维亚的政治稳定和经济发展产生深远影响。",
-      "reason": "南美国家政治危机升级，可能影响地区稳定和经济发展。",
+      "title": "美伊紧张升级",
+      "summary": "美国总统特朗普表示曾推迟对伊朗的\"重大攻击\"，但称德黑兰希望达成协议。与此同时，伊朗在霍尔木兹海峡的战略地位使其在中东局势中占据重要位置。有分析指出，伊朗早期战争目标之一是在伊朗领导人中安置强硬派前总统。以色列部长威胁要驱逐西岸巴勒斯坦人定居点，进一步加剧了地区紧张局势。美伊关系持续紧张，对全球能源安全和地区稳定构成重大挑战。",
+      "reason": "美伊关系持续紧张，中东局势动荡，能源安全受威胁。",
       "impact_areas": [
         "政治",
-        "社会"
+        "地缘",
+        "经济金融"
+      ],
+      "impact_level": "重大",
+      "sources": [
+        {
+          "name": "Reuters",
+          "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPSF9rZVdjR0RKS2w2VnI2M2dWWXZQQ21vck5sX1BRSGs0UVc0YWpTbXEzUEdXVGN6dmRLaTRMQlBERENZQTlUZnl5ZFVxLUNmd0N6dzk0bWlmaDlmcFlER0FDeFhWRDBUV29ONXBVb0xZblZIWE5VcW04Y3FMdGZUY1dHY3NVa2lzLWRyVGhHSUwwMElGQUFJLTEzTGtaeGlheUlqMjQtNTVwOHBzTjNOX2RfcF9reVFuU2FiSmVLcFRGbGRRZmk5bDdVdw?oc=5"
+        },
+        {
+          "name": "NYTimes",
+          "url": "https://www.nytimes.com/2026/05/19/world/middleeast/iran-trump-tension.html"
+        },
+        {
+          "name": "NYTimes",
+          "url": "https://www.nytimes.com/2026/05/19/world/europe/putin-china-state-visit.html"
+        },
+        {
+          "name": "NYTimes",
+          "url": "https://www.nytimes.com/2026/05/20/world/middleeast/iran-strait-of-hormuz-triang.html"
+        },
+        {
+          "name": "NYTimes",
+          "url": "https://www.nytimes.com/2026/05/19/us/politics/iran-israel-us-leader-ahmadinejad.html"
+        }
+      ]
+    },
+    {
+      "title": "丹诺医药IPO破纪录",
+      "summary": "丹诺医药近日完成IPO，超额认购达9000倍，创下市场纪录。该公司研发的全球首创幽门螺杆菌新药即将上市，该药物针对全球范围内广泛存在的幽门螺杆菌感染问题。幽门螺杆菌是导致胃炎、胃溃疡甚至胃癌的主要病原体，全球感染率超过50%。丹诺医药的新药采用创新机制，有望提高治疗效果并减少副作用。此次IPO的超额认购反映了市场对创新医药企业的强烈看好，也显示了中国生物医药产业的快速发展。",
+      "reason": "医药科技突破，IPO超额认购9000倍创市场纪录。",
+      "impact_areas": [
+        "科技",
+        "经济金融"
       ],
       "impact_level": "重大",
       "sources": [
         {
           "name": "财新网",
-          "url": "https://international.caixin.com/2026-05-20/102445672.html"
+          "url": "https://www.caixin.com/2026-05-20/102445772.html"
         }
       ]
     },
     {
-      "title": "日本医疗危机",
-      "summary": "2026年5月20日，日本多家医疗机构因手套短缺面临停业风险。这一危机源于全球医疗供应链中断和原材料价格上涨。日本医疗协会警告称，如果手套供应问题得不到解决，全国可能有超过100家医院和诊所被迫暂停部分服务。这一情况将严重影响日本医疗系统的正常运转，特别是在新冠疫情期间，医疗资源本已紧张。日本政府已紧急启动应急机制，寻求解决方案，包括增加国内生产、寻找替代供应商和调整医疗资源配置。这一事件凸显了全球医疗供应链的脆弱性，也提醒各国需要加强医疗物资的战略储备。",
-      "reason": "医疗物资短缺威胁医疗服务，反映全球供应链脆弱性，影响公共卫生安全。",
+      "title": "平头哥AI芯片升级",
+      "summary": "阿里巴巴旗下平头哥半导体公司宣布其AI芯片真武M890首次亮相，性能较前代提升3倍。真武系列GPU已累计出货超56万片，广泛应用于人工智能训练和推理场景。真武M890采用先进制程工艺，在能效比和计算性能方面均有显著提升，将为中国AI产业提供更强大的算力支持。平头哥作为阿里巴巴的芯片设计部门，近年来在AI芯片领域持续发力，此次产品升级将进一步推动中国AI硬件自主化进程。",
+      "reason": "国产AI芯片性能提升3倍，累计出货超56万片，科技自主化重大进展。",
       "impact_areas": [
-        "公共卫生",
-        "经济"
+        "科技",
+        "经济金融"
       ],
       "impact_level": "重大",
       "sources": [
         {
           "name": "36氪",
-          "url": "https://www.36kr.com/newsflashes/3816302049559686"
+          "url": "https://www.36kr.com/newsflashes/3817111570482304"
+        },
+        {
+          "name": "36氪",
+          "url": "https://www.36kr.com/newsflashes/3817080294999168"
+        }
+      ]
+    },
+    {
+      "title": "阿里发布千问3.7-Max",
+      "summary": "阿里巴巴正式发布新一代千问旗舰模型Qwen3.7-Max，这是其大语言模型系列的最新升级。Qwen3.7-Max在多项基准测试中表现优异，在理解能力、推理能力和多语言支持方面均有显著提升。该模型采用了更先进的训练方法和优化技术，能够更好地处理复杂任务和多轮对话。阿里巴巴表示，Qwen3.7-Max将广泛应用于智能客服、内容创作、代码生成等多个领域，为企业数字化转型提供更强大的AI支持。此次发布显示中国科技企业在AI大模型领域的持续创新和竞争力。",
+      "reason": "国内AI大模型重大升级，多项能力显著提升，科技领域重要突破。",
+      "impact_areas": [
+        "科技",
+        "经济金融"
+      ],
+      "impact_level": "重大",
+      "sources": [
+        {
+          "name": "36氪",
+          "url": "https://www.36kr.com/newsflashes/3817070340342921"
+        }
+      ]
+    },
+    {
+      "title": "Meta战略重组",
+      "summary": "Meta公司宣布开始新一轮裁员，以提升效率并弥补AI支出增长。此次裁员是Meta战略重组的一部分，旨在将更多资源投入到人工智能和元宇宙领域。Meta近年来在AI和元宇宙方面投入巨大，但短期内难以看到回报，导致公司面临成本压力。此次裁员反映了科技巨头在AI时代的战略调整，也预示着全球科技产业格局可能发生重大变化。市场分析师认为，Meta的战略调整将对整个科技行业产生深远影响，可能引发其他科技公司的类似举措。",
+      "reason": "科技巨头战略重组，AI投入加大，全球科技产业格局面临调整。",
+      "impact_areas": [
+        "科技",
+        "经济金融"
+      ],
+      "impact_level": "重大",
+      "sources": [
+        {
+          "name": "财新网",
+          "url": "https://database.caixin.com/2026-05-20/102445748.html"
+        }
+      ]
+    },
+    {
+      "title": "美债市场震荡",
+      "summary": "近日多笔大宗期货交易导致美债市场出现剧烈波动，被市场形容为\"缴械投降\"。此次波动与美联储政策预期、通胀数据以及全球资金流向变化密切相关。同时，3月海外投资者持有美国国债规模下降，而英国逆势增持，显示全球投资者对美国国债的态度分化。市场分析师认为，美债市场的波动反映了全球经济不确定性增加，投资者风险偏好发生变化。此次波动对全球金融市场产生连锁反应，可能导致资本重新配置和资产价格调整。",
+      "reason": "美债市场剧烈波动，全球投资者态度分化，金融市场重大信号。",
+      "impact_areas": [
+        "经济金融",
+        "政治"
+      ],
+      "impact_level": "重大",
+      "sources": [
+        {
+          "name": "财新网",
+          "url": "https://database.caixin.com/2026-05-20/102445705.html"
+        },
+        {
+          "name": "财新网",
+          "url": "https://finance.caixin.com/2026-05-20/102445753.html"
+        }
+      ]
+    },
+    {
+      "title": "三星电子罢工",
+      "summary": "韩国三星电子工会宣布劳资调解破裂，将于次日举行大规模罢工。此次罢工是三星电子近年来最大规模的劳资纠纷，涉及多个工厂和部门。工会要求提高薪资、改善工作条件并保障员工权益，而公司方面则强调需要控制成本以保持竞争力。三星电子是全球最大的存储芯片和智能手机制造商，此次罢工可能对其供应链和产品交付造成严重影响。市场分析师认为，此次罢工反映了全球科技产业面临的劳动力成本上升和劳资关系紧张问题，可能对整个行业产生连锁反应。",
+      "reason": "全球最大电子企业之一面临大规模罢工，供应链受威胁。",
+      "impact_areas": [
+        "经济金融",
+        "科技"
+      ],
+      "impact_level": "重大",
+      "sources": [
+        {
+          "name": "凤凰网",
+          "url": "https://news.ifeng.com/c/8tHDHVcLfze"
+        },
+        {
+          "name": "36氪",
+          "url": "https://www.36kr.com/newsflashes/3817034902373505"
         }
       ]
     }
   ],
-  "total_fetched": 196,
-  "generated_at": "2026-05-20T07:33:15.219659+08:00"
+  "total_fetched": 277,
+  "generated_at": "2026-05-20T12:28:51.766441+08:00"
 }
