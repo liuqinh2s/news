@@ -2,25 +2,57 @@
   "date": "2026-05-21",
   "news": [
     {
-      "title": "中俄联合声明",
-      "summary": "中俄两国发表联合声明，致力于维护和加强全球战略平衡与稳定。声明强调双方将深化全面战略协作伙伴关系，共同应对全球挑战。这一声明在国际社会引起广泛关注，被视为对当前国际格局的重要表态。中俄两国作为联合国安理会常任理事国，其战略合作对全球政治经济格局具有重要影响。",
-      "reason": "中俄战略合作升级，影响全球战略格局",
+      "title": "普京访华24小时",
+      "summary": "俄罗斯总统普京对中国进行为期24小时的国事访问，行程高效紧凑。双方就深化中俄全面战略协作伙伴关系达成多项共识，涉及能源、科技、经贸等领域。此次访问正值国际局势复杂变化之际，中俄加强合作对维护地区稳定和全球战略平衡具有重要意义。",
+      "reason": "中俄大国高层互动，地缘政治影响重大",
       "impact_areas": [
         "政治",
-        "地缘"
+        "经济"
+      ],
+      "impact_level": "重大",
+      "sources": [
+        {
+          "name": "澎湃新闻",
+          "url": "https://m.thepaper.cn/detail/33204657"
+        }
+      ]
+    },
+    {
+      "title": "三星罢工戏剧性刹车",
+      "summary": "三星电子工会原计划发起的\"百万亿级\"规模罢工在发动前一小时戏剧性暂停。劳资双方就AI技术带来的利润分配展开激烈博弈，工会要求分享AI技术带来的收益。此次事件反映了科技革命背景下劳资关系的新变化，以及AI技术对传统产业格局的深远影响。",
+      "reason": "科技巨头劳资博弈，AI利润分配引发全球关注",
+      "impact_areas": [
+        "科技",
+        "社会"
+      ],
+      "impact_level": "重大",
+      "sources": [
+        {
+          "name": "澎湃新闻",
+          "url": "https://m.thepaper.cn/detail/33204487"
+        }
+      ]
+    },
+    {
+      "title": "SpaceX提交IPO文件",
+      "summary": "SpaceX向美国证券交易委员会提交IPO招股书，文件显示公司单季亏损达42.8亿美元。尽管亏损扩大，但SpaceX仍计划通过上市融资，加速其在AI和太空探索领域的布局。这一举动反映了资本市场对太空科技企业的态度，以及马斯克对SpaceX未来发展的战略规划。",
+      "reason": "太空科技巨头IPO，亏损规模创纪录",
+      "impact_areas": [
+        "科技",
+        "经济金融"
       ],
       "impact_level": "重大",
       "sources": [
         {
           "name": "财新网",
-          "url": "https://finance.caixin.com/2026-05-21/102445998.html"
+          "url": "https://database.caixin.com/2026-05-21/102446037.html"
         }
       ]
     },
     {
-      "title": "OpenAI拟秋季IPO",
-      "summary": "OpenAI据悉将在几周内提交IPO文件，计划于秋季上市。这一消息引发市场广泛关注，作为AI领域的领军企业，OpenAI的上市将重塑AI行业格局。公司估值预计将达到数千亿美元，将成为科技史上最大规模的IPO之一。此次上市也将加速AI技术的商业化进程，对全球科技产业发展产生深远影响。",
-      "reason": "AI巨头上市，将重塑行业格局",
+      "title": "英伟达回购800亿美元",
+      "summary": "英伟达公布最新季度财报，营收增长但未达市场预期，随后宣布新增800亿美元股票回购计划并上调股息。这一举措被视为英伟达应对市场波动、维护投资者信心的战略举措。英伟达作为AI芯片领域的领军企业，其动向对全球科技产业和金融市场具有重要影响。",
+      "reason": "AI芯片巨头回购股票，提振市场信心",
       "impact_areas": [
         "科技",
         "经济金融"
@@ -28,15 +60,15 @@
       "impact_level": "重大",
       "sources": [
         {
-          "name": "36氪",
-          "url": "https://www.36kr.com/newsflashes/3818237046866817"
+          "name": "财新网",
+          "url": "https://database.caixin.com/2026-05-21/102446038.html"
         }
       ]
     },
     {
-      "title": "SpaceX提交IPO",
-      "summary": "SpaceX已公开提交纳斯达克IPO文件，股票代码为SPCX。这一消息标志着马斯克的太空探索公司正式进入资本市场。作为全球领先的私人航天公司，SpaceX的上市将加速太空商业化进程，对航天产业格局产生深远影响。公司估值预计将达到数千亿美元，将成为科技史上最大规模的IPO之一。",
-      "reason": "航天巨头上市，将重塑太空探索格局",
+      "title": "Anthropic首季盈利",
+      "summary": "AI公司Anthropic有望首次实现单季度盈利，同时宣布与SpaceX达成协议，每月支付12.5亿美元使用其计算资源。这一合作反映了AI企业对计算资源的高度依赖，以及AI行业竞争格局的演变。Anthropic的盈利进展被视为AI行业商业化进程的重要里程碑。",
+      "reason": "AI公司首次盈利，与SpaceX达成巨额计算资源协议",
       "impact_areas": [
         "科技",
         "经济金融"
@@ -44,62 +76,62 @@
       "impact_level": "重大",
       "sources": [
         {
-          "name": "36氪",
-          "url": "https://www.36kr.com/newsflashes/3818235423179652"
+          "name": "财新网",
+          "url": "https://database.caixin.com/2026-05-21/102446040.html"
         }
       ]
     },
     {
-      "title": "英伟达利润大增",
-      "summary": "英伟达公布第一财季财报，净利润达到583亿美元，同比增长211%。这一业绩远超市场预期，主要得益于AI芯片需求的爆发式增长。英伟达作为全球领先的GPU制造商，其业绩表现反映了AI产业的蓬勃发展态势。公司股价应声上涨，进一步巩固了其在AI芯片领域的领先地位。",
-      "reason": "AI芯片需求爆发，科技巨头业绩超预期",
+      "title": "外资回流中国股市",
+      "summary": "随着中东地区紧张局势趋稳，国际资本重新评估中国市场风险，4月份外资净流入中国股市规模超过2000亿元。这一数据表明国际投资者对中国经济前景的信心正在恢复，同时也反映了全球资本流动的新趋势。外资流向变化对人民币汇率、A股市场走势具有重要影响。",
+      "reason": "外资大规模回流中国股市，释放积极信号",
       "impact_areas": [
-        "科技",
         "经济金融"
       ],
       "impact_level": "重大",
       "sources": [
         {
+          "name": "财新网",
+          "url": "https://database.caixin.com/2026-05-21/102446061.html"
+        }
+      ]
+    },
+    {
+      "title": "充电设施数量创纪录",
+      "summary": "国家能源局发布数据显示，截至2026年4月底，中国电动汽车充电基础设施总量达到2195.5万个，同比增长47.4%。这一快速增长反映了新能源汽车产业的蓬勃发展，以及国家对充电网络建设的重视。充电基础设施的完善将进一步推动电动汽车普及，对能源结构转型和碳减排目标实现具有重要意义。",
+      "reason": "充电设施数量创纪录，新能源车产业加速发展",
+      "impact_areas": [
+        "科技",
+        "生态"
+      ],
+      "impact_level": "重大",
+      "sources": [
+        {
           "name": "36氪",
-          "url": "https://www.36kr.com/newsflashes/3818231393633412"
+          "url": "https://www.36kr.com/newsflashes/3818498861565057"
         }
       ]
     },
     {
-      "title": "埃博拉疫情蔓延",
-      "summary": "世界卫生组织表示，埃博拉病毒可能在刚果(金)已经传播了两个月，疫情将进一步扩大。这一警告引发国际社会对公共卫生安全的担忧。WHO呼吁国际社会加强合作，共同应对这一全球健康威胁。埃博拉疫情的蔓延将对全球公共卫生体系提出严峻挑战，也可能对相关地区的经济和社会发展产生深远影响。",
-      "reason": "埃博拉疫情持续蔓延，威胁全球公共卫生安全",
+      "title": "智驾人才流失",
+      "summary": "有报道称中国智能驾驶领域面临人才流失和技术外流风险，多家企业的核心技术团队被国际科技巨头挖角。这一现象引发对中国智驾产业竞争力的担忧，同时也反映了全球AI人才竞争的激烈程度。智驾技术被视为未来汽车产业的核心竞争力，其发展状况对中国汽车产业转型升级具有重要影响。",
+      "reason": "智驾人才流失引发产业安全担忧",
       "impact_areas": [
-        "公共卫生"
+        "科技",
+        "产业"
       ],
       "impact_level": "重大",
       "sources": [
         {
-          "name": "Reuters",
-          "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxOQXdqX0dMNmMyMnEyM21QUldncVg4UUI1T0c2OTVmbVFmcko4S1JVckVpdkRDYzROajhzcWQzdGRjNU5MdGc4SWpDQmRubkNsdDJDaWpubUxkeWlEam5ydFFsY01VOFlULWRUZDYyZElIZnFvazI1VE9fekRZdGVYa2dYU0U5SmNacjI3UWZzdWY4MHgwQS1CeWxnWUFyUFNrb0VsSVR5bUlWbHFiMmhKbTlMd0prMkxWcDROZVRIdEFaSGhZcC1pSXZ5blh1cE9xVncxZ3I3dkJNLWpx"
+          "name": "虎嗅",
+          "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE04bldMQW1GRjBFa05xTUJDWExHMXk5bTM1M1h0OGd3YjZaQm8zU1RkaFF6bld1YTJUQk00b01qOFpEdGNoQ056SUFxTjlqdnFJTXBuWg?oc=5"
         }
       ]
     },
     {
-      "title": "习近平接待普京",
-      "summary": "在接待特朗普几天后，习近平在北京会见了普京，并举行了茶叙。这一外交活动引发国际社会广泛关注，被视为中美俄三国关系的重要互动。习近平与普京的会晤强调中俄全面战略协作伙伴关系，同时也在中美关系微妙背景下展现外交平衡。这一系列外交活动将对全球政治格局产生深远影响。",
-      "reason": "中美俄外交互动，影响全球战略格局",
-      "impact_areas": [
-        "政治",
-        "地缘"
-      ],
-      "impact_level": "重大",
-      "sources": [
-        {
-          "name": "NYTimes",
-          "url": "https://www.nytimes.com/2026/05/20/world/asia/china-putin-trump-russia-xi.html"
-        }
-      ]
-    },
-    {
-      "title": "AI挑战学术圈",
-      "summary": "一位退学博士开发的AI系统在学术领域引发震动，该系统在多项学术评估中表现优异，甚至超过了许多资深学者。这一现象引发了对AI与学术关系的深入讨论，有人担忧AI可能取代部分学术工作，也有人认为AI将推动学术创新。这一事件反映了AI技术的快速发展及其对传统行业的深远影响。",
-      "reason": "AI挑战传统学术，引发行业变革讨论",
+      "title": "学术打假风暴",
+      "summary": "近期中国学术界和文学界接连曝出多起学术不端和抄袭事件，借助AI技术进行造假的现象引发关注。AI工具的普及使得学术不端行为更加隐蔽，同时也为打假提供了新的技术手段。这一现象反映了科技发展对传统学术伦理和创作生态的深远影响，以及社会对学术诚信的重视。",
+      "reason": "AI技术引发学术诚信危机，监管面临新挑战",
       "impact_areas": [
         "科技",
         "社会"
@@ -108,58 +140,27 @@
       "sources": [
         {
           "name": "虎嗅",
-          "url": "https://www.huxiu.com/article/4860032.html"
+          "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1tcTRUQndLcnpBbkpMWlFWeDB0dFQ4ZXNnMWNnT3otekFMVGRPODVRUjJGU2s2OTREaFExVkhVRTk4aExDdlc3Nk9aQjNKSTBQR1E?oc=5"
         }
       ]
     },
     {
-      "title": "美国反AI浪潮",
-      "summary": "美国多所大学毕业典礼上出现学生嘘声，针对AI技术的应用引发争议。有学生表示\"AI还不如政客受欢迎\"，反映了公众对AI技术的复杂态度。这一现象引发了对AI社会影响的广泛讨论，包括AI在教育、就业等领域的应用前景。反AI浪潮的出现可能影响AI技术的发展方向和政策制定。",
-      "reason": "美国校园反AI浪潮，反映公众对技术态度转变",
+      "title": "长三角一体化加速",
+      "summary": "长三角地区一体化发展取得新进展，新增12家创新联合体，同时谋划推进44项交通重点项目。这些举措将进一步促进区域协同创新和互联互通，提升长三角地区整体竞争力。作为中国经济发展的重要引擎，长三角一体化进程对全国区域协调发展具有重要示范意义。",
+      "reason": "长三角一体化加速推进，创新与交通双轮驱动",
       "impact_areas": [
-        "科技",
-        "社会"
+        "经济",
+        "科技"
       ],
       "impact_level": "重大",
       "sources": [
         {
           "name": "澎湃新闻",
-          "url": "https://m.thepaper.cn/detail/33204121"
-        }
-      ]
-    },
-    {
-      "title": "美国起诉卡斯特罗",
-      "summary": "美国司法部对古巴前领导人劳尔·卡斯特罗提起谋杀指控，指控其与1996年击落两架美国民用飞机事件有关。这一事件引发国际社会广泛关注，可能进一步恶化美古关系。美国选择在这一时机提起指控，被视为对古巴政府的施压，反映了当前国际政治格局的变化。",
-      "reason": "美国起诉古巴前领导人，加剧国际关系紧张",
-      "impact_areas": [
-        "政治",
-        "地缘"
-      ],
-      "impact_level": "重大",
-      "sources": [
-        {
-          "name": "BBC",
-          "url": "https://www.bbc.com/news/articles/c3r219yxl5eo?at_medium=RSS&at_campaign=rss"
-        }
-      ]
-    },
-    {
-      "title": "中蒙联手治沙",
-      "summary": "蒙古国森林局长在接受专访时表示，该国70%的国土遭受荒漠化威胁，与中国合作治理沙漠化成为当务之急。中蒙两国将加强在生态保护领域的合作，共同应对气候变化挑战。这一合作不仅对两国生态环境有积极影响，也为全球生态治理提供了重要参考。",
-      "reason": "中蒙合作治理荒漠化，应对全球生态挑战",
-      "impact_areas": [
-        "生态"
-      ],
-      "impact_level": "重大",
-      "sources": [
-        {
-          "name": "澎湃新闻",
-          "url": "https://m.thepaper.cn/detail/33203791"
+          "url": "https://m.thepaper.cn/detail/33204890"
         }
       ]
     }
   ],
-  "total_fetched": 189,
-  "generated_at": "2026-05-21T07:29:26.850135+08:00"
+  "total_fetched": 233,
+  "generated_at": "2026-05-21T12:33:47.273653+08:00"
 }
