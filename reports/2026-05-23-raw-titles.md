@@ -1,4 +1,4 @@
-# 2026-05-23 原始新闻标题 (176 条)
+# 2026-05-23 原始新闻标题 (249 条)
 
 ## 新华社 (20 条)
 - Education, health fees among key concerns
@@ -22,70 +22,114 @@
 - Former Chongqing political official facing corruption investigation
 - Former Chongqing political official facing corruption investigation
 
-## 澎湃新闻 (15 条)
-- 经济日报刊文：车市该跟价格战说再见了
-- 人民日报钟声：国际社会不能被日本的核伪装欺骗
-- 释疑｜斯塔默也倒计时了？政坛“走马灯”狂转，谁能治好“英国病人”
-- 明查｜日本GPS定位器“位置信息泄露至中国”？设备中国制造，但位置数据非共享
-- 山西沁源一煤矿爆炸已致8人死亡，井下38人正在全力搜救
-- 经济日报金观平：做好农村金融离不开乡村治理
-- 柳拯已任中国红十字会党组书记、常务副会长
-- 诺贝尔经济学奖得主埃德蒙·费尔普斯逝世，曾获中国政府友谊奖
-- 历史上的今天｜1949年5月23日，毛泽东部署向全国进军
-- 一个以科技为名的节日，在一座深植科创基因的城市
-- 纽约股市三大股指22日上涨
-- 特朗普与国家安全团队举行会议，商讨对伊战事
-- 中国队获得U17男足亚洲杯亚军
-- 沃什宣誓就任美联储主席，面临通胀挑战
-- 商务部部长王文涛会见美国副贸易代表斯威策
+## 澎湃新闻 (19 条)
+- 院士走上科学红毯，点赞“现在小学生提出的问题非常深刻”
+- 马上评｜“神舟二十三”飞天，香港同胞梦圆
+- 中华全国总工会原副主席李奇生逝世，享年86岁
+- 美国调整移民政策，申请绿卡须返回本国递交申请
+- 苏州一酒店董事长被边控后两次传唤未到庭，法院：有违法出境嫌疑
+- 视频丨山西沁源煤矿事故已致8人遇难，空中视角直击救援现场
+- 特朗普周末“坐镇白宫” ：若谈判破裂或对伊朗发动“决定性打击”
+- 山西沁源煤矿事故企业负责人被控制
+- 视频丨神舟二十三号即将出征，解析精准到秒的发射窗口
+- 世卫上调刚果（金）埃博拉疫情风险等级至“非常高”，当地抗议者焚烧医疗物资
+- “东北超”，沈阳准备好了
+- 神二十三乘组航天员朱杨柱、张志远、黎家盈简历来了
+- 又有百亿基金经理加入“减负潮”，易方达蓝筹精选增聘两将
+- 香港籍载荷专家黎家盈将搭乘神舟二十三号飞船升空
+- 高松任北京大学校长
+- 民营建筑巨头太平洋起诉广西贵港城管局案一审：一个违规PPP项目的善后困局
+- 二十多年浮沉，孙浩终于在《主角》中找到了人生角色
+- 习近平对山西长治市沁源县一煤矿瓦斯爆炸事故作出重要指示
+- 澎湃早晚报｜早餐湃·U17国足获亚洲杯亚军
 
-## 凤凰网 (14 条)
-- 美国纽约一造船厂爆炸起火，致16人受伤
-- 特朗普与国家安全团队开会，商讨对伊战事
-- 山西一煤矿发生事故已致4死，井下仍有90人
-- 美国家情报总监加巴德辞职隐情曝光
-- 普京称乌袭击卢甘斯克学校致6死39伤
-- “堤丰”中导系统将再次用于美日联合演习
-- 伊朗外交部发言人：伊美分歧严重，难言协议接近达成
-- 美国防部公布第二批涉UFO档案
-- 伊朗外交部发言人：当前伊美谈判不涉及核问题
-- 美国国家情报总监加巴德辞职
-- 王文涛部长会见美国副贸易代表斯威策
-- 西安发生一起交通事故致7人受伤，警方通报
-- 沃什宣誓就任美联储主席
-- 古巴国家主席：他们公然撒谎是为战争找借口！
+## 南方周末 (1 条)
+- 最富美联储主席走马上任：“三把火”与“不可能三角”
 
-## 央视网 (4 条)
+## 凤凰网 (20 条)
+- 伊朗警告若再遭袭将开启战斗3.0
+- 山西煤矿事故企业负责人被控制
+- 山西大同发生3.2级地震，疑似塌陷
+- 神二十三乘组简历来了
+- 神舟二十三号即将出征，解析精准到秒的发射窗口
+- 和平分手？没那么简单，特朗普又一内阁大员离职内幕曝光
+- 伊朗关闭西部空域
+- 首次公开！神舟二十三号航天员乘组训练画面
+- “天宫”将迎首位香港航天员：黎家盈入选前在警队工作，拥有博士学位
+- 出征在即！神二十三乘组想对家人说…
+- 山西煤矿事故已致8人遇难，空中视角直击救援现场
+- 李家超感谢国家支持和信任，祝贺黎家盈成为第四批航天员
+- 高松任北京大学校长
+- 嫦娥七号计划于下半年择机发射
+- 9项科学实验将随神舟二十三号载人飞船上行中国空间站
+- 香港航天员黎家盈：学会了一些地道的东北话
+- 香港航天员黎家盈作为载荷专家，目前整体状态良好
+- 中国2030年实现航天员登月，空间站将从三方面支持
+- 两名巴基斯坦航天员已进入中国航天员科研训练中心，参加任务训练
+- “天宫”将迎首位香港航天员：黎家盈入选前在香港警务处工作，拥有博士学位
+
+## 财新网 (15 条)
+- “不死妖僧”拉斯普京｜猎读
+- 一周天下｜暴雨洪涝袭击南方三省、普京访华
+- 财新闻｜研究：全球近12亿人有精神障碍
+- 【CCI快报】：中国大宗商品指数周跌1.11% 焦煤领跌5.06%
+- 【周刊提前读】AI打开心理健康服务普及空间 但伦理风险不可忽视
+- 【周刊提前读】楼市浮现积极信号 恢复动能几何？
+- 【周刊提前读】入境游悄然升温 如何挖掘万亿级市场
+- 【周刊提前读】一年内新增贷款两度负增长 事出何因？
+- 【周刊提前读】险资加仓商业不动产 交易结构有何看点？
+- 【周刊提前读】城投平台积极盘活数字资产 但是难题不少
+- 【周刊提前读】在政治与独立性之间 新任美联储主席如何抉择
+- 【周刊提前读】深度：国产存储巨头闯关A股 超级周期下估值存争议
+- 【周刊提前读】深度：AI巨头争相上市 中美资本竞逐“船票”
+- 老虎、富途共罚没23亿元 美股看跌期权现“抢跑”交易
+- 视线｜毒枭留下的河马泛滥成灾 哥伦比亚下达扑杀令
+
+## 央视网 (5 条)
 - “勇于担当、甘于奉献” - 央视网
-- 亚醜钺：青铜器上的威猛人面 - 央视网
 - 野生白色大熊猫再度“出镜” 时隔数年状态良好 - 央视网
-- 沃什宣誓就任美联储主席 - 央视网
+- 亚醜钺：青铜器上的威猛人面 - 央视网
+- 神二十三乘组在轨期间将新开展100余项科学与应用项目 - 央视网
+- 五角大楼再公布多份UFO解密文件 - 央视网
 
-## BBC (9 条)
+## BBC (17 条)
 - Russia's Putin vows retaliation after accusing Ukraine of hitting student dormitory
+- SpaceX launches massive Starship V3 rocket on test flight
 - Ebola risk raised to 'very high' in DR Congo
 - Gaza flotilla activists allege abuse by Israeli forces while detained
-- Bodies of Italian divers did not have optimal equipment, says rescuer
-- Judge dismisses criminal case against Kilmar Abrego Garcia
+- Race for French presidency sees ex-PM Philippe as early favourite to beat populists
 - Tulsi Gabbard to resign as US director of national intelligence
+- Rubio visits India to sell energy as Iran oil shock persists
+- US government releases UFO sighting reports - 'Orbs swarming in all directions'
+- Bodies of Italian divers did not have optimal equipment, says rescuer
+- More than 40,000 Californians evacuated due to chemical tank leak
 - Carney says Alberta is 'essential' to Canada as province plans vote on separation
+- Judge dismisses criminal case against Kilmar Abrego Garcia
 - Waymo pauses robotaxis in five US cities after cars drive into flooded roads
+- 'Speed, money and compassion' - lessons from an Ebola survivor and other experts
+- The space race to create gym equipment for future astronauts
 - Trump is putting pressure on Cuba - why and to what end?
+- Moment SpaceX rocket explodes in the Indian Ocean after splashdown
 
-## Reuters (9 条)
+## Reuters (8 条)
 - Gabbard resigns as Trump's top US intelligence official - Reuters
 - Warsh takes the Fed's helm as inflation climbs, consumer sentiment dives - Reuters
 - US tells foreigners seeking green cards: Return to your countries to apply - Reuters
-- Denmark's centre-right coalition talks break down, prolonging political deadlock - Reuters
 - Wall Street rises, Dow hits record high as Middle East hopes lift sentiment - Reuters
-- Iran's intensified closure of Strait of Hormuz piles misery on stranded sailors - Reuters
 - Uber exploring full takeover of Germany's Delivery Hero, Bloomberg News reports - Reuters
-- Reuters Reports WH ‘Forced’ Gabbard to Resign, Despite Her Citing Husband’s Cancer Battle - Yahoo News UK
+- Senior Walmart executives depart amid rejig under new CEO, memo shows - Reuters
 - War, latest news. Al Arabya: US towards agreement. But Iran denies it - Il Sole 24 ORE
+- Reuters Reports WH ‘Forced’ Gabbard to Resign, Despite Her Citing Husband’s Cancer Battle - Yahoo News UK
 
-## NYTimes (3 条)
+## NYTimes (9 条)
 - Regional Mediators Rush to Save U.S.-Iran Cease-Fire
+- In West Bank, Latest Victim of Israeli Settler Violence Shocks in a New Way
 - Europeans Remain Wary After Trump Promises to Send Troops to Poland
+- Australia’s ‘Prettiest Street’ Is Grappling With TikTok and Instagram Fame
+- ‘Amazon.com of South Korea’ Is New Source of Tension With U.S.
+- Their Phones Were Stolen in London. Then the Threats Started.
+- Once Trump’s Co-Pilot Against Iran, Netanyahu Is Now a Mere Passenger
+- Mob Burns Congo Ebola Center Amid Rare Strain Outbreak
 - Alberta Will Vote on a Possible Referendum to Separate From Canada. Here’s What to Know.
 
 ## CNN (6 条)
@@ -97,100 +141,135 @@
 - Want Cash Out of Your Home? Here Are Your Best Options
 
 ## 微博热搜 (20 条)
-- 浪姐淘汰
-- 中国U17男足2比3日本U17
-- 神舟二十三号已做好发射前各项准备
+- 曝iPhone18Pro配色大换血
+- 马刺雷霆打架
+- 神23任务发布会
 - 岚图泰山X8上市29万起
-- 王鹤棣说自己确实不舒服
-- 歌手排名 闹麻了
-- 燃油车骨折清仓
-- 好想回到纸媒繁荣的时代
-- 人民日报评所谓碳水脸概念走红
-- 山西沁源煤矿事故已致8死
-- ai漫剧硬通货 泡面火腿纯净水
-- 庾澄庆淘汰
-- 跑男收视率
-- 丈夫高调宣布出轨有私生子妻子崩溃
-- 窦颖给窦靖童和声
-- 伊能静 我在妻旅才是乘风破浪
-- 上班不会为工位花一分钱
-- 庾澄庆合伙人
-- 黄金又跌破4500美元了
-- 窦靖童演唱那英从头哭到尾
+- 沈月向王鹤棣道歉
+- 原来十年前的拼豆长这样
+- 吴泽林语气
+- 于和伟高圆圆东北爱恨情仇
+- 中国官宣第4位女航天员
+- 曝红果短剧收益断崖式下跌
+- 留神峪煤矿事故企业负责人被控制
+- 雷霆2比1马刺
+- 曝沈月小群不是录制期间那个
+- 王鹤棣曾说黄晓明埋半截了
+- 山西煤矿事故造成重大人员伤亡
+- 棣月系粉丝现状
+- 此处禁止停猫
+- 夏天 苍蝇卵
+- 棣月系be了
+- 这是我的西游2全员直播
 
-## 知乎热榜 (4 条)
+## 知乎热榜 (5 条)
 - 「同样表达一个意思，英语要60秒，汉语5秒就够了」是否有过誉？
 - 历史上有哪些堪称愚蠢的操作？
 - 有哪些小政权出土的逆天文物？
 - 为什么穿越红楼梦的小说都会善待林黛玉？
+- 一个人能做出什么开源项目？
 
 ## B站热门 (20 条)
-- 《明日方舟：终末地》「寻遗散记」版本前瞻预告
 - 女朋友出门需要几步？
-- 停更两年，我单飞了？
+- 「诡秘之主」灰雾测试招募开启！赞美愚者！
+- 星际超级荒诞动画喜剧！《外星小偷里贝》第02话：男女对立星球【UP动画】
 - 能有你做我的弟子，真是太好了
-- 网络热传生物鉴定 第60期
 - 回不了本也要拍？日食记为什么能有千万粉丝？
-- 底气，是有娘家人托举
-- 也许你从未了解过波黑，但你一定听说过萨拉热窝
-- 三国杀up锐评新三国290：我挥剑只有一次，可磨剑磨了十几年呐！
-- Subnautica2：我管子哥回来了！
-- “战斗到最后一刻，他是真正的英雄！”
-- “新手就是爱炫耀”
-- 【侯绿萝】最新视频上线，求关注！
-- 手机拍照已经进化到“AI自动挡”了吗？
-- LE SSERAFIM 'BOOMPALA' OFFICIAL MV
+- 遗忘重启 | 《遗忘之海》概念宣传视频
+- 停更两年，我单飞了？
+- 网络热传生物鉴定 第60期
+- 见面次数等于1，代表什么...
 - 第一次尝试暗黑系亚文化！
-- 《崩坏：星穹铁道》4.3版本「沉于生者的忘川」前瞻特别节目
-- 12个脑洞大开的美食爆改计划～有手就会系列
-- 关于“活着”，我们问了问余华
-- 《安宁大厦生存守则》
+- 【原创AI动画】当全世界所有人都永生不死【永生世界】
+- 2026最解压的人狗组合灭鼠合集！
+- 底气，是有娘家人托举
+- 【侯绿萝】最新视频上线，求关注！
+- 超级离谱的马交致死事件，轰动全美，促使美国出台专门法律，法官：我也没想到他们连马也不放过！
+- 这得要不少奶，先生
+- “新手就是爱炫耀”
+- 我 爱 吃 面
+- 我的腮帮子强得可怕！
+- 印度现在的精神状态，莫迪赢学也不好使了
 
 ## 抖音热搜 (20 条)
 - 中国U17男足获亚洲杯亚军
-- 美称对台军售已暂停 外交部回应
-- 抓紧出台六张网规划实施方案
-- CBA上海淘汰北京晋级总决赛
+- 神舟二十三号发射时间确定
+- 多地多措并举为全年丰收夯实基础
 - 榴莲脑袋的满级吃商
+- 雷霆胜马刺大比分2:1领先
 - 这些涉及柳州地震的信息是谣言
-- 各地小龙虾口味大比拼
-- 夏日发型穿搭公式
-- 证监会拟对老虎富途长桥严厉处罚
+- 神23乘组公布
+- 爱你老己穿搭只为悦己
 - 果壳风铃太治愈啦
+- 各地小龙虾口味大比拼
 - 山西一煤矿发生事故已致8死
-- 深圳龙岗发洪水系谣言
+- 全新升级版“星舰”发射升空
+- 歌手2026首期排名
 - 枪火上分也是卷起来了
-- 庾澄庆谈歌手2026改编态度
-- 我要去找从前那个我
+- 潮汕活动都进化到舞龙虾了
+- 高松任北京大学校长
 - 明日方舟终末地1.3版本前瞻
-- 当歌手遇到乘风2026
-- 英格兰世界杯参赛名单出炉
+- 证监会拟对老虎富途长桥严厉处罚
+- 听一朵花开的声音
 - 乘风你曾是少年舞台
-- 歌手2026首期舞台
 
 ## 豆瓣讨论 (1 条)
 - 怪不得菌菌不去🌍了，他只搭上了王玉雯，雨凝搭上了孙红雷 - 豆瓣
 
-## 雪球热帖 (12 条)
-- 新浪财经隔夜要闻大事汇总：2026年5月23日 - 新浪财经
-- 华夏MSCI中国A股国际通ETF联接A净值上涨1.29% - 新浪财经
-- MSCIETF联接A净值上涨1.08% - 新浪财经
-- 国投瑞银沪深300指数量化增强A净值上涨1.19% - 新浪财经
-- 长信金利趋势混合C净值上涨1.01% - 新浪财经
-- 百嘉百盛混合净值上涨1.62% - 新浪财经
-- 华泰保兴吉年红混合发起C净值上涨3.69% - 新浪财经
-- 华富消费成长股票A净值上涨0.59% - 新浪财经
-- 华安品质领先混合C净值上涨5.18% - 新浪财经
-- 国联兴鸿优选混合C净值上涨1.45% - 新浪财经
-- 景顺长城中证港股通科技ETF联接A净值上涨1.77% - 新浪财经
-- 刃尖之上的“天下” - 新浪财经
+## 雪球热帖 (14 条)
+- 新浪财经隔夜要闻大事汇总：2026年5月23日 - 新浪网
+- 勘设股份股东贾龙81天减持198.04万股，套现2100.76万元 - 新浪网
+- 华安中证新能源汽车ETF发起式联接A净值上涨1.48% - 新浪网
+- 华夏科创创业50ETF发起式联接A净值上涨3.07% - 新浪网
+- 华夏MSCI中国A股国际通ETF联接A净值上涨1.29% - 新浪网
+- MSCIETF联接A净值上涨1.08% - 新浪网
+- 兴业沪深300ETF发起式联接A净值上涨1.21% - 新浪网
+- 华夏恒生ETF联接A(人民币)净值上涨0.82% - 新浪网
+- 西部证券完成经营范围工商变更登记 - 新浪网
+- 廊坊发展震荡走弱，主力资金净流出，估值偏高 - 新浪网
+- 申万宏源60亿短期公司债5月21日深交所上市 - 新浪网
+- 中央批准：高松任北京大学校长 - 新浪网
+- 美联储迎沃什时代沃什最新表态 - 新浪网
+- 一脉阳光发布颅脑CT智能体 公司股价近期小幅波动 - 新浪网
 
-## 虎嗅 (5 条)
-- 国内最赚钱的车企，找到了中国汽车的出路
-- 爆红全网的心理学专家（下篇）：名利裹挟之下，终究弄丢本心
-- 高级苦力活Hyrox，军训全体精致中产
-- 洛克王国：政治正确的风，为何蔓延游戏市场
-- 慈禧的桌布：织在经纬间的全球史
+## 36氪 (16 条)
+- SpaceX IPO将包含散户配售
+- 护航政府债券发行，MLF操作重回净投放
+- 星巴克叫停AI库存自动盘点工具：上线9个月，错误频出
+- 短期态度转冷，国际投行下调黄金目标价
+- 传京东考虑20亿英镑竞购英国电商平台The Very Group
+- 本周机构调研热情不减，超三成机构调研股实现正收益
+- 新任首席执行官上任，沃尔玛高层人事调整多名高管离职
+- 微软支付2.5亿美元了结动视暴雪股东诉讼
+- 英特尔推出混合AI解决方案SuperClaw，主打隐私安全与低成本
+- 普祥健康递表港交所
+- 融泰药业递表港交所
+- 享道出行（上海）科技股份有限公司递表港交所
+- Anthropic最快下周完成逾300亿美元融资轮
+- 沃什宣誓就职，强调美联储将“以改革为导向”
+- 美“星舰”实施第12次试飞
+- 美股三大指数集体收涨，蔚来跌超7%
+
+## 虎嗅 (19 条)
+- 1000元难配齐一套基础穿搭，太平鸟被吐槽烧钱鸟，太平鸟再次创业不太平
+- “国民补剂”塌房，几十亿鱼油保健品市场，全是营销骗局？
+- 蔚来盈利，薄如蝉翼
+- Moonshots播客：67%的美国数据中心选址农村地区，这是自页岩气革命以来最大的地理财富转移
+- 大起大落的观察窗口：AI上游的内部分化
+- “AI焦虑”这个超级大生意，现在终于彻底跑通了
+- 油价冲破100美元后，为什么最先倒下的总是这类国家
+- 改编一部成一部，紫金陈现象不是玄学
+- 富途一夜跌掉35%：一张罚单撕开合规套利的底裤
+- 市值被长江存储带飞，营收却不及十年前，六个核桃已经成为养元“不值一提”的主业了？
+- 英伟达科学家的20分钟演讲：机器人终局，2040预言
+- C++之父开撕AI Coding：资深开发者宁愿退休也不愿伺候AI生成的代码
+- 未来十年的数据工程：从Modern Data Stack 到Data Engineering Harness
+- 别为10万+作恶：从印度“要崩”，看新闻的低智化共谋
+- 最近几个月的AI大模型独立应用实践-2-岗位已经模糊
+- AI 团队协作案例：全链路研发提效实践分享
+- 做陪伴机器人，我最先想清楚的是AI 不该做什么
+- 人类文明集体倒车，新周期已冉冉升起
+- 论文AI 检测，正在逼疯这届大学生
 
 ## GitHub Trending (14 条)
 - anthropics/claude-plugins-official
