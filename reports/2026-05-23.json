@@ -2,61 +2,66 @@
   "date": "2026-05-23",
   "news": [
     {
-      "title": "神舟二十三号出征",
-      "summary": "神舟二十三号载人飞船将于近期发射，朱杨柱、张志远、黎家盈三名航天员组成乘组执行任务。其中黎家盈是香港籍载荷专家，此前在香港警务处工作，拥有博士学位。飞船将携带9项科学实验上行中国空间站，乘组在轨期间将新开展100余项科学与应用项目。此次发射是中国载人航天工程的重要一步，也是中国2030年实现航天员登月计划的重要支撑。",
-      "reason": "多平台报道，中国航天重大突破，首位香港航天员参与任务",
+      "title": "山西煤矿瓦斯爆炸致90人遇难",
+      "summary": "2026年5月23日，山西沁源县留神峪高瓦斯煤矿发生严重瓦斯爆炸事故，已造成90人死亡，9人失联。事故发生后，国家卫健委专家已赶赴现场，救援工作仍在进行中。习近平对事故救援工作作出重要指示，要求全力搜救被困人员，做好伤员救治和家属安抚工作。此次事故暴露出煤矿安全生产管理的严重漏洞，预计将引发全国煤矿安全大检查。",
+      "reason": "重大安全事故，多平台密集报道，引发全国关注",
       "impact_areas": [
-        "科技"
-      ],
-      "impact_level": "现象级",
-      "sources": [
-        {
-          "name": "澎湃新闻",
-          "url": "https://m.thepaper.cn/detail/33218152"
-        },
-        {
-          "name": "凤凰网",
-          "url": "https://news.ifeng.com/c/8tMCfshZNZM"
-        }
-      ]
-    },
-    {
-      "title": "山西煤矿事故致8人遇难",
-      "summary": "山西长治市沁源县一煤矿发生瓦斯爆炸事故，已造成8人遇难。事故发生后，习近平作出重要指示，要求全力组织救援，妥善做好善后工作。事故企业负责人已被控制。救援工作正在进行中，空中视角显示救援现场情况。此次事故暴露了煤矿安全生产的隐患，引发对煤矿安全监管的广泛关注。",
-      "reason": "多平台报道，重大安全事故，国家领导人作出指示",
-      "impact_areas": [
-        "公共卫生",
-        "社会"
-      ],
-      "impact_level": "重大",
-      "sources": [
-        {
-          "name": "澎湃新闻",
-          "url": "https://m.thepaper.cn/detail/33218015"
-        },
-        {
-          "name": "凤凰网",
-          "url": "https://news.ifeng.com/c/8tMBO1bWgS9"
-        }
-      ]
-    },
-    {
-      "title": "伊朗局势升级",
-      "summary": "伊朗警告若再遭袭将开启战斗3.0，并已关闭西部空域。特朗普表示若谈判破裂或对伊朗发动\"决定性打击\"。美国与伊朗之间的紧张局势持续升级，区域安全风险加剧。多国斡旋寻求美伊停火，但伊朗否认已达协议。这一局势对全球能源市场和中东地区稳定产生重大影响。",
-      "reason": "多国际媒体报道，地缘政治重大事件，可能影响全球能源市场",
-      "impact_areas": [
-        "地缘",
+        "社会",
         "经济金融"
       ],
       "impact_level": "重大",
       "sources": [
         {
-          "name": "凤凰网",
-          "url": "https://news.ifeng.com/c/8tMFvbzrOEf"
+          "name": "澎湃新闻",
+          "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE90UmNUMUwtMnlXTDZQcjY3TVF6aEJZRWhTS3VsbFQzWFVXbHdzYTJKV1NleGczc0ctS29KWVd3OTJ4WFh4ZXc0WllkOGFTZmZEZGtKUFA2SWpvRmVrRXc?oc=5"
+        },
+        {
+          "name": "央视网",
+          "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFAtaWdZdTRyNjZMZkgyVXlNVWRGdXFvd09oMVdYNlcwWXlXbUllbEZlRVBldmVCOVhWT3VsTUZ4alNpNDlxSUFZM25jUTI4eUtOUU56cEctX21aOGFFYTB4SmhENXhzUV9fcEpXQUk3SHp3ZHdGa1J3NQ?oc=5"
+        },
+        {
+          "name": "财新网",
+          "url": "https://photos.caixin.com/2026-05-23/102446999.html"
         },
         {
           "name": "BBC",
-          "url": "https://www.bbc.com/news/articles/c5y74lwx395o?at_medium=RSS&at_campaign=rss"
+          "url": "https://www.bbc.com/news/articles/c5y0ve18qlko?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "name": "NYTimes",
+          "url": "https://www.nytimes.com/2026/05/23/world/asia/xi-coal-mine-explosion-rescue.html"
+        }
+      ]
+    },
+    {
+      "title": "美伊谈判陷入僵局",
+      "summary": "2026年5月23日，美国与伊朗关于恢复2015年核协议的谈判陷入僵局。美国国务卿表示谈判进展甚微，鲁比奥促欧洲盟友参与\"B计划\"。卡塔尔派代表团斡旋美伊谈判，专家分析海湾国家希望避免战事重启。伊朗任命伊美谈判代表团发言人，否认近期发布限制航班飞行的警告。特朗普周末表示，若谈判破裂或对伊朗发动\"决定性打击\"。中东局势持续紧张，全球能源市场面临不确定性。",
+      "reason": "国际关系重大事件，多源密集报道，可能影响全球能源市场",
+      "impact_areas": [
+        "政治",
+        "经济金融"
+      ],
+      "impact_level": "重大",
+      "sources": [
+        {
+          "name": "澎湃新闻",
+          "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5KSU1FSXZkdHNaRjFIOHB5VFZUT1BkMWxhanNvOHFxemp1ckpHTXhvdmFNTzZWbUhGaUU5RzBzbHNwR0VWTXliRWxkb25yZ0gtaWNpSkRocjBDV253b1padA?oc=5"
+        },
+        {
+          "name": "凤凰网",
+          "url": "https://news.ifeng.com/c/8tMfxLvemqg"
+        },
+        {
+          "name": "凤凰网",
+          "url": "https://news.ifeng.com/c/8tMdrMqS9yV"
+        },
+        {
+          "name": "凤凰网",
+          "url": "https://news.ifeng.com/c/8tMeYY0V2Uh"
+        },
+        {
+          "name": "Reuters",
+          "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNV1dJZVVKU0ttZ1k3RE5ERTlDR2dHaEZIRm8xYWdIcHpySVRPVjdhc3hZMzhFMlQ1S1pWMlROb040YzZrb0NXenV1SlN2YzlXbjNUVW1DNW00TTFmbTYxNnFyV283M1Y1M3pFYWxrTFU0dlV1YXIxUGI5NnJibXhjYTE0eVhWU25sT2JVaFBESllXZGlIaU9LVkw5aUh4Y3g0YnhGUkY1dVQwWHR2dVE?oc=5"
         },
         {
           "name": "NYTimes",
@@ -65,42 +70,42 @@
       ]
     },
     {
-      "title": "沃什执掌美联储",
-      "summary": "沃什宣誓就职美联储主席，强调将\"以改革为导向\"。在新任主席领导下，美联储面临通胀攀升、消费者信心下滑的挑战。沃什表示将采取\"以改革为导向\"的货币政策，市场预期这将影响全球利率走向和金融市场稳定。这一人事变动对全球经济政策走向具有重要影响。",
-      "reason": "多媒体报道，全球央行重大人事变动，将影响全球经济政策",
+      "title": "神舟二十三号即将出征",
+      "summary": "2026年5月23日，神舟二十三号载人飞行任务航天员乘组确定，即将出征。此次任务将在轨期间新开展100余项科学与应用项目。神舟二十三号发射窗口精准到秒，显示中国航天技术的高精度控制能力。此次任务是中国空间站运营阶段的重要任务，将进一步推动空间科学技术发展，为未来深空探测奠定基础。",
+      "reason": "中国航天重大事件，多平台关注，科技领域重要突破",
       "impact_areas": [
-        "经济金融",
+        "科技",
         "政治"
       ],
       "impact_level": "重大",
       "sources": [
         {
-          "name": "财新网",
-          "url": "https://database.caixin.com/2026-05-23/102446815.html"
+          "name": "澎湃新闻",
+          "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1XZkNWZm9ZZmVzekJnZXJlZG1NaUd1MmRzd1VJTXZKQTlWYkNGSjRiZEVhTXRGNTlGTS01dGctdFNjSVExc1BRUjl4WG91d3U4dXNTRnMzYk01M2VCWE1qeA?oc=5"
         },
         {
-          "name": "36氪",
-          "url": "https://www.36kr.com/newsflashes/3821195485352072"
+          "name": "澎湃新闻",
+          "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9CazlFR1N3ZHlGalQ4WGZnc2RLQnJmUDhJTnJFRENoM1lQWjlKY2xjcmwwVWtXU3Nqd0RvZHdsaHJkNk0wWjB6RWo4QTNCMWtJbEdKYTIwRmRwWl9NSHc?oc=5"
         },
         {
-          "name": "雪球热帖",
-          "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPd2VCYUVqZTlaZ2J5bFBNVklqQlB4cEkwTVpaWFItUWxqd1UzVExYMVluUnpNM01FRGFhanh5U25wUFJjalVfNzVuN1F5RDdJZ2dpNFR3UnRFRUFWeUJ1UU9SaEpqUTM3WFA1RHFNaXFEMGFMa1BYVktuVEFIcVp5S3E4ODA?oc=5"
+          "name": "央视网",
+          "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE11aUJVWFdzMDlUR2tFMWgwUEFFel9qNnJoZExlck5LMTN2bm5JSGtzakFrRjdDc3RmY2I3OGtiTk13MTZ2WEJQM2VuZEdUUGtZbkdhVTd6M2dpNHVJSURobVhrUVYzbGx6TzFSWTJfQ1Y5djZ4Y3RfdQ?oc=5"
         }
       ]
     },
     {
-      "title": "埃博拉风险升至非常高",
-      "summary": "世界卫生组织将刚果（金）埃博拉疫情风险等级上调至\"非常高\"。当地抗议者焚烧医疗物资，增加了疫情控制的难度。这一罕见菌株的爆发引发国际社会关注，多国派遣专家协助应对。埃博拉病毒的高致死率使得此次疫情对全球公共卫生构成潜在威胁。",
-      "reason": "国际媒体报道，公共卫生重大事件，罕见菌株引发全球关注",
+      "title": "刚果（金）埃博拉风险升非常高",
+      "summary": "2026年5月23日，世界卫生组织将刚果（金）埃博拉疫情风险等级上调至\"非常高\"。当地抗议者焚烧医疗物资，增加疫情控制难度。美国对刚果实施埃博拉旅行禁令，引发刚果卫生官员批评。刚果足球国家队被要求隔离，因埃博拉疫情担忧。此次埃博拉疫情为罕见菌株，已导致多人死亡，国际社会正加紧应对。",
+      "reason": "国际公共卫生重大事件，多平台关注，可能影响全球健康安全",
       "impact_areas": [
         "公共卫生",
-        "社会"
+        "政治"
       ],
       "impact_level": "重大",
       "sources": [
         {
           "name": "澎湃新闻",
-          "url": "https://m.thepaper.cn/detail/33217779"
+          "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5KSU1FSXZkdHNaRjFIOHB5VFZUT1BkMWxhanNvOHFxemp1ckpHTXhvdmFNTzZWbUhGaUU5RzBzbHNwR0VWTXliRWxkb25yZ0gtaWNpSkRocjBDV253b1padA?oc=5"
         },
         {
           "name": "BBC",
@@ -108,37 +113,72 @@
         },
         {
           "name": "NYTimes",
-          "url": "https://www.nytimes.com/2026/05/22/world/africa/ebola-congo-clinic-burned-protests.html"
+          "url": "https://www.nytimes.com/2026/05/23/world/africa/ebola-outbreak-congo-shrug.html"
+        },
+        {
+          "name": "NYTimes",
+          "url": "https://www.nytimes.com/2026/05/23/world/africa/congo-soccer-ebola-world-cup.html"
         }
       ]
     },
     {
-      "title": "美国调整移民政策",
-      "summary": "美国政府调整移民政策，要求申请绿卡的外国人必须返回本国递交申请。这一政策变化将对全球移民流动和美国劳动力市场产生深远影响。多国对此表示关注，认为这可能影响国际人才流动和双边关系。政策调整背后反映了美国国内政治和经济社会考量。",
-      "reason": "多媒体报道，移民政策重大变化，将影响全球人才流动",
+      "title": "首位香港籍航天员诞生",
+      "summary": "2026年5月23日，首位香港籍航天员黎家盈诞生，他将参与神舟二十三号任务。黎家盈的导师表示，这是连接香港科研与国家航天的重要纽带。黎家盈做事谨慎小心，关心同事，具备优秀航天员素质。此次事件标志着香港在国家航天事业中扮演更加重要的角色，有助于促进香港与内地的科技交流与合作。",
+      "reason": "中国航天史上的重要里程碑，多平台关注，促进香港与内地科技交流",
       "impact_areas": [
-        "政治",
-        "社会"
+        "科技",
+        "政治"
       ],
       "impact_level": "重大",
       "sources": [
         {
           "name": "澎湃新闻",
-          "url": "https://m.thepaper.cn/detail/33218482"
+          "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE93WW0xY09SWUJJZTdHN0EzY1owazJoTnBFcmpTTG5oUjN1QlB4RDA1LThFTEdYY29OZE1XdUlTNHRKci1VOUxhVnlHTGhrT0xiNHphNGYtXy1vcPAxVEE?oc=5"
         },
         {
-          "name": "Reuters",
-          "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPdWdld0ZfZEt4ZklOM1lzRWdmazc4bWZSWmkxeGtqNkJDb0xub3hiLTZUMVZsa21IX1h4eFk5NG9CWjRuZHVnc1F3Q3A3aEdqenVzWTFXWFpiMC1QZTNQaEhVVllWdVdpNkxUOWlxaW1mUk1wQzZScmpvY1FoOWVCUlZOT09YYi1mUlA3SVFzcjVNdU1Ebzd2VWREcVE3NWduQTBialFHNTdNNEN1U2dKWW1oQVpKcEJwUjJaalJkR2I?oc=5"
+          "name": "凤凰网",
+          "url": "https://news.ifeng.com/c/8tMbvFWE0ZJ"
+        },
+        {
+          "name": "央视网",
+          "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBuVktkVzNGQnk3MkFJaDJ0MFI4T3RUR2lkNjFvZS1oM0x5VnprRXY4Y1RpdW1taG5ackZVakstVWMtd092UWItSzg3YVFKdDJad0x4ckxKeElnaE1SU1FPQ3RPdzNJNFRLUUJnWll3Wkk4UTNva3ZxQw?oc=5"
         }
       ]
     },
     {
-      "title": "大宗商品指数周跌1.11%",
-      "summary": "中国大宗商品指数周跌1.11%，其中焦煤领跌5.06%。这一数据反映了大宗商品市场的近期走势，对相关产业链和投资决策具有重要参考价值。焦煤的大幅下跌可能与供需关系变化、政策调控等因素有关，值得关注其对能源产业链和下游行业的影响。",
-      "reason": "经济金融领域消息面信号，大宗商品价格异动",
+      "title": "沃什宣誓就任美联储主席",
+      "summary": "2026年5月23日，沃什宣誓就任美联储主席，接替鲍威尔。沃什被描述为\"灵活鹰派\"，其上任可能重构全球资产配置格局。同期，美国消费者信心指数跌至历史新低，通胀攀升，消费者情绪恶化。沃什面临平衡抑制通胀与支持经济增长的双重挑战，其货币政策取向将对全球金融市场产生深远影响。",
+      "reason": "全球货币政策重大变化，可能影响国际金融市场",
       "impact_areas": [
         "经济金融",
-        "产业"
+        "政治"
+      ],
+      "impact_level": "重大",
+      "sources": [
+        {
+          "name": "央视网",
+          "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5CRXRmQ1dUQ3hITzU2TVBuT293YjlieXA2YVFJSzhmeWRBdmN4XzNEZzJpT2VQRmM4RlVZS1pHMld2cnpoMUdEcVVISW0xb1pOS3J6dFppV2lWT2xTZW5RU0ZpOFNKdWRPSTMwYjBCMWlMaWZrb1VpSg?oc=5"
+        },
+        {
+          "name": "Reuters",
+          "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPOXp3UEo5UU5wdGRYSFlIZzNWeVdGcEZfdVZhTmtTLURUMVdhMVA2UEZnRXpVZm9uYUxOR0o1ZVU1OUIxYWIwY2xyWkJ4dVZvRURIZUJHTndCUUoxWGJfckhlT2NJUHcxNVNGX1ZJb0dMc1RMNnliSmhPWndtQUZ4SDBmOFVLdF95b3NOTEF0TXpFRlFuSnA4ZG43OXU1dm8?oc=5"
+        },
+        {
+          "name": "Reuters",
+          "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOeEZJY1Y0Q3cxdWZSV0FXaVBpbTRld2Qydl9FZ0NaY2ozZ3RhVlRnb09wWnVqUHNwenFhZVZRcTN2aG9VaHloRmEwUDFxVmN1cDVKTXNPekVKMFdkN0lPcVY0OHJsZ0EyblQwcXBPc0Z6NzRwd0hwSkVWdExoaUUydzYtSWJ1TGtJZTVaVENVRm9CRVJoMHdDcWhIN3JwSkl5a0xPekwycUl2WmxPTDZxMzZVOFlBWllnZ0JCRWdR?oc=5"
+        },
+        {
+          "name": "虎嗅",
+          "url": "https://www.huxiu.com/article/4860865.html"
+        }
+      ]
+    },
+    {
+      "title": "中国大宗商品指数周跌1.11%",
+      "summary": "2026年5月23日，中国大宗商品指数周跌1.11%，其中焦煤领跌5.06%。这一数据反映当前经济下行压力，特别是能源和原材料领域。焦煤价格下跌可能影响煤炭行业利润，进而影响相关产业链。同时，这也可能预示着未来经济政策的调整方向，特别是对能源和原材料行业的支持政策可能加码。",
+      "reason": "重要经济先行指标异动，反映经济走势，影响相关产业链",
+      "impact_areas": [
+        "经济金融"
       ],
       "impact_level": "重大",
       "sources": [
@@ -149,62 +189,61 @@
       ]
     },
     {
-      "title": "老虎富途共罚没23亿",
-      "summary": "中国证监会宣布对老虎证券、富途证券处以共计23亿元罚款。这一处罚反映了监管机构对跨境证券业务的监管趋严。同时，美股看跌期权出现\"抢跑\"交易，引发市场对市场操纵的担忧。这一事件对中概股市场和跨境投资业务将产生深远影响。",
-      "reason": "经济金融领域消息面信号，重大监管处罚",
+      "title": "SpaceX Starship V3火箭试飞",
+      "summary": "2026年5月23日，SpaceX成功试飞了 massive Starship V3火箭，这是人类航天技术的重大突破。尽管火箭最终在印度洋爆炸，但此次试飞收集了大量宝贵数据，为未来火星探索奠定基础。Starship V3相比前代有重大改进，包括更强大的引擎和更高效的燃料系统，标志着人类向深空探索迈出重要一步。",
+      "reason": "航天技术重大突破，推动人类深空探索进程",
       "impact_areas": [
-        "经济金融",
-        "政治"
-      ],
-      "impact_level": "重大",
-      "sources": [
-        {
-          "name": "财新网",
-          "url": "https://finance.caixin.com/2026-05-23/102446807.html"
-        }
-      ]
-    },
-    {
-      "title": "高松任北大校长",
-      "summary": "中央批准高松任北京大学校长。高松此前担任北京大学常务副校长，是化学家、中国科学院院士。此次人事调整对中国高等教育发展具有重要意义，将影响北大未来发展方向和高等教育改革进程。",
-      "reason": "教育领域重大人事变动，中国顶尖高校领导层变化",
-      "impact_areas": [
-        "教育",
         "科技"
       ],
       "impact_level": "重大",
       "sources": [
         {
-          "name": "澎湃新闻",
-          "url": "https://m.thepaper.cn/detail/33217811"
-        },
-        {
-          "name": "凤凰网",
-          "url": "https://news.ifeng.com/c/8tM8ZPqO0c7"
-        },
-        {
-          "name": "雪球热帖",
-          "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5DZ3ZqZHpQT1otZHNPTkE1Rk9ibEtKMXB4WjJtMG0zM1BUa1B2V3JzWkFtcThmNWtOZ3B6czBua2luWVNlaG95V2VQZkxMRFJvamMwVDVOLWcyZHFFaVFFRXd5TGMtVlJhZWM2Uzl3d2tIUGMtM2t4Qg?oc=5"
+          "name": "BBC",
+          "url": "https://www.bbc.com/news/articles/c62d65y16nno?at_medium=RSS&at_campaign=rss"
         }
       ]
     },
     {
-      "title": "嫦娥七号计划下半年发射",
-      "summary": "中国探月工程宣布嫦娥七号计划于下半年择机发射。嫦娥七号是中国探月工程的重要任务，将开展月球南极探测，重点寻找月球水资源和开展科学探测。这一任务是中国深空探测的重要一步，对推动月球科学研究和技术发展具有重要意义。",
-      "reason": "科技领域重大进展，中国探月工程重要任务",
+      "title": "人形机器人身份证来了",
+      "summary": "2026年5月23日，全国首个人形机器人管理平台上线，为人形机器人发放\"身份证\"，实现全程可追溯。这一举措标志着中国在AI监管方面的重大进展，有助于规范人形机器人产业发展，保障公共安全。管理平台将记录人形机器人的生产、销售、使用等全生命周期信息，为未来AI治理提供重要参考。",
+      "reason": "AI监管政策重大进展，规范人形机器人产业发展",
       "impact_areas": [
         "科技",
-        "产业"
+        "社会"
       ],
       "impact_level": "重大",
       "sources": [
         {
-          "name": "凤凰网",
-          "url": "https://news.ifeng.com/c/8tM7bmsz8ht"
+          "name": "澎湃新闻",
+          "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5OU0xhZlIwMjBPVFQ3SUx3Sk9HdktkZHRla1VtTWNRSHQ0VUJWUkgxZ0tWWXJ3aGRxNHViSEczZDg4NzNUcXN6bXdac0xpRkpDWTAzWDBYeU9ma0ViT3c?oc=5"
+        },
+        {
+          "name": "央视网",
+          "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5RUFZWQmNQTmRrdExwZ1FCeDNQWWRuSG94QlNtci15Y0lSTXVvRkRYWlotLVo4SUVSdmpQRHFsbTdNM01IVkNLYzRaWFFyTk5EMWVDc1NqWWNMMWw1WXBwd1dHOXRNTEJtODMzRDJpSG5wUFdYeWwxRw?oc=5"
+        }
+      ]
+    },
+    {
+      "title": "国常会再提推进房地产风险化解",
+      "summary": "2026年5月23日，国务院常务会议再次提出推进房地产风险化解，显示政府对房地产市场的持续关注。会议强调要\"因城施策\"，支持刚性和改善性住房需求，促进房地产市场平稳健康发展。这一政策导向对稳定市场预期、防范系统性风险具有重要意义，也将影响房地产上下游产业链的发展。",
+      "reason": "房地产政策重大调整，影响经济稳定和产业链发展",
+      "impact_areas": [
+        "经济金融",
+        "社会"
+      ],
+      "impact_level": "重大",
+      "sources": [
+        {
+          "name": "雪球热帖",
+          "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNQXVDci1fX0paOFVJOFlhRWprdWwzS0VhY1hjX21nYTJvQ2RFMUtlRjc0RWF2bGRtVW52LXVYRDlJdVIyam5nT0xkUDIxeXVvSnJFak05aTRqYzdzODgxemRlWElvRmRDb1hLS1BDcUhJanF0aS1vWFhUQ1JQenh4Tk5ydGtaNXNES1lEbkFMTkZYb2Z3LWUzeHVKdFdQcGhZcjJTUg?oc=5"
+        },
+        {
+          "name": "财新网",
+          "url": "https://www.caixin.com/2026-05-23/102446821.html"
         }
       ]
     }
   ],
-  "total_fetched": 249,
-  "generated_at": "2026-05-23T12:27:39.389412+08:00"
+  "total_fetched": 305,
+  "generated_at": "2026-05-23T19:30:46.052224+08:00"
 }
