@@ -2,36 +2,42 @@
   "date": "2026-05-25",
   "news": [
     {
-      "title": "神舟二十三号成功对接",
-      "summary": "2026年5月25日，神舟二十三号载人飞船成功发射并与空间站组合体完成自主快速交会对接。此次任务有多项技术创新，包括新批次飞船的大幅升级。航天员乘组顺利进驻\"天宫\"，完成中国航天员第8次\"太空会师\"。这一成就标志着中国载人航天工程取得新突破，为未来深空探测奠定基础。",
-      "reason": "中国航天重大成就，多平台报道显示高热度",
+      "title": "美伊和平谈判接近达成",
+      "summary": "美国与伊朗和平谈判取得实质性进展，双方就霍尔木兹海峡问题达成一致。特朗普政府表示协议\"基本谈成\"，但仍有细节需要敲定。美国官员称正逐步接近达成协议，谈判聚焦于霍尔木兹海峡开放问题。以色列对协议表示关切，称与特朗普在阻止伊朗核武器问题上达成一致。美国参议院共和党人对潜在和平协议表示怀疑。这一协议若达成，将结束两国长期敌对状态，对中东地缘政治格局产生深远影响，并可能重塑全球能源市场格局。",
+      "reason": "多源密集报道的国际外交重大突破，可能改变中东地缘政治格局",
       "impact_areas": [
-        "科技"
+        "政治",
+        "经济金融",
+        "地缘"
       ],
-      "impact_level": "重大",
+      "impact_level": "现象级",
       "sources": [
         {
-          "name": "澎湃新闻",
-          "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1YVjhSQXhwRkpMUXgtQUVyOU1JOVVObU1aNHlIZmVxdV9rYjBlRm95U2RIUktXVk14WktUdk5JV1o1VnRWQ19uQ3hZaFZGMDNQR2hNOTk4X2l5LURtOTlmMA?oc=5"
+          "name": "NYTimes",
+          "url": "https://www.nytimes.com/live/2026/05/24/world/iran-war-trump"
+        },
+        {
+          "name": "财新网",
+          "url": "https://www.caixin.com/2026-05-25/102447206.html"
+        },
+        {
+          "name": "财新网",
+          "url": "https://database.caixin.com/2026-05-25/102447182.html"
         },
         {
           "name": "凤凰网",
-          "url": "https://news.ifeng.com/c/8tP4ptYADEb"
+          "url": "https://news.ifeng.com/c/8tPWpyQnq6F"
         },
         {
-          "name": "央视网",
-          "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE8wRElZTEJuQU4wNTU1a0hMS0RhQmI4YWxkdWEzcmR5WVYybks0c3ZLc3Z1YWRfTTdXejFRU3JoYm5QX0l2Mm12SXdBRjZXbFJ4WURZaVpnWlU2Z1B0YUN6djA4amFva0M0VFZ2bkc5amwzWlBRajhCTg?oc=5"
-        },
-        {
-          "name": "36氪",
-          "url": "https://www.36kr.com/newsflashes/3823877195272322"
+          "name": "澎湃新闻",
+          "url": "https://m.thepaper.cn/detail/33226396"
         }
       ]
     },
     {
-      "title": "美伊和平谈判近突破",
-      "summary": "2026年5月25日，美伊和平谈判取得重要进展。美国官员表示，美伊和平协议\"尚未完全谈妥\"，但已接近达成。伊朗方面称现阶段尚未就核问题细节做出承诺，但伊朗总统准备向世界保证不寻求核武。八国发表联合声明谴责以色列国家安全部长，以总理表示与特朗普一致认为须消除伊朗\"核威胁\"。这一系列动态表明中东地缘政治格局可能面临重大调整。",
-      "reason": "国际热点，多源密集报道，地缘政治重大影响",
+      "title": "俄军大规模袭击基辅",
+      "summary": "俄罗斯军队对乌克兰基辅发动大规模导弹袭击，发射90枚导弹和600架无人机，造成人员伤亡和基础设施损毁。此次袭击是近期以来俄罗斯对乌克兰最猛烈的攻击之一，导致基辅部分地区断电和交通中断。乌克兰方面表示已击落大部分来袭目标，但仍有人员伤亡。国际社会对此次袭击表示谴责，联合国呼吁双方保持克制。此次袭击可能标志着俄乌冲突进入新阶段，对欧洲安全局势产生深远影响。",
+      "reason": "多源报道的俄乌冲突重大升级，可能影响欧洲安全格局",
       "impact_areas": [
         "政治",
         "地缘"
@@ -40,49 +46,46 @@
       "sources": [
         {
           "name": "凤凰网",
-          "url": "https://news.ifeng.com/c/8tOukUd3bR1"
-        },
-        {
-          "name": "凤凰网",
-          "url": "https://news.ifeng.com/c/8tOyfvkFPaa"
-        },
-        {
-          "name": "凤凰网",
-          "url": "https://news.ifeng.com/c/8tOr6Ufz2ya"
-        },
-        {
-          "name": "凤凰网",
-          "url": "https://news.ifeng.com/c/8tOnW4ieCeM"
-        },
-        {
-          "name": "NYTimes",
-          "url": "https://www.nytimes.com/live/2026/05/24/world/iran-war-trump"
+          "url": "https://news.ifeng.com/c/8tPXsqd6ZZI"
         },
         {
           "name": "BBC",
-          "url": "https://www.bbc.com/news/articles/clyp0040x7po?at_medium=RSS&at_campaign=rss"
+          "url": "https://www.bbc.com/news/articles/clyp6831yp5o?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "name": "NYTimes",
+          "url": "https://www.nytimes.com/2026/05/24/world/europe/russia-ukraine-kyiv-attack-oreshnik-missile.html"
         }
       ]
     },
     {
-      "title": "美联储新任主席政策展望",
-      "summary": "2026年5月25日，最新财新周刊报道，沃什即将上任美联储主席，预计将迎来\"三把火\"政策变革。这一人事变动可能对美国乃至全球货币政策产生深远影响。市场普遍关注沃什将如何应对当前经济形势，以及其政策取向对金融市场、美元汇率和大宗商品价格的潜在影响。美联储政策转向往往引发全球金融市场波动，值得高度关注。",
-      "reason": "全球央行领导层变动，货币政策重大转向信号",
+      "title": "山西煤矿爆炸致多人伤亡",
+      "summary": "山西留神峪煤矿发生爆炸事故，瞬间产生强大冲击波，导致多名矿工伤亡。事故发生后，多名伤者因一氧化碳中毒被送医救治。当地已启动应急预案，事故原因正在调查中。此次事故暴露了煤矿安全生产的隐患，可能引发全国范围内煤矿安全大检查。煤矿事故频发也反映了能源行业在快速发展过程中安全监管的挑战，对能源供应稳定性和安全生产形势产生深远影响。",
+      "reason": "多源报道的重大安全生产事故，可能影响能源行业安全监管",
       "impact_areas": [
-        "经济金融"
+        "社会",
+        "生态"
       ],
       "impact_level": "重大",
       "sources": [
         {
-          "name": "财新网",
-          "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1GeU5MTUV0WDRkQjdlVDMxeFduQ09fWl8tSGIwc1hHMUx0Qm40YTA5V3dBU1U1U0o3cGIySUwweWtuWjVwelJyZzlFSkg3NmczVi1MT0pBWHdwOVhuTU1nQQ?oc=5"
+          "name": "澎湃新闻",
+          "url": "https://m.thepaper.cn/detail/33226270"
+        },
+        {
+          "name": "凤凰网",
+          "url": "https://news.ifeng.com/c/8tPUnKGbor9"
+        },
+        {
+          "name": "凤凰网",
+          "url": "https://news.ifeng.com/c/8tPV4al46gZ"
         }
       ]
     },
     {
-      "title": "全息3D打印技术突破",
-      "summary": "2026年5月25日，科技领域取得重大突破，新型全息3D打印技术效率提升七十倍。这一技术革新将大幅缩短产品从设计到原型制作的时间，可能彻底改变制造业、医疗、建筑等多个行业。该技术的应用前景广阔，从复杂零部件制造到人体器官打印，都将迎来革命性变化。这一突破显示中国在尖端科技领域的持续创新能力，有望在全球科技竞争中占据优势地位。",
-      "reason": "科技重大突破，效率提升七十倍，影响深远",
+      "title": "华为麒麟芯片性能大幅提升",
+      "summary": "华为宣布今年秋季面世的麒麟手机芯片性能将大幅提升，并发布\"韬（τ）定律\"。华为高管表示，新芯片采用先进制程技术，性能较上一代提升显著。这一突破标志着中国半导体产业在高端芯片领域的进步，可能改变全球智能手机芯片市场格局。华为此前因美国制裁面临芯片供应挑战，此次技术突破显示了中国企业在逆境中的创新能力。麒麟芯片的进步也将推动中国手机产业链的整体升级，对全球科技竞争格局产生深远影响。",
+      "reason": "中国半导体技术重大突破，可能改变全球科技竞争格局",
       "impact_areas": [
         "科技",
         "产业"
@@ -90,15 +93,84 @@
       "impact_level": "重大",
       "sources": [
         {
-          "name": "36氪",
-          "url": "https://www.36kr.com/newsflashes/3823895912976512"
+          "name": "澎湃新闻",
+          "url": "https://m.thepaper.cn/detail/33226019"
+        },
+        {
+          "name": "虎嗅",
+          "url": "https://www.huxiu.com/article/4861170.html"
         }
       ]
     },
     {
-      "title": "科创债发行创历史新高",
-      "summary": "2026年5月25日，政策红利持续释放，今年以来科创债发行规模已超过8000亿元，创历史新高。这一数据反映国家对科技创新领域的大力支持，以及资本市场对科技企业的青睐。科创债的快速增长将为科技创新企业提供更多资金支持，加速科技成果转化，推动产业结构升级。同时，这一趋势也表明金融资源正加速向科技创新领域集中，对促进经济高质量发展具有重要意义。",
-      "reason": "政策支持力度加大，科创债发行创历史新高",
+      "title": "神舟二十三号成功发射",
+      "summary": "神舟二十三号载人飞船成功发射入轨，标志着中国载人航天工程取得新进展。此次任务特别引人注目的是，飞船上搭载了香港航天员，这是香港航天员首次进入太空。新批次飞船在技术上实现多项升级，包括生命保障系统、通信系统和推进系统的改进。此次任务的成功将进一步巩固中国在国际航天领域的地位，促进与包括香港在内的全国各地的航天合作，并为未来深空探测任务奠定基础。",
+      "reason": "中国航天重大进展，香港航天员首次进入太空",
+      "impact_areas": [
+        "科技",
+        "政治"
+      ],
+      "impact_level": "重大",
+      "sources": [
+        {
+          "name": "财新网",
+          "url": "https://science.caixin.com/2026-05-25/102447132.html"
+        },
+        {
+          "name": "央视网",
+          "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE8wRElZTEJuQU4wNTU1a0hMS0RhQmI4YWxkdWEzcmR5WVYybks0c3ZLc3Z1YWRfTTdXejFRU3JoYm5QX0l2Mm12SXdBRjZXbFJ4WURZaVpnWlU2Z1B0YUN6djA4amFva0M0VFZ2bkc5amwzWlBRajhCTg?oc=5"
+        }
+      ]
+    },
+    {
+      "title": "谷歌Gemini在AI编程赛道落后",
+      "summary": "谷歌CEO皮查伊承认，谷歌Gemini在AI编程赛道已落后于竞争对手。这一表态反映了谷歌在AI领域面临的竞争压力。与此同时，谷歌发布了Gemini 3.5模型，试图在AI领域保持竞争力。谷歌的AI战略调整表明，AI技术竞争正在进入新阶段，各科技巨头纷纷加大投入。AI编程工具的发展将显著提高软件开发效率，改变全球IT产业格局，并对就业市场产生深远影响。",
+      "reason": "科技巨头AI战略调整，反映AI技术竞争新格局",
+      "impact_areas": [
+        "科技",
+        "产业"
+      ],
+      "impact_level": "重大",
+      "sources": [
+        {
+          "name": "澎湃新闻",
+          "url": "https://m.thepaper.cn/detail/33226761"
+        },
+        {
+          "name": "财新网",
+          "url": "https://www.caixin.com/2026-05-25/102447152.html"
+        }
+      ]
+    },
+    {
+      "title": "全球半导体市场规模将达1.5万亿美元",
+      "summary": "摩根士丹利研究报告预测，到2030年全球半导体产业市场规模可能达到1.5万亿美元，其中人工智能相关半导体产品将占据半壁江山。同时，机构预测小尺寸车载AMOLED出货量到2030年将达到150万片，增长541%。阿里达摩院玄铁9系列处理器正式适配安卓，推动RISC-V架构加速规模化商业落地。这些趋势表明，半导体产业正经历结构性变革，AI驱动和汽车电子成为主要增长点，将重塑全球科技产业链格局。",
+      "reason": "半导体产业结构性变革，AI和汽车电子成主要增长点",
+      "impact_areas": [
+        "科技",
+        "产业",
+        "经济金融"
+      ],
+      "impact_level": "重大",
+      "sources": [
+        {
+          "name": "36氪",
+          "url": "https://www.36kr.com/newsflashes/3824195611365506"
+        },
+        {
+          "name": "36氪",
+          "url": "https://www.36kr.com/newsflashes/3824126045933704"
+        },
+        {
+          "name": "36氪",
+          "url": "https://www.36kr.com/newsflashes/3824113690546567"
+        }
+      ]
+    },
+    {
+      "title": "A股成交额突破2万亿元",
+      "summary": "沪深两市成交额突破2万亿元，三大指数集体上涨，半导体板块表现强劲。主力资金加仓电子股，同时抛售电力设备股。多只ETF基金表现活跃，其中科创创业50ETF涨2.75%，消费电子ETF涨3.62%。市场成交活跃反映投资者信心增强，半导体板块走强显示科技股受到资金青睐。这一市场动态可能预示着新一轮科技投资热潮的到来，对资本市场结构和产业发展方向产生深远影响。",
+      "reason": "A股成交额创历史新高，半导体板块走强，反映市场资金流向变化",
       "impact_areas": [
         "经济金融",
         "科技"
@@ -107,97 +179,59 @@
       "sources": [
         {
           "name": "36氪",
-          "url": "https://www.36kr.com/newsflashes/3823911831572608"
-        }
-      ]
-    },
-    {
-      "title": "外资加速买入中国资产",
-      "summary": "2026年5月25日，市场数据显示资金持续涌入成长风格ETF，韩国投资者积极买入中国标的。这一现象表明国际投资者对中国科技企业和成长型资产的信心增强。资金流向的变化往往预示着市场趋势的转变，可能推动相关板块估值提升。同时，外资流入也有助于改善中国市场的国际投资者结构，提高市场流动性，对中国资本市场国际化具有积极意义。",
-      "reason": "外资流向重大变化，国际投资者对中国资产信心增强",
-      "impact_areas": [
-        "经济金融"
-      ],
-      "impact_level": "重大",
-      "sources": [
+          "url": "https://www.36kr.com/newsflashes/3824145407643785"
+        },
+        {
+          "name": "36氪",
+          "url": "https://www.36kr.com/newsflashes/3824155641729412"
+        },
+        {
+          "name": "36氪",
+          "url": "https://www.36kr.com/newsflashes/3824166298276224"
+        },
         {
           "name": "雪球热帖",
-          "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE51a1p6UXFfTmFpUXVlTnNrQmFUdUlsOGoxenJXa2Y4cVNOQXNwblNuMi1CNkROT3Q1Zjdkcl8yZUh1Tkc3QmQxYlR2ZXBLOXBScW5OUEpzOXhhY3pWUUM3SjBCSGhpMExmeTdpUGtiekx1OUlOZndmYw?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPYWRlMXJ4UDVSeXlON3lMakFBTmw1SWdwLUVlNWxyUksyVWdobFloUXllbnkwS1otMXZ0MjNhdURDTEhEYTFVakxRbTNjUVVSNkhXRnhZT1pkekliYWVDLXZRVThTM0Y1eW15bXpUZFVkMkw2c08weElOVFh3Q1hWRjJ2TVF5VjFONFhISmZUUlpNUEluaHh1VQ?oc=5"
         },
         {
-          "name": "36氪",
-          "url": "https://www.36kr.com/newsflashes/3823908434841984"
+          "name": "雪球热帖",
+          "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPblJ3TGJ5ZzRIQzBuNzVVOFBJLS0wQmNQbGlmOTBpcXdNUDdwSmxDZUxaQURRMEpCWWxwMEZzbng0VFhGLThLbFJEbkxYb0NzRTdIdGpNN1lxZ2tnYUIwTEF5TlRPbFN3MDN6TXN2cGNKOTBZVWJvQWZzV1ZCc0Q2QURWbXFCM2xtWEZ2aE1JTW9OdUhybEJCUQ?oc=5"
         }
       ]
     },
     {
-      "title": "公募高管人事大变动",
-      "summary": "2026年5月25日，数据显示年内已有69家公募机构高管发生变动，这一频率明显高于往年。人事变动频繁反映公募行业正处于转型调整期，可能与行业监管政策变化、市场竞争加剧以及业务模式创新有关。高管变动往往带来公司战略调整和业务方向变化，可能影响基金产品的投资策略和市场表现。这一趋势也表明资产管理行业正经历结构性变革，未来行业格局可能面临重塑。",
-      "reason": "行业格局重大变化，高管变动频率创历史新高",
+      "title": "美债风险\"重估\"持续",
+      "summary": "市场对美债风险的评估正在发生\"重估\"，投资者重新审视美国国债的信用风险和收益率前景。美债作为全球资产定价的基准，其风险变化将对全球金融市场产生深远影响。美国财政赤字持续扩大，债务规模不断攀升，引发市场对美元信用和美债可持续性的担忧。这一趋势可能导致全球资产配置格局调整，加速去美元化进程，并对国际货币体系产生结构性影响。",
+      "reason": "美债风险重估可能引发全球资产配置格局调整，加速去美元化进程",
       "impact_areas": [
-        "经济金融"
-      ],
-      "impact_level": "重大",
-      "sources": [
-        {
-          "name": "36氪",
-          "url": "https://www.36kr.com/newsflashes/3823910257594755"
-        }
-      ]
-    },
-    {
-      "title": "台海局势新动态",
-      "summary": "2026年5月25日，据Reuters报道，中国船只已在台湾附近岛屿完成相关任务后离开。这一动态发生在台海局势敏感时期，可能反映地区力量平衡的变化。中国船只的行动通常被视为对台湾问题的表态，其离开可能表明当前紧张局势有所缓和，但也可能是战略调整的一部分。台海局势牵动亚太地区地缘政治格局，任何动向都值得高度关注。",
-      "reason": "地缘政治敏感区域动态，影响区域稳定",
-      "impact_areas": [
-        "政治",
+        "经济金融",
         "地缘"
       ],
       "impact_level": "重大",
       "sources": [
         {
-          "name": "Reuters",
-          "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQUDhuTThCNWVtYUVDSmZub3hwUHY5ZHlIcktESk9Fbk9LY2RtZDZuVlFFalRmM054T3NNNFZnWUhueE5HRGtUdlUzVmJGUVdydHRES3dHNjVpMzBuTk5tbTR4ZFliMzhRenNDSFJDNGU1bXI0ZGgzcllUbndQQ3FGSXlaSkREb25fWVE3TGpkeWFlLXFpLXZQZ0ZENkl0T1AtODN5NA?oc=5"
+          "name": "财新网",
+          "url": "https://opinion.caixin.com/2026-05-25/102447178.html"
         }
       ]
     },
     {
-      "title": "美以联手应对伊朗",
-      "summary": "2026年5月25日，以色列总理表示与美国前总统特朗普一致认为须消除伊朗\"核威胁\"。这一表态显示美以两国在伊朗问题上的立场趋同，可能影响中东地区力量平衡。以色列一直视伊朗为地区主要安全威胁，而特朗普政府也采取强硬政策对抗伊朗。美以联手应对伊朗可能加剧地区紧张局势，对中东和平进程产生深远影响。同时，这一表态也可能影响美伊和平谈判的进程和结果。",
-      "reason": "中东地缘政治格局重大变化，美以联手应对伊朗",
+      "title": "欧盟下调经济增速预期",
+      "summary": "欧盟将2026年欧元区经济增速预期下调至0.9%，较此前预期显著降低。这一调整反映了欧洲经济面临的多重挑战，包括能源转型成本上升、全球需求放缓和地缘政治不确定性增加。经济增速放缓可能影响欧洲财政政策和货币政策空间，并对全球经济复苏产生拖累效应。同时，经济结构调整压力加大，欧洲产业面临转型升级的迫切需求，将对全球产业格局产生深远影响。",
+      "reason": "欧盟下调经济增速预期，反映欧洲经济面临结构性挑战",
       "impact_areas": [
-        "政治",
-        "地缘"
-      ],
-      "impact_level": "重大",
-      "sources": [
-        {
-          "name": "凤凰网",
-          "url": "https://news.ifeng.com/c/8tOnW4ieCeM"
-        },
-        {
-          "name": "NYTimes",
-          "url": "https://www.nytimes.com/2026/05/24/world/middleeast/iran-deal-israel-reaction.html"
-        }
-      ]
-    },
-    {
-      "title": "太空经济迎来爆发期",
-      "summary": "2026年5月25日，市场消息显示SpaceX即将IPO，相关太空ETF迎来\"井喷式\"资金流入。这一现象表明投资者对太空经济前景的乐观预期，以及商业航天产业发展的加速。SpaceX作为商业航天的领军企业，其IPO将带动整个产业链估值提升，可能引发新一轮太空投资热潮。太空经济的发展不仅将改变传统航天产业格局，还将带动相关技术创新和产业升级，为人类探索宇宙提供新的动力。",
-      "reason": "商业航天重大里程碑，太空经济迎来爆发期",
-      "impact_areas": [
-        "科技",
-        "经济金融"
+        "经济金融",
+        "政治"
       ],
       "impact_level": "重大",
       "sources": [
         {
           "name": "36氪",
-          "url": "https://www.36kr.com/newsflashes/3823891303223687"
+          "url": "https://www.36kr.com/newsflashes/3824145054290053"
         }
       ]
     }
   ],
-  "total_fetched": 173,
-  "generated_at": "2026-05-25T07:28:21.131296+08:00"
+  "total_fetched": 278,
+  "generated_at": "2026-05-25T12:28:41.401254+08:00"
 }
