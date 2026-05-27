@@ -2,42 +2,22 @@
   "date": "2026-05-27",
   "news": [
     {
-      "title": "美伊冲突升级",
-      "summary": "美伊紧张局势急剧升级，以色列越线突袭引发地区危机。特朗普召开全体内阁会议应对，初步评估显示哈马斯新任军事被打死。伊朗公布击落美MQ-9\"死神\"无人机画面，伊斯兰革命卫队称过去24小时25艘船只获准通过霍尔木兹海峡。伊朗总统表示将毫不动摇捍卫领土与国家主权。美伊谈判陷入僵局，解冻伊朗海外资金成为主要分歧。美国官员称在恢复打击前观察到伊朗一系列威胁。这一冲突升级可能引发中东地区新一轮动荡，对全球能源安全和地缘政治格局产生深远影响。",
-      "reason": "多平台多源密集报道，美伊冲突持续升级，影响全球能源安全",
+      "title": "中东局势紧张升级",
+      "summary": "以色列在黎巴嫩和加沙地带发动袭击，造成数十人死亡，数十人受伤。伊朗威胁将对美国进行新一轮打击，美方表示在发动最新袭击前观察到了来自伊朗的一系列威胁。以色列媒体报道哈马斯军事部门首领被杀。多国国际媒体报道此事件，显示中东局势持续紧张，可能引发更大范围冲突。",
+      "reason": "多平台多源密集报道的中东冲突，具有全球关注度和潜在重大影响。",
       "impact_areas": [
-        "地缘",
-        "经济金融"
+        "政治",
+        "地缘"
       ],
       "impact_level": "重大",
       "sources": [
         {
-          "name": "澎湃新闻",
-          "url": "https://m.thepaper.cn/detail/33210539"
+          "name": "BBC",
+          "url": "https://www.bbc.com/news/articles/cx211rgngp0o?at_medium=RSS&at_campaign=rss"
         },
         {
-          "name": "凤凰网",
-          "url": "https://news.ifeng.com/c/8tSZlmvfhEm"
-        },
-        {
-          "name": "凤凰网",
-          "url": "https://news.ifeng.com/c/8tSZlmvfhEr"
-        },
-        {
-          "name": "凤凰网",
-          "url": "https://news.ifeng.com/c/8tSJzVTA5Bv"
-        },
-        {
-          "name": "凤凰网",
-          "url": "https://news.ifeng.com/c/8tSQarlcRe1"
-        },
-        {
-          "name": "凤凰网",
-          "url": "https://news.ifeng.com/c/8tSB44AGM1m"
-        },
-        {
-          "name": "凤凰网",
-          "url": "https://news.ifeng.com/c/8tSBYfItOKx"
+          "name": "BBC",
+          "url": "https://www.bbc.com/news/articles/cjwppj1yn7go?at_medium=RSS&at_campaign=rss"
         },
         {
           "name": "NYTimes",
@@ -45,141 +25,21 @@
         },
         {
           "name": "NYTimes",
-          "url": "https://www.nytimes.com/2026/05/26/world/middleeast/iran-ukraine-wars-similarities.html"
-        },
-        {
-          "name": "NYTimes",
           "url": "https://www.nytimes.com/2026/05/26/world/middleeast/iran-threats-strikes-us-ceasefire.html"
         },
         {
-          "name": "NYTimes",
-          "url": "https://www.nytimes.com/2026/05/26/world/middleeast/us-iran-strikes.html"
-        },
-        {
-          "name": "NYTimes",
-          "url": "https://www.nytimes.com/2026/05/26/world/middleeast/iran-internet-blackout-lifting.html"
-        },
-        {
-          "name": "雪球热帖",
-          "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE83TVZQUW9YUHlIX0N6NGVwYUpmR254R19EMHlnZFl5NGxsYm1IM0pna195RXFHLXQ0OU14bDR0X0xObFZJMU1vQy1zY01ESEV0cjI3MkZPaHVaRXdsbUZRNFdBWjNERU9xR2NJbElfaWZmekw3bjk0QQ?oc=5"
-        },
-        {
-          "name": "雪球热帖",
-          "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPOEU5S29sZ0dZaHlVaDZUSmF1bzBYZVdUdURIMVE2MmF3V3o2dG5yRFV4WFVKV0tZMldFRWhCWUxnUDZjcVhTUWsxWHEzVVhRNWoxZmhOckkyYzZpckdZbW1zdkk0c1BkRlByaE1XSm1haTRBUEFHWmJPRi04YVZKdGF6ZHFzXzBCV09YTmhraGxaUUdwWlU0ZEVuV0VhQVJTVHZsQWp1SFNzeVFvTEExT2x1dk5fSW54M0RyUXNEWVgtRmNWUk9lS21DUjZKQQ?oc=5"
-        }
-      ]
-    },
-    {
-      "title": "美光市值破万亿",
-      "summary": "美光科技市值突破万亿美元大关，单日股价上涨超19%，成为最新加入万亿美元俱乐部的科技企业。这一增长主要由AI竞赛推动的存储芯片需求激增所致。多家金融机构上调了对美光的评级，看好其在AI时代的增长潜力。美光的成功反映了半导体行业在AI时代的结构性机会，同时也表明市场对AI相关硬件的乐观预期。这一事件可能加速整个半导体行业的整合，并对全球芯片供应链格局产生深远影响。",
-      "reason": "科技巨头市值突破万亿美元，AI竞赛推动存储芯片需求激增",
-      "impact_areas": [
-        "科技",
-        "经济金融"
-      ],
-      "impact_level": "重大",
-      "sources": [
-        {
-          "name": "雪球热帖",
-          "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1fZUxYVVRxaEVZZjBHUVlKdUs5YndlRm9FSzHoTkc1QWJUa1JYd2lBRVNjenVqeGRmM1U4QlRiQi1VWG83ZTJiZ0tTcWh0eHpEd0FxcWVjd3dpZUJfUVM2Q3RVQ0UtM3lEMmVlUmk4SF9tX21lUkl0Yw?oc=5"
-        },
-        {
-          "name": "雪球热帖",
-          "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1aWFJyM2tzSGJES3l0YUlLZ2s1cjVFbEpKcWR3aXhyTXVWc3lFRGQtZE42LVRHeWxHQl9RTEZRYXJoZmE1TC1IelJBU2JFdmVZMXZ5dHd1ejNvYi16THNYR2RPams0REJPdy05eU1qUzRsMU1Zc1ViSA?oc=5"
-        },
-        {
           "name": "Reuters",
-          "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPRlpneGgtU2ZsNkc4QXF3Zy1CTHZ1ZEpESTItaEpmOVdkWE1TdkhrSlg4bXJ2eEo5TFVZSnRHWXRHcU4yU1VUZ25vRW5BOWxXVjg1ZDBOdjAwclVJaVNYbXVZT1ZId2N3VkNsbDYtVzhtRlQ4OFA1WlExQ0pDNE5nSmJ2S2ZyU1Y1Mi1faFlTRDdaaG1uaWlBbDhqVF9mNW9Ic3FETnF2Y09BUFV6?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNUnppRmlzeDZqYjdYTy1BUWVKMG9ERHhVd0p0bXE2RTl0MFY3Vml5eExNY2o4V3E5UEJ0Q3ZvVThQY1VXRFRwNTBlNjZ1NTUyMUtuRnB3Z2dTNTZ0cDdfN2k4Nk9qZzZHWGVLTFVYeThuSEotdmdYY2UwTkc5NklGZkdObi0tUFNfdw"
         }
       ]
     },
     {
-      "title": "美公布月球基地计划",
-      "summary": "美国公布全面月球基地建设路线图，计划在未来十年内建立永久性月球基地。NASA宣布重组计划以支持这一雄心勃勃的项目。多家航空公司已与SpaceX合作，计划为超500架客机安装星链Wi-Fi系统，为月球探索提供通信支持。这一计划标志着人类重返月球和深空探索的重要一步，将对全球航天产业格局产生深远影响。同时，中国嫦娥探月计划也在持续推进，显示全球太空竞赛进入新阶段。",
-      "reason": "美国公布全面月球基地建设路线图，人类重返月球计划加速",
-      "impact_areas": [
-        "科技",
-        "地缘"
-      ],
-      "impact_level": "重大",
-      "sources": [
-        {
-          "name": "澎湃新闻",
-          "url": "https://m.thepaper.cn/detail/33242002"
-        },
-        {
-          "name": "凤凰网",
-          "url": "https://news.ifeng.com/c/8tSUDIbK7rC"
-        },
-        {
-          "name": "BBC",
-          "url": "https://www.bbc.com/news/articles/c39228nxyr4o?at_medium=RSS&at_campaign=rss"
-        },
-        {
-          "name": "虎嗅",
-          "url": "https://www.huxiu.com/article/4861808.html"
-        }
-      ]
-    },
-    {
-      "title": "伊朗恢复网络连接",
-      "summary": "伊朗在经历数月网络中断后开始恢复互联网连接。这一变化发生在美伊紧张局势升级之际，引发国际社会对伊朗网络状况的关注。伊朗官方表示，网络恢复是正常的技术维护工作完成的结果。然而，分析人士认为这一时机可能与当前的地缘政治紧张局势有关。互联网的恢复将对伊朗经济和社会产生重要影响，同时也反映了数字时代地缘政治博弈的新维度。",
-      "reason": "伊朗结束数月网络中断，美伊紧张局势下的重要变化",
-      "impact_areas": [
-        "科技",
-        "地缘"
-      ],
-      "impact_level": "重大",
-      "sources": [
-        {
-          "name": "BBC",
-          "url": "https://www.bbc.com/news/articles/c1w22y1n74do?at_medium=RSS&at_campaign=rss"
-        },
-        {
-          "name": "NYTimes",
-          "url": "https://www.nytimes.com/2026/05/26/world/middleeast/iran-internet-blackout-lifting.html"
-        }
-      ]
-    },
-    {
-      "title": "AI未致就业末日",
-      "summary": "OpenAI首席执行官承认AI未引发就业末日，强调人类互动无法被技术替代。这一表态与此前一些关于AI将大规模取代人类工作的预测形成对比。CEO指出，AI工具正在改变工作方式，但人类创造力、情感智能和复杂判断仍然是不可替代的。这一观点对当前AI发展方向的讨论具有重要意义，可能影响各国AI政策制定和企业战略规划。同时，这也反映了AI行业对技术与社会关系的更成熟理解。",
-      "reason": "OpenAICEO承认AI未引发就业末日，重新评估AI对就业市场影响",
-      "impact_areas": [
-        "科技",
-        "社会"
-      ],
-      "impact_level": "重大",
-      "sources": [
-        {
-          "name": "36氪",
-          "url": "https://www.36kr.com/newsflashes/3826724366472068"
-        }
-      ]
-    },
-    {
-      "title": "朝鲜试射新武器",
-      "summary": "朝鲜进行新型武器系统试射，引发国际社会关注。这一试射发生在朝鲜半岛紧张局势持续升级的背景下，可能进一步加剧地区安全担忧。韩国和美国已对此次试射表示谴责，并可能加强联合军事演习。朝鲜此举被视为其军事能力展示和外交施压手段，将对东北亚安全格局产生深远影响。国际社会正密切关注朝鲜下一步行动，以及相关大国的反应。",
-      "reason": "朝鲜试射新型武器系统，加剧半岛紧张局势",
-      "impact_areas": [
-        "地缘",
-        "政治"
-      ],
-      "impact_level": "重大",
-      "sources": [
-        {
-          "name": "凤凰网",
-          "url": "https://news.ifeng.com/c/8tSVIXUGhc9"
-        }
-      ]
-    },
-    {
-      "title": "欧洲热浪致多人死亡",
-      "summary": "欧洲多国遭遇极端高温天气，打破历史记录，导致多人死亡。英国、西班牙和法国等国气温持续攀升，巴黎等地气温达到\"惩罚性高温\"水平。法国已有七人因与热浪相关的原因死亡，英国也报告了类似情况。气象专家指出，这种极端天气事件与气候变化密切相关，预计未来将更加频繁。这一事件对欧洲公共卫生系统构成严峻挑战，同时也凸显了应对气候变化的紧迫性。",
-      "reason": "欧洲多国遭遇极端高温，打破历史记录并导致多人死亡",
+      "title": "欧洲创高温记录",
+      "summary": "欧洲多国遭遇创纪录高温天气，英国、西班牙和法国等地气温打破历史记录。巴黎等地气温'惩罚性炎热'，法国已有7人因高温相关原因死亡。专家解释为何温度记录不仅被打破而且被大幅超越，气候变化影响日益显著。极端高温对能源供应、农业生产和公共健康构成挑战。",
+      "reason": "多国创高温记录并导致人员伤亡，气候变化影响显著。",
       "impact_areas": [
         "生态",
-        "公共卫生"
+        "社会"
       ],
       "impact_level": "重大",
       "sources": [
@@ -192,64 +52,186 @@
           "url": "https://www.bbc.com/news/videos/cy522zrkr7lo?at_medium=RSS&at_campaign=rss"
         },
         {
-          "name": "Reuters",
-          "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQWXI5ZmhNcmpqaXFfOEZJV1M1MUYxZ3hZNjZOUVRMTkpkWEdfSUQ2TUhpZ1JXVnBsN2hMSVNDU0tpV211NnpMZ3RyMVlrSF9zaGRoeXY4V0d1cjlwbmhtVHdYWXZWUDJYbU1vcGdQMHZJS1ZUY1FyeGRid2FVNWp3allqNHkxVTNJVDVBVllTRm9MNDZBSUEwR3BJRTN4dw?oc=5"
-        },
-        {
           "name": "NYTimes",
           "url": "https://www.nytimes.com/2026/05/26/world/europe/europe-heatwave-uk-spain-france.html"
+        },
+        {
+          "name": "Reuters",
+          "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQWXI5ZmhNcmpqaXFfOEZJV1M1MUYxZ3hZNjZOUVRMTkpkWEdfSUQ2TUhpZ1JXVnBsN2hMSVNDU0tpV211NnpMZ3RyMVlrSF9zaGRoeXY4V0d1cjlwbmhtVHdYWXZWUDJYbU1vcGdQMHZJS1ZUY1FyeGRid2FVNWp3allqNHkxVTNJVDNBVllTRm9MNDZBSUEwR3BJRTN4dw"
         }
       ]
     },
     {
-      "title": "俄美外长通话",
-      "summary": "俄罗斯外长与美国务卿进行通话，要求美方撤离驻基辅大使馆人员。这一通话发生在俄乌冲突持续升级的背景下，双方关系持续紧张。俄方要求美方撤离驻基辅大使馆人员，可能是对乌克兰局势恶化的预判。此次通话表明尽管关系紧张，双方仍保持沟通渠道，但未能缓解根本分歧。这一互动对俄乌冲突走向和美俄关系未来发展具有重要影响，可能影响欧洲安全格局。",
-      "reason": "俄美外长通话，俄方要求美方撤离驻基辅使馆人员",
+      "title": "AI技术持续突破",
+      "summary": "教皇利奥对AI发展表示关注，与Anthropic公司高管会面讨论AI伦理问题。NBBOSS发布AI决策机器人，瞄准企业决策场景。Claude Code负责人谈爆发式增长背后的80倍需求与Agent革命。AI技术正在多个领域快速应用，从企业决策到宗教领袖关注，显示AI技术对社会各领域的深远影响。",
+      "reason": "AI技术突破引发多领域关注，科技类新闻权重高。",
       "impact_areas": [
-        "地缘",
-        "政治"
+        "科技",
+        "社会"
       ],
       "impact_level": "重大",
       "sources": [
         {
-          "name": "央视网",
-          "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNeUJXT2w5OFZkM1VLcHZ6Rk80OUo5V09Xcy1mNkY5WVEwQWV6SFFvUnNpYUFWRGpvYUlQTTRwU3pscndNX3hoTDVBTDN2Z3QxaTlJM2ZZTTFfQUcyVzJzczFMYTdVUjlsTFVtR1JyUmxJUjlBZnBIU3NBcWhrdC1vNmxzQW93RVhlRDIyWWFlWGJjQmY0cUxuWDJOUHItWm9vdXlTTDRqaURHYjZWWHc?oc=5"
+          "name": "NYTimes",
+          "url": "https://www.nytimes.com/2026/05/26/us/pope-leo-ai-anthropic.html"
+        },
+        {
+          "name": "36氪",
+          "url": "https://www.36kr.com/newsflashes/3826958517113731"
+        },
+        {
+          "name": "虎嗅",
+          "url": "https://www.huxiu.com/article/4861902.html"
         }
       ]
     },
     {
-      "title": "公租房保障扩围",
-      "summary": "中国住房城乡建设部宣布，未落户常住人口将纳入公租房保障范围。这一政策调整旨在进一步放宽城市落户限制，促进人口合理流动，缓解大城市住房压力。政策将覆盖更多在城市工作但尚未落户的常住人口，包括农民工、新就业大学生等群体。这一举措有助于实现\"租购并举\"的住房制度目标，促进社会公平，同时也将影响城市人口结构和房地产市场发展。分析人士认为，这一政策调整是中国城镇化进程中的重要一步，将对城市治理和住房市场产生深远影响。",
-      "reason": "中国住建部扩大公租房保障范围，促进人口合理流动",
+      "title": "工业利润创两年新高",
+      "summary": "4月工业利润同比增长24.7%，创两年多新高，主要受AI和石化产业链带动。这一数据表明中国经济复苏势头强劲，特别是高科技和能源相关产业表现突出。工业利润的快速增长对就业、投资和整体经济增长具有积极影响，也反映了产业结构优化的趋势。",
+      "reason": "关键经济数据超预期，反映经济复苏态势。",
       "impact_areas": [
-        "社会",
+        "经济金融",
+        "科技"
+      ],
+      "impact_level": "重大",
+      "sources": [
+        {
+          "name": "财新网",
+          "url": "https://economy.caixin.com/2026-05-27/102447939.html"
+        }
+      ]
+    },
+    {
+      "title": "辽宁舰现身西太平洋",
+      "summary": "辽宁舰现身西太平洋，日方声称正监视动向。同时，俄议员回应是否会轰炸泽连斯基办公室的问题。英国高级间谍警告俄罗斯威胁正在扩大。冰岛因特朗普的格陵兰威胁而考虑加入欧盟。这些事件显示全球地缘政治紧张局势持续，对国际关系和地区稳定产生重要影响。",
+      "reason": "多起地缘政治事件引发地区紧张局势。",
+      "impact_areas": [
+        "政治",
+        "地缘"
+      ],
+      "impact_level": "重大",
+      "sources": [
+        {
+          "name": "凤凰网",
+          "url": "https://news.ifeng.com/c/8tSoEh0BpJ0"
+        },
+        {
+          "name": "凤凰网",
+          "url": "https://news.ifeng.com/c/8tSqerLUcXs"
+        },
+        {
+          "name": "NYTimes",
+          "url": "https://www.nytimes.com/2026/05/26/world/europe/britain-gchq-spying-russia.html"
+        },
+        {
+          "name": "NYTimes",
+          "url": "https://www.nytimes.com/2026/05/26/world/europe/iceland-eu-membership-trump.html"
+        }
+      ]
+    },
+    {
+      "title": "赖清德上台两周年",
+      "summary": "网友创作的赖清德上台两年歌曲'520分手快乐'在网络上爆火，国台办回应此事。林志玲辞去台湾'文策院'董事职务，国台办表示这是明智决定。国台办强调台湾的前途只能由包括台湾同胞在内的全体中国人民共同决定。特朗普称将就对台军售和赖清德'谈谈'，国台办回应。台湾问题持续引发关注。",
+      "reason": "多则台湾相关新闻引发关注，涉及两岸关系。",
+      "impact_areas": [
+        "政治",
+        "社会"
+      ],
+      "impact_level": "重大",
+      "sources": [
+        {
+          "name": "凤凰网",
+          "url": "https://news.ifeng.com/c/8tSq4XaTlAk"
+        },
+        {
+          "name": "澎湃新闻",
+          "url": "https://m.thepaper.cn/detail/33243453"
+        },
+        {
+          "name": "澎湃新闻",
+          "url": "https://m.thepaper.cn/detail/33243183"
+        },
+        {
+          "name": "凤凰网",
+          "url": "https://news.ifeng.com/c/8tSrWwOj0vv"
+        }
+      ]
+    },
+    {
+      "title": "山西煤矿事故影响焦煤",
+      "summary": "最高检挂牌督办山西沁源煤矿爆炸重大责任事故案，事故导致109座煤矿停产，焦煤期货大涨。这一事件对煤炭供应产生重大影响，可能推高相关能源价格，进而影响下游产业和整体经济。煤矿安全问题的再次凸显也引发对能源行业安全监管的讨论。",
+      "reason": "重大矿难导致能源供应紧张，价格波动。",
+      "impact_areas": [
+        "经济金融",
+        "生态"
+      ],
+      "impact_level": "重大",
+      "sources": [
+        {
+          "name": "财新网",
+          "url": "https://www.caixin.com/2026-05-27/102447956.html"
+        }
+      ]
+    },
+    {
+      "title": "芯片巨头市值破万亿",
+      "summary": "美光科技市值突破1万亿美元，瑞银预计其股价未来一年可能翻番。SK海力士股价一度飙涨11%，市值突破1万亿美元大关。三星电子工会投票通过薪酬协议，避免了芯片厂罢工。这些事件显示半导体行业，特别是存储芯片领域，在AI驱动下迎来强劲增长，行业格局正在发生变化。",
+      "reason": "芯片巨头市值突破万亿，AI驱动行业格局变化。",
+      "impact_areas": [
+        "科技",
         "经济金融"
       ],
       "impact_level": "重大",
       "sources": [
         {
-          "name": "央视网",
-          "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE92dkp0MVk4OEY2RkZ3bG5KcnVOLURaaS14d1hkS2xxTjFDTUM1X2owanBPNVFiYU11T2lnQzlnalpVOG5vWlFwTS1hNlVPNlp0eVRVWVpncTBWSS1PclFtXzBrRVFxcWY2NVNzNENRVlRuX25fSk5VOA?oc=5"
+          "name": "财新网",
+          "url": "https://database.caixin.com/2026-05-27/102447873.html"
+        },
+        {
+          "name": "财新网",
+          "url": "https://database.caixin.com/2026-05-27/102447871.html"
+        },
+        {
+          "name": "财新网",
+          "url": "https://database.caixin.com/2026-05-27/102447875.html"
         }
       ]
     },
     {
-      "title": "脑机接口商业化加速",
-      "summary": "脑机接口技术商业化进程显著加速，多家上市公司布局相关领域，机构密切关注脑机接口概念股。这一领域的技术突破正在从实验室走向市场，预计将在医疗康复、人机交互等领域产生革命性影响。多家科技巨头和初创企业加大投资力度，推动脑机接口技术从概念验证阶段向商业化应用阶段过渡。这一趋势反映了神经科学与人工智能融合发展的加速，可能重塑人机关系和未来工作方式。分析人士认为，脑机接口技术将成为下一代科技竞争的制高点，对医疗、娱乐、军事等多个领域产生深远影响。",
-      "reason": "脑机接口技术商业化进程加速，多家上市公司布局相关领域",
+      "title": "A股成交额突破两万亿",
+      "summary": "沪深两市成交额突破2万亿元，沪指跌逾1%，下跌个股近4600只。市场波动加剧，成交量放大显示市场活跃度提高，但指数下跌反映投资者情绪谨慎。这一市场动态对投资者信心、资金流向和市场预期产生重要影响，也反映了当前经济环境下的市场特征。",
+      "reason": "A股成交额创纪录，市场波动加剧。",
       "impact_areas": [
-        "科技",
-        "医疗"
+        "经济金融"
       ],
       "impact_level": "重大",
       "sources": [
         {
           "name": "36氪",
-          "url": "https://www.36kr.com/newsflashes/3826740122456961"
+          "url": "https://www.36kr.com/newsflashes/3826979538588546"
+        },
+        {
+          "name": "36氪",
+          "url": "https://www.36kr.com/newsflashes/3826979410629256"
+        }
+      ]
+    },
+    {
+      "title": "女子骑行被狗撞倒身亡",
+      "summary": "一名女子骑行时被狗撞倒后不幸身亡，养犬人涉嫌过失致人死亡接受调查。这一事件引发对公共安全、养犬管理和城市交通安全的讨论。类似事件的发生促使社会关注宠物管理和公共安全问题，可能推动相关法规的完善和管理措施的加强。",
+      "reason": "社会热点事件引发公众关注和讨论。",
+      "impact_areas": [
+        "社会"
+      ],
+      "impact_level": "重大",
+      "sources": [
+        {
+          "name": "澎湃新闻",
+          "url": "https://m.thepaper.cn/detail/33243499"
         }
       ]
     }
   ],
-  "total_fetched": 221,
-  "generated_at": "2026-05-27T07:28:42.056605+08:00"
+  "total_fetched": 287,
+  "generated_at": "2026-05-27T12:33:42.793134+08:00"
 }
