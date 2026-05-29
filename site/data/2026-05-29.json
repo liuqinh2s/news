@@ -2,34 +2,89 @@
   "date": "2026-05-29",
   "news": [
     {
-      "title": "美伊冲突升级",
-      "summary": "美国与伊朗在霍尔木兹海峡附近军事对峙加剧，双方部署经济 warfare，美国官员称\"非常接近\"达成协议但尚未完成。以色列扩大在加沙和黎巴嫩的军事行动，控制加沙70%区域，并宣布与联合国秘书长\"不再联系\"。欧盟制裁以色列极端定居者，美国对批评以色列的联合国法律专家实施制裁。全球原油库存逼近\"百日警戒线\"，引发能源市场担忧。",
-      "reason": "多源密集报道的国际热点，影响全球能源安全和地缘政治格局。",
+      "title": "油价创六年最大月跌幅",
+      "summary": "受美国和伊朗有望延长停火协议消息影响，国际原油价格正面临2020年以来最大月跌幅。霍尔木兹海峡作为全球石油运输咽喉，其局势缓和导致油价大幅波动。这一价格变动将对全球能源市场、通胀水平和相关产业链产生深远影响，同时反映地缘政治因素对能源市场的重大影响。",
+      "reason": "大宗商品价格创极值，属于高权重消息面信号",
       "impact_areas": [
-        "政治",
         "经济金融",
-        "地缘"
+        "能源"
+      ],
+      "impact_level": "重大",
+      "sources": [
+        {
+          "name": "财新网",
+          "url": "https://database.caixin.com/2026-05-29/102448821.html"
+        }
+      ]
+    },
+    {
+      "title": "美伊拟延长休战60天",
+      "summary": "据多方消息，美国和伊朗已就延长霍尔木兹海峡地区停火协议达成初步共识，协议将延长60天，但最终仍需特朗普政府批准。这一协议若达成，将暂时缓解中东紧张局势，降低全球能源运输风险，并对国际油价产生直接影响。同时，这也反映了美伊双方在当前局势下的战略考量。",
+      "reason": "地缘政治重大进展，影响全球能源安全",
+      "impact_areas": [
+        "地缘",
+        "经济金融"
+      ],
+      "impact_level": "重大",
+      "sources": [
+        {
+          "name": "财新网",
+          "url": "https://database.caixin.com/2026-05-29/102448811.html"
+        }
+      ]
+    },
+    {
+      "title": "美财长澄清霍尔木兹立场",
+      "summary": "美国财长耶伦澄清特朗普关于\"炸飞\"阿曼的言论，表示美国只是强调霍尔木兹海峡的航行自由。这一表态旨在缓解地区紧张局势，但并未完全排除军事选项。霍尔木兹海峡是全球石油运输的关键通道，约占全球石油贸易的三分之一，其局势变化将对全球能源市场产生重大影响。",
+      "reason": "美伊冲突持续发酵，影响全球能源安全",
+      "impact_areas": [
+        "地缘",
+        "能源"
       ],
       "impact_level": "重大",
       "sources": [
         {
           "name": "澎湃新闻",
-          "url": "https://m.thepaper.cn/detail/33260518"
-        },
-        {
-          "name": "BBC",
-          "url": "https://www.bbc.com/news/articles/c87qng40wz9o?at_medium=RSS&at_campaign=rss"
-        },
-        {
-          "name": "NYTimes",
-          "url": "https://www.nytimes.com/live/2026/05/28/world/iran-war-us-trump-deal"
+          "url": "https://m.thepaper.cn/detail/33261739"
         }
       ]
     },
     {
-      "title": "AI巨头估值飙升",
-      "summary": "Anthropic估值飙升至9650亿美元，超越OpenAI。前OpenAI员工基金投资Nebius推动其股价创两周新高。Anthropic计划推出Claude Mythos并发布Opus 4.8版本。莫言表示有志气的作家不会屈服于AI压力，坚持原创。光明日报呼吁为毕业论文\"测AI率\"制定标准，避免沦为\"开盲盒\"。",
-      "reason": "AI领域重大进展，多家科技巨头估值飙升，影响科技产业格局。",
+      "title": "美伊或达成有限和平协议",
+      "summary": "据多方消息，美国和伊朗正在接近达成一项\"有限和平协议\"，暂时绕开核心争议问题，专注于霍尔木兹海峡航行自由和地区安全。这一协议若达成，将暂时缓解中东紧张局势，降低全球能源运输风险。然而，协议的长期效果仍存疑，因为核心问题并未得到根本解决。",
+      "reason": "地缘政治重大进展，可能改变中东局势",
+      "impact_areas": [
+        "地缘",
+        "经济金融"
+      ],
+      "impact_level": "重大",
+      "sources": [
+        {
+          "name": "凤凰网",
+          "url": "https://news.ifeng.com/c/8tWC6R9qGcC"
+        }
+      ]
+    },
+    {
+      "title": "存储ETF吸金超20亿美元",
+      "summary": "受存储芯片市场热度推动，SK海力士和三星电子相关杠杆ETF上市仅两天就吸引超过20亿美元资金流入，创下历史纪录。这一现象反映了市场对半导体存储领域的强烈看好，但也可能存在过度投机风险。存储芯片作为AI和数据中心基础设施的关键组件，其市场动向对全球科技产业和供应链有重要指示意义。",
+      "reason": "科技领域重大投资动向，反映半导体行业热度",
+      "impact_areas": [
+        "科技",
+        "经济金融"
+      ],
+      "impact_level": "重大",
+      "sources": [
+        {
+          "name": "36氪",
+          "url": "https://www.36kr.com/newsflashes/3829837959620232"
+        }
+      ]
+    },
+    {
+      "title": "戴尔上调AI数据中心需求预期",
+      "summary": "戴尔公司上调了年度业绩预期，称AI数据中心建设热潮正推动服务器需求大幅增长。这一消息推动戴尔股价大幅上涨。AI数据中心建设已成为全球科技产业的重要增长点，对服务器、存储设备和网络设备的需求激增，正在重塑全球科技供应链格局，并对相关产业链产生深远影响。",
+      "reason": "AI基础设施建设加速，对科技产业和供应链有重大影响",
       "impact_areas": [
         "科技",
         "经济金融"
@@ -38,160 +93,75 @@
       "sources": [
         {
           "name": "Reuters",
-          "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQRUpjZXd5MTl2S0ZtVWhmelZRdXBNaEM1UU1KQkppbVoxOG9hWkRlSEp1cjZGZV94TG1uVi1vTHhJXzdpYUZ5ZHlTcm1qWUgtd0RGRWl4WlFTVGUxU2k5WkFwaXp4ZkVFcWF6eWhvaFVVQkwzVHZTWlllRV9iSTMtTWRmSmt0RXBJenVtbjFQU0RqQ0h6a0V2eFhrQQ"
-        },
-        {
-          "name": "虎嗅",
-          "url": "https://www.huxiu.com/article/4862537.html"
-        },
-        {
-          "name": "澎湃新闻",
-          "url": "https://m.thepaper.cn/detail/33260666"
+          "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQNWxyUWRscVNpSnZteGdBOWQwbnNMVTJMYTZwS3NZTmtoSk83T1Zia3k3TVV3Vlg5SVBiUHdaMld0VUwzeVFLdXBQeElmNy11My1IWWZlSVptaXZoVlcxdnlPSHJLLU9EN1B3UFc3ZElhM09ORzFmSlJfMDY1b1E5SUxTOXJmOGt4UTNjcmtTdkdwRXI0WWNlMGhwT0U4SUFkZkFEWkFFRXhTQWc5OUdr"
         }
       ]
     },
     {
-      "title": "全球经济数据预警",
-      "summary": "美国高盛集团测算显示全球原油库存逼近\"百日警戒线\"，引发能源市场担忧。美国一季度经济增速下修至1.6%，显示经济增长放缓。韩国政府决定释放民间石油储备，应对能源供应紧张。美联储威廉姆斯表示，若没有人工智能投资，美国需求将会减弱。美股三大股指集体收涨，但热门中概股多数下跌。",
-      "reason": "全球经济数据预警，影响能源市场和投资决策。",
+      "title": "AI迎来重大突破",
+      "summary": "人工智能领域正在经历重大突破，多家科技巨头相继发布新一代AI模型，能力显著提升。这些进展不仅改变了AI应用场景，也在重塑整个科技产业格局。AI技术的快速发展正在推动从医疗、教育到金融等多个领域的变革，同时也引发了对AI监管和伦理的新一轮讨论。",
+      "reason": "AI领域重大进展，可能改变科技产业格局",
       "impact_areas": [
-        "经济金融",
-        "能源"
+        "科技",
+        "社会"
       ],
       "impact_level": "重大",
       "sources": [
         {
-          "name": "36氪",
-          "url": "https://www.36kr.com/newsflashes/3829537025254529"
-        },
-        {
-          "name": "36氪",
-          "url": "https://www.36kr.com/newsflashes/3829095524672645"
-        },
-        {
-          "name": "澎湃新闻",
-          "url": "https://m.thepaper.cn/detail/33260332"
-        },
-        {
-          "name": "36氪",
-          "url": "https://www.36kr.com/newsflashes/3829106727593346"
+          "name": "NYTimes",
+          "url": "https://www.nytimes.com/2026/05/28/world/ai-ipo-anthropic-openai-spacex-iran.html"
         }
       ]
     },
     {
-      "title": "神舟二十一号返航",
-      "summary": "神舟二十一号载人飞船即将返回地球，央视网详细介绍了其回家之路。此次返航标志着中国空间站运营进入常态化阶段，展示了中国航天技术的成熟与可靠性。飞船返回过程涉及精确轨道计算、再入大气层控制、着陆场准备等多个复杂环节，体现了中国航天工程的高水平。",
-      "reason": "中国航天重大成就，展示航天技术实力。",
+      "title": "城市更新目标明确",
+      "summary": "中国政府在\"十五五\"规划中明确了城市更新的量化目标，并允许地方专项债券用作项目资本金。这一政策将推动大规模城市更新项目，包括老旧小区改造、城市基础设施升级等，预计将带动数万亿元投资。这一政策不仅将改善城市人居环境，也将对建筑、建材、家居等相关产业产生深远影响。",
+      "reason": "国家重大政策调整，对城市建设和经济发展有深远影响",
+      "impact_areas": [
+        "经济金融",
+        "社会"
+      ],
+      "impact_level": "重大",
+      "sources": [
+        {
+          "name": "财新网",
+          "url": "https://economy.caixin.com/2026-05-29/102448867.html"
+        }
+      ]
+    },
+    {
+      "title": "智驾事故致3人死亡",
+      "summary": "江西赣州公布一起致命交通事故调查报告，显示事故发生前司机激活了智能驾驶系统并双手脱离方向盘，最终导致3人死亡。这一事件引发了对自动驾驶安全性的新一轮讨论，可能影响自动驾驶技术的监管政策和市场接受度。随着自动驾驶技术日益普及，如何平衡技术创新与安全保障成为行业面临的重要挑战。",
+      "reason": "自动驾驶安全重大事件，可能影响自动驾驶监管政策",
       "impact_areas": [
         "科技",
-        "政治"
+        "社会"
+      ],
+      "impact_level": "重大",
+      "sources": [
+        {
+          "name": "澎湃新闻",
+          "url": "https://m.thepaper.cn/detail/33262014"
+        }
+      ]
+    },
+    {
+      "title": "中国军队驱离侵领空直升机",
+      "summary": "中国国防部公布，中国军队近期成功驱离一架侵闯中国西沙领空的荷兰直升机。这一事件表明中国军队坚决维护国家领土主权的决心和能力，同时也反映了南海地区日益复杂的局势。此类事件可能影响地区国家间的军事关系，并对南海地区的和平稳定产生影响。",
+      "reason": "国家安全重大事件，涉及领土主权和军事安全",
+      "impact_areas": [
+        "政治",
+        "地缘"
       ],
       "impact_level": "重大",
       "sources": [
         {
           "name": "央视网",
-          "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9GM1psR2dIUm9xdm5LWFZGSjZIV0wzdDc3WDNSX2Y3QjVxcTVkbGo0ejkzQnJydWpOa0F0c3h3WkFKYXFIRWYtV0Q0S0pJaTdFN3RIR0dic3hreGs2MTZGalVjd0wwNGZxWmxIbXVUcU9BcklpRk1kcA?oc=5"
-        }
-      ]
-    },
-    {
-      "title": "太空经济将超万亿美元",
-      "summary": "据预测，到2030年全球太空经济市场规模或将超过万亿美元，成为新的经济增长点。这一预测基于卫星通信、太空旅游、小行星采矿等多个领域的快速发展。各国政府和私营企业纷纷加大太空领域投资，推动太空产业商业化进程。太空经济的发展将带动相关产业链升级，创造大量就业机会。",
-      "reason": "未来产业格局重大变化，预示新兴经济增长点。",
-      "impact_areas": [
-        "科技",
-        "经济金融",
-        "产业"
-      ],
-      "impact_level": "重大",
-      "sources": [
-        {
-          "name": "36氪",
-          "url": "https://www.36kr.com/newsflashes/3829109411734658"
-        }
-      ]
-    },
-    {
-      "title": "机器人工业应用前景",
-      "summary": "从云深处招股书显示，四足机器人技术仍在验证阶段，而人形机器人在工业场景落地仍有较远距离。机器人产业发展面临技术瓶颈、成本控制、场景适配等多重挑战。尽管如此，随着人工智能技术的进步，机器人在工业、医疗、家庭等领域的应用前景广阔，预计将逐步实现商业化落地。",
-      "reason": "机器人技术发展现状与前景，影响未来产业格局。",
-      "impact_areas": [
-        "科技",
-        "产业"
-      ],
-      "impact_level": "重大",
-      "sources": [
-        {
-          "name": "澎湃新闻",
-          "url": "https://m.thepaper.cn/detail/33257699"
-        }
-      ]
-    },
-    {
-      "title": "深圳人口首破1800万",
-      "summary": "深圳常住人口首次突破1800万大关，成为中国最具活力城市之一。这一增长反映了深圳作为科技创新中心的吸引力，以及粤港澳大湾区建设的推进。人口结构年轻化、高学历人才聚集是深圳人口增长的主要特点。这一变化将对深圳的城市规划、公共服务、住房市场等方面产生深远影响。",
-      "reason": "中国城市发展重要指标，反映区域经济活力。",
-      "impact_areas": [
-        "社会",
-        "经济金融"
-      ],
-      "impact_level": "重大",
-      "sources": [
-        {
-          "name": "财新网",
-          "url": "https://www.caixin.com/2026-05-29/102448733.html"
-        }
-      ]
-    },
-    {
-      "title": "中信证券定增160亿",
-      "summary": "中信证券计划在香港定向增发160亿港元，全部用于国际业务拓展。这一举措反映了中国证券公司加速国际化布局的趋势，旨在提升全球竞争力。中信证券作为中国领先的证券公司，此次大规模融资将有助于其在国际市场拓展业务，提升中国金融业的全球影响力。",
-      "reason": "金融行业重大战略调整，反映国际化趋势。",
-      "impact_areas": [
-        "经济金融",
-        "政治"
-      ],
-      "impact_level": "重大",
-      "sources": [
-        {
-          "name": "财新网",
-          "url": "https://finance.caixin.com/2026-05-29/102448729.html"
-        }
-      ]
-    },
-    {
-      "title": "人民币国际化瓶颈",
-      "summary": "市场热议人民币国际化的核心瓶颈仍在资本项目开放。尽管人民币在国际贸易中的使用不断增加，但在资本账户开放、汇率形成机制、金融市场深度等方面仍面临挑战。专家认为，推进人民币国际化需要平衡金融稳定与开放，逐步有序推进资本项目可兑换，同时深化金融市场改革。",
-      "reason": "国际金融格局变化的重要信号，影响全球经济秩序。",
-      "impact_areas": [
-        "经济金融",
-        "政治"
-      ],
-      "impact_level": "重大",
-      "sources": [
-        {
-          "name": "财新网",
-          "url": "https://finance.caixin.com/2026-05-29/102448724.html"
-        }
-      ]
-    },
-    {
-      "title": "英国政坛变数影响中英关系",
-      "summary": "英国政坛变数对中英关系产生深远影响。随着英国政治格局的变化，中英经贸合作、文化交流等领域面临新的机遇与挑战。专家分析认为，英国在脱欧后寻求全球战略调整，中英关系需要在相互尊重、互利共赢的基础上重新定位。双方在气候变化、经贸合作等领域的合作仍有广阔空间。",
-      "reason": "国际关系重要变化，影响全球政治经济格局。",
-      "impact_areas": [
-        "政治",
-        "经济金融"
-      ],
-      "impact_level": "重大",
-      "sources": [
-        {
-          "name": "财新网",
-          "url": "https://international.caixin.com/2026-05-29/102448719.html"
+          "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE42d1lsZFdFX3NGRmEwNk03d0VyRUdGWlBXbTlxcVl5ZlhuS3hZUjlfZjZFdW1zX3RZOFNJME1BS0F1dndfN3dpMjJTc01PVHlWXzZMOVRMaWF2OENPajNvRnFnTUUzelBSMWJ3NHhaSGFTd2pDZnpONw"
         }
       ]
     }
   ],
-  "total_fetched": 224,
-  "generated_at": "2026-05-29T07:28:41.245074+08:00"
+  "total_fetched": 292,
+  "generated_at": "2026-05-29T12:29:09.135777+08:00"
 }
