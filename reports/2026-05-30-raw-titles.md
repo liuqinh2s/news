@@ -1,4 +1,4 @@
-# 2026-05-30 原始新闻标题 (188 条)
+# 2026-05-30 原始新闻标题 (271 条)
 
 ## 新华社 (20 条)
 - Education, health fees among key concerns
@@ -22,60 +22,103 @@
 - Former Chongqing political official facing corruption investigation
 - Former Chongqing political official facing corruption investigation
 
-## 澎湃新闻 (13 条)
-- 经济日报：守住合规催收边界
-- 考前焦虑抽两口、熬夜赶作业来一口？中青报：别让电子烟误导青春
-- 美国法官裁定将特朗普名字从肯尼迪中心移除
-- 共赴TCG之约，海上生花
-- 历史上的今天｜1925年5月30日，五卅运动爆发
-- 一名被羁押的中国公民在菲移民局监狱突然离世，中使馆向菲方提出严正交涉
-- 纽约股市三大股指29日上涨
-- 国际油价29日下跌
-- 美元指数29日下跌
-- 身体周刊 | 送给孩子们的“五健”成长手册
-- 美媒：特朗普推迟就伊朗相关协议作最终决定
-- 神舟二十一号航天员乘组平安抵京
-- 世卫组织：刚果（金）及乌干达共报告134例埃博拉确诊病例
+## 澎湃新闻 (7 条)
+- 普京：有理由认为俄乌冲突临近收尾 - thepaper.cn
+- 新华社聚焦吉林：解码黑土粮仓的春耕“辩证法” - thepaper.cn
+- 曝京东内部通知：禁止加班超过12点，每天最多工作12小时 - thepaper.cn
+- 泡泡玛特大涨，段永平单日账面盈利近10亿港元 - thepaper.cn
+- 中央气象台：今日至明日，福建、云南、广东、海南岛等地部分地区将有短时强降水；内蒙古、广东等地局地将有雷暴大风或冰雹 - thepaper.cn
+- 一名在菲被羁押中国公民突然离世，中方提出严正交涉 - thepaper.cn
+- 我市部署乡村工匠培育和宣传选树工作 - thepaper.cn
 
-## 凤凰网 (9 条)
-- 特朗普推迟就伊朗相关协议作最终决定
-- 神舟二十一号航天员乘组平安抵京
-- 香会开幕，苏林发表演讲
-- 伊朗军方在格什姆岛附近击落敌对小型无人机
-- 专访塞尔维亚总统武契奇
-- 美军：将在霍尔木兹海峡附近开展军事行动
-- 伊媒：特朗普关于伊美协议的说法“真假参半”
-- 普京：有理由认为俄乌冲突临近收尾
-- 神二十一乘组平安凯旋后，还有哪些安排
+## 南方周末 (1 条)
+- “亦舒女郎”40年，从小说到荧屏
 
-## 央视网 (2 条)
+## 凤凰网 (20 条)
+- 美防长香会警告盟友：美国资助防务的时代已结束
+- 普京严厉批评西媒：简直是“耻辱和噩梦”
+- 美财长：多年来美国一直处于沉睡之中，误把舒适当成了实力
+- 2026香格里拉对话会开幕，中国专家学者代表团出席
+- 男子3年不回家探望七旬独居老母，被母亲告上法庭
+- 国务院正式批复同意，粤港澳游艇自由行要来了
+- 美防长：美中相互尊重和沟通对维护世界和平具有重要意义
+- 加沙物价飞涨：1公斤西红柿5美元，1公斤辣椒15美元
+- 农村户籍人员进城购房补贴十年未发放？四川武胜县住建局：正完善兑付方案
+- 普京称将打击所有构成直接威胁目标
+- 加拿大总理卡尼会见王毅
+- 一中国公民在菲监狱羁押离世，中使馆提出严正交涉
+- 事关流动儿童与留守儿童保护，27部门联合印发通知
+- 健康证上标注“女性私密”？越界了！
+- 特朗普：拜登妻子终于承认了
+- 新加坡贸易关系部长：新加坡正承受100%的通胀冲击
+- 因工作变动，蔡朝晖、邹广不再担任海南省副省长
+- 关志鸥任湖北省委书记，王忠林另有任用
+- 王毅时隔10年访问加拿大，与加总理及外长会面
+- 泰兰尼斯，中产妈妈的“碎钞机”？
+
+## 财新网 (18 条)
+- 山西留神峪矿难引行业震荡 超采、外包为何难根治
+- 一周天下｜中非埃博拉病例破千、首位香港航天员进入太空
+- 唐山官场“震复震” 首任监委主任刘德明落马
+- 人事观察｜56岁关志鸥主政湖北 成最年轻省级党委书记
+- 昔日“带帽”厅官曹清尧 仕途终局定性“结交政治骗子”被“双开”
+- 人事观察｜64岁国务院国资委主任张玉卓转岗中国工程院
+- 孤独疏离、混乱失控，当代艺术如何呈现人的处境？｜观展
+- 成为乔治·桑｜猎读
+- 文化返乡：出去的人，拿什么归来？
+- 【周刊提前读】中国电车多路径涌入欧洲 政策窗口正在收紧
+- 【周刊提前读】徐小庆专栏：A股牛市的分化风险加剧
+- 【周刊提前读】不良攀升竞争蚕食 如何拯救银行信用卡？
+- 【周刊提前读】跨境炒股“灰洞”全面封堵 合规渠道如何打开？
+- 【周刊提前读】侵权者不断换壳 凯赛生物16年维权换来了什么？
+- 【周刊提前读】AI三个月颠覆短剧 影视逻辑重构刚开始
+- 【周刊提前读】深度：AI渗透影视全产业链 好故事仍是核心
+- 【周刊提前读】深度：真人短剧骤减 AI剧更适配低质跑量
+- 财新闻｜中国佛教协会：释永信被判二十四年，完全是咎由自取
+
+## 央视网 (5 条)
 - 奔跑的三夏｜全国夏粮收获已过两成 - 央视网
+- 知情人士：伊朗尚未就伊美协议作出最终决定 - 央视网
 - 当花卉融入城市空间 北京月季“花”式出圈 - 央视网
+- 五部门联合公布《互联网信息内容多渠道分发服务管理规定》 - 央视网
+- 成渝中线高铁全线铺轨工程启动 通车后成都至重庆50分钟可达 - 央视网
 
-## BBC (7 条)
+## BBC (13 条)
 - 'Poison seller' who sold toxic chemicals online to people across world admits aiding suicides
 - Nato and EU condemn Russia after drone hits Romanian residential block
-- Trump holds meeting to make 'final determination' on Iran deal
+- No deal announced after Trump meeting to make 'final determination' on Iran
 - First of five men found alive in flooded Laos cave rescued
+- Ghana parliament passes anti-LGBTQ+ bill
+- Israel put on UN sexual violence in warzones blacklist for first time
+- Spain's Sánchez digs in after eight years as PM as wave of scandals threatens survival
 - Former US attorney general Pam Bondi defends her handling of Epstein files in congressional probe
+- Ukraine using AI drones to strike vital convoys supplying Russian troops
 - After decades risking arrest, South Korea's tattoo artists step into the limelight
+- Move over, Heated Rivalry - there's a new ice hockey romance obsession
 - Mumbai's famed dabbawalas fed millions for over 100 years - now they are disappearing
+- 'Gifts' from a lover and 'botched' cocaine raids: Police inquiry grips South Africa
 
-## Reuters (6 条)
-- Bessent argues US was 'asleep' on economic security, Trump policies waking it up - Reuters
+## Reuters (7 条)
+- Trump says he will 'transfer' Kennedy Center to Congress after court setback - Reuters
 - Wall St Week Ahead Jobs report on tap for soaring US stocks as rate path, bond yields eyed as risks - Reuters
-- Spain's Sanchez running out of road as corruption probes stack up - Reuters
+- Bessent argues US was 'asleep' on economic security, Trump policies waking it up - Reuters
 - More Fed policymakers eye possible rate hike as inflation risks rise - Reuters
+- Spain's Sanchez running out of road as corruption probes stack up - Reuters
 - Exclusive: US general meets Cuban military officials at edge of Guantanamo Bay - Reuters
 - US immigration agent arrested in Texas for Minneapolis shooting - Reuters
 
-## NYTimes (15 条)
-- Iran War Live Updates: Trump Puts Off ‘Final Determination’ on Iran Proposal
+## NYTimes (20 条)
+- Iran War Updates: Trump Puts Off ‘Final Determination’ on Iran Proposal
 - Russian Drone Hits Romanian Apartment Building, Officials Say
+- Trump’s Boat Strikes Have Failed to Curb Cocaine Flow to U.S., Experts Say
+- After Orban’s Defeat, Hungary Is Poised to Get Billions From E.U.
 - Kenya Arrests 8 Students After Fire at School Dorm Kills 16
 - Vietnam’s Leader Warns Asia About the Risks of Superpower Conflict
 - Romania Says It Could Invoke NATO’s Article 4. What Would That Do?
 - What to Know About the Drones That Have Been Crossing Into Romania
+- How Curry Shops Got Caught in Japan’s Immigration Crackdown
+- Lithuania, Once Occupied by Germany, Is Glad German Troops Are Back
+- Who’s the Vegas Retiree With the Big Offer for Greenland?
 - Iran’s Hard-Liners Try to Derail Potential Deal With the U.S.
 - Canadian Man Pleads Guilty to Aiding 14 Suicides
 - Mexican Senate Votes to Allow Voiding Elections Over Foreign Interference
@@ -95,111 +138,155 @@
 - Want Cash Out of Your Home? Here Are Your Best Options
 
 ## 微博热搜 (20 条)
-- 歌手第三期帮唱嘉宾信息
-- 父母姐姐身亡12岁孩子被叔侵占140万
-- 又一大国重器硬核刷屏
-- 京东组合购 拼到宝了
-- 一家四口有限责任公司
-- 耳帝 歌手第二期非常糟糕
-- 歌手 倒数第一竞争激烈
-- 上班斯道普华莱士喊我过六一了
-- 饿着入睡对胃肠更好吗
-- VOGUE晚宴
-- 人在做坏事的时候真的不觉得累
-- 重新定义一户一梯
-- 林沐然中戏转入湖南艺术职业学院
-- 刘亦菲彭冠英同款
-- RW 归期
-- 纸嫁衣9罗浮梦
-- 广东不愧是祖宗严选发配地
-- 虞书欣仍未取关潘宥诚
-- 31岁离异带4娃妈妈因自信走红
-- 许我耀眼 现实版
+- 宾利车内藏3千万财物小偷盗走30万
+- 榴莲仅退款事件商家已报警
+- 科技工作者一生坚守的赤诚心声
+- 京东超市618低至5折
+- 孟子义cue了李昀锐
+- 梁文峰对华为的态度
+- 白鹿替薛凯琪落水
+- 性格软才是最大的bug
+- 多方回应女大学生被骗进戒网瘾学校
+- 周六福足银手镯事件
+- 特斯拉满血版FSD体验
+- 林沐然 本升专
+- 下周天考数学 可下周天是高考
+- 魏如萱发长文
+- 湖南衡阳发生氢氟酸罐车泄漏事件
+- 第五人格
+- 欧冠
+- 那英我当年就是这么被投出去的
+- 河头老街00后男孩演活了李白
+- 京东黄金手链92折
 
-## 知乎热榜 (4 条)
+## 知乎热榜 (20 条)
 - 文学创作会不会受到 AI 的冲击？
 - 为什么说西西弗斯面对巨石，不断推上山是一种超越和蔑视？
 - 有哪些看起来很高端的技术其实原理很暴力很初级？
 - 中国古代官方不重视理工科吗,如果是,为什么?
+- 为什么人类不能自身合成维生素C?
+- 林黛玉被妙玉嫌弃太俗，却不敢反驳，她怼贾宝玉的劲儿哪去了？
+- 魏博没有山川险阻，靠什么屹立150年。甚至长期成为最强藩？
+- 瞎扯 · 如何正确地吐槽
+- 为什么松鼠的动作总是一顿一顿的？像卡帧一样？
+- 既有 F=ma，又有F=kx，那么物理公式到底要求等号左边是因还是果？
+- 西安唐代城门恢复为何不学洛阳，丹凤门像土黄色纸壳子，明德门像塑料玩具？
+- 瞎扯 · 如何正确地吐槽
+- 游牧民族几乎没有碳水来源，为什么没有营养不良?
+- 为什么压力单位这么混乱？
+- 为什么会有好奇害死猫这个说法？
+- 瞎扯 · 如何正确地吐槽
+- 为什么《茶花女》里玛格丽特会欠下那么多债务？
+- 狗鼻子贴地猛吸，为什么不怕把土吸进肺里？
+- Harness Engineering 的本质是什么？
+- 瞎扯 · 如何正确地吐槽
 
 ## B站热门 (20 条)
 - 【毕导】这是什么妖术？酒在坛子里是绿色，舀出来瞬间变红！
-- 《战术小队：破晓攻势》首曝PV | 全体都有，准备战斗！
-- 线下专访敖厂长：那些事，他终于开口了
-- 【纪录片】闪闪的儿科医生4 第1集 “窜天娃”历险记
 - 猫Meme Vs 中文
-- 《阿凡强》买瓜记
-- 《崩坏：星穹铁道》千冶•刃角色PV——「灭度」
-- 循环歌单|【lucky】|“【真男人の小曲】”
+- 竟然是残疾制造机舟山眼镜蛇！
+- 【独家/完结】永生之大道归一 第8集 飞龙在天【12月国创】
+- 史上最骚特工
+- 线下专访敖厂长：那些事，他终于开口了
+- 穿衣是你的自由，但是这里是南京啊！南京保卫战的绝唱！AI短片《南京！南京！》
 - 世界是个巨大的三角洲！！！
-- 抽象新闻：5月人类迷惑行为大赏（中）
-- 《中情局的困惑：为了成为线人的他不择手段！》【硬核狠人90】
-- aespa《LEMONADE》MV
+- 《鸣潮》3.4版本前瞻通讯 | 回顾影像
+- 【纪录片】闪闪的儿科医生4 第1集 “窜天娃”历险记
+- 【干货】高考和漫展时间冲突，应该参加哪个？
+- 《战术小队：破晓攻势》首曝PV | 全体都有，准备战斗！
+- 《鸣潮》3.4版本PV | 未选择的梦
+- 云水分飞 | 燕云十六声特别舞蹈合作【韩真 周莉亚 孟庆旸 张翰 】
 - 花30天用巧克力手搓《清明上河图》
-- 《灵光一闪》
-- 《鸣的天空9.1》来做客的绯雪妈妈和达妮娅妈妈😋❤️
-- 地牢酒馆-11集 《来自平原的家伙》
-- 彩铅手绘 《黑袍纠察队》祖国人
+- 雇佣商k公主去撩前女友的现男友
+- “一日三善”纯手绘21小时，600多帧布面油彩。
 - 当我用这个超火的创意拍弥海砂……
-- 【哈基月的日常vlog】又是无聊的一天呀
-- 当我在相亲现场遇到了自己的妹妹！
+- 祝大家拥有同等的幸运！高考必胜！
+- 好家伙！这位“李白”家在唐山，“00后”青年扮演李白火爆出圈
 
 ## 抖音热搜 (20 条)
-- 外交部回应加军舰过航台湾海峡
+- UFC张名扬vs梅尼菲尔德
 - 神22飞船返回舱着陆
-- e法同行赣鄱红韵
+- 未来五年我国城市更新如何推进
+- 一口冰拿到夏天落地签
 - 印度多地高温热浪持续
-- 蓝色起源“新格伦”火箭发生爆炸
+- 石铭首回合降服托马尔
+- 外交部回应加军舰过航台湾海峡
 - 高考前的最后一课
 - 两广近期“热度”belike
-- 石铭首回合降服托马尔
-- 甜辣风是夏日舒适区
-- 神21航天员全部顺利出舱
+- 蓝色起源“新格伦”火箭发生爆炸
 - 张雪机车阿拉贡站杆位赛第二
-- “广东夏季高考将用AI批卷”不实
 - 王力宏杭州演唱会
-- 张照洋黄一鸣百分大战
 - 晒出春夏facecheck
-- 丁向群任国家金融监管总局党委书记
-- 胡彦斌版修炼爱情把我听碎了
+- 歌手第二期排名公布
+- 翘楚定档0602
 - 歌手2026第二期舞台
-- 这首歌终于等到崔十八单人版
-- 大起大落德比斯
+- 有情不能饮水饱
+- 肯定喜欢那种蓝里透着白的天气
+- 歌手第二期观后感
+- 我在你心里什么位置
 
-## 雪球热帖 (15 条)
-- 摩根标普港股通低波红利ETF发起式联接A净值上涨0.92% - 新浪财经
-- 华夏云计算与大数据ETF联接C净值下跌2.65% - 新浪财经
-- 华安动力领航混合C净值下跌2.33% - 新浪财经
-- 南方竞争优势混合C净值下跌1.76% - 新浪财经
-- 国泰国证航天军工指数(LOF)C净值下跌4.25% - 新浪财经
-- 长江智能制造混合型发起式A净值下跌1.10% - 新浪财经
-- 宏利高研发6个月持有混合C净值下跌5.12% - 新浪财经
-- 华夏中证大数据产业ETF发起式联接D净值下跌2.91% - 新浪财经
-- 华夏港股通央企红利ETF联接C净值上涨0.83% - 新浪财经
-- 广发中证稀有金属ETF发起式联接C净值下跌2.88% - 新浪财经
-- 国泰上证科创板综合ETF发起联接A净值下跌4.48% - 新浪财经
-- 融通中证诚通央企科技创新ETF发起式联接C净值下跌2.06% - 新浪财经
-- 嘉实中证港股通高股息投资ETF发起联接A净值上涨0.70% - 新浪财经
-- A股大消费板块反弹 - 新浪财经
-- 博时中证银行ETF净值上涨1.79% - 新浪财经
+## 雪球热帖 (20 条)
+- “盐中甜×果实进化”联合打造江西AI智慧工厂 - Sina finance
+- 杨姓股民向ST豆神发起索赔 徐劲律师接受咨询 - Sina finance
+- 体坛联播｜巴萨签下戈登，穆帅被曝已经与皇马签约3年 - Sina finance
+- 燃油车企业陷“两难”境地：“不降价难卖，降价卖更难” - Sina finance
+- 华大海天IPO：员工专科及以下学历占比为80.49% - Sina finance
+- 道氏技术股东贾自强29天减持722.05万股，套现1.9亿元 - Sina finance
+- 杭电股份股东富春江通信2天减持738万股，套现2.93亿元 - Sina finance
+- 华宝券商ETF联接净值上涨1.00% - Sina finance
+- 国际复材股东云熹股权4天减持3502.4万股，套现7.99亿元 - Sina finance
+- 澳大利亚延长国内汽油、柴油储备释放措施 - Sina finance
+- 日本正在推进军国主义的路上狂奔 民众抗议不断 - Sina finance
+- 港股汽车ETF工银净值下跌0.83% - Sina finance
+- 泰鹏智能2026年一季度营收增长35.80%，流通股东出现新进入者 - Sina finance
+- 顺发恒能近5日多头行情，主力资金净流入，估值处历史高位。 - Sina finance
+- 王府井近5日多头行情强于大盘，主力资金净流出，估值历史低位 - Sina finance
+- 突发！美国没收伊朗价值10亿美元加密货币资产，美财长：即使解除对伊金融、经济封锁，进程也会十分缓慢 - Sina finance
+- 渗透率破60%：新能源汽车从“可选”变“优选” - Sina finance
+- A股大消费板块反弹 - Sina finance
+- 从顶层设计到地方施策：中国制造业借AI“智”变 - Sina finance
+- 地纬智能2025年参保人数1,360人，较上期减少95人、同比下降6.53% - Sina finance
 
-## 36氪 (2 条)
-- 36氪独家：千里科技再添筹码，有望整合吉利辅助驾驶团队 - 36氪
-- 连续15年披露ESG报告，自然堂将“可持续”打造成生意 | 最前线 - 36氪
+## 36氪 (17 条)
+- 国务院正式批复同意 粤港澳游艇自由行要来了
+- 国家能源局：2026年4月，核发绿证2.37亿个
+- 宁德时代首席科学家吴凯：新国标实施后，中国新能源车的自燃率会比燃油车低一个数量级
+- 丹麦养老基金称SpaceX被“严重高估”
+- “张雪机车”车手德比斯获阿拉贡站排位赛第二名
+- 40余款AI大模型集中亮相2026世界智能产业博览会
+- 宁德时代首席科学家吴凯：今年实现钠离子电池规模量产，下一步聚焦锂空气电池研发
+- Apple Music崩了 部分用户可能遇到间歇性问题
+- 霍尼韦尔旗下量子计算公司 Quantinuum 拟扩大IPO规模
+- 欧足联携手阿里巴巴，达成多年战略合作
+- 周六福就“售卖不合格足银手镯”致歉
+- 商业载人航天穿越者完成Pre-A轮亿元融资
+- Meta计划今年下半年售出1000万台可穿戴设备
+- 丰田汽车计划11月在巴西开设新工厂
+- 百胜据悉与LongRange就出售必胜客独家洽谈
+- MiniMax启动A股上市辅导
+- 美股三大股指集体收涨，戴尔大涨近33%创最大单日涨幅
 
-## 虎嗅 (12 条)
-- Robotaxi这个行业，没人只想守着自己的摊子
-- 中年危机的雾气，在这一代年轻人中弥漫
-- 与AI聊人类的未来
-- 打造超级组织的延迟满足感
-- 喝咖啡也有最佳时间，喝对了，好处比你想象的多
-- 柠季洽谈收购哈根达斯中国门店业务
-- 中国精酿啤酒之父，很忙
-- 在宿迁，窥见世界模型争夺战的数据采集前线
-- 史上最大抽水机来了，抽的不是水，是血
-- AI 时代，生物学还需要理论吗？— 从虚拟细胞(AIVC) 说起
-- “自闭症怪人协会”刷屏出圈，网友疯狂玩梗，家长却沉默了
-- 10年布局之后，他们拿出了一款超级“野”的生存对抗游戏
+## 虎嗅 (20 条)
+- 下班买套套的工人和湖区混血儿：全世界年轻人都看不到未来
+- 本田宗一郎：造梦者的坚持，改变世界的动力，从自行车小作坊到世界级汽车帝国
+- “那个在奶茶店撒泼的人，能保住编制吗”？
+- 这个叫Neo 的“玩具机”：成年人用了也想过六一儿童节
+- 阿根廷葡萄酒1-4月出口量增长17%，中国市场量跌价涨
+- 700亿融资赶紧到位吧，DeepSeek开始限制重生、修改次数了
+- 7805个人类作家，输给一段提示词
+- 一组反直觉的数据告诉我们，电影的票房潜力远没有穷尽
+- 免税红利回来了，中国商人飞越半个地球去巴西
+- 比亚迪璇玑A3拆解：车企开始争夺AI 芯片定义权
+- 苹果用AI重新发明了图像压缩：同样画质，文件只要三分之一
+- 被AI“忽悠”了N次后，我们总结了这份避坑指南
+- 长鑫科技背后“稳赚”了八家券商
+- 任天堂简史：硬件服务于内容
+- 微信支付+PayPal，跨境支付暗战“升级”
+- 上市公司“再诉”前实控人，翻出9年前IPO旧账，它要学妙可蓝多“踢掉”创始人？
+- 日均15单，营收200元：一个三线城市网约车司机在算法里抠订单
+- 快手拆了可灵，字节拆豆包还会远么
+- 净利润下滑33%、单店月均GMV下滑17.6%，打垮霸王茶姬的真的只是外卖大战吗？
+- 快消正在失去00后业务员：比外卖抢人更可怕的，是自上而下的“登味儿”管理
 
 ## GitHub Trending (17 条)
 - harry0703/MoneyPrinterTurbo
