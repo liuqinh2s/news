@@ -2,38 +2,84 @@
   "date": "2026-05-30",
   "news": [
     {
-      "title": "俄无人机袭罗马尼亚",
-      "summary": "俄罗斯无人机击中罗马尼亚居民楼，引发国际社会广泛关注。多国媒体报道此事，罗马尼亚可能援引北约第四条，要求盟国就威胁进行磋商。事件发生在俄乌冲突持续背景下，进一步加剧了地区紧张局势。北约和欧盟已谴责此次袭击，称其为俄罗斯对北约成员国领土的直接攻击。事件可能导致北约对俄政策进一步强硬，并对欧洲安全格局产生深远影响。",
-      "reason": "多国媒体报道，涉及北约第四条可能启动，地缘政治风险升级",
+      "title": "钠电池将量产",
+      "summary": "宁德时代首席科学家吴凯宣布，公司将于2026年实现钠离子电池的规模量产。这一突破将大幅降低电池成本，缓解锂资源依赖问题，为储能和电动车行业提供新的技术路径。钠离子电池具有资源丰富、成本较低、安全性高等优势，有望在储能领域大规模应用，并逐步进入动力电池市场。",
+      "reason": "电池技术重大突破，将改变能源存储格局",
       "impact_areas": [
-        "地缘政治",
-        "国际关系"
+        "科技",
+        "能源",
+        "产业"
       ],
       "impact_level": "重大",
       "sources": [
         {
-          "name": "BBC",
-          "url": "https://www.bbc.com/news/articles/c93x4nxlkjeo?at_medium=RSS&at_campaign=rss"
-        },
+          "name": "雪球热帖",
+          "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE83MUhsQXJZdFBpUkJQNHBBck5FbV9Fd3Nqdl9ZYUhTNHJlYVpRM0t2Rm5XYjBKcUZ6cDd6NW5Bd3k3bm01S0EtY0M1RlROUUc5bm95NEdlT2R2cmhraFBWYnVzU2lBUTU3dTdJOTlsRlpnbEwxTldRQw?oc=5"
+        }
+      ]
+    },
+    {
+      "title": "MiniMax启动A股IPO",
+      "summary": "AI企业MiniMax正式启动A股IPO计划，若成功上市，将与另一家AI巨头形成\"中国大模型双雄\"格局，共同在A股市场会师。这一动向标志着中国AI产业进入资本密集发展阶段，有望加速大模型技术的商业化应用和迭代升级，同时也反映出资本市场对AI领域的持续看好。",
+      "reason": "AI巨头上市，将重塑中国AI产业格局",
+      "impact_areas": [
+        "科技",
+        "经济金融"
+      ],
+      "impact_level": "重大",
+      "sources": [
         {
-          "name": "NYTimes",
-          "url": "https://www.nytimes.com/2026/05/29/world/europe/romania-drone-russia-ukraine.html"
+          "name": "雪球热帖",
+          "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE45bkFoS3lnUVA0LXh2bVNLbXY3ekJzdzNCRE9hUTcwTlprQ3ZsZ1hxZ1F6TmJtcHlOMWhFdjN4c2JsWEZJbFNhN1dWZVk3Qk5EbUZBSXUwUVMyT0NRODdXUHhBMkRscFdicmpFaVJ6QzQ4TjBZaUE?oc=5"
+        }
+      ]
+    },
+    {
+      "title": "日本大规模干预汇率",
+      "summary": "日本央行数据显示，5月份日元贬值2.6%，创近期新低。为应对日元持续贬值，日本政府近一个月内已动用约11万亿日元进行市场干预。这是日本近年来最大规模的汇率干预行动之一，反映出日本政府对日元过度贬值的担忧。此举可能对日本出口企业有利，但会增加进口成本，加剧国内通胀压力。",
+      "reason": "日本大规模干预汇率，创近期新高",
+      "impact_areas": [
+        "经济金融",
+        "国际"
+      ],
+      "impact_level": "重大",
+      "sources": [
+        {
+          "name": "财新网",
+          "url": "https://finance.caixin.com/2026-05-30/102449466.html"
+        }
+      ]
+    },
+    {
+      "title": "中国汽车全球占比31%",
+      "summary": "中国汽车工业协会乘用车市场信息联席分会秘书长崔东树表示，2026年1-4月，中国汽车产量占全球总产量的31%，继续保持全球最大汽车生产国地位。这一数据表明中国汽车产业在全球市场的影响力持续提升，特别是在新能源汽车领域，中国品牌已具备较强的国际竞争力。",
+      "reason": "中国汽车全球占比超三成，产业地位持续提升",
+      "impact_areas": [
+        "产业",
+        "经济金融"
+      ],
+      "impact_level": "重大",
+      "sources": [
+        {
+          "name": "36氪",
+          "url": "https://www.36kr.com/newsflashes/3831568959989637"
         }
       ]
     },
     {
       "title": "粤港澳游艇自由行获批",
-      "summary": "国务院正式批复同意粤港澳游艇自由行政策，这将促进粤港澳大湾区的互联互通和旅游业发展。政策实施后，三地游艇可自由通行，无需繁琐手续，将极大便利区域内水上交流和旅游发展。此举是粤港澳大湾区建设的重要举措，将进一步促进区域经济一体化，提升国际竞争力。同时，也将带动相关产业链发展，包括游艇制造、维修、服务等行业。",
-      "reason": "国务院正式批复，促进大湾区互联互通和旅游业发展",
+      "summary": "国务院正式批复同意粤港澳游艇自由行政策，标志着三地游艇往来将实现更加便利的通关安排。这一政策将大幅降低游艇在三地间的运营成本，促进游艇产业发展，同时也有助于提升粤港澳大湾区的国际旅游吸引力。政策实施后，游艇可更便捷地穿梭于粤港澳三地，为高端旅游和商务活动提供新选择。",
+      "reason": "国务院批复粤港澳游艇自由行，促进区域一体化",
       "impact_areas": [
-        "经济金融",
-        "社会"
+        "政策",
+        "旅游",
+        "区域经济"
       ],
       "impact_level": "重大",
       "sources": [
         {
-          "name": "凤凰网",
-          "url": "https://news.ifeng.com/c/8tXpAfhGSam"
+          "name": "央视网",
+          "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1VTE1MeGg0RThrdU53RmJZaUVuX0c1ejYtSDJJRHNlM2x5ZFRkQVhUd1NHNDc3ak5sNUpwOEJ6RlU2Q1YwRGtjRjNuVTNPVUpLNFVzYjEwNV80VHdVWUtsSW43VkYtYmpZVURhNVhpOUNXN0luUWtNNjhwbw?oc=5"
         },
         {
           "name": "36氪",
@@ -42,148 +88,94 @@
       ]
     },
     {
-      "title": "AI大模型博览会亮相",
-      "summary": "2026世界智能产业博览会上，40余款AI大模型集中亮相，展示人工智能技术的最新进展。这些模型涵盖了自然语言处理、计算机视觉、多模态等多个领域，反映了AI技术的快速发展和商业化进程。博览会的举办标志着AI产业已成为全球科技竞争的焦点，各国和企业都在加大投入力度。AI大模型的广泛应用将深刻改变各行各业，包括医疗、教育、金融、制造等领域，推动社会生产力提升和产业升级。",
-      "reason": "40余款AI大模型集中亮相，反映AI产业快速发展",
+      "title": "成渝中线高铁启动铺轨",
+      "summary": "成渝中线高铁全线铺轨工程正式启动，这条连接成都与重庆的高速铁路预计通车后，两地间旅行时间将缩短至50分钟。成渝中线高铁是成渝地区双城经济圈建设的重要基础设施，设计时速350公里，将大幅提升两地间的人员流动和物流效率，促进区域经济一体化发展。",
+      "reason": "成渝中线高铁启动，将缩短两地通勤时间至50分钟",
       "impact_areas": [
-        "科技"
+        "基础设施",
+        "区域经济"
       ],
       "impact_level": "重大",
       "sources": [
         {
-          "name": "36氪",
-          "url": "https://www.36kr.com/newsflashes/3831203586745984"
+          "name": "央视网",
+          "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9iY2kxMFhRaC1YU1RBQ2VMSmJ3MlpHTXdYQlAxZDh2VlF3Q1dROXh3c0Y3eVM2U0RfNC1ySnZGa2QtTjF6a2RBR2dZMVBXUndLYWlfSGFuVHhWY3Nma3pCc2tnZHFreldsTXdkWEVfdkxFZWFxaFJYMQ?oc=5"
         }
       ]
     },
     {
-      "title": "宁德时代电池技术突破",
-      "summary": "宁德时代首席科学家吴凯宣布，新国标实施后，中国新能源车的自燃率将比燃油车低一个数量级。同时，吴凯表示今年将实现钠离子电池规模量产，下一步将聚焦锂空气电池研发。这些技术突破将大幅提升新能源车的安全性和续航能力，推动新能源汽车产业进一步发展。钠离子电池作为一种新型电池技术，具有资源丰富、成本低廉等优势，有望在储能领域大规模应用。锂空气电池则具有更高的能量密度，是下一代电池技术的重要发展方向。",
-      "reason": "新能源车安全性和电池技术双重突破，推动产业发展",
+      "title": "强厄尔尼诺概率增大",
+      "summary": "国家气候中心最新监测显示，今年发生强厄尔尼诺事件的概率正在增大。厄尔尼诺现象将导致全球气候异常，可能引发极端天气事件增加，如暴雨、干旱、高温等。这一现象将对农业生产、水资源管理、能源供应等领域产生深远影响，相关部门已开始加强监测预警和应对准备。",
+      "reason": "强厄尔尼诺事件概率增大，将影响全球气候格局",
       "impact_areas": [
-        "科技",
-        "经济金融"
+        "生态",
+        "农业",
+        "能源"
       ],
       "impact_level": "重大",
       "sources": [
         {
-          "name": "36氪",
-          "url": "https://www.36kr.com/newsflashes/3831211012335237"
-        },
-        {
-          "name": "36氪",
-          "url": "https://www.36kr.com/newsflashes/3831189798872963"
+          "name": "央视网",
+          "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBOR3ljd1p0SnBTLVNQUERuMThxdWlnMlZZT3NDQTk1Ulh2YndadUFJa3pVQ1pRcTN2eldqT0hXR0nuZVV4OXJUb0RtNW1SdS1rMXNXLVdXdVdIRHR4X2xkVzFvaVBIMFlYcjJkeURqdlNiZlpoZl9ucw?oc=5"
         }
       ]
     },
     {
-      "title": "美联储加息预期升温",
-      "summary": "随着通胀风险上升，更多美联储官员考虑可能加息。这一表态引发全球金融市场关注，可能导致美元走强、资本回流美国，对新兴市场国家造成压力。美联储的政策调整将对全球利率环境、汇率走势和资本流动产生深远影响。同时，加息预期也会影响企业和个人的融资成本，进而影响经济增长和就业市场。市场正在密切关注美联储的下一步行动，以及通胀数据的变化。",
-      "reason": "通胀风险上升，美联储加息预期升温，影响全球金融市场",
+      "title": "美防长扩充\"印太\"军事能力",
+      "summary": "在香格里拉对话期间，美国防长表示将扩充美国在\"印太\"地区的核潜艇和精确制导武器能力。这一表态反映了美国在印太地区的军事战略调整，旨在强化对该地区的军事存在和影响力。此举可能引发地区军备竞赛，加剧地缘政治紧张局势，并对亚太安全格局产生深远影响。",
+      "reason": "美防长宣布扩充\"印太\"军事能力，地区战略调整",
       "impact_areas": [
-        "经济金融"
-      ],
-      "impact_level": "重大",
-      "sources": [
-        {
-          "name": "Reuters",
-          "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxONHZGRC1lZE9FMWRpVnlkVVFaZWFLWkowZWZjaW8teHlXenZhdVJ3OWw3WW1pejA2YUhHNTRpTExYSGE1bDFKQ1JWdVo5YnNSeDEwMGFsanJreTc2SDR6MlFIRnl5UEMwV3VDXzNGcERrX3ZlRS16c2xscjlNeXZoM2pGM25oNjNCcGJiN2tFbjAydWdyOUZYal9fallKcUo3VWZjd1htTnI"
-        }
-      ]
-    },
-    {
-      "title": "中国公民在菲监狱离世",
-      "summary": "一名在菲律宾被羁押的中国公民突然离世，中国驻菲律宾使馆已提出严正交涉。事件引发广泛关注，涉及海外中国公民权益保护问题。中国外交部表示，将继续关注事件进展，要求菲方确保在菲中国公民的合法权益。近年来，随着中国公民海外活动增多，领事保护工作面临新挑战。此次事件再次凸显加强海外领事保护工作的重要性，也促使相关部门进一步完善领事保护机制和应急预案。",
-      "reason": "中国公民在菲监狱离世，中方提出严正交涉",
-      "impact_areas": [
-        "社会",
-        "外交"
+        "政治",
+        "军事",
+        "地缘"
       ],
       "impact_level": "重大",
       "sources": [
         {
           "name": "澎湃新闻",
-          "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1DdGJOWFYtTWVZVWhIZmFfeThHRUdHdW1GYzdFZ2RNaUJERUFMTkktZkdQdFBXYUZrU0Z1THIyZnhScng1OHpEVW96end1OGZIZG85a1RyZDBSZXNST1E"
-        },
-        {
-          "name": "凤凰网",
-          "url": "https://news.ifeng.com/c/8tXmo1N1xAt"
+          "url": "https://m.thepaper.cn/detail/33271806"
         }
       ]
     },
     {
-      "title": "流动儿童与留守儿童保护",
-      "summary": "27部门联合印发通知，加强流动儿童与留守儿童保护工作。通知从教育、健康、安全等多个方面提出具体措施，旨在解决流动儿童和留守儿童面临的实际问题。这一政策体现了国家对弱势群体的高度关注，也是推进社会公平的重要举措。随着城镇化进程加快，流动儿童和留守儿童问题日益突出，此次政策的出台将有助于改善他们的生活和学习环境，促进社会和谐稳定。",
-      "reason": "27部门联合印发通知，加强流动儿童与留守儿童保护",
+      "title": "普京驳斥\"侵略西欧\"报道",
+      "summary": "针对西方媒体关于\"俄罗斯计划侵略西欧\"的报道，普京强烈驳斥称这些说法\"纯属胡扯\"和\"无耻的谎言\"。这一表态反映了俄欧关系的紧张态势，同时也表明俄罗斯在当前国际形势下的外交立场。俄乌冲突持续背景下，欧洲安全格局面临重新调整，各方博弈日趋复杂。",
+      "reason": "普京驳斥\"侵略西欧\"报道，俄欧关系持续紧张",
       "impact_areas": [
-        "社会",
+        "政治",
+        "国际",
+        "军事"
+      ],
+      "impact_level": "重大",
+      "sources": [
+        {
+          "name": "凤凰网",
+          "url": "https://news.ifeng.com/c/8tYL9HroZVj"
+        }
+      ]
+    },
+    {
+      "title": "绿证核发量创历史新高",
+      "summary": "国家能源局数据显示，2026年4月，全国核发绿色电力证书2.37亿个，创历史新高。绿证是可再生能源环境权益的市场化体现，其大规模核发表明我国可再生能源发展进入新阶段。这一数据反映出我国能源结构持续优化，清洁能源占比不断提升，对实现\"双碳\"目标具有重要意义。",
+      "reason": "绿证核发量创历史新高，能源结构优化加速",
+      "impact_areas": [
+        "能源",
+        "环境",
         "政策"
       ],
       "impact_level": "重大",
       "sources": [
         {
-          "name": "凤凰网",
-          "url": "https://news.ifeng.com/c/8tXlqSNA7jv"
-        }
-      ]
-    },
-    {
-      "title": "美防长警告盟友",
-      "summary": "美国防长在香格里拉对话会上警告盟友，美国资助防务的时代已结束。同时，美财长表示美国多年来一直处于沉睡之中，误把舒适当成了实力。这些表态反映了美国对外政策的调整，可能对全球安全格局产生深远影响。美国作为传统全球领导者，其政策调整将影响盟友关系和全球战略平衡。同时，这也可能促使盟友加强自主防务能力，推动多极化世界格局的形成。",
-      "reason": "美防长警告盟友资助防务时代结束，反映美国对外政策调整",
-      "impact_areas": [
-        "政治",
-        "国际关系"
-      ],
-      "impact_level": "重大",
-      "sources": [
-        {
-          "name": "凤凰网",
-          "url": "https://news.ifeng.com/c/8tXqRHnkvLP"
+          "name": "央视网",
+          "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE8zTUQ4SGpqLWJCNGRfS1BTYUt1RTlmRTFXZHV2Y1luNDRHTGtwZ0ZEVjZZNzRwZ2cweEFyZ1VSMzBYQzlVbHgzU1MwM1NXdi1kQzRUWWJBeXhjRGZaMVZ0OWNxVTROSFl5RUhESlZld25wOW5yY19PVw?oc=5"
         },
         {
-          "name": "凤凰网",
-          "url": "https://news.ifeng.com/c/8tXni56NgoE"
-        }
-      ]
-    },
-    {
-      "title": "以色列列入联合国黑名单",
-      "summary": "以色列被列入联合国在战争中性暴力黑名单，这是首次以色列被列入此类名单。多国媒体报道此事，国际社会对以色列行动的谴责升级。这一决定反映了国际社会对冲突中保护平民权益的关注，也可能对以色列的国际形象和外交关系产生影响。同时，这也可能影响冲突各方的行为，促使各方更加重视平民保护问题。联合国此举旨在加强对冲突中性暴力的预防和应对，推动国际人道主义法的实施。",
-      "reason": "以色列首次被列入联合国战争中性暴力黑名单，国际社会谴责升级",
-      "impact_areas": [
-        "政治",
-        "国际关系"
-      ],
-      "impact_level": "重大",
-      "sources": [
-        {
-          "name": "BBC",
-          "url": "https://www.bbc.com/news/articles/cx21le869n1o?at_medium=RSS&at_campaign=rss"
-        },
-        {
-          "name": "NYTimes",
-          "url": "https://www.nytimes.com/2026/05/29/world/middleeast/israel-russia-un-sexual-violence.html"
-        }
-      ]
-    },
-    {
-      "title": "山西矿难引发行业震荡",
-      "summary": "山西留神峪矿难引发行业震荡，超采、外包等问题难根治。事故暴露了煤矿安全生产的深层次问题，包括监管不力、企业主体责任落实不到位等。矿难发生后，相关部门已展开调查，并要求全面排查安全隐患。此次事件将促使行业加强安全生产管理，推动行业转型升级。同时，也将促使相关部门完善监管机制，加大对违法违规行为的查处力度，确保矿工生命安全。",
-      "reason": "山西矿难暴露行业深层次问题，将推动监管加强和行业转型",
-      "impact_areas": [
-        "社会",
-        "产业"
-      ],
-      "impact_level": "重大",
-      "sources": [
-        {
-          "name": "财新网",
-          "url": "https://china.caixin.com/2026-05-30/102449462.html"
+          "name": "36氪",
+          "url": "https://www.36kr.com/newsflashes/3831212862137990"
         }
       ]
     }
   ],
-  "total_fetched": 271,
-  "generated_at": "2026-05-30T12:27:59.466476+08:00"
+  "total_fetched": 260,
+  "generated_at": "2026-05-30T19:28:09.809472+08:00"
 }
