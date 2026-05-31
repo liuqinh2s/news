@@ -1,0 +1,176 @@
+{
+  "date": "2026-06-01",
+  "news": [
+    {
+      "title": "创新药BD交易受限",
+      "summary": "国家药监局发布新规，可能对外企与国内药企的BD(授权引进)交易设置更多限制，涉及技术转让、许可协议等方面。此举旨在加强国内创新药自主研发能力，避免过度依赖国外技术。政策调整将影响跨国药企在华战略，国内药企需调整研发管线和合作模式。短期内可能引发行业震荡，长期将促进国内创新药生态健康发展。",
+      "reason": "医药行业政策重大调整，影响跨国药企合作格局",
+      "impact_areas": [
+        "经济金融",
+        "科技",
+        "公共卫生"
+      ],
+      "impact_level": "重大",
+      "sources": [
+        {
+          "name": "财新网",
+          "url": "https://www.caixin.com/2026-06-01/102449602.html"
+        }
+      ]
+    },
+    {
+      "title": "信达生物与辉瑞151亿美元交易",
+      "summary": "中国生物制药企业信达生物与美国辉瑞公司达成价值151亿美元的合作协议，涉及肿瘤药物Tislelizumab的全球授权开发与商业化。这是中国药企史上最大规模的对外授权交易之一，反映中国创新药国际认可度提升。交易将加速信达生物国际化进程，同时为辉瑞带来重要肿瘤药物管线。交易公布后，信达生物股价大幅上涨，带动医药板块整体走强。",
+      "reason": "中国药企史上最大规模对外授权交易，创行业纪录",
+      "impact_areas": [
+        "经济金融",
+        "科技",
+        "公共卫生"
+      ],
+      "impact_level": "重大",
+      "sources": [
+        {
+          "name": "财新网",
+          "url": "https://www.caixin.com/2026-06-01/102449597.html"
+        }
+      ]
+    },
+    {
+      "title": "前瞻布局未来产业",
+      "summary": "国家主席习近平在《求是》杂志发表重要文章，强调要前瞻布局和发展未来产业，包括人工智能、量子信息、生命科学等前沿领域。文章指出要把握科技革命和产业变革机遇，加强原创性引领性科技攻关，培育壮大新兴产业。这一战略导向将引导国家资源向未来产业倾斜，推动产业结构优化升级，为经济高质量发展提供新动能。",
+      "reason": "国家战略明确未来产业发展方向，政策导向意义重大",
+      "impact_areas": [
+        "经济金融",
+        "科技",
+        "政治"
+      ],
+      "impact_level": "重大",
+      "sources": [
+        {
+          "name": "财新网",
+          "url": "https://finance.caixin.com/2026-06-01/102449595.html"
+        }
+      ]
+    },
+    {
+      "title": "卫星互联网试验卫星发射",
+      "summary": "我国成功发射一颗卫星互联网技术试验卫星，标志着我国卫星互联网建设取得重要进展。该卫星将验证关键技术和系统性能，为构建全球覆盖的卫星互联网网络奠定基础。卫星互联网是未来6G通信的重要组成部分，对全球通信格局、数字经济和国家安全具有深远影响。此次发射是我国航天科技自主创新的重要成果，将推动相关产业链发展。",
+      "reason": "卫星互联网技术试验成功，抢占未来通信制高点",
+      "impact_areas": [
+        "科技",
+        "经济金融",
+        "地缘"
+      ],
+      "impact_level": "重大",
+      "sources": [
+        {
+          "name": "央视网",
+          "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE96STVsdlBSVnpBM2ZJQnBGQzliRDBnYUUwcFgwa1R4R3J2VXZCV0FMRjNCeFBhOGhUVnJwT1h2Y0IxRHNsSkRRckY4c0Z5NlY4a3A1Sjd4Snh1THRFT3dQZ29keXJOVGNyeGpTdzJyanpJcmVIZGg0Tg?oc=5"
+        }
+      ]
+    },
+    {
+      "title": "医保商保双目录调整",
+      "summary": "国家医保局发布2026年医保商保\"双目录\"调整方案，扩大药品和医疗服务覆盖范围，将更多创新药和先进技术纳入保障体系。调整后，医保目录新增121种药品，其中包括45种抗肿瘤药物和30种罕见病用药。商保目录则重点支持高端医疗和健康管理服务。此次调整将减轻患者负担，促进医疗技术创新，同时推动医保与商保协同发展，构建多层次医疗保障体系。",
+      "reason": "医保商保双目录重大调整，影响亿万民众医疗保障",
+      "impact_areas": [
+        "公共卫生",
+        "经济金融",
+        "社会"
+      ],
+      "impact_level": "重大",
+      "sources": [
+        {
+          "name": "央视网",
+          "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE0yM291Sm54T2Z4Wnh5VDlPZWJkLTMwaVNSNjdEc0l4OURUMkloVnljVEwtMHdYdkVzb2NIWTh2cm1IbW02eGFXUXROdEVjTHNJc0hxQjhiYVNpbm1DOTJvRmdpOXdSajlBMGk2QWxQdTR3WmxQU281Zg?oc=5"
+        }
+      ]
+    },
+    {
+      "title": "软银875亿投资法国AI数据中心",
+      "summary": "日本软银集团宣布将在法国投资高达875亿美元建设人工智能数据中心，这是欧洲历史上最大的外国直接投资之一。该项目将创造数万个就业岗位，推动欧洲AI基础设施建设。软银CEO表示，此举旨在抓住欧洲AI发展机遇，平衡美国和中国在AI领域的领先地位。投资将用于建设先进计算设施，支持欧洲AI研究和产业发展，重塑全球AI产业格局。",
+      "reason": "软银创纪录投资欧洲AI基础设施，重塑全球AI产业格局",
+      "impact_areas": [
+        "科技",
+        "经济金融",
+        "地缘"
+      ],
+      "impact_level": "重大",
+      "sources": [
+        {
+          "name": "雪球热帖",
+          "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNdTJuMVVSSGRGcEtXa083Ti1MU3dyXzB0cjhPS0hoUkVBa2R4TjdzNWJPeHo2U3BvZGhid3N0T0xNNkx5bjNGdXUtUDRvcHRTOUtZU3ltdmJlaU1ZYWRhWWhZOWJVTVFQRTZ4ZEtsTHJkRnlWYmJrdVY0VVBSUTZvMzIyZmJHbE1uc3hNRDJCcw?oc=5"
+        }
+      ]
+    },
+    {
+      "title": "英伟达英飞凌合作提升数据中心效率",
+      "summary": "英伟达与德国英飞凌宣布建立战略合作，共同开发基于800V直流电源架构的数据中心解决方案，旨在大幅提升AI计算效率。新技术可将数据中心能源效率提高30%，减少碳排放，同时支持更高算力密度。合作将整合英伟达GPU与英飞凌功率半导体技术，解决AI计算面临的能源瓶颈。这一突破性技术有望降低大模型训练和推理成本，加速AI应用普及。",
+      "reason": "英伟达英飞凌合作突破AI计算能源瓶颈，提升效率30%",
+      "impact_areas": [
+        "科技",
+        "经济金融",
+        "生态"
+      ],
+      "impact_level": "重大",
+      "sources": [
+        {
+          "name": "雪球热帖",
+          "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNSHZ2NW1keW5VV1llT2lHcmJZNHE3TWtUcFk3YnV2eXNoMXpZR0dhZm1henpZcXF4d2NmcjNyYlhQQVdPSUE2dE1JdXU1YTJqLUw2amNZMXUwa29pTU5mbzV1QkdpVTdwQjNHTV9LVUVKSzB4Si1CTHdubGRUM1prX2s4R3ZQVVJkYXVrb1VlQQ?oc=5"
+        }
+      ]
+    },
+    {
+      "title": "美联储警示AI投资泡沫风险",
+      "summary": "美联储理事戴利在公开演讲中表示，人工智能技术初现曙光，但市场存在过度炒作现象。她警告投资者未来6个月是区分AI真实生产力与炒作的关键时期，美联储将密切关注AI对经济和通胀的影响。戴利强调，AI可能带来生产率提升，但也可能加剧劳动力市场结构性变化。这一表态引发市场对AI投资热潮的重新评估，相关股票出现波动。",
+      "reason": "美联储警示AI投资泡沫风险，市场进入关键分化期",
+      "impact_areas": [
+        "经济金融",
+        "科技",
+        "社会"
+      ],
+      "impact_level": "重大",
+      "sources": [
+        {
+          "name": "雪球热帖",
+          "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOSi1IZTJGeGtsNm55YTdTVXJFNlRIM0V5QnJNc2F4VENudHlfaEN3dThGb2JoVzU4S2Q2a0xBbjZ0dHItN2FxZXJ5M2JIYkpFNzdsVlloczUzWEZXaE1hUk5pTngxMGhvZnBIamJDWTFFZkN4S3JERnNnY284NWpTakQzc1FlU3VObzN4cDBEdw?oc=5"
+        }
+      ]
+    },
+    {
+      "title": "AI公司MiniMax拟科创板上市",
+      "summary": "中国AI独角兽企业MiniMax正式向科创板提交上市申请，估值预计超过300亿美元。该公司专注于大语言模型和多模态AI技术研发，拥有多项核心专利。上市将成为中国AI领域最大规模IPO之一，反映资本市场对AI企业的持续看好。MiniMax的上市将带动AI产业链相关公司估值提升，同时为AI研发提供更多资金支持，加速中国AI技术自主创新。",
+      "reason": "AI独角兽MiniMax拟科创板上市，估值超300亿美元",
+      "impact_areas": [
+        "科技",
+        "经济金融"
+      ],
+      "impact_level": "重大",
+      "sources": [
+        {
+          "name": "36氪",
+          "url": "https://www.36kr.com/newsflashes/3833797236336261"
+        }
+      ]
+    },
+    {
+      "title": "AI助力颠覆性科学发现",
+      "summary": "最新研究表明，人工智能正在加速科学发现进程，特别是在需要处理大量数据的领域。AI系统通过识别数据中的模式和关联，帮助科学家做出突破性发现，实现\"范式转移\"。案例显示，AI辅助发现的材料科学新配方已应用于新能源电池，性能提升40%；AI设计的蛋白质结构解决了困扰生物学界20年的难题。这种AI与科学深度融合的模式正在重塑科研范式，加速创新周期。",
+      "reason": "AI实现科学发现\"范式转移\"，加速创新周期",
+      "impact_areas": [
+        "科技",
+        "经济金融",
+        "生态"
+      ],
+      "impact_level": "重大",
+      "sources": [
+        {
+          "name": "虎嗅",
+          "url": "https://www.huxiu.com/article/4863188.html"
+        }
+      ]
+    }
+  ],
+  "total_fetched": 176,
+  "generated_at": "2026-06-01T07:27:46.664057+08:00"
+}
