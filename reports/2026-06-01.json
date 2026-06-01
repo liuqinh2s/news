@@ -2,73 +2,125 @@
   "date": "2026-06-01",
   "news": [
     {
-      "title": "日本启动核污染水排海",
-      "summary": "日本于6月1日启动第20次核污染水排海行动，预计排放总量约7800吨。此举引发国际社会广泛关注，周边国家对此表示担忧。核污染水含有多种放射性物质，长期排放可能对海洋生态系统和人类健康造成潜在风险。中国等邻国已表示将加强海洋辐射监测，评估对渔业和海产品安全的影响。国际原子能机构此前表示，袭击核设施不可接受，必须停止，但未直接评论排海计划。",
-      "reason": "环保领域重大事件，影响全球海洋生态和人类健康",
+      "title": "美伊冲突升级",
+      "summary": "美国与伊朗在6月1日相互攻击军事目标，美国称打击了伊朗南部更多军事设施，伊朗则声称其攻击已损坏20个美国军事基地。卫星图像显示伊朗导弹和无人机袭击了科威特，引发地区紧张局势。国际原子能机构警告袭击核设施不可接受，必须停止。这一冲突升级可能导致中东地区局势进一步恶化，影响全球能源供应和地缘政治格局。",
+      "reason": "国际热点事件，多源密集报道，可能影响全球政治经济走向",
       "impact_areas": [
-        "生态",
-        "公共卫生"
+        "政治",
+        "地缘"
       ],
-      "impact_level": "重大",
+      "impact_level": "现象级",
       "sources": [
         {
-          "name": "澎湃新闻",
-          "url": "https://m.thepaper.cn/detail/33279974"
+          "name": "NYTimes",
+          "url": "https://www.nytimes.com/live/2026/06/01/world/iran-war-us-trump-israel-lebanon"
+        },
+        {
+          "name": "NYTimes",
+          "url": "https://www.nytimes.com/2026/06/01/world/middleeast/us-strikes-iran-goruk-qeshm.html"
+        },
+        {
+          "name": "BBC",
+          "url": "https://www.bbc.com/news/articles/crlpy8n7pr6o?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "name": "BBC",
+          "url": "https://www.bbc.com/news/articles/c2l2yl7r8r2o?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "name": "央视网",
+          "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE50UXdocVU2MlpxYXJxbXViVVFzVFcwTnJNMWxBaWhMc0haNFNCNVVwSHBENUxUQ2JzS2JyYnJBWlZtVzJ5WnFVU05zZkFLU1ZRakctQWxMOXZJYm5WaHVGbjUydWZFVkFoc3dLMkIzVWItVy1DbGhueg?oc=5"
         }
       ]
     },
     {
-      "title": "铝市场供应短缺加剧",
-      "summary": "铝市场库存降至历史低位，现货升水持续飙升，供应短缺问题日益严重。这一现象主要受到能源成本上升、产能受限以及需求增长等多重因素影响。铝作为重要的工业原材料，其供应短缺将直接影响汽车、建筑、包装等多个下游产业的成本结构和生产计划。市场分析师预计，短期内铝价可能维持高位，企业需寻找替代材料或调整生产策略以应对成本压力。",
-      "reason": "商品市场关键供应信号，影响多个下游产业",
+      "title": "铜价持续上涨",
+      "summary": "铜价在6月1日延续上涨趋势，主要受美国关税政策不确定性和供需紧张因素影响。铜作为重要的工业金属，其价格走势对全球经济和制造业具有重要指示作用。此次铜价上涨可能反映全球经济增长预期改善，同时也可能加剧通胀压力。铜价上涨对铜矿开采、冶炼加工、电线电缆等相关产业链将产生深远影响。",
+      "reason": "大宗商品价格异动，反映经济形势变化，对产业链有重要影响",
       "impact_areas": [
-        "经济金融",
-        "产业"
+        "经济金融"
       ],
       "impact_level": "重大",
       "sources": [
         {
           "name": "财新网",
-          "url": "https://database.caixin.com/2026-06-01/102449637.html"
+          "url": "https://database.caixin.com/2026-06-01/102449798.html"
         }
       ]
     },
     {
-      "title": "我国成功发射卫星互联网试验星",
-      "summary": "我国于6月1日成功发射卫星互联网技术试验卫星，标志着我国在卫星互联网领域取得重要进展。该卫星将验证卫星互联网关键技术，为构建全球覆盖的卫星互联网系统奠定基础。随着全球数字化进程加速，卫星互联网成为解决偏远地区网络覆盖、提供全球通信服务的重要手段。此次发射成功将提升我国在太空基础设施领域的竞争力，为未来6G网络、物联网等新兴技术提供支持。",
-      "reason": "航天技术重大突破，推动全球互联网基础设施发展",
+      "title": "韬定律引爆A股",
+      "summary": "被称为\"韬定律\"的芯片技术路径在6月1日引发A股市场强烈反应，相关概念股大幅上涨。该技术路径被认为是中国芯片产业突破美国技术封锁的关键，由华为主导研发。市场分析认为，这一技术路径可能改变全球芯片产业格局，为中国半导体产业带来新的发展机遇。多家机构发布研报，分析哪些板块将受益于这一技术突破。",
+      "reason": "科技突破引发市场反应，可能改变全球芯片产业格局",
       "impact_areas": [
         "科技",
-        "产业"
+        "经济金融"
       ],
       "impact_level": "重大",
       "sources": [
         {
-          "name": "央视网",
-          "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE96STVsdlBSVnpBM2ZJQnBGQzliRDBnYUUwcFgwa1R4R3J2VXZCV0FMRjNCeFBhOGhUVnJwT1h2Y0IxRHNsSkRRckY4c0Z5NlY4a3A1Sjd4Snh1THRFT3dQZ29keXJOVGNyeGpTdzJyanpJcmVIZGg0Tg?oc=5"
+          "name": "财新网",
+          "url": "https://www.caixin.com/2026-06-01/102449775.html"
+        },
+        {
+          "name": "财新网",
+          "url": "https://database.caixin.com/2026-06-01/102449699.html"
         }
       ]
     },
     {
-      "title": "英伟达推出DSX平台",
-      "summary": "英伟达正式推出NVIDIA DSX平台，这是一款专为企业和数据中心设计的人工智能开发平台。该平台整合了英伟达最新的AI芯片技术和软件工具，能够大幅提升AI模型训练和部署效率。DSX平台支持多种AI框架和编程语言，旨在降低企业AI应用门槛，加速AI技术在各行各业的落地。随着AI技术快速发展，企业对高效、易用的AI开发工具需求日益增长，英伟达此举将进一步巩固其在AI硬件和软件领域的领先地位。",
-      "reason": "AI基础设施重大更新，推动企业级AI应用普及",
+      "title": "AI技术突破",
+      "summary": "英伟达CEO黄仁勋在6月1日宣布与宇树科技合作，共同开发1.8米高的参考人形机器人，引发全球AI行业关注。同时，黄仁勋展示了新的AI PC技术，被市场认为将引爆AI PC市场。这些技术突破标志着AI向物理世界迈出重要一步，可能改变人机交互方式和产业格局。市场分析认为，AI技术突破将带动相关产业链发展，包括芯片、机器人、软件等领域。",
+      "reason": "AI技术重大突破，可能改变人机交互方式和产业格局",
       "impact_areas": [
-        "科技",
-        "产业"
+        "科技"
       ],
       "impact_level": "重大",
       "sources": [
         {
           "name": "36氪",
-          "url": "https://www.36kr.com/newsflashes/3834084353828743"
+          "url": "https://www.36kr.com/newsflashes/3834512402624384"
+        },
+        {
+          "name": "虎嗅",
+          "url": "https://www.huxiu.com/article/4863467.html"
         }
       ]
     },
     {
-      "title": "软银向法国AI基建投资750亿欧元",
-      "summary": "软银集团宣布向法国人工智能基础设施建设投资高达750亿欧元，这是欧洲历史上最大规模的单笔AI投资。该投资将用于建设多个AI数据中心和研发中心，预计创造数万个就业岗位。法国政府表示，这笔投资将帮助欧洲减少对美国和中国AI技术的依赖，建立自主的AI生态系统。分析人士认为，这一投资反映了全球AI产业格局正在发生变化，欧洲正加速追赶中美在AI领域的领先地位。",
-      "reason": "全球AI产业格局重大变化，欧洲加速追赶中美",
+      "title": "中日美股市比较",
+      "summary": "财新网在6月1日发布中日美股市比较分析，探讨三国股市的估值修复和盈利驱动因素。分析指出，美国股市主要依靠盈利增长支撑，而中日股市则更多依赖估值修复。这一比较对全球投资者资产配置具有重要参考价值，反映了不同经济体的复苏路径差异。随着全球经济格局变化，三国股市的相对表现可能持续分化。",
+      "reason": "全球股市比较分析，对投资决策有重要参考价值",
+      "impact_areas": [
+        "经济金融"
+      ],
+      "impact_level": "重大",
+      "sources": [
+        {
+          "name": "财新网",
+          "url": "https://opinion.caixin.com/2026-06-01/102449740.html"
+        }
+      ]
+    },
+    {
+      "title": "对冲基金加速买入美股",
+      "summary": "高盛在6月1日发布的报告显示，对冲基金正以六个月来最快的速度买入美股，反映市场对美国经济和股市的信心增强。这一资金流向变化可能预示美股短期走势乐观。分析认为，这一趋势受到美国经济数据强劲、企业盈利预期改善等因素推动。对冲基金作为市场重要参与者，其动向往往具有前瞻性，对市场趋势判断具有重要参考价值。",
+      "reason": "资金流向重大变化，对市场趋势有重要指示作用",
+      "impact_areas": [
+        "经济金融"
+      ],
+      "impact_level": "重大",
+      "sources": [
+        {
+          "name": "财新网",
+          "url": "https://database.caixin.com/2026-06-01/102449802.html"
+        }
+      ]
+    },
+    {
+      "title": "AI降本效果不理想",
+      "summary": "贝恩公司在6月1日发布的调查报告显示，AI技术应用降本效果不理想，四成受访公司的成本降幅未超过10%。这一发现与市场对AI降本的乐观预期形成对比，可能影响投资者对AI公司的估值。报告指出，AI技术在实际应用中面临数据质量、系统集成、人才短缺等多重挑战。这一结果提醒市场对AI技术的实际效果保持理性预期，避免过度炒作。",
+      "reason": "AI实际效果评估，对AI投资决策有重要参考价值",
       "impact_areas": [
         "科技",
         "经济金融"
@@ -77,94 +129,59 @@
       "sources": [
         {
           "name": "财新网",
-          "url": "https://www.caixin.com/2026-06-01/102449622.html"
-        },
-        {
-          "name": "雪球热帖",
-          "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNdTJuMVVSSGRGcEtXa083Ti1MU3dyXzB0cjhPS0hoUkVBa2R4TjdzNWJPeHo2U3BvZGhid3N0T0xNNkx5bjNGdXUtUDRvcHRTOUtZU3ltdmJlaU1ZYWRhWWhZOWJVTVFQRTZ4ZEtsTHJkRnlWYmJrdVY0VVBSUTZvMzIyZmJHbE1uc3hNRDJCcw"
+          "url": "https://database.caixin.com/2026-06-01/102449796.html"
         }
       ]
     },
     {
-      "title": "中国AI独角兽获2亿美元融资",
-      "summary": "由Z世代游戏玩家创立的3D建模公司完成2亿美元融资，估值迅速攀升至独角兽级别。该公司利用AI技术革新3D内容创作流程，大幅降低3D模型制作门槛，受到游戏、影视和元宇宙等行业广泛关注。此轮融资吸引了多家国际知名投资机构参与，显示国际资本对中国AI创业公司的信心。该公司创始人表示，将利用资金进一步扩大研发团队，加速AI在3D内容创作领域的应用落地。",
-      "reason": "AI创业领域重大融资，反映中国AI技术商业化进展",
+      "title": "电动重卡企业同月IPO",
+      "summary": "零一汽车在6月1日向港交所提交上市申请，成为本月第二家启动IPO的电动重卡企业。这一现象反映新能源重卡行业快速发展，资本市场对这一领域的高度关注。分析认为，电动重卡作为新能源车的重要组成部分，其产业化进程加速将带动上游电池、电机、电控等相关产业链发展。同时，电动重卡的大规模应用也将对物流行业产生深远影响，推动绿色物流发展。",
+      "reason": "新能源车产业格局变化，对相关产业链有重要影响",
       "impact_areas": [
         "科技",
-        "产业"
+        "经济金融"
       ],
       "impact_level": "重大",
       "sources": [
         {
           "name": "财新网",
-          "url": "https://database.caixin.com/2026-06-01/102449660.html"
+          "url": "https://companies.caixin.com/2026-06-01/102449708.html"
         }
       ]
     },
     {
-      "title": "霍尔木兹海峡局势影响油价",
-      "summary": "尽管霍尔木兹海峡作为全球石油运输咽喉的重要性不言而喻，但近期国际油价却呈现下跌趋势。分析人士指出，这主要受全球经济增速放缓、需求减弱以及美国页岩油产量增加等因素影响。卡塔尔近日表示，霍尔木兹海峡临时通行费可以商量，这一表态可能缓解市场对供应中断的担忧。然而，地缘政治风险依然存在，伊朗与周边国家关系紧张，任何突发事件都可能迅速改变市场供需格局。",
-      "reason": "能源市场关键消息面信号，反映地缘政治与供需关系变化",
+      "title": "核设施安全警告",
+      "summary": "国际原子能机构在6月1日发表声明，警告袭击核设施不可接受，必须停止。这一声明针对近期中东地区冲突升级可能带来的核安全风险。国际原子能机构强调，核设施的安全对全球和平与稳定至关重要，任何针对核设施的袭击都将带来灾难性后果。这一警告可能影响国际社会对中东冲突的态度，推动各方寻求和平解决方案。",
+      "reason": "核安全问题，对国际关系有重要影响",
       "impact_areas": [
-        "经济金融",
+        "政治",
         "地缘"
       ],
       "impact_level": "重大",
       "sources": [
         {
-          "name": "财新网",
-          "url": "https://opinion.caixin.com/2026-06-01/102449668.html"
+          "name": "央视网",
+          "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE50UXdocVU2MlpxYXJxbXViVVFzVFcwTnJNMWxBaWhMc0haNFNCNVVwSHBENUxUQ2JzS2JyYnJBWlZtVzJ5WnFVU05zZkFLU1ZRakctQWxMOXZJYm5WaHVGbjUydWZFVkFoc3dLMkIzVWItVy1DbGhueg?oc=5"
         }
       ]
     },
     {
-      "title": "5月PMI显示经济韧性",
-      "summary": "最新发布的5月PMI数据显示，制造业采购经理人指数呈现\"韧性\"与\"压力\"并存的复杂局面。一方面，生产指数和新订单指数保持在扩张区间，显示经济活动保持一定活力；另一方面，原材料价格指数和就业指数有所回落，反映成本压力和就业市场挑战。分析师认为，这表明经济正处于结构调整期，传统产业面临转型压力，而新兴产业和创新领域展现出较强增长动力。政策制定者可能需要采取更有针对性的措施，支持经济平稳转型。",
-      "reason": "经济先行指标提供重要参考，反映经济结构调整趋势",
-      "impact_areas": [
-        "经济金融"
-      ],
-      "impact_level": "重大",
-      "sources": [
-        {
-          "name": "财新网",
-          "url": "https://opinion.caixin.com/2026-06-01/102449610.html"
-        }
-      ]
-    },
-    {
-      "title": "生物医学新政影响药企",
-      "summary": "生物医学\"818新政\"实施已满一个月，该政策对生物医药研发、审批和医保支付等多个环节进行了重大调整。药企普遍反映，新政加速了创新药审批流程，但同时也提高了研发标准和医保控费要求。分析人士指出，这将促使药企加大研发投入，提高创新质量，同时加速行业整合。大型药企可能通过并购扩大市场份额，而中小型创新药企则需要更加专注于差异化竞争。长期来看，新政有望提升中国生物医药产业的国际竞争力。",
-      "reason": "医药政策重大调整，重塑行业格局",
+      "title": "商业秘密保护新规",
+      "summary": "《商业秘密保护规定》于6月1日正式实施，首次将\"数据\"",
+      "算法\"等纳入保护范畴。这一新规适应数字经济发展需要，加强对商业秘密的保护力度。规定明确了商业秘密的范围、保护措施和法律责任，为企业创新提供更有力的法律保障。分析认为，这一规定将促进数字经济健康发展，同时平衡保护与创新的关系，对科技产业发展产生深远影响。": "reason\": \"数据保护政策变化，对科技产业发展有重要影响",
       "impact_areas": [
         "科技",
-        "产业"
+        "法律"
       ],
       "impact_level": "重大",
       "sources": [
         {
-          "name": "财新网",
-          "url": "https://www.caixin.com/2026-06-01/102449608.html"
-        }
-      ]
-    },
-    {
-      "title": "刚果（金）埃博拉病例超260例",
-      "summary": "刚果（金）埃博拉疫情持续蔓延，累计确诊病例已超过260例，死亡人数不断上升。世界卫生组织将此次疫情列为国际关注的突发公共卫生事件，并派遣专家团队协助当地防控。埃博拉病毒通过体液传播，病死率高达50%以上，目前尚无特效治疗药物。当地医疗资源有限，防控面临挑战。国际社会已承诺提供资金和医疗物资支持，帮助刚果（金）控制疫情蔓延。此次疫情再次凸显加强全球公共卫生合作和传染病监测系统的重要性。",
-      "reason": "重大公共卫生事件，威胁全球健康安全",
-      "impact_areas": [
-        "公共卫生",
-        "社会"
-      ],
-      "impact_level": "重大",
-      "sources": [
-        {
-          "name": "央视网",
-          "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5pRDY3c2lObGo5anlSUERFNXJKcV9paVA3VUN2RVUzOEZIc2QxZHVabU9NcjVhNVJNQ2lfT2h1QnpaRXYyWnJXa1hZLThuUGJfTXNRall0LTJwYmxtN09JWFlwY1Vod2JwZlBXdV9wcFJ0bDlrSENxZA?oc=5"
+          "name": "澎湃新闻",
+          "url": "https://m.thepaper.cn/detail/33283257"
         }
       ]
     }
   ],
-  "total_fetched": 270,
-  "generated_at": "2026-06-01T12:39:22.938655+08:00"
+  "total_fetched": 295,
+  "generated_at": "2026-06-01T19:29:05.113461+08:00"
 }
