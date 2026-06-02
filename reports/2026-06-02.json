@@ -2,88 +2,41 @@
   "date": "2026-06-02",
   "news": [
     {
-      "title": "伊朗卫队打击美以船只",
-      "summary": "伊朗伊斯兰革命卫队宣布对美以船只实施打击，中东局势再度紧张。这一行动可能导致地区冲突升级，影响全球能源安全。美国已表示将采取回应措施，国际社会呼吁各方保持克制。这一事件可能对全球石油供应链和地缘政治格局产生深远影响。",
-      "reason": "中东局势突变，美伊冲突升级，可能引发地区战争，影响全球能源安全。",
+      "title": "铝价创四年新高",
+      "summary": "全球铝价升至四年来的最高水平，主要受供应紧张和需求强劲推动。铝生产商面临能源成本上升、电力短缺和原材料供应不足等多重挑战，导致全球铝供应趋紧。这一价格走势对汽车、建筑、包装等铝消费行业产生直接影响，可能推高下游产品成本，并促使企业寻找替代材料或重新评估供应链策略。",
+      "reason": "铝价创四年新高，反映全球供应链紧张，对制造业产生广泛影响",
       "impact_areas": [
-        "政治",
-        "地缘",
-        "经济金融"
+        "经济金融",
+        "产业"
       ],
       "impact_level": "重大",
       "sources": [
         {
-          "name": "澎湃新闻",
-          "url": "https://m.thepaper.cn/detail/33287579"
+          "name": "财新网",
+          "url": "https://database.caixin.com/2026-06-02/102450084.html"
         }
       ]
     },
     {
-      "title": "以黎即将停火",
-      "summary": "美国前总统特朗普宣布以色列和黎巴嫩真主党将立即停火，结束了近期紧张的中东局势。特朗普表示这一停火协议将防止地区冲突进一步升级，为和平谈判创造条件。这一表态可能对中东和平进程产生积极影响，但也面临执行挑战。",
-      "reason": "中东紧张局势有望缓解，特朗普宣布以黎即将停火，地区和平迎来转机。",
+      "title": "铜价持续上涨",
+      "summary": "铜价延续上涨趋势，主要受美国关税政策不确定性和全球供需紧张格局推动。铜作为关键工业金属，其价格走势反映全球经济活动和制造业健康状况。当前铜库存处于低位，而新能源、电力和基础设施建设等领域需求持续增长，供需矛盾加剧。分析师预计，铜价可能进一步攀升，对电力、建筑、电子等行业成本控制构成挑战。",
+      "reason": "铜价持续上涨，反映全球供需格局变化，对多行业产生深远影响",
       "impact_areas": [
-        "政治",
-        "地缘"
+        "经济金融",
+        "产业"
       ],
       "impact_level": "重大",
       "sources": [
         {
-          "name": "凤凰网",
-          "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE5yLXhXcHVSZGF0am1tM21LOFVibHBQemNQbzZKQ3k3LThrdTVSaWY5dE11cjY3U2VaVGJwV3Z4TERkaDRpelduT2FGZmU?oc=5"
+          "name": "财新网",
+          "url": "https://database.caixin.com/2026-06-02/102450041.html"
         }
       ]
     },
     {
-      "title": "美伊紧张局势缓和",
-      "summary": "纽约时报报道，经过一天的高度紧张后，以色列和伊朗已从威胁边缘后退。国际社会对这一缓和表示欢迎，但警告局势仍然脆弱。这一发展可能为外交解决方案创造空间，但长期和平仍面临挑战。",
-      "reason": "美伊紧张局势出现缓和迹象，避免了一场可能的中东战争。",
-      "impact_areas": [
-        "政治",
-        "地缘"
-      ],
-      "impact_level": "重大",
-      "sources": [
-        {
-          "name": "NYTimes",
-          "url": "https://www.nytimes.com/live/2026/06/01/world/iran-war-us-trump-israel-lebanon"
-        }
-      ]
-    },
-    {
-      "title": "王坚谈SORA大模型",
-      "summary": "中国工程院院士王坚就OpenAI的SORA大模型发表观点，认为该技术可以创造\"印象世界\"，标志着AI技术进入新阶段。王坚强调，这种技术将深刻改变人类与数字世界的交互方式，但也需要关注其伦理和社会影响。这一观点引发业界对AI未来发展的深入思考。",
-      "reason": "院士权威解读SORA大模型，揭示AI技术进入创造\"印象世界\"新阶段。",
-      "impact_areas": [
-        "科技"
-      ],
-      "impact_level": "重大",
-      "sources": [
-        {
-          "name": "凤凰网",
-          "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNVFBhSTIyTXR1VG9qQy1FYjRFNHFYNVdaRXpLOXpjVlpRSjhCTDhYWVhRS0xhNEVmUlNmYXlNRmJCbWR1bW5OODRKa1J2VDlmN05nbmh4UEQtWFpFVktwSXNfQldFTlRyOS1WckR5TVJMRXduelFYZHI2Q1pUOGpmN1hDWjJvUQ?oc=5"
-        }
-      ]
-    },
-    {
-      "title": "阿里发布Qwen3.7-Plus",
-      "summary": "阿里巴巴发布Qwen3.7-Plus多模态智能体模型，进一步提升AI理解和生成能力。该模型支持文本、图像、音频等多种模态的融合处理，在复杂场景下表现优异。这一发布标志着中国企业在AI领域的持续创新，可能推动多模态AI技术的广泛应用。",
-      "reason": "阿里发布新一代多模态AI模型，提升AI理解和生成能力，推动技术创新。",
-      "impact_areas": [
-        "科技"
-      ],
-      "impact_level": "重大",
-      "sources": [
-        {
-          "name": "36氪",
-          "url": "https://www.36kr.com/newsflashes/3835230281856390"
-        }
-      ]
-    },
-    {
-      "title": "谷歌AI需求超供应",
-      "summary": "谷歌公司表示，当前AI需求水平已超出公司现有供应能力，正在加速扩大数据中心和算力基础设施。这一现象反映了AI技术的爆发式增长和全球对AI资源的激烈竞争。谷歌的这一表态可能预示着AI产业将迎来新一轮投资热潮。",
-      "reason": "谷歌确认AI需求已超供应，预示AI产业将迎来新一轮投资热潮。",
+      "title": "AI巨头Anthropic拟上市",
+      "summary": "人工智能公司Anthropic向美国证券交易委员会提交上市意向书，标志AI行业进入新阶段。作为OpenAI的主要竞争对手，Anthropic的估值可能达到数百亿美元，将成为今年最受关注的科技IPO之一。此举将加速AI技术商业化进程，并可能引发AI行业估值重估。市场分析师认为，Anthropic的上市将吸引更多资本流入AI领域，推动技术迭代和行业整合。",
+      "reason": "AI巨头Anthropic计划上市，标志AI行业进入新阶段，将加速技术商业化",
       "impact_areas": [
         "科技",
         "经济金融"
@@ -91,73 +44,124 @@
       "impact_level": "重大",
       "sources": [
         {
-          "name": "36氪",
-          "url": "https://www.36kr.com/newsflashes/3835221688694145"
+          "name": "财新网",
+          "url": "https://www.caixin.com/2026-06-02/102450100.html"
         }
       ]
     },
     {
-      "title": "公募基准调整落地",
-      "summary": "首批规模达3910亿元的公募基金基准调整正式落地，引发A股市场风格切换。这一调整可能改变基金投资策略和市场资金流向，对股市结构产生深远影响。市场分析认为，这一变化反映了监管层对资本市场健康发展的引导，也可能带来投资机会的重新分配。",
-      "reason": "3910亿公募基准调整落地，可能引发A股市场风格切换，影响投资格局。",
+      "title": "大型加密货币机构改变策略",
+      "summary": "知名加密货币投资机构Strategy打破长期\"只买不卖\"的策略，出售部分持有的比特币。这一举动被视为市场重要信号，可能反映机构投资者对加密货币市场前景的重新评估。Strategy管理着数百亿美元的加密资产，其持仓变动历来被视为市场风向标。此次出售引发市场对加密货币未来走势的广泛讨论，分析师认为这可能标志着市场进入新阶段，机构投资者更加注重风险管理和资产配置多元化。",
+      "reason": "大型加密货币投资机构改变策略，释放市场信号，可能影响加密货币市场走势",
       "impact_areas": [
+        "经济金融",
+        "科技"
+      ],
+      "impact_level": "重大",
+      "sources": [
+        {
+          "name": "财新网",
+          "url": "https://database.caixin.com/2026-06-02/102449993.html"
+        }
+      ]
+    },
+    {
+      "title": "长征火箭商业航天突破",
+      "summary": "中国长征十二号乙运载火箭成功完成首飞，标志着中国商业航天取得重大突破。此次发射由\"国家队\"参与，旨在加速卫星互联网星座组网，提升全球通信覆盖能力。长征十二号乙采用新型设计，具备更大运载能力和更高发射效率，将显著降低商业卫星发射成本。业内人士认为，这将推动中国商业航天产业快速发展，并在全球卫星互联网市场占据更重要地位，改变全球航天产业格局。",
+      "reason": "中国商业航天取得重大突破，\"国家队\"参与将加速卫星互联网建设",
+      "impact_areas": [
+        "科技",
+        "产业"
+      ],
+      "impact_level": "重大",
+      "sources": [
+        {
+          "name": "财新网",
+          "url": "https://www.caixin.com/2026-06-02/102450081.html"
+        }
+      ]
+    },
+    {
+      "title": "英伟达大举投资光子学",
+      "summary": "英伟达宣布投资65亿美元发展光子学技术，旨在为人工智能计算打造下一道技术护城河。这一战略投资反映英伟达对当前电子计算架构面临瓶颈的预判，以及光子计算在AI领域的巨大潜力。光子计算凭借低能耗、高带宽和并行处理优势，有望解决当前AI芯片面临的功耗和散热挑战。分析师认为，英伟达此举可能重塑AI硬件竞争格局，加速光子计算技术商业化进程，并对整个计算产业产生深远影响。",
+      "reason": "英伟达大举投资光子学技术，预示AI硬件领域即将迎来重大变革",
+      "impact_areas": [
+        "科技",
+        "产业"
+      ],
+      "impact_level": "重大",
+      "sources": [
+        {
+          "name": "雪球热帖",
+          "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPaFpDdUlwMXJ5ZW9oS19abzV4UWROZGFEbjltZllsenI4dGdxN1IyZVE3dnZ3Y3kyWVJiUVpISVFoemRiTFhuNmViUEswT1FNZjlXelpMdnFBM19kMHdwa3pGTlN2d1pSU0szcjJwUk4zMjJzbzk2QUJNWHRRbVdFTE1ZSmlyMGxyWlVUWE5aTQ?oc=5"
+        }
+      ]
+    },
+    {
+      "title": "蔚来交付量激增",
+      "summary": "中国新能源汽车品牌蔚来公布5月交付量同比增长62%，远超市场预期。这一强劲表现反映中国新能源汽车市场竞争格局正在发生变化，本土品牌竞争力显著提升。蔚来在欧洲市场的扩张也取得进展，进一步巩固其全球地位。分析师认为，这一趋势可能加速全球汽车产业电动化转型，并对传统汽车制造商构成更大挑战。同时，这也表明中国新能源汽车产业链已具备全球竞争力，有望在全球市场占据更大份额。",
+      "reason": "新能源汽车市场格局变化，中国品牌竞争力提升，可能改变全球汽车产业格局",
+      "impact_areas": [
+        "产业",
+        "经济金融"
+      ],
+      "impact_level": "重大",
+      "sources": [
+        {
+          "name": "雪球热帖",
+          "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOdUFhb1dLLWtXT1B5LTFLelFiSVRLX3NTMi04NmRFdkRFYldIS2JhNXNZV0JTeFllaGFEVUNsRzF1UWxXU0F6MEZ1UXVoWHhlMDROTWtCXzdQel9PVTZQVEVCQ2oxRGY5WEVhYVdtTmFRUmtybldGdkg1aVYyaG5meWFMZ3FTMzB5V2hqMWw1WQ?oc=5"
+        }
+      ]
+    },
+    {
+      "title": "中央加大生育支持力度",
+      "summary": "中央财政下达育儿补贴补助资金999亿元，较上年增长10.6%，显示国家加大生育支持力度的政策取向。这笔资金将用于支持各地实施育儿补贴制度，减轻家庭育儿负担。此举是国家应对人口老龄化、促进人口长期均衡发展的重要举措，释放出明确的政策信号。分析师认为，这可能带动更多配套政策出台，形成生育支持政策体系，并对相关产业如母婴产品、托育服务等产生积极影响。",
+      "reason": "国家加大生育支持力度，释放政策信号，将对人口结构和相关产业产生深远影响",
+      "impact_areas": [
+        "社会",
         "经济金融"
       ],
       "impact_level": "重大",
       "sources": [
         {
           "name": "澎湃新闻",
-          "url": "https://m.thepaper.cn/detail/33285462"
+          "url": "https://m.thepaper.cn/detail/33289410"
         }
       ]
     },
     {
-      "title": "美联储6月或按兵不动",
-      "summary": "市场数据显示，美联储6月维持利率不变的概率高达98.4%，显示货币政策趋于稳定。这一预期可能影响全球资本流动和汇率走势，对国际金融市场产生连锁反应。分析人士认为，这一政策立场反映了美联储在通胀和经济增长之间的平衡考量。",
-      "reason": "美联储6月维持利率不变概率高达98.4%，货币政策趋于稳定，影响全球金融市场。",
-      "impact_areas": [
-        "经济金融"
-      ],
-      "impact_level": "重大",
-      "sources": [
-        {
-          "name": "36氪",
-          "url": "https://www.36kr.com/newsflashes/3835220866430344"
-        }
-      ]
-    },
-    {
-      "title": "美国制造业超预期",
-      "summary": "美国5月ISM制造业指数超出市场预期，显示制造业活动持续扩张。这一积极数据可能影响美联储的货币政策决策，并对全球供应链和贸易格局产生影响。分析人士认为，这一数据表明美国经济仍具韧性，但通胀压力依然存在。",
-      "reason": "美国5月制造业指数超预期，显示经济韧性，可能影响美联储政策决策。",
-      "impact_areas": [
-        "经济金融"
-      ],
-      "impact_level": "重大",
-      "sources": [
-        {
-          "name": "36氪",
-          "url": "https://www.36kr.com/newsflashes/3835218776323208"
-        }
-      ]
-    },
-    {
-      "title": "中美调整涉外经济规则",
-      "summary": "中美两国同步调整涉外经济规则，中国发布新的对外投资规定，美国更新芯片出口许可指南。这一双向调整反映了两国在经济领域的战略博弈，可能影响全球产业链和供应链格局。分析人士认为，这一趋势将加速全球经济的\"双循环\"发展模式，对跨国企业战略布局提出新挑战。",
-      "reason": "中美同步调整涉外经济规则，反映战略博弈，影响全球产业链布局。",
+      "title": "中国海警台海新行动",
+      "summary": "中国海警在台岛以东开展执法巡查，实现3个\"历史首次\"，包括首次在该区域常态化巡航、首次使用新型执法装备、首次与台湾海巡部门建立直接沟通机制。这一行动表明中国加强对台海管控的决心和能力，可能改变区域安全格局。分析人士指出，此举是中国维护国家主权和海洋权益的重要举措，有助于维护台海地区和平稳定，同时也向国际社会传递了明确信号。",
+      "reason": "台海局势新变化，中国加强对台海管控，可能改变区域安全格局",
       "impact_areas": [
         "政治",
-        "经济金融"
+        "地缘"
       ],
       "impact_level": "重大",
       "sources": [
         {
-          "name": "虎嗅",
-          "url": "https://www.huxiu.com/article/4863566.html"
+          "name": "凤凰网",
+          "url": "https://news.ifeng.com/c/8tcmStmSKId"
+        }
+      ]
+    },
+    {
+      "title": "中东局势出现缓和",
+      "summary": "美国前总统特朗普宣布，以色列和黎巴嫩真主党已同意立即停止所有交火行动。这一声明标志着中东紧张局势出现缓和迹象，可能改变地区力量平衡。特朗普表示，这一停火协议是在其斡旋下达成，显示其在中东事务中的影响力。分析人士认为，这一发展可能缓解地区紧张局势，降低冲突升级风险，并对全球能源市场产生积极影响，因为中东地区是全球石油供应的关键区域。",
+      "reason": "中东局势出现缓和迹象，可能影响地区力量平衡和全球能源市场",
+      "impact_areas": [
+        "政治",
+        "地缘"
+      ],
+      "impact_level": "重大",
+      "sources": [
+        {
+          "name": "央视网",
+          "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5NcmVadlJQQ1BZRnp6UGRTa2VzbDdGOS1NNGxidXE2R1JXdm5LZEQ1bFJvblFFT1kxT19va1JqajB0N3JSWmZ3VWhwSTJGeGZEVXJkMk1aVU9zei1NX2c3ZFl4cWRmbHUtZGU5SG45bEFOVGtEV1hNRw?oc=5"
         }
       ]
     }
   ],
-  "total_fetched": 199,
-  "generated_at": "2026-06-02T07:27:32.359516+08:00"
+  "total_fetched": 292,
+  "generated_at": "2026-06-02T12:29:04.399727+08:00"
 }
