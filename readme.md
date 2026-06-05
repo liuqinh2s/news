@@ -8,7 +8,7 @@ https://liuqinh2s.github.io/news/
 
 ## 工作原理
 
-1. GitHub Actions 定时任务（北京时间每天 8:00 / 20:00）触发
+1. GitHub Actions 定时任务（每日北京时间 07:30 · 12:30 · 19:30 自动更新）触发
 2. `scripts/fetch_news.py` 从 RSS 源和社交媒体热搜抓取新闻
 3. `scripts/ai_filter.py` 通过 AI 大模型筛选出真正重大的新闻，生成日报
 4. 生成 Markdown 日报 + 结构化 JSON，保存到 `reports/`
