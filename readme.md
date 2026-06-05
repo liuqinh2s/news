@@ -37,7 +37,7 @@ https://liuqinh2s.github.io/news/
 
 ```
 ├── .github/workflows/
-│   └── daily-report.yml       # GitHub Actions 定时任务（每天两次）
+│   └── daily-report.yml       # GitHub Actions 定时任务（每天三次）
 ├── reports/                    # 生成的日报（Markdown + JSON，按日期命名）
 ├── scripts/
 │   ├── fetch_news.py           # 新闻抓取脚本（RSS + 社交媒体热搜）
