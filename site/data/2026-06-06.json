@@ -1,0 +1,162 @@
+{
+  "date": "2026-06-06",
+  "news": [
+    {
+      "title": "中国多领域科技突破",
+      "summary": "中国本周在多个科技领域取得重大突破，包括世界最大飞机首飞成功、新一代人工智能芯片发布、量子计算机实现新里程碑等。这些突破标志着中国在航空航天、人工智能和量子计算等前沿科技领域取得实质性进展，将推动相关产业链升级，并增强国家科技竞争力。",
+      "reason": "多项世界级科技突破同时发生，彰显国家科技实力跃升",
+      "impact_areas": [
+        "科技"
+      ],
+      "impact_level": "重大",
+      "sources": [
+        {
+          "name": "央视网",
+          "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1DNDdJSVVxSVVTLVNTeTk2Szd3bWFtSlJUbmNHOHowNy1zSm9HOElaRnZHNDJBSnRpeElfa1lOR2hlRWR1aWM1SjVZdGpBcFlrWENGUi1ZY2JHcHhtSUtmM3ZPbUdYOXl5aDMzX2lRU3o4dXJhY0hMLQ?oc=5"
+        }
+      ]
+    },
+    {
+      "title": "欧洲军备转型",
+      "summary": "欧洲多国正推进\"经济适用\"型军备转型，重点发展高性价比武器系统，降低防务成本。这一转型将重塑欧洲防务工业格局，促使军工企业调整战略，同时可能影响全球军备贸易平衡。分析人士指出，这一趋势反映了欧洲在资源有限情况下重新平衡安全与经济发展的战略选择。",
+      "reason": "欧洲防务战略转型将重构全球军工产业格局",
+      "impact_areas": [
+        "政治",
+        "科技"
+      ],
+      "impact_level": "重大",
+      "sources": [
+        {
+          "name": "澎湃新闻",
+          "url": "https://m.thepaper.cn/detail/33315808"
+        }
+      ]
+    },
+    {
+      "title": "摩托车智能化发展",
+      "summary": "中国车手张雪在世界超级摩托车锦标赛夺冠后，摩托车行业迎来智能化发展新机遇。各大厂商加速布局智能摩托车技术，包括自动驾驶辅助、车联网、智能安全系统等。专家预测，这一趋势将推动摩托车产业从传统机械制造向高科技智能制造转型，重塑行业竞争格局。",
+      "reason": "体育成就带动产业智能化转型，具有破圈效应",
+      "impact_areas": [
+        "科技",
+        "产业"
+      ],
+      "impact_level": "重大",
+      "sources": [
+        {
+          "name": "澎湃新闻",
+          "url": "https://m.thepaper.cn/detail/33317293"
+        }
+      ]
+    },
+    {
+      "title": "加沙停火谈判",
+      "summary": "哈马斯代表团抵达埃及首都开罗，与埃及和卡塔尔等斡旋方就落实加沙停火协议进行谈判。此次谈判旨在解决此前协议执行中的分歧，包括被扣押人员交换、人道主义援助准入等关键问题。国际社会密切关注谈判进展，希望长期停火能够为巴以冲突地区带来和平曙光。",
+      "reason": "巴以冲突关键谈判，可能影响地区局势走向",
+      "impact_areas": [
+        "政治",
+        "地缘"
+      ],
+      "impact_level": "重大",
+      "sources": [
+        {
+          "name": "澎湃新闻",
+          "url": "https://m.thepaper.cn/detail/33322136"
+        }
+      ]
+    },
+    {
+      "title": "普京呼吁和谐发展",
+      "summary": "俄罗斯总统普京在圣彼得堡国际经济论坛上呼吁各国追求和谐发展之路，共同应对全球性挑战。他强调，在当前复杂国际形势下，各国应摒弃零和思维，通过对话与合作解决分歧。普京还阐述了俄罗斯在能源、科技等领域的合作愿景，寻求打破西方制裁下的经济孤立。",
+      "reason": "俄罗斯提出全球合作新愿景，影响国际关系格局",
+      "impact_areas": [
+        "政治"
+      ],
+      "impact_level": "重大",
+      "sources": [
+        {
+          "name": "澎湃新闻",
+          "url": "https://m.thepaper.cn/detail/33322320"
+        }
+      ]
+    },
+    {
+      "title": "国际油价下跌",
+      "summary": "国际油价6月5日大幅下跌，布伦特原油期货下跌2.3%，至每桶78.45美元；WTI原油期货下跌2.1%，至每桶74.82美元。分析人士指出，油价下跌主要受全球经济放缓担忧和美元走强影响。这一价格波动将对能源产业链利润格局产生深远影响，可能改变石油输出国组织的产量策略。",
+      "reason": "国际油价创近期新低，反映能源市场供需格局变化",
+      "impact_areas": [
+        "经济金融"
+      ],
+      "impact_level": "重大",
+      "sources": [
+        {
+          "name": "澎湃新闻",
+          "url": "https://m.thepaper.cn/detail/33322340"
+        }
+      ]
+    },
+    {
+      "title": "美股大幅下跌",
+      "summary": "纽约股市三大股指6月5日大幅下跌，道琼斯工业平均指数下跌1.8%，标普500指数下跌2.1%，纳斯达克综合指数下跌2.5%。市场分析认为，股市下跌主要受美联储加息预期强化和科技股估值回调影响。这一波动反映了投资者对经济前景的担忧，可能影响全球资本市场风险偏好。",
+      "reason": "美股创近期最大跌幅，引发全球金融市场连锁反应",
+      "impact_areas": [
+        "经济金融"
+      ],
+      "impact_level": "重大",
+      "sources": [
+        {
+          "name": "澎湃新闻",
+          "url": "https://m.thepaper.cn/detail/33322338"
+        }
+      ]
+    },
+    {
+      "title": "美元指数上涨",
+      "summary": "美元指数6月5日上涨0.5%，至104.25点，创近两周新高。分析师指出，美元走强主要受美联储鹰派立场强化和全球经济不确定性增加推动。这一趋势将影响全球贸易格局和资本流向，可能加剧新兴市场货币贬值压力，并对大宗商品价格形成下行压力。",
+      "reason": "美元指数创近期新高，反映全球资金流向重大变化",
+      "impact_areas": [
+        "经济金融"
+      ],
+      "impact_level": "重大",
+      "sources": [
+        {
+          "name": "澎湃新闻",
+          "url": "https://m.thepaper.cn/detail/33322351"
+        }
+      ]
+    },
+    {
+      "title": "住房公积金政策调整",
+      "summary": "住建部拟扩大住房公积金使用范围，支持职工使用公积金支付物业费和住房装修费用。这一政策调整旨在提高住房公积金使用效率，减轻职工住房相关支出压力。分析人士指出，这一政策将影响房地产市场供需格局，可能刺激住房改善需求，同时对物业公司收入结构产生积极影响。",
+      "reason": "住房公积金政策重大调整，影响民生和房地产市场",
+      "impact_areas": [
+        "经济金融",
+        "社会"
+      ],
+      "impact_level": "重大",
+      "sources": [
+        {
+          "name": "央视网",
+          "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1BLWFZbVhUanBfekcwQmFMSWNoZEdCODh2VFREejVOMUZfUzBhRXBDUDhWMk9wR24xZWl5Snpfb3JHQ1I0ZDBZWHdjX3pjLVV4aHJ3T1NZYVBEV2U3YnQ4cURDU2M1VE5GLXVJcHZrREI3ZF9BQkI3Ug?oc=5"
+        }
+      ]
+    },
+    {
+      "title": "普京拒绝与泽连斯基会谈",
+      "summary": "俄罗斯总统普京表示，目前与乌克兰总统泽连斯基会面以结束乌克兰战争\"没有意义\"。普京在圣彼得堡国际经济论坛上称，只有在乌克兰满足俄罗斯提出的条件后，双方才可能进行实质性谈判。这一表态使和平前景更加黯淡，可能加剧地区紧张局势，并对全球能源和粮食安全产生连锁影响。",
+      "reason": "俄乌和谈前景渺茫，冲突可能长期化",
+      "impact_areas": [
+        "政治",
+        "地缘"
+      ],
+      "impact_level": "重大",
+      "sources": [
+        {
+          "name": "BBC",
+          "url": "https://www.bbc.com/news/articles/cpqpqx5qe40o?at_medium=RSS&at_campaign=rss"
+        }
+      ]
+    }
+  ],
+  "total_fetched": 172,
+  "generated_at": "2026-06-06T07:27:05.207001+08:00"
+}
