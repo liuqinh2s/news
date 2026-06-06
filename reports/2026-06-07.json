@@ -1,0 +1,165 @@
+{
+  "date": "2026-06-07",
+  "news": [
+    {
+      "title": "全国高考今日开考",
+      "summary": "2026年全国统一高考于今日开考，全国数百万考生参加此次考试。今年高考在疫情防控常态化背景下进行，各地采取了严格的防疫措施。教育部表示，今年高考命题更加注重考查学生核心素养和解决实际问题的能力，同时加强了对学生创新思维的考察。各地考点设置了备用考场和隔离考场，确保考试安全有序进行。",
+      "reason": "全国性重大教育事件，影响数百万考生及其家庭。",
+      "impact_areas": [
+        "教育"
+      ],
+      "impact_level": "重大",
+      "sources": [
+        {
+          "name": "澎湃新闻",
+          "url": "https://m.thepaper.cn/detail/33327230"
+        }
+      ]
+    },
+    {
+      "title": "高考新变化引关注",
+      "summary": "2026年全国高考今日开考，多项新变化引发关注。今年高考首次全面实施\"3+1+2\"模式，增加了选考科目的灵活性。同时，高考命题更加注重考查学生核心素养和解决实际问题的能力，减少死记硬背内容。此外，多地试点了AI辅助阅卷系统，提高阅卷效率和准确性。教育部表示，今年高考将更加注重公平公正，加强对考试过程的监督。",
+      "reason": "教育改革重要举措，影响全国教育体系发展方向。",
+      "impact_areas": [
+        "教育",
+        "科技"
+      ],
+      "impact_level": "重大",
+      "sources": [
+        {
+          "name": "澎湃新闻",
+          "url": "https://m.thepaper.cn/detail/33326061"
+        }
+      ]
+    },
+    {
+      "title": "乌克兰袭击圣彼得堡",
+      "summary": "乌克兰使用无人机对俄罗斯圣彼得堡发动袭击，俄罗斯称此次袭击是\"前所未有的\"。此次袭击使用了远程无人机，目标包括军事设施和关键基础设施。俄罗斯方面表示，已击落大部分无人机，但仍有一些无人机到达目标并造成轻微损坏。此次袭击标志着俄乌冲突的进一步升级，可能引发更广泛的地区紧张局势。",
+      "reason": "俄乌冲突最新重大升级，影响地区安全格局。",
+      "impact_areas": [
+        "政治",
+        "地缘"
+      ],
+      "impact_level": "重大",
+      "sources": [
+        {
+          "name": "BBC",
+          "url": "https://www.bbc.com/news/articles/cg7498kz808o?at_medium=RSS&at_campaign=rss"
+        }
+      ]
+    },
+    {
+      "title": "美官员抨击欧洲移民政策",
+      "summary": "美国官员Hegseth在诺曼底登陆日演讲中抨击欧洲应对海滩\"移民入侵\"的方式，称欧洲国家在移民问题上软弱无力。此言论引发欧洲多国不满，认为这是对欧洲内政的不当干涉。此次争议发生在欧洲移民问题日益紧张的背景下，多国正面临来自中东和非洲的移民压力。",
+      "reason": "美欧关系新摩擦，反映国际移民政策分歧。",
+      "impact_areas": [
+        "政治",
+        "社会"
+      ],
+      "impact_level": "重大",
+      "sources": [
+        {
+          "name": "BBC",
+          "url": "https://www.bbc.com/news/articles/c802e7jk458o?at_medium=RSS&at_campaign=rss"
+        }
+      ]
+    },
+    {
+      "title": "乌克兰远程打击圣彼得堡",
+      "summary": "乌克兰对俄罗斯圣彼得堡发动远程无人机袭击，使用了新型远程无人机技术。此次袭击是乌克兰对俄罗斯本土发动的最远距离打击之一，展示了乌克兰军事能力的提升。俄罗斯方面表示，已加强防空系统，并将对乌克兰实施更严厉的报复措施。此次袭击可能标志着俄乌冲突进入新阶段。",
+      "reason": "俄乌冲突战术升级，影响地区军事平衡。",
+      "impact_areas": [
+        "政治",
+        "地缘",
+        "军事"
+      ],
+      "impact_level": "重大",
+      "sources": [
+        {
+          "name": "NYTimes",
+          "url": "https://www.nytimes.com/2026/06/06/world/europe/ukraine-drone-strike-st-petersburg.html"
+        }
+      ]
+    },
+    {
+      "title": "巴以冲突再添伤亡",
+      "summary": "巴勒斯坦官员称，一名婴儿在以色列军队对约旦河西岸一辆汽车的袭击中死亡。此次事件引发国际社会对巴以冲突升级的担忧。以色列军方表示，此次袭击目标是\"武装分子\"，但否认有意伤害平民。联合国呼吁双方保持克制，避免进一步暴力。此次事件发生在巴以关系持续紧张的背景下，可能引发更广泛的地区冲突。",
+      "reason": "巴以冲突最新重大伤亡，加剧地区紧张局势。",
+      "impact_areas": [
+        "政治",
+        "地缘"
+      ],
+      "impact_level": "重大",
+      "sources": [
+        {
+          "name": "NYTimes",
+          "url": "https://www.nytimes.com/2026/06/06/world/middleeast/israel-west-bank-infant.html"
+        }
+      ]
+    },
+    {
+      "title": "AI不会抛弃50后人群",
+      "summary": "人工智能专家郭毅可表示，人工智能技术不会抛弃50后人群，相反，AI将为这一群体提供更多便利。郭毅可在接受采访时指出，AI技术正在向更加人性化的方向发展，将更好地适应不同年龄段用户的需求。他还强调，政府和企业应共同努力，确保AI技术的普惠性，避免数字鸿沟扩大。",
+      "reason": "AI社会影响重要观点，关乎技术普惠与代际公平。",
+      "impact_areas": [
+        "科技",
+        "社会"
+      ],
+      "impact_level": "重大",
+      "sources": [
+        {
+          "name": "凤凰网",
+          "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPUFFKbEttcU1oemxvVnhHRWJTVVZDVHdzOWFDY18xc0xOeGU3M2FnQnltS2Fxa3pTTW1nV1J6OHdVdktWUUVxSlB4bkVSRG5PWGpOZTdJNjQ3QUwzYjlra3M4NVl4bTQ4SUlVbzhFLUNRNVh1alNmTWJzU0gwT0phbVgxcVJDdw?oc=5"
+        }
+      ]
+    },
+    {
+      "title": "中国AI需培养科学家创新",
+      "summary": "人工智能专家郭毅可指出，中国人工智能发展需要注重培养科学家的创新能力。他在一次论坛上表示，中国AI领域虽然在应用层面取得显著成就，但在基础研究和原始创新方面仍有提升空间。郭毅可呼吁加强AI领域人才培养，特别是跨学科人才的培养，以推动中国AI技术的可持续发展。",
+      "reason": "中国AI发展战略重要观点，关乎国家科技竞争力。",
+      "impact_areas": [
+        "科技",
+        "教育"
+      ],
+      "impact_level": "重大",
+      "sources": [
+        {
+          "name": "凤凰网",
+          "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNM01QRnV2ZUQxa0gtUUh3bGxMaU5uaTFjSEY4dU1leEpfTWp2RUNsVlo1bWRrWVc0QzdaZDUwRGh3SWtlcldXUEc3M244X1RZRi1xTHM5V2ZjWnZHQS1FX0xjUGctYlAwM0FkTFo5bGIxZk8tVjc0WXZ6Wkp6SnloWl9FaWdiQQ?oc=5"
+        }
+      ]
+    },
+    {
+      "title": "AI新词harness解析",
+      "summary": "虎嗅文章解析了AI领域流行的新词\"harness\"的含义和应用。文章指出，harness在AI语境中指的是\"利用\"或\"驾驭\"AI技术的意思，强调人类对AI技术的主动掌控而非被动接受。文章分析了harness概念在AI产品设计、人机交互和伦理规范等方面的应用，认为这一概念反映了AI领域对技术可控性的重视。",
+      "reason": "AI领域新概念解析，反映技术发展方向。",
+      "impact_areas": [
+        "科技"
+      ],
+      "impact_level": "重大",
+      "sources": [
+        {
+          "name": "虎嗅",
+          "url": "https://www.huxiu.com/article/4865075.html"
+        }
+      ]
+    },
+    {
+      "title": "OpenAI语音识别项目",
+      "summary": "GitHub热门项目显示，OpenAI的语音识别项目whisper受到广泛关注。该项目能够实现高精度的多语言语音识别，支持99种语言的识别和翻译。whisper采用先进的深度学习技术，在噪声环境下仍能保持较高的识别准确率。该项目开源后，开发者社区积极响应，已衍生出多个应用场景，包括实时字幕、语音助手等。",
+      "reason": "AI语音识别技术重大突破，推动多语言交流无障碍。",
+      "impact_areas": [
+        "科技"
+      ],
+      "impact_level": "重大",
+      "sources": [
+        {
+          "name": "GitHub Trending",
+          "url": "https://github.com/openai/whisper"
+        }
+      ]
+    }
+  ],
+  "total_fetched": 171,
+  "generated_at": "2026-06-07T07:27:01.147997+08:00"
+}
