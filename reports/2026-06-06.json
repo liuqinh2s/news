@@ -2,154 +2,28 @@
   "date": "2026-06-06",
   "news": [
     {
-      "title": "美伊冲突升级",
-      "summary": "伊朗向科威特、巴林发射导弹，美军随后攻击伊朗目标，双方在波斯湾地区军事对抗升级。伊朗革命卫队称再次袭击美军基地，科威特表示正应对\"敌方\"导弹和无人机攻击。特朗普宣称已重创伊朗军事体系，称伊朗导弹仅剩两成左右。这一系列冲突引发国际社会对中东局势恶化的担忧，可能影响全球能源供应和地缘政治格局。",
-      "reason": "地缘政治热点，多源报道，影响全球能源市场",
+      "title": "北京政协主席被查",
+      "summary": "北京市政协主席魏小东涉嫌严重违纪违法，目前正接受中央纪委国家监委纪律审查和监察调查。魏小东曾任北京市副市长、市委组织部部长等职，2023年1月起担任北京市政协主席。此次调查是2026年以来第30名\"正省级\"官员落马，显示反腐工作持续深入。魏小东被查将对北京市政治生态产生重要影响，也可能牵涉更多相关案件。",
+      "reason": "高级官员反腐，政治领域重大事件，多源报道",
       "impact_areas": [
-        "政治",
-        "地缘",
-        "经济金融"
+        "政治"
       ],
       "impact_level": "重大",
       "sources": [
         {
           "name": "凤凰网",
-          "url": "https://news.ifeng.com/c/8tjQ4XN25Oi"
-        },
-        {
-          "name": "凤凰网",
-          "url": "https://news.ifeng.com/c/8tjQ9QnevyO"
-        },
-        {
-          "name": "凤凰网",
-          "url": "https://news.ifeng.com/c/8tjNKOc7YPd"
-        },
-        {
-          "name": "Reuters",
-          "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOZ1o1RDBJVGVQai1scDRmSmlnaWxVZlZBaDZyZUswRHNMY0c1N25BM053RXdmWGV5aGJkalg3V0lpUnpVOEFpUWY5YTBCY0syV1dmejdaUVlJVXZkc0tNVTQ2RmlTVWlEUVlDYkZEYl9yQVZ1QWtLVzZYNl9RRTBzaENsNlBVMWJCYjJLd0ZtdGlpUTljLVBhV0JlVDFJRWJwdm9YQjhIZ3BqdHdua2Z6TFMzS0xXbHhuZTFuNC0yWDhHaUlWSFo2MQ?oc=5"
-        }
-      ]
-    },
-    {
-      "title": "芯片股暴跌",
-      "summary": "受加息预期升温影响，美股科技股遭遇抛售潮，纳指跌超4%，芯片股领跌。英伟达新产品被指内存容量\"缩水\"，引发投资者担忧，导致存储股应声重挫。市场担忧美联储持续加息将提高企业融资成本，影响科技企业估值。此次暴跌导致美股市值一夜蒸发近2.3万亿美元，投资者对AI投资热潮的可持续性产生质疑。",
-      "reason": "金融市场重大波动，影响科技行业估值",
-      "impact_areas": [
-        "经济金融",
-        "科技"
-      ],
-      "impact_level": "重大",
-      "sources": [
-        {
-          "name": "澎湃新闻",
-          "url": "https://m.thepaper.cn/detail/33323813"
+          "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE5nMmxWR2JvNEV2Y1U5NWpmd3JnbmY0RDNFUVVDeHY5VTZxQ0JCQ2ItT3VLXzZWVHluNG5Lbi1vYnFSZFlILTZmMVdZcWU?oc=5"
         },
         {
           "name": "财新网",
-          "url": "https://international.caixin.com/2026-06-06/102451586.html"
-        },
-        {
-          "name": "36氪",
-          "url": "https://www.36kr.com/newsflashes/3841127080970503"
-        },
-        {
-          "name": "36氪",
-          "url": "https://www.36kr.com/newsflashes/3841116245854468"
-        },
-        {
-          "name": "36氪",
-          "url": "https://www.36kr.com/newsflashes/3841026664204546"
+          "url": "https://china.caixin.com/2026-06-06/102451659.html"
         }
       ]
     },
     {
-      "title": "中国造船业新纪录",
-      "summary": "中国造船业再创全球新纪录，两艘\"海上巨无霸\"同日交付。这两艘船舶代表了当今世界造船技术的最高水平，彰显了中国在高端装备制造领域的实力。此次交付不仅巩固了中国在全球造船市场的领先地位，也将对全球航运业和能源运输格局产生深远影响。中国造船业的持续突破反映了国家制造业转型升级的成效。",
-      "reason": "中国高端制造业重大突破，全球领先",
-      "impact_areas": [
-        "科技",
-        "产业"
-      ],
-      "impact_level": "重大",
-      "sources": [
-        {
-          "name": "央视网",
-          "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9yT05JTU13LVVjaUxkbXN2Mm5XQ3BFQWhMbElkY0M5bHZpdDJGM1BrOXkwdVRCRzZBNl9IWnpUaHdBLXA3TTY2b1JHTE9FNld5ZFN4UWZuanlxS3h1MkVDMXloak4yb0p4eTVVRFF6YXVFWWZwUXRtYg?oc=5"
-        }
-      ]
-    },
-    {
-      "title": "中国多领域硬核突破",
-      "summary": "本周中国在多个科技领域迎来重大突破，多项技术达到世界领先水平。其中包括新型航天器首飞成功、人工智能算法创新、新材料研发等。这些突破不仅提升了中国在全球科技竞争中的地位，也将为相关产业发展提供强大动力。专家指出，这些成果体现了中国科技创新能力的全面提升，标志着国家创新驱动发展战略取得显著成效。",
-      "reason": "多领域科技重大突破，体现国家创新能力",
-      "impact_areas": [
-        "科技",
-        "产业"
-      ],
-      "impact_level": "重大",
-      "sources": [
-        {
-          "name": "央视网",
-          "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1DNDdJSVVxSVVTLVNTeTk2Szd3bWFtSlJUbmNHOHowNy1zSm9HOElaRnZHNDJBSnRpeElfa1lOR2hlRWR1aWM1SjVZdGpBcFlrWENGUi1ZY2JHcHhtSUtmM3ZPbUdYOXl5aDMzX2lRU3o4dXJhY0hMLQ?oc=5"
-        }
-      ]
-    },
-    {
-      "title": "SpaceX IPO获2倍认购",
-      "summary": "据报道，SpaceX的IPO已获得2倍认购资金，投资者对这家航天科技巨头表现出强烈兴趣。SpaceX与谷歌达成每月9.2亿美元的云服务协议，进一步巩固了其市场地位。马斯克领导的这家公司在航天技术、卫星互联网等领域持续创新，引领全球商业航天发展。此次IPO的高认购反映了资本市场对航天科技未来发展的看好，也将为行业注入新的活力。",
-      "reason": "商业航天领域重大融资事件，行业风向标",
-      "impact_areas": [
-        "科技",
-        "经济金融"
-      ],
-      "impact_level": "重大",
-      "sources": [
-        {
-          "name": "36氪",
-          "url": "https://www.36kr.com/newsflashes/3841030859081984"
-        },
-        {
-          "name": "36氪",
-          "url": "https://www.36kr.com/newsflashes/3841028145236227"
-        }
-      ]
-    },
-    {
-      "title": "AI数学证明突破",
-      "summary": "DeepSeek V4在数学证明领域取得重大突破，展现出500倍的成本优势，其智能体系统刷新多项纪录。这一突破标志着AI在复杂推理能力上的显著提升，可能改变数学研究范式。专家认为，这种高效AI系统将加速科学发现进程，在药物研发、材料科学等领域具有广泛应用前景。该成果体现了中国AI技术的快速进步，在全球AI竞争中占据重要位置。",
-      "reason": "AI推理能力重大突破，成本优势显著",
-      "impact_areas": [
-        "科技",
-        "产业"
-      ],
-      "impact_level": "重大",
-      "sources": [
-        {
-          "name": "虎嗅",
-          "url": "https://www.huxiu.com/article/4864984.html"
-        }
-      ]
-    },
-    {
-      "title": "纳米压印技术突破",
-      "summary": "中国在纳米压印技术领域取得重大突破，该技术已走到产线门口，有望绕开DUV光刻技术限制。这一突破对中国半导体产业发展具有重要意义，可能减少对国外先进光刻技术的依赖。纳米压印技术作为下一代半导体制造的关键技术，其产业化将为中国芯片产业自主可控提供新路径。专家指出，这一成果体现了中国在半导体设备领域的创新能力，有望重塑全球半导体产业格局。",
-      "reason": "半导体关键技术突破，产业自主可控",
-      "impact_areas": [
-        "科技",
-        "产业"
-      ],
-      "impact_level": "重大",
-      "sources": [
-        {
-          "name": "虎嗅",
-          "url": "https://www.huxiu.com/article/4864959.html"
-        }
-      ]
-    },
-    {
-      "title": "央行修订利率管理规定",
-      "summary": "央行修订存贷款利率管理规定，将罚息从\"加收30%—50%\"改为\"协商确定\"。这一政策调整体现了利率市场化改革的深化，赋予金融机构更大自主权。分析人士认为，这一变化有助于降低实体经济融资成本，提高金融服务效率，同时也有助于防范金融风险。新规的实施将对银行经营模式和信贷市场产生深远影响，是金融供给侧改革的重要举措。",
-      "reason": "金融政策重大调整，影响银行经营和信贷市场",
+      "title": "央行修订贷款利率规定",
+      "summary": "中国人民银行修订存贷款利率管理规定，将逾期贷款罚息从原来的\"加收30%-50%\"调整为\"由借贷双方协商确定\"。这一政策调整将减轻借款人负担，提高贷款定价灵活性，有利于促进实体经济发展。新规实施后，银行将根据借款人信用状况、贷款用途等因素差异化确定罚息标准，有助于降低小微企业融资成本，缓解\"融资难、融资贵\"问题。",
+      "reason": "金融政策重大调整，影响全国银行业和贷款市场",
       "impact_areas": [
         "经济金融"
       ],
@@ -162,41 +36,131 @@
       ]
     },
     {
-      "title": "北京政协主席被查",
-      "summary": "北京市政协党组书记、主席魏小东接受审查调查。这是2026年第30名\"老虎\"落马，也是正省级高官被查。魏小东曾任国家发改委副主任等职，此次调查表明反腐工作持续深入。官方通报称其涉嫌严重违纪违法，目前正在接受纪律审查和监察调查。这一事件再次彰显了党中央全面从严治党的坚定决心，对净化政治生态具有重要意义。",
-      "reason": "正省级高官被查，反腐持续深入",
+      "title": "芯片股暴跌拖累美股",
+      "summary": "受美联储加息预期增强和科技股估值回调影响，美国芯片股集体暴跌，导致纳斯达克指数重挫4.18%。英伟达、AMD等芯片巨头股价单日跌幅超过8%，市场对AI投资热潮的可持续性产生担忧。分析人士指出，芯片股暴跌反映了投资者对科技行业估值过高的担忧，以及对美联储货币政策收紧的预期。此次调整可能对全球科技产业格局产生深远影响，加速行业整合和优胜劣汰。",
+      "reason": "科技金融市场重大波动，反映AI投资热潮面临加息威胁",
       "impact_areas": [
-        "政治"
-      ],
-      "impact_level": "重大",
-      "sources": [
-        {
-          "name": "澎湃新闻",
-          "url": "https://m.thepaper.cn/detail/33323407"
-        },
-        {
-          "name": "财新网",
-          "url": "https://china.caixin.com/2026-06-06/102451659.html"
-        }
-      ]
-    },
-    {
-      "title": "中船租赁董事长被查",
-      "summary": "中船租赁原董事长杨力接受审查调查，船舶租赁业反腐升级。杨力曾任多家金融机构高管，此次调查表明金融领域反腐工作持续深入。官方通报称其涉嫌严重违纪违法，目前正在接受纪律审查和监察调查。分析人士认为，这一事件反映了国家对金融风险防控和反腐败工作的高度重视，将对金融行业产生警示作用。",
-      "reason": "金融领域反腐升级，船舶租赁业受影响",
-      "impact_areas": [
-        "政治",
+        "科技",
         "经济金融"
       ],
       "impact_level": "重大",
       "sources": [
         {
           "name": "财新网",
-          "url": "https://finance.caixin.com/2026-06-06/102451544.html"
+          "url": "https://international.caixin.com/2026-06-06/102451586.html"
+        }
+      ]
+    },
+    {
+      "title": "谷歌SpaceX签300亿协议",
+      "summary": "SpaceX与谷歌签署价值300亿美元的算力服务协议，谷歌将每月支付9.2亿美元，租用SpaceX的11万颗英伟达GPU。这一合作标志着科技巨头在AI算力领域的激烈竞争进入新阶段。SpaceX凭借其星链网络和星舰计划，正在构建全球最大的分布式计算平台，此次合作将进一步巩固其在AI算力领域的领先地位。分析人士认为，这一协议将重塑全球AI算力市场格局，对传统云计算服务商构成挑战。",
+      "reason": "科技产业重大合作，影响AI算力市场格局",
+      "impact_areas": [
+        "科技"
+      ],
+      "impact_level": "重大",
+      "sources": [
+        {
+          "name": "雪球热帖",
+          "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOV29Vems2M2tjYnN6d3N2eXQtb0pRUnZVNTZMZ3NCUG9ucm5GNEo1MFZtRWZpUE5UWko2Q2dFdW9UMHo0NnNac3NBTWc3U1dmamthZ3d6c2o2em1XLWlCYklsMFZrZFEyZTlqcUZUcmZ1RWJwRjFWMDh2bDVxQ3BjdTkza2dFblE?oc=5"
+        }
+      ]
+    },
+    {
+      "title": "国际金价跌破4400美元",
+      "summary": "国际金价跌破4400美元/盎司关口，金饰克价一夜大降近40元，创近期新低。这一价格变动反映了全球黄金市场供需关系的变化，以及投资者对经济前景的重新评估。分析人士指出，金价下跌可能与美元走强、美联储加息预期增强以及全球股市回暖有关。此次价格波动将对黄金产业链、珠宝行业以及各国央行储备策略产生深远影响，也可能影响全球通胀预期。",
+      "reason": "大宗商品价格创极值，反映市场对黄金需求变化",
+      "impact_areas": [
+        "经济金融"
+      ],
+      "impact_level": "重大",
+      "sources": [
+        {
+          "name": "36氪",
+          "url": "https://www.36kr.com/newsflashes/3841258653649156"
+        }
+      ]
+    },
+    {
+      "title": "美军击落伊朗无人机",
+      "summary": "美军宣称击落四架向霍尔木兹海峡发射的伊朗无人机，这一事件加剧了中东地区紧张局势。霍尔木兹海峡是全球石油运输的重要通道，此次事件可能影响全球能源市场稳定。分析人士指出，这一事件反映了美伊两国在波斯湾地区的持续对抗，以及地区局势的复杂性。此次事件可能对全球石油价格、地缘政治格局以及国际关系产生深远影响。",
+      "reason": "地缘政治事件，可能影响中东局势和全球能源市场",
+      "impact_areas": [
+        "地缘",
+        "经济金融"
+      ],
+      "impact_level": "重大",
+      "sources": [
+        {
+          "name": "央视网",
+          "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE0yX0hhaGNuSkI2QVFTRk1RYmVxRmNtdEVKRzFNanUxMElUUUlKcGRqUE00SmV1bFN1Yzg1VTdYYWZLdWJtZGJjczdlcXotQWhNRUFwVjd4LUdfd2syRzNRckRQaVJGT1hJd1ZtbkJhRzdHdXFLNFFtRA?oc=5"
+        }
+      ]
+    },
+    {
+      "title": "乌无人机袭击圣彼得堡",
+      "summary": "乌克兰无人机对俄罗斯圣彼得堡发动袭击，俄罗斯称此次袭击是\"前所未有的\"。这一事件标志着俄乌冲突升级，可能对国际关系产生深远影响。分析人士指出，无人机袭击表明乌克兰正在寻求新的战术手段，而俄罗斯则面临来自乌克兰的直接威胁。此次事件可能影响全球能源市场、粮食供应链以及国际政治格局，也可能引发更多国家的介入。",
+      "reason": "俄乌冲突升级，国际关系重大事件",
+      "impact_areas": [
+        "地缘",
+        "政治"
+      ],
+      "impact_level": "重大",
+      "sources": [
+        {
+          "name": "BBC",
+          "url": "https://www.bbc.com/news/articles/cg7498kz808o?at_medium=RSS&at_campaign=rss"
+        }
+      ]
+    },
+    {
+      "title": "美伊在波斯湾互相打击",
+      "summary": "美国和伊朗在波斯湾地区互相打击，这是双方在最新停火协议后的又一次重大冲突。此次冲突发生在霍尔木兹海峡附近，这一地区是全球石油运输的重要通道。分析人士指出，此次冲突反映了美伊两国在波斯湾地区的持续对抗，以及地区局势的复杂性。此次事件可能对全球石油价格、地缘政治格局以及国际关系产生深远影响。",
+      "reason": "中东局势紧张，地缘政治重大事件",
+      "impact_areas": [
+        "地缘",
+        "经济金融"
+      ],
+      "impact_level": "重大",
+      "sources": [
+        {
+          "name": "BBC",
+          "url": "https://www.bbc.com/news/articles/cvgzgyjk2weo?at_medium=RSS&at_campaign=rss"
+        }
+      ]
+    },
+    {
+      "title": "埃博拉病毒在东非蔓延",
+      "summary": "埃博拉病毒在东非地区蔓延，引发全球公共卫生关注。世界卫生组织已将此次疫情列为国际关注的突发公共卫生事件。分析人士指出，此次疫情反映了全球公共卫生体系的脆弱性，以及应对突发传染病的能力不足。此次疫情可能对全球健康安全、医疗资源分配以及国际援助体系产生深远影响，也可能对全球经济产生负面影响。",
+      "reason": "公共卫生事件，可能影响全球健康安全",
+      "impact_areas": [
+        "公共卫生"
+      ],
+      "impact_level": "重大",
+      "sources": [
+        {
+          "name": "NYTimes",
+          "url": "https://www.nytimes.com/2026/06/06/world/asia/as-ebola-spreads-in-east-africa-will-china-step-up.html"
+        }
+      ]
+    },
+    {
+      "title": "中国新能源汽车崛起",
+      "summary": "中国新能源汽车产业快速发展，已成为全球最大的新能源汽车市场。数据显示，中国新能源汽车销量连续多年位居全球第一，技术创新能力显著提升。分析人士指出，中国新能源汽车产业的崛起正在重塑全球汽车产业格局，推动全球汽车产业向电动化、智能化转型。此次产业变革将对全球能源结构、环境保护以及国际竞争格局产生深远影响。",
+      "reason": "产业格局变化，影响全球汽车产业转型",
+      "impact_areas": [
+        "科技",
+        "产业"
+      ],
+      "impact_level": "重大",
+      "sources": [
+        {
+          "name": "雪球热帖",
+          "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE01aGJDVXN6el9fOURmcWVMbXMwSHhBR3VqdGo0M2ROVVFEMHd6X2d2VTlsSHh5ekpnRWFmY0gyNV91Ni1kcnNoYW5pbnBJRGxaeEx1Sm40Vlg2Sk96dnhFRW5ic25GTV9GbEhrVEZ4cFJ1dEh5NHc?oc=5"
         }
       ]
     }
   ],
-  "total_fetched": 256,
-  "generated_at": "2026-06-06T12:28:05.577786+08:00"
+  "total_fetched": 295,
+  "generated_at": "2026-06-06T19:32:12.611672+08:00"
 }
