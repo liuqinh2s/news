@@ -1,0 +1,191 @@
+{
+  "date": "2026-06-08",
+  "news": [
+    {
+      "title": "伊以冲突再起",
+      "summary": "伊朗革命卫队对以色列空军基地实施\"警告性\"打击，这是自4月停火以来的首次导弹袭击。以色列随后对贝鲁特郊区进行报复性轰炸，与真主党的冲突升级。多国包括美国、中国等发布安全提醒。此次冲突升级可能导致中东局势进一步恶化，对全球能源安全和地缘政治格局产生深远影响。",
+      "reason": "多源密集报道的国际安全事件，影响全球地缘政治格局",
+      "impact_areas": [
+        "政治",
+        "地缘"
+      ],
+      "impact_level": "重大",
+      "sources": [
+        {
+          "name": "澎湃新闻",
+          "url": "https://m.thepaper.cn/detail/33331029"
+        },
+        {
+          "name": "凤凰网",
+          "url": "https://news.ifeng.com/c/8tmDYR6GpZj"
+        },
+        {
+          "name": "BBC",
+          "url": "https://www.bbc.com/news/articles/c0qyevk8139o?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "name": "NYTimes",
+          "url": "https://www.nytimes.com/live/2026/06/07/world/iran-israel-missiles"
+        },
+        {
+          "name": "Reuters",
+          "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOY3hNVzdZOFg3MlVZY1VVYkw5Nmt2bHVTUk43T184cnRoZTR0T1pHVktFVXV5akFCQ05RSnhYa2lfRzVEY1NaVjFOajVnY2hoYF0dGo5SWdoY2tLdjZNaHVOWkN2bEZMWEl3VlgyRUF1cWFKbUpkYlY4MjJucFpVbzRYOWRaRFFaaTN4S3hta1Q4R1ZHRURJRjZVbUtjUjdWUHk3eWU1MUgwQXM4MlU4aFFZX0xndF9VWDFR?oc=5"
+        }
+      ]
+    },
+    {
+      "title": "习近平访朝",
+      "summary": "中国国家主席习近平在朝鲜媒体发表署名文章，强调中朝传统友谊。此次访问正值国际局势复杂变化之际，被视为中国加强周边外交的重要举措。访问期间双方就深化各领域合作达成多项共识，对东北亚地区和平稳定具有重要意义。",
+      "reason": "重要外交活动，影响区域政治格局",
+      "impact_areas": [
+        "政治",
+        "外交"
+      ],
+      "impact_level": "重大",
+      "sources": [
+        {
+          "name": "澎湃新闻",
+          "url": "https://m.thepaper.cn/detail/33331041"
+        },
+        {
+          "name": "BBC",
+          "url": "https://www.bbc.com/news/articles/cdep497r256o?at_medium=RSS&at_campaign=rss"
+        }
+      ]
+    },
+    {
+      "title": "乌和谈转向欧洲",
+      "summary": "乌克兰总统泽连斯基的欧洲盟友提出和平谈判的五项条件，同时美国减少在和平调解中的角色。乌克兰转向欧洲寻求和平解决方案，标志着国际调解力量格局的变化。这一转变可能影响冲突走向和欧洲安全架构。",
+      "reason": "国际冲突解决进程关键转折，影响欧洲安全格局",
+      "impact_areas": [
+        "政治",
+        "地缘"
+      ],
+      "impact_level": "重大",
+      "sources": [
+        {
+          "name": "BBC",
+          "url": "https://www.bbc.com/news/articles/cr7xr1g3nvvo?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "name": "NYTimes",
+          "url": "https://www.nytimes.com/2026/06/07/world/europe/ukraine-europe-russia-us-peace-talks.html"
+        }
+      ]
+    },
+    {
+      "title": "科技巨头重返AI",
+      "summary": "传统科技巨头重新布局AI领域，推动AI产业演进趋势重新定价。这一转变反映了科技行业竞争格局的变化，大型企业通过战略投资和技术合作加速AI商业化进程。此举将重塑AI产业生态，影响未来科技发展方向和市场格局。",
+      "reason": "科技巨头战略转向，影响AI产业格局",
+      "impact_areas": [
+        "科技",
+        "产业"
+      ],
+      "impact_level": "重大",
+      "sources": [
+        {
+          "name": "36氪",
+          "url": "https://www.36kr.com/newsflashes/3843720545110277"
+        }
+      ]
+    },
+    {
+      "title": "SK电讯建AI云",
+      "summary": "SK电讯计划在韩国利用英伟达技术构建吉瓦级AI云设施，这是亚洲地区最大规模的AI基础设施建设项目之一。该项目将加速韩国AI产业发展，提升区域AI算力水平，并对全球AI产业格局产生重要影响。",
+      "reason": "大型AI基础设施项目，影响区域科技发展",
+      "impact_areas": [
+        "科技",
+        "产业"
+      ],
+      "impact_level": "重大",
+      "sources": [
+        {
+          "name": "36氪",
+          "url": "https://www.36kr.com/newsflashes/3843724760566280"
+        }
+      ]
+    },
+    {
+      "title": "英伟达合作内存开发",
+      "summary": "英伟达与SK海力士宣布多年期技术合作，共同开发下一代AI内存产品。这一合作将加速AI硬件技术创新，提升AI计算效率，对全球AI产业链产生深远影响。双方优势互补，有望在AI芯片和存储领域取得突破性进展。",
+      "reason": "AI硬件领域重大合作，推动技术革新",
+      "impact_areas": [
+        "科技",
+        "产业"
+      ],
+      "impact_level": "重大",
+      "sources": [
+        {
+          "name": "36氪",
+          "url": "https://www.36kr.com/newsflashes/3843718455216390"
+        }
+      ]
+    },
+    {
+      "title": "资本重构中国定价",
+      "summary": "全球资本正在重构中国核心资产定价逻辑，硬科技H股对A股溢价频现。这一现象反映国际投资者对中国科技企业估值逻辑的转变，可能影响中资科技企业的融资环境和市场表现。",
+      "reason": "国际资本定价逻辑变化，影响中国科技企业估值",
+      "impact_areas": [
+        "经济金融",
+        "科技"
+      ],
+      "impact_level": "重大",
+      "sources": [
+        {
+          "name": "36氪",
+          "url": "https://www.36kr.com/newsflashes/3843719985515010"
+        }
+      ]
+    },
+    {
+      "title": "产油国继续增产",
+      "summary": "主要产油国宣布7月继续保持增产政策，这一决定将影响全球原油供应格局。在需求不确定性增加的背景下，增产决定可能加剧市场供需失衡，对能源价格和相关产业链产生深远影响。",
+      "reason": "能源政策重大调整，影响全球能源市场",
+      "impact_areas": [
+        "经济金融",
+        "产业"
+      ],
+      "impact_level": "重大",
+      "sources": [
+        {
+          "name": "36氪",
+          "url": "https://www.36kr.com/newsflashes/3843716526622976"
+        }
+      ]
+    },
+    {
+      "title": "美联储6月或维稳",
+      "summary": "市场预期美联储6月维持利率不变的概率高达97%，这一政策预期将对全球金融市场产生重要影响。在通胀压力和经济增长放缓的背景下，美联储政策走向备受关注，将影响全球资本流动和风险资产表现。",
+      "reason": "全球货币政策关键信号，影响金融市场走向",
+      "impact_areas": [
+        "经济金融"
+      ],
+      "impact_level": "重大",
+      "sources": [
+        {
+          "name": "36氪",
+          "url": "https://www.36kr.com/newsflashes/3843712746932489"
+        }
+      ]
+    },
+    {
+      "title": "机器人产业落地加速",
+      "summary": "机器人行业正加速从主题驱动转向产业落地，技术成熟度和商业化应用显著提升。这一转变将重塑制造业和服务业格局，提高生产效率，创造新的经济增长点，对劳动力市场和产业结构产生深远影响。",
+      "reason": "产业格局重大转变，影响经济结构",
+      "impact_areas": [
+        "科技",
+        "产业",
+        "经济金融"
+      ],
+      "impact_level": "重大",
+      "sources": [
+        {
+          "name": "36氪",
+          "url": "https://www.36kr.com/newsflashes/3843713706445317"
+        }
+      ]
+    }
+  ],
+  "total_fetched": 194,
+  "generated_at": "2026-06-08T07:28:05.196531+08:00"
+}
