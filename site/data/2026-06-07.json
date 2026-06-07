@@ -2,164 +2,175 @@
   "date": "2026-06-07",
   "news": [
     {
-      "title": "全国高考今日开考",
-      "summary": "2026年全国统一高考于今日开考，全国数百万考生参加此次考试。今年高考在疫情防控常态化背景下进行，各地采取了严格的防疫措施。教育部表示，今年高考命题更加注重考查学生核心素养和解决实际问题的能力，同时加强了对学生创新思维的考察。各地考点设置了备用考场和隔离考场，确保考试安全有序进行。",
-      "reason": "全国性重大教育事件，影响数百万考生及其家庭。",
+      "title": "央行连续19个月增持黄金",
+      "summary": "中国央行连续第19个月增持黄金储备，5月外汇储备增加317亿美元，总额达34422亿美元。这一趋势反映中国加速去美元化战略，增强外汇储备多元化。黄金作为避险资产，增持动作表明对国际金融体系稳定性的担忧，以及对美元资产长期价值的谨慎态度。",
+      "reason": "连续19个月增持黄金，反映去美元化趋势加速",
       "impact_areas": [
-        "教育"
+        "经济金融",
+        "国际关系"
       ],
       "impact_level": "重大",
       "sources": [
         {
           "name": "澎湃新闻",
-          "url": "https://m.thepaper.cn/detail/33327230"
+          "url": "https://m.thepaper.cn/detail/33327726"
+        },
+        {
+          "name": "36氪",
+          "url": "https://www.36kr.com/newsflashes/3842485376584196"
         }
       ]
     },
     {
-      "title": "高考新变化引关注",
-      "summary": "2026年全国高考今日开考，多项新变化引发关注。今年高考首次全面实施\"3+1+2\"模式，增加了选考科目的灵活性。同时，高考命题更加注重考查学生核心素养和解决实际问题的能力，减少死记硬背内容。此外，多地试点了AI辅助阅卷系统，提高阅卷效率和准确性。教育部表示，今年高考将更加注重公平公正，加强对考试过程的监督。",
-      "reason": "教育改革重要举措，影响全国教育体系发展方向。",
+      "title": "高考人数减少45万",
+      "summary": "2026年全国高考报名人数较去年减少45万人，创下近年新低。这一变化可能与人口结构变化、教育政策调整以及多元化升学渠道有关。高考人数下降将对高校招生政策、教育资源分配以及相关产业链产生深远影响。",
+      "reason": "教育领域重大数据变化，反映人口结构趋势",
       "impact_areas": [
         "教育",
-        "科技"
+        "社会"
+      ],
+      "impact_level": "重大",
+      "sources": [
+        {
+          "name": "财新网",
+          "url": "https://photos.caixin.com/2026-06-07/102451839.html"
+        }
+      ]
+    },
+    {
+      "title": "伊朗资产争端升级",
+      "summary": "伊朗要求解冻240亿美元资产后，美国拟将这些资产用于海湾国家重建。这一争端加剧了美伊之间的紧张关系，也对中东地区局势产生深远影响。资产争端背后是复杂的国际政治博弈，可能影响地区稳定和能源安全。",
+      "reason": "美伊资产争端升级，影响中东地区局势",
+      "impact_areas": [
+        "政治",
+        "国际关系"
       ],
       "impact_level": "重大",
       "sources": [
         {
           "name": "澎湃新闻",
-          "url": "https://m.thepaper.cn/detail/33326061"
-        }
-      ]
-    },
-    {
-      "title": "乌克兰袭击圣彼得堡",
-      "summary": "乌克兰使用无人机对俄罗斯圣彼得堡发动袭击，俄罗斯称此次袭击是\"前所未有的\"。此次袭击使用了远程无人机，目标包括军事设施和关键基础设施。俄罗斯方面表示，已击落大部分无人机，但仍有一些无人机到达目标并造成轻微损坏。此次袭击标志着俄乌冲突的进一步升级，可能引发更广泛的地区紧张局势。",
-      "reason": "俄乌冲突最新重大升级，影响地区安全格局。",
-      "impact_areas": [
-        "政治",
-        "地缘"
-      ],
-      "impact_level": "重大",
-      "sources": [
-        {
-          "name": "BBC",
-          "url": "https://www.bbc.com/news/articles/cg7498kz808o?at_medium=RSS&at_campaign=rss"
-        }
-      ]
-    },
-    {
-      "title": "美官员抨击欧洲移民政策",
-      "summary": "美国官员Hegseth在诺曼底登陆日演讲中抨击欧洲应对海滩\"移民入侵\"的方式，称欧洲国家在移民问题上软弱无力。此言论引发欧洲多国不满，认为这是对欧洲内政的不当干涉。此次争议发生在欧洲移民问题日益紧张的背景下，多国正面临来自中东和非洲的移民压力。",
-      "reason": "美欧关系新摩擦，反映国际移民政策分歧。",
-      "impact_areas": [
-        "政治",
-        "社会"
-      ],
-      "impact_level": "重大",
-      "sources": [
-        {
-          "name": "BBC",
-          "url": "https://www.bbc.com/news/articles/c802e7jk458o?at_medium=RSS&at_campaign=rss"
-        }
-      ]
-    },
-    {
-      "title": "乌克兰远程打击圣彼得堡",
-      "summary": "乌克兰对俄罗斯圣彼得堡发动远程无人机袭击，使用了新型远程无人机技术。此次袭击是乌克兰对俄罗斯本土发动的最远距离打击之一，展示了乌克兰军事能力的提升。俄罗斯方面表示，已加强防空系统，并将对乌克兰实施更严厉的报复措施。此次袭击可能标志着俄乌冲突进入新阶段。",
-      "reason": "俄乌冲突战术升级，影响地区军事平衡。",
-      "impact_areas": [
-        "政治",
-        "地缘",
-        "军事"
-      ],
-      "impact_level": "重大",
-      "sources": [
-        {
-          "name": "NYTimes",
-          "url": "https://www.nytimes.com/2026/06/06/world/europe/ukraine-drone-strike-st-petersburg.html"
-        }
-      ]
-    },
-    {
-      "title": "巴以冲突再添伤亡",
-      "summary": "巴勒斯坦官员称，一名婴儿在以色列军队对约旦河西岸一辆汽车的袭击中死亡。此次事件引发国际社会对巴以冲突升级的担忧。以色列军方表示，此次袭击目标是\"武装分子\"，但否认有意伤害平民。联合国呼吁双方保持克制，避免进一步暴力。此次事件发生在巴以关系持续紧张的背景下，可能引发更广泛的地区冲突。",
-      "reason": "巴以冲突最新重大伤亡，加剧地区紧张局势。",
-      "impact_areas": [
-        "政治",
-        "地缘"
-      ],
-      "impact_level": "重大",
-      "sources": [
-        {
-          "name": "NYTimes",
-          "url": "https://www.nytimes.com/2026/06/06/world/middleeast/israel-west-bank-infant.html"
-        }
-      ]
-    },
-    {
-      "title": "AI不会抛弃50后人群",
-      "summary": "人工智能专家郭毅可表示，人工智能技术不会抛弃50后人群，相反，AI将为这一群体提供更多便利。郭毅可在接受采访时指出，AI技术正在向更加人性化的方向发展，将更好地适应不同年龄段用户的需求。他还强调，政府和企业应共同努力，确保AI技术的普惠性，避免数字鸿沟扩大。",
-      "reason": "AI社会影响重要观点，关乎技术普惠与代际公平。",
-      "impact_areas": [
-        "科技",
-        "社会"
-      ],
-      "impact_level": "重大",
-      "sources": [
+          "url": "https://m.thepaper.cn/detail/33327663"
+        },
         {
           "name": "凤凰网",
-          "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPUFFKbEttcU1oemxvVnhHRWJTVVZDVHdzOWFDY18xc0xOeGU3M2FnQnltS2Fxa3pTTW1nV1J6OHdVdktWUUVxSlB4bkVSRG5PWGpOZTdJNjQ3QUwzYjlra3M4NVl4bTQ4SUlVbzhFLUNRNVh1alNmTWJzU0gwT0phbVgxcVJDdw?oc=5"
+          "url": "https://news.ifeng.com/c/8tl3zpuBM25"
         }
       ]
     },
     {
-      "title": "中国AI需培养科学家创新",
-      "summary": "人工智能专家郭毅可指出，中国人工智能发展需要注重培养科学家的创新能力。他在一次论坛上表示，中国AI领域虽然在应用层面取得显著成就，但在基础研究和原始创新方面仍有提升空间。郭毅可呼吁加强AI领域人才培养，特别是跨学科人才的培养，以推动中国AI技术的可持续发展。",
-      "reason": "中国AI发展战略重要观点，关乎国家科技竞争力。",
-      "impact_areas": [
-        "科技",
-        "教育"
-      ],
-      "impact_level": "重大",
-      "sources": [
-        {
-          "name": "凤凰网",
-          "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNM01QRnV2ZUQxa0gtUUh3bGxMaU5uaTFjSEY4dU1leEpfTWp2RUNsVlo1bWRrWVc0QzdaZDUwRGh3SWtlcldXUEc3M244X1RZRi1xTHM5V2ZjWnZHQS1FX0xjUGctYlAwM0FkTFo5bGIxZk8tVjc0WXZ6Wkp6SnloWl9FaWdiQQ?oc=5"
-        }
-      ]
-    },
-    {
-      "title": "AI新词harness解析",
-      "summary": "虎嗅文章解析了AI领域流行的新词\"harness\"的含义和应用。文章指出，harness在AI语境中指的是\"利用\"或\"驾驭\"AI技术的意思，强调人类对AI技术的主动掌控而非被动接受。文章分析了harness概念在AI产品设计、人机交互和伦理规范等方面的应用，认为这一概念反映了AI领域对技术可控性的重视。",
-      "reason": "AI领域新概念解析，反映技术发展方向。",
+      "title": "OpenAI芯片元老转投Anthropic",
+      "summary": "OpenAI芯片元老\"002号员工\"宣布转投竞争对手Anthropic。这一人才流动反映AI行业内部竞争加剧，以及人才争夺的白热化。作为芯片领域的核心人物，其离职可能对OpenAI的AI芯片战略产生重大影响，同时也凸显Anthropic在AI人才吸引力的提升。",
+      "reason": "AI领域核心人才流动，反映行业竞争格局变化",
       "impact_areas": [
         "科技"
+      ],
+      "impact_level": "重大",
+      "sources": [
+        {
+          "name": "36氪",
+          "url": "https://www.36kr.com/newsflashes/3842586501466625"
+        }
+      ]
+    },
+    {
+      "title": "AI芯片军备竞赛加剧",
+      "summary": "半导体史上最大IPO背后，Cerebras CEO揭秘AI芯片军备竞赛的真相与未来。随着AI技术快速发展，对算力的需求呈指数级增长，导致AI芯片市场呈现\"永远不够用\"的状态。各大科技公司纷纷加大投入，AI芯片已成为科技竞争的新焦点，对全球科技格局产生深远影响。",
+      "reason": "AI芯片军备竞赛加剧，科技竞争新焦点",
+      "impact_areas": [
+        "科技",
+        "经济"
       ],
       "impact_level": "重大",
       "sources": [
         {
           "name": "虎嗅",
-          "url": "https://www.huxiu.com/article/4865075.html"
+          "url": "https://www.huxiu.com/article/4865099.html"
         }
       ]
     },
     {
-      "title": "OpenAI语音识别项目",
-      "summary": "GitHub热门项目显示，OpenAI的语音识别项目whisper受到广泛关注。该项目能够实现高精度的多语言语音识别，支持99种语言的识别和翻译。whisper采用先进的深度学习技术，在噪声环境下仍能保持较高的识别准确率。该项目开源后，开发者社区积极响应，已衍生出多个应用场景，包括实时字幕、语音助手等。",
-      "reason": "AI语音识别技术重大突破，推动多语言交流无障碍。",
+      "title": "氢煤混烧技术突破",
+      "summary": "我国清洁低碳氢煤混烧技术取得重大突破，为能源行业转型提供新路径。该技术能够有效降低煤炭使用过程中的碳排放，提高能源利用效率，对实现\"双碳\"目标具有重要意义。这一突破将推动能源结构调整，促进清洁能源发展，对应对气候变化具有积极意义。",
+      "reason": "清洁能源技术重大突破，助力\"双碳\"目标",
       "impact_areas": [
+        "科技",
+        "能源",
+        "环境"
+      ],
+      "impact_level": "重大",
+      "sources": [
+        {
+          "name": "36氪",
+          "url": "https://www.36kr.com/newsflashes/3842408617658885"
+        }
+      ]
+    },
+    {
+      "title": "高考人数下降连锁反应",
+      "summary": "2026年全国高考报名人数较去年减少45万，引发连锁反应。高校面临招生压力，可能调整招生策略；教育机构面临生源减少，业务模式需转型；家长和学生的教育观念也在发生变化，更加注重多元化发展。这一趋势将对整个教育生态产生深远影响。",
+      "reason": "高考人数下降引发教育生态连锁反应",
+      "impact_areas": [
+        "教育",
+        "社会"
+      ],
+      "impact_level": "重大",
+      "sources": [
+        {
+          "name": "虎嗅",
+          "url": "https://www.huxiu.com/article/4865098.html"
+        }
+      ]
+    },
+    {
+      "title": "电影票房突破160亿",
+      "summary": "2026年度电影总票房已突破160亿元，创下历史新高。这一数据反映文化产业复苏态势良好，也表明观众对优质内容的需求持续增长。电影产业的繁荣将对相关产业链产生积极影响，包括制作、发行、放映等环节，同时也将促进文化创意产业的发展。",
+      "reason": "文化产业重要数据，反映经济复苏态势",
+      "impact_areas": [
+        "文化",
+        "经济"
+      ],
+      "impact_level": "重大",
+      "sources": [
+        {
+          "name": "36氪",
+          "url": "https://www.36kr.com/newsflashes/3842558673242628"
+        }
+      ]
+    },
+    {
+      "title": "韩资持续买入中国硬科技",
+      "summary": "韩国投资者持续买入中国硬科技资产，反映国际资本对中国科技产业的信心。这一趋势与中国科技实力的提升和国际竞争力的增强密切相关，也将促进中韩科技合作与交流。国际资本的流入将为中国硬科技企业提供更多发展机遇，加速科技创新和产业升级。",
+      "reason": "国际资本持续流入中国硬科技，反映国际信心",
+      "impact_areas": [
+        "科技",
+        "经济",
+        "国际关系"
+      ],
+      "impact_level": "重大",
+      "sources": [
+        {
+          "name": "36氪",
+          "url": "https://www.36kr.com/newsflashes/3842433670941190"
+        }
+      ]
+    },
+    {
+      "title": "比特币突破61000美元",
+      "summary": "比特币价格升破61000美元，日内涨0.34%，创下近期新高。这一走势反映加密货币市场情绪回暖，也表明投资者对数字资产的信心有所恢复。比特币价格的波动将对相关产业链产生影响，包括矿工、交易所、支付服务等环节，同时也可能影响传统金融市场的稳定。",
+      "reason": "比特币价格突破关键点位，反映加密货币市场情绪",
+      "impact_areas": [
+        "经济金融",
         "科技"
       ],
       "impact_level": "重大",
       "sources": [
         {
-          "name": "GitHub Trending",
-          "url": "https://github.com/openai/whisper"
+          "name": "36氪",
+          "url": "https://www.36kr.com/newsflashes/3842435675932928"
         }
       ]
     }
   ],
-  "total_fetched": 171,
-  "generated_at": "2026-06-07T07:27:01.147997+08:00"
+  "total_fetched": 238,
+  "generated_at": "2026-06-07T12:29:33.581043+08:00"
 }
