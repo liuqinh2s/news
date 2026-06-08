@@ -2,33 +2,138 @@
   "date": "2026-06-08",
   "news": [
     {
-      "title": "以伊冲突升级",
-      "summary": "以色列对伊朗发动空袭，美官员称美军未参与此次行动。此前伊朗已对以色列发动导弹袭击，这是自四月停火以来的首次互袭。冲突升级引发国际社会担忧，可能导致中东地区局势进一步动荡，影响全球能源市场稳定。",
-      "reason": "多源密集报道的地缘政治热点，可能引发全球能源市场波动。",
+      "title": "习近平访问朝鲜",
+      "summary": "中国国家主席习近平于6月8日抵达平壤，对朝鲜进行国事访问，这是时隔7年后再次访朝。访问期间，习近平与朝鲜领导人金正恩举行会谈，双方就双边关系、地区及国际形势等议题深入交换意见。此次访问被视为中朝关系回暖的重要信号，可能对朝鲜半岛局势产生积极影响。中方强调在朝鲜半岛问题上的立场和政策保持连续性、稳定性。",
+      "reason": "时隔七年再访朝鲜，中朝高层互动引发国际关注，可能影响地区格局",
       "impact_areas": [
         "政治",
-        "经济金融"
+        "外交"
       ],
       "impact_level": "重大",
       "sources": [
         {
-          "name": "凤凰网",
-          "url": "https://news.ifeng.com/c/8tmmgtm0R60"
-        },
-        {
           "name": "财新网",
-          "url": "https://database.caixin.com/2026-06-08/102451938.html"
+          "url": "https://photos.caixin.com/2026-06-08/102452111.html"
         },
         {
-          "name": "NYTimes",
-          "url": "https://www.nytimes.com/2026/06/07/world/middleeast/iran-israel-missiles.html"
+          "name": "澎湃新闻",
+          "url": "https://m.thepaper.cn/detail/33334348"
+        },
+        {
+          "name": "凤凰网",
+          "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTFBIbEZTcF9fX1FTcTJKcXlqamN4bTRpWWtiXzdKUlAxMTNTZVRobkpZS1BZa2E5NENVVE5hT3V3TVFtQ0hHUFJ1T0pNbHc?oc=5"
         }
       ]
     },
     {
-      "title": "习近平访朝",
-      "summary": "习近平抵达平壤，开始对朝鲜进行国事访问。此次访问是两国关系发展的重要时刻，BBC报道称这是\"友谊或 leverage\"的互动。访问期间，双方将讨论双边关系、地区及国际问题，可能对朝鲜半岛局势产生重要影响。",
-      "reason": "国家元首外交活动，影响东亚地缘政治格局。",
+      "title": "伊以冲突升级",
+      "summary": "伊朗与以色列冲突近日急剧升级，伊朗袭击以色列引发新一轮军事冲突，美伊以停火协议岌岌可危。以色列对贝鲁特郊区发动袭击，与真主党冲突加剧。伊朗指责美国为最新与以色列的交火负责，伊朗首席谈判官威胁美国目标。冲突已导致地区局势紧张，全球金融市场震荡，科技股普遍下跌。国际社会呼吁各方保持克制，避免局势进一步恶化。",
+      "reason": "中东局势急剧升级，引发全球金融市场震荡，地缘政治风险上升",
+      "impact_areas": [
+        "政治",
+        "经济金融",
+        "地缘"
+      ],
+      "impact_level": "重大",
+      "sources": [
+        {
+          "name": "财新网",
+          "url": "https://international.caixin.com/2026-06-08/102452045.html"
+        },
+        {
+          "name": "Reuters",
+          "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNZWhTUXlxMHY0ZC1tTERXbkpUZ2NWUlRjSDVWQlBtVEw3SHV5S2RhV2sxakpIUWUzNzVZZnpBcUhaWjVvVnNZWXQtaFBkNXBSVldCNG9OTW5DdHo0c2tKR0VLWlVTbTJ0dHVZbzVLa0VMR2dha0ZDc0pLQkY0UWtMMnVoM29raUI4ZURlLUh3b1ZkN0xxZVQ1WGFxN1dhWFMzZHNiZQ?oc=5"
+        },
+        {
+          "name": "NYTimes",
+          "url": "https://www.nytimes.com/live/2026/06/08/world/iran-israel-lebanon-attacks"
+        }
+      ]
+    },
+    {
+      "title": "菲律宾强震",
+      "summary": "菲律宾南部地区发生7.8级强烈地震，已造成至少32人死亡，海啸活动仍在持续。地震引发当地居民恐慌，救援工作正在进行中。此次地震是菲律宾近年来最严重的自然灾害之一，对当地基础设施和居民生活造成严重影响。国际社会已表示愿意提供援助，帮助灾区应对灾害挑战。",
+      "reason": "7.8级强震造成重大人员伤亡，海啸警报持续，国际社会关注",
+      "impact_areas": [
+        "社会",
+        "生态"
+      ],
+      "impact_level": "重大",
+      "sources": [
+        {
+          "name": "澎湃新闻",
+          "url": "https://m.thepaper.cn/detail/33334961"
+        },
+        {
+          "name": "财新网",
+          "url": "https://international.caixin.com/2026-06-08/102452002.html"
+        },
+        {
+          "name": "BBC",
+          "url": "https://www.bbc.com/news/articles/clyel78e6p5o?at_medium=RSS&at_campaign=rss"
+        }
+      ]
+    },
+    {
+      "title": "科技股遭遇黑色星期一",
+      "summary": "受监管提示叠加外盘寒流影响，A股科技股6月8日遭遇\"黑色星期一\"，市场恐慌情绪蔓延。科技板块普遍下跌，部分个股跌幅超过5%。分析人士认为，这反映了投资者对科技行业监管政策变化的担忧，以及对全球经济前景的谨慎态度。此次下跌可能对科技企业的融资环境和估值产生深远影响。",
+      "reason": "监管提示叠加外盘影响，科技股集体大跌，反映市场情绪变化",
+      "impact_areas": [
+        "经济金融",
+        "科技"
+      ],
+      "impact_level": "重大",
+      "sources": [
+        {
+          "name": "财新网",
+          "url": "https://finance.caixin.com/2026-06-08/102452090.html"
+        }
+      ]
+    },
+    {
+      "title": "三峡水运新通道开工",
+      "summary": "三峡水运新通道于6月8日正式开工，这一重大水利工程将实现通江达海的战略目标。新通道预计将于9月正式通航，建成后将成为连接长江与沿海的重要水运通道，大幅提升长江航运能力。项目总投资超过千亿元，将创造大量就业机会，促进区域经济发展，对优化中国物流格局具有重要意义。",
+      "reason": "重大水利工程开工，9月将正式通航，提升长江航运能力",
+      "impact_areas": [
+        "经济金融",
+        "科技"
+      ],
+      "impact_level": "重大",
+      "sources": [
+        {
+          "name": "澎湃新闻",
+          "url": "https://m.thepaper.cn/detail/33331693"
+        },
+        {
+          "name": "澎湃新闻",
+          "url": "https://m.thepaper.cn/detail/33334388"
+        }
+      ]
+    },
+    {
+      "title": "AI开始自主开发AI",
+      "summary": "最新科技进展显示，AI系统已开始自主开发设计新的AI模型，这一突破性进展引发业界广泛关注。专家表示，这标志着AI发展进入新阶段，可能加速技术创新，但也带来安全和伦理挑战。腾讯等科技巨头已宣布面向开发者提供接入微信AI生态能力，推动AI技术在各行业的应用。这一趋势将对未来科技产业格局产生深远影响。",
+      "reason": "AI技术实现自我迭代，科技巨头布局AI生态，引领产业变革",
+      "impact_areas": [
+        "科技",
+        "产业"
+      ],
+      "impact_level": "重大",
+      "sources": [
+        {
+          "name": "南方周末",
+          "url": "https://www.infzm.com/contents/323298"
+        },
+        {
+          "name": "澎湃新闻",
+          "url": "https://m.thepaper.cn/detail/33334466"
+        }
+      ]
+    },
+    {
+      "title": "中朝领导人会谈",
+      "summary": "中国国家主席习近平与朝鲜领导人金正恩于6月8日举行会谈，双方就双边关系、地区及国际形势等议题深入交换意见。习近平强调中方在朝鲜半岛问题上的立场和政策保持连续性、稳定性，金正恩则感谢中方长期以来对朝鲜的支持。会谈期间，双方还出席了欢迎仪式等外交活动，展现了中朝关系的积极发展态势。",
+      "reason": "中朝高层互动频繁，双边关系回暖，地区局势受关注",
       "impact_areas": [
         "政治",
         "外交"
@@ -37,58 +142,34 @@
       "sources": [
         {
           "name": "澎湃新闻",
-          "url": "https://m.thepaper.cn/detail/33332198"
+          "url": "https://m.thepaper.cn/detail/33334348"
         },
         {
-          "name": "BBC",
-          "url": "https://www.bbc.com/news/articles/cdep497r256o"
+          "name": "凤凰网",
+          "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTFBIbEZTcF9fX1FTcTJKcXlqamN4bTRpWWtiXzdKUlAxMTNTZVRobkpZS1BZa2E5NENVVE5hT3V3TVFtQ0hHUFJ1T0pNbHc?oc=5"
         }
       ]
     },
     {
-      "title": "菲律宾强震",
-      "summary": "菲律宾突发强震，多地基础设施严重受损，警察局大楼出现多处裂缝，学校停课。当地发布\"危险海啸\"警告，民众在睡梦中被警报惊醒。地震造成建筑物直接坍塌，民众尖叫逃窜。这是菲律宾近年来最严重的地震之一，可能造成重大人员伤亡和经济损失。",
-      "reason": "重大自然灾害，影响当地基础设施和民生。",
+      "title": "对外投资新规出台",
+      "summary": "中国出台新的对外投资规定，强调与世界同步立法，规范企业海外投资行为。新规旨在提高对外投资的质量和效益，防范风险，促进对外投资健康有序发展。分析人士认为，这将对中国企业\"走出去\"战略产生深远影响，可能改变海外投资格局，同时也回应了国际社会对中国投资的关切。",
+      "reason": "对外投资新规出台，与世界同步立法，规范企业海外投资行为",
       "impact_areas": [
-        "社会",
-        "生态"
+        "经济金融",
+        "政治"
       ],
       "impact_level": "重大",
       "sources": [
         {
-          "name": "凤凰网",
-          "url": "https://news.ifeng.com/c/8tmlMD8CCPe"
-        },
-        {
-          "name": "凤凰网",
-          "url": "https://news.ifeng.com/c/8tmmDmD02Ay"
-        },
-        {
-          "name": "NYTimes",
-          "url": "https://www.nytimes.com/2026/06/07/world/asia/hilippines-earthquake-tsunami-warning.html"
+          "name": "财新网",
+          "url": "https://opinion.caixin.com/2026-06-08/102452038.html"
         }
       ]
     },
     {
-      "title": "AI资源消耗",
-      "summary": "随着AI技术快速发展，其背后巨大的能源消耗和资源需求引发关注。AI训练和运行需要大量电力和计算资源，对环境造成显著影响。专家指出，AI发展需要平衡技术创新与可持续发展，寻找更环保的计算方法和能源来源成为行业重要课题。",
-      "reason": "科技类新闻，探讨AI发展的环境影响，具有长远意义。",
-      "impact_areas": [
-        "科技",
-        "生态"
-      ],
-      "impact_level": "重大",
-      "sources": [
-        {
-          "name": "澎湃新闻",
-          "url": "https://m.thepaper.cn/detail/33331619"
-        }
-      ]
-    },
-    {
-      "title": "城市更新规划",
-      "summary": "住建部发布城市更新\"十五五\"规划，提出10项主要指标和23项重点任务。规划强调存量优先供地导向，经营性项目优先使用存量用地。这标志着中国城市发展模式从增量扩张向存量优化的转变，将对未来城市建设和房地产市场产生深远影响。",
-      "reason": "国家层面政策调整，影响城市发展和房地产市场格局。",
+      "title": "十五五城市更新规划",
+      "summary": "国家四部委详解\"十五五\"城市更新重点，明确未来五年城市更新的方向和目标。规划强调以人为核心，推进城市有机更新，改善人居环境，提升城市功能。资金来源方面，将创新投融资机制，鼓励社会资本参与。专家认为，这将推动中国城市发展模式转型，对房地产市场和城市建设产生深远影响。",
+      "reason": "十五五城市更新规划明确，四部委详解重点方向和资金来源",
       "impact_areas": [
         "经济金融",
         "社会"
@@ -96,103 +177,28 @@
       "impact_level": "重大",
       "sources": [
         {
-          "name": "澎湃新闻",
-          "url": "https://m.thepaper.cn/detail/33331903"
-        },
-        {
-          "name": "36氪",
-          "url": "https://www.36kr.com/newsflashes/3843943798229506"
-        },
-        {
-          "name": "36氪",
-          "url": "https://www.36kr.com/newsflashes/3843938540603650"
-        }
-      ]
-    },
-    {
-      "title": "央行增持黄金",
-      "summary": "财新网报道，央行连续数月增持黄金储备，单月增持量创历史新高。这一趋势反映全球央行加速去美元化，寻求资产多元化。黄金作为传统避险资产，在当前地缘政治紧张和全球经济不确定性增加的背景下，其战略地位进一步提升。",
-      "reason": "金融政策信号，反映全球去美元化趋势加速。",
-      "impact_areas": [
-        "经济金融"
-      ],
-      "impact_level": "重大",
-      "sources": [
-        {
           "name": "财新网",
-          "url": "https://opinion.caixin.com/2026-06-08/102451958.html"
+          "url": "https://economy.caixin.com/2026-06-08/102451989.html"
         }
       ]
     },
     {
-      "title": "高考数学难",
-      "summary": "高考\"数学难\"话题登上热搜，引发社会广泛讨论。专家分析认为，这标志着传统刷题时代的落幕，教育评价体系正在向能力导向转变。这一变化将对未来教育发展方向产生深远影响，促使学校和教师调整教学策略，学生转变学习方法。",
-      "reason": "教育领域重大变化，影响社会教育观念。",
-      "impact_areas": [
-        "教育",
-        "社会"
-      ],
-      "impact_level": "重大",
-      "sources": [
-        {
-          "name": "财新网",
-          "url": "https://opinion.caixin.com/2026-06-08/102451952.html"
-        }
-      ]
-    },
-    {
-      "title": "英伟达合作",
-      "summary": "英伟达和SK海力士签署多年协议，联手开发未来几代AI芯片。这一合作将加速AI芯片技术创新，影响全球AI产业格局。作为AI芯片领域的领导者，英伟达的此次合作将进一步巩固其在AI硬件领域的优势地位，同时推动韩国半导体产业升级。",
-      "reason": "科技巨头合作，影响AI芯片产业格局。",
-      "impact_areas": [
-        "科技",
-        "产业"
-      ],
-      "impact_level": "重大",
-      "sources": [
-        {
-          "name": "财新网",
-          "url": "https://database.caixin.com/2026-06-08/102451899.html"
-        }
-      ]
-    },
-    {
-      "title": "伊朗袭击以色列",
-      "summary": "伊朗对以色列发动导弹袭击，这是自四月停火以来的首次。袭击导致停火协议岌岌可危，可能引发中东地区新一轮冲突。国际社会呼吁各方保持克制，避免局势进一步升级。此次袭击将对全球能源市场产生重要影响，可能推高油价。",
-      "reason": "地缘政治热点，影响全球能源市场稳定。",
-      "impact_areas": [
-        "政治",
-        "经济金融"
-      ],
-      "impact_level": "重大",
-      "sources": [
-        {
-          "name": "财新网",
-          "url": "https://database.caixin.com/2026-06-08/102451900.html"
-        },
-        {
-          "name": "NYTimes",
-          "url": "https://www.nytimes.com/2026/06/07/world/middleeast/iran-israel-missiles.html"
-        }
-      ]
-    },
-    {
-      "title": "存量优先供地",
-      "summary": "自然资源部明确表示，坚持存量优先供地导向，经营性项目优先使用存量用地。这一政策将影响未来土地供应结构，促使城市从增量扩张向存量优化转变。对房地产市场而言，这意味着土地供应将更加注重效率和质量，而非单纯的数量扩张。",
-      "reason": "国家土地政策调整，影响房地产市场发展方向。",
+      "title": "德企风险报告警示",
+      "summary": "最新报告显示，德国中小企业将官僚主义和能源成本视为最大风险，反映了当前欧洲经济面临的挑战。报告指出，德国作为欧洲经济引擎，其中小企业状况对整个欧元区具有重要影响。分析人士认为，这表明欧洲经济复苏仍面临诸多不确定性，可能对全球经济产生连锁反应。",
+      "reason": "德国中小企业风险报告揭示欧洲经济面临的结构性挑战",
       "impact_areas": [
         "经济金融",
-        "社会"
+        "地缘"
       ],
       "impact_level": "重大",
       "sources": [
         {
-          "name": "36氪",
-          "url": "https://www.36kr.com/newsflashes/3843938540603650"
+          "name": "Reuters",
+          "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxONTdQc2ppQjJ4cmdqeFdseWR4UE9PVjNSTU80TGQtTmNXTG5pV0ZQbDl6elQ4OUJxVTRPRF9wSWdTeEdmZmJsUWFVVjFEdFNqZUVGSHFCUzVHRmk5RWJJd1pwR3lDRWRxWjVpSmw0ZTJ1aXh2dUQ4Y21BZFdPOHcyZS1jS2hHOF82R0JiZWZQcklSN3pmSTljTE84XzR5aFFjdFpXcTF4UzN5VWpHN1R1UDhZTmNVaVNt?oc=5"
         }
       ]
     }
   ],
-  "total_fetched": 291,
-  "generated_at": "2026-06-08T12:29:00.121487+08:00"
+  "total_fetched": 321,
+  "generated_at": "2026-06-08T19:27:42.783283+08:00"
 }
