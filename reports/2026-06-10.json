@@ -3,42 +3,41 @@
   "news": [
     {
       "title": "美伊冲突升级",
-      "summary": "美国对伊朗发动报复性打击，回应此前伊朗击落美军直升机事件。特朗普证实美军已开始对伊朗实施打击，伊朗霍尔木兹甘省部分地区发生爆炸。超160艘油轮滞留波斯湾，海事组织警告勿涉险闯关。伊朗官员表示武装部队已做好应对任何侵略的准备。这一冲突升级可能导致中东地区局势进一步紧张，影响全球能源供应安全。",
-      "reason": "多平台多源报道的美伊军事冲突，热度极高，可能影响全球能源格局。",
+      "summary": "美国对伊朗发动\"自卫性\"军事打击，回应此前伊朗击落美军阿帕奇直升机事件。多国媒体报道，以色列同时对黎巴嫩南部城市提尔发动空袭，尽管伊朗已警告停止攻击。美伊冲突升级引发国际社会担忧，油价大幅上涨，黄金价格波动。特朗普政府表示此举旨在保护美国利益，但淡化军事升级风险。",
+      "reason": "中东地缘政治危机升级，多国军事行动引发全球关注",
       "impact_areas": [
         "政治",
-        "地缘",
         "经济金融"
       ],
-      "impact_level": "现象级",
+      "impact_level": "重大",
       "sources": [
         {
           "name": "澎湃新闻",
-          "url": "https://m.thepaper.cn/detail/33346985"
-        },
-        {
-          "name": "澎湃新闻",
-          "url": "https://m.thepaper.cn/detail/33346782"
-        },
-        {
-          "name": "澎湃新闻",
-          "url": "https://m.thepaper.cn/detail/33346803"
+          "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1Pd2Fod1RKdGxfaVFkX2plZzJoUU5VcTM4a1pDbFMtMHpmY0RwVXZvYnVjMkkyUHduSzNxYkZyMkFIcWRIa3JaSHdHUXdLeFJ6c1VNdEdsaF9DQ1o1cmc?oc=5"
         },
         {
           "name": "凤凰网",
-          "url": "https://news.ifeng.com/c/8tphDuerdju"
+          "url": "https://news.ifeng.com/c/8tq3SJCc0lq"
         },
         {
           "name": "凤凰网",
-          "url": "https://news.ifeng.com/c/8tpYoT1PdPy"
+          "url": "https://news.ifeng.com/c/8tq2oyXsNDj"
         },
         {
           "name": "凤凰网",
-          "url": "https://news.ifeng.com/c/8tpRekclF1V"
+          "url": "https://news.ifeng.com/c/8tq2f02mk4u"
         },
         {
-          "name": "凤凰网",
-          "url": "https://news.ifeng.com/c/8tpMjukWo5z"
+          "name": "财新网",
+          "url": "https://database.caixin.com/2026-06-10/102452705.html"
+        },
+        {
+          "name": "财新网",
+          "url": "https://database.caixin.com/2026-06-10/102452703.html"
+        },
+        {
+          "name": "财新网",
+          "url": "https://international.caixin.com/2026-06-10/102452677.html"
         },
         {
           "name": "BBC",
@@ -47,13 +46,123 @@
         {
           "name": "BBC",
           "url": "https://www.bbc.com/news/articles/c36y16nkr5no?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "name": "Reuters",
+          "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPSFpOSmRHQ0lRam5iYVdOUHF5dF9rOTZha3haNDBzZ0RxVmNBWU1ZQ053ZVZEVkstZ1JvakRkb2NIaHBCbDRNSlVVNUViNmpsRU5HN0Fab0xER09QNnF5Y0VaOVYzNnJPT3JodFp3amlYX2FJUG43bVhWbjFfN1ZEaUV5V3BBTHMxclRCY0l5d0VVOXNxTFRaNmJnZmlQNXFhM2JLRDZzeVAwV1g1LVHoNUlmREozR294aGkjZEJvZUFWUG5IREpn?oc=5"
         }
       ]
     },
     {
-      "title": "NASA公布登月宇航员",
-      "summary": "美国国家航空航天局(NASA)公布了\"阿耳忒弥斯3号\"任务的宇航员名单，这是自1972年阿波罗17号任务以来首次重返月球的载人任务。该任务计划将首位女性和首位有色人种送上月球表面，标志着人类太空探索进入新阶段。这一任务的成功将推动月球基地建设，并为未来火星探索奠定基础，对全球航天产业和科技发展产生深远影响。",
-      "reason": "NASA公布登月任务宇航员名单，是人类太空探索的重要里程碑。",
+      "title": "AI领域持续突破",
+      "summary": "AI领域持续取得突破，Anthropic发布Mythos模型公开版Claude Fable 5，OpenAI据悉正在洽谈租赁俄亥俄州10GW数据中心用于AI发展。智元科技宣布\"元苼生态发展计划\"，计划五年投入20亿元。赛力斯成立新品牌赛豆科技引入豆包AI，开启去华为化自救。阿里被曝欲让DeepSeek融入生态遭拒，钉钉前员工反思产品目的不清。AI技术正撑起中国出口增速\"半边天\"，显示其在国际贸易中的重要性日益提升。",
+      "reason": "AI技术持续突破，多家科技巨头发布新模型和战略布局",
+      "impact_areas": [
+        "科技",
+        "经济金融"
+      ],
+      "impact_level": "重大",
+      "sources": [
+        {
+          "name": "财新网",
+          "url": "https://www.caixin.com/2026-06-10/102452682.html"
+        },
+        {
+          "name": "财新网",
+          "url": "https://opinion.caixin.com/2026-06-10/102452694.html"
+        },
+        {
+          "name": "BBC",
+          "url": "https://www.bbc.com/news/articles/ckg701v1dp6o?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "name": "36氪",
+          "url": "https://www.36kr.com/newsflashes/3846798425180419"
+        },
+        {
+          "name": "36氪",
+          "url": "https://www.36kr.com/newsflashes/3846737561012742"
+        },
+        {
+          "name": "虎嗅",
+          "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFA1eDBOYmZzSEp4cllENFFELW9IcVRJYTJrTTUwS25LSXRYSUk4LVNialVnWnpucE5BTUQ1SUgzN2FmcXZJUVhjSzh0VTA1U0hMYVE?oc=5"
+        },
+        {
+          "name": "虎嗅",
+          "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9PXzM2R0RCQmdHTGNsRzFkc0FPcGxoSVNNUk1WWUQ2LXRUdUoyeVNMVUVxLWJpV2hEZVNkemFMMi0xdjFuczNUcnh1QzVTVzU4VHJTdw?oc=5"
+        },
+        {
+          "name": "少数派",
+          "url": "https://sspai.com/post/110925"
+        }
+      ]
+    },
+    {
+      "title": "5月经济数据出炉",
+      "summary": "5月经济数据显示CPI同比涨幅持平，PPI涨幅扩大，上下游价格继续分化。财新调查显示PPI同比涨幅或进一步扩大，CPI同比表现也将微升。今日A股市场双双低开，沪指跌幅0.62%，深成指和创业板指均跌超2%，全市场超4300股飘绿。恒指午间休盘跌1.1%，恒生科技指数跌1.69%。前5月居民境外收入补税约130亿元，显示跨境税务监管加强。半日主力资金加仓基础化工股，抛售电子股，反映市场板块轮动明显。",
+      "reason": "5月经济数据出炉，CPI与PPI走势分化，A股市场承压",
+      "impact_areas": [
+        "经济金融"
+      ],
+      "impact_level": "重大",
+      "sources": [
+        {
+          "name": "财新网",
+          "url": "https://economy.caixin.com/2026-06-10/102452728.html"
+        },
+        {
+          "name": "财新网",
+          "url": "https://economy.caixin.com/2026-06-10/102452690.html"
+        },
+        {
+          "name": "财新网",
+          "url": "https://finance.caixin.com/2026-06-10/102452695.html"
+        },
+        {
+          "name": "36氪",
+          "url": "https://www.36kr.com/newsflashes/3846835457313288"
+        },
+        {
+          "name": "36氪",
+          "url": "https://www.36kr.com/newsflashes/3846826439789061"
+        },
+        {
+          "name": "36氪",
+          "url": "https://www.36kr.com/newsflashes/3846819591112967"
+        },
+        {
+          "name": "36氪",
+          "url": "https://www.36kr.com/newsflashes/3846748237023488"
+        }
+      ]
+    },
+    {
+      "title": "黄金价格大幅下跌",
+      "summary": "黄金价格大幅下跌，现货黄金日内跌幅扩大至2%。财新网分析指出，流动性预期校准导致黄金市场出现四大变化。美伊冲突升级引发通胀担忧，但市场避险情绪反而减弱，导致黄金价格下跌。分析师认为，这一变化反映了投资者对地缘政治风险的重新评估，以及美联储政策预期的影响。黄金作为传统避险资产的表现变化，可能预示着市场风险偏好的转变。",
+      "reason": "黄金价格大幅下跌，伊朗局势引发市场避险情绪变化",
+      "impact_areas": [
+        "经济金融"
+      ],
+      "impact_level": "重大",
+      "sources": [
+        {
+          "name": "财新网",
+          "url": "https://opinion.caixin.com/2026-06-10/102452739.html"
+        },
+        {
+          "name": "财新网",
+          "url": "https://database.caixin.com/2026-06-10/102452709.html"
+        },
+        {
+          "name": "36氪",
+          "url": "https://www.36kr.com/newsflashes/3846772913506569"
+        }
+      ]
+    },
+    {
+      "title": "中外航天领域取得新突破",
+      "summary": "中国航天科技取得新突破，朱雀二号改进型遥六成功发射\"一箭双星\"，搭载3D打印技术和自研装置。与此同时，NASA公布阿尔忒弥斯月球计划宇航员名单，为未来登月任务做准备。中外航天领域的这些进展，展示了人类探索太空的持续努力，以及航天技术的快速发展。朱雀二号的成功发射标志着中国商业航天能力的进一步提升，而NASA的阿尔忒弥斯计划则代表了美国重返月球的战略决心。",
+      "reason": "中外航天领域取得新突破，朱雀二号成功发射，NASA公布阿尔忒弥斯计划宇航员名单",
       "impact_areas": [
         "科技",
         "政治"
@@ -61,8 +170,8 @@
       "impact_level": "重大",
       "sources": [
         {
-          "name": "澎湃新闻",
-          "url": "https://m.thepaper.cn/detail/33346453"
+          "name": "央视网",
+          "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5JZUZzdm9pXzZub3hwSU03OUxCREZRMVE2YmprdXktQklLdm9GUFR5VUM1RllIUGktWWczUXd2VnhlUGlodV92dlVhbG9TZzBpSmt3b2JBYkc1QXFXUFRPYlhrZ3hfZF9oT2RFWVB6S1Q3c3M3MGx5Tw?oc=5"
         },
         {
           "name": "BBC",
@@ -71,9 +180,9 @@
       ]
     },
     {
-      "title": "350亿美元AI平台设立",
-      "summary": "芯片巨头博通联合私募股权公司阿波罗和黑石共同设立AI XPV平台，首期规模达350亿美元，专门支持AI公司Anthropic的算力扩张。这一合作反映了大型资本对AI领域的持续投入，显示AI产业正迎来新一轮投资热潮。Anthropic作为OpenAI的主要竞争对手，其获得大规模资金支持将进一步加速AI技术研发，可能改变全球AI竞争格局。",
-      "reason": "芯片巨头联合私募设立350亿美元AI平台，反映AI产业投资热潮。",
+      "title": "新能源和算力领域布局",
+      "summary": "多家企业加速布局新能源和算力领域。通用汽车宣布计划开发钠离子电池，寻求在电动汽车电池技术上的突破。林洋能源在雄安成立算力技术公司，注册资本2亿元，显示传统能源企业向数字经济转型的趋势。Meta与安巴尼旗下的信实集团合作，在印度建设人工智能数据中心，投资规模巨大。这些举措反映了全球企业对新能源和AI技术的重视，以及相关领域的激烈竞争格局。钠离子电池技术的突破可能改变电动汽车行业的竞争态势，而大型AI数据中心的建设将进一步推动人工智能技术的发展和应用。",
+      "reason": "多家企业布局新能源和算力领域，通用汽车开发钠离子电池，Meta在印度建设AI数据中心",
       "impact_areas": [
         "科技",
         "经济金融"
@@ -82,62 +191,22 @@
       "sources": [
         {
           "name": "36氪",
-          "url": "https://www.36kr.com/newsflashes/3846100167313667"
-        }
-      ]
-    },
-    {
-      "title": "特朗普AI行政令解析",
-      "summary": "特朗普政府发布新的AI行政令，对AI研发和应用提出新要求。该行政令强调AI安全与创新的平衡，要求AI公司在开发高风险AI系统前进行安全评估，同时简化AI产品的审批流程。分析人士认为，这一行政令可能是特朗普政府科技政策路线的转向，也可能是为应对AI快速发展而采取的短期妥协。无论哪种情况，都将对美国乃至全球AI发展产生深远影响。",
-      "reason": "特朗普AI行政令解读，反映美国AI政策重大变化。",
-      "impact_areas": [
-        "科技",
-        "政治"
-      ],
-      "impact_level": "重大",
-      "sources": [
-        {
-          "name": "虎嗅",
-          "url": "https://www.huxiu.com/article/4865887.html"
-        }
-      ]
-    },
-    {
-      "title": "中方回应美方技术打压",
-      "summary": "针对美方对中国技术企业的打压行为，中方作出强硬回应，强调将采取必要措施维护中国企业合法权益。中方指出，美方以国家安全为名行保护主义之实，违背市场经济原则和国际贸易规则，不利于全球科技合作与创新。这一表态显示中美科技竞争进一步加剧，可能影响全球科技产业链布局和跨国企业战略。",
-      "reason": "中美科技竞争升级，中方强硬回应美方技术打压。",
-      "impact_areas": [
-        "政治",
-        "科技",
-        "经济金融"
-      ],
-      "impact_level": "重大",
-      "sources": [
-        {
-          "name": "财新网",
-          "url": "https://finance.caixin.com/2026-06-10/102452658.html"
-        }
-      ]
-    },
-    {
-      "title": "黄金ETF规模缩水",
-      "summary": "近期金价调整导致黄金相关ETF规模大幅缩水，市场避险情绪降温。业内人士分析，尽管短期金价波动，但黄金作为避险资产和通胀对冲工具的长期结构性支撑力量依然存在。这一现象反映了市场对全球经济前景和通胀预期的变化，可能影响投资者资产配置策略和黄金市场走势。",
-      "reason": "金价调整导致黄金ETF规模缩水，反映市场避险情绪变化。",
-      "impact_areas": [
-        "经济金融"
-      ],
-      "impact_level": "重大",
-      "sources": [
+          "url": "https://www.36kr.com/newsflashes/3846749451749636"
+        },
         {
           "name": "36氪",
-          "url": "https://www.36kr.com/newsflashes/3846532981016835"
+          "url": "https://www.36kr.com/newsflashes/3846750053403137"
+        },
+        {
+          "name": "36氪",
+          "url": "https://www.36kr.com/newsflashes/3846756486793728"
         }
       ]
     },
     {
-      "title": "硬科技港股IPO热潮",
-      "summary": "今年硬科技企业领跑港股IPO市场，融资总额已超1765亿港元，创历史新高。这一趋势反映了投资者对科技创新企业的青睐，以及香港作为国际金融中心对科技企业的吸引力。硬科技企业的密集上市将推动港股市场结构优化，提升香港在全球科技融资中的地位，同时也为科技创新提供更多资金支持。",
-      "reason": "硬科技领跑港股IPO，融资超1765亿港元，反映科技投资热潮。",
+      "title": "汽车和消费品行业格局生变",
+      "summary": "汽车和消费品行业格局正在发生显著变化。华为正式推出智界RX超跑SUV，显示其在高端汽车市场的野心。赛力斯成立新品牌赛豆科技引入豆包AI，开启去华为化自救之路，反映汽车行业智能化转型的加速。与此同时，消费品行业也出现新动向，喜茶、蜜雪冰城、柠季等新茶饮品牌纷纷布局冰淇淋赛道，可能导致市场竞争加剧。这些变化表明，传统行业正在经历数字化转型和跨界竞争，企业需要不断创新以保持竞争力。",
+      "reason": "汽车和消费品行业格局生变，华为推出超跑SUV，多家新茶饮品牌布局冰淇淋赛道",
       "impact_areas": [
         "经济金融",
         "科技"
@@ -146,30 +215,26 @@
       "sources": [
         {
           "name": "36氪",
-          "url": "https://www.36kr.com/newsflashes/3846531354675456"
-        }
-      ]
-    },
-    {
-      "title": "医保跨省共济政策解读",
-      "summary": "人民日报发表政策解读文章，详细解释医保跨省共济政策，旨在让医保个账资金成为\"家庭健康金\"。新政策允许参保人员在跨省就医时直接结算，简化异地就医流程，提高医保资金使用效率。这一政策将惠及大量异地工作、就医人群，提升医疗保障公平性和可及性，对完善我国医疗保障体系具有重要意义。",
-      "reason": "医保跨省共济政策解读，将惠及大量异地工作就医人群。",
-      "impact_areas": [
-        "社会",
-        "公共卫生"
-      ],
-      "impact_level": "重大",
-      "sources": [
+          "url": "https://www.36kr.com/newsflashes/3846830924368393"
+        },
         {
-          "name": "澎湃新闻",
-          "url": "https://m.thepaper.cn/detail/33346940"
+          "name": "虎嗅",
+          "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFA1eDBOYmZzSEp4cllENFFELW9IcVRJYTJrTTUwS25LSXRYSUk4LVNialVnWnpucE5BTUQ1SUgzN2FmcXZJUVhjSzh0VTA1U0hMYVE?oc=5"
+        },
+        {
+          "name": "虎嗅",
+          "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBWdTdJMHNsYm9TTEFyazVuVFM0YWdYVXRKaHhJRE9XOGFjdG1NVm5hM0wwckJ2MnFmUGhqU19kcXh6T0c3ZEJsa3ktYy14R0ZsQlJvVw?oc=5"
+        },
+        {
+          "name": "虎嗅",
+          "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE00Z2JrRW5nb3c0cjJfb3BxTlZjclFUSGRjVkVpMjdmOFZuSFV1SndqMXBzM3JxcjRpMWJiX1JlUEFueXdWTF9jbUw5ZlRuV3BhbXhuUA?oc=5"
         }
       ]
     },
     {
-      "title": "六国制裁以色列定居者",
-      "summary": "六国宣布制裁参与约旦河西岸暴力事件的以色列定居者网络，这是国际社会对以色列定居者暴力行为的首次集体回应。制裁措施包括资产冻结、旅行禁令等，针对的是组织和资助定居者暴力的个人和实体。这一行动反映了国际社会对中东和平进程的关注，可能对以色列政府政策产生影响，同时也为解决巴以冲突提供了新的国际压力。",
-      "reason": "六国首次集体制裁以色列定居者网络，国际社会对巴以冲突的新回应。",
+      "title": "俄乌冲突持续",
+      "summary": "俄乌冲突持续升级，保加利亚宣布不再向乌克兰提供任何武器，显示西方国家对乌支持出现分化。与此同时，冲突外溢风险增加，无人机 stray into 邻国领空，引发周边国家担忧。这一局势发展可能改变欧洲安全格局，并对国际关系产生深远影响。保加利亚的决定可能引发其他西方国家重新评估对乌政策，而无人机波及周边国家则表明冲突的潜在影响范围正在扩大。",
+      "reason": "俄乌冲突持续，保加利亚停止对乌军援，无人机波及周边国家",
       "impact_areas": [
         "政治",
         "地缘"
@@ -177,36 +242,68 @@
       "impact_level": "重大",
       "sources": [
         {
-          "name": "央视网",
-          "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE56ZDFmWC1JQlBxZlNxcUhoRWVuV1dVWWRBcmgwSmFKUzJDZlhfbE03MlZtWF9YX01nTG85V1BIU1dZX2VmYmpKNUxPendtREUyN2VYdUVFOTA5Q0w5MVY0cnNUdlU5UDlnWFJhZHNXb21oZUhmR2VPMw?oc=5"
+          "name": "凤凰网",
+          "url": "https://news.ifeng.com/c/8tq7UR9Q1o7"
         },
         {
           "name": "BBC",
-          "url": "https://www.bbc.com/news/articles/cddl4dl9m3po?at_medium=RSS&at_campaign=rss"
-        },
-        {
-          "name": "Reuters",
-          "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNUmI5eEp1bjFDQWI4VVRhMVMzTTlCdWswU1FCb0tNQ0NuemJTUG5vSXl1UzZzVVF3ZS16QVNmcXY1Y2dZMl9ScFA3S3J0cWtqU3diOTRUdDNmTkRTQkk3d3R6UGN3Y1dwM2lpSUZuc3pseElkZW1PdEFaWVg4S2M4Q1dWYkhJT3ZFbTF5YnNMdkFwWmNMXy1uT1VqVjZDQXBmLUlDTlNkZ2Y3c2p2RC0wajd6b1JTcktrRmxlVm5xeU5qRlBYS0p1Yg?oc=5"
+          "url": "https://www.nytimes.com/2026/06/09/world/europe/russia-ukraine-drones-nato-lithuania-romania.html"
         }
       ]
     },
     {
-      "title": "全球造船订单攀升",
-      "summary": "全球市场造船订单持续攀升，创近年来新高。业内人士看好工程机械和船舶龙头企业，认为这一趋势反映了全球贸易复苏和航运需求增长。造船业的繁荣将带动相关产业链发展，包括钢铁、机械、电子等行业，同时也将影响全球航运格局和能源运输成本。长期来看，这一趋势可能与全球经济复苏和产业转移有关。",
-      "reason": "全球造船订单持续攀升，反映贸易复苏和航运需求增长。",
+      "title": "社会问题引发关注",
+      "summary": "社会问题引发广泛关注，包括家庭纠纷悲剧、药物滥用和生态安全等。一起离婚纠纷引发悲剧，女性两度起诉离婚未果后被丈夫扔下悬崖身亡，引发社会对家庭暴力和司法保护的讨论。同时，药物滥用问题在青少年群体中蔓延，成瘾青少年寻找下一个\"普瑞巴林\"等药物，形成隐蔽的药物滥用网络。此外，外来物种入侵问题也引发关注，一只外来蜗牛破坏植被、引发脑炎、北移西扩，对生态环境造成威胁。这些问题凸显了社会治理面临的挑战。",
+      "reason": "社会问题引发关注，离婚纠纷悲剧、药物滥用和外来物种入侵问题凸显",
       "impact_areas": [
-        "经济金融",
-        "产业"
+        "社会",
+        "生态"
+      ],
+      "impact_level": "重大",
+      "sources": [
+        {
+          "name": "南方周末",
+          "url": "https://www.infzm.com/contents/323451"
+        },
+        {
+          "name": "南方周末",
+          "url": "https://www.infzm.com/contents/323443"
+        },
+        {
+          "name": "南方周末",
+          "url": "https://www.infzm.com/contents/323439"
+        }
+      ]
+    },
+    {
+      "title": "科技企业战略调整",
+      "summary": "科技企业战略调整频繁，小鹏汽车CEO何小鹏发内部信，表示将亲自带队，在最后200天冲刺机器人量产，显示其对智能驾驶和机器人领域的重视。与此同时，钉钉AI产品负责人马锐拉官宣离职，引发市场对钉钉AI战略方向的关注。此外，SpaceX上市后，指数基金有望吞下三成流通股，可能放大股价波动风险。阿里被曝欲让DeepSeek融入生态遭拒，反映AI领域竞争激烈。这些变化表明，科技企业正在加速布局新兴领域，同时内部战略也在不断调整。",
+      "reason": "科技企业战略调整，何小鹏亲自带队冲刺机器人量产，钉钉AI负责人离职",
+      "impact_areas": [
+        "科技",
+        "经济金融"
       ],
       "impact_level": "重大",
       "sources": [
         {
           "name": "36氪",
-          "url": "https://www.36kr.com/newsflashes/3846107387677193"
+          "url": "https://www.36kr.com/newsflashes/3846848313543176"
+        },
+        {
+          "name": "36氪",
+          "url": "https://www.36kr.com/newsflashes/3846753323157766"
+        },
+        {
+          "name": "36氪",
+          "url": "https://www.36kr.com/newsflashes/3846829338904838"
+        },
+        {
+          "name": "虎嗅",
+          "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9PXzM2R0RCQmdHTGNsRzFkc0FPcGxoSVNNUk1WWUQ2LXRUdUoyeVNMVUVxLWJpV2hEZVNkemFMMi0xdjFuczNUcnh1QzVTVzU4VHJTdw?oc=5"
         }
       ]
     }
   ],
-  "total_fetched": 217,
-  "generated_at": "2026-06-10T07:28:40.959015+08:00"
+  "total_fetched": 274,
+  "generated_at": "2026-06-10T12:29:46.697367+08:00"
 }
