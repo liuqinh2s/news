@@ -1,4 +1,4 @@
-# 2026-06-11 原始新闻标题 (237 条)
+# 2026-06-11 原始新闻标题 (257 条)
 
 ## 新华社 (20 条)
 - Education, health fees among key concerns
@@ -22,52 +22,85 @@
 - Former Chongqing political official facing corruption investigation
 - Former Chongqing political official facing corruption investigation
 
-## 澎湃新闻 (12 条)
-- 毕业旅行迎首波高峰：多地景区对中高考生免票，机票酒店均价较暑期便宜一半
-- 人民日报谈《给阿嬷的情书》热映：唤醒文化里深藏的共鸣
-- AI冲击就业前景引发广泛讨论，专家热议“谁将真正受益于人机混合劳动力时代”？
-- 明查｜韩国“大规模抗议选举舞弊”？热传视频与近期事件无关
-- 人民日报和音：共同擘画中朝关系发展蓝图
-- 伊朗宣布对所有船只关闭霍尔木兹海峡
-- 远视储备、干眼、近视手术，眼科院长全解答｜健康有方FM
-- 美军称再次对伊朗目标实施“自卫性”打击
-- 伊朗多地传出爆炸声
-- 伊朗首都德黑兰西部响起防空警报
-- 伊朗：武力无法达成可持续协议，特朗普应停止威胁
-- 四川德阳一职业学院通报“原职工被指干预招投标”：已成立专项调查组
+## 澎湃新闻 (17 条)
+- 杜越华兼任上海外国语大学附属徐汇实验中学校长
+- 读书市场 | 微阅读·行走：石库门的昨天、今天和明天——《走进石库门》《打开老房子》《上海欢言》分享会
+- 尤肖虎院士：2030年将是6G商用元年，全球统一标准是大趋势
+- 向全球亿万富翁征税，联合国能做到吗
+- 安徽医科大学学术副校长增至4人：山东大学齐鲁医学院张澄到任
+- NBA｜29分大逆转！尼克斯险胜马刺，总决赛战至3比1
+- 上海道路停车收费优化方案公开征求意见：15分钟内免费，每自然日享受2次
+- 国家邮政局依法对极兔速递有限公司立案调查
+- 华兴证券董事长王力行因工作重心调整辞任，王志斌接棒
+- 我国成功从境外引渡一名组织他人偷越国（边）境犯罪嫌疑人
+- 苏州发文鼓励“见急勇为”：成功紧急施救，一次性奖励两千元
+- 北京市市场监管局约谈淘宝（天猫）、京东、拼多多、抖音、小红书5家电商平台
+- 李公明｜一周书记：在焦虑与低信任社会中……的“导师”是如何炼成的？
+- 西北工业大学回应“图书馆女厕偷拍事件”：涉事男生被留校察看
+- 农业农村部：东西部协作助西部500余万农村劳动力实现就业
+- 魔都眼｜中外商户早做准备，全天候迎接39天的世界杯商机
+- 澎湃早晚报｜早餐湃·钉钉的“内忧外患”
 
-## 凤凰网 (8 条)
-- 特朗普称一直运出石油而伊朗没发现
-- 美军开始空袭伊朗
-- 特朗普：控制霍尔木兹海峡的是美国，而不是伊朗
-- 以色列消息人士称内塔尼亚胡与特朗普保持密切沟通
-- 比尔·盖茨就与爱泼斯坦的关系作证，称会面是严重判断失误
-- 特朗普180度转狠，伊朗史诗级软硬不吃
-- 哥伦比亚调查与指控委员会成员否认暂停总统佩特罗职务
-- 足协高层确认，中国小将海外夺冠遭处罚为假消息
+## 凤凰网 (20 条)
+- 法德未来战机项目告吹，欧洲还能实现防务自主吗？ - 凤凰网
+- 百灵投诉 | 闲鱼信息技术有限公司：花70元买的租房半年包服务被限制发信息/屏蔽 - 凤凰网
+- 傅盛：AI带来平权，比尔·盖茨也就用GPT5.5丨《封面》对话 - 凤凰网
+- 美媒：如今特朗普最头痛的是这件事 - 凤凰网
+- 直播｜《关于开展土地混合开发利用的指导意见》新闻发布会 - 凤凰网江西
+- 韩国最大在野党新党鞭否认“亲尹” - 凤凰网
+- 刷新年龄纪录！百岁老人突发心梗，桃江县人民医院60分钟抢回生命 - 凤凰网
+- 桂林兴安爆炸已致7死当地医院：收治30余名伤者包括2岁多儿童，均无生命危险有伤者脑出血，现已清醒 - 凤凰网
+- 广西兴安爆炸已致7死17伤，兴安爆炸四五公里外居民被巨响吓醒 - 凤凰网
+- 广西兴安爆炸已致7死17伤当地居民称听到两声巨响“两次爆炸间隔10分钟左右” 事发地住户、商铺有门窗损毁 - 凤凰网
+- 王楚钦回应担任国乒男队队长，坦言自己和马龙比不是一个量级 - 凤凰网
+- 在这个被“台独”控制的非洲小国，一支红色力量正在生长 - 凤凰视频
+- “青花汾酒 梅好相汾”2026汾酒·杨梅季6月9日于宜兴诗意启幕 - 凤凰视频
+- 桂林兴安爆炸已致7死当地医院：收治30余名伤者包括2岁多儿童，均无生命危险有伤者脑出血，现已清醒 - 凤凰视频
+- 刷新年龄纪录！百岁老人突发心梗，桃江县人民医院60分钟抢回生命 - 凤凰视频
+- 法国与塞浦路斯签署驻军合作协议 - 凤凰视频
+- 读城记：兰州古城墙 - 凤凰网
+- 王楚钦担任国乒男队队长直呼当队长太难了！坦言和龙队确实不是一个量级“当退无可退的时候只能转化为正念” - 凤凰视频
+- 中国东盟自贸协定升级进入实质推进阶段 - 凤凰视频
+- 「韩系动向1780」捷尼赛思Magma GT超跑量产项目步入正轨 - 凤凰视频
 
-## 财新网 (3 条)
-- 对话｜梁建章：AI时代，人口规模还重要吗？
-- 中国家庭教育支出大转向：AI时代，家长为何买单｜教育观察
-- 财经早知道｜压实安全生产责任，中交集团、中国电建被约谈
+## 财新网 (2 条)
+- 币圈女老板在美被骗6000万 “中东王室”兄弟如何设局？ - 财新
+- 香港宏福苑大火调查取得进展 7人被控误杀和诈骗等25项罪名 - china.caixin.com
 
-## BBC (6 条)
-- Trump says US will hit Iran 'hard' again today
+## 央视网 (4 条)
+- 伊朗武装部队回应美军停止新一轮打击 - 央视网
+- 涉安全制度和现场管理“两张皮”等问题 两公司被约谈 - 央视网
+- 伊朗武装部队发言人：将对美国威胁作出强力回应 - 央视网
+- 6月11日起儿童旅客可购买铁路旅游计次票 - 央视网
+
+## BBC (12 条)
+- US and Iran exchange strikes across Middle East for second day in a row
+- Trump says he 'loves the inflation' as US prices rise at fastest rate in three years
+- The furious dispute over what caused Air India flight 171 to crash
 - Three Indian sailors missing after US says it hit tanker in Gulf of Oman
+- An Everest guide's miraculous survival raises questions for tourism industry
 - Fireworks illuminate Barcelona's Sagrada Família during Pope visit
 - Whale graveyard dating back five million years discovered
-- Bill Gates says Epstein wanted personal relationship, but he 'never reciprocated'
 - French singer Patrick Bruel faces rape charges
+- Bill Gates says Epstein wanted personal relationship, but he 'never reciprocated'
+- Olivia Rodrigo sings about heartbreak but she's already chosen her wedding song
+- Watch: Historic US-Canada border library gets new Quebec-only entrance
+- 'I will never get over watching my home burn': Belfast residents reel after night of unrest
 
-## Reuters (5 条)
-- US launches new strikes after Trump threatens to attack Iran 'very hard' - Reuters
+## Reuters (10 条)
 - With surveillance program at risk, Trump tries to end standoff over spy chief - Reuters
-- Pentagon’s Hegseth warns Cuba that arms procurement could invite confrontation - Reuters
-- Trump picks Capital One's Brian Johnson to head US consumer finance watchdog - Reuters
+- Iran announces closure of Strait of Hormuz after US attacks - Reuters
+- Albania protests swell as opposition to Kushner resort persists - Reuters
+- OpenAI expects to go public 'within the next year,' the Information reports - Reuters
+- Gulf airlines don’t blink as war flares - Reuters
+- Bank of Japan governor Ueda hospitalised, will miss June meeting - Reuters
 - Oracle awarded US contract to provide government-wide HR software - Reuters
+- Microsoft's Xbox plans for major layoffs next month, Bloomberg News reports - Reuters
+- Knife attack victim's family calls for calm after anti-immigrant violence in Belfast - Reuters
+- Three Indian Seafarers Missing After US Strike on Tanker off Oman - GV Wire
 
 ## NYTimes (20 条)
-- Iran War Live Updates: U.S. Strikes Iran Again After Trump Says Talks Are Taking Too Long
+- Iran War Live Updates: U.S. and Iran Trade Strikes for a Second Day
 - U.S. Ebola Unit Sparks Fury, Protests and a Political Crisis in Kenya
 - Night of Violence Grips Belfast After Stabbing Attack
 - How Quiet Oman Landed Itself in Trump’s Cross Hairs
@@ -77,16 +110,16 @@
 - At Least 12 Dead After Shooting by Multiple Attackers in Johannesburg
 - Senior Russian Military Official Is Killed in Car Explosion Near Moscow
 - Pope Leo Is Blessing the Sagrada Familia in Barcelona. To Some, the Church Is a Curse.
+- The War in Ukraine Has Now Gone On Longer Than World War I
+- A.I. and the Chip Boom: Take a Quiz on New Korean Slang and Memes
+- U.S. Officials Told Colombia to Cancel President’s Meeting With Mamdani
+- Analysis of Satellite Image and Videos Suggest Precision U.S. Strikes on Iranian Water Facility
+- Hot Cars and Stolen Crypto: A Canadian Teen Pocketed Millions, Prosecutors Say
 - Canada Moves to Ban Social Media Use for Youth Under 16
 - FIFA President Tells World Cup Critics to ‘Chill’ About Concerns
 - Australia’s Social Media Ban Is Floundering. Can It Still Help Younger Kids?
 - Britain Is Weighing a Social Media Ban for Children. How Did It Get Here?
 - Trump’s ‘Secret Mission’ to Ferry Oil Past Iran Was Widely Disclosed
-- A Very Different World Cup
-- U.S. Strikes Iran for Second Day, as War Heats Back Up
-- Souleymane Diallo Dies at 80; Daring, Mocking Journalist in Guinea
-- Indonesia Landslides Devastated Endangered Orangutans, Study Finds
-- Violence in Belfast After Brutal Stabbing Attack: What to Know
 
 ## CNN (6 条)
 - 0% intro APR until 2024 is 100% insane
@@ -97,158 +130,149 @@
 - Want Cash Out of Your Home? Here Are Your Best Options
 
 ## 微博热搜 (20 条)
-- 好多不是歌手的明星也开演唱会
-- 央视曝光街边免费领东西骗局
-- 公安部网安局公布6类高发涉考网络风险
-- 千问高考志愿大模型权威发布
-- 高考结束的第一批受害者出现了
-- 肥胖标准的重要更新
-- 上班是一场巨大的慢性肥胖
-- 墨西哥记者称日本队有位强奸犯
-- 李昀锐邢武趁机索吻
-- 赛力斯和豆包合作造车
-- 山姆打包哥已被行拘
-- 央视曝光色情漫画陷阱
-- 谢娜演唱会被抵制的原因
-- 养了一只配得感很低的小猫
-- 关晓彤宋威龙白鹿曾合作凤囚凰
-- 最节俭的人投胎到我家了
-- 刘宇宁也开始找龚俊了
-- 于娜首次公开丈夫去世细节
-- 退钱哥刚落地墨西哥就被骗了
-- 张凌赫到底吃了多少短剧
+- 尼克斯绝杀马刺
+- 榴莲仅退款买家父亲向商家道歉
+- 万千气象看河南
+- 爱吃生菜的人天塌了
+- 为什么朋友圈没有活人感了
+- 南部档案今日开播
+- 墨镜不要再随便戴了
+- 马刺vs尼克斯
+- BIGBANG巡演预告
+- 宇树科技合作英伟达引争议
+- 陈都灵演技vs白鹿演技
+- 丁太升回应谢娜演唱会争议
+- 广西兴安爆炸致7死17伤
+- 陈飞宇在看迪丽热巴还是罗云熙
+- 旅游热度很低却很夯的城市
+- 甄嬛传一根簪子居然三个人用过
+- 黄金一直跌
+- 米罗肘击文班颈部
+- 陈宇森接任钉钉CEO
+- 迪丽热巴手链24年就带了
 
-## 知乎热榜 (20 条)
+## 知乎热榜 (8 条)
 - 欧美有哪些传统食物可以反映历史上人民生活的艰难时期？
 - 英语里如果要删掉一个字母，删掉哪个影响最小？
 - 如何看待《西游记》中如来用「历经一千七百五十劫」来证明玉帝的合法性？这是否反映了深层的「苦难崇拜」？
 - 瞎扯 · 如何正确地吐槽
 - 历史上哪些著名人物拥有大胃袋？
-- 有哪些奇怪的淡水鱼？
-- 为什么现在「不吃碳水」越来越流行了？
-- 瞎扯 · 如何正确地吐槽
 - 为什么编程语言里的乘法符号是 * 而不是 × ，后者不应该更符合主流吗？
-- 市场上的假羊肉串是用什么冒充的？
-- 为什么外国火腿可以生吃，中国火腿不行？
-- 瞎扯 · 如何正确地吐槽
 - 为什么说「香蕉是浆果，草莓不是浆果」？
-- 日本为什么几乎没有鸭肉和鸭蛋？
-- 人类真的想象不出从来没见过的东西吗？
-- 瞎扯 · 如何正确地吐槽
 - 普通人参观博物馆意义是什么？
-- Skill 不就是 prompt 吗？为啥被吹成这样？
-- 典型内卷的饮食是怎样的？
-- 为什么农历误差如此之大，能闰一个月？
 
 ## B站热门 (20 条)
-- 末世先杀圣母
-- 跟资本对赌！开出100万血亏 开出5块全场起立《一掷千金》
-- 我以为我们大了 会看些成熟的东西
-- 还能再来一次吗…
-- 【萌黄一槽】沙滩上的主攻手！春野樱[沙滩排球]全技能爆料！
+- 2026户外投影仪的新解法，会是它吗？Vidda流光派 LightGo实测分析
+- 【2026年618手机推荐】毕业季带你一起选新手机！游戏/日用/摄影 全品类手机推荐+总结，绝无恰饭 放心观看。 小米/iQOO/一加/真我/OPPO/荣耀
 - 真正的完美犯罪，为邪恶丈夫量身定制！《致命女人》三线重叠，收网
-- 兄弟，这搁谁谁不焦虑失眠？
-- 小米 VS 大G VS 911！谁会赢？
-- 瓜摊监狱兔
+- 《长路归航》百人合唱 | 我们踏上的，从一开始就是一条归航长路
+- 一块平板，到底能有多全能？联想AI平板 拯救者Y900 11上手体验
+- 末世先杀圣母
 - 今年最恶毒烂梗出炉，一个梗骂几亿中国人，我没见过这么恶心的营销手段！
+- 《鸣潮》共鸣者战斗演示 | 洛瑟菈
+- 跟资本对赌！开出100万血亏 开出5块全场起立《一掷千金》
 - 全网AI首拆，一台车的灵魂原来是...
+- 瓜摊监狱兔
+- 新三国up锐评楚汉传奇02：中文十级考试现场
+- 还能再来一次吗…
+- 兄弟，这搁谁谁不焦虑失眠？
+- 女帝登基手册请查收！
+- 【无畏契约伦敦大师赛】6月11日 GE vs XLG
 - 虎哥摩根时代请勿模仿虎哥已经来到哔哩哔哩入驻
-- 最舒服的一集。都末日了，谁还惯你臭毛病！
-- 🐱躲在超市后门哈气的二人🐱
-- 哦，这得要不少地爆天星！
-- 【某幻】《盛世天下》再返深宫，活下来！
-- 大海为什么是蓝色的？两个诺奖得主吵起来了……
-- 新三国up锐评老三国01：这才叫真正的三国！
-- 咕嘎西行记-初出茅庐
-- 奥迪：来来，我让你看看什么叫底蕴！！
+- 【高考TV】横杠单词选选选
+- 如何科学拼装一辆能穿越次元的座驾
+- 四川妹子在芬兰市中心开私房川菜馆创业卖中餐！开张第一天各国老外瞳孔地震疯狂炫饭！爱到立马订票去中国！
 
 ## 抖音热搜 (20 条)
-- 2026世界杯小组赛赛程
-- 上海市副市长陈宇剑被查
-- 5月新能源汽车产销量同比增长
-- 花旗继续唱空金价
-- 印度出生率首次跌破更替水平
-- 美国5月CPI同比上涨4.2%
-- 天热了就化这个降温妆
-- 抖音创作者守护乡村孩子足球梦
-- 所有零食立刻打入冷宫
-- 西瓜原来可以当成豆腐切
-- 世界杯你的唐梓回来了
-- NBA总决赛第四场前瞻
-- 高考结束后你最想干什么
+- 尼克斯107:106马刺
 - 英雄联盟老玩家在做什么工作
-- 白鹿新剧编剧争议法律解读
-- 耀眼大结局
-- 国台办回应台民调结果
-- 西游记老鼠精片段翻拍
+- 5月汽车出口延续快速增长态势
+- 抖音AI创作大赛来了
+- 可以质疑我但不能质疑我的馒头
+- 谁懂这个新疆酸奶粽子
+- 金价跌破4100美元
+- 天热了就化这个降温妆
+- 盘一盘这届世界杯跟中国的关系
+- 抖音创作者守护乡村孩子足球梦
+- 高考结束后你最想干什么
 - 足球小将背后的争议和阻力
-- 全抖音寻找世界杯梗王
+- 东北的白描文下起手来没轻没重
+- 独家探访三峡内部新航道
+- 蜘蛛侠4定档7月29日
+- 广西兴安爆炸致7死17伤
+- 2026世界杯小组赛赛程
+- 乐评甲亢哥世界杯主题曲
+- 世界杯你的唐梓回来了
+- 和月薪喵一起跳个舞吧
 
 ## 雪球热帖 (20 条)
-- 南方中证A500ETF联接C净值下跌1.17% - 新浪财经
-- 华夏中证港股通医疗主题ETF发起式联接C净值上涨1.14% - 新浪财经
-- 国泰富时中国A股自由现金流聚焦ETF发起联接C净值下跌0.60% - 新浪财经
-- 华安黄金ETF联接I净值下跌3.12% - 新浪财经
-- 天弘上海金ETF净值下跌2.98% - 新浪财经
-- 建信科技智选股票型发起C净值上涨0.76% - 新浪财经
-- 鹏安中证红利指数A净值下跌0.58% - 新浪财经
-- 宝盈中证A500指数增强A净值下跌0.95% - 新浪财经
-- 汇添富国证港股通消费主题ETF净值上涨0.54% - 新浪财经
-- 广发中证A500指数增强A净值下跌1.12% - 新浪财经
-- 国投瑞银中证A500指数增强C净值下跌1.03% - 新浪财经
-- 南方瑞景混合A净值下跌0.92% - 新浪财经
-- 华安中国A股增强指数净值下跌1.20% - 新浪财经
-- 国投瑞银瑞盈混合(LOF)C净值下跌1.47% - 新浪财经
-- 信澳信用债债券A净值下跌0.52% - 新浪财经
-- 中银品质新兴混合A净值下跌0.80% - 新浪财经
-- 华商优势行业混合C净值下跌3.05% - 新浪财经
-- 中邮消费升级灵活配置混合C净值下跌0.81% - 新浪财经
-- 银河中证A500ETF净值下跌1.23% - 新浪财经
-- 平安恒生指数增强E净值下跌0.69% - 新浪财经
+- 快讯：三大股指集体翻绿 下跌个股超4200只 - Sina finance
+- 国货ETF富国（561130）跌1.05%，半日成交额1683.09万元 - Sina finance
+- 电力ETF华夏（560830）涨0.21%，半日成交额2541.88万元 - Sina finance
+- 航天ETF华安（159267）跌1.28%，半日成交额7336.12万元 - Sina finance
+- 电力ETF工银（560270）跌0.20%，半日成交额625.50万元 - Sina finance
+- 电力ETF银华（562350）跌0.08%，半日成交额1071.53万元 - Sina finance
+- 农牧ETF南方（159173）跌0.24%，半日成交额336.58万元 - Sina finance
+- 战略新兴ETF华夏（512770）跌1.55%，半日成交额297.72万元 - Sina finance
+- 电力ETF华泰柏瑞（561560）涨0.22%，半日成交额7267.02万元 - Sina finance
+- 电力ETF汇添富（516370）跌0.20%，半日成交额1518.59万元 - Sina finance
+- G60创新ETF申万菱信（510770）跌2.28%，半日成交额297.48万元 - Sina finance
+- 机器人ETF国泰（159551）跌3.89%，半日成交额2192.07万元 - Sina finance
+- 中证500成长ETF华夏（159620）跌0.72%，半日成交额46.06万元 - Sina finance
+- 建材ETF国泰（159745）跌1.05%，半日成交额2246.88万元 - Sina finance
+- 光伏ETF国泰（159864）跌1.98%，半日成交额1663.27万元 - Sina finance
+- 光伏ETF易方达（562970）跌1.98%，半日成交额1479.35万元 - Sina finance
+- 光伏ETF华夏（515370）跌1.78%，半日成交额2519.82万元 - Sina finance
+- 电力ETF平安（560460）跌0.31%，半日成交额703.58万元 - Sina finance
+- 公用事业ETF华夏（159301）跌0.10%，半日成交额1699.39万元 - Sina finance
+- 畜牧养殖ETF广发（512450）跌0.84%，半日成交额195.42万元 - Sina finance
 
 ## 36氪 (20 条)
-- 华纳音乐集团收购AI技术公司Sureel
-- 多家上市公司调整定增定价基准日，保护中小投资者权益
-- OpenAI与甲骨文合作，OCI客户可用云额度直接调用OpenAI模型及Codex
-- 美国5月退还近220亿美元关税，基本抵消当月关税收入
-- Altman预计OpenAI将于未来一年内IPO
-- 现货黄金日内跌超1%
-- 德国商业银行质疑裕信银行收购要约，称股东支持度存疑
-- 高盛警示AI涨势过热但尚未达泡沫极值
-- 美联储6月维持利率不变的概率为98.4%
-- 亚马逊获得花旗牵头银团总计175亿美元贷款额度
-- 美参议员沃伦：SpaceX的IPO需要推迟
-- ADNOC寻求通过XRG在加拿大实现上游及LNG业务增长
-- 美国对冲基金ExodusPoint融资20亿美元
-- 部分美国大银行因涉嫌非法终止服务面临联邦调查
-- 加拿大央行维持基准隔夜利率在2.25%不变
-- 甲骨文数据中心支出高于预期
-- 荷兰银行旗下机构称参与SpaceX上市犹如豪赌，与早年投资加密货币类似
-- SpaceX获得三大债券评级机构的投资级评级
-- 芯碁微装通过港交所上市聆讯
-- 微软旗下的Xbox计划进行大规模裁员
+- 康方生物：董事会批准动用最多200百万港元以在公开市场上购买公司普通股股份
+- IDC：第一季度全球智能手表市场出货量3703万台，同比增长4.8%
+- 招金黄金：公司有对外销售尾矿交易，不存在经营决策失误
+- 恒指午间休盘跌1.11%，恒生科技指数跌2.01%
+- 国家邮政局依法对极兔速递有限公司立案调查
+- 半日主力资金加仓有色金属股，抛售计算机股
+- 速卖通欧美拉5国上线官方配送服务
+- A股三大指数午间休盘集体下跌，软件板块领跌
+- 泰国央行排除举行非例行会议调整利率的可能性
+- 沪深两市成交额突破1.5万亿
+- 东方甄选CEO卸任新东方旗下一分公司负责人
+- 郭明錤：CoPoS将于2028年下半年量产，玻璃与ABF不存在替代关系
+- 东风汽车集团旗下武汉投资公司增资至61.2亿
+- 深证成指、创业板指跌逾1%
+- 小米已注册多枚小米澎湃OS商标
+- 长春市：近年来一汽产销出现下滑，未来或将面临央企战略重组的压力
+- 沪深两市成交额突破1万亿
+- 今起儿童旅客可购买铁路旅游计次票，票价为成人旅客的5折
+- 钉钉换帅，92年技术极客陈宇森接任钉钉CEO
+- 智元推出灵犀X2 EDU（人人造）版本，面向科教实训等丰富场景
 
 ## 虎嗅 (20 条)
-- 轮到建行风光了
-- 老师，我抑郁了
-- 智能原生组织的存续与成长：有边界的无限可能
-- 拿了授权，丢了研发：印度电池自主梦为何碎了一地？
-- 消费科技品牌的首店潮：从技术厂商到生活方式
-- 为什么马斯克的五步工作法，能治好90%的组织内耗？
-- 这项研究刚挂出预印本，科学界就吵了起来
-- 新型镁锡固态电池稳定循环1300小时，性能提升400倍
-- 当前额叶与AI 成为时代隐喻，人类如何重新理解自我？
-- 义乌商人的世界杯：不猜冠军，只猜下一个爆款
-- 北方第一省，紧追粤苏浙
-- AI+商业航天，中国不能错过的三个战略判断
-- 华为、联想7月同步涨价，一场全产业链的成本传导困局
-- 增程车突然卖不动了？5月销量暴跌近25%，创近五年最大降幅，仅3款车型月销破5000辆，被纯电取代之声再起，专家解读
-- “鹅腿阿姨”塌房，揭开了“优绩主义”迷思的遮羞布
-- 当大女主成为一种表演：我们如何逃离新型的规训
-- 高校严查论文AI率，帮学生“降写”成了火爆生意，单商家销量就超4000件
-- 拆了一台宇树机器人，美国研究机构说它会是下一个比亚迪
-- 皮质醇低的人，成了顶配打工人？？
-- 鹅腿阿姨卖鸭腿，收割完高校却在CBD翻车，大学生为什么那么好骗？
+- 《亢奋3》已经沦为北美《小时代》了
+- 我在义乌经历了五届世界杯，但今年的感受很不一样……
+- 搭了3个Agent，我确信AI替代不了市场人
+- 甲骨文暴跌？AI基建补不了的硬伤：“高息、高债+歇菜软件”
+- 失业、转行、开一人公司，被AI追着杀的这一年
+- 无招下马，陈宇森上位：阿里用“有情有义”给钉钉换帅
+- 《置身钉内》引发钉钉巨震，90后陈宇森出任CEO
+- 融资最多的机器人公司，一年卖了不到150台
+- 为何说昇腾950PR是2026年下半年的投资主线？
+- 曹曦成了中国“第二厉害”的投资人
+- 科学还是无止境的边疆吗：从“科学的社会契约”看美国科学政策的过去与未来
+- 后备箱里的“炸弹”：新能源车私改电池成灰色产业链
+- 豪掷15亿，投行出身CEO上任不到三个月，蜜雪冰城首笔私募基金落向何处？
+- 从给不起饲料钱到600万欠款压垮数十亿市值，乳业末端的中小企业正在集体破产
+- 新大众文艺，人人都是“主角”后
+- 和绝望的男孩女孩们，聊聊性别、自我与爱
+- 每百万Token 成本砍六成，出海AI 团队开始重算推理这笔账
+- 高考后深圳家长的祈祷：能留在深圳上大学
+- 为降论文AI率，毕业生开始故意写病句
+- 印度高考丑闻，学中国玩线上阅卷系统惨遭翻车
+
+## 少数派 (1 条)
+- 派早报：Insta360 发布首款手持云台相机 Luna Ultra 等
 
 ## GitHub Trending (17 条)
 - addyosmani/agent-skills

@@ -2,181 +2,91 @@
   "date": "2026-06-11",
   "news": [
     {
-      "title": "伊朗局势紧张",
-      "summary": "伊朗宣布对所有船只关闭霍尔木兹海峡，美军称再次对伊朗目标实施\"自卫性\"打击，伊朗多地传出爆炸声，德黑兰西部响起防空警报。伊朗方面表示武力无法达成可持续协议，特朗普应停止威胁。这一系列事件导致国际油价飙升，全球金融市场波动加剧。霍尔木兹海峡是中东石油运输的关键通道，占全球石油贸易量的三分之一，局势紧张可能引发全球能源危机。专家分析，此次冲突升级可能导致中东地区长期不稳定，并对全球供应链产生深远影响。",
-      "reason": "多源密集报道的地缘政治危机，影响全球能源供应和国际关系",
-      "impact_areas": [
-        "地缘",
-        "经济金融"
-      ],
-      "impact_level": "重大",
-      "sources": [
-        {
-          "name": "澎湃新闻",
-          "url": "https://m.thepaper.cn/detail/33355478"
-        },
-        {
-          "name": "澎湃新闻",
-          "url": "https://m.thepaper.cn/detail/33355301"
-        },
-        {
-          "name": "澎湃新闻",
-          "url": "https://m.thepaper.cn/detail/33355296"
-        },
-        {
-          "name": "澎湃新闻",
-          "url": "https://m.thepaper.cn/detail/33355285"
-        },
-        {
-          "name": "澎湃新闻",
-          "url": "https://m.thepaper.cn/detail/33355277"
-        }
-      ]
-    },
-    {
       "title": "美伊冲突升级",
-      "summary": "美国对伊朗实施新一轮打击，特朗普表示将\"非常强硬\"地再次打击伊朗。BBC、Reuters、NYTimes等多家国际媒体证实美军已开始空袭伊朗目标。特朗普称一直运出石油而伊朗没发现，并控制霍尔木兹海峡的是美国而非伊朗。以色列消息人士称内塔尼亚胡与特朗普保持密切沟通。此次冲突升级引发国际社会担忧，联合国呼吁各方保持克制。分析人士指出，美伊冲突可能重塑中东政治格局，并对全球能源市场产生深远影响。",
-      "reason": "多国媒体报道的军事冲突，可能引发地区不稳定和油价波动",
+      "summary": "美国与伊朗连续第二天在中东地区互相打击，伊朗宣布关闭霍尔木兹海峡，美国则对伊朗水域设施进行精准打击。这一冲突导致三名印度海员在阿曼湾油轮袭击中失踪，引发国际社会对地区稳定的担忧。冲突已持续两天，双方均表示将采取进一步行动，中东局势急剧恶化。",
+      "reason": "国际热点事件，多平台持续报道，地缘政治风险上升",
       "impact_areas": [
         "地缘",
-        "经济金融"
+        "政治"
       ],
       "impact_level": "重大",
       "sources": [
         {
           "name": "BBC",
-          "url": "https://www.bbc.com/news/articles/ce371kw2ex2o?at_medium=RSS&at_campaign=rss"
+          "url": "https://www.bbc.com/news/articles/c4gyp9v0e93o?at_medium=RSS&at_campaign=rss"
         },
         {
           "name": "Reuters",
-          "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPS0dXSGJPLVM3VVFmRmYwcWloclNleWtLV0NrYVZfblNtdU5kY0RnOXNQSjBUQVZQS2RhR1RwQVhhT1oxVGdtVjJkdExKWG5uM3VFSTlPY0JhWms0S3RMdml0X0dVTEhuOTlEWUc3ZHlJVXl4dWFUeVFOT2xKWUhCbTh3aUVFeS1qaTNySWRBdWNMY1BhVWZUekZaUVNIZEVDVklnV1VISHpid0JObjVCU3V5bXFHaTgxaEN3M0UwOW1ac1Nz?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPUmpTVDJ1X0ZfVjgxckExb2VxOTN2QXFJam16RVhPSE9ZSFozY2ZIYU1MckpJRHI1ZDlVclNYUjM0TWh0Z3NWY1NmVUZPejFDV3ZYTjVwa1BmcF93TzJhQk9MOW5rTWsxMktNWGtBVUhiZUgtcWliUklDdGV5anJFSFVCSU1weTJ3UWliN0JfRjJraEh4VlZjaGJ2d2FWMEJzTTdFWk95YzVZaTQ"
         },
         {
           "name": "NYTimes",
-          "url": "https://www.nytimes.com/2026/06/10/world/middleeast/us-iran-strikes.html"
-        },
-        {
-          "name": "凤凰网",
-          "url": "https://news.ifeng.com/c/8trI2r2ZjjP"
-        },
-        {
-          "name": "凤凰网",
-          "url": "https://news.ifeng.com/c/8trJS8eWANP"
+          "url": "https://www.nytimes.com/live/2026/06/10/world/iran-war-trump-us"
         }
       ]
     },
     {
-      "title": "AI时代人口观",
-      "summary": "携程集团创始人梁建章在财新网对话中探讨AI时代人口规模的重要性。他认为，尽管AI技术可能提高生产效率，但人口规模仍是国家创新和经济活力的关键因素。梁建章指出，AI可能改变人口与经济增长的关系，但不会完全替代人口规模的价值。他建议政府应继续鼓励生育，同时投资教育和AI技术，以最大化人口红利。这一观点引发学界和产业界广泛讨论，对未来人口政策制定具有重要参考价值。",
-      "reason": "科技巨头探讨AI与人口关系，对未来政策制定有重要影响",
+      "title": "兴安爆炸致7死",
+      "summary": "广西桂林兴安县发生爆炸事故，已造成7人死亡、17人受伤。当地医院收治30余名伤者，包括一名2岁多儿童，部分伤者有脑出血情况，但目前已无生命危险。据当地居民称，听到两次巨响，两次爆炸间隔约10分钟，事发地附近住户和商铺门窗有损毁。事故原因正在调查中。",
+      "reason": "重大安全事故，造成多人伤亡，社会关注度高",
       "impact_areas": [
-        "科技",
         "社会"
       ],
       "impact_level": "重大",
       "sources": [
         {
-          "name": "财新网",
-          "url": "https://www.caixin.com/2026-06-11/102452935.html"
-        }
-      ]
-    },
-    {
-      "title": "家庭教育AI转向",
-      "summary": "财新网报道中国家庭教育支出出现重大转向，家长开始更多投资AI相关教育产品和服务。调查显示，AI编程、机器人教育、智能学习设备等支出占比显著提升，传统学科辅导支出相对下降。教育专家分析，这一转变反映家长对AI时代技能培养的重视，但也可能加剧教育不平等。政策制定者正考虑如何引导家庭教育支出更加均衡，确保所有儿童都能适应AI时代的发展需求。",
-      "reason": "家庭教育支出转向AI，反映社会对AI技能培养的重视",
-      "impact_areas": [
-        "教育",
-        "科技"
-      ],
-      "impact_level": "重大",
-      "sources": [
+          "name": "凤凰网",
+          "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE5la0FUSEpSUV9jRllacFFjQjVXdGVZNFpfTmZSRGw4SDRaa19hQTVlWlhOMU5aYTQ3UjZzM1Y2NUdIMUFEMTVhYg"
+        },
         {
-          "name": "财新网",
-          "url": "https://www.caixin.com/2026-06-11/102452933.html"
-        }
-      ]
-    },
-    {
-      "title": "OpenAI与甲骨文合作",
-      "summary": "36氪报道OpenAI与甲骨文达成战略合作，甲骨文客户可直接通过云额度调用OpenAI模型及Codex。这一合作将大幅提升企业AI应用的可及性，降低中小企业使用先进AI技术的门槛。甲骨文CEO表示，此次合作旨在\"让AI民主化\"，使更多企业能够利用AI技术提升效率。分析人士认为，这一合作将加速AI在企业中的应用，可能改变云计算和AI服务市场的竞争格局。",
-      "reason": "AI巨头与云服务商合作，将加速企业AI应用普及",
-      "impact_areas": [
-        "科技",
-        "产业"
-      ],
-      "impact_level": "重大",
-      "sources": [
+          "name": "凤凰网",
+          "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE5IVHpncVhaMGFQVU93Uk1qLWFNc2RPSmkycFpLUmxMeXNXX1VpQ0tQWmRZNy1ld3BCSjM2d1FWdHgteG55eEgzNQ"
+        },
         {
-          "name": "36氪",
-          "url": "https://www.36kr.com/newsflashes/3847975275107586"
+          "name": "凤凰网",
+          "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTFB2Y3pJZFpfMHIxc25SZmlxTGc4WHgySktCUXU5NHRYcUFSY2Y4aWxOZ08xazdTMjNDQ0txSWo4SExXQkJYRlg2NQ"
         }
       ]
     },
     {
-      "title": "OpenAI计划明年IPO",
-      "summary": "36氪报道OpenAI CEO山姆·奥特曼预计公司将在未来一年内进行首次公开募股(IPO)。这一消息引发市场广泛关注，OpenAI估值可能达到数千亿美元。分析师指出，OpenAI的IPO将标志着AI产业进入新阶段，可能带动整个AI板块估值提升。然而，也有专家担忧AI公司的估值过高存在泡沫风险。OpenAI的IPO进程也将受到监管环境变化的影响，各国正加速制定AI监管框架。",
-      "reason": "AI巨头计划IPO，将重塑科技产业格局",
-      "impact_areas": [
-        "科技",
-        "经济金融"
-      ],
-      "impact_level": "重大",
-      "sources": [
-        {
-          "name": "36氪",
-          "url": "https://www.36kr.com/newsflashes/3847971876984064"
-        }
-      ]
-    },
-    {
-      "title": "多国禁青少年社交媒体",
-      "summary": "NYTimes报道加拿大、澳大利亚、英国等国家正考虑立法禁止16岁以下青少年使用社交媒体。加拿大已提出相关法案，澳大利亚和英国也在评估类似政策。支持者认为此举有助于保护青少年心理健康，减少网络成瘾和欺凌问题；反对者则担忧这可能限制青少年获取信息和发展数字素养的能力。专家指出，这一趋势反映全球对数字健康问题的关注，可能推动社交媒体平台改变产品设计和服务模式。",
-      "reason": "多国考虑禁止青少年使用社交媒体，反映数字健康政策趋势",
+      "title": "香港宏福苑大火调查",
+      "summary": "香港宏福苑大火调查取得进展，7人被控误杀和诈骗等25项罪名。这场大火造成严重人员伤亡，引发香港社会对建筑安全的广泛关注。调查人员发现涉事楼宇存在安全制度和现场管理'两张皮'等问题，相关责任方已被约谈。案件将进入司法程序，预计将对香港建筑安全管理产生深远影响。",
+      "reason": "重大安全事故调查进展，涉及多宗罪名，社会影响广泛",
       "impact_areas": [
         "社会",
-        "科技"
+        "政治"
       ],
       "impact_level": "重大",
       "sources": [
         {
-          "name": "NYTimes",
-          "url": "https://www.nytimes.com/2026/06/10/world/canada/social-meda-kids-legislation-carney.html"
-        },
-        {
-          "name": "NYTimes",
-          "url": "https://www.nytimes.com/2026/06/10/world/australia/australia-social-media-ban-under-16.html"
-        },
-        {
-          "name": "NYTimes",
-          "url": "https://www.nytimes.com/2026/06/10/world/europe/uk-social-media-ban-under-16.html"
+          "name": "财新网",
+          "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFA1UjRRbXBtajVKb0x0MlliMVI0MElaSmkxLVhGeHFna0luSXBLY1NTTGx2X0EzYUdHd0txTjZPSExYRkVzeTdYVmtqdVExWHRBcy1xQUpwWHA1RHljUS1j"
         }
       ]
     },
     {
-      "title": "美联储6月按兵不动",
-      "summary": "36氪报道美联储6月维持利率不变的概率高达98.4%，显示市场预期美联储将暂缓加息步伐。这一预期主要基于近期通胀数据放缓和经济增长稳健的迹象。分析师指出，美联储政策转向将对全球金融市场产生深远影响，可能缓解新兴市场资本外流压力，但也可能导致美元走弱。同时，高盛警示AI相关股票涨势过热但尚未达到泡沫极值，提醒投资者关注科技板块估值风险。",
-      "reason": "美联储政策转向信号明确，将影响全球金融市场走向",
+      "title": "儿童铁路票新规",
+      "summary": "自6月11日起，儿童旅客可购买铁路旅游计次票，票价为成人旅客的5折。这一政策调整旨在方便家庭出行，促进旅游业发展。铁路部门表示，新政策将为儿童出行提供更多便利，预计将带动家庭旅游市场增长。同时，铁路部门还优化了道路停车收费方案，15分钟内免费，每自然日享受2次优惠。",
+      "reason": "交通政策重大调整，影响广泛人群，民生领域重要变化",
       "impact_areas": [
-        "经济金融",
-        "科技"
+        "社会"
       ],
       "impact_level": "重大",
       "sources": [
         {
-          "name": "36氪",
-          "url": "https://www.36kr.com/newsflashes/3847966752380163"
+          "name": "央视网",
+          "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE56M1RsUU5yUnZxbmc5NmZCOFd2VWhVd2JuQ2lydFktYm9yOVlfUks2WHA2dVJuR0FkaVVjVW5PNVY5RWd3dTNoeFFVZTV5QjBKc25vTWVSaEdtVHhkZGs3SURKVm8tSW5oVHVfWmxqaW1QYjFOMVJ6aA"
         },
         {
           "name": "36氪",
-          "url": "https://www.36kr.com/newsflashes/3847969578669318"
+          "url": "https://www.36kr.com/newsflashes/3848134762697730"
         }
       ]
     },
     {
-      "title": "固态电池突破",
-      "summary": "虎嗅报道科研团队开发出新型镁锡固态电池，实现稳定循环1300小时，性能提升400倍。这一突破有望解决传统锂电池安全性和能量密度的瓶颈问题。研究团队表示，新技术将大幅提高电动汽车续航里程，并降低电池起火风险。业内专家认为，固态电池技术的成熟将加速电动汽车普及，并可能重塑能源存储市场格局。多家汽车制造商已表示密切关注这一技术进展，计划在未来产品中应用。",
-      "reason": "固态电池性能突破400倍，将改变能源存储和电动汽车产业格局",
+      "title": "钉钉换帅",
+      "summary": "阿里巴巴旗下办公软件钉钉完成管理层调整，92年技术极客陈宇森接任CEO，原CEO无招卸任。这一人事变动引发科技行业广泛关注。陈宇森作为年轻技术背景的管理者，将带领钉钉在AI时代寻求新的增长点。钉钉作为中国领先的办公协同平台，用户数已超6亿，此次换帅被视为阿里在AI时代战略调整的重要信号。",
+      "reason": "科技巨头重要人事变动，影响数亿用户，AI时代战略调整",
       "impact_areas": [
         "科技",
         "产业"
@@ -185,27 +95,109 @@
       "sources": [
         {
           "name": "虎嗅",
-          "url": "https://www.huxiu.com/article/4866229.html"
+          "url": "https://www.huxiu.com/article/4866315.html"
+        },
+        {
+          "name": "虎嗅",
+          "url": "https://www.huxiu.com/article/4866312.html"
+        },
+        {
+          "name": "36氪",
+          "url": "https://www.36kr.com/newsflashes/3848133613999106"
         }
       ]
     },
     {
-      "title": "华为联想同步涨价",
-      "summary": "虎嗅报道华为和联想宣布将于7月同步上调部分产品价格，分析认为这是全产业链成本传导的结果。涨价主要受原材料价格上涨、物流成本增加和汇率波动等因素影响。业内专家指出，这一趋势可能影响消费者购买决策，并加速行业整合。同时，这也反映全球供应链正在经历重构，企业面临更复杂的经营环境。分析人士建议，消费者可考虑提前购买或关注替代品牌，企业则需优化供应链管理以应对成本压力。",
-      "reason": "科技巨头同步涨价，反映全产业链成本传导压力",
+      "title": "6G商用预测",
+      "summary": "尤肖虎院士预测2030年将是6G商用元年，全球统一标准是大趋势。6G技术将实现空天地海一体化覆盖，传输速率预计达到100Gbps以上，延迟降至毫秒以下。这一预测显示通信技术正在加速迭代，各国已开始布局6G研发。6G技术的商用将推动物联网、自动驾驶、远程医疗等领域实现突破性进展，重塑数字经济发展格局。",
+      "reason": "科技前沿预测，影响未来通信产业发展，全球标准趋势",
       "impact_areas": [
-        "产业",
+        "科技"
+      ],
+      "impact_level": "重大",
+      "sources": [
+        {
+          "name": "澎湃新闻",
+          "url": "https://m.thepaper.cn/detail/33356698"
+        }
+      ]
+    },
+    {
+      "title": "A股三大指数下跌",
+      "summary": "A股三大指数集体下跌，深证成指、创业板指跌逾1%，半日主力资金加仓有色金属股，抛售计算机股。尽管市场调整，但沪深两市成交额仍突破1.5万亿，显示市场活跃度较高。板块方面，电力、光伏等新能源板块表现相对抗跌，而软件、机器人等科技板块领跌。市场分析认为，当前市场处于结构性调整阶段，资金正在重新配置。",
+      "reason": "金融市场重要动态，成交额突破万亿，资金流向变化明显",
+      "impact_areas": [
         "经济金融"
       ],
       "impact_level": "重大",
       "sources": [
         {
-          "name": "虎嗅",
-          "url": "https://www.huxiu.com/article/4866222.html"
+          "name": "36氪",
+          "url": "https://www.36kr.com/newsflashes/3848220220789767"
+        },
+        {
+          "name": "36氪",
+          "url": "https://www.36kr.com/newsflashes/3848230570316806"
+        },
+        {
+          "name": "36氪",
+          "url": "https://www.36kr.com/newsflashes/3848205041931529"
+        },
+        {
+          "name": "雪球热帖",
+          "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNV25PWVRlTi1iT01ib2FxSlBxUXNDdEczTm5KZDE4VGRzQmMwakJCb3F4MUU0MTg4c2ZxX0FIWFYwQmY0UlRqQkN1QVpxa1lfUlRfd2tFQWFXd2stVjRUamtaVFFrYkxKV1NxX2xDdHoydXcxcXRPYnFDZVVKUnF5RXZWZw"
+        }
+      ]
+    },
+    {
+      "title": "OpenAI计划上市",
+      "summary": "据The Information报道，OpenAI预计将在未来一年内上市。这一消息引发科技行业广泛关注。作为AI领域的领军企业，OpenAI的上市将标志着AI技术商业化的重要里程碑。公司旗下ChatGPT等产品已拥有数亿用户，估值超过800亿美元。OpenAI的上市计划将加速AI技术在各行业的应用，同时也将引发全球对AI监管和伦理的进一步讨论。",
+      "reason": "AI领军企业上市计划，影响全球AI产业发展格局",
+      "impact_areas": [
+        "科技",
+        "经济金融"
+      ],
+      "impact_level": "重大",
+      "sources": [
+        {
+          "name": "Reuters",
+          "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPNER2SEg5dXcyLU51ajdpdHVqcldOSjlMalMtUi1wMGxxZjJXeFJiREdhUVpuTWdrMEhoSkxXYmVXLURUMnFjNlNpQng5dDBpdFkyc2tGUkRWTkd2VHp2UURVU2pBUzFWaTZ1ZzhsSW5tc1ZWZFZjRXFyVElsVlNwaTlOV2lSOS03VTR4ZDZmYVBQTlY0Z0ExZ002UFZsU3J3bHpBaktFNnZ1Zw"
+        }
+      ]
+    },
+    {
+      "title": "法塞签署驻军协议",
+      "summary": "法国与塞浦路斯签署驻军合作协议，法国将在塞浦路斯建立军事基地。这一协议在地中海地区引发广泛关注，被视为法国加强在地缘政治影响力的举措。塞浦路斯位于地中海东部，战略位置重要，靠近中东地区。法国此举将进一步增强其在东地中海的军事存在，可能影响地区力量平衡，并对周边国家安全政策产生影响。",
+      "reason": "地缘政治重要变化，欧洲国家加强军事布局，地区力量平衡调整",
+      "impact_areas": [
+        "地缘",
+        "政治"
+      ],
+      "impact_level": "重大",
+      "sources": [
+        {
+          "name": "凤凰网",
+          "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTFBfZ0t0ZU9yNmgzT19hUHV3SkE5N1ExN0FnVEM3OEs3NExRNDZNSzFKTzNFYlUwWVlfN3ZDNWFGQlJzYlF5MmRNRQ"
+        }
+      ]
+    },
+    {
+      "title": "中国东盟自贸升级",
+      "summary": "中国-东盟自贸协定升级进入实质推进阶段，双方将进一步降低关税、扩大市场开放。这一自贸区覆盖全球约30%的人口和GDP，是世界上最大的自贸区之一。协定升级将促进区域内贸易和投资便利化，加强产业链供应链合作，为区域经济一体化注入新动力。分析认为，这一协定升级将有助于应对全球经济不确定性，为区域经济增长提供新动能。",
+      "reason": "全球最大自贸区之一升级，促进区域经济一体化，应对全球经济不确定性",
+      "impact_areas": [
+        "经济金融",
+        "地缘"
+      ],
+      "impact_level": "重大",
+      "sources": [
+        {
+          "name": "凤凰网",
+          "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE1xM1JCUVBoSzZpM2dvRjEzLUJHTERfaXNhQ1Q5V2lNWlVFZHdzYU85b3dRVkd4LXNTSDBPdmNxM1IyZVRQaWxwQg"
         }
       ]
     }
   ],
-  "total_fetched": 237,
-  "generated_at": "2026-06-11T07:27:14.557516+08:00"
+  "total_fetched": 257,
+  "generated_at": "2026-06-11T12:27:34.910888+08:00"
 }
