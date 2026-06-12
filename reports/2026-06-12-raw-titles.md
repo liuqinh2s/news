@@ -1,4 +1,4 @@
-# 2026-06-12 原始新闻标题 (282 条)
+# 2026-06-12 原始新闻标题 (287 条)
 
 ## 新华社 (20 条)
 - Education, health fees among key concerns
@@ -23,116 +23,132 @@
 - Former Chongqing political official facing corruption investigation
 
 ## 澎湃新闻 (20 条)
-- 驾车时突感心脏不适，货车司机摇摇晃晃走进消防队求救
-- 四川一学院给学生发4000份车厘子过端午，网友：又是别人家的学校
-- 鱼鳔做足球，神鬼也疯狂｜奇谭新语
-- 浙江组织干部集体旁听百场“民告官”庭审，已有四千余人参加
-- 第48届世界技能大赛期间普通群众如何观赛观展？上海市人社局解答
-- 半月谈：又是一届没有中国队的世界杯，我们该期待些什么？
-- 第48届世界技能大赛为何新增无人机系统等7个比赛项目？人社部解答
-- 韩国2比1逆转！亚洲球队美加墨世界杯首胜来了！
-- 直播丨第二十二届上海苏州河城市龙舟邀请赛
-- 云南勐腊县：严禁进入亚洲象活动区域进行采菌、徒步等活动
-- 第48届世界技能大赛有哪些特点？人社部详解
-- 马上评｜父亲背8个土鸡蛋接考感动全网，也照见高考的意义
-- 澎湃回声｜男子30年前被扣押2859克黄金续：盖州市公安局已返还财产，双方和解
-- 北京公安：贪小利易成电诈“帮凶”，涉老人诈骗这三类最高发
-- 尹锡悦因“制造平壤上空无人机入侵事件”一审被判30年
-- 此行间·友谊牢不可破！100秒看习近平朝鲜之行
-- 严管侮辱谩骂、造谣诽谤企业家言论，“优化营商网络环境自律公约”发布
-- 影子暗访｜催眠的鱼饵：非法“地西泮”饵料产销链调查
-- 上海国际电影节今天开幕，这里的每一处都将与电影深深呼应
-- 专访｜中国美国商会会长眼中的中美关系新变化：回归正常与稳定预期
+- 公安部：电诈案件仍多发高发，刷单返利等十类手法占85% - thepaper.cn
+- A股早盘高开高走，三大股指均涨超1% - thepaper.cn
+- 业主称按开发商建议改造房屋后被认定违建，律师：可向开发商索赔 - thepaper.cn
+- 尹锡悦因“制造平壤上空无人机入侵事件”一审被判30年 - thepaper.cn
+- TOP10！延吉再上美食目的地热榜 - thepaper.cn
+- 小儿憋尿习惯，会影响膀胱容量吗？ - thepaper.cn
+- 创历史新高后，风华高科，盘中触及跌停 - thepaper.cn
+- 官宣！陆家嘴论坛，召开时间定了！ - thepaper.cn
+- 西宁市城北区将...... - thepaper.cn
+- 什么是林奇综合征？ - thepaper.cn
+- 我国将继续完善东西部协作 保持政策总体稳定、帮扶力度不减 - thepaper.cn
+- 加快推动先进经验本土化转化 秦皇岛市农广校组织乡土文化能人专班赴辽宁开展异地跟踪教学 - thepaper.cn
+- 施工占道，涉及长春这些街路↘ - thepaper.cn
+- 胆囊切除后口苦怎么办？教你从根源排查问题，不再反复！ - thepaper.cn
+- 盘石头水库扩容项目通过省级审查 - thepaper.cn
+- 5月新能源汽车出口同比增长1.1倍 - thepaper.cn
+- 北京地铁回应“张雪反映异常情况” - thepaper.cn
+- @河南高考生，今明进行填报志愿模拟演练 - thepaper.cn
+- 贵州茅台表态：暂无拆股计划 - thepaper.cn
+- 成品油零售将全面推广“交易即开票” - thepaper.cn
 
-## 南方周末 (1 条)
-- 搜索: 618买一年送一年 - 南方周末
+## 南方周末 (2 条)
+- “赛博”山城，如何安顿普通人的日常
+- 在浙江，人大代表否决超10亿元政府投资项目
 
 ## 凤凰网 (20 条)
-- 美最新民调：超两成认为外星人已到访地球，政府公布UFO文件加剧公众猜测
-- 民主党：美国直升机被击落，基地遇袭，军队遭攻击，战争根本没有结束
-- 学者：对台海上执法行动既震慑了“台独”，又警告了日菲
-- 美议员焦躁：中国领先一头，美国承受不起
-- 邱建富退党杀出，彰化选情重新洗牌？媒体人看到蓝营翻盘机会
-- 妻子提离婚被追捅刺死，丈夫二审不认罪，称“为了向被害人父母尽孝”
-- 从“非核家园”到“史上最贵电价”，民进党的“不缺电”还能骗多久？
-- 餐桌断裂致女童磕伤，家长索赔却遭餐厅讽刺“带孩子去韩国整容”
-- 胖东来回应“员工不值这么多钱”，断章取义是对企业的无理伤害
-- 79岁特朗普“创纪录”，22位医生同时为他体检，健康状况越发扑朔
-- 特朗普大寿两天前，这组数字直接印白宫边上了
-- 深绿政党称“有条件接受统一”，台媒：“台独”最怕的是认清现实
-- “中东战事无妨：中国早学会了用更少燃料生活”
-- 英国防大臣辞职数小时后，一国务大臣也辞去职务
-- 公安部：警惕“高考特招”类诈骗
-- 乌守军不足千人，俄军已控制康城九成区域
-- 美称击落两架伊朗无人机
-- 批台监察机构沦政治打手，蒋万安表态废除：建议蓝白民代全面封杀
-- 武契奇与林丹切磋羽毛球
-- 风声丨沉睡的1.44万亿，被这项新政激活了
+- 百灵投诉 | 上海淇毓信息科技有限公司：违规骚扰第三方，非法收集个人信息，工作单位 - 凤凰财经
+- 尹锡悦因“无人机入朝事件”被判30年 - 凤凰网
+- 美财长：如有必要，将拿伊朗的钱补偿海湾国家 - 凤凰网
+- “SpaceX没说，但所有线索都指向中国” - 凤凰网
+- 凤言锋语：武汉连续三年实现人口正增长年轻人为何扎堆留武汉？ - 凤凰网湖北
+- 白宫官员：特朗普欲撤销两次被弹劾记录 - 凤凰网
+- 缅甸总统将对中国进行国事访问 - 凤凰网
+- 伊朗发海报讽刺美国！海报上人类头骨堆积成山，配文：当战争常客成为世界杯东道主，“这是有史以来最大的灾难” - 凤凰网
+- 九江财政八成投向民生！ 让老百姓的日子更有奔头、更有盼头、更有甜头 - 凤凰视频
+- 破除演员“撕番”乱象三协会发文规范演员署名按姓氏笔画排列不得单独使用艺名规范使用“领衔主演” - 凤凰视频
+- 解码自民党第二份外国人政策 永住继续收紧 起底新规 - 凤凰视频
+- 西安欧亚学院网络与新媒体专业2026招生宣传 - 凤凰视频
+- 不必远赴徽州！6月13-14日，瞻淇鱼灯“游”进来安兴茂 - 凤凰网
+- 巴西女记者在墨西哥报道世界杯，当地乐手突然掏枪递给她，她笑着接过枪还说“太重了” - 凤凰视频
+- 蒋万安南下辅选，抛发监察院主张引议 - 凤凰视频
+- 人民的宝藏——郑州文物的过去与未来（下） - 凤凰视频
+- 兰大×中国电信！强强联合！ - 凤凰视频
+- SpaceX完成超级IPO，估值达1.77万亿美元 - 凤凰视频
+- 日本H3火箭6号机发射成功 - 凤凰视频
+- 路虎揽胜极光L价格暴跌至17万多 经销商：属实 - 凤凰网
 
-## 财新网 (20 条)
-- 美加墨世界杯开幕 三国联办48队参赛创纪录
-- 陈茂波：资金“安心港”与科技“爆发力”交汇在香港
-- 比尔·盖茨出席爱泼斯坦案听证会 称曾遭后者以婚外情施压
-- 钱还是多的
-- 视线｜被大屠杀夺走肢体 这群卢旺达人靠“双拐足球”完成了自救
-- 米琴：新版电影中的富二代“创伤青年”哈姆雷特
-- 第九届财新夏季峰会【欢迎晚宴】
-- 第九届财新夏季峰会
-- 县域基金招商的退潮与重生
-- 王烁致辞：世界太多“想不到”，要时刻做好准备
-- 最会讲伊朗故事的人走了｜纪念
-- 【市场动态】欧洲央行周四加息后 IMF称或需进一步加息
-- 财新闻｜世界杯揭幕战三张红牌 东道主墨西哥2-0战胜南非
-- 【市场动态】OpenAI据悉考虑大幅降价 与Anthropic展开用户争夺战
-- 资本泡沫，大多源于短利思维对长期价值的僭越
-- 今日开盘：两市双双高开 沪指涨幅0.77%
-- T早报｜SpaceX披露每股定价135美元；北京市监局约谈5家电商平台点名6.18内卷式竞争；Meta已完成与Manus运营分离
-- 特朗普预告猛攻伊朗后又取消攻击 称美伊协议或本周末签署
-- 新加坡前副总理王瑞杰：耐心资本如何投资AI？
-- 大西洋观察│移民与反移民的社会撕扯
+## 财新网 (19 条)
+- 香港生产力促进局黎少斌：中国企业应借助香港优势打造全球生态圈
+- 下周前瞻：G7峰会在法国举行；沃什首次主持美联储议息
+- 香港理工大学副校长曹建农：AI为传统教育转型提供难得机遇
+- 香港金发局董一岳：充分发挥香港金融稳定性优势
+- 紫晶存储案余波：先行赔付后 四家中介机构启动追偿
+- 解禁期临近 智谱、MiniMax两周时间股价接近腰斩
+- GPT周报｜Visa接入OpenAI；马斯克旗下xAI和SpaceX被起诉扰民；美团、滴滴、携程等接入微信AI生态
+- 税务总局强化加油站税收监管 2026年11月前实现“交易即开票”
+- 市监总局：没有“特供酒”，都是骗人的
+- 腾讯汤道生：正在推动算电融合
+- 人事观察｜一年内职务频调整 长沙人陈竞任长沙书记
+- 香港保监局张云正：香港与大湾区内地城市要重点突破制度壁垒
+- 美伊停战协议内容曝光 伊核问题将留待下一阶段谈判解决
+- 【华尔街原声】贝索斯：AI不会导致失业潮 反而会出现劳动力短缺
+- 外国投资者交易A股热情提升 港交所陈翊庭盼互联互通扩容
+- 【商圈】台湾商业巨子尹衍樑：拒戴红顶称号 航行于义利之间
+- 四川消防总队原政委农有良被查 一年半内消防系统众多官员落马
+- 2026财新夏季峰会 【演讲/对话】负笈香江：AI重塑教育
+- 2026财新夏季峰会 【专题讨论一】粤港澳大湾区建设：如何水到渠成？
 
-## 央视网 (3 条)
+## 央视网 (5 条)
 - 白菜演化脉络被揭示 - 央视网
+- 全国夏粮小麦收获进度过七成 - 央视网
+- 《阅·见未来》第8期：如何通过对比阅读形成独立观点？ - 央视网
 - 1至5月全国铁路完成固定资产投资2485亿元 同比增长2.6% - 央视网
-- 中国人如何“驯服” 浑身是毒的魔芋 - 央视网
+- 《整治涉企侵权信息 优化营商网络环境自律公约》全文发布 - 央视网
 
-## BBC (3 条)
+## BBC (15 条)
+- Tehran says 'nothing' finalised after Trump claims deal to end Iran war near
+- Flip flop or deliberate? - Unpacking Trump’s strategy on Iran
+- Thai Princess Bajrakitiyabha dies after more than three years in coma
+- Why the economics make this the craziest World Cup ever
+- 'They destroyed the future': Palestinian anger at rise in Israeli demolitions in East Jerusalem
 - World Cup kicks off in Mexico with Shakira, dancing, and protests
 - Nigeria evacuates citizens from South Africa as anti-migrant sentiment rises
 - Pope Leo visits Canary Islands to highlight perilous journeys of migrants
+- More than 50 Iranian military bases damaged in US strikes since start of war, satellite images show
+- The World Cup of adverts: How brands are competing to entertain, not simply sell
+- Ex-UK political aide Steve Hilton would overhaul California as governor, he tells BBC
+- The unknown man in my mother's coffin: A year after Air India crash, families still waiting for answers
+- Watch: Three things to know about SpaceX's stock market debut
+- 'I was employee number one': SpaceX co-founder reacts to firm's market debut
+- Flip flop or deliberate? - Unpacking Trump’s strategy on Iran
 
-## Reuters (9 条)
-- Ariana Grande to White House: Don't use my music for 'heinous nonsense' - Reuters
+## Reuters (11 条)
+- Evangelicals divided on Trump's war in Iran, immigration crackdown, Reuters/Ipsos poll finds - Reuters
+- After record IPO, Musk's SpaceX faces next test in market debut - Reuters
 - Red-hot SpaceX IPO may burn retail buyers - Reuters
-- SpaceX IPO makes Elon Musk the world's first trillionaire - Reuters
-- Anthropic v. OpenAI: Behind the bitter battle for the future of AI - Reuters
-- Musk's SpaceX prices record $75 billion IPO at $135 a share - Reuters
+- Ariana Grande to White House: Don't use my music for 'heinous nonsense' - Reuters
 - Top 50 English-language news sites in the world: Indian brands hit hardest by traffic drops in May - Press Gazette
+- SpaceX IPO makes Elon Musk the world's first trillionaire - Reuters
+- Musk's SpaceX prices record $75 billion IPO at $135 a share - Reuters
+- Anthropic v. OpenAI: Behind the bitter battle for the future of AI - Reuters
 - Adobe CFO exit fans strategy worries despite outlook raise - Reuters
 - Toronto cancels World Cup fan festival due to severe weather risk - Reuters
 - UK defence minister quits, says Starmer not spending enough to keep country safe - Reuters
 
 ## NYTimes (20 条)
-- Iran War Live Updates: Trump Again Claims Deal Is Close After Retracting Threat of Strikes
+- Iran War Live Updates: Tense Calm Grips Mideast as Trump Again Claims Deal Is Close
+- Neither Peace Nor War: Iran Conflict Leaves World in Dangerous Limbo
+- World Cup Ticket Prices in Mexico City Too Expensive for Most Fans
+- Bring the Kids and Grab Some Barbecue: A Day at the Ukrainian Drone Races
+- U.S. Plan Is Said to Pull a Third of Fighter Jets It Provides NATO for Europe
+- Drones Flown Over North Korea Were Part of Martial Law Plot by Former South Korean President
+- A Globe-Spanning Collection of Children’s Art May Lose Its Home
+- ‘Operation Pushkin’: Paris Trial Puts Spotlight on Rare-Book Heists
 - U.K. Defense Secretary Resigns, in a Blow to Starmer
 - This Is Mexico and Canada’s World Cup, Too. Don’t Expect Unity.
 - U.S. Blocks Deal by Florida-based Vanguard Energy to Supply Fuel to Cuba
 - 13 Afghan Civilians Killed in Airstrikes on Pakistan Border, U.N. Says
-- Israel Set to Rapidly Expand West Bank Settlement
-- Toronto Police Officer Fatally Shot While Investigating U.S. Consulate Shooting
-- Netanyahu Aide Charged With Endangering Israeli Security Over Document Leak
-- In the U.K., a Violent Cycle: Hateful Attacks, Right-Wing Agitation and Riots
-- Refugees’ Numbers Drop, but Many Return to Turmoil at Home, U.N. Says
-- Thousands Protest Outside World Cup Opening Ceremony in Mexico City
-- Why Mexico’s President Will Not Attend the World Cup Opening Match
-- ‘Operation Pushkin’: Paris Trial Puts Spotlight on Rare-Book Heists
-- U.S. Plan Is Said to Pull a Third of Fighter Jets It Provides NATO for Europe
-- Drones Flown Over North Korea Were Part of Martial Law Plot by Former South Korean President
+- With iPhones and Faxes, David Hockney Embraced Tech
+- Here’s the latest.
 - China Has Arrested U.S. Scholar Who Studies Myanmar Politics
 - Princess Bha of Thailand, Second in Line to the Throne, Dies at 47
 - Whipsawed Between Fear and Relief, Iranians Hope for War’s End
 - Trump, in Latest Pivot, Retracts Threat to Strike Iran Again and Widen the War
 - As World Cup Begins, Mexico City Becomes a Global Stage
+- The SpaceX I.P.O. Rocket
 
 ## CNN (6 条)
 - 0% intro APR until 2024 is 100% insane
@@ -143,26 +159,26 @@
 - Want Cash Out of Your Home? Here Are Your Best Options
 
 ## 微博热搜 (20 条)
-- 白鹿方六连辟谣
-- 韩国vs捷克
-- 网信办发布公约整治涉企侵权信息
-- 美团外卖赞助加纳队
-- 老外也疑惑中国为什么不参加世界杯
-- 上下嘴唇一碰差点把自己毒死
-- 孙兴慜状态
-- 官方声明农机考证先办证后交费为假
-- 伊能静替张豆豆哭了
-- 影石对大疆发起反诉
-- 抓特务
-- 韩国梅西式进球
-- 韩国2比1捷克
-- 日本炸鸡店一锅油反复用66年
+- 世界杯在中国的收视率爆了
+- labubu世界杯销量暴涨30倍
+- 打卡中国
+- 联想世界杯一球千金
+- 25岁女子为保胎多器官衰竭进ICU
+- 鸿蒙7
+- 吃完虾千万不要剧烈运动
+- 球场疼痛急救指南
+- 内娱闯不进去的赛道短剧闯进去了
+- 买连衣裙 看手肘
+- 中餐厅10
+- SpaceX登陆纳斯达克
+- 演员表不让单独用艺名了
+- 艺人真名艺名汇总
+- 我一点也不期待2028年
+- 陈瑶拒绝了张月三次
+- 演员陈敏儿去世
+- 因为饼干太好吃而察觉到不对劲
 - 白鹿学历
-- 陈立农这是干什么
-- 亲密关系 心理承载力
-- 张新成丁禹兮身材被审判
-- 足球遇上功夫有多燃
-- 蒙淇淇 没收到任何通知
+- 赵丽颖 女刑警队长
 
 ## 知乎热榜 (20 条)
 - 有哪些看完后惊呼「卧槽」的历史真实事件或冷知识？
@@ -188,134 +204,126 @@
 
 ## B站热门 (20 条)
 - 《弧光猎人》弧光测试PV&国服事件预告｜星火燎原
-- 星际超级荒诞动画喜剧！《外星小偷里贝》第03话：上岸星球【UP动画】
+- 🐷猪厂销售 但不卖猪
 - 有什么比精神小妹爱上纯情男大的故事更狗血
-- 《明日方舟：终末地》版本情报 | 危机合约先导PV与「寻遗散记」更新
-- 【某幻】《盛世天下》再返深宫，活下来！
-- 懒人为了“顺手”俩字，到底能做多少收纳？
+- 【纪录片】地球·劫后重生 中配版01 火山炼狱
 - 认为自己旅游运差时可以看看我.
-- 当90后家长上门道歉
-- 世界杯唱擦边歌？韩国人怎么评价LISA speed 夏奇拉世界杯主题曲？blackpink bts 狼姐
-- 《鸣潮》共鸣者「洛瑟菈」PV | 课后辅导
-- 原来导演才是真正的跑男！
-- 动态视频｜吸进身体的二手烟，到底有多脏？
-- 全新爽搜图！新式免保！新式房卡！多结局解密！核电站它来了！「三角洲S9赛季」
-- 当你想养狗，不同国家爸妈都是啥反应？最后一个，来照镜子！
-- 我在mc用千万方块还原了『召唤师峡谷』！！
+- 星际超级荒诞动画喜剧！《外星小偷里贝》第03话：上岸星球【UP动画】
+- 如何骗走CIA三百根金条
+- 新地图解锁！影视飓风的电竞房？
+- 《明日方舟：终末地》版本情报 | 危机合约先导PV与「寻遗散记」更新
+- 【独家】《将夜》第9集 风雨入夜【4月国创】
+- 净化班味
+- 懒人为了“顺手”俩字，到底能做多少收纳？
+- 一百万只马达加斯加企鹅能否战胜一拳超人？
+- 【萌黄速报】7月高招A 宇智波佐助[兄弟之战]，百战活动情报抢先看！
 - 别叫霞姐叫“侠姐”
-- 末世先杀圣母
-- 今年最恶毒烂梗出炉，一个梗骂几亿中国人，我没见过这么恶心的营销手段！
-- 《我真的不是黑社会》
-- 境外团伙搭色情网站围猎中国青少年 浏览量超1亿次
+- 全新爽搜图！新式免保！新式房卡！多结局解密！核电站它来了！「三角洲S9赛季」
+- 【某幻】《盛世天下》再返深宫，活下来！
+- 呃 你有点太重力了
+- 网上不花钱找的主人
+- 【纪录片】一招一食 第一回 刀
 
 ## 抖音热搜 (20 条)
 - 韩国2:1捷克
-- 世界杯开幕式我们来了
-- 我国汽车出口连续两月超90万辆
-- 是时候穿上我的主队球衣了
-- 墨西哥2:0南非赢下揭幕战
-- 网警披露一起未履行个人信息保护义务案
-- 现场观赛世界杯是什么体验
-- 熬夜看完世界杯开幕式的我想说
-- 唐梓坏端端的突然变好了
 - 尹锡悦因无人机事件被判30年
-- 用想要问问你敢不敢打开甄嬛传
-- 夏奇拉抖音分享开幕式表演
-- 美加墨世界杯首场开幕式
+- 中国有望引领全球6G部署
+- 来许昌不吃杂炣等于白来
+- 网警披露一起未履行个人信息保护义务案
+- 官方明确电视剧演员署名规范
+- 夫妻开面馆两年被指商标侵权
+- 造梦师与华纳音乐官宣合作
+- HLE对战T1
+- 日本男足队长宣布退役
+- 墨西哥2:0南非赢下揭幕战
 - 关于西瓜的谣言你都听过哪些
+- 孩子的底气是跌倒脆弱时有人爱她
 - 演员白鹿方发表声明
-- 尝尝南部档案的咸淡
-- 抖音AI创作大赛来了
-- 吴越杯决赛现场氛围太夯了
-- 吸进身体的二手烟到底有多脏
-- 我的世界杯宝藏应援妆
+- 常州一直升机尾部断裂迫降草坪
+- 这个榴莲馒头看起来很诱人
+- 加拿大波黑小组赛谁能取胜
+- 世界杯揭幕战预言家来了
+- 水果姐世界杯开幕表演预热抖音
+- Angel你懂我的眼泪
+
+## 豆瓣讨论 (3 条)
+- 今天浪姐选人最好笑的一幕 - 豆瓣
+- 怎么这么艺术.全部notin - 豆瓣
+- “我只有六十五张我给了你六十张，我的第一选择就是你。” - 豆瓣
+
+## 丁香园 (1 条)
+- 巴掌大、透明皮肤、一瓶水的重量……这些「迷你宝宝」如何闯过生命第一关？ - y.dxy.cn
 
 ## 雪球热帖 (20 条)
-- 有色锌板块大涨 锡业股份涨停 - 新浪财经
-- 医疗器械ETF招商（159898）涨1.48%，半日成交额1605.69万元 - 新浪财经
-- 央企ETF工银（510060）开盘跌0.19%，重仓股招商银行跌0.36%，长江电力跌0.43% - 新浪财经
-- 价值ETF华宝（510030）开盘涨0.00%，重仓股中国平安跌0.34%，招商银行跌0.36% - 新浪财经
-- 科创50ETF国联安（588180）开盘涨3.43%，重仓股寒武纪涨3.16%，海光信息涨3.44% - 新浪财经
-- 红利质量ETF招商（159209）开盘涨0.36%，重仓股贵州茅台跌0.61%，山金国际涨2.34% - 新浪财经
-- 创业板ETF华夏（159957）开盘涨2.07%，重仓股宁德时代涨2.04%，中际旭创涨5.16% - 新浪财经
-- 电网设备ETF国泰（561380）开盘涨1.21%，重仓股亨通光电涨2.62%，思源电气涨1.35% - 新浪财经
-- 电网设备ETF广发（159320）开盘涨0.92%，重仓股亨通光电涨2.62%，思源电气涨1.35% - 新浪财经
-- 通用航空ETF平安（561660）开盘涨1.00%，重仓股航天电子涨1.69%，海格通信涨2.06% - 新浪财经
-- 深100ETF方正富邦（159961）开盘涨0.98%，重仓股宁德时代涨2.04%，中际旭创涨5.16% - 新浪财经
-- 创业板软件ETF富国（159107）开盘涨1.36%，重仓股同花顺涨1.53%，润泽科技涨2.00% - 新浪财经
-- 电力ETF易方达（560930）开盘涨0.63%，重仓股长江电力跌0.43%，中国核电跌0.22% - 新浪财经
-- 电力ETF景顺（159158）开盘跌0.46%，重仓股长江电力跌0.43%，中国核电跌0.22% - 新浪财经
-- 沪深300指增ETF华宝（562070）开盘涨0.19%，重仓股宁德时代涨2.04%，中际旭创涨5.16% - 新浪财经
-- 现金流全指ETF方正富邦（563780）开盘涨0.00%，重仓股中国海油跌2.84%，上汽集团跌0.09% - 新浪财经
-- 央企回报ETF招商（561960）涨1.32%，半日成交额4.81万元 - 新浪财经
-- 券商ETF银华（159842）开盘涨0.10%，重仓股东方财富涨0.75%，中信证券涨0.20% - 新浪财经
-- 科创创业50ETF南方（159780）开盘涨3.43%，重仓股宁德时代涨2.04%，中际旭创涨5.16% - 新浪财经
-- 养殖ETF平安（516760）开盘跌0.18%，重仓股温氏股份跌0.47%，海大集团跌0.22% - 新浪财经
+- 澜起科技遭瑞银集团减持15.65万股 每股作价约414.92港元 - 新浪财经
+- 基金配置研究：固收+基金定量跟踪月报(2026年4月) - 新浪网
+- A股成交集中度走高 市场行情如何演绎？ - 新浪网
+- 国家外汇管理局外汇研究中心公开招聘公告 - 新浪财经
+- 半导体龙头ETF工银（159665）涨0.52%，半日成交额3172.94万元 - 新浪财经
+- 药明康德6月12日现1笔大宗交易 总成交金额1073.88万元 溢价率为0.00% - 新浪财经
+- 药物受理最新动态：广盛原中医药有限公司舒心宁片补充申请获受理 - 新浪财经
+- 联翔股份索赔新进展 部分股民提交起诉 - 新浪财经
+- 希望退休前最后一场演唱会能放在鸟巢 - 新浪财经
+- 中际旭创临时股东会完成董事会换届 成波、王晓东得票率居前 - 新浪财经
+- 启明信息临时股东会完成董事会换届 张志刚以99.89%得票率当选非独立董事 - 新浪财经
+- 史上最大IPO来袭，SpaceX如何撑起万亿美元估值？ - 新浪财经
+- 考完就走！长沙成热门“青春打卡地” - 新浪财经
+- 领展房产基金获小摩增持约779.51万股 每股作价约38.45港元 - 新浪财经
+- 智源研究院院长王仲远：预测下一个状态，人工智能正向世界模型方向演进 - 新浪财经
+- 21评论丨AI+通信，为人工智能时代铺好路基底座 - 新浪财经
+- 金山云：AI算力相关产品服务上调约15%-50% - 新浪财经
+- 天玛智控(688570.SH)：副总经理庞奇因工作调动辞职，不再担任任何职务 - 新浪财经
+- 洁美科技(002859.SZ)：子公司拟投建“年产5万吨高端电子元器件封装新型材料项目” - 新浪财经
+- 从爆款突围到全链跃迁，中国高端汽车下半场拼什么？ - 新浪财经
 
 ## 36氪 (20 条)
-- SK海力士回应厂区火灾：已初步控制，生产设备运行正常
-- 布伦特原油期货跌幅扩大至2%
-- 恒指午间休盘涨2.02%，恒生科技指数涨1.72%
-- 钉钉发布DingTalk A1豆蔻医生版
-- 两部门约谈提醒涉嫌非理性竞争汽车生产企业
-- 优必选携手沐曦股份共研具身智能端侧芯片
-- 宗馥莉接任杭州宏胜恒枫法定代表人
-- SK海力士发生本月第二起火灾
-- 腾讯云：DatabaseClaw正式商业化计费
-- A股三大指数午间休盘集体上涨，贵金属板块领涨
-- 恒生指数日内涨幅扩大至2%
-- 沪深两市成交额突破2万亿
-- 我国件杂货国际物流发展整体稳健
-- 开悟世界模型在RoboTwin 2.0等具身智能评测中居首
-- InterDigital与亚马逊达成新的视频服务和设备许可协议
-- 晶核能源发布全球首款专为机器人场景定制的高性能固态电池
-- 1至5月全国铁路完成固定资产投资2485亿元
-- 众擎机器人据悉将向港交所提交IPO申请
-- “空山慈”完成A轮融资
-- 全国最大半潜式综合性网箱养殖平台将投产
+- 高凯技术科创板IPO定于6月22日上会
+- 天博智能沪市主板IPO获上市委会议通过
+- 安佑生物科技集团股份有限公司深市主板IPO获受理
+- 沐曦股份：筹划发行H股股票并在香港联合交易所有限公司上市
+- 三安光电：董事长林志强今日增持100万股公司股份
+- 上交所：本周对22起上市公司重大事项等进行专项核查
+- 富信科技：MicroTEC产品的产能利用率为95%以上，已与Coherent客户建立了良好合作关系
+- 万丰奥威：拟公开摘牌收购飞机工业35%股权，交易底价合计约25.04亿元
+- 河钢股份：拟向控股子公司乐钢增资48亿元
+- 证监会：批复同意长鑫科技集团股份有限公司首次公开发行股票注册
+- 证监会：同意中电科思仪科技股份有限公司首次公开发行股票并在创业板上市的注册申请
+- *ST立航：撤销退市风险警示，6月16日起股票简称变更为立航科技
+- 富淼科技：拟现金收购沃特泰科51%股权，标的公司为工业水处理综合服务提供商
+- 马斯克将持有SpaceX公司82.4%的投票权
+- 英国4月国内生产总值环比下降0.1%
+- 倍轻松：收到《行政处罚事先告知书》
+- 福光股份：应用于航天领域的产品销售收入占营业收入的比例约为3.48%，对公司业绩影响较小
+- SpaceX今日纳斯达克上市，总裁肖特韦尔称IPO仅是“未来征程”一小步
+- 太极实业：选举秦晨飞担任董事长
+- *ST原尚：撤销退市风险警示，6月16日起股票简称变更为原尚股份
 
 ## 虎嗅 (20 条)
-- 又一个赚差价的中间商冲击IPO：农夫、东鹏们都想做的生意，TA做到了行业第一
-- AI大模型，疯抢“张雪峰们”的生意
-- 一砍再砍，新一轮开发区撤并潮，来了
-- 买中易中天的年轻人
-- 亏损换增长的游戏，品牌不想玩下去了
-- 一河之隔，山西要向河南学什么？
-- 百亿补贴的真相
-- 新车热销竟是凭空捏造，AI到底给汽车营销制造多少假象？
-- 特朗普引以为傲的“美国制造”，其实是一台广东贴牌的HTC
-- 打声招呼都被拒，Claude 最强模型怎么成了“超绝敏感肌”
-- 花200块起5个号？这批博主靠“人设打假”开辟新赛道
-- 当Agent大规模落地，IT部门将成为下一个HR部门？
-- 1.77万亿美元，马斯克凭什么？
-- 鹅腿阿姨的护城河不在腿上
-- 当AI取代智力劳动，是时候考虑“全民分红”了
-- 大疆走出的科学家要IPO了
-- 让5个AI文明自己活15天，Claude建成了乌托邦，Grok四天团灭。
-- 想加盟一家肯德基，如何选址发现品牌的空白市场？
-- 丰田章男的孤独
-- SpaceX1.8万亿IPO，马斯克要贩卖一朵怼天怼地的AI云
+- 童年噩梦槽子糕，年轻人抢着吃
+- “全球电动化低迷”的谎言下，日本车企被困在电动化孤岛
+- 一娃顶一国，马斯克爸爸的恩情花不完
+- 美元结算里的隐形长臂：矿产出海企业最容易忽视的涉美连接点
+- 中国运载火箭的“危”与“机”：如何跨越高效低成本空间进入鸿沟？
+- 票房6年翻7倍，演唱会将成为泛娱乐价值终端
+- 世界杯折射的“美国例外论”：一届赛事如何照见一个国家的此刻
+- 奶茶巨头纷纷跨界做gelato，意式冰淇淋生意有什么吸引力？
+- AI眼镜的“隐秘角落”：作弊、偷拍与灰色生意经
+- 百亿亏损、依赖输血，粤芯半导体IPO撕开晶圆代工红海真相
+- 引爆舆论的“鹅腿阿姨”, 竟变相牵出中国制度的真实内情？
+- 福建第一座高奢mall，败给了自己
+- 谁在赌世界杯冠军？不是球迷，是数学家
+- 国产汽水扎堆复活，情怀究竟有多赚钱？
+- 中国四大厂押注的机器人，还叠不好家里的枕巾
+- 梁小民：经济学家不能治国
+- Lisa带不动的世界杯，咖啡品牌想试试
+- SpaceX 上市的VC 大赢家们：浮盈数百亿美元，华人资本绕道进场
+- 大疆起诉影石，指控其Luna相机侵犯多项核心专利
+- 表达的算法：如何打造成长型的“内心精选集”
 
-## 少数派 (1 条)
+## 少数派 (5 条)
+- 本周看什么 | 最近值得一看的 10 部作品
+- Level Read：让英语学习从「读得懂」开始，每天都进步一点点
+- 把 AI 装进口袋，然后把它忘掉：
+YoooClaw C·ONE 智能硬件一个月使用体验
+- WWDC 26 发布会上，Apple 没告诉你的那些事
 - 派早报：五电商平台因「百亿补贴」问题被约谈、Xbox 启动业务重置计划等
-
-## GitHub Trending (19 条)
-- apple/container
-- addyosmani/agent-skills
-- maziyarpanahi/openmed
-- phuryn/pm-skills
-- NVIDIA/SkillSpector
-- soxoj/maigret
-- x1xhlol/system-prompts-and-models-of-ai-tools
-- refactoringhq/tolaria
-- obra/superpowers
-- restic/restic
-- msitarzewski/agency-agents
-- masterking32/MasterDnsVPN
-- chatwoot/chatwoot
-- kenn-io/agentsview
-- alchaincyf/zhangxuefeng-skill
-- TapXWorld/ChinaTextbook
-- hexo-ai/sia
-- mattermost/mattermost
-- bannedbook/fanqiang

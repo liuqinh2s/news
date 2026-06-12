@@ -2,89 +2,170 @@
   "date": "2026-06-12",
   "news": [
     {
-      "title": "SpaceX创纪录IPO",
-      "summary": "马斯克旗下SpaceX公司以每股135美元的价格完成IPO，估值达1.8万亿美元，使马斯克成为世界首位万亿富翁。此次IPO吸引了全球投资者关注，被视为科技行业里程碑事件。SpaceX作为太空探索和商业航天领域的领军企业，其成功上市将进一步推动太空技术商业化进程，可能加速人类太空探索步伐。",
-      "reason": "科技巨头创纪录IPO，马斯克成为世界首位万亿富翁",
+      "title": "SpaceX超级IPO",
+      "summary": "美国太空探索技术公司(SpaceX)于今日在纳斯达克完成史上最大规模IPO，估值达到1.77万亿美元，成为全球市值最高的公司之一。此次IPO发行价定为每股135美元，募资规模达750亿美元。马斯克通过此次交易持有公司82.4%的投票权，继续保持绝对控制权。SpaceX的上市标志着商业航天产业进入新阶段，将对全球航天产业格局、卫星互联网发展以及太空探索产生深远影响。分析师认为，这一估值反映了市场对SpaceX星链计划、星舰项目以及未来太空商业化的高度期待。",
+      "reason": "科技巨头SpaceX完成史上最大IPO，估值达1.77万亿美元，马斯克成为世界首富，具有重大科技和金融影响。",
       "impact_areas": [
         "科技",
         "经济金融"
       ],
-      "impact_level": "重大",
+      "impact_level": "现象级",
       "sources": [
         {
-          "name": "Reuters",
-          "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNQ29nNW1EaG5SNGNjOWFzb2VLbVJyWnVLN1VFMF9ORi1DOGhFd0xNa29ocDdqT0ZwVGVwRXd1VkNrYzJ4NUV6MURUNWVlaU9sUFBGWmN4TjEzT0VWNGJfSGFDZ1FVZVo4LW80a0JfX3NnRlpydTBNMUFYaVVSM0xvMnVIdGU0RlRITzN2RjRHdXVBUzI3dk8tdQ"
-        }
-      ]
-    },
-    {
-      "title": "SK海力士厂区火灾",
-      "summary": "SK海力士本月发生第二起厂区火灾，公司已初步控制火势，生产设备运行正常。作为全球主要存储芯片制造商，SK海力士的厂区安全备受关注。此次火灾可能对全球芯片供应链产生短期影响，尤其是内存市场。公司表示将全力保障生产，但市场对芯片供应紧张的担忧可能加剧。",
-      "reason": "全球芯片大厂发生火灾，可能影响供应链",
-      "impact_areas": [
-        "科技",
-        "经济金融"
-      ],
-      "impact_level": "重大",
-      "sources": [
-        {
-          "name": "36氪",
-          "url": "https://www.36kr.com/newsflashes/3849684512019457"
+          "name": "凤凰网",
+          "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE9zQndhelEwYk9uZ3JUYVJQNUstdXhvbVk0S045SEtYVy1ERGUyaWNPX0gxUDl5OVZqWjRZbEpTRnBqUzBXeTktVw?oc=5"
         },
         {
           "name": "36氪",
-          "url": "https://www.36kr.com/newsflashes/3849643772433409"
+          "url": "https://www.36kr.com/newsflashes/3850037062374403"
+        },
+        {
+          "name": "36氪",
+          "url": "https://www.36kr.com/newsflashes/3850049875236100"
         }
       ]
     },
     {
-      "title": "特朗普取消对伊攻击",
-      "summary": "美国总统特朗普在威胁要对伊朗发动攻击后突然取消行动，并表示美伊协议或本周末签署。这一转变引发国际社会关注，中东紧张局势暂时缓解。特朗普此前曾称击落两架伊朗无人机，并威胁扩大对伊朗的军事行动。此番态度转变可能与国际压力及国内政治考量有关，但中东局势仍存在不确定性。",
-      "reason": "特朗普威胁攻击伊朗后又取消，中东局势出现转折",
+      "title": "尹锡悦被判30年",
+      "summary": "韩国前总统尹锡悦今日因\"制造平壤上空无人机入侵事件\"被判处30年有期徒刑。法院认定尹锡悦在任期间策划并实施了无人机入侵朝鲜平壤的行动，严重违反了国家安全法和国际关系准则。此案引发韩国国内和国际社会广泛关注，被视为韩国政治史上重大事件。尹锡悦的辩护律师表示将上诉，而韩国现任政府则表示尊重司法判决。此事件可能对韩朝关系以及韩国国内政治格局产生深远影响。",
+      "reason": "韩国前总统尹锡悦因\"无人机入朝事件\"被判30年，引发国际关注，涉及地缘政治。",
       "impact_areas": [
         "政治",
         "地缘"
+      ],
+      "impact_level": "重大",
+      "sources": [
+        {
+          "name": "澎湃新闻",
+          "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9tLWpVeEc0Q19fSkFITjg1NTJYckN6YlVjd1FZbndyMm1JQ2dxLVlpQnNnX3JhWTNMbDFJZkVvNDdhQWJCTUNXZzR3QmdONzZvZkN3cHo1eUVTUnpaM3F2VA?oc=5"
+        },
+        {
+          "name": "凤凰网",
+          "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE5QS1hTWDBGWW1PeEQzVUJSaUZZZWYwNlo0cjMwaHJ1LWpnbU5INHBEai1MTXJJR1JORjYyQi0ta0ltTGp0THNDZEZkcGk?oc=5"
+        }
+      ]
+    },
+    {
+      "title": "美伊停战协议曝光",
+      "summary": "据多方消息源证实，美国与伊朗已就停战协议达成初步共识，协议内容今日被部分曝光。根据协议，双方将立即停止军事行动，释放被扣押人员，并成立联合监督委员会。然而，协议明确表示伊核问题将留待下一阶段谈判解决，这一安排引发国际社会对长期稳定性的担忧。特朗普政府表示这是\"历史性突破\"，而伊朗方面则强调这是\"暂时停火\"。分析人士认为，这一协议可能暂时缓解中东紧张局势，但未能从根本上解决伊核问题，未来局势仍存在不确定性。",
+      "reason": "美伊冲突持续发酵，停战协议内容曝光，可能影响中东局势，具有重大地缘政治影响。",
+      "impact_areas": [
+        "地缘",
+        "政治"
       ],
       "impact_level": "重大",
       "sources": [
         {
           "name": "财新网",
-          "url": "https://international.caixin.com/2026-06-12/102453260.html"
+          "url": "https://international.caixin.com/2026-06-12/102453560.html"
+        },
+        {
+          "name": "BBC",
+          "url": "https://www.bbc.com/news/articles/c78y6w78828o?at_medium=RSS&at_campaign=rss"
         },
         {
           "name": "NYTimes",
-          "url": "https://www.nytimes.com/live/2026/06/11/world/iran-war-trump-us-israel"
-        },
-        {
-          "name": "Reuters",
-          "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNM2x1cE0xNTl3dWdWTHhWdTlmU05kWmRvaGxIbTRNd21CbUxDWkVuN3djS1piZGtDOUVuNnJyY1dwS1FxWnVCMmJtT05rbHJXWHlQaUo0aVFkejlpOW96Z201ck91QmJNdWlHZm1zUWJLdWxNWm9Bck5PVjRqZHI5d29RaHk4RHRvdFZCU0VmZS1pM3NxNHVKZ1N5ZjBGOXBXTDc0cTdQUmdubEVaNHpDbA"
+          "url": "https://www.nytimes.com/live/2026/06/12/world/iran-war-trump-us-israel"
         }
       ]
     },
     {
-      "title": "英防大臣突然辞职",
-      "summary": "英国国防大臣辞职，称首相斯塔默未能投入足够资金确保国家安全。这一辞职对英国政府造成打击，正值国际局势紧张时期。此前已有国务大臣辞职，显示英国政府内部可能存在分歧。此举可能影响英国国防政策及国际安全合作，特别是在俄乌冲突持续背景下。",
-      "reason": "英国防大臣辞职，政府面临安全政策挑战",
+      "title": "SpaceX正式上市",
+      "summary": "美国太空探索技术公司(SpaceX)今日正式在纳斯达克交易所挂牌上市，股票代码为\"SPCX\"。公司总裁肖特韦尔在上市仪式上表示，此次IPO仅是SpaceX\"未来征程\"的一小步，公司将继续推进星链计划、星舰项目以及火星殖民等宏大目标。SpaceX此次IPO发行价为每股135美元，估值达到1.77万亿美元，成为全球市值最高的公司之一。分析师认为，SpaceX的上市不仅标志着商业航天产业进入新阶段，也将对全球卫星互联网、太空探索以及相关产业链产生深远影响。",
+      "reason": "科技巨头SpaceX正式上市，对航天和科技产业格局有重大影响。",
       "impact_areas": [
-        "政治",
-        "地缘"
+        "科技",
+        "经济金融"
       ],
       "impact_level": "重大",
       "sources": [
         {
-          "name": "Reuters",
-          "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNUHR5cUxPVW1vQ0M1TVNiTTlObF9QdmFpbHNfQTJSdG5DMEJlRVdwdENYS3NBNC1qTTJacVBBZlpyS3JfdUhUclc2LXJEV2FzdHkwVnBvYk94blNoWmJXNWlOay1sM21nQ1ZIZFpQZ1pWQjctWTRoR3BhdFRGaDAxUFgwNWQ5TUFIZzktWERwQUZHUElwTkpRSHkwTFhsSmpjRDJ2OUJ4MmhwZw"
+          "name": "36氪",
+          "url": "https://www.36kr.com/newsflashes/3850037062374403"
         },
         {
-          "name": "NYTimes",
-          "url": "https://www.nytimes.com/2026/06/11/world/europe/uk-defense-secretary-resigns-healey-starmer.html"
+          "name": "凤凰网",
+          "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE9zQndhelEwYk9uZ3JUYVJQNUstdXhvbVk0S045SEtYVy1ERGUyaWNPX0gxUDl5OVZqWjRZbEpTRnBqUzBXeTktVw?oc=5"
         }
       ]
     },
     {
-      "title": "机器人专用固态电池问世",
-      "summary": "晶核能源发布全球首款专为机器人场景定制的高性能固态电池，标志着电池技术在机器人领域的重大突破。该电池具有高能量密度、快速充电和长寿命等特点，将极大提升机器人性能和续航能力。这一突破可能加速机器人技术在工业、服务及家用领域的应用，推动人工智能与实体世界的深度融合。",
-      "reason": "全球首款机器人专用固态电池发布，科技突破",
+      "title": "马斯克保持SpaceX控制权",
+      "summary": "根据SpaceX今日提交的监管文件显示，创始人埃隆·马斯克将通过此次IPO持有公司82.4%的投票权，继续保持对公司的绝对控制权。这一持股结构意味着马斯克能够对公司的重大决策拥有决定性影响力，包括战略方向、技术路线和资本配置等。分析师认为，这种高度集中的股权结构有利于SpaceX在执行长期太空探索计划时保持战略一致性，但也引发了关于公司治理和风险分散的讨论。马斯克同时表示，将继续推动SpaceX的星链计划、星舰项目以及火星殖民等宏大目标。",
+      "reason": "马斯克保持对SpaceX的绝对控制权，对公司未来战略方向有决定性影响。",
+      "impact_areas": [
+        "科技",
+        "经济金融"
+      ],
+      "impact_level": "重大",
+      "sources": [
+        {
+          "name": "36氪",
+          "url": "https://www.36kr.com/newsflashes/3850049875236100"
+        },
+        {
+          "name": "Reuters",
+          "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQQUM0N1pnemJMbTkxX1JYd0t1c3JRTDYtSmJiSkUwTkprOVZ1NTdVdFNQelEyc1FwV0ZRLXRfSWxGWmFtcXV0ODJoY2xUUU0tQS1kZC1oMmtKa3ZjX2ZXU3ZSZ0VtN3NHazRzWWlldnBHdEJFM2NzN2h1WG1mWU5rRi1IdTFwZE4xd2sxZlhoUHhnUjhPV2FpdlZIUFlFSjY3R3VaRzFicHg5blgzQThPcTdmYmU?oc=5"
+        }
+      ]
+    },
+    {
+      "title": "新能源汽车出口翻倍",
+      "summary": "中国汽车工业协会今日发布数据显示，2026年5月中国新能源汽车出口量达到45.7万辆，同比增长1.1倍，创历史新高。其中，纯电动汽车出口32.5万辆，同比增长1.3倍；插电式混合动力汽车出口13.2万辆，同比增长0.8倍。欧洲市场是中国新能源汽车出口的主要目的地，占比达42%，其次是东南亚市场(25%)和北美市场(18%)。分析人士指出，这一数据表明中国新能源汽车产业国际竞争力显著提升，在全球新能源汽车产业链中的地位不断加强。同时，这也反映了中国汽车产业转型升级的成效，以及\"双碳\"目标下全球对清洁能源交通工具需求的增长。",
+      "reason": "中国新能源汽车出口大幅增长，显示产业竞争力提升，对经济和产业格局有影响。",
+      "impact_areas": [
+        "经济金融",
+        "科技",
+        "产业"
+      ],
+      "impact_level": "重大",
+      "sources": [
+        {
+          "name": "澎湃新闻",
+          "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBCNlFNRVNyMlRVS012ZWlNcnZURW1ZTWVVMXlfcWZjVGE3bDdGVDE4MmFDM2c3UkhKWUtGQjZ1Y0hja0Q5N0tndkZPeEZSS0hHOENPOXRBeXp1SFJoSXc?oc=5"
+        }
+      ]
+    },
+    {
+      "title": "成品油零售推广交易即开票",
+      "summary": "国家税务总局今日宣布，将在全国范围内全面推广成品油零售\"交易即开票\"系统，预计2026年11月前完成。该系统将实现成品油销售交易数据的实时采集和发票自动开具，有效解决传统开票方式中的虚开发票、偷税漏税等问题。据税务部门介绍，这一改革将大幅提高税收征管效率，预计每年可增加税收收入约200亿元。同时，\"交易即开票\"系统的实施也将促进成品油市场的规范化发展，提升行业透明度，保护消费者合法权益。分析人士认为，这一政策将对能源行业税收征管、市场监管以及企业运营模式产生深远影响。",
+      "reason": "能源行业重要政策变化，对能源交易和监管有重大影响。",
+      "impact_areas": [
+        "经济金融",
+        "产业"
+      ],
+      "impact_level": "重大",
+      "sources": [
+        {
+          "name": "澎湃新闻",
+          "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1wMG5CX1dPRTFpT01JU0FXN1lTanVoYVEzX2o0WmxwZHJib1ZWLXVldXU3WlVUamJuZjk3UzlmLUlmamVFckNwVTBWaEo3bGdSZEZ6cUdnb1d2TThsbEE?oc=5"
+        },
+        {
+          "name": "财新网",
+          "url": "https://economy.caixin.com/2026-06-12/102453602.html"
+        }
+      ]
+    },
+    {
+      "title": "加油站税收监管强化",
+      "summary": "国家税务总局今日发布通知，将进一步强化加油站税收监管工作，明确要求在2026年11月前全面实现成品油零售\"交易即开票\"。通知指出，各地税务部门将加大对加油站税收征管力度，通过信息化手段实现交易数据实时监控，严厉打击虚开发票、偷税漏税等违法行为。税务总局相关负责人表示，此举旨在规范成品油市场秩序，保障国家税收安全，促进能源行业健康发展。分析人士认为，这一政策将显著提高加油站税收征管效率，预计每年可增加税收收入约200亿元，同时也有助于规范成品油市场秩序，保护消费者合法权益。",
+      "reason": "能源行业税收监管加强，对能源交易和税收体系有影响。",
+      "impact_areas": [
+        "经济金融",
+        "产业"
+      ],
+      "impact_level": "重大",
+      "sources": [
+        {
+          "name": "财新网",
+          "url": "https://economy.caixin.com/2026-06-12/102453602.html"
+        }
+      ]
+    },
+    {
+      "title": "白菜演化脉络揭示",
+      "summary": "中国农业科学院蔬菜花卉研究所今日宣布，科研团队成功揭示了白菜的完整演化脉络，为蔬菜育种提供了重要理论基础。该研究通过基因组学、考古学和形态学等多学科交叉研究，首次构建了白菜从野生种到栽培种的完整演化路径，并鉴定出多个关键驯化基因。这一研究成果不仅填补了白菜演化研究的空白，也为其他蔬菜作物的驯化研究提供了重要参考。研究团队表示，这一发现将有助于培育高产、抗病、营养丰富的白菜新品种，对保障蔬菜供应和促进农业可持续发展具有重要意义。",
+      "reason": "农业科技研究突破，对农作物育种和农业发展有重要意义。",
       "impact_areas": [
         "科技",
         "产业"
@@ -92,93 +173,28 @@
       "impact_level": "重大",
       "sources": [
         {
-          "name": "36氪",
-          "url": "https://www.36kr.com/newsflashes/3849592681895176"
+          "name": "央视网",
+          "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBCdUhYR2U5Y3FsbUU2bmRWamJ6dm5yU1Z0WHdOdkJEQTZFUGt4OU9BN25UNnplRzJzcWFFbkIxMTAwQ05XbnQ0Tm5GVGhHZ2V3R0ZHNWZIWndISUFleVY0bHlvN0hWMG41d2tXalkzdGQ5SURnZl9tag?oc=5"
         }
       ]
     },
     {
-      "title": "AI芯片领域新合作",
-      "summary": "机器人公司优必选与芯片企业沐曦股份达成合作，共同研发具身智能端侧芯片。这一合作将结合优必选在机器人领域的经验与沐曦在AI芯片技术上的优势，推动具身智能技术的发展。具身智能是指AI能够通过物理身体与环境交互的能力，这一合作可能加速AI从虚拟走向实体的进程，对人工智能产业发展具有重要意义。",
-      "reason": "机器人与芯片企业合作研发具身智能芯片，推动AI技术发展",
+      "title": "紫晶存储案中介追偿",
+      "summary": "随着紫晶存储欺诈案的后续处理，今日有消息称，四家参与该公司的中介机构包括会计师事务所、律师事务所和保荐机构已启动内部追偿程序。这些机构在紫晶存储IPO过程中未能发现财务造假问题，导致投资者遭受重大损失。根据相关法律法规，这些中介机构可能面临巨额赔偿责任。分析人士指出，这一案例反映了注册制下中介机构责任的强化，对资本市场中介机构的行为规范和风险防控提出了更高要求。同时，这也将促使中介机构加强内部质量控制，提高尽职调查的严谨性，从而更好地保护投资者权益。",
+      "reason": "金融市场监管和投资者保护的重要案例，对资本市场有警示意义。",
       "impact_areas": [
-        "科技",
-        "产业"
+        "经济金融",
+        "政治"
       ],
       "impact_level": "重大",
       "sources": [
         {
-          "name": "36氪",
-          "url": "https://www.36kr.com/newsflashes/3849648001012740"
-        }
-      ]
-    },
-    {
-      "title": "A股成交额创新高",
-      "summary": "沪深两市成交额突破2万亿元，创下历史新高，显示市场活跃度显著提升。与此同时，恒指午间休盘涨2.02%，恒生科技指数涨1.72%，表明投资者风险偏好上升。这一现象可能与近期政策利好及经济复苏预期有关，但也需警惕市场过热风险。成交额大幅增长通常意味着市场资金充裕，但也可能预示波动性增加。",
-      "reason": "A股成交额突破2万亿，市场活跃度创历史新高",
-      "impact_areas": [
-        "经济金融"
-      ],
-      "impact_level": "重大",
-      "sources": [
-        {
-          "name": "36氪",
-          "url": "https://www.36kr.com/newsflashes/3849627062261001"
-        },
-        {
-          "name": "36氪",
-          "url": "https://www.36kr.com/newsflashes/3849664781358343"
-        }
-      ]
-    },
-    {
-      "title": "AI模型评测领先",
-      "summary": "开悟世界模型在RoboTwin 2.0等具身智能评测中位居榜首，展现出强大的多模态理解和物理交互能力。这一成果标志着中国在AI领域的重要进展，特别是在具身智能这一前沿方向。具身智能是AI研究的重要方向，旨在让AI系统通过物理身体与环境交互，这一突破可能加速AI技术在机器人、自动驾驶等领域的应用。",
-      "reason": "中国AI模型在具身智能评测中领先，技术突破",
-      "impact_areas": [
-        "科技"
-      ],
-      "impact_level": "重大",
-      "sources": [
-        {
-          "name": "36氪",
-          "url": "https://www.36kr.com/newsflashes/3849612388570374"
-        }
-      ]
-    },
-    {
-      "title": "汽车行业监管加强",
-      "summary": "两部门约谈提醒涉嫌非理性竞争的汽车生产企业，显示监管部门对行业竞争秩序的关注。此举可能针对近期汽车行业价格战、过度营销等问题，旨在引导行业健康有序发展。随着新能源汽车市场竞争加剧，部分企业采取激进策略，监管部门此举意在防止恶性竞争，促进行业长期健康发展。",
-      "reason": "监管部门约谈汽车企业，规范市场竞争秩序",
-      "impact_areas": [
-        "产业",
-        "经济金融"
-      ],
-      "impact_level": "重大",
-      "sources": [
-        {
-          "name": "36氪",
-          "url": "https://www.36kr.com/newsflashes/3849652745065479"
-        }
-      ]
-    },
-    {
-      "title": "港股大幅上涨",
-      "summary": "恒生指数日内涨幅扩大至2%，恒生科技指数也表现强劲，显示市场风险偏好上升。这一走势可能与近期政策利好及经济复苏预期有关，也反映投资者对中国科技企业的信心增强。港股作为连接内地与国际市场的重要桥梁，其走势往往反映国际资本对中国资产的看法，此次上涨可能吸引更多外资流入。",
-      "reason": "恒生指数涨幅扩大至2%，市场风险偏好上升",
-      "impact_areas": [
-        "经济金融"
-      ],
-      "impact_level": "重大",
-      "sources": [
-        {
-          "name": "36氪",
-          "url": "https://www.36kr.com/newsflashes/3849632853988356"
+          "name": "财新网",
+          "url": "https://finance.caixin.com/2026-06-12/102453631.html"
         }
       ]
     }
   ],
-  "total_fetched": 282,
-  "generated_at": "2026-06-12T12:32:15.302660+08:00"
+  "total_fetched": 287,
+  "generated_at": "2026-06-12T19:29:26.003505+08:00"
 }
