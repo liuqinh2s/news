@@ -1,4 +1,4 @@
-# 2026-06-13 原始新闻标题 (244 条)
+# 2026-06-13 原始新闻标题 (285 条)
 
 ## 新华社 (20 条)
 - Education, health fees among key concerns
@@ -22,47 +22,58 @@
 - Former Chongqing political official facing corruption investigation
 - Former Chongqing political official facing corruption investigation
 
-## 澎湃新闻 (16 条)
-- 李书福：技术成果来源必须光明正大，不能用短平快的理念造车
-- 深一度｜“世界杯临近，才会聊起它”，这就是美国体育的特点
-- 这部剧，为什么要用9个演员演谭其骧？
-- 赵继伟任中国男篮队长
-- 美国一大型户外帐篷倒塌造成1人死22人伤
-- 中国日本商会发声：将继承河野洋平遗志，超八成在华日企坚定深耕中国市场
-- 1月至5月全国铁路发送旅客19.69亿人次，同比增长5.7%
-- 美伊均称接近达成协议，但在多个关键问题上仍存分歧
-- 非法持枪案18年后再审新增认定67岁农场主故意杀人成立，防卫辩解未获采信
-- 意想不到！美国主导比赛，巴拉圭疲于奔命，美国4比1大胜
-- 连图赫尔的战术板都偷？英格兰队备战装备却只剩一只足球
-- 学习新语｜守护好中华民族的文化瑰宝和自然珍宝
-- 端午叠加父亲节“催热”国内游：亲子家庭占比过半，广东省热度最高
-- 商务部就美国防部将部分中国企业列入“中国军事企业清单”事答问
-- 当AI深度融入生活，人与AI如何和谐相处？看看他们怎么做
-- 艺术评论周刊｜记住守护文化遗产的人
+## 澎湃新闻 (19 条)
+- 北京多区出现短时强降雨和冰雹天气
+- 媒体：黑豹乐队前主唱、三国演义张飞之子饰演者张克芃去世
+- 直播丨第28届上海国际电影节金爵盛典
+- 当心摩洛哥！安切洛蒂警告巴西队：别把狮子看成猫
+- 亚洲冠军卡塔尔期待拿到队史首个世界杯积分
+- 伊朗已故最高领袖哈梅内伊葬礼将于7月举行
+- 美国队主帅波切蒂诺：大胜属于团队，前路还很长
+- 冲击“脑机接口第一股”的博睿康审核状态更新为已受理：去年营收首次过亿，亏损2.3亿元
+- Anthropic最强模型被禁后，智谱宣布GLM5.2全量开放
+- 中国人民保险集团股份有限公司原党委委员、副总裁俞小平被查
+- 江西九江：力争“十五五”末 地区生产总值突破5000亿元
+- 中国摩托车商会倡议：坚决抵制抄袭仿造、盗用核心技术，杜绝海外低价无序厮杀
+- 直播丨第28届上海国际电影节金爵盛典红毯仪式
+- 南极遭遇极端高温天气，气温偏高超20摄氏度
+- 快评｜美国队会是本届世界杯最大的黑马吗？
+- 《金融信息服务数据分类分级指南》印发
+- 马斯克成万亿富豪不值得庆祝？美议员抨击税制不公要求对富人征税
+- 最强模型遭美政府“闪电下线”，Anthropic：这个决定存在“严重误解”
+- 张凌赫亮相海峡论坛：挡不住的是交流，割不断的是文脉
+
+## 南方周末 (1 条)
+- 天涯社区重启，创始人邢明：避开情怀谈商业化
 
 ## 凤凰网 (20 条)
-- 讽郑朝方沈伯洋是“烂慢兄弟”，柳采葳爆他“天堂路不成有‘入阁’退路”
-- 秘鲁警察出奇招，扮世界杯吉祥物成功抓捕毒贩
-- 演员张凌赫，将参加海峡论坛相关活动
-- 美议员就马斯克巨额财富发警告：普通家庭要工作超1100万年
-- 中国每年还在生产60亿根火柴，都卖给谁了？
-- 英格兰队世界杯训练装备失窃，被盗物品包括足球、球靴等
-- 古巴国家主席：美国毫无底线
-- 网传四川绵阳盐亭有“送子娘娘”？官方辟谣：查无此人
-- “尽管美国围追堵截，‘中国’无处不在”
-- 阿联酋否认向伊朗转移资金
-- 世界杯墨西哥赛场出现大量空座，国际足联回应
-- 特朗普推动国会清除其两次弹劾记录
-- SpaceX上市首日大涨，马斯克远程视频连线敲钟仪式
-- 美伊就协议文本达成一致，伊朗外长：第一阶段将以远程电子方式签署
-- 全国首个！辽宁沿海船舶定线制发布，8月15日起实施
-- 特朗普：美军打死“阿拉瓜火车”组织首领尼尼奥·格雷罗
-- 1岁男童因感冒输液后离世，海南乐东通报
-- 消息人士：美军击落多架飞往霍尔木兹海峡的伊朗无人机
-- 装修工人因走错楼层，误将303室当403室拆成毛坯，家具家电尽数拆除
-- “中国才没有兴趣迎合法国”
+- “顶流”，又闯一关
+- 美媒爆料：伊朗加强封锁铀库存，在隧道口设地雷
+- 美媒：美军一度计划直接杀进伊朗抢浓缩铀，最终被特朗普叫停了
+- 时隔6年重启！广州至德里复飞释放哪些信号？
+- 女子考编排名第一却被别人递补，多次维权后岗位直接取消，官方立案调查
+- 中国人保原副总裁俞小平被查
+- 合肥市人民政府原党组成员、副市长何逢阳被查
+- 13岁学生体检误诊艾滋被劝退，学校凭啥要查又为何能劝退？
+- 修订“刑事诉讼法”引绿营不满，柯文哲：我不会再用到，赖清德会用到
+- 特朗普姓名被从肯尼迪中心外墙移除
+- 男子被发小杀害，姐姐：凶手被判死刑，但我只希望弟弟活着
+- 喊话民进党当局“高抬贵手”，李胜峰：让台湾青年看见真实的大陆
+- 美多地遭强风暴袭击，致多人死亡
+- 伊朗议员强烈不满：审阅协议文本后，我觉得我们的让步变多了
+- 订婚后履约中断男方被指强奸，警方认定无犯罪事实，法院判女方退70%彩礼
+- 不坐苏巧慧身旁遭呛没肚量，李四川还原始末
+- “高虹安条款”是因人设事？黄国昌：民进党做贼喊抓贼
+- 俄军猛攻顿涅茨克北部重镇，已控制55%
+- 俄方就G20参会受阻向美方提出交涉
+- “特朗普卖芯片给中国，却不让英国用先进模型”
 
-## 财新网 (19 条)
+## 财新网 (20 条)
+- 美国下达出口管制令 Anthropic全面关停编程大模型Fable 5和Mythos 5服务
+- 中金公司刁智海：环境变化要求财富管理企业提升服务水平
+- 人口学者靳小怡：东部重婚房西部重彩礼，2010年后婚姻成本爆发增长
+- 伊朗方面披露停战协议内容 特朗普斥伊媒所报条款为“假新闻”
+- 个人购买大额存单20万元认购起点执行十年 新规拟将其制度化
 - 特朗普家族跨国地产项目被指破坏当地生态 阿尔巴尼亚爆发大规模抗议
 - 一周天下｜习近平访问朝鲜、美加墨世界杯开幕
 - 人事观察｜57岁首次跨省份交流 候补中委才让太履新西藏统战部长
@@ -78,10 +89,6 @@
 - 【周刊提前读】央地协同 私募基金监管全面升级
 - 【周刊提前读】美伊和谈反复 以色列扮演何种角色？
 - 【周刊提前读】华北地下水回升改善生态 但基础设施面临考验
-- 【周刊提前读】AI不仅替代岗位 更在重塑整个就业市场
-- 【周刊提前读】劳动者“反蒸馏” 如何让技术回归于人？
-- SpaceX上市首日涨19% 市值突破2.1万亿美元
-- 财新闻｜中央网信办举报中心开设“涉AI应用乱象举报专区”
 
 ## 央视网 (4 条)
 - 传统文化新体验 - 央视网
@@ -89,51 +96,62 @@
 - 商务部新闻发言人就美国防部将部分中国企业列入“中国军事企业清单”事答记者问 - 央视网
 - 南方降雨增强6省区部分地区有大暴雨 华北东北雷雨频繁 - 央视网
 
-## BBC (6 条)
-- Deal to end fighting would lead to Hormuz reopening, Iran says
+## BBC (16 条)
+- Israel carries out air strikes on Lebanon, state media says, as Iran claims deal with US near
+- Switzerland to vote on plan to cap population at 10 million
+- Married at First Sight Australia stars not told partners had drug and violence convictions
 - Elon Musk becomes world's first trillionaire as SpaceX soars in stock market debut
-- French town buries murdered child as questions mount over police failings
 - Fans on concourses instead of in seats, claims Fifa
-- Mother finds body of missing son two days after Kenya's Ebola quarantine centre protests
+- US kills leader of Venezuela's Tren de Aragua gang in airstrike, Trump says
+- Anthropic suspends new AI tools over US government security concerns
+- Warner Bros $111bn sale to Paramount approved by US justice department
 - King leads tributes to 'giant of the art world' David Hockney
+- French town buries murdered child as questions mount over police failings
+- Mother finds body of missing son two days after Kenya's Ebola quarantine centre protests
+- David Hockney depicted a 'peaceful, gay paradise' when homosexuality was a crime
+- The college scam that promised students fleeing war a new life in Finland
+- The costs and challenges facing the 2026 World Cup
+- Niagara Falls: Is there a better spot to watch a World Cup game?
+- Watch: Why is Trump not at the World Cup?
 
-## Reuters (14 条)
+## Reuters (15 条)
 - Exclusive: US forces shoot down Iranian attack drones, source says - Reuters
-- U.S., Iran signal peace deal near as Tehran claims victory - Reuters
 - US judge indefinitely blocks Trump's 'anti-weaponization' fund - Reuters
-- Exclusive: UAE to unlock billions of dollars for Iran, sources say - Reuters
-- Evangelicals divided on Trump's war in Iran, immigration crackdown, Reuters/Ipsos poll finds - Reuters
-- SpaceX surges past $2 trillion in Nasdaq debut, closes in on Amazon - Reuters
 - Trump says US military strike killed leader of Venezuela's Tren de Aragua gang - Reuters
+- Anthropic disables top-tier AI models after US order limiting foreign access - Reuters
+- Exclusive: UAE to unlock billions of dollars for Iran, sources say - Reuters
+- SpaceX surges past $2 trillion in Nasdaq debut, closes in on Amazon - Reuters
+- Iran says funeral for late Supreme Leader Khamenei to begin July 4, burial set for July 9 - Reuters
 - Microsoft has considered spinning off Xbox, the Information reports - Reuters
 - FIFA faces protests in Toronto over Israel ties ahead of Canada World Cup match - Reuters
-- Meta's social networks recover after brief outage - Reuters
 - Zuckerberg says Meta made 'mistakes' in AI workforce shift - Reuters
+- Rolex raises gold watch prices again as super-rich buyers are undeterred - Reuters
 - Roku exploring strategic options, including sale of company, sources say - Reuters
-- Europe's top carmakers urge simple 'Made in Europe' rules - Reuters
 - Indians grieve and call for action after US strike kills sailors - Reuters
+- Meta's social networks recover after brief outage - Reuters
+- Europe's top carmakers urge simple 'Made in Europe' rules - Reuters
 
 ## NYTimes (20 条)
-- Iran War Live Updates: Cease-Fire Deal Appears Within Reach, Officials Say
+- With a Deal Seemingly Close, the U.S. Faces an Iran More Willing to Withstand Pressure
+- Russia Is Rich in Ballistic Missiles. Ukraine Is Short of Ways to Stop Them.
+- At the Canadian Screen Awards, the Industry Steps Outside Hollywood’s Shadow
+- Iran War Live Updates: Middle East Awaits Latest on Potential Agreement
+- A Family Ravaged by Land Mines in Myanmar
+- Brazilians Revive a World Cup Ritual to Cheer on Their National Team
+- Should Switzerland Cap Its Population at 10 Million? Voters Will Decide.
+- What to Know About the Ebola Outbreak
 - World Cup Ticket Prices in Mexico City Too Expensive for Most Fans
 - Anti-Immigrant Riots after Belfast Stabbing Leave City on Edge
-- Israel Is Building Army Base in Jenin, Flouting 1990s Pact With Palestinians
-- Spain’s Church Hopes Pope Trip Will Stem Secular Tide
-- Families of Air India Crash Victims Seek Answers One Year On
-- A Family Ravaged by Land Mines in Myanmar
-- Should Switzerland Cap Its Population at 10 Million? Voters Will Decide.
+- Here’s the latest.
+- Unfinished Business
+- A Tren de Aragua Leader Is Killed in a Joint Strike, U.S. and Venezuela Say
+- An Honored Canadian Journalist on the Importance of Investigative Reporting
+- The Scientific Quest for Perfect World Cup Pitch
+- Ebola Comes for Congo’s Most Vulnerable Children
 - Afghans Hold Rare Public Protests Against Taliban Rules
 - U.S. Says Iran Cease-Fire Deal ‘Very Close’
 - Western Australia Is Battling a Mouse Plague
 - Canada Has Its Elbows Up and Arms Wide Open at the World Cup
-- As Speculation Swirls About the Emerging Iran Deal, Here’s What We Know
-- Scientists Race to Test Treatments as Ebola Outbreak Widens
-- Despite Talk of an Iran Peace Deal, Lebanon’s War Grinds On
-- JR Conjures a Mountainous Illusion Out of the Pont Neuf in Paris
-- With iPhones and Faxes, David Hockney Embraced Tech
-- Here’s the latest.
-- China Arrests U.S. Scholar on Spying Charge
-- Princess Bha of Thailand, Second in Line to the Throne, Dies at 47
 
 ## CNN (6 条)
 - 0% intro APR until 2024 is 100% insane
@@ -144,28 +162,28 @@
 - Want Cash Out of Your Home? Here Are Your Best Options
 
 ## 微博热搜 (20 条)
-- 四级作文
-- 四级
-- 青春华章两弹一星铸丰碑
-- 迪丽热巴德佑全球品牌代言人
-- 原来瘦了真的会变聪明
-- 凡人修仙传
-- 加拿大开幕式 翻车
-- 原来鸿蒙有这么多宝藏开发者
-- 四级作文 看不懂
-- 四六级
-- 何炅你不喜欢可以不说
-- 王安宇说当年很勉强才考上中传
-- 四级翻译 一日为师终身为父
-- 韩国网友批Lisa世界杯开幕式歌曲低俗
-- 美国4比1巴拉圭
-- 四级答案
-- 雷军回应装600斤车厘子被指违规
 - 六级
-- 侯明昊真就自己去面试上了
-- 黄金上涨原因
+- 俞小平被查
+- 文化中国行赏非遗之美
+- 六级翻译
+- 马宁哭了
+- 4个小时的拼豆就这样白拼了
+- 2026S联赛春季赛
+- 长生骨
+- 睡觉的权威性我后知后觉
+- 含蓄的中国人终于抽象到老外了
+- BLG对战WE
+- 美国队门将曾为进哈佛拒绝曼联
+- 张百乔回应离婚传言
+- 海陆变样了
+- 六级答案
+- 姜十七承认整容了
+- 单依纯纯妹妹2.0演唱会
+- G20
+- 丁禹兮穿西装在泳池直播
+- 原特斯拉厂长首次代表小米发言
 
-## 知乎热榜 (20 条)
+## 知乎热榜 (8 条)
 - 有些动物失去肢体后会自己长出来，为啥人类不行？
 - 为什么大家都说人生的容错率大到无法想象?
 - 如果让你推荐一件「有故事」的文物，你会推荐哪个？
@@ -174,106 +192,135 @@
 - 「几星」瓢虫是益虫？
 - 中国在不断地兴修水坝，而美国却拆了1000多座水坝，这是为什么？
 - 瞎扯 · 如何正确地吐槽
-- 欧美有哪些传统食物可以反映历史上人民生活的艰难时期？
-- 英语里如果要删掉一个字母，删掉哪个影响最小？
-- 如何看待《西游记》中如来用「历经一千七百五十劫」来证明玉帝的合法性？这是否反映了深层的「苦难崇拜」？
-- 瞎扯 · 如何正确地吐槽
-- 历史上哪些著名人物拥有大胃袋？
-- 有哪些奇怪的淡水鱼？
-- 为什么现在「不吃碳水」越来越流行了？
-- 瞎扯 · 如何正确地吐槽
-- 为什么编程语言里的乘法符号是 * 而不是 × ，后者不应该更符合主流吗？
-- 市场上的假羊肉串是用什么冒充的？
-- 为什么外国火腿可以生吃，中国火腿不行？
-- 瞎扯 · 如何正确地吐槽
 
 ## B站热门 (20 条)
 - 【独家】《凡人修仙传之慕兰之战》第1集【总第177集】
-- 【某幻】《盛世天下》再返深宫，活下来！
+- 《兔粮是你的谎言》
 - 路边一块，经过雕刻，包你看了过目不忘！愿你成为自己的太阳，无需借谁的光
-- 【纪录片】地球·劫后重生 中配版01 火山炼狱
 - 《青春期恐龙幻想物语》
 - 《弧光猎人》弧光测试PV&国服事件预告｜星火燎原
-- 躲在超市后门嚼大果的两人♿
+- 第1期：震撼回归！实力歌手组队竞演【天赐的声音 第七季】
+- 仅推荐给有趣的人
+- 0%成功率的吉尼斯挑战（AI给出的结论）！
 - 新地图解锁！影视飓风的电竞房？
-- 为了这稀有的粉色螺珠，我在加勒比海与2米长大鲨鱼搏斗许久，差点就掉线了！
-- 【独家】《将夜》第9集 风雨入夜【4月国创】
-- 无法预测！命运的最后抽卡！【水无月菌】
+- 张杰谢娜两口子不要再闹了好吗？【爆笑演唱会名场面】
 - 带良子吃和平饭店，竟然花了xxxx!?
-- 峰哥教大学生区分鹅腿鸭腿
 - 我找东西be like
-- 网上不花钱找的主人
-- 有什么比精神小妹爱上纯情男大的故事更狗血
-- 【鸣潮微电影】至今我仍深爱着你——坎特蕾拉
+- 为了这稀有的粉色螺珠，我在加勒比海与2米长大鲨鱼搏斗许久，差点就掉线了！
+- 【某幻】《盛世天下》再返深宫，活下来！
+- 【剧情】小谢尔顿 第一季（2017）01【 伊恩·阿米蒂奇 / 佐伊·派瑞】
+- 地牢酒馆-14集 《人鱼的配方与深海来客》
+- 评论区摄影大赛之视觉创意篇第二弹开启，欢迎投稿好的作品会让更多人看到。
 - 新三国up锐评老三国02：没有对比就没有伤害
-- “有些鸟儿注定是关不住的”【I dont want to play around】【魔丸之卵の小曲】
-- 自律不用等雨停，而是在风雨中前行！
+- 幻想向：你永远是你妈生的
+- 无法预测！命运的最后抽卡！【水无月菌】
 
 ## 抖音热搜 (20 条)
-- 美国4:1巴拉圭
 - 原来成语缝在汉服里
-- 龙舟一登场端午氛围就来了
-- 加拿大1:1战平波黑
+- 苏超南通vs泰州
+- 今天是文化和自然遗产日
+- 巴西队将迎美加墨世界杯首秀
+- 哈兰德把挪威的森林焊死在抖音
+- 内马尔无缘巴西队世界杯首战
+- 留学生回国之后就这样大吃特吃
+- 美国4:1巴拉圭
+- 沉浸式体验美加墨世界杯
+- 拜见西瓜绵绵冰大王
+- 金银价格大涨
+- 日媒：韩国将申请加入CPTPP
+- 薛之谦洛阳演唱会
 - 美加墨世界杯美国开幕式
-- 本届世界杯第一粒乌龙球诞生
 - 加拿大开幕式翻车
-- 一口菜治愈几代人
-- 夏天用这个方法切西瓜
-- 美国开幕式现场体验
-- Lisa白色机能风亮相世界杯
-- 我的世界杯开幕式观后感
-- 歌手2026第四期舞台
-- 姆巴佩登贝莱谁是法国现役第一人
-- 现场观战美国队揭幕战
-- 夏奇拉开幕式黄色上衣好有生命力
-- 孩子的底气是跌倒脆弱时有人爱
+- 谢霆锋南京演唱会
 - 陈楚生张靓颖巴拉莱卡
-- 南部档案和盗墓笔记的时间线
-- 世界杯加拿大开幕式我们来了
+- 现场观战美国队揭幕战
+- 体验史上最贵世界杯要花多少钱
+- 花小龙带黄晓明自律的一天
 
-## 雪球热帖 (14 条)
+## 豆瓣讨论 (1 条)
+- 客观分析，为什么徐洁儿的风评下降这么多？ - 豆瓣
+
+## 雪球热帖 (20 条)
 - 过招阿森纳、皇马！中国U17国家男女足领衔出战，明日之星冠军杯燃爆盛夏 - Sina finance
 - 超级赛道，掀IPO热潮 - Sina finance
-- 6月13日美股成交额前20：SpaceX登陆纳斯达克，市值突破2万亿美元 - Sina finance
-- 瑞达期货(002961)：拟H股上市 发力海外业务扩张 - 新浪网
-- 可转债周报：本周上涨 - 新浪网
-- 华夏房地产ETF联接C净值上涨0.99% - Sina finance
 - SpaceX上市首日即成2万亿巨头 马斯克财富迈入万亿时代 - Sina finance
-- 超聚变80亿IPO背后：耐心资本如何“压舱”现象级项目 - Sina finance
-- 跨越赤道：中国车企开辟南半球新航道 - Sina finance
+- 炸了三发火箭，他已离婚、丢房、烧光了钱 - Sina finance
+- 6月13日美股成交额前20：SpaceX登陆纳斯达克，市值突破2万亿美元 - Sina finance
+- 我，00后散户，中签人类史上最大IPO，赚了超20% - Sina finance
+- 美国队是最强东道主？纽约出生、伦敦长大、英训美用，巴洛贡折射足球质变之道 - Sina finance
 - SpaceX IPO“绿鞋”选择权罕见零费率 马斯克还让银行家真的穿上绿鞋 - Sina finance
-- 工信部公示：浙江豪情远程V7E申报电耗百公里14.1度 - Sina finance
-- 工信部公示：浙江豪情远程V8E申报电耗百公里14.8度 - Sina finance
-- 工信部公示：浙江豪情远程V7E申报电耗百公里14.3度 - Sina finance
-- 车市年中“战局”：燃油车打响“反击战” 成本传导催升新能源车订单 - Sina finance
+- 马斯克穿皮衣敲钟，成首位万亿富豪！有钱真能改变面相？ - Sina finance
+- SpaceX总裁暗示合并可能：特斯拉或迎整合契机，马斯克商业版图再扩容 - Sina finance
+- “被指违规”，雷军回应！ - Sina finance
+- SpaceX上市首日收涨19% 第一天市值跃居全球第七 - Sina finance
+- 给人工智能装上“仪表盘” - Sina finance
+- 周观REITS：首批商业不动产REITS即将上市 - 新浪网
+- 招商MSCI中国A股国际通ETF联接A净值上涨1.09% - Sina finance
+- 南方标普红利低波50ETF联接C净值上涨0.84% - Sina finance
+- 合肥市人民政府原党组成员、副市长何逢阳接受纪律审查和监察调查 - Sina finance
+- 专题报告：内江市区域信用观察 - 新浪网
+- 华夏房地产ETF联接C净值上涨0.99% - Sina finance
+- 深蓝汽车杨源源：中国消费者越来越理性，开始关注“每一分钱花在什么地方、花得值不值” - Sina finance
 
 ## 36氪 (20 条)
-- 今年前五个月全国铁路发送旅客19.69亿人次 创历史新高
-- 新通教育与36氪研究院联合发布《AI时代留学就业白皮书》
-- 美瑞新材：目前PPDA产品已成功产出合格产品，正处于下游客户开发及产品验证阶段
-- 中基协发布公募基金主题投资风格管理指引，严重偏离投资方向将被纳入负面考核指标
-- A股本周缩量震荡，能源金属板块指数涨逾7%
-- 专家：日本央行或上调利率以抑制通胀
-- 硫磺价格年内增两倍，扰动化工产业链
-- 魔法原子上交会首秀VLA K02大模型
-- 网传阿里合伙人周靖人拟离职，刚出任阿里首席科学家6天
-- 美国消费者信心指数略有改善，通胀预期仍处高位
-- 埃克森美孚据悉考虑潜在收购目标，包括澳洲最大LNG出口商伍德赛德能源
-- 央行发布5月金融数据：债券融资占比提升，贷款投向结构优化
-- 电摩市场逐渐走俏，头部企业密集上新抢占增量市场
-- 交易员对美元看涨程度升至逾一年来最高水平
-- 一季度全球前十大晶圆代工商营收季增3.7%
-- 甲骨文赢得3.96亿美元联邦人力资源现代化合同
-- 美司法部批准派拉蒙收购华纳兄弟探索，称该交易不会损害竞争
-- 网易云音乐：近期回购近730万股，回购总额9.67亿港元
-- 具身智能行业5月融资额环比降近六成
-- 特朗普政府禁止境外主体获取Anthropic旗下最强人工智能模型
+- “木头姐”买入逾4亿美元SpaceX股票
+- 江丰电子：公司生产的先端存储芯片用高纯300mm硅靶已批量供货
+- 首尔禁止中小学生戴AI眼镜参加期末考试
+- 近六成美国人认为到2050年美国重要性将减弱
+- 国家网信办就《金融信息服务数据分类分级指南》答记者问
+- 《金融信息服务数据分类分级指南》印发
+- 讯灵智能与腾讯云达成战略合作
+- 科大讯飞发布星火多模态大模型X2-VL
+- 云南铜业：今年以来硫酸销售价格持续处于高位
+- 美格智能：存储芯片价格上涨成本在合理、有序向下游客户传导
+- 智谱：GLM-5.2将面向GLM Coding Plan全量用户开放
+- H&M重组全球架构，大中华区降级
+- 长安“天枢领航”亮相重庆车展，长安启源Q06将全系搭载
+- 上海独角兽冲刺“脑机接口第一股”
+- 南极半岛出现超过正常水平20多摄氏度异常高温
+- 美法院驳回上诉，维持肯尼迪中心移除特朗普名字裁决
+- 印度政府出台汽柴油限购措施
+- 逾200家机构调研两公司，电子元件行业最受青睐
+- 法国调查显示公众对人工智能态度分化明显
+- 迭代快韧性足，A股出口企业估值静待重构
 
-## 虎嗅 (4 条)
-- 深圳市市场监督管理局召开“6·18”集中促销网络交易合规行政指导会。 - 虎嗅
-- 阿联酋外交部否认向伊朗转移30亿美元资金报道 - 虎嗅
-- SpaceX上市首日涨幅破30% 太空概念股集体跳水 - 虎嗅
-- 美国政府以越狱风险为由对Anthropic最新AI模型实施出口管制 - 虎嗅
+## 虎嗅 (20 条)
+- 老乡鸡、大米先生围猎广州，真功夫们坐不住了
+- 动画电影票房占全年票房“半壁江山”之后，中国动画依然在自省
+- “超级真菌”感染5年激增700%，中国综述让全球警觉
+- 上海95后男幼师溺水身亡：官方回应质疑，但还有些问题待解
+- 律师楼之二十六：黄金时代
+- 最强的AI，为什么开放三天就被叫停？
+- 量贩零食万店之后，加盟商开始难了
+- 科技股熄火、资源股狂飙，A股新一轮风格切换开始了吗？
+- 当Token 越来越便宜，账单为什么越来越贵
+- A社摁下了最新的模型，但这件事充满蹊跷
+- SpaceX上市，为什么A股航天板块涨了美股跌了？
+- 有人争抢葡萄酒低度潮饮赛道，有人存疑惑
+- 续论李婷老师的“中国离世界杯有多远？”
+- 市值2.1万亿美元，SpaceX到底值不值？
+- “不想要临期请备注”，山姆被指用极速达清库存，遭七成网友质疑，会员怒斥：退钱
+- AI时代，别再提“人人都是程序员”了
+- 四天打完第一个回合，大疆影石商战提速
+- 牛市旗手爆发，沪指重回4000点，50只券商股飘红，中银证券、财达证券涨停，券商“科创属性”要重估？
+- 曼联要被卖了
+- 最强模型Fable5，四天就被“拔了网线”
 
 ## 少数派 (1 条)
 - 具透 | 除了 AI，iOS 27 首个开发者测试版中你不能错过的新功能
+
+## GitHub Trending (14 条)
+- iptv-org/iptv
+- addyosmani/agent-skills
+- chatwoot/chatwoot
+- obra/superpowers
+- apple/container
+- music-assistant/server
+- kenn-io/agentsview
+- LMCache/LMCache
+- microsoft/PowerToys
+- andrewyng/aisuite
+- NVIDIA/SkillSpector
+- bannedbook/fanqiang
+- swc-project/swc
+- x1xhlol/system-prompts-and-models-of-ai-tools

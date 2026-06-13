@@ -2,166 +2,192 @@
   "date": "2026-06-13",
   "news": [
     {
-      "title": "SpaceX上市市值破2万亿",
-      "summary": "美国太空探索技术公司SpaceX于今日在纳斯达克成功上市，首日股价上涨19%，市值突破2.1万亿美元，成为全球市值最高的上市公司之一。创始人马斯克凭借此次上市，个人财富迈入万亿级别，成为全球首位万亿富翁。此次上市标志着商业航天产业进入新阶段，将对全球航天产业链、卫星互联网和太空探索领域产生深远影响。SpaceX的上市也反映了投资者对太空经济和商业航天的强烈信心。",
-      "reason": "商业航天里程碑事件，马斯克成为全球首位万亿富翁",
+      "title": "SpaceX上市成2万亿",
+      "summary": "美国太空探索技术公司SpaceX于今日在纳斯达克上市，首日市值突破2万亿美元，成为全球市值第七大公司。创始人马斯克因此成为全球首位万亿富豪，其财富主要来自SpaceX和特斯拉股票。此次上市标志着私人航天商业化的重要里程碑，可能加速太空探索和卫星互联网等领域的投资热潮。",
+      "reason": "科技领域历史性事件，私人航天商业化里程碑",
       "impact_areas": [
         "科技",
         "经济金融"
       ],
-      "impact_level": "重大",
+      "impact_level": "现象级",
       "sources": [
         {
-          "name": "财新网",
-          "url": "https://finance.caixin.com/2026-06-13/102453809.html"
+          "name": "雪球热帖",
+          "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1jeHVVMG9VOVRDeFFELTEweUV5VHlZend3ajE4MUdURUhXZ1NWYzdFa3NtaHZCQUotNmZkQlR3dUhTRHJiSllpMWpHZzBGU09MLXBoUVRyX0VSYWh3M0FqX0ZTT1V1RzN0TlF2WUxvRjUwZkNpaFVKWA?oc=5"
+        },
+        {
+          "name": "Reuters",
+          "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQQUM0N1pnemJMbTkxX1JYd0t1c3JRTDYtSmJiSkUwTkprOVZ1NTdVdFNQelEyc1FwV0ZRLXRfSWxGWmFtcXV0ODJoY2xUUU0tQS1kZC1oMmtKa3ZjX2ZXU3ZSZ0VtN3NHazRzWWlldnBHdEJFM2NzN2h1WG1mWU5rRi1IdTFwZE4xd2sxZlhoUHhnUjhPV2FpdlZIUFlFSjY3R3VaRzFicHg5blgzQThPcTdmYmU?oc=5"
         }
       ]
     },
     {
       "title": "美伊和谈接近达成",
-      "summary": "美国和伊朗官员今日表示，双方已接近就结束霍尔木兹海峡冲突达成协议，但在多个关键问题上仍存在分歧。美方表示协议文本已基本敲定，而伊朗则声称在协议中取得了\"胜利\"。双方同意第一阶段将以远程电子方式签署协议。此次和谈若成功，将缓解中东紧张局势，稳定全球能源市场，并对国际关系格局产生重要影响。然而，以色列对协议表示担忧，可能影响最终达成。",
-      "reason": "中东地缘政治关键进展，可能影响全球能源市场",
+      "summary": "伊朗最高领袖哈梅内伊去世，享年87岁。与此同时，美国与伊朗就停火协议的谈判接近达成，双方就多项条款达成共识。据多家媒体报道，协议内容包括伊朗限制核活动、美国解除部分制裁等。哈梅内伊的去世可能为伊朗政治格局带来变数，而美伊关系的缓和可能改变中东地缘政治格局。",
+      "reason": "中东地缘政治重大转折，美伊关系缓和可能改变地区局势",
       "impact_areas": [
-        "地缘",
+        "政治",
+        "地缘"
+      ],
+      "impact_level": "重大",
+      "sources": [
+        {
+          "name": "澎湃新闻",
+          "url": "https://m.thepaper.cn/detail/33374857"
+        },
+        {
+          "name": "NYTimes",
+          "url": "https://www.nytimes.com/2026/06/13/world/middleeast/iran-united-states-israel-lebanon.html"
+        },
+        {
+          "name": "Reuters",
+          "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPWWljdFRvWXh3cEM0ODgyOFF1LUVuSTJFSklLNXlPVWxyZks4d0pKQmVVY1RBX0lNSHZ3Vzk1MlZOZHl0bTRRdFAteDEtLWptUnpiMEY2djh4cDNYZHFheFUwaFVCa0hpdU1YMWd4UDFwTnc1Z1kzcGZQNF9SUDVTZGI0VUE3VzRzQWM1OFU0RXJKQXBpMjQxZDNoMldScWNYQnlzaGE4aGtxaFo3RlY3RmJyMnJGdG4xTW9nSHJKM2tPZDN2UUZaX0QzYw?oc=5"
+        }
+      ]
+    },
+    {
+      "title": "AI监管政策分化",
+      "summary": "美国AI公司Anthropic宣布因美国政府安全 concerns，暂停其最强AI模型Fable 5和Mythos 5的服务。与此同时，中国AI公司智谱宣布其GLM-5.2模型将面向全量用户开放。这一事件反映了全球AI监管政策的分化，美国加强了对先进AI模型的管控，而中国则加速推进AI技术的开放与应用。这可能重塑全球AI技术竞争格局。",
+      "reason": "AI监管政策分化，全球AI竞争格局面临重塑",
+      "impact_areas": [
+        "科技"
+      ],
+      "impact_level": "重大",
+      "sources": [
+        {
+          "name": "财新网",
+          "url": "https://www.caixin.com/2026-06-13/102453978.html"
+        },
+        {
+          "name": "澎湃新闻",
+          "url": "https://m.thepaper.cn/detail/33374548"
+        },
+        {
+          "name": "BBC",
+          "url": "https://www.bbc.com/news/articles/c932g3v3e13o?at_medium=RSS&at_campaign=rss"
+        }
+      ]
+    },
+    {
+      "title": "金融数据监管新规",
+      "summary": "国家网信办今日印发《金融信息服务数据分类分级指南》，对金融信息数据的收集、存储、处理和发布提出明确规范。该指南将金融数据分为公开数据、内部数据和敏感数据三个级别，并规定了不同级别数据的管理要求。此举旨在规范金融信息服务市场，防范数据安全风险，促进金融数据合规有序流动。",
+      "reason": "金融数据监管新规，将重塑行业数据管理格局",
+      "impact_areas": [
         "经济金融"
       ],
       "impact_level": "重大",
       "sources": [
         {
           "name": "澎湃新闻",
-          "url": "https://m.thepaper.cn/detail/33372968"
+          "url": "https://m.thepaper.cn/detail/33374232"
+        },
+        {
+          "name": "36氪",
+          "url": "https://www.36kr.com/newsflashes/3851331950728194"
+        },
+        {
+          "name": "36氪",
+          "url": "https://www.36kr.com/newsflashes/3851332613870856"
         }
       ]
     },
     {
-      "title": "美伊协议文本达成一致",
-      "summary": "美国和伊朗官员今日宣布，双方已就结束霍尔木兹海峡冲突的协议文本达成一致。伊朗外长表示，协议第一阶段将以远程电子方式签署。此次协议若成功实施，将结束持续数月的中东紧张局势，稳定全球石油供应，并对国际关系格局产生重要影响。然而，协议细节尚未完全公开，以色列对协议表示担忧，可能影响最终实施。此次和谈的成功将标志着中东地缘政治格局的重要转变。",
-      "reason": "中东地缘政治关键突破，可能结束霍尔木兹海峡冲突",
+      "title": "南极极端高温",
+      "summary": "南极半岛地区遭遇极端高温天气，气温较正常水平偏高超过20摄氏度，创下历史记录。科学家指出，这种异常高温现象可能与全球气候变化加速有关。南极冰盖融化可能导致海平面上升，对全球沿海地区构成威胁。这一事件再次凸显了气候变化的紧迫性，可能加速全球气候治理进程。",
+      "reason": "极端气候事件加剧，全球气候变化警钟长鸣",
       "impact_areas": [
-        "地缘",
-        "经济金融"
+        "生态"
       ],
       "impact_level": "重大",
       "sources": [
         {
-          "name": "凤凰网",
-          "url": "https://news.ifeng.com/c/8tuxeZuZndm"
-        }
-      ]
-    },
-    {
-      "title": "美伊和平协议接近达成",
-      "summary": "美国和伊朗官员今日表示，双方已接近就结束霍尔木兹海峡冲突达成和平协议。伊朗方面声称在协议中取得了\"胜利\"，而美国则表示协议将确保地区稳定。双方同意第一阶段将以远程电子方式签署协议。此次和谈若成功，将缓解中东紧张局势，稳定全球能源市场，并对国际关系格局产生重要影响。然而，协议细节尚未完全公开，以色列对协议表示担忧，可能影响最终达成。",
-      "reason": "国际媒体报道美伊和谈进展，多源确认协议接近达成",
-      "impact_areas": [
-        "地缘",
-        "经济金融"
-      ],
-      "impact_level": "重大",
-      "sources": [
+          "name": "澎湃新闻",
+          "url": "https://m.thepaper.cn/detail/33374035"
+        },
         {
-          "name": "Reuters",
-          "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNMXk5cUo1M00yVjgxUGh5ZHl5SWdsUFcxZWhQUUF4MUhZY3pzNGZUbUU1SEtHUEh0dnZJM1Y4TFU0SzloMWNlQ1VqcjBZZ09raU1QdnFXallaeTBVMEZsNGhsOVVDcFNUZ2tjY29zX3hYYjJ6ZzAtZU1FSURnY0J3TktmSEk2eGFpd1Njek1SUG1mbkJrVmltN3RMQVk5WFpOOUxuMEVLUHRuVE50alhrTGk0VGs?oc=5"
+          "name": "36氪",
+          "url": "https://www.36kr.com/newsflashes/3851188765381635"
         }
       ]
     },
     {
-      "title": "美军击落伊朗无人机",
-      "summary": "据消息人士透露，美军今日击落了多架飞往霍尔木兹海峡的伊朗攻击无人机。这一事件发生在美伊和谈接近达成协议之际，可能对和谈进程产生影响。美军称这些无人机对地区安全构成威胁，而伊朗则否认无人机具有攻击性。此次事件凸显了中东地区的紧张局势，以及美伊关系的复杂性。尽管双方表示接近达成协议，但军事摩擦仍在持续，表明协议达成后仍面临诸多挑战。",
-      "reason": "美伊军事摩擦最新进展，发生在和谈接近达成之际",
+      "title": "印度汽柴油限购",
+      "summary": "印度政府今日宣布出台汽柴油限购措施，规定个人每月最多购买100升汽油和200升柴油。此举旨在应对国内能源供应紧张和价格上涨问题。分析人士指出，这一政策可能影响印度国内交通运输和工业生产，并对全球能源市场产生连锁反应，特别是在OPEC+减产的背景下。",
+      "reason": "能源消费大国出台限购政策，全球能源市场格局面临调整",
       "impact_areas": [
-        "地缘",
-        "军事"
-      ],
-      "impact_level": "重大",
-      "sources": [
-        {
-          "name": "Reuters",
-          "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOLVpqblpRT0R6RGd1RUJmVjhfQi12S3JhbUJwM2dsM2hVSGRtMy02UkZYZTdseUI4YzRyMEFzOGpqNTdiRGkwdVB2R0oyX0otZDFQXzhENzYyVnpvMnNVUWZ4U0N5MzZETmp0OG5RcmdfWGV5elVlZktyeXVObThKNUlIa1N2dUtTdDUweGxwV0ZDeC1QeW9rd3p5RWhVVFRRRVdLYTJhQ2JxbnFt?oc=5"
-        }
-      ]
-    },
-    {
-      "title": "美伊停火协议接近达成",
-      "summary": "美国和伊朗官员今日表示，双方已接近就结束霍尔木兹海峡冲突达成停火协议。美方表示协议文本已基本敲定，而伊朗则声称在协议中取得了\"胜利\"。双方同意第一阶段将以远程电子方式签署协议。此次和谈若成功，将缓解中东紧张局势，稳定全球石油供应，并对国际关系格局产生重要影响。然而，协议细节尚未完全公开，以色列对协议表示担忧，可能影响最终达成。",
-      "reason": "国际主流媒体对美伊和谈的持续关注，多源确认协议接近达成",
-      "impact_areas": [
-        "地缘",
-        "经济金融"
-      ],
-      "impact_level": "重大",
-      "sources": [
-        {
-          "name": "NYTimes",
-          "url": "https://www.nytimes.com/live/2026/06/12/world/iran-war-trump-us-israel"
-        }
-      ]
-    },
-    {
-      "title": "美国确认美伊停火协议接近达成",
-      "summary": "美国白宫今日表示，美国和伊朗之间的停火协议\"非常接近\"达成。这一表态进一步确认了双方已就结束霍尔木兹海峡冲突的协议文本达成基本一致。美方表示协议将确保地区稳定，而伊朗则声称在协议中取得了\"胜利\"。双方同意第一阶段将以远程电子方式签署协议。此次和谈若成功，将缓解中东紧张局势，稳定全球石油供应，并对国际关系格局产生重要影响。",
-      "reason": "美国官方确认美伊停火协议接近达成，具有高可信度",
-      "impact_areas": [
-        "地缘",
-        "经济金融"
-      ],
-      "impact_level": "重大",
-      "sources": [
-        {
-          "name": "NYTimes",
-          "url": "https://www.nytimes.com/2026/06/12/world/middleeast/us-iran-ceasefire-deal-white-house.html"
-        }
-      ]
-    },
-    {
-      "title": "美伊协议细节分析",
-      "summary": "随着美伊和谈接近达成协议，纽约时报今日分析了已知协议细节。报道称，协议将包括伊朗停止对霍尔木兹海峡附近船只的干扰，美国部分解除对伊朗的制裁，以及双方恢复外交关系等内容。协议第一阶段将以远程电子方式签署，后续细节可能通过进一步谈判确定。此次和谈若成功，将缓解中东紧张局势，稳定全球石油供应，并对国际关系格局产生重要影响。然而，协议细节尚未完全公开，以色列对协议表示担忧，可能影响最终实施。",
-      "reason": "国际主流媒体对美伊协议的深度分析，提供协议关键细节",
-      "impact_areas": [
-        "地缘",
-        "经济金融"
-      ],
-      "impact_level": "重大",
-      "sources": [
-        {
-          "name": "NYTimes",
-          "url": "https://www.nytimes.com/2026/06/12/world/middleeast/iran-peace-deal-what-to-know.html"
-        }
-      ]
-    },
-    {
-      "title": "美国限制AI模型出口",
-      "summary": "特朗普政府今日宣布禁止境外主体获取Anthropic公司旗下最强人工智能模型，理由是存在\"国家安全风险\"。这一决定标志着美国政府对先进AI技术的管控进一步收紧。Anthropic是一家由前OpenAI研究人员创立的AI公司，其开发的Claude系列模型被认为是GPT-4的主要竞争对手。美国政府此举可能影响全球AI发展格局，引发其他国家对AI技术出口管制的跟进，同时也可能加速全球AI技术的分裂发展。",
-      "reason": "美国政府对AI技术的重大管控措施，影响全球AI发展格局",
-      "impact_areas": [
-        "科技",
-        "政治"
+        "经济金融",
+        "生态"
       ],
       "impact_level": "重大",
       "sources": [
         {
           "name": "36氪",
-          "url": "https://www.36kr.com/newsflashes/3850886715446274"
+          "url": "https://www.36kr.com/newsflashes/3851102420325382"
         }
       ]
     },
     {
-      "title": "美国以安全为由限制AI出口",
-      "summary": "美国政府今日以\"越狱风险\"为由，对Anthropic公司最新AI模型实施出口管制。这一决定与特朗普政府此前禁止境外主体获取Anthropic旗下最强AI模型的措施相呼应。美国政府称，这些AI模型可能被用于恶意目的，存在\"国家安全风险\"。Anthropic是一家由前OpenAI研究人员创立的AI公司，其开发的Claude系列模型被认为是GPT-4的主要竞争对手。美国政府此举可能影响全球AI发展格局，引发其他国家对AI技术出口管制的跟进，同时也可能加速全球AI技术的分裂发展。",
-      "reason": "美国政府对AI技术的双重管控，进一步强化AI出口限制",
+      "title": "硫酸价格持续高位",
+      "summary": "云南铜业公告称，今年以来公司生产的硫酸销售价格持续处于高位，较去年同期上涨约30%。硫酸是铜冶炼过程中的重要副产品，其价格波动反映了化工品市场的供需变化。高硫酸价格可能对化肥、冶金等行业产生成本压力，同时也反映了全球化工品市场的结构性变化。",
+      "reason": "化工品价格持续高位，反映产业链供需格局重大变化",
       "impact_areas": [
-        "科技",
-        "政治"
+        "经济金融"
       ],
       "impact_level": "重大",
       "sources": [
         {
-          "name": "虎嗅",
-          "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBfdU9fTEI2NmNtV2pkZkJQeG5CQjdmakotQTNuWnpKRk5pWGFLZGtDcGc2dlQwOXZqLUJSM1RfS1k2U24zazhlYWd0YlB4Y3hOVG9uc2Y1SmVJT2Qxck5vcU5R?oc=5"
+          "name": "36氪",
+          "url": "https://www.36kr.com/newsflashes/3851282943792133"
+        }
+      ]
+    },
+    {
+      "title": "俄军控制顿涅茨克55%",
+      "summary": "据多家媒体报道，俄军近日对顿涅茨克北部重镇发起猛烈进攻，目前已控制该地区约55%的领土。这一进展标志着俄军在顿巴斯地区的攻势取得重要突破，可能改变乌克兰东部战局。国际社会对冲突升级表示担忧，多国呼吁停火谈判。",
+      "reason": "俄乌冲突关键战局变化，地缘政治风险升级",
+      "impact_areas": [
+        "政治",
+        "地缘"
+      ],
+      "impact_level": "重大",
+      "sources": [
+        {
+          "name": "凤凰网",
+          "url": "https://news.ifeng.com/c/8tvOboxwvQA"
+        }
+      ]
+    },
+    {
+      "title": "中国摩托车行业倡议",
+      "summary": "中国摩托车商会今日发布倡议，呼吁全行业坚决抵制抄袭仿造、盗用核心技术等行为，杜绝海外低价无序厮杀。此举旨在提升中国摩托车产业的自主创新能力和国际竞争力，推动行业高质量发展。分析人士指出，这一倡议反映了国内产业升级的政策导向，可能重塑中国摩托车行业的国际竞争格局。",
+      "reason": "产业政策导向明确，中国制造业加速转型升级",
+      "impact_areas": [
+        "产业"
+      ],
+      "impact_level": "重大",
+      "sources": [
+        {
+          "name": "澎湃新闻",
+          "url": "https://m.thepaper.cn/detail/33374518"
+        }
+      ]
+    },
+    {
+      "title": "世界杯东道主表现亮眼",
+      "summary": "在2026年世界杯小组赛中，美国队以大比分战胜对手，赛后主帅波切蒂诺表示胜利属于整个团队，前路还很长。作为东道主之一，美国队的出色表现可能提振国内足球热情，并推动美国足球运动的发展。本届世界杯在北美举行，美国、加拿大和墨西哥联合举办，预计将创造多项历史纪录。",
+      "reason": "世界杯东道主表现亮眼，全球足球盛宴影响深远",
+      "impact_areas": [
+        "社会"
+      ],
+      "impact_level": "重大",
+      "sources": [
+        {
+          "name": "澎湃新闻",
+          "url": "https://m.thepaper.cn/detail/33374852"
         }
       ]
     }
   ],
-  "total_fetched": 244,
-  "generated_at": "2026-06-13T12:28:30.656788+08:00"
+  "total_fetched": 285,
+  "generated_at": "2026-06-13T19:31:56.179622+08:00"
 }
