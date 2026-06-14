@@ -1,0 +1,194 @@
+{
+  "date": "2026-06-15",
+  "news": [
+    {
+      "title": "美伊达成和平协议",
+      "summary": "美国与伊朗达成和平协议，霍尔木兹海峡将于19日协议签署后开放。伊朗最高国家安全委员会已确认伊美谅解备忘录达成，副外长称所获成果远大于承诺。巴基斯坦总理宣布美伊正式签字仪式时间地点已敲定。特朗普表示和平协议达成，并将霍尔木兹海峡描述为\"永久免费\"。这一协议可能结束中东紧张局势，对全球能源安全和地缘政治格局产生深远影响。",
+      "reason": "多源密集报道的地缘政治重大事件，可能改变中东局势",
+      "impact_areas": [
+        "政治",
+        "经济金融",
+        "地缘"
+      ],
+      "impact_level": "现象级",
+      "sources": [
+        {
+          "name": "澎湃新闻",
+          "url": "https://m.thepaper.cn/detail/33379904"
+        },
+        {
+          "name": "澎湃新闻",
+          "url": "https://m.thepaper.cn/detail/33379862"
+        },
+        {
+          "name": "澎湃新闻",
+          "url": "https://m.thepaper.cn/detail/33379876"
+        },
+        {
+          "name": "凤凰网",
+          "url": "https://news.ifeng.com/c/8txwpZNovYY"
+        },
+        {
+          "name": "凤凰网",
+          "url": "https://news.ifeng.com/c/8txz6NmvODf"
+        },
+        {
+          "name": "凤凰网",
+          "url": "https://news.ifeng.com/c/8txzWEYxLTO"
+        }
+      ]
+    },
+    {
+      "title": "神二十三乘组在轨工作",
+      "summary": "中国空间站神二十三乘组已在轨工作三周，多项工作持续推进。这标志着中国空间站运营进入常态化阶段，展示了中国航天技术的持续进步和国际合作能力的提升。神舟系列任务的成功执行为中国空间站长期稳定运行提供了保障，也为未来深空探测和月球基地建设奠定了基础。",
+      "reason": "国家重大科技成就，展示中国航天技术实力",
+      "impact_areas": [
+        "科技",
+        "政治"
+      ],
+      "impact_level": "重大",
+      "sources": [
+        {
+          "name": "央视网",
+          "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5pRHlSQWZFSUNGam5Fd3IxeXhvSmNCaHgxZTBKWndUbE5QYnQyZWw4a29QM3VGaHRLbUh2cEpjZ1M1TjF0TkVIT2MtMTdSQnRxRGpYaTFDakpzTkRvbXJEanRpQ3BDaTNDZkRaWlZtajVyZTlQUEFNSg?oc=5"
+        }
+      ]
+    },
+    {
+      "title": "瑞士否决人口上限",
+      "summary": "瑞士选民否决了将人口上限设定在1000万的公投提案。这一结果反映了瑞士对人口增长和移民政策的开放态度。瑞士作为欧洲重要的金融中心，人口政策对其经济和社会发展具有重要影响。此次公投结果可能影响欧洲其他国家的人口政策讨论，特别是在移民和人口老龄化背景下。",
+      "reason": "欧洲国家重大政策变化，影响人口和移民政策走向",
+      "impact_areas": [
+        "政治",
+        "社会"
+      ],
+      "impact_level": "重大",
+      "sources": [
+        {
+          "name": "BBC",
+          "url": "https://www.bbc.com/news/articles/c20ygjem17zo?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "name": "NYTimes",
+          "url": "https://www.nytimes.com/2026/06/14/world/europe/switzerland-population-cap-referendum.html"
+        }
+      ]
+    },
+    {
+      "title": "英日达成180亿投资",
+      "summary": "英国与日本达成价值180亿英镑的投资协议，这是两国加强经济合作的重要举措。该协议涵盖多个领域，包括科技、清洁能源和基础设施。这一协议反映了英国在脱欧后积极寻求全球贸易伙伴的战略，同时也显示了日本对英国市场的持续信心。该协议可能促进两国经济增长，并为其他国家的贸易合作树立先例。",
+      "reason": "重大国际经济合作协议，影响全球贸易格局",
+      "impact_areas": [
+        "经济金融",
+        "政治"
+      ],
+      "impact_level": "重大",
+      "sources": [
+        {
+          "name": "BBC",
+          "url": "https://www.bbc.com/news/articles/cx2kjwgwxwlo?at_medium=RSS&at_campaign=rss"
+        }
+      ]
+    },
+    {
+      "title": "美联储6月或按兵不动",
+      "summary": "市场预期美联储6月维持利率不变的概率高达98.5%，这表明央行可能暂时结束加息周期。这一预期对全球金融市场产生重要影响，可能导致债券收益率下降、股市上涨。美联储政策转向将对美元汇率、国际资本流动和全球经济增长预期产生深远影响，也为其他主要央行提供了政策参考。",
+      "reason": "重大货币政策信号，影响全球金融市场走向",
+      "impact_areas": [
+        "经济金融"
+      ],
+      "impact_level": "重大",
+      "sources": [
+        {
+          "name": "36氪",
+          "url": "https://www.36kr.com/newsflashes/3853615125828870"
+        }
+      ]
+    },
+    {
+      "title": "百亿资金回流ETF",
+      "summary": "本月内153只债券型基金合计分红超45亿元，同时逾百亿资金回流股票型ETF。这一现象表明投资者风险偏好有所提升，市场可能迎来风格再平衡。ETF资金流向是市场情绪的重要指标，大规模资金回流通常预示着市场底部区域的形成或阶段性机会的到来。这一趋势可能对A股市场结构和投资风格产生深远影响。",
+      "reason": "重大市场资金流向变化，反映投资者风险偏好转变",
+      "impact_areas": [
+        "经济金融"
+      ],
+      "impact_level": "重大",
+      "sources": [
+        {
+          "name": "36氪",
+          "url": "https://www.36kr.com/newsflashes/3853621776520197"
+        },
+        {
+          "name": "36氪",
+          "url": "https://www.36kr.com/newsflashes/3853636279047431"
+        }
+      ]
+    },
+    {
+      "title": "SpaceX上市提振航天股",
+      "summary": "SpaceX上市消息推动航天ETF大幅反弹，标志着太空产业迎来新的定价起点。这一事件反映了资本市场对商业航天领域的强烈看好，可能加速太空经济发展和产业格局重塑。SpaceX作为商业航天的领军企业，其上市将带动整个产业链估值提升，为太空旅游、卫星互联网、深空探测等领域的发展注入新动力。",
+      "reason": "重大科技产业事件，推动太空经济发展",
+      "impact_areas": [
+        "科技",
+        "经济金融"
+      ],
+      "impact_level": "重大",
+      "sources": [
+        {
+          "name": "36氪",
+          "url": "https://www.36kr.com/newsflashes/3853618049946886"
+        }
+      ]
+    },
+    {
+      "title": "恒大案追责再升级",
+      "summary": "恒大案追责潮再起，山东高速孙亮被指被许家印\"围猎\"。这一事件反映了中国房地产行业深度调整过程中的风险暴露和责任追究。恒大作为中国最大的房地产开发商之一，其危机处理和追责进展对行业信心和市场预期具有重要影响。此案可能促使监管部门加强对房地产行业的监管，推动行业更加健康规范发展。",
+      "reason": "重大金融风险事件，影响房地产行业监管走向",
+      "impact_areas": [
+        "经济金融",
+        "政治"
+      ],
+      "impact_level": "重大",
+      "sources": [
+        {
+          "name": "财新网",
+          "url": "https://www.caixin.com/2026-06-15/102454088.html"
+        }
+      ]
+    },
+    {
+      "title": "大学生就业新趋势",
+      "summary": "大学生就业呈现新趋势，关键词包括下沉、灵活就业和新兴产业。这一现象反映了经济结构调整和就业市场变化，年轻一代就业观念的转变。下沉市场就业增加表明区域发展不平衡正在缓解，灵活就业兴起则反映了工作形态的多样化，而新兴产业就业增长则体现了经济转型升级的方向。这一趋势将对高等教育人才培养和就业服务提出新要求。",
+      "reason": "反映社会经济结构变化，影响教育和就业政策",
+      "impact_areas": [
+        "社会",
+        "经济金融"
+      ],
+      "impact_level": "重大",
+      "sources": [
+        {
+          "name": "财新网",
+          "url": "https://www.caixin.com/2026-06-15/102454099.html"
+        }
+      ]
+    },
+    {
+      "title": "违规锂电池再流入市场",
+      "summary": "违规超标锂电池再度流入市场，\"地下生产线\"再曝光。这一事件引发了对电池安全监管的担忧，特别是在新能源汽车快速发展的背景下。锂电池作为关键能源存储设备，其安全性直接关系到用户生命财产安全。此次事件可能导致监管部门加强对电池生产企业的监管力度，推动行业标准和质量提升，同时也可能影响新能源汽车产业链的信任度和发展进程。",
+      "reason": "公共安全风险事件，影响新能源产业发展",
+      "impact_areas": [
+        "科技",
+        "社会"
+      ],
+      "impact_level": "重大",
+      "sources": [
+        {
+          "name": "央视网",
+          "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE8za0N2RGxOSWZWQmNLMWI4UElrV3M4aFhPeVZFbVM3QU93dHVRZ24zbU5EWUNxTzY1QkVPbFpaamYtOEZvem5tc1RKUEMxMjlmTTFOMlZ5MUpGT3prTi1oZ0dDTHROdnBsQXA5TmJacnJzaDU1ZnhQOA?oc=5"
+        }
+      ]
+    }
+  ],
+  "total_fetched": 186,
+  "generated_at": "2026-06-15T07:27:04.971176+08:00"
+}
