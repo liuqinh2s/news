@@ -1,4 +1,4 @@
-# 2026-06-14 原始新闻标题 (225 条)
+# 2026-06-14 原始新闻标题 (281 条)
 
 ## 新华社 (20 条)
 - Education, health fees among key concerns
@@ -22,76 +22,120 @@
 - Former Chongqing political official facing corruption investigation
 - Former Chongqing political official facing corruption investigation
 
-## 澎湃新闻 (12 条)
+## 澎湃新闻 (20 条)
 - 《上海书评》周刊 - html.thepaper.cn
-- 美伊协议何时签署？特朗普说14日，伊朗否认 - thepaper.cn
+- 长三角创新联合体需算清三本账，请看《浪尖周报》第77期 - thepaper.cn
+- 台湾演员吐槽“在岛内看不到世界杯”，网友：来大陆免费看！ - thepaper.cn
+- AI热潮来袭，别被“错失恐惧症”裹挟 - thepaper.cn
+- 法治日报社区版刊文：“金耳环风波”引发的治理之思 - thepaper.cn
+- 世界杯举行之际，墨西哥瓦哈卡州一名市长遭枪击身亡：其曾报告称担心自身安全，并请求州政府提供保护；警方正对此案展开调查 - thepaper.cn
+- 乌克兰国家安全局：“阿尔法”特种作战中心遵照总统泽连斯基指令，使用无人机打击俄罗斯境内国家储备油库，致60余储罐区三处大火 - thepaper.cn
+- 暴雨大暴雨，要来了 - thepaper.cn
 - 南极半岛出现异常气温，比正常水平高出20多摄氏度，创下历史同期新高，冰层也出现异常融化 - thepaper.cn
 - 李大霄：很多散户会在高估自己的同时低估市场 - thepaper.cn
+- 英国国防部：英国首次主导拦截了一艘试图通过英吉利海峡的俄罗斯“影子舰队”油轮，行动持续6小时，巡逻机、直升机、军舰等提供支援 - thepaper.cn
+- 李小龙姐姐李秋源去世，享年88岁，李小龙女儿李香凝晒照缅怀 - thepaper.cn
 - 全球首位万亿美元富豪诞生 - thepaper.cn
+- 今晚重磅推出大型融媒体栏目《潍坊文化在行动》第83期《寻迹潍坊 文脉伴书香》 - thepaper.cn
+- 李子柒，官宣新身份 - thepaper.cn
 - 黑豹乐队发布讣告：前主唱张克芃因病不幸离世，终年54岁，6月15日举行遗体告别仪式 - thepaper.cn
+- 全球首位万亿美元富豪诞生 - thepaper.cn
 - 李大霄：概念性新股一上市就飙涨，我认为局部的泡沫有些大 - thepaper.cn
 - 李大霄：互联网泡沫结束后，有5000家公司消亡了 - thepaper.cn
 - 会说话的体检报告 第一集 老年人体检总体介绍 - thepaper.cn
-- 会说话的体检报告 第二集 血常规-医生的侦察兵 - thepaper.cn
-- 拇指功能非常重要，示指拇化把食指“变”拇指 - thepaper.cn
-- 示指拇化的关键是什么？掌骨夹角决定对掌功能 - thepaper.cn
+
+## 南方周末 (3 条)
+- “回收料”翻新牙刷事件：减塑僵局，酒店责任几何？
+- 从大航海到大航天，SpaceX价值2万亿美元的梦想
+- 《奔跑吧》往期节目“翻车”，高山流石滩能放焰火吗？
 
 ## 凤凰网 (20 条)
-- 印度强烈抗议：美国“朋友”竟如此麻木不仁？ - 凤凰网
-- 哈梅内伊葬礼将于7月4日开始 - 凤凰网
-- 一不小心，美国又创造了历史 - 凤凰网
-- “孤独树”走红，村民无奈砍掉树冠，村委会：不追责 - 凤凰网
-- 俄军深入康城市区，瓦解乌军防御枢纽 - 凤凰网
-- 南通一餐饮店经营者称家人劝阻顾客吸烟发生矛盾后死亡，派出所：已在处理，网传存在不实信息 - 凤凰网
-- 圣境长白，环山骑行，2026年中国公路自行车职业联赛（长白山站）开赛！ - 凤凰网
-- 一颗小球见证的“正定奇迹” - 凤凰网
-- 【国际3分钟】今年APEC选址深圳，有何深意？ - 凤凰网
-- 央视曝光校园“烂梗”现象学生张嘴就是“那咋了受着呗”作文里全是“绝绝子”家长听不懂老师很无奈 - 凤凰视频
-- 陇超·精彩进球丨1个！2个！3个！甘南球迷沸腾了 - 凤凰网
-- 俄军深入康城市区 瓦解乌军防御枢纽 - 凤凰视频
-- 41人在地中海遇险，中国船成功营救，埃及向中国海上搜救中心发来感谢信 - 凤凰网
-- 41人在地中海遇险，中国船成功营救，埃及向中国海上搜救中心发来感谢信 - 凤凰视频
-- 美伊协议或达成 伊朗民众街头高喊不要妥协 不能信任特朗普 - 凤凰视频
-- G7峰会召开在即瑞士商家自掏腰包加装防护板写出“小本经营”标语 - 凤凰视频
-- 马来西亚4月失业率微升至3% - 凤凰视频
-- 南通一餐饮店经营者称家人劝阻顾客吸烟发生矛盾后死亡，派出所：已在处理，网传存在不实信息 - 凤凰视频
-- 朝鲜谴责美国出口武器等同“战争出口” - 凤凰视频
-- 2026中国南昌国际龙舟赛今日开赛，同时举办南昌都市圈商品展，红谷滩区多款产品亮相 - 凤凰视频
+- 海底捞崩溃、老乡鸡道歉：狗中贵族，凌驾于人
+- 李小龙姐姐李秋源离世，享年88岁
+- 专家：以色列拦不住美伊签字，但可能制造摩擦
+- 泽连斯基称对俄实施远程打击
+- 不拥核换松绑？伊官员透露最新美伊备忘录草案
+- 水利部和中国气象局联合发布橙色山洪灾害气象预警
+- 伊朗消息人士：美伊将线上开会并签署协议
+- “女子家门口遇害案”二审将开庭，受害者母亲已申请对被告人重作精神鉴定
+- 货车集体“偏航”泌阳，南辕北辙为谁忙
+- 曼谷民众送别泰国公主：烈日下街头守候，落泪送行，灵车驶向大皇宫
+- 张凌赫亮相第十八届海峡论坛，称期待台胞来大陆走走看看
+- 当“遇见”遇上“渝见”，商标维权不应成为“磨刀向弱者”的生意
+- 七国峰会召开在即，举办地商户却开始加装防护板
+- “慢镜头下的悲剧”：中东局势冲击全球农业，南半球正受严重威胁
+- 可盐可甜的“女友小雪”，被抓了
+- 歌手黄大炜意外离世，与大外公张学良的过往曾令人津津乐道
+- 公益组织发文：严禁会员在KTV等娱乐场所穿着带组织标识服饰
+- 知情人士：伊朗尚未就谅解备忘录作出最终决定
+- 美禁止外国主体使用安特罗匹克最新AI模型
+- 演员李立群吐槽台湾看不到世界杯，网友：来大陆免费看
 
-## 财新网 (1 条)
-- 最新财新周刊｜SpaceX：全球最大IPO登陆 - 财新周刊
+## 财新网 (12 条)
+- 尼克斯队时隔53年再获NBA总冠军 特朗普曾亲临观战
+- 药明康德起诉美国国防部：被列入1260H名单是错误认定
+- 《给阿嬷的情书》打破投资规律 电影该怎么拍才好看？
+- 养猪业务未能找到接盘方 深铁再出借超10亿元帮助万科
+- 朱学东：端阳前后，“新篘白酒透帘香”｜饮食
+- 美加墨世界杯 巴西首场1-1战平摩洛哥
+- 粟特人、突厥人和蒙古人（下）｜熟悉又陌生的中亚②
+- 差异化之路，颠覆行业原有格局｜SpaceX开辟市场③（完）
+- 每座城都值得一次新的讲述
+- 【CCI快报】：中国大宗商品指数周跌1.82% 白银领跌8.88%
+- 财新闻｜男子意外离世留下27万元逾期贷款，银行起诉家属还款，法院判了
+- 国际航协理事长：高油价下中国航司面临更严峻的盈利挑战
 
-## 央视网 (7 条)
+## 央视网 (12 条)
 - “美国梦”的褪色 - 央视网
+- 伊朗称必须获得在霍尔木兹海峡提供服务的费用 - 央视网
 - 281.02万亿元、超20%、超19亿人次……“数”里行间感受中国经济的勃勃生机 - 央视网
-- 我国世界遗产总数达60项 居世界前列 - 央视网
 - 感知中国活力｜透过数据看活力 我国消费需求持续回升 - 央视网
+- 我国重点区域珊瑚群落呈恢复态势 - 央视网
+- 我国世界遗产总数达60项 居世界前列 - 央视网
+- 科技赋能让文物可看可感 更让古老文脉焕发新活力 - 央视网
 - 最美的遗产 最好的守护 - 央视网
 - 抢收、抢种、收购……从“三夏”麦收地图看夏粮收获好“丰”光 - 央视网
-- 完成载荷出舱安装 一起追更“天宫工作Vlog” - 央视网
+- 与未来对话 | 人工智能到底学什么？从核心课程到发展前景， 一次说清 - 央视网
+- 几个小改变让血脂、血糖都受益 还能降低全身炎症水平 - 央视网
+- 伊朗消息人士称美伊将举行视频会议并签署协议 - 央视网
 
-## BBC (6 条)
+## BBC (14 条)
 - Trump says US-Iran deal to be signed on Sunday as Tehran casts doubt on timing
-- Nigerian author accuses hospital of stalling review into her son's death
-- Ticketmaster says Knicks fans won't be locked out of game after last-minute panic
+- Swiss voters reject 10 million population cap, early projections say
+- Russian families use AI to 'resurrect' loved ones killed in Ukraine
+- New York Knicks win NBA championship for first time in over 50 years
+- Author Chimamanda Adichie accuses hospital of stalling review into son's death
 - Vincent's parents 'never say he's good enough' - so he turned to a middle-aged couple online
+- Norway braces for verdict in rape trial of crown princess's son Høiby
+- Armed men kidnap high-ranking security official in Haiti
 - Trump's name removed from Kennedy Center after court order
+- US kills leader of Venezuela's Tren de Aragua gang in air strike, Trump says
 - Anthropic suspends new AI tools over US government security concerns
+- Why the US economy keeps defying the odds
+- As Trump turns 80, what's it really like to work as an octogenarian?
+- 'The greatest day of my life' - Knicks fans celebrate in San Antonio
 
-## Reuters (1 条)
+## Reuters (2 条)
+- Iran says limited cyberattack disrupts services at four banks, state media says - Reuters
 - Doctors in England call off strikes after last-minute offer in long-running dispute - Reuters
 
-## NYTimes (12 条)
+## NYTimes (18 条)
+- Iran War Live Updates: Israel and Hezbollah Exchange Strikes, Complicating Possible Iran Peace Agreement
+- The G7 Summit Is Dogged by Chaos and Divided by Trump
+- UK Forces Seize Russian Shadow Fleet Oil Tanker
+- Deadlocked Wars: How Major Powers Misread the Regions They Attacked
+- Curaçao Is the Smallest Country Ever to Reach the World Cup
 - Japan Is Running Out of Royals. Are More Men the Answer?
 - Germany and Japan Are Rearming Again, 80 Years After World War II
 - With a Deal Seemingly Close, the U.S. Faces an Iran More Willing to Withstand Pressure
 - At the Canadian Screen Awards, the Industry Steps Outside Hollywood’s Shadow
-- Trump Says Peace Deal Will Be Signed Sunday, but Iran Disputes Timeline
-- A Tren de Aragua Leader Is Killed in a Joint Strike, U.S. and Venezuela Say
+- The Secrets of a Soccer-Turf Master
+- Here’s the latest.
 - In Venezuela, a 91-Year-Old Weaver Sticks to Traditions
 - Top Haitian Security Official Kidnapped
 - 5 Children Are Killed After Van and S.U.V. Collide in Rural Ontario
 - Here’s the latest.
+- A Tren de Aragua Leader Is Killed in a Joint Strike, U.S. and Venezuela Say
 - Ebola Comes for Congo’s Most Vulnerable Children
 - Scientists Race to Test Treatments as Ebola Outbreak Widens
 
@@ -104,26 +148,26 @@
 - Want Cash Out of Your Home? Here Are Your Best Options
 
 ## 微博热搜 (20 条)
-- 尼克斯NBA总冠军
-- 短剧香蜜沉沉烬如霜上线
-- 我国加速打造新一代新型电网
-- NBA总决赛
-- 大鱼海棠
-- 巴西醒醒 这是世界杯
-- 布伦森FMVP
-- 巴西21岁女子蹦极坠亡现场画面
-- 央视播世界杯不播NBA总决赛
-- 管虎拍了辛芷蕾一下示意别被挡住
-- 迪丽热巴手机壳
-- 机器人伴侣仅限成人购买
-- 等等太帅了
-- 曾沛慈发卖老公
-- 樊振东上海活动
-- 邓超观战NBA总决赛
-- 陈飞宇给Angelababy刷礼物
-- 尼克斯VS马刺
-- 谷爱凌从斯坦福毕业了
-- 男子攀登火山口坠入高温硫磺湖身亡
+- 小县城取消中考选拔全员直升高中
+- 黄大炜去世
+- 神23乘组要在太空过端午了
+- 猜猜巴西队王牌沉浸在什么歌里
+- Bin MSI我依旧会夺冠
+- Bin没说谎
+- 微博电影之夜内场
+- 阿迪达斯在上海建了一座梅西之屋
+- 上海还是太超前了
+- BLG横扫TES
+- T1对战GEN
+- 上海世赛倒计时100天
+- 沈腾和昨天是一个人吗
+- 孙怡张若昀聊啥呢这么开心
+- 上班这件事不要本末倒置
+- 王俊凯P领口
+- 大鱼海棠导演说王菲要求多报价贵
+- 小米工程师谈某大模型重新出山
+- 39岁女子1天3杯奶茶喝出牛奶血
+- 美伊将举行视频会议并签署协议
 
 ## 知乎热榜 (20 条)
 - 给孩子取名沐兮很傻吗?
@@ -148,115 +192,129 @@
 - 瞎扯 · 如何正确地吐槽
 
 ## B站热门 (20 条)
-- 美国“杰斐逊州”在哪里？【神奇组织51】
 - 看一看早餐的质量怎么样#早餐#食品安全
-- 《兔粮是你的谎言》
-- 【独家】《凡人修仙传之慕兰之战》第2集【总第178集】
-- 我们成功了!核电站隐藏好结局-天下无核 测试服
-- 路边一块，经过雕刻，包你看了过目不忘！愿你成为自己的太阳，无需借谁的光
-- 【独家】牧神记 第87集 大擂音宗
 - 洗衣机演奏一首《起风了》，以此纪念我的高中生活
+- 八极宗师雏田肘破万钧！技能前瞻先睹为快！
+- 【独家】《凡人修仙传之慕兰之战》第2集【总第178集】
+- 人在做坏事时…是最有耐心的【超长前摇】
+- 和刘晓庆再返深宫，活下来！
+- 【独家】牧神记 第87集 大擂音宗
+- 美国“杰斐逊州”在哪里？【神奇组织51】
 - 《逆水寒：新世界》发布会实机重磅爆料，6月26日世界焕新、万物出金！
-- 你是说我小时候造了一个超大过山车和半个耶稣像？！？过山车？！
-- 幻想向：你永远是你妈生的
-- 一个人一个包｜环游世界十二国｜地球最狂野的国家肯尼亚｜探索生命的禁区｜人类最原始的样子｜乞力马扎罗山｜
+- 【STN快报第8.5季9】蒂法公布后街霸陷入褒贬不一
+- 墙那边根本就没有厕所！！
+- 《兔粮是你的谎言》
 - 【剧情】小谢尔顿 第二季（2018）01【 伊恩·阿米蒂奇 / 佐伊·派瑞】
-- 新地图解锁！影视飓风的电竞房？
-- 不是 我咋上高三了
-- 《少年》-《下一个是谁7》主题曲
-- 【无畏契约伦敦大师赛】6月14日 G2 vs XLG
-- 【无畏契约伦敦大师赛】6月13日 EDG vs FUT
 - 华强买瓜，但是艺术家
-- 张杰谢娜两口子不要再闹了好吗？【爆笑演唱会名场面】
+- 我们成功了!核电站隐藏好结局-天下无核 测试服
+- 当你忙了一天下班
+- 评论区摄影大赛之决定性瞬间篇开启，欢迎投稿，好的作品会让更多人看到。
+- 【某幻】《盛世天下》再返深宫，活下来！
+- 【张靓颖】这个《巴拉莱卡》里我扮演的是
+- 新地图解锁！影视飓风的电竞房？
 
 ## 抖音热搜 (20 条)
-- 尼克斯时隔53年再夺总冠军
-- 巴西1:1摩洛哥
-- 中国造船有底气
+- 德国vs库拉索比分预测
 - 加米峰把川西美景具象化了
-- 张雪机车极限反超夺第6冠
-- 现场见证美加墨巴西首秀
-- 瘦子吃饭有啥小习惯
+- 世界献血者日
+- 尼克斯时隔53年再夺总冠军
+- 华语歌手黄大炜去世
+- 布伦森当选总决赛FMVP
+- 姜乘澜的保姆级黑眼圈遮瑕教程
+- BLG夺得第二赛段优胜者
+- 懂球天团锐评桑巴足球是否没落
+- 全国顶流NPC在杭州团建了
 - 内马尔 意难平
-- 光阴之外第一季收官
-- 卡塔尔1:1瑞士
-- 留学生回国之后就这样大吃特吃
-- 十八成年亦乘风
-- EDG战胜FUT晋级6强
-- 带你走进美加墨
+- 哈登因非法携带武器被捕
+- 荷兰vs日本前瞻
 - 董路辟谣自掏5800万养足球小将
-- 巴西1:1摩洛哥暴露哪些短板
-- 哈兰德把挪威的森林焊死在抖音
-- 那些年全国统一的潮流穿搭
-- 黑豹乐队前主唱张克芃去世
+- EDG战胜FUT晋级6强
+- XLG让一追二战胜G2
+- 巴西1:1摩洛哥
+- 恭喜尼克斯夺冠
+- 内马尔之舞又杀回来了
 - 南部档案进行曲
 
-## 雪球热帖 (12 条)
-- SpaceX超级IPO落幕！马斯克成为万亿富豪 华尔街投行也赚得盆满钵满 - 新浪财经
-- “能盈利就是万幸”，多位车企高管预警：智能电动汽车非常时期至少持续五年 - 新浪财经
-- 呈和科技(688625)：主业小而美 蓄势AI阻燃剂+AI树脂 - 新浪网
-- 环保周报：“十五五”城市更新规划发布 关注管网改造、固废处理领域 - 新浪网
-- 特朗普向内塔尼亚胡作出承诺 伊美协议将回应多方诉求 - 新浪财经
-- 刚果（金）埃博拉确诊病例超过700例 - 新浪财经
-- 一夜之间3家A股公司被点名！实控人将上市公司当私人提款机 监管重拳 - 新浪财经
-- 中国球迷在墨遭抢劫1嫌疑人落网 - 新浪财经
-- 电子行业周报：ABSOLICS加快推动玻璃基板商业化 SPACEX上市 - 新浪网
-- 连续三年！岚图汽车再度护航夏季达沃斯论坛 - 新浪财经
-- 一家养老院，要IPO了！ - 新浪财经
-- 雷军回应违规装载600斤车厘子质疑，传阿里周靖人离职，一汽大众为空调喷粉致歉，携程被罚1000万，这就是今天的其他大新闻！ - 新浪财经
+## 雪球热帖 (18 条)
+- 全球首位“万亿富翁”诞生 - Sina finance
+- SpaceX超级IPO落幕！马斯克成为万亿富豪 华尔街投行也赚得盆满钵满 - Sina finance
+- “能盈利就是万幸”，多位车企高管预警：智能电动汽车非常时期至少持续五年 - Sina finance
+- 联手打造太空算力？SpaceX刚上市，马斯克就喊话黄仁勋：合作升级！ - Sina finance
+- 保有量突破4.5亿辆，中国两轮电动车进入存量时代，出口却卖爆了！ - Sina finance
+- 原油周报：美伊局势紧张 关注协议签署情况 - 新浪网
+- 基本面高频跟踪：债市温度计 - 新浪网
+- 全球史上最大IP0落地，A股哪些板块能借势“上天”？ - Sina finance
+- 安克创新(300866)阳台储能/户用储能景气深度跟踪：政策驱动中长期行业增长 公司阳台储能优势明显/户储渠道有突破 - 新浪网
+- 第十二届上交会落幕，意向成交项目数首次突破600项 - Sina finance
+- 雷军回应违规装载600斤车厘子质疑，传阿里周靖人离职，一汽大众为空调喷粉致歉，携程被罚1000万，这就是今天的其他大新闻！ - Sina finance
+- 食品饮料行业周观点：茅台股东大会定军心 重视餐饮修复及高成长个股 - 新浪网
+- 人形机器人为何如此热衷秀才艺？ - Sina finance
+- 德国部长也用AI写稿？ - Sina finance
+- 中色股份控股子公司17.4亿元铅锌矿扩建项目正式开工 建设期3年 - Sina finance
+- 一家养老院，要IPO了！ - Sina finance
+- 资本市场，大调整！23万亿元行业，迎新规！ - Sina finance
+- AI泡沫要崩？黄金跌了该割吗？解读6月投资疑惑丨理财问答 - Sina finance
 
-## 36氪 (13 条)
+## 36氪 (20 条)
+- 外媒曝蚂蚁集团正秘密测试AI 版支付宝
+- 崔东树：5月我国动力和其它电池合计产量为192GWh，同比增长38%
+- 上海机场：5月浦东机场旅客吞吐量700.48万人次
+- SK海力士去年新增员工超2000人
+- 我国首批自研海洋工程柔性智能焊接机器人投用
+- 扣子3.0正式上线专业自媒体 Skill
+- 中企承建马达加斯加12号国道部分竣工
+- 中国裁判傅明首次亮相世界杯
+- 中企承建马达加斯加12号国道部分竣工
+- 陈茂波：中国香港股市1-5月日均成交额同比增长14%
+- 德国数字化部长疑用AI写公文遭质疑
+- 阿里巴巴：“周靖人辞职”纯属谣言
+- 南航第十一架C919国产大飞机正式入列
+- 中建六局与大禹集团签署战略合作协议
+- 吉利包揽TCR世界巡回赛巴伦西亚站首回合前两名
+- 英国和日本计划签署180亿英镑清洁能源投资协议
+- 加拿大母亲起诉奥特曼与OpenAI，指控ChatGPT诱导女儿自杀
+- 2026端午档新片预售总票房破2000万
+- 成渝中线与成达万高铁枢纽连接工程取得关键突破
 - 刚果（金）埃博拉确诊病例超过700例
-- 中老铁路今年以来运输货物突破1000万吨
-- 香港五年规划公众咨询将于6月15日展开
-- 全球首条百万片级体全息光波导自动化产线在天津投产
-- 前五个月国家铁路累计发送货物16.7亿吨
-- 天陇铁路平洛隧道贯通
-- 菲律宾南部强震已致超72万人受灾
-- 15条特高压直流通道要来了
-- 世界杯期间英格兰队装备遭窃，大部分已被追回
-- 我国首次开展蔬菜纯电农机实地综合测评
-- 金价近乎翻倍，豪华表成了“炼金”原料
-- 联合国专家：国际社会应采取实际行动应对气候变化
-- 第10届南博会现场签约超257亿元能源项目
 
 ## 虎嗅 (20 条)
-- 遇见小面的高管们，得理要饶人啊，诉棍是律师行业的耻辱
-- “白菜价”的人形机器人，没法进厂“打螺丝”
-- 收视近二十年最佳，NBA等到下一个乔丹和姚明了？
-- GLM5.2：给国产模型追赶Anthropic 又提了一口气
-- “竞品今年促销力度太大了”，这不是甩锅，而是企业没给经销商、一线业务足够的支持
-- 茉莉奶白纽约“被叛”：一纸诉讼背后，茶饮出海的加盟困局
-- 哈啰给钛媒体递了一把刀
-- 从南京到霍尔木兹：低轨卫星如何补齐导航安全短板
-- Codex和Claude Code负责人都不写提示词了，AI 圈爆火的Loop到底是什么
-- 地狱女主和“恨文化”，怎么就统治了古偶剧？
-- Intel传奇CEO：如何面对战略拐点？
-- 亏损7亿、膜材独供、商业化受阻，汉诺医疗拿什么撑起“ECMO第一股”？
-- 票房冠军≠最赚钱：中国影史回报比最高的十部电影
-- 鹅腿阿姨是个好人
-- 奇点终于临近，未来却是一个大大的问号：从Anthropic的《当AI开始建造自己》说起
-- 央媒“上岸”又离开，一场预制盛宴的幻灭
-- 陈宇森，会是AI时代的蒋凡吗？
-- 印度：烂尾的五年规划
-- 基于SpaceX，聊聊如何给“梦想”估值
-- 霍金的三重身体：现代社会如何制造天才？
+- 好几百的速干衣，比棉T恤还热？功能性面料为啥失效了？ - 虎嗅
+- 中国制造全方位参与2026世界杯：从基础设施到文化IP输出 - 虎嗅
+- 中国制造全方位参与2026世界杯：从基础设施到文化IP输出 - 虎嗅
+- 鬼冢虎被母公司亚瑟士分拆独立，成立子公司OT GROUP - 虎嗅
+- 智谱发布GLM-5.2全量开源，借竞品停服窗口期对冲IPO不确定性 - 虎嗅
+- SK海力士拟将芯片晶圆产能提高到3倍。 - 虎嗅
+- 4连板和远气体：公司规划的电子级六氟化钨等电子特气产品尚处于试生产阶段。 - 虎嗅
+- 乌克兰总统泽连斯基宣布对俄罗斯雅罗斯拉夫州等地实施远程打击 - 虎嗅
+- 中信证券：风格再平衡实际上已经开始。 - 虎嗅
+- 国际金价连续下挫回吐年内涨幅，黄金相关ETF规模缩水近370亿元 - 虎嗅
+- 伊朗四家银行遭有限网络攻击，未发生客户信息泄露。 - 虎嗅
+- 美加墨世界杯小组赛C组首轮：巴西队1:1战平摩洛哥队 - 虎嗅
+- 鬼冢虎被母公司亚瑟士分拆独立，成立子公司OT GROUP - 虎嗅
+- 特朗普称美伊协议计划于周日签署，霍尔木兹海峡将立即开放 - 虎嗅
+- 兰州兰山索道回应运行中轿厢门开启：系工作人员违规巡线将整改 - 虎嗅
+- 中国制裁菲律宾防长特奥多罗 指控其忘恩负义颠倒黑白 - 虎嗅
+- 日本民众集会，反对高市政权推动扩军修宪。 - 虎嗅
+- 以军在黎巴嫩南部发现真主党地下通道并打死7名武装人员 - 虎嗅
+- 天风证券：电子布年内第五轮涨价落地，AI链拉动玻纤景气延续。 - 虎嗅
+- 阿里巴巴官方辟谣周靖人离职传闻 - 虎嗅
 
 ## 少数派 (1 条)
 - TDS REVIEW｜韶音 OpenDots 2 / Air 耳夹式开放真无线耳机体验
 
-## GitHub Trending (14 条)
+## GitHub Trending (15 条)
 - iptv-org/iptv
-- addyosmani/agent-skills
-- chatwoot/chatwoot
-- obra/superpowers
-- apple/container
-- music-assistant/server
-- kenn-io/agentsview
-- LMCache/LMCache
-- microsoft/PowerToys
-- andrewyng/aisuite
-- NVIDIA/SkillSpector
-- bannedbook/fanqiang
+- freeCodeCamp/freeCodeCamp
+- pytest-dev/pytest
 - swc-project/swc
-- x1xhlol/system-prompts-and-models-of-ai-tools
+- chatwoot/chatwoot
+- NVIDIA/SkillSpector
+- meshery/meshery
+- cypress-io/cypress
+- GorvGoyl/Clone-Wars
+- Introduction-to-Autonomous-Robots/Introduction-to-Autonomous-Robots
+- shiyu-coder/Kronos
+- music-assistant/server
+- Free-TV/IPTV
+- puppeteer/puppeteer
+- andrewyng/aisuite

@@ -2,9 +2,9 @@
   "date": "2026-06-14",
   "news": [
     {
-      "title": "美伊协议或周日签署",
-      "summary": "特朗普宣布美伊协议将于6月14日签署，但伊朗否认这一时间表，称协议尚未最终确定。这一协议若达成，将结束两国长期紧张关系，对中东地缘政治格局产生深远影响。协议内容涉及伊朗核计划、经济制裁解除以及地区安全安排等多个方面。若成功签署，将显著缓解中东紧张局势，对全球能源市场产生积极影响，同时可能改变以色列与阿拉伯国家关系格局。",
-      "reason": "国际关系重大突破，多源密集报道，影响全球能源市场",
+      "title": "美伊协议将签",
+      "summary": "特朗普宣布美伊协议将于周日签署，霍尔木兹海峡将立即开放。伊朗消息人士称美伊将举行视频会议并签署协议，但伊朗尚未就谅解备忘录作出最终决定。以色列对协议表示担忧，称可能制造摩擦。这一协议若签署，将结束多年紧张关系，对中东地缘政治格局、全球石油市场及国际关系产生深远影响。",
+      "reason": "多源密集报道，中东局势重大转折点",
       "impact_areas": [
         "政治",
         "经济金融",
@@ -13,31 +13,31 @@
       "impact_level": "重大",
       "sources": [
         {
-          "name": "澎湃新闻",
-          "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE8tR2ZWRGlJWWJJMkRaLUVsc3RZTzUzaHpNcTN1TXdVN2RDSGVEVWxuZlVzVHA5S1Q2RS1VM3l5ejJBelozcmQ4UG5ILUwtbWlJbXFmMUk1dmtKdDJCbmc?oc=5"
-        },
-        {
-          "name": "凤凰网",
-          "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE9sdTRVOHNIUjFxcWkxZ1lDVEstVUU4SldtcjlEV2N1YjRBSlpuVmlFU0NHNjhoYWcxRHFaQUtabXJnUnpXeDZ6ag?oc=5"
-        },
-        {
           "name": "BBC",
           "url": "https://www.bbc.com/news/articles/cvglmn49xz0o?at_medium=RSS&at_campaign=rss"
         },
         {
           "name": "NYTimes",
-          "url": "https://www.nytimes.com/2026/06/13/world/middleeast/iran-united-states-israel-lebanon.html"
+          "url": "https://www.nytimes.com/2026/06/14/world/middleeast/iran-united-states-israel-lebanon.html"
         },
         {
-          "name": "NYTimes",
-          "url": "https://www.nytimes.com/live/2026/06/13/world/iran-war-trump-us-israel"
+          "name": "凤凰网",
+          "url": "https://news.ifeng.com/c/8txEA5qNTdm"
+        },
+        {
+          "name": "央视网",
+          "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBUQTB1Yk05QW1EaWdnNUE4WjREX3lSQ05VNzJLeXYtdE5uN0FDWkNNU1hULWZ4TXJTTFgwcWZURE1XeS1kX3VYSU1iai1TOWxyYkRPR05aVjI4U290cGdJMjg0ZjZ5LTE2cm45WC1fbGctSnpzTzF3cg"
+        },
+        {
+          "name": "虎嗅",
+          "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5MQ3lST01GdmV1NU81bk82cm9FNGJDS2pWalV5aTAzWEhJUWMzbDVhak5XLWx5S3RKMTJQdUxSSFcwN3hlUm9xOEltREE1OUtGYUpZ"
         }
       ]
     },
     {
       "title": "马斯克成万亿富豪",
-      "summary": "SpaceX完成全球最大规模IPO，估值超过1万亿美元，创始人马斯克成为全球首位万亿美元富豪。此次IPO不仅创造了科技史上最大规模融资记录，也标志着商业航天产业进入新阶段。SpaceX的成功将加速太空商业化进程，推动卫星互联网、太空旅游等新兴领域发展，同时可能引发全球航天产业格局重塑。华尔街投行在此次IPO中获得巨额收益，显示资本市场对商业航天前景的高度看好。",
-      "reason": "科技领域里程碑事件，创造历史记录，多平台关注",
+      "summary": "SpaceX完成超级IPO，估值达2万亿美元，马斯克成为全球首位万亿美元富豪。华尔街投行在这一交易中获利丰厚。马斯克同时宣布与黄仁勋合作升级，联手打造太空算力。这一事件标志着科技产业格局的重大变化，对太空探索、AI发展和全球财富分配产生深远影响。",
+      "reason": "科技产业格局重塑，全球首位万亿富豪诞生",
       "impact_areas": [
         "科技",
         "经济金融"
@@ -46,18 +46,56 @@
       "sources": [
         {
           "name": "雪球热帖",
-          "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1vbFp1OHhyYVloVFd0Z3A5NEhDc0tGSnYyd1Z4Mm1OWnZIZF9RdVhCRDQwakxoMEFteUd6UmdNakFhUF95M1lKR3RaTzVQMzdRSHhJUUxlWTJwV1F6V3dweUMyTU9XOXUyYVNlTTdYLWx0NlFOQmpSeQ?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1vbFp1OHhyYVloVFd0Z3A5NEhDc0tGSnYyd1Z4Mm1OWnZIZF9RdVhCRDQwakxoMEFteUd6UmdNakFhUF95M1lKR3RaTzVQMzdRSHhJUUxlWTJwV1F6V3dweUMyTU9XOXUyYVNlTTdYLWx0NlFOQmpSeQ"
         },
         {
-          "name": "财新网",
-          "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5iRXJ4TlJvZG5hb1dzaVlabUcxeHdxSENybVBJTlNkYjg2Ti1nOXUyZ0ltRDdmSk90SElnNndMVDZ2eGFPT0luUTFXcjFtZ0FkcTN0MGVqa0xtSWtrRVh1Ng?oc=5"
+          "name": "雪球热帖",
+          "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNdUNtRzV6UzU3MkphM2kyaXJvMzM3OEtWUW5XT25FMElraFo4WG5BZFNIaDRWMlZMY2V5QmtUX0JXbkpqWjhtUU10X0NGREpMNncyS0xDcWNoZTBPZG5DX1J4QkRNS0h5dlJFZ01jeHR4eXkwdjFYcFdiWnhrLWFEWlpOOHpoVlJOQUZtbHhLV2x6YV9z"
+        },
+        {
+          "name": "南方周末",
+          "url": "https://www.infzm.com/contents/323811"
         }
       ]
     },
     {
-      "title": "南极气温创历史新高",
-      "summary": "南极半岛出现异常高温，比正常水平高出20多摄氏度，创下历史同期新高，冰层也出现异常融化。这一现象引发科学家对全球气候变化的严重担忧。南极冰盖融化将导致海平面上升，威胁沿海地区安全，同时可能改变全球洋流系统，影响气候模式。此次异常高温事件再次敲响气候变化警钟，凸显全球减排行动的紧迫性。国际社会需加强合作，共同应对气候变化挑战。",
-      "reason": "气候变化关键信号，创历史记录，影响全球生态",
+      "title": "乌无人机袭俄油库",
+      "summary": "乌克兰国家安全局宣布，遵照总统泽连斯基指令，使用无人机打击俄罗斯境内国家储备油库，导致60余储罐区三处大火。这一行动标志着俄乌冲突升级，冲突范围扩大至俄罗斯境内。此举可能引发俄罗斯更强烈的报复，进一步加剧地区紧张局势，对全球能源市场产生连锁反应。",
+      "reason": "俄乌冲突升级，战事范围扩大至俄罗斯境内",
+      "impact_areas": [
+        "政治",
+        "地缘",
+        "经济金融"
+      ],
+      "impact_level": "重大",
+      "sources": [
+        {
+          "name": "澎湃新闻",
+          "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBBNGlJeHVoTU96WnBOUWlXdnJpUzlSNG1UaXVyb3RYQ2ZFUmhGcVlnQ1Zqb0tyUk15Rl9nWGRUX1JJaG1HcUtWaDJNU1Q3QmNqbmQ3Nm9qYUc4X09VdGc"
+        }
+      ]
+    },
+    {
+      "title": "英拦截俄油轮",
+      "summary": "英国国防部宣布，英国首次主导拦截了一艘试图通过英吉利海峡的俄罗斯\"影子舰队\"油轮，行动持续6小时，巡逻机、直升机、军舰等提供支援。这一行动表明西方对俄罗斯能源出口的制裁力度加大，可能影响全球石油供应格局，对能源市场产生重要影响。",
+      "reason": "西方对俄能源制裁升级，影响全球石油供应",
+      "impact_areas": [
+        "政治",
+        "经济金融",
+        "地缘"
+      ],
+      "impact_level": "重大",
+      "sources": [
+        {
+          "name": "澎湃新闻",
+          "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE93WDJtUmZJYkZvenhtYnVPNWhCZDl1aEN2UVJ3LWtYWVZhQXFZRHFtZHVvLXE4MmFoUVRWZmQ5SHgxMjhVZVhZSFJrSVdoTzEyNWd6OS16blVfWklZd2c"
+        }
+      ]
+    },
+    {
+      "title": "南极异常高温",
+      "summary": "南极半岛出现异常气温，比正常水平高出20多摄氏度，创下历史同期新高，冰层也出现异常融化。这一现象是全球气候变化的又一警示，可能导致海平面上升，影响全球气候系统，对沿海地区和生态系统构成威胁。",
+      "reason": "气候变化标志性事件，南极创历史高温",
       "impact_areas": [
         "生态",
         "科技"
@@ -66,31 +104,81 @@
       "sources": [
         {
           "name": "澎湃新闻",
-          "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9MNENtMVRiWTRlUDVOMzdLd2RXVVNVYVktYVYtaFpTYndkTnZ4LU10VWRzaTBZand3TEZEUTVtNDFsczRZOThhLUNENjlGQzRfVTNDY3dOWmYzMkNFT2c?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9MNENtMVRiWTRlUDVOMzdLd2RXVVNVYVktYVYtaFpTYndkTnZ4LU10VWRzaTBZand3TEZEUTVtNDFsczRZOThhLUNENjlGQzRfVTNDY3dOWmYzMkNFT2c"
         }
       ]
     },
     {
-      "title": "德日二战后首次重整军备",
-      "summary": "德国和日本宣布将重新武装，这是两国自二战结束80年来首次大规模军事扩张。这一决定反映了国际安全格局的深刻变化，也引发地区稳定担忧。德国计划增加国防预算并发展自主军事能力，日本则计划扩大自卫队规模并修改和平宪法。此举将改变亚太和欧洲安全架构，可能引发地区军备竞赛，同时对全球地缘政治格局产生深远影响。分析人士认为，这一变化与当前国际形势紧张有关，但也可能加剧地区不稳定。",
-      "reason": "二战后重大地缘政治变化，影响全球安全格局",
+      "title": "中国裁判亮相世界杯",
+      "summary": "中国裁判傅明首次亮相世界杯执法，这是中国裁判在国际重大赛事中的重要突破。傅明的执法表现将受到全球关注，这一事件有助于提升中国在国际体育领域的影响力，也为中国裁判走向世界舞台创造了机会。",
+      "reason": "中国裁判首次亮相世界杯，历史性突破",
       "impact_areas": [
-        "政治",
-        "地缘",
-        "军事"
+        "社会",
+        "科技"
       ],
       "impact_level": "重大",
       "sources": [
         {
-          "name": "NYTimes",
-          "url": "https://www.nytimes.com/2026/06/14/world/europe/germany-japan-rearmament-military.html"
+          "name": "36氪",
+          "url": "https://www.36kr.com/newsflashes/3852555218113542"
         }
       ]
     },
     {
-      "title": "刚果埃博拉病例超700例",
-      "summary": "刚果（金）埃博拉确诊病例已超过700例，疫情持续蔓延。世界卫生组织已将此次疫情列为国际关注的突发公共卫生事件。医疗专家正紧急研发和测试治疗方案，以控制疫情扩散。埃博拉病毒的高致死率和对医疗系统的高要求使此次疫情对当地造成严重冲击，同时也引发国际社会对全球公共卫生体系的担忧。此次疫情再次凸显加强全球传染病监测和防控机制的重要性。",
-      "reason": "重大公共卫生危机，病例数创历史新高",
+      "title": "尼克斯53年再夺冠",
+      "summary": "尼克斯队时隔53年再获NBA总冠军，特朗普曾亲临观战。这一成就创造了NBA历史最长时间间隔夺冠纪录，对纽约城市和NBA联盟都具有重大意义。这一胜利将改变NBA东部格局，并对球队未来产生深远影响。",
+      "reason": "NBA53年最长间隔夺冠，历史性突破",
+      "impact_areas": [
+        "社会"
+      ],
+      "impact_level": "重大",
+      "sources": [
+        {
+          "name": "财新网",
+          "url": "https://photos.caixin.com/2026-06-14/102454068.html"
+        }
+      ]
+    },
+    {
+      "title": "全球首位万亿富豪",
+      "summary": "随着SpaceX超级IPO完成，马斯克成为全球首位万亿美元富豪，这一财富里程碑标志着数字经济时代的财富创造达到新高度。这一现象反映了科技巨头在全球经济中的主导地位，可能引发对财富分配不均的讨论，并对全球投资格局产生影响。",
+      "reason": "财富创造里程碑，数字经济时代新高度",
+      "impact_areas": [
+        "经济金融",
+        "科技"
+      ],
+      "impact_level": "现象级",
+      "sources": [
+        {
+          "name": "澎湃新闻",
+          "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBtdFpSNlhLNmVFblljYXo2Wk03alFDTzlvUTFyRDdoZ3l6ZlhfWm50bFR6WXFuaDBySFJORlA4dTh1Yk1hNk9kVWc0VUR0cUk0bTZONmtCZFF2b3J0YVE"
+        },
+        {
+          "name": "雪球热帖",
+          "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9iMjYzZjZsS196SjY0UmVtOGF3VkQwWmZKT3o3aGxkRWtKZndKd0ttM24xWUpaZEFqY1c5Vl9sS1huMjE5M2J2NGR4SldpbU5SRmNTNnZjZjV3MmNtb1RrXzI3aGtaUDVTOWQzTFlXQjZ6VGh1NEE"
+        }
+      ]
+    },
+    {
+      "title": "伊朗银行遭网络攻击",
+      "summary": "伊朗四家银行遭有限网络攻击，未发生客户信息泄露。这一事件发生在美伊协议即将签署之际，可能对协议签署进程产生影响。网络攻击已成为现代国际冲突的重要手段，此次事件凸显了网络安全在国际关系中的重要性。",
+      "reason": "美伊协议前网络攻击，影响国际关系进程",
+      "impact_areas": [
+        "政治",
+        "科技"
+      ],
+      "impact_level": "重大",
+      "sources": [
+        {
+          "name": "虎嗅",
+          "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9LYnN2Ni1fcHdpMFY5Wk40VnhuWTZYdUJabTNnQ0lJS3pYUUFlbTE2ZGFqZTlYWER5amp3VjVVcGZZU095SVFidVk2eUNHV09GLU9J"
+        }
+      ]
+    },
+    {
+      "title": "刚果埃博拉疫情蔓延",
+      "summary": "刚果（金）埃博拉确诊病例超过700例，疫情持续蔓延。科学家正加紧测试治疗方法以应对扩大的疫情。这一公共卫生危机对地区医疗系统构成严峻挑战，可能引发全球对传染病防控的重新思考，对国际卫生合作机制提出更高要求。",
+      "reason": "埃博拉疫情蔓延，公共卫生危机",
       "impact_areas": [
         "公共卫生",
         "社会"
@@ -98,101 +186,12 @@
       "impact_level": "重大",
       "sources": [
         {
-          "name": "雪球热帖",
-          "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE0wWEE4aWpqaUhMR0U1NHEtT0cxUkdRM2F6OVk2eVo0UnV6N1FMT0FvTWFmeFhRZkxlUE5mZUVwZHAxdEotWkZQTW1Pa3JlbmhKblc0VHBhWW5SaE1zN0d1cDA0NHZJSE5GOFVJS095WmRlYnhzZElBYg?oc=5"
-        },
-        {
           "name": "36氪",
           "url": "https://www.36kr.com/newsflashes/3852441657316360"
-        },
-        {
-          "name": "NYTimes",
-          "url": "https://www.nytimes.com/2026/06/12/health/ebola-treatment-bundibugyo-virus.html"
-        }
-      ]
-    },
-    {
-      "title": "全球首条全息光波导产线投产",
-      "summary": "全球首条百万片级体全息光波导自动化产线在天津正式投产，标志着中国在光电子领域取得重大突破。该产线将大幅提升全息显示技术产能，推动AR/VR设备向轻薄化、高清晰度方向发展。全息光波导技术是增强现实(AR)核心组件，此次量产将加速AR技术在消费电子、工业、医疗等领域的应用落地。业内人士认为，这一突破将重塑全球AR产业链格局，中国企业在该领域的技术实力已达到世界领先水平。",
-      "reason": "科技领域重大突破，全球首条量产线",
-      "impact_areas": [
-        "科技",
-        "产业"
-      ],
-      "impact_level": "重大",
-      "sources": [
-        {
-          "name": "36氪",
-          "url": "https://www.36kr.com/newsflashes/3852424819807235"
-        }
-      ]
-    },
-    {
-      "title": "中老铁路年运货破千万吨",
-      "summary": "中老铁路今年以来运输货物突破1000万吨，创下历史新高。这条连接中国与老挝的国际铁路已成为东南亚地区重要的物流通道，极大促进了区域经济一体化。中老铁路不仅降低了物流成本，还带动了沿线地区经济发展，为\"一带一路\"倡议注入新动力。数据显示，铁路运输的货物种类日益多元化，从最初的农产品扩展到工业制成品、电子产品等高附加值商品，显示出中国与东南亚国家经贸合作的深化。",
-      "reason": "一带一路重要成果，区域经济一体化里程碑",
-      "impact_areas": [
-        "经济金融",
-        "地缘"
-      ],
-      "impact_level": "重大",
-      "sources": [
-        {
-          "name": "36氪",
-          "url": "https://www.36kr.com/newsflashes/3852441250780169"
-        }
-      ]
-    },
-    {
-      "title": "中国将建15条特高压通道",
-      "summary": "中国计划建设15条特高压直流通道，构建全国统一电力市场。这一重大能源基础设施项目将大幅提升电力输送效率，减少能源损耗，促进清洁能源消纳。特高压技术具有远距离、大容量、低损耗的特点，是解决中国能源分布不均问题的关键。项目建成后，将实现全国电力资源优化配置，推动能源结构转型，助力\"双碳\"目标实现。同时，特高压产业链将迎来发展机遇，带动相关技术创新和产业升级。",
-      "reason": "能源基础设施重大规划，影响全国电力格局",
-      "impact_areas": [
-        "经济金融",
-        "科技",
-        "生态"
-      ],
-      "impact_level": "重大",
-      "sources": [
-        {
-          "name": "36氪",
-          "url": "https://www.36kr.com/newsflashes/3852345783129352"
-        }
-      ]
-    },
-    {
-      "title": "金价一年内近乎翻倍",
-      "summary": "国际金价在一年内近乎翻倍，创下历史新高。这一现象引发市场广泛关注，被视为重要的经济信号。分析人士认为，金价上涨主要受全球通胀压力、地缘政治紧张以及央行持续增持黄金等因素推动。金价飙升对黄金产业链产生深远影响，珠宝首饰、投资金条等需求旺盛，同时带动黄金开采和加工企业业绩大幅增长。此外，金价上涨也对货币政策制定产生影响，可能促使各国央行重新评估外汇储备结构。",
-      "reason": "大宗商品价格创历史极值，经济重要信号",
-      "impact_areas": [
-        "经济金融"
-      ],
-      "impact_level": "重大",
-      "sources": [
-        {
-          "name": "36氪",
-          "url": "https://www.36kr.com/newsflashes/3852375238628613"
-        }
-      ]
-    },
-    {
-      "title": "G7峰会召开在即",
-      "summary": "七国集团(G7)峰会即将召开，各国商家自掏腰包加装防护板并打出\"小本经营\"标语，反映对峰会期间可能出现的抗议活动的担忧。此次峰会将聚焦全球经济、气候变化、地缘政治等议题，预计将讨论俄乌冲突、对华政策等关键问题。G7作为发达国家主要协调机制，其政策动向对全球经济格局有重要影响。峰会期间可能达成多项共识，包括加强经济合作、应对气候变化挑战以及协调国际安全政策等。",
-      "reason": "全球主要经济体政策协调，多国关注",
-      "impact_areas": [
-        "政治",
-        "经济金融",
-        "地缘"
-      ],
-      "impact_level": "重大",
-      "sources": [
-        {
-          "name": "凤凰网",
-          "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTFBhbk9lMEdpZVphY1NzS1V3aHJvR0MxT0ctRllEU0dBVWF1aE5JWUxkUnhaejUyUzVSdGhCcWtmNG1xejF5UHYycQ?oc=5"
         }
       ]
     }
   ],
-  "total_fetched": 225,
-  "generated_at": "2026-06-14T12:36:01.650973+08:00"
+  "total_fetched": 281,
+  "generated_at": "2026-06-14T19:27:34.663491+08:00"
 }
