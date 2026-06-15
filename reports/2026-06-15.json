@@ -3,192 +3,221 @@
   "news": [
     {
       "title": "美伊达成和平协议",
-      "summary": "美国与伊朗达成和平协议，霍尔木兹海峡将于19日协议签署后开放。伊朗最高国家安全委员会已确认伊美谅解备忘录达成，副外长称所获成果远大于承诺。巴基斯坦总理宣布美伊正式签字仪式时间地点已敲定。特朗普表示和平协议达成，并将霍尔木兹海峡描述为\"永久免费\"。这一协议可能结束中东紧张局势，对全球能源安全和地缘政治格局产生深远影响。",
-      "reason": "多源密集报道的地缘政治重大事件，可能改变中东局势",
+      "summary": "美国与伊朗就结束冲突达成框架协议，将暂停对伊朗石油制裁并允许其石油出口，同时伊朗承诺限制核计划。协议涉及霍尔木兹海峡重新开放、资金解冻及后续核谈判等内容。多国领导人对此表示欢迎，认为这将缓解地区紧张局势。以色列对协议表示不满，称未充分考虑其安全关切。协议细节仍存在不确定性，包括资金解冻条件、核谈判时间表等。",
+      "reason": "多源密集报道的国际重大事件，将重塑中东地缘政治格局。",
       "impact_areas": [
         "政治",
-        "经济金融",
+        "经济",
         "地缘"
       ],
       "impact_level": "现象级",
       "sources": [
         {
-          "name": "澎湃新闻",
-          "url": "https://m.thepaper.cn/detail/33379904"
+          "name": "财新网",
+          "url": "https://www.caixin.com/2026-06-15/102454225.html"
         },
         {
           "name": "澎湃新闻",
-          "url": "https://m.thepaper.cn/detail/33379862"
+          "url": "https://m.thepaper.cn/detail/33380502.html"
         },
-        {
-          "name": "澎湃新闻",
-          "url": "https://m.thepaper.cn/detail/33379876"
-        },
-        {
-          "name": "凤凰网",
-          "url": "https://news.ifeng.com/c/8txwpZNovYY"
-        },
-        {
-          "name": "凤凰网",
-          "url": "https://news.ifeng.com/c/8txz6NmvODf"
-        },
-        {
-          "name": "凤凰网",
-          "url": "https://news.ifeng.com/c/8txzWEYxLTO"
-        }
-      ]
-    },
-    {
-      "title": "神二十三乘组在轨工作",
-      "summary": "中国空间站神二十三乘组已在轨工作三周，多项工作持续推进。这标志着中国空间站运营进入常态化阶段，展示了中国航天技术的持续进步和国际合作能力的提升。神舟系列任务的成功执行为中国空间站长期稳定运行提供了保障，也为未来深空探测和月球基地建设奠定了基础。",
-      "reason": "国家重大科技成就，展示中国航天技术实力",
-      "impact_areas": [
-        "科技",
-        "政治"
-      ],
-      "impact_level": "重大",
-      "sources": [
         {
           "name": "央视网",
-          "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5pRHlSQWZFSUNGam5Fd3IxeXhvSmNCaHgxZTBKWndUbE5QYnQyZWw4a29QM3VGaHRLbUh2cEpjZ1M1TjF0TkVIT2MtMTdSQnRxRGpYaTFDakpzTkRvbXJEanRpQ3BDaTNDZkRaWlZtajVyZTlQUEFNSg?oc=5"
-        }
-      ]
-    },
-    {
-      "title": "瑞士否决人口上限",
-      "summary": "瑞士选民否决了将人口上限设定在1000万的公投提案。这一结果反映了瑞士对人口增长和移民政策的开放态度。瑞士作为欧洲重要的金融中心，人口政策对其经济和社会发展具有重要影响。此次公投结果可能影响欧洲其他国家的人口政策讨论，特别是在移民和人口老龄化背景下。",
-      "reason": "欧洲国家重大政策变化，影响人口和移民政策走向",
-      "impact_areas": [
-        "政治",
-        "社会"
-      ],
-      "impact_level": "重大",
-      "sources": [
+          "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1wcV9lV3FaTGhvVUpQQ0IxbTJZSnVhZGd3ajdQakg1QlZRbWdKekNaS0RIWDdaektRVDBDRzhFMnJicVRBdWR1aWROSVdhMGNaaXZ3TXlXQ0VFRmtIR3lSRlp0bmJFekdCS3ZvWUx6OWxOSFhqLVducQ?oc=5"
+        },
         {
           "name": "BBC",
-          "url": "https://www.bbc.com/news/articles/c20ygjem17zo?at_medium=RSS&at_campaign=rss"
+          "url": "https://www.bbc.com/news/articles/c9824e0rz75o?at_medium=RSS&at_campaign=rss"
         },
         {
           "name": "NYTimes",
-          "url": "https://www.nytimes.com/2026/06/14/world/europe/switzerland-population-cap-referendum.html"
+          "url": "https://www.nytimes.com/live/2026/06/14/world/iran-war-trump-us"
         }
       ]
     },
     {
-      "title": "英日达成180亿投资",
-      "summary": "英国与日本达成价值180亿英镑的投资协议，这是两国加强经济合作的重要举措。该协议涵盖多个领域，包括科技、清洁能源和基础设施。这一协议反映了英国在脱欧后积极寻求全球贸易伙伴的战略，同时也显示了日本对英国市场的持续信心。该协议可能促进两国经济增长，并为其他国家的贸易合作树立先例。",
-      "reason": "重大国际经济合作协议，影响全球贸易格局",
+      "title": "中国硅基量子芯片突破",
+      "summary": "中国科研团队成功攻克硅基量子芯片关键材料技术，实现了量子计算领域的重大突破。该技术解决了量子比特在硅基材料中稳定性的难题，为构建大规模量子计算机提供了新路径。同时，中国\"本源悟空\"系列自主超导量子计算机初步形成\"矛\"",
+      "盾\"双供给能力，标志着中国在量子计算领域的技术自主可控迈出重要一步。这一突破将加速中国在量子计算领域的产业化进程，有望在密码破解、药物研发、金融建模等领域产生深远影响。": "reason\": \"中国量子计算领域取得重大技术突破，将改变全球科技竞争格局。",
       "impact_areas": [
-        "经济金融",
+        "科技",
+        "产业"
+      ],
+      "impact_level": "重大",
+      "sources": [
+        {
+          "name": "澎湃新闻",
+          "url": "https://m.thepaper.cn/detail/33381070.html"
+        },
+        {
+          "name": "36氪",
+          "url": "https://www.36kr.com/newsflashes/3853914162992134"
+        },
+        {
+          "name": "36氪",
+          "url": "https://www.36kr.com/newsflashes/3853851947471874"
+        }
+      ]
+    },
+    {
+      "title": "美国AI模型遭禁令下线",
+      "summary": "美国政府下达新的AI管制规定后，Anthropic公司宣布关停其Mythos模型访问权限，Fable 5和Mythos 5模型因美国商务部禁令下线。这一管制措施主要针对先进AI系统的出口和访问限制，引发业界对AI技术发展路径的担忧。禁令可能导致全球AI技术发展出现分化，影响跨国技术合作与竞争。分析人士认为，这一政策将加速AI技术的区域化发展，同时可能促使更多企业将研发重心转向不受限制的技术方向。",
+      "reason": "美国AI管制政策将重塑全球AI技术发展格局，影响产业竞争态势。",
+      "impact_areas": [
+        "科技",
+        "产业",
         "政治"
+      ],
+      "impact_level": "重大",
+      "sources": [
+        {
+          "name": "36氪",
+          "url": "https://www.36kr.com/newsflashes/3853897715848457"
+        },
+        {
+          "name": "少数派",
+          "url": "https://sspai.com/post/111045"
+        }
+      ]
+    },
+    {
+      "title": "全球金融市场震荡加剧",
+      "summary": "韩国外资对本地股票的净投资额创下有记录以来最大单月流出规模，引发市场对亚洲金融稳定性的担忧。同时，美国顶级基金经理警告称，通胀压力和\"巨无霸IPO\"可能引发流动性紧缩，预计纳指年内恐下跌35%。A股市场方面，三大指数午间休盘集体上涨，半导体板块领涨，而主力资金则呈现加仓电子股、抛售煤炭股的态势。这些信号表明全球金融市场正面临结构性调整，投资者风险偏好发生变化。",
+      "reason": "全球金融市场出现重大资金流向变化，预示市场趋势转折。",
+      "impact_areas": [
+        "经济金融"
+      ],
+      "impact_level": "重大",
+      "sources": [
+        {
+          "name": "36氪",
+          "url": "https://www.36kr.com/newsflashes/3853865968407817"
+        },
+        {
+          "name": "36氪",
+          "url": "https://www.36kr.com/newsflashes/3853862209099011"
+        },
+        {
+          "name": "36氪",
+          "url": "https://www.36kr.com/newsflashes/3853897715848457"
+        },
+        {
+          "name": "36氪",
+          "url": "https://www.36kr.com/newsflashes/3853882014045184"
+        }
+      ]
+    },
+    {
+      "title": "中国成功发射8颗卫星",
+      "summary": "中国成功发射吉星高分07C04星等8颗卫星，进一步增强了国家空间基础设施能力。此次发射的高分卫星将提升对地观测精度，在国土资源调查、环境监测、防灾减灾等领域发挥重要作用。此次发射任务的成功标志着中国在卫星制造和发射技术方面的持续进步，为构建更加完善的国家空间信息体系奠定基础。专家指出，随着卫星网络规模的扩大和应用场景的拓展，中国空间产业将迎来新的发展机遇。",
+      "reason": "中国航天技术持续进步，增强国家空间基础设施能力。",
+      "impact_areas": [
+        "科技",
+        "产业"
+      ],
+      "impact_level": "重大",
+      "sources": [
+        {
+          "name": "36氪",
+          "url": "https://www.36kr.com/newsflashes/3853922595591428"
+        }
+      ]
+    },
+    {
+      "title": "中国硅基量子材料突破",
+      "summary": "中国科研团队在硅基量子材料领域取得重大突破，成功解决了量子比特在硅基材料中稳定性的关键技术难题。这一突破使得在传统半导体工艺基础上构建量子计算机成为可能，将大幅降低量子计算技术的制造成本。专家表示，这一成果将加速量子计算技术的产业化进程，有望在密码学、药物研发、材料科学等领域带来革命性变化。同时，这一突破也巩固了中国在量子材料研究领域的国际领先地位。",
+      "reason": "中国硅基量子材料技术突破，推动量子计算产业化进程。",
+      "impact_areas": [
+        "科技",
+        "产业"
+      ],
+      "impact_level": "重大",
+      "sources": [
+        {
+          "name": "澎湃新闻",
+          "url": "https://m.thepaper.cn/detail/33381070.html"
+        },
+        {
+          "name": "36氪",
+          "url": "https://www.36kr.com/newsflashes/3853914162992134"
+        }
+      ]
+    },
+    {
+      "title": "量子计算商业化加速",
+      "summary": "微软宣布将在三年内建成商用级量子计算机，引发行业广泛关注。与此同时，中国\"本源悟空\"系列自主超导量子计算机初步形成\"矛\"",
+      "盾\"双供给能力，标志着量子计算技术从实验室走向应用的关键一步。行业分析指出，量子计算的商业化进程正在加速，预计在未来5-10年内将在密码破解、药物研发、金融建模等领域实现商业化应用。然而，量子计算仍面临稳定性、可扩展性等技术挑战，商业化进程可能比预期更为复杂。": "reason\": \"全球量子计算商业化进程加速，将重塑多个行业的技术格局。",
+      "impact_areas": [
+        "科技",
+        "产业"
+      ],
+      "impact_level": "重大",
+      "sources": [
+        {
+          "name": "虎嗅",
+          "url": "https://www.huxiu.com/article/4867317.html"
+        },
+        {
+          "name": "36氪",
+          "url": "https://www.36kr.com/newsflashes/3853851947471874"
+        }
+      ]
+    },
+    {
+      "title": "类脑具身智能系统问世",
+      "summary": "中国科技公司智平方发布类脑式具身智能系统NeuroVLA，该系统融合了脑科学与人工智能技术，具有更强的环境感知和自主决策能力。NeuroVLA系统采用创新的神经网络架构，能够模拟人类大脑的部分认知功能，在复杂环境中实现更自然的人机交互。专家表示，这一突破将推动人工智能从感知智能向认知智能的跨越，为服务机器人、自动驾驶等领域提供新的技术路径。该系统的发布标志着中国在具身智能领域的技术实力达到新高度。",
+      "reason": "类脑具身智能系统突破，推动AI向认知智能跨越。",
+      "impact_areas": [
+        "科技",
+        "产业"
+      ],
+      "impact_level": "重大",
+      "sources": [
+        {
+          "name": "36氪",
+          "url": "https://www.36kr.com/newsflashes/3853849264657416"
+        }
+      ]
+    },
+    {
+      "title": "世界杯日本绝平荷兰",
+      "summary": "世界杯小组赛中，日本队与荷兰队上演精彩对决，日本队在两度落后的情况下顽强追平，最终以2-2战平荷兰队。这场比赛被认为是本届世界杯的焦点战役之一，展现了亚洲足球的进步。日本队的表现打破了人们对亚洲足球的传统认知，证明亚洲球队完全有能力与世界顶级强队抗衡。这场比赛的结果将对小组出线形势产生重要影响，同时也提升了亚洲足球在国际足坛的地位。",
+      "reason": "世界杯日本队绝平荷兰，展现亚洲足球实力，具有突破性意义。",
+      "impact_areas": [
+        "体育"
+      ],
+      "impact_level": "重大",
+      "sources": [
+        {
+          "name": "财新网",
+          "url": "https://photos.caixin.com/2026-06-15/102454207.html"
+        }
+      ]
+    },
+    {
+      "title": "美伊协议影响能源市场",
+      "summary": "美伊和平协议达成后，国际油价出现明显下滑，反映市场对伊朗石油重新进入国际市场的预期。协议将允许伊朗恢复石油出口，预计每日增加约100-200万桶原油供应，这将改变全球能源供应格局。分析人士指出，油价下跌将降低全球通胀压力，但对产油国经济造成压力。同时，协议可能促使OPEC+重新调整产量政策，以维持市场平衡。能源专家认为，这一协议将对全球能源市场产生中长期影响，重塑能源贸易格局。",
+      "reason": "美伊协议将改变全球能源供应格局，影响国际油价和贸易流向。",
+      "impact_areas": [
+        "经济",
+        "能源"
       ],
       "impact_level": "重大",
       "sources": [
         {
           "name": "BBC",
-          "url": "https://www.bbc.com/news/articles/cx2kjwgwxwlo?at_medium=RSS&at_campaign=rss"
-        }
-      ]
-    },
-    {
-      "title": "美联储6月或按兵不动",
-      "summary": "市场预期美联储6月维持利率不变的概率高达98.5%，这表明央行可能暂时结束加息周期。这一预期对全球金融市场产生重要影响，可能导致债券收益率下降、股市上涨。美联储政策转向将对美元汇率、国际资本流动和全球经济增长预期产生深远影响，也为其他主要央行提供了政策参考。",
-      "reason": "重大货币政策信号，影响全球金融市场走向",
-      "impact_areas": [
-        "经济金融"
-      ],
-      "impact_level": "重大",
-      "sources": [
-        {
-          "name": "36氪",
-          "url": "https://www.36kr.com/newsflashes/3853615125828870"
-        }
-      ]
-    },
-    {
-      "title": "百亿资金回流ETF",
-      "summary": "本月内153只债券型基金合计分红超45亿元，同时逾百亿资金回流股票型ETF。这一现象表明投资者风险偏好有所提升，市场可能迎来风格再平衡。ETF资金流向是市场情绪的重要指标，大规模资金回流通常预示着市场底部区域的形成或阶段性机会的到来。这一趋势可能对A股市场结构和投资风格产生深远影响。",
-      "reason": "重大市场资金流向变化，反映投资者风险偏好转变",
-      "impact_areas": [
-        "经济金融"
-      ],
-      "impact_level": "重大",
-      "sources": [
-        {
-          "name": "36氪",
-          "url": "https://www.36kr.com/newsflashes/3853621776520197"
+          "url": "https://www.bbc.com/news/articles/c6217106px6o?at_medium=RSS&at_campaign=rss"
         },
         {
-          "name": "36氪",
-          "url": "https://www.36kr.com/newsflashes/3853636279047431"
-        }
-      ]
-    },
-    {
-      "title": "SpaceX上市提振航天股",
-      "summary": "SpaceX上市消息推动航天ETF大幅反弹，标志着太空产业迎来新的定价起点。这一事件反映了资本市场对商业航天领域的强烈看好，可能加速太空经济发展和产业格局重塑。SpaceX作为商业航天的领军企业，其上市将带动整个产业链估值提升，为太空旅游、卫星互联网、深空探测等领域的发展注入新动力。",
-      "reason": "重大科技产业事件，推动太空经济发展",
-      "impact_areas": [
-        "科技",
-        "经济金融"
-      ],
-      "impact_level": "重大",
-      "sources": [
-        {
-          "name": "36氪",
-          "url": "https://www.36kr.com/newsflashes/3853618049946886"
-        }
-      ]
-    },
-    {
-      "title": "恒大案追责再升级",
-      "summary": "恒大案追责潮再起，山东高速孙亮被指被许家印\"围猎\"。这一事件反映了中国房地产行业深度调整过程中的风险暴露和责任追究。恒大作为中国最大的房地产开发商之一，其危机处理和追责进展对行业信心和市场预期具有重要影响。此案可能促使监管部门加强对房地产行业的监管，推动行业更加健康规范发展。",
-      "reason": "重大金融风险事件，影响房地产行业监管走向",
-      "impact_areas": [
-        "经济金融",
-        "政治"
-      ],
-      "impact_level": "重大",
-      "sources": [
-        {
           "name": "财新网",
-          "url": "https://www.caixin.com/2026-06-15/102454088.html"
-        }
-      ]
-    },
-    {
-      "title": "大学生就业新趋势",
-      "summary": "大学生就业呈现新趋势，关键词包括下沉、灵活就业和新兴产业。这一现象反映了经济结构调整和就业市场变化，年轻一代就业观念的转变。下沉市场就业增加表明区域发展不平衡正在缓解，灵活就业兴起则反映了工作形态的多样化，而新兴产业就业增长则体现了经济转型升级的方向。这一趋势将对高等教育人才培养和就业服务提出新要求。",
-      "reason": "反映社会经济结构变化，影响教育和就业政策",
-      "impact_areas": [
-        "社会",
-        "经济金融"
-      ],
-      "impact_level": "重大",
-      "sources": [
+          "url": "https://www.caixin.com/2026-06-15/102454225.html"
+        },
         {
-          "name": "财新网",
-          "url": "https://www.caixin.com/2026-06-15/102454099.html"
-        }
-      ]
-    },
-    {
-      "title": "违规锂电池再流入市场",
-      "summary": "违规超标锂电池再度流入市场，\"地下生产线\"再曝光。这一事件引发了对电池安全监管的担忧，特别是在新能源汽车快速发展的背景下。锂电池作为关键能源存储设备，其安全性直接关系到用户生命财产安全。此次事件可能导致监管部门加强对电池生产企业的监管力度，推动行业标准和质量提升，同时也可能影响新能源汽车产业链的信任度和发展进程。",
-      "reason": "公共安全风险事件，影响新能源产业发展",
-      "impact_areas": [
-        "科技",
-        "社会"
-      ],
-      "impact_level": "重大",
-      "sources": [
-        {
-          "name": "央视网",
-          "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE8za0N2RGxOSWZWQmNLMWI4UElrV3M4aFhPeVZFbVM3QU93dHVRZ24zbU5EWUNxTzY1QkVPbFpaamYtOEZvem5tc1RKUEMxMjlmTTFOMlZ5MUpGT3prTi1oZ0dDTHROdnBsQXA5TmJacnJzaDU1ZnhQOA?oc=5"
+          "name": "澎湃新闻",
+          "url": "https://m.thepaper.cn/detail/33380502.html"
         }
       ]
     }
   ],
-  "total_fetched": 186,
-  "generated_at": "2026-06-15T07:27:04.971176+08:00"
+  "total_fetched": 262,
+  "generated_at": "2026-06-15T12:31:37.892628+08:00"
 }
