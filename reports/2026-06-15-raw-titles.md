@@ -1,4 +1,4 @@
-# 2026-06-15 原始新闻标题 (262 条)
+# 2026-06-15 原始新闻标题 (282 条)
 
 ## 新华社 (20 条)
 - Education, health fees among key concerns
@@ -22,113 +22,125 @@
 - Former Chongqing political official facing corruption investigation
 - Former Chongqing political official facing corruption investigation
 
-## 澎湃新闻 (18 条)
-- 直播丨国新办举行中外记者见面会，聚焦“绽放文旅光彩 相伴美好生活”
-- 建投读书会·岁时江南｜周宏俊：江南园林中的自然与时间之美
-- 陈卫平｜母校情：“中心藏之，何日忘之”——悼念赵修义教授
-- “做中国伦理学”——建构具有普遍哲学意义的伦理学形态
-- 世界杯播客｜世界杯“水门事件”：被切开的90分钟
-- 宠物泰迪桌边舔舐餐具，重庆涉事烤鸭店：深度消毒并报废相关餐具
-- 中国“纯硅”成功突破！我国攻克硅基量子芯片关键材料
-- 瑞典5比1战胜突尼斯，时隔八年他们用一场开门红宣告回归
-- 山姆回应被市场监管总局约谈：全面优化食安管控和商品品控
-- 直播 | 人心、士气与组织韧性
-- 《中国青年：新时代奋斗者与全球贡献者》报告发布
-- 杨清越｜成为梁思永：“中国第一位考古专门学者”
-- 动真碰硬！中央安全生产考核巡查组已进驻8省份明查暗访
-- 释新闻｜美伊确认于本周五签署停战协议，可能存在哪些变数？
-- 遇见小面创始人致歉：承认错误不甩锅，拟将相关商标无偿赠予渝见小面
-- 受贿数额特别巨大，海南省委原常委、秘书长倪强被提起公诉
-- 马上评｜何以澳门
-- 经纬线·大国外交里的文化遗产
-
-## 南方周末 (3 条)
-- 金融如何与科技共荣？｜“共富论”沙龙
-- “用炸弹来谈判”：是搅局伊朗，还是美以“双簧戏”？丨智库视点
-- 33年的变与守：“三农”经验入法之路
+## 澎湃新闻 (19 条)
+- 现货黄金大涨近3%站上4300美元，地缘缓和能否支撑金价重返上升轨道？
+- 人民锐评：别让智能眼镜沦为“偷拍眼镜”
+- 澎湃漫评｜“养生烟”绝不能死灰复燃
+- 圆桌｜智源大会激辩AI和具身智能：同质化焦虑下，企业护城河在哪里？
+- 香港警务处原副处长（行动）袁旭健将任特区政府食物环境卫生署署长
+- 英国首相斯塔默：禁止16岁以下未成年人使用部分社交媒体
+- 成都 “27岁女子王紫雅遇害案”二审明日开庭，焦点在于凶手精神状态及是否入室杀人
+- 80岁生日当天，特朗普为何执着在白宫举行格斗赛？
+- 独家｜36年前写信给“麦考尔”的李晨鸥，找到了！
+- 申万菱信基金副总贾成东“清仓式”卸任：管理一年多，业绩近乎垫底
+- 阳谷华泰火灾致股价跌10%，不溶性硫磺价格翻倍后或再冲高
+- 直击上海高考语文评卷现场：每题均由两位老师评阅，实时监测评卷质量
+- 场外的战争：一场被签证与敌意围堵的伊朗世界杯首秀
+- 人人想快的时代，慢下来行不行？多位大学校长寄语毕业生“敢慢”
+- 搞“政绩工程”‍、盲目招商引资……五起政绩观偏差典型案件公开通报
+- 河南泌阳回应“21车冻货跨省偏航被查扣”：多人被采取留置措施，正在审理中
+- 来论｜特朗普访华让美国民众进一步“睁眼看中国”
+- 开麦丨深夜致歉，“遇见小面”到底在怕什么？
+- 时政微视频丨共产党员习近平
 
 ## 凤凰网 (20 条)
-- 饶庆铃以视频方式参与海峡论坛恐被查处，蓝营批：民进党不喜欢就犯法？
-- 世界杯人文手册：“蓝浪”库拉索——最小的圆梦者，殖民地苦难的缩影
-- 赖瑞隆民调领先？高雄选战潜藏诸多变数，柯志恩并非完全没机会
-- 最新民调曝光！新北市议员：李四川如何让小赢变成大赢才是关键
-- 美国防部第三批涉UFO档案披露离奇现象：空中“母球”释放多个较小物体，成因至今无解
-- 美伊达成协议，共和党内部也有人不买账
-- 男子在长沙海洋王国水下项目游玩遭3米长鲨鱼咬伤，景区回应
-- 一批中年人进入情感劳动，AI取代不了
-- 美伊谅解备忘录并非全面停战协议，仍有三个不确定性
-- 美国父亲枪杀强奸14岁女儿的罪犯，警方“弄丢”证据，无罪释放
-- 大学生被滥用的情怀，正沦为黑作坊的挡箭牌
-- 美防长：伊朗履行承诺后才会解冻资金
-- 陕西渭南凌晨突发4.1级地震，市民称熟睡中被晃醒，不少人跑到户外躲避
-- 李四川公布竞选团队，美女议员江怡臻担任竞选办公室主任
-- 20岁巴伦·特朗普久违亮相，胡茬浓密显沧桑，梅拉尼娅却难掩开心
-- 伊朗军方：美国和以色列“接受投降”
-- 伊朗：所获成果远大于承诺
-- 中国人保：坚决拥护党中央决定
-- 美伊谅解备忘录存在致命问题
-- 普京与特朗普通话55分钟，祝他生日快乐
+- 美伊达成协议后，首艘能源运输船通过霍尔木兹海峡
+- 录音显示美军仍在执行对伊朗海上封锁
+- 胡锡进：“遇见小面”这次真的犯了忌，遭舆论反噬是应有代价
+- 女子骑粉色电动车，被恶意投放情趣用品
+- 热销中成药，为何不敢直接宣传“抗衰老”？
+- 56岁男子上山采杜鹃花失联32天，仍在搜寻
+- 伊媒称伊朗仅同意给予船舶60天免费通行期
+- 伊朗队亮相洛杉矶
+- 人人想快的时代，慢下来行不行？多位大学校长寄语毕业生“敢慢”
+- 特朗普称将允许伊朗进行低水平铀浓缩
+- 4家被遇见小面起诉餐馆已注销
+- 伊朗担忧再被美国套路，谅解备忘录签署前还有两大难题
+- 男子在家离奇中毒身亡，岳母的再婚丈夫男扮女装逃跑仍被抓
+- 俄方：特朗普称美国有结束俄乌冲突的需要
+- 日民众在中国驻日使馆前道歉：日本政府应该正式道歉
+- 中央纪委通报五起政绩观偏差典型案件，5人受到严肃处理
+- “遇见小面”曾起诉多家小面馆商标侵权，涉事商家：不愿意找麻烦，赔钱、改名了事
+- 背着老公也要买？短剧广告不该沦为低俗话术的秀场
+- 伊朗国足教练：政治和签证问题影响备赛
+- 21车冻货跨省偏航被查扣，官方通报
 
 ## 财新网 (20 条)
-- 姚洋：“考试社会”层层选拔筛掉的恰恰是天才
-- 能源内参｜美伊称和平协议已达成 美将暂停对伊朗石油制裁；胡望明拟兼任宝钢股份董事长
-- 法眼｜以鸭充鹅，责任几何
-- 两度落后两度追平 世界杯小组赛日本2-2绝平荷兰
-- 票房｜大尺度动作片《火遮眼》带动观影 斯皮尔伯格新片口碑不及预期
-- 港大副校长汪扬：AI时代 年轻学子该如何选专业？
-- 活路：大通缩下日本两代医疗人的应对之道（一）
-- 以辅助生殖应对低生育率危机｜各国辅助生育报告2026
-- 曾被指“妄议” 海南省委原“大管家”倪强将在柳州受审
-- 站在废墟上的感想｜熟悉又陌生的中亚③（完）
-- 【市场动态】日元空头押注增至九年高位 套利交易呈现回升之势
-- 【市场动态】美国政府下达管制规定后 Anthropic关停Mythos访问权限
-- 【市场动态】SpaceX上市“抽走氧气” 其他太空股集体重挫
-- 【市场动态】美债全线上扬 伊朗协议促使交易员减少对美联储的加息押注
-- 【专题讨论四】财富管理：范式之变
-- 【专题讨论三】跨境出海：从“走出去”到“扎下去”
-- 【专题讨论二】智能经济：AI加速转化生产力
-- 【主题演讲/对话】投资内地与香港「新蓝海」
-- 【互动点评】
-- 【演讲/对话】负笈香江：AI重塑教育
+- 钢铁、电解铝等行业启动节能降碳改造 差别化电价成“约束机制”
+- 【权益周观察】A股短期下跌空间有限 海峡若通航HALO交易或重启
+- 英国拟出全球最严措施 16岁以下人群禁用部分主流社交媒体
+- 美伊达成谅解，让子弹再飞一会儿？
+- 南方六省区强降水持续 赤道中东太平洋已进入厄尔尼诺
+- AI巨头出现“降价潮” AI应用或向更低成本模式转变
+- 【华尔街原声】美股一周前瞻：沃什首掌美联储议息会 G7峰会启幕
+- 锂价回升的供给逻辑：2026—2030全球锂市场展望
+- 【量化观察】A股五月成长主导，科技主线走强、科创50领涨
+- 【市场动态】美伊停火协议留下诸多未解难题 两国欠缺互信等才是真正考验
+- 【市场动态】普华永道称AI正将就业市场一分为二 金融分析师未被取代
+- 柬埔寨6月15日起对中国公民试行免签 冀吸引60万旅客
+- 【市场动态】特朗普庆祝80岁生日 在白宫举办UFC格斗比赛
+- 【市场动态】银行界争聘首席AI官 年薪上看350万美元但该职位寿命可能有限
+- 欧盟对华经济安全工具加速成形
+- 两日来首艘国际船舶通过 特朗普称霍尔木兹海峡将开放
+- 【霍尔木兹周报】美伊达成停战备忘录 海峡将于19日后重新开放
+- 香港首份“五年规划”展开公众咨询 港府：并非要以规划取代市场
+- 柏林最佳导演银熊奖得主霍猛：好久没有想过电影了
+- 中国鳗鱼人工繁育突破至60日龄 解决“卡脖子”亟待经费支持
 
-## 央视网 (5 条)
+## 央视网 (6 条)
 - 伊朗武装部队称成功使美以“承认失败” - 央视网
-- 【奔跑的三夏 麦收地图】全国夏粮小麦收获进度近87% - 央视网
-- 华南及云南局地有特大暴雨 河南等地高温持续“待机” - 央视网
 - 中国空间站：神二十三乘组在轨三周 多项工作持续推进 - 央视网
+- 华南及云南局地有特大暴雨 河南等地高温持续“待机” - 央视网
+- 聚人气、旺消费！文化“搭台”赛事“唱戏” 激活端午文旅市场“动”感活力 - 央视网
+- 【奔跑的三夏 麦收地图】全国夏粮小麦收获进度近87% - 央视网
 - 公安部网安局公布10起打击整治网络谣言违法犯罪典型案例 - 央视网
 
-## BBC (11 条)
-- Trump heralds Iran deal but questions - and risks - remain
-- US-Iran deal eases uncertainty over the war - but there is much still to play out
-- Oil prices slide after Pakistan announces deal between US and Iran
+## BBC (18 条)
+- Oil prices fall and shares jump after US-Iran deal announced
+- Norwegian crown princess's son found guilty of two counts of rape
+- Russian strikes kill nine and set historic cathedral in Kyiv ablaze
+- Brazil woman dies after rope-jumping instructors fail to attach cord
+- US musician Oliver Tree dies in helicopter collision in Brazil
+- Man apologises for making racist gesture at Korean in World Cup match
+- South African TV star arrested after allegedly kidnapping man in girlfriend dispute
+- China detains two leaders of influential underground church
 - Swiss voters reject 10 million population cap
-- Protesters clash with police ahead of G7 summit in Geneva
-- Trump hosts UFC cage fight on the White House lawn
+- Trump and thousands of others watch UFC fight on White House lawn
 - UK and Japan agree £18bn investment deal
+- Unclear if US-Iran agreement will provide respite to Lebanon
+- Trump heralds Iran deal but questions - and risks - remain
 - Is the convertible heading into the sunset?
-- As more US business owners retire many are selling up to their staff
+- Why I sold my business to my staff
 - Olé, olé, olé, olé - What makes a memorable World Cup song?
 - Delhi's temperature showed 43.5C. Why did it feel hotter?
+- Protesters clash with police ahead of G7 summit in France
 
-## Reuters (1 条)
-- Trump tells Putin he is ready to help end Ukraine conflict, Kremlin adviser says - Reuters
+## Reuters (3 条)
+- Trump threatens 100% tariff on French wine over tech tax as G7 meets, NY Post reports - Reuters
+- SpaceX IPO adds a dash of volatility to index-investing recipe - Reuters
+- US, Iran reach peace deal, signing set for Friday, Pakistan says - KOAM News Now
 
-## NYTimes (14 条)
-- Iran War Live Updates: U.S. and Tehran Reach Framework for Peace
+## NYTimes (20 条)
+- Iran War Live Updates: U.S.-Iran Framework Brings Relief, but Challenges Loom
+- Ukraine Is About to Take a Big Step on a Long Road Toward the European Union
+- Historic Orthodox Cathedral Burns in Russian Attack on Kyiv
+- How Quebec Left the Church and Became the World Leader in Assisted Dying
+- Britain Announces Social Media Ban for Children
+- How Ukraine Uses A.I. to Knock Deadly Russian Drones Out of the Skies
+- Inside Colombia’s Never-Ending Drug War
+- Son of Norway’s Crown Princess Is Convicted of Rape
+- Many Iranians Express Relief Over Agreement to End the War
 - Switzerland Rejects Measure to Cap Its Population at 10 Million
 - Deadlocked Wars: How Major Powers Misread the Regions They Attacked
 - Curaçao Is the Smallest Country Ever to Reach the World Cup
-- Japan Is Running Out of Royals. Are More Men the Answer?
-- World leaders welcome news the Strait of Hormuz could soon reopen.
-- U.S. and Iran Reach Agreement to Reopen Strait and Begin Nuclear Talks
-- Singer Oliver Tree Is Said to Have Died in Collision of Helicopters in Brazil
-- Trump Claims Strait Will Be ‘Permanently Toll-Free’ Under Agreement With Iran
-- War and the World Cup
-- In Israel, Broad Discontent Even Before Deal’s Details Are Known
-- Israel Strikes Beirut Outskirts as Fighting With Hezbollah Escalates
-- The Secrets of a Soccer-Turf Master
+- What to Know About Planned Social Media Bans Around the World
+- The U.S.-Iran Deal: What to Know
+- China Moves the Price of Oil, Even When It Buys Less
+- On the Nuclear Issue, Each Side Finds a Way to Claim Victory
+- Taking on Neo-Nazis, One Trademark at a Time
 - Here’s the latest.
+- World leaders welcome news that the Strait of Hormuz could soon reopen.
+- U.S. and Iran Reach Agreement to Reopen Strait and Begin Nuclear Talks
 
 ## CNN (6 条)
 - 0% intro APR until 2024 is 100% insane
@@ -139,163 +151,173 @@
 - Want Cash Out of Your Home? Here Are Your Best Options
 
 ## 微博热搜 (20 条)
-- 山姆被约谈
-- 遇见小面创始人致歉
-- 龙舟赛变身端午消费新引擎
-- 今天京东秒杀爆品1元 大牌低至五折
-- 爱情有烟火原著回应开播
-- 瑞典vs突尼斯
-- 普通人要知道的湿厕纸真相
-- 雷军说在街边吃热干面几十年没变
-- 巴西蹦极坠亡女子未婚夫严重应激
-- 问心2
-- C罗美加墨世界杯定妆照
-- 金价
-- 贺峻霖的平均学分绩点
-- 歌手OliverTree空难去世
-- 她考了第一编制却消失了
-- 时代少年团毕业进度
-- 刘浩存卧鱼不要轻易学
-- 球迷抗议日本轮奸犯国脚出场
-- 蔚来李斌再次发出预警
-- 日本足球可怕在这四个字
+- 本届世界杯惨案来得太快了
+- 删了几千张照片结果内存没变
+- 我国成功发射一箭8星
+- 京东组合购 掀起低价风云
+- Rookie iG
+- 会员们被山姆背刺了
+- 命好的人体现在哪些方面
+- 纯情太子火辣妃
+- 千万不要坐公园的碗状转椅
+- 中国影视之夜红毯
+- 疑似巴西队无人在意内马尔
+- 山姆向会员致歉
+- 好久不见迪丽热巴走红毯
+- 珠峰向导被遗忘在死亡区6天6夜生还
+- 贺峻霖回复严浩翔的祝福
+- 比尔盖茨自曝出轨20多次
+- 中国影视之夜
+- 王俊凯董子健合照被判AI了
+- 朱一龙敏感度
+- 1万7买塑形衣穿上后吃不下饭
 
-## 知乎热榜 (20 条)
-- 有哪些事是你当了领导才知道的？
-- 数学的本质究竟是什么？
-- 动物咬住幼崽后颈就会停止乱动，进入搬运模式，人类幼仔有同样的效果吗？
-- 瞎扯 · 如何正确地吐槽
-- 给孩子取名沐兮很傻吗?
-- 你觉得你能扛得住严刑拷打吗?
-- 《基督山伯爵》这种纯种爽文为什么被评为名著？
-- 可以推荐一下冷门但确实美丽的花卉吗？
-- 有些动物失去肢体后会自己长出来，为啥人类不行？
-- 为什么大家都说人生的容错率大到无法想象?
-- 如果让你推荐一件「有故事」的文物，你会推荐哪个？
-- 为什么博物馆的展板说明总是写得看不懂，能不能用「人话」解释？
-- 有哪些看完后惊呼「卧槽」的历史真实事件或冷知识？
-- 「几星」瓢虫是益虫？
-- 中国在不断地兴修水坝，而美国却拆了1000多座水坝，这是为什么？
-- 瞎扯 · 如何正确地吐槽
-- 欧美有哪些传统食物可以反映历史上人民生活的艰难时期？
-- 英语里如果要删掉一个字母，删掉哪个影响最小？
-- 如何看待《西游记》中如来用「历经一千七百五十劫」来证明玉帝的合法性？这是否反映了深层的「苦难崇拜」？
-- 瞎扯 · 如何正确地吐槽
+## 知乎热榜 (3 条)
+- 苏米香岭南·服务大湾区 水韵苏米全国行·广东站圆满收官！ - 知乎专栏
+- 伊朗最高国家安全委员会正式确认伊美谅解备忘录达成，有哪些信息值得关注？ - 知乎
+- 茅台总经理王莉称「停售冰淇淋、咖啡和巧克力，未来联名将非常谨慎」，如何解读？ - 知乎
 
 ## B站热门 (20 条)
+- 《原神》动画短片——「最后的遗产」
+- 泽连斯基劝降俄罗斯
+- 峰峦叠嶂间，此城何处寻？
 - 你懂白鹿吗？——内娱嘉欣
-- 《三角洲行动》新干员档案：加布里埃尔·默里尔—代号液氮
-- 有一个人前来踢球
-- 新三国up锐评神探狄仁杰01：全剧最大的谜团出现了
-- 破晓将至，律己则安，终见黎明！
-- 看一看早餐的质量怎么样#早餐#食品安全
-- 约会的是他们，怎么感到尴尬的是我…
-- 一方水土养一方舞蹈
+- 【雷军】在武汉过早 非常丰盛
 - 迈克尔杰克逊的billiejean，斗胆跳一段。
-- 洗衣机演奏一首《起风了》，以此纪念我的高中生活
+- 我的脆皮人生be like
+- 【侯绿萝】新作上线，快来看看！
+- 【闪灵】你的强来了！
+- 《主任你说句话啊》
+- 【女儿殿下 | 官方MV 】周杰伦 疯疯癫癫 Hey 风度翩翩 Hey 陪我家公主玩变化万千 Hey
+- 星际超级荒诞动画喜剧！《外星小偷里贝》第03话：上岸星球【UP动画】
+- 新三国up锐评神探狄仁杰01：全剧最大的谜团出现了
+- 人在做坏事时…是最有耐心的【超长前摇】
+- 欢迎回家，iG.TheShy
+- 杨氏跑刀法
+- 有一个人前来踢球
+- 破晓将至，律己则安，终见黎明！
+- 特厨探店|不好找，无环境，但好吃的—特色辣子鸡大盘鸡
 - 开局直接当领主，还送4个全副武装牛马小弟【剑与王国】
-- 美国“杰斐逊州”在哪里？【神奇组织51】
-- 男子孤身驾车进入罗布泊无人区，失踪两年后被人意外找到
-- 当你用台词来引出剧名会怎么样？（手绘板）3.0
-- 我们成功了!核电站隐藏好结局-天下无核 测试服
-- 问题少年，梆梆两拳！高分韩剧《铁拳教育》
-- 中国的危与机？中美俄欧中东，AI美债美元，混乱世界中|正在发生 ep1 翟东升
-- 【某幻】《盛世天下》再返深宫，活下来！
-- 浙江新条例，又引爆全网
-- 《兔粮是你的谎言》
 
 ## 抖音热搜 (20 条)
-- 库拉索主帅泪洒赛场
-- 荷兰2:2日本
+- 瑞典5:1突尼斯
+- 端午来苏州看金龙巡游超级版
+- 5G向深蓝
 - 各地抢收抢种筑牢丰收基础
-- 谁懂碱水甜粽的含金量
-- 7:1成德国球迷专属回忆
 - 净网：马某编造涉食品安全类网络谣言被拘留
-- 姜乘澜的保姆级黑眼圈遮瑕教程
-- 那些年全国统一的潮流穿搭
-- 谁不想有个完美旅行搭子呢
-- 瘦子吃饭有啥小习惯
+- 江浙沪凡尔赛从晒杨梅开始
+- 荷兰2:2日本
+- 在南法度过一天有多治愈
 - 科特迪瓦1:0厄瓜多尔
-- 全国顶流NPC在杭州团建了
-- 遇见小面创始人致歉
-- 德国7:1库拉索
-- 布伦森当选总决赛FMVP
-- 懂球天团锐评桑巴足球是否没落
-- 带你走进美加墨
+- 盖恩重炮刺拳击倒佩雷拉
+- 盖奇TKO托普里亚
+- 库拉索主帅泪洒赛场
+- iG官宣TheShy归队
+- 炽夏定档0616
+- 缅甸总统敏昂莱抵达北京
+- 市场监管总局约谈山姆总部
 - 美伊达成和平协议
-- 山歌王舞蹈挑战
-- 这世界那么多人里的治愈感
+- 周杰伦女儿殿下mv
+- A股
+- 当我看到德国队7:1库拉索
+
+## 豆瓣讨论 (1 条)
+- 活久见，看演唱会还🉐带阻断药？ - 豆瓣
 
 ## 丁香园 (2 条)
 - 【给力】换药室门口的一场紧急救护——关节·运动医学科护士团队快速处置患者突发不适 - y.dxy.cn
 - 第十八届海峡论坛卫生与健康分论坛在厦门举办 - y.dxy.cn
 
 ## 雪球热帖 (20 条)
-- 金智维港股IPO招股书失效 - Sina finance
+- 马斯克，人类历史上第一次出现了万亿美元富翁 - Sina finance
+- 威迈斯6月15日现1笔大宗交易 总成交金额4684.96万元 溢价率为-25.48% - Sina finance
+- Life Time Group 15分钟走势图现MACD和KDJ死叉 - Sina finance
+- 恒生科技指数午后跌超2%，华虹半导体（01347.HK）跌超7%、中芯国际（00981.HK）跌超6%，恒生指数跌约1.2% - Sina finance
+- 海德股份(000567)被处罚，股民索赔可期 - Sina finance
+- 索拉纳76美元支撑位将至：ETF资金流入能否阻止通道破位？ - Sina finance
+- 今日交易策略：期货行情不一，黄金上涨、原油下跌 - Sina finance
+- 美国强劲就业报告及通胀担忧之下，黄金价格暴跌超1% - Sina finance
+- 戴尔股价上涨使首席执行官迈克尔·戴尔比马克·扎克伯格和黄仁勋更富有 - Sina finance
+- HDFC共同基金对黄金ETF设限，以防投资者受高估值影响 - Sina finance
 - 欧洲“职业球员加工厂”首次签约中国球员，足球小将踏上巴萨青训之路 - Sina finance
-- 广汽传祺越7：方盒子造型与插混动力的完美结合 - Sina finance
 - 歌舞与危险并存 - Sina finance
-- 文汇报：从避险到收益 亚洲债券的配置吸引力 - 新浪网
-- A100ETF华富（561880）涨1.28%，半日成交额441.60万元 - Sina finance
-- 消费ETF广发（560680）跌1.24%，半日成交额988.49万元 - Sina finance
-- 创业板价值ETF华夏（159966）涨2.70%，半日成交额354.71万元 - Sina finance
-- 航空ETF富国（159392）跌1.57%，半日成交额626.98万元 - Sina finance
-- 一带一路ETF易方达（515110）涨1.28%，半日成交额502.58万元 - Sina finance
-- 证券ETF浦银（516730）涨1.79%，半日成交额601.71万元 - Sina finance
-- 智能汽车ETF富国（515250）涨2.99%，半日成交额1087.28万元 - Sina finance
-- 光伏ETF汇添富（516290）涨0.81%，半日成交额1195.58万元 - Sina finance
-- 智能驾驶ETF华泰柏瑞（516520）涨2.66%，半日成交额2030.68万元 - Sina finance
-- 上证指数ETF富国（510210）涨0.89%，半日成交额4.13亿元 - Sina finance
-- 红利ETF博时（515890）跌1.30%，半日成交额592.62万元 - Sina finance
-- 上证50ETF华夏（510050）涨0.74%，半日成交额37.22亿元 - Sina finance
-- 创业板ETF中银证券（159821）涨3.60%，半日成交额162.89万元 - Sina finance
-- 科技龙头ETF工银（516050）涨4.03%，半日成交额471.83万元 - Sina finance
-- 光伏ETF鹏华（159863）涨1.06%，半日成交额592.81万元 - Sina finance
+- STAK交易量增长7.5倍实现突破，但缺口风险大 - Sina finance
+- 直觉外科公司（ISRG）逆势上扬：股价飙升2.5%摆脱熊市引力 - Sina finance
+- 股市中急进者下跌，稳健者胜出 - Sina finance
+- ESS Tech 成交量为零股价仍上涨 11% - Sina finance
+- PVH本季度表现出色，市场却在恐慌抛售唯一未受损的业务 - Sina finance
+- 美元兑加元突破：图表形态是滞后指标，而非判断依据 - Sina finance
+- 比特币跌破7万美元：暴跌结束，还是ETF会带来更多痛苦？ - Sina finance
+- 金智维港股IPO招股书失效 - Sina finance
 
 ## 36氪 (20 条)
-- 我国成功发射吉星高分07C04星等8颗卫星
-- 美团龙珠等入股核聚变装置研发商诺瓦聚变
-- 中国“纯硅”成功突破，我国攻克硅基量子芯片关键材料
-- 恒指午间休盘涨0.45%，华虹宏力涨超11%
-- 立讯精密计划最快于7月在香港上市，拟融资不超过30亿美元
-- 传阿里出价约118亿港元竞购朴朴超市？阿里暂无回应
-- 国内品牌金饰价格普涨，周生生金价重回1300元
-- 新加坡拟推出黄金清算系统，摩根大通等银行势将参与其中
-- 半日主力资金加仓电子股，抛售煤炭股
-- A股三大指数午间休盘集体上涨，半导体板块领涨
-- 青岛啤酒集团等成立新投资公司，注册资本110亿
-- 韩国外资对本地股票的净投资额创下有记录以来最大单月流出规模
-- 美国顶级基金经理：通胀和“巨无霸IPO”引发流动性紧缩，纳指年内恐跌35%
-- 百度搭子DuMate完成核心引擎升级
-- 针对多发食品安全问题，市场监管总局约谈山姆总部
-- 顺络电子在珠海成立新公司，注册资本5000万
-- “本源悟空”系列自主超导量子计算机初步形成“矛”“盾”双供给能力
-- 智平方发布类脑式具身智能系统NeuroVLA
-- “洛梵狄”完成新一轮数千万元B+融资
-- 五粮液集团换帅完成工商变更
+- 中荣股份：拟4000万元至8000万元回购公司股份
+- 支付宝：政务AI助手“晓政”服务突破1亿次
+- 锡业股份：以1.77亿元竞得赤峰大井子锡业100%股权
+- 巴基斯坦央行维持基准利率在11.5%不变
+- 常铝股份：控股股东拟协议转让22.38%股份，股票复牌
+- 小雨智造与地瓜机器人正式宣布达成战略合作
+- 亿纬锂能：预计2026年半年度净利润同比增长95%-110%
+- 小红书或已准备好本月在香港提交IPO申请
+- 赛分科技：拟投资3亿元建设规模化蛋白生产和色谱填料扩产项目
+- *ST仕净：法院决定启动预重整并通知债权申报
+- 中交地产：证券简称变更为“中交发展”
+- 强生将投资超10亿美元扩建美国视力保健产品生产设施
+- 粤芯半导体创业板IPO获上市委会议通过
+- *ST天龙：已向深交所提交股票终止上市复核申请
+- 南亚新材：提前终止减持计划，7名股东合计减持公司股份约356.38万股
+- 药明康德：回购A/H股合计约183万股
+- 印度5月份商品贸易逆差降至282.1亿美元
+- 海南机场：5月旅客吞吐量同比下降5.1%
+- 南方航空：5月旅客周转量同比下降4.2%
+- 3连板金钼股份：目前公司尚无产品直接应用于半导体存储芯片领域
 
 ## 虎嗅 (20 条)
-- 对话夏勇峰：做了6年，我亲手按下AI 眼镜的暂停键
-- 复盘AI购物的首个618：买家迟疑，卖家抓瞎，平台左右为难
-- 第一个“取消中考”选拔的地方，来了
-- 字节只能在别人的地盘跳动
-- 55欧元一瓶的意大利红酒，有多少是非法黑工摘的葡萄？
-- 微软宣布三年后建成商用级量子计算机：靴子能否落地？
-- 大学生被滥用的情怀，正沦为黑作坊的挡箭牌
-- SpaceX崛起史：一切，为了去火星
-- 民航是不是忘了件事
-- AI“踢”进世界杯
-- 鼓励“创业”却不在乎你死活，快消企业逼迫一线员工注册营业执照的背后，业务员的现实问题谁来解决？
-- 从概念走向规模化，固态变压器正在被三个终端市场共同引爆
-- Prompt该退环境了，未来属于Loop Engineering。
-- 沙特与阿联酋做了不同押注
-- 流量投机，别拿为小商户发声当幌子
-- 百度百科20岁，老了但还有用
-- 直面监管追问，“清华+百度系”自动驾驶卡车公司再闯港股
-- 联想，最佳财报与转型迷思
-- “教育过市场”的微型车，衰落将至？
-- 施道红：一座创新区的生死，取决于它敢不敢留“没用”的空间……
+- Robotaxi行业怎样才能腾飞
+- 小罐茶正在走出舒适区
+- 霍尔木兹海峡封锁第108天，美国赚发了
+- 屡次违法终禁入、配方擅改被罚十万元：化妆品行业不合规的代价正在“翻倍”
+- “电商的价格，比我们拿货价还便宜”，经销商的生意怎么办？
+- 中国最快乐的城市，一不小心火了30年
+- 追觅造车调查：没工厂、没资质、没“搭子”
+- 山姆和美宜佳被约谈，犯了什么致命问题？
+- “香水第一股”翻车了
+- 尘埃落定，黄金反弹有多大潜力？
+- 40批医疗服务价格立项指南推出，医院如何选择？
+- 创新药板块利好拉满，为何砸出“股价深坑”？
+- 云台遭狙击，大疆被围猎
+- Liv-ex：精品白葡萄酒15年来交易额增长650%，勃艮第占近七成
+- 中外合作办学：上交大、浙大、天大、北航、东南、哈工大，有何亮点？志愿填报注意什么？
+- 做芯片有多难？一个除法运算错误，4.75亿美元就打了水漂
+- 2000亿市值的家电巨头，瞄准3亿老年人的腿
+- 被全城痛骂了20年的“最烂老板”，靠尼克斯夺冠躺赚100亿
+- 总统之子的慈善骗局
+- 跑刀去非洲
 
-## 少数派 (2 条)
+## 少数派 (6 条)
+- 派评 | 近期值得关注的 App
+- 具透 | 思考、打磨、加速：iPadOS 27 首个开发者测试版中值得关注的新内容
+- 从 BANG!CASE 到 AI Display：我为什么想给 AI 在桌面留一个位置
+- Snapseed 4.0：Google 终于想起了这款「免费修图神器」
 - 线下活动｜CiGA Game Jam 2026 广州荔湾少数派站召集令
 - 派早报：Fable 5 和 Mythos 5 模型因美国商务部禁令下线
+
+## GitHub Trending (18 条)
+- iptv-org/iptv
+- teslamate-org/teslamate
+- Panniantong/Agent-Reach
+- meshery/meshery
+- chatwoot/chatwoot
+- krahets/hello-algo
+- freeCodeCamp/freeCodeCamp
+- trycua/cua
+- jwasham/coding-interview-university
+- rohitg00/ai-engineering-from-scratch
+- music-assistant/server
+- Free-TV/IPTV
+- Introduction-to-Autonomous-Robots/Introduction-to-Autonomous-Robots
+- Raphire/Win11Debloat
+- mikeroyal/Self-Hosting-Guide
+- itsfatduck/optimizerDuck
+- NVIDIA/SkillSpector
+- shiyu-coder/Kronos
