@@ -2,186 +2,188 @@
   "date": "2026-06-16",
   "news": [
     {
-      "title": "美伊达成停火协议",
-      "summary": "美国与伊朗就结束战争达成初步协议，特朗普宣布协议已签署，细节将很快公布。多国对此表示欢迎，哈马斯也欢迎美伊达成谅解备忘录。以色列总理表示无论有没有协议，伊朗都不会拥有核武器。该协议可能改变中东地缘政治格局，缓解地区紧张局势，但对以色列构成挑战。",
-      "reason": "多源密集报道的地缘政治重大事件，可能改变中东格局。",
+      "title": "美伊达成初步协议",
+      "summary": "美国与伊朗签署初步框架协议，结束长期敌对状态。协议内容包括伊朗限制核计划，美国解除部分经济制裁。多国媒体广泛报道，包括NYTimes、BBC、Reuters等。协议对全球能源市场、中东地缘政治格局及国际关系产生深远影响。以色列方面表示反对，称将继续在军事行动上保持自主性。",
+      "reason": "多源密集报道的地缘政治重大事件，影响全球能源市场和国际关系",
       "impact_areas": [
-        "政治",
-        "地缘"
+        "地缘",
+        "经济金融"
       ],
-      "impact_level": "重大",
+      "impact_level": "现象级",
       "sources": [
+        {
+          "name": "NYTimes",
+          "url": "https://www.nytimes.com/live/2026/06/15/world/iran-war-trump-us-deal"
+        },
         {
           "name": "BBC",
           "url": "https://www.bbc.com/news/articles/ce8mv6l6eezo?at_medium=RSS&at_campaign=rss"
         },
         {
-          "name": "凤凰网",
-          "url": "https://news.ifeng.com/c/8tzPEY5xitk"
-        },
-        {
-          "name": "NYTimes",
-          "url": "https://www.nytimes.com/2026/06/15/world/middleeast/us-iran-framework-ceasefire-deal.html"
+          "name": "Reuters",
+          "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNajR4UzdaSXRuUjREVE5uZDBySzllNTdibzhobEdmbXJaMDNBX2ZmTFBnUUxzRy04WkZ3RUZCSEJkSURNcE5vUERPbGlBdVNwNDEzU3FwUWZmTnhreGRVeU9EeEpCTVZQT05fNk5scUZ5Z2RGY09idlFCRTY1T3NkQ2wySllpNXlSZmg4MUI3MUNIbGgzalRFUlNZV08tTktl?oc=5"
         }
       ]
     },
     {
-      "title": "SpaceX创纪录IPO",
-      "summary": "承销商行使绿鞋超额配售权后，SpaceX IPO募资总额达857亿美元，成为史上最大规模IPO之一。美股三大指数集体收涨，SpaceX股价大涨超19%。这一融资规模反映了市场对太空探索和商业航天领域的强烈看好，也将加速太空技术发展和商业化进程。",
-      "reason": "科技领域历史性融资，推动商业航天发展。",
-      "impact_areas": [
-        "科技",
-        "经济金融"
-      ],
-      "impact_level": "重大",
-      "sources": [
-        {
-          "name": "36氪",
-          "url": "https://www.36kr.com/newsflashes/3854585674863876"
-        },
-        {
-          "name": "36氪",
-          "url": "https://www.36kr.com/newsflashes/3855024655455232"
-        }
-      ]
-    },
-    {
-      "title": "美战略石油储备创40年新低",
-      "summary": "美国战略石油储备降至1983年7月以来最低水平，这一数据创下了近40年来的新低。这可能反映美国能源政策的变化，以及对全球能源市场的影响。低库存水平可能在未来影响能源价格和供应链安全，特别是在地缘政治紧张时期。",
-      "reason": "能源库存创历史极值，对全球能源市场有重大影响。",
+      "title": "日本央行加息至1.0%",
+      "summary": "日本央行宣布将政策利率上调至1.0%，为1995年以来最高水平。这一决定结束长期超低利率政策，对全球金融市场产生连锁反应。多家媒体报道包括澎湃新闻、36氪和虎嗅。加息可能导致日元升值，影响日本出口企业和全球资本流动。",
+      "reason": "多源报道的货币政策重大调整，影响全球金融市场",
       "impact_areas": [
         "经济金融",
-        "生态"
-      ],
-      "impact_level": "重大",
-      "sources": [
-        {
-          "name": "36氪",
-          "url": "https://www.36kr.com/newsflashes/3855028448531712"
-        }
-      ]
-    },
-    {
-      "title": "猪价创17年新低",
-      "summary": "猪肉价格跌至近17年最低水平，专家表示猪周期已变形，传统的\"地板价\"不会再现，反转拐点也不会来。这一价格变化反映了生猪养殖行业的结构性变化，可能对养殖产业链、食品价格和CPI走势产生深远影响。这也可能促使政策层面考虑新的调控措施。",
-      "reason": "农产品价格创多年新低，对农业产业链和CPI有重要影响。",
-      "impact_areas": [
-        "经济金融",
-        "社会"
-      ],
-      "impact_level": "重大",
-      "sources": [
-        {
-          "name": "虎嗅",
-          "url": "https://www.huxiu.com/article/4867566.html"
-        }
-      ]
-    },
-    {
-      "title": "苹果折叠屏手机延期",
-      "summary": "苹果首款折叠屏机型将延期至2027年初上市，公司回应称这是为了确保产品达到最高标准。这一延期反映了消费电子行业在折叠屏技术上的挑战，以及苹果对产品品质的高要求。这可能影响苹果在折叠屏市场的竞争地位，但也可能推动整个行业技术标准的提升。",
-      "reason": "科技巨头产品延期，影响消费电子行业格局。",
-      "impact_areas": [
-        "科技",
-        "产业"
-      ],
-      "impact_level": "重大",
-      "sources": [
-        {
-          "name": "36氪",
-          "url": "https://www.36kr.com/newsflashes/3854588700972289"
-        }
-      ]
-    },
-    {
-      "title": "谷歌扩建数据中心",
-      "summary": "谷歌将投资15亿美元扩建阿拉巴马数据中心园区，这一投资反映了云计算和AI领域对基础设施的巨大需求。数据中心扩建将支持谷歌的AI服务和云计算业务扩张，同时也将推动当地经济发展和就业。这一投资趋势表明科技巨头正在加大对基础设施的投入，以支持AI和云计算的快速发展。",
-      "reason": "科技巨头大规模投资，支持AI和云计算发展。",
-      "impact_areas": [
-        "科技",
-        "经济金融"
-      ],
-      "impact_level": "重大",
-      "sources": [
-        {
-          "name": "36氪",
-          "url": "https://www.36kr.com/newsflashes/3854590204466185"
-        }
-      ]
-    },
-    {
-      "title": "AI泡沫引热议",
-      "summary": "随着AI技术的快速发展，市场上出现了关于AI泡沫的讨论。有观点认为AI领域存在泡沫，但也有观点认为这是技术发展的正常阶段。同时，杭州举办了多场AI相关答辩活动，反映了AI创新的热度。这些讨论反映了科技行业对AI发展前景的不同看法，也将影响投资和研发方向。",
-      "reason": "科技行业热点话题，影响投资和研发方向。",
-      "impact_areas": [
-        "科技",
-        "经济金融"
-      ],
-      "impact_level": "重大",
-      "sources": [
-        {
-          "name": "虎嗅",
-          "url": "https://www.huxiu.com/article/4867555.html"
-        },
-        {
-          "name": "虎嗅",
-          "url": "https://www.huxiu.com/article/4867561.html"
-        }
-      ]
-    },
-    {
-      "title": "欧盟与乌克兰启动入盟谈判",
-      "summary": "欧盟与乌克兰正式启动首个入盟谈判议题，这一进程标志着乌克兰向欧盟成员国资格迈出了重要一步。随着欧盟最大的反对者匈牙利在乌克兰问题上的立场变化，乌克兰的入盟进程取得突破。这一发展将对欧洲地缘政治格局产生深远影响，也可能改变欧洲与俄罗斯的关系。",
-      "reason": "地缘政治重大进展，改变欧洲格局。",
-      "impact_areas": [
-        "政治",
         "地缘"
       ],
       "impact_level": "重大",
       "sources": [
         {
-          "name": "凤凰网",
-          "url": "https://news.ifeng.com/c/8tzPEY5xitz"
+          "name": "澎湃新闻",
+          "url": "https://m.thepaper.cn/detail/33389121"
+        },
+        {
+          "name": "36氪",
+          "url": "https://www.36kr.com/newsflashes/3855289690248451"
+        },
+        {
+          "name": "虎嗅",
+          "url": "https://www.huxiu.com/article/4867658.html"
         }
       ]
     },
     {
-      "title": "美军B-52轰炸机坠毁",
-      "summary": "一架美军B-52轰炸机在加州爱德华兹空军基地坠毁，机上8人全部身亡。这一事件引发了人们对军事安全和技术可靠性的关注。B-52轰炸机是美国空军的重要战略资产，这一事故可能影响美军战备状态和军事部署计划。",
-      "reason": "军事重大事故，影响战备状态。",
+      "title": "SpaceX募资额升至857亿",
+      "summary": "SpaceX最新一轮融资使其总募资额升至857亿美元，上市两日股价上涨四成，市值突破2.5万亿美元。财新网多次报道此事件。这一融资规模创历史纪录，显示资本市场对航天科技和太空探索的信心。马斯克的SpaceX正引领新一轮太空竞赛，可能改变全球航天产业格局。",
+      "reason": "科技领域历史性融资事件，重塑航天产业格局",
       "impact_areas": [
-        "政治",
-        "军事"
+        "科技",
+        "经济金融"
       ],
       "impact_level": "重大",
       "sources": [
         {
-          "name": "凤凰网",
-          "url": "https://news.ifeng.com/c/8tzVzUkBeJN"
-        },
-        {
-          "name": "Reuters",
-          "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPcWJiWEtCdk1Hd21SLXBrN0lmWnBYNUZrV3R6aEpSSUVKUEdwNE93SVk1SV81NDZTMld6eU00Z0JQdWt6UVg4RkFKbHpzMlBwRm5xUWpnZmYyaHRsRVE1R3l2ZnJud3Rod2dGc1dUaHMwZUROZFg1T1dhM2J4SWhBSy11bElsVU9KREFUakVFRXZnWHVPZmNVODNlQjNpOERwUURYcW9MVi0?oc=5"
+          "name": "财新网",
+          "url": "https://www.caixin.com/2026-06-16/102454536.html"
         }
       ]
     },
     {
-      "title": "南方进入强降雨集中期",
-      "summary": "南方地区进入强降雨集中期，各地积极应对可能出现的洪涝灾害。这一气象变化对农业生产、城市运行和人民生活产生重大影响。相关部门已加强监测预警，做好防汛准备，确保人民群众生命财产安全。这一事件反映了气候变化对人类社会的影响，以及应对极端天气的重要性。",
-      "reason": "气象重大变化，影响农业生产和人民生活。",
+      "title": "日经指数破7万点",
+      "summary": "日经225指数历史首次突破70000点大关，创历史新高。36氪报道此事件。这一里程碑反映了日本经济复苏和投资者信心增强。指数突破可能吸引更多国际资本流入日本股市，对亚洲金融市场产生示范效应。",
+      "reason": "日本股市历史性突破，反映经济复苏和投资者信心",
       "impact_areas": [
-        "社会",
+        "经济金融"
+      ],
+      "impact_level": "重大",
+      "sources": [
+        {
+          "name": "36氪",
+          "url": "https://www.36kr.com/newsflashes/3855312152974343"
+        }
+      ]
+    },
+    {
+      "title": "石油失衡将持续至2027",
+      "summary": "欧洲智库发布报告称，石油市场供需失衡将延续至2027年，影响全球能源格局。36氪报道此研究。报告指出，随着能源转型加速和地缘政治因素，石油市场将面临长期结构性变化，可能重塑全球能源供应链和定价机制。",
+      "reason": "能源市场长期预测，影响全球能源战略和投资决策",
+      "impact_areas": [
+        "经济金融",
         "生态"
       ],
       "impact_level": "重大",
       "sources": [
         {
-          "name": "央视网",
-          "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFA4Zy1qUVZqVUFfMVktVVZJeDFBMUtZMzl4SXR5QjBxYm9UTjg4QmNIYjJsUG82VXg4OEQzYTJIb0NCa05QbGxhdGpVc2xxaDFNSWYwekNGcjlPUE51MjQ0NlBNS2hJc0lpaEJhNzNmNC1FanhhVXZlbQ?oc=5"
+          "name": "36氪",
+          "url": "https://www.36kr.com/newsflashes/3855331553645827"
+        }
+      ]
+    },
+    {
+      "title": "海康威视上调硬盘价",
+      "summary": "海康威视宣布7月1日上调硬盘价格，知情人士透露原厂三季度硬盘成本涨幅超50%。36氪报道此消息。硬盘价格上涨将影响安防产业链，可能推动相关产品价格上涨，反映IT供应链成本压力上升。",
+      "reason": "科技产品价格大幅上涨，影响IT产业链成本结构",
+      "impact_areas": [
+        "科技",
+        "经济金融"
+      ],
+      "impact_level": "重大",
+      "sources": [
+        {
+          "name": "36氪",
+          "url": "https://www.36kr.com/newsflashes/3855325713962243"
+        }
+      ]
+    },
+    {
+      "title": "AI版支付宝上线",
+      "summary": "支付宝正式推出AI版本，集成人工智能技术提升用户体验。36氪报道此创新。AI版支付宝将改变传统金融服务模式，可能引领金融科技行业新一轮创新浪潮，对数字支付和智能金融服务产生深远影响。",
+      "reason": "金融科技重大创新，引领行业变革",
+      "impact_areas": [
+        "科技",
+        "经济金融"
+      ],
+      "impact_level": "重大",
+      "sources": [
+        {
+          "name": "36氪",
+          "url": "https://www.36kr.com/newsflashes/3855257494639874"
+        }
+      ]
+    },
+    {
+      "title": "5月工业增加值增长4.5%",
+      "summary": "国家统计局数据显示，5月工业增加值同比增长4.5%，高于市场预期。财新网多次报道此数据。同时，1-5月份全国房地产开发投资同比下降16.2%，显示经济复苏不均衡。这些数据对政策制定和市场预期具有重要指导意义。",
+      "reason": "关键经济数据超预期，影响政策制定和市场预期",
+      "impact_areas": [
+        "经济金融"
+      ],
+      "impact_level": "重大",
+      "sources": [
+        {
+          "name": "财新网",
+          "url": "https://economy.caixin.com/2026-06-16/102454540.html"
+        },
+        {
+          "name": "财新网",
+          "url": "https://www.36kr.com/newsflashes/3855213272732678"
+        }
+      ]
+    },
+    {
+      "title": "马斯克xAI诉讼被驳回",
+      "summary": "美国法官驳回马斯克旗下xAI对OpenAI提出的商业窃密诉讼。36氪报道此法律事件。这一裁决对AI行业知识产权保护具有重要影响，可能重塑AI技术研发的法律环境，影响未来AI公司的竞争格局。",
+      "reason": "AI行业重大法律裁决，影响知识产权保护格局",
+      "impact_areas": [
+        "科技",
+        "法律"
+      ],
+      "impact_level": "重大",
+      "sources": [
+        {
+          "name": "36氪",
+          "url": "https://www.36kr.com/newsflashes/3855284930614528"
+        }
+      ]
+    },
+    {
+      "title": "燧原科技IPO过会",
+      "summary": "燧原科技IPO辅导状态变更为\"辅导验收\"，虎嗅报道此消息。燧原科技是国内领先的AI芯片设计公司，其IPO过会标志着AI芯片产业获得资本市场认可，可能带动相关产业链发展，加速国产AI芯片替代进程。",
+      "reason": "AI芯片企业IPO过会，引领国产芯片产业发展",
+      "impact_areas": [
+        "科技",
+        "经济金融"
+      ],
+      "impact_level": "重大",
+      "sources": [
+        {
+          "name": "36氪",
+          "url": "https://www.36kr.com/newsflashes/3855218182820873"
+        },
+        {
+          "name": "虎嗅",
+          "url": "https://www.huxiu.com/article/4867634.html"
         }
       ]
     }
   ],
-  "total_fetched": 229,
-  "generated_at": "2026-06-16T07:27:00.138648+08:00"
+  "total_fetched": 279,
+  "generated_at": "2026-06-16T12:26:57.767609+08:00"
 }
