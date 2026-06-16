@@ -2,104 +2,70 @@
   "date": "2026-06-16",
   "news": [
     {
-      "title": "美伊达成初步协议",
-      "summary": "美国与伊朗签署初步框架协议，结束长期敌对状态。协议内容包括伊朗限制核计划，美国解除部分经济制裁。多国媒体广泛报道，包括NYTimes、BBC、Reuters等。协议对全球能源市场、中东地缘政治格局及国际关系产生深远影响。以色列方面表示反对，称将继续在军事行动上保持自主性。",
-      "reason": "多源密集报道的地缘政治重大事件，影响全球能源市场和国际关系",
+      "title": "美伊协议达成",
+      "summary": "美国与伊朗就核问题达成协议，霍尔木兹海峡航运将显著增加。华尔街因协议消息大幅上涨，道指创历史新高。法国、英国等国家宣布将派遣船只前往霍尔木兹海峡。协议对全球能源格局和中东地缘政治产生深远影响，但也面临以色列等国的反对。伊朗将在核谈判中处于更有利地位。",
+      "reason": "国际重大协议，多源密集报道，影响全球能源格局和中东地缘政治",
       "impact_areas": [
-        "地缘",
-        "经济金融"
+        "政治",
+        "经济金融",
+        "地缘"
       ],
       "impact_level": "现象级",
       "sources": [
         {
-          "name": "NYTimes",
-          "url": "https://www.nytimes.com/live/2026/06/15/world/iran-war-trump-us-deal"
+          "name": "澎湃新闻",
+          "url": "https://m.thepaper.cn/detail/33390393"
+        },
+        {
+          "name": "财新网",
+          "url": "https://photos.caixin.com/2026-06-16/102454716.html"
         },
         {
           "name": "BBC",
-          "url": "https://www.bbc.com/news/articles/ce8mv6l6eezo?at_medium=RSS&at_campaign=rss"
+          "url": "https://www.bbc.com/news/articles/cj4gnqw8j52o?at_medium=RSS&at_campaign=rss"
         },
         {
           "name": "Reuters",
-          "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNajR4UzdaSXRuUjREVE5uZDBySzllNTdibzhobEdmbXJaMDNBX2ZmTFBnUUxzRy04WkZ3RUZCSEJkSURNcE5vUERPbGlBdVNwNDEzU3FwUWZmTnhreGRVeU9EeEpCTVZQT05fNk5scUZ5Z2RGY09idlFCRTY1T3NkQ2wySllpNXlSZmg4MUI3MUNIbGgzalRFUlNZV08tTktl?oc=5"
-        }
-      ]
-    },
-    {
-      "title": "日本央行加息至1.0%",
-      "summary": "日本央行宣布将政策利率上调至1.0%，为1995年以来最高水平。这一决定结束长期超低利率政策，对全球金融市场产生连锁反应。多家媒体报道包括澎湃新闻、36氪和虎嗅。加息可能导致日元升值，影响日本出口企业和全球资本流动。",
-      "reason": "多源报道的货币政策重大调整，影响全球金融市场",
-      "impact_areas": [
-        "经济金融",
-        "地缘"
-      ],
-      "impact_level": "重大",
-      "sources": [
-        {
-          "name": "澎湃新闻",
-          "url": "https://m.thepaper.cn/detail/33389121"
+          "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPZDJhT0VaNUlNd1pMYXYtN29wek9uaVdXTTN5RXRvZEw5Y090THB2VC1FNFIyb2FWbXJnNkRIb3RaUjA0U2N5TkNyZnJic0hfZlZUZnNHa254ejhRMVJhYW1wYXpsTzBLRXFTT2JtLVpiRWNMdGpSNFB6TnlHalU1cFhxQ1FUMzZya0J3TG9HVGVfWlN2enJHRlBaUUduZUhER3Z3"
         },
         {
-          "name": "36氪",
-          "url": "https://www.36kr.com/newsflashes/3855289690248451"
-        },
-        {
-          "name": "虎嗅",
-          "url": "https://www.huxiu.com/article/4867658.html"
+          "name": "NYTimes",
+          "url": "https://www.nytimes.com/2026/06/16/world/middleeast/strait-hormuz-mines-clearing.html"
         }
       ]
     },
     {
-      "title": "SpaceX募资额升至857亿",
-      "summary": "SpaceX最新一轮融资使其总募资额升至857亿美元，上市两日股价上涨四成，市值突破2.5万亿美元。财新网多次报道此事件。这一融资规模创历史纪录，显示资本市场对航天科技和太空探索的信心。马斯克的SpaceX正引领新一轮太空竞赛，可能改变全球航天产业格局。",
-      "reason": "科技领域历史性融资事件，重塑航天产业格局",
+      "title": "青海6.3级地震",
+      "summary": "青海省海西州发生6.3级地震，已造成1人死亡、4人受伤。地震引发多地强烈震感，当地已启动省级地震灾害Ⅱ级应急响应。海西州连续发生8次地震，救援工作正在进行中。此次地震对当地基础设施和居民生活造成一定影响，相关部门正在评估灾情并组织救援。",
+      "reason": "突发自然灾害，多源报道，涉及公共安全",
       "impact_areas": [
-        "科技",
-        "经济金融"
-      ],
-      "impact_level": "重大",
-      "sources": [
-        {
-          "name": "财新网",
-          "url": "https://www.caixin.com/2026-06-16/102454536.html"
-        }
-      ]
-    },
-    {
-      "title": "日经指数破7万点",
-      "summary": "日经225指数历史首次突破70000点大关，创历史新高。36氪报道此事件。这一里程碑反映了日本经济复苏和投资者信心增强。指数突破可能吸引更多国际资本流入日本股市，对亚洲金融市场产生示范效应。",
-      "reason": "日本股市历史性突破，反映经济复苏和投资者信心",
-      "impact_areas": [
-        "经济金融"
-      ],
-      "impact_level": "重大",
-      "sources": [
-        {
-          "name": "36氪",
-          "url": "https://www.36kr.com/newsflashes/3855312152974343"
-        }
-      ]
-    },
-    {
-      "title": "石油失衡将持续至2027",
-      "summary": "欧洲智库发布报告称，石油市场供需失衡将延续至2027年，影响全球能源格局。36氪报道此研究。报告指出，随着能源转型加速和地缘政治因素，石油市场将面临长期结构性变化，可能重塑全球能源供应链和定价机制。",
-      "reason": "能源市场长期预测，影响全球能源战略和投资决策",
-      "impact_areas": [
-        "经济金融",
+        "社会",
         "生态"
       ],
       "impact_level": "重大",
       "sources": [
         {
-          "name": "36氪",
-          "url": "https://www.36kr.com/newsflashes/3855331553645827"
+          "name": "澎湃新闻",
+          "url": "https://m.thepaper.cn/detail/33391606"
+        },
+        {
+          "name": "澎湃新闻",
+          "url": "https://m.thepaper.cn/detail/33391631"
+        },
+        {
+          "name": "凤凰网",
+          "url": "https://news.ifeng.com/c/8u0btJvsp6O"
+        },
+        {
+          "name": "凤凰网",
+          "url": "https://news.ifeng.com/c/8u0XXE4PMzs"
         }
       ]
     },
     {
-      "title": "海康威视上调硬盘价",
-      "summary": "海康威视宣布7月1日上调硬盘价格，知情人士透露原厂三季度硬盘成本涨幅超50%。36氪报道此消息。硬盘价格上涨将影响安防产业链，可能推动相关产品价格上涨，反映IT供应链成本压力上升。",
-      "reason": "科技产品价格大幅上涨，影响IT产业链成本结构",
+      "title": "Deepseek融资75亿美元",
+      "summary": "中国AI公司Deepseek完成首轮融资，规模约75亿美元，创始人梁文锋为最大单一出资方。这一融资规模创下了AI领域的新纪录，反映了市场对中国AI企业的强劲信心。Deepseek专注于大模型研发，其技术路线与OpenAI等国际巨头形成差异化竞争。此次融资将加速中国AI产业发展，对全球AI格局产生深远影响。",
+      "reason": "AI领域创纪录融资，科技前沿，高实质影响力",
       "impact_areas": [
         "科技",
         "经济金融"
@@ -108,14 +74,14 @@
       "sources": [
         {
           "name": "36氪",
-          "url": "https://www.36kr.com/newsflashes/3855325713962243"
+          "url": "https://www.36kr.com/newsflashes/3855729974367233"
         }
       ]
     },
     {
-      "title": "AI版支付宝上线",
-      "summary": "支付宝正式推出AI版本，集成人工智能技术提升用户体验。36氪报道此创新。AI版支付宝将改变传统金融服务模式，可能引领金融科技行业新一轮创新浪潮，对数字支付和智能金融服务产生深远影响。",
-      "reason": "金融科技重大创新，引领行业变革",
+      "title": "SpaceX收购AI公司",
+      "summary": "SpaceX宣布将通过合并收购美国AI软件公司Anysphere。这一收购标志着马斯克在AI领域的进一步布局，与其xAI形成战略协同。Anysphere专注于AI开发工具和平台，技术团队由前Google DeepMind研究员组成。此次收购将加强SpaceX在AI技术方面的实力，为其星链计划和火星探索提供技术支持，同时也反映出科技巨头对AI人才的激烈争夺。",
+      "reason": "科技巨头战略布局，AI领域重大并购",
       "impact_areas": [
         "科技",
         "经济金融"
@@ -124,66 +90,118 @@
       "sources": [
         {
           "name": "36氪",
-          "url": "https://www.36kr.com/newsflashes/3855257494639874"
+          "url": "https://www.36kr.com/newsflashes/3855740363560198"
         }
       ]
     },
     {
-      "title": "5月工业增加值增长4.5%",
-      "summary": "国家统计局数据显示，5月工业增加值同比增长4.5%，高于市场预期。财新网多次报道此数据。同时，1-5月份全国房地产开发投资同比下降16.2%，显示经济复苏不均衡。这些数据对政策制定和市场预期具有重要指导意义。",
-      "reason": "关键经济数据超预期，影响政策制定和市场预期",
+      "title": "AI逼近自我进化",
+      "summary": "科技领域专家警告，AI技术正逼近\"自我进化\"的临界点。最新研究表明，大型语言模型已展现出一定程度的自主学习和适应能力，能够根据环境变化调整自身行为。这一进展引发了对AI安全性和可控性的担忧。多位科学家呼吁加强AI监管，确保技术发展符合人类利益。AI自我进化能力的突破将对就业、教育、医疗等多个领域产生深远影响。",
+      "reason": "科技前沿突破，高实质影响力，引发广泛讨论",
       "impact_areas": [
+        "科技",
+        "社会"
+      ],
+      "impact_level": "重大",
+      "sources": [
+        {
+          "name": "凤凰网",
+          "url": "https://news.ifeng.com/c/8u0btJvsp6d"
+        }
+      ]
+    },
+    {
+      "title": "G7大国博弈",
+      "summary": "G7峰会背后，欧盟试探重启对俄对话，中欧关系面临新考验。特朗普证实G7峰会期间与泽连斯基会面，显示美国对乌克兰持续支持。日本试图将中国 aggressive trade policies 纳入G7议程，反映出西方对中国崛起的担忧。此次G7峰会反映了国际格局的深刻变化，大国博弈日趋复杂，多边主义面临挑战。",
+      "reason": "国际重大事件，多源报道，影响全球政治经济格局",
+      "impact_areas": [
+        "政治",
+        "地缘",
+        "经济金融"
+      ],
+      "impact_level": "重大",
+      "sources": [
+        {
+          "name": "凤凰网",
+          "url": "https://news.ifeng.com/c/8u0ayMn3v8E"
+        },
+        {
+          "name": "凤凰网",
+          "url": "https://news.ifeng.com/c/8u0aS82bVwW"
+        },
+        {
+          "name": "NYTimes",
+          "url": "https://www.nytimes.com/live/2026/06/16/world/g7-summit-conference-trump-france/japan-china-trade-g7"
+        }
+      ]
+    },
+    {
+      "title": "新能源重卡规模化",
+      "summary": "11部门联合推动新能源重卡规模化应用，力争2030年渗透率达到40%。这一政策将加速交通运输领域低碳转型，对减少碳排放和改善空气质量具有重要意义。政策包括财政补贴、基础设施建设、技术研发等多方面支持，预计将带动数千亿市场规模。此举将重塑传统重卡产业链，促进电池、电机、电控等核心技术创新。",
+      "reason": "国家重大政策，影响产业格局，推动绿色转型",
+      "impact_areas": [
+        "产业",
+        "生态",
         "经济金融"
       ],
       "impact_level": "重大",
       "sources": [
         {
           "name": "财新网",
-          "url": "https://economy.caixin.com/2026-06-16/102454540.html"
-        },
-        {
-          "name": "财新网",
-          "url": "https://www.36kr.com/newsflashes/3855213272732678"
+          "url": "https://www.caixin.com/2026-06-16/102454742.html"
         }
       ]
     },
     {
-      "title": "马斯克xAI诉讼被驳回",
-      "summary": "美国法官驳回马斯克旗下xAI对OpenAI提出的商业窃密诉讼。36氪报道此法律事件。这一裁决对AI行业知识产权保护具有重要影响，可能重塑AI技术研发的法律环境，影响未来AI公司的竞争格局。",
-      "reason": "AI行业重大法律裁决，影响知识产权保护格局",
+      "title": "二手房价三连涨",
+      "summary": "北上广深四大一线城市二手房价环比实现\"三连涨\"，楼市热度持续上升。这一趋势表明一线城市房地产市场正在企稳回暖，但区域分化依然明显。专家分析认为，政策支持、改善型需求释放以及市场预期转变是推动房价上涨的主要因素。楼市热度能否向二三线城市扩散，仍需观察后续政策走向和市场反应。",
+      "reason": "重要经济指标，影响房地产市场和居民财富",
       "impact_areas": [
-        "科技",
-        "法律"
+        "经济金融",
+        "社会"
       ],
       "impact_level": "重大",
       "sources": [
         {
-          "name": "36氪",
-          "url": "https://www.36kr.com/newsflashes/3855284930614528"
+          "name": "财新网",
+          "url": "https://www.caixin.com/2026-06-16/102454726.html"
         }
       ]
     },
     {
-      "title": "燧原科技IPO过会",
-      "summary": "燧原科技IPO辅导状态变更为\"辅导验收\"，虎嗅报道此消息。燧原科技是国内领先的AI芯片设计公司，其IPO过会标志着AI芯片产业获得资本市场认可，可能带动相关产业链发展，加速国产AI芯片替代进程。",
-      "reason": "AI芯片企业IPO过会，引领国产芯片产业发展",
+      "title": "东山精密光芯片项目",
+      "summary": "PCB龙头东山精密宣布拟投资12亿美元实施光芯片及光模块扩建项目。这一投资将大幅提升公司在光通信领域的产能和技术实力，预计将创造大量就业机会。光芯片是5G、数据中心、人工智能等领域的核心组件，市场需求持续增长。此次投资反映了国内企业在高端半导体领域的加速布局，有助于提升我国在全球光通信产业链中的地位。",
+      "reason": "重大产业投资，科技领域突破",
       "impact_areas": [
         "科技",
+        "产业",
         "经济金融"
       ],
       "impact_level": "重大",
       "sources": [
         {
           "name": "36氪",
-          "url": "https://www.36kr.com/newsflashes/3855218182820873"
-        },
+          "url": "https://www.36kr.com/newsflashes/3855759472120839"
+        }
+      ]
+    },
+    {
+      "title": "恒大清盘人斥港证监",
+      "summary": "恒大清盘人公开指责香港证监会越权，拟通过司法复核叫停普华永道赔偿股东10亿港元。这一事件反映了恒大破产清算过程中的复杂法律争议，也对香港国际金融中心的声誉产生影响。恒大作为中国最大的房地产开发商之一，其破产清算对全球投资者信心和中国房地产行业格局产生深远影响。事件进展将持续关注。",
+      "reason": "重大企业破产事件，涉及法律争议和金融监管",
+      "impact_areas": [
+        "经济金融",
+        "政治"
+      ],
+      "impact_level": "重大",
+      "sources": [
         {
-          "name": "虎嗅",
-          "url": "https://www.huxiu.com/article/4867634.html"
+          "name": "财新网",
+          "url": "https://finance.caixin.com/2026-06-16/102454589.html"
         }
       ]
     }
   ],
-  "total_fetched": 279,
-  "generated_at": "2026-06-16T12:26:57.767609+08:00"
+  "total_fetched": 297,
+  "generated_at": "2026-06-16T19:27:17.468369+08:00"
 }
