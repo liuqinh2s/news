@@ -2,59 +2,93 @@
   "date": "2026-06-18",
   "news": [
     {
-      "title": "美伊和平协议生效",
-      "summary": "美国与伊朗临时和平协议于今日正式生效，结束了两国长达数年的紧张对峙。根据协议，美国将部分解除对伊朗的石油制裁，伊朗则承诺限制其核计划发展。协议焦点已转向霍尔木兹海峡的安全保障，该海峡是全球石油运输的关键通道。特朗普总统在G7峰会期间远程签署了备忘录，并多次称赞中国在调解过程中保持\"完全中立\"的态度。协议的生效将缓解中东地区紧张局势，对全球能源市场产生深远影响。",
-      "reason": "美伊和平协议结束多年对峙，全球能源格局面临重大调整。",
-      "impact_areas": [
-        "地缘",
-        "经济金融",
-        "能源"
-      ],
-      "impact_level": "重大",
-      "sources": [
-        {
-          "name": "财新网",
-          "url": "https://database.caixin.com/2026-06-18/102455315.html"
-        }
-      ]
-    },
-    {
-      "title": "美伊协议文本公布",
-      "summary": "美国政府今日公布了与伊朗达成的谅解备忘录全文，包含14项条款。备忘录显示美国将解除部分对伊朗制裁，允许伊朗增加石油出口。这一决定引发共和党阵营内外强烈质疑，多位共和党议员批评此举是对伊朗的\"软弱\"表现。备忘录还涉及伊朗在霍尔木兹海峡的安全承诺，以及美国对伊朗核计划的监督机制。分析人士认为，这一协议可能改变中东地缘政治格局，但也面临国内政治阻力和国际执行挑战。",
-      "reason": "美伊协议文本公布引发美国国内政治风暴，国际关系格局生变。",
+      "title": "美伊签署停战协议",
+      "summary": "美国与伊朗在法国凡尔赛宫签署停战备忘录，结束了长达111天的中东冲突。特朗普总统在签署仪式上表示，该协议为中东地区带来和平希望，但协议核心问题仍未解决，涉及300亿美元资产冻结等争议。伊朗获得经济 lifeline，但需做出让步。以色列对协议表示震惊，美国国内也存在强烈反弹。这一协议将对全球石油市场、地缘政治格局产生深远影响。",
+      "reason": "多平台破圈，多源密集报道的地缘政治重大事件",
       "impact_areas": [
         "政治",
-        "地缘",
-        "经济金融"
-      ],
-      "impact_level": "重大",
-      "sources": [
-        {
-          "name": "财新网",
-          "url": "https://mini.caixin.com/2026-06-18/102455276.html"
-        }
-      ]
-    },
-    {
-      "title": "美联储政策转向",
-      "summary": "美联储今日如期维持利率不变，但议息声明出现重大修改，释放出三个关键变化信号：一是强调通胀压力依然存在，二是暗示未来可能加息，三是表示将评估经济数据以决定下一步政策。新任美联储主席沃什在首场新闻发布会上表现老练沉稳，获得经济学家好评。声明修改反映了美联储对当前经济形势的重新评估，以及对未来政策路径的谨慎调整。市场对此反应谨慎，债券市场出现波动。",
-      "reason": "美联储政策转向信号明确，全球金融市场迎来重要拐点。",
-      "impact_areas": [
         "经济金融",
-        "政治"
+        "地缘"
       ],
-      "impact_level": "重大",
+      "impact_level": "现象级",
       "sources": [
         {
           "name": "澎湃新闻",
-          "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFA3cE43bkxxaHZlRldqTzdlRnh5STg2WFhXYm9HLU1NU1A4aUF1bkZQSl9pekFPQlEwYjV0VlZyYklJcXgxZUxVd1VZckE1aFY1OUhXVkhOcWN1bHFmSzJnSA?oc=5"
+          "url": "https://m.thepaper.cn/detail/33408028"
+        },
+        {
+          "name": "凤凰网",
+          "url": "https://news.ifeng.com/c/8u3gkaUKZ1W"
+        },
+        {
+          "name": "BBC",
+          "url": "https://www.bbc.com/news/articles/cgmd8dgklzzo"
+        },
+        {
+          "name": "NYTimes",
+          "url": "https://www.nytimes.com/2026/06/18/world/middleeast/iran-deal-oil-strait-of-hormuz-nuclear.html"
+        },
+        {
+          "name": "Reuters",
+          "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPWmtpVHRhbEhSaFVkUHNTQUdVY0p1ckdXR1pJVWFmaXhQQkduZE51RTNWYjNQMVNqclhOazlCT2RNSHJ1SnZlNW5OZ25CbHJJOFpubVJhNjY2TURxSlhlQTlINkYwbEgzbUlmTUFTSk85aGFCQzllUUxQX1g3Q2ZTcExYSDJBS0U5M2ZGNDBDNGw4c2lXS0xVU3JnVkJFT2VUcGJfTDBwNnc1RnN6ZGRLcnRB"
         }
       ]
     },
     {
-      "title": "量子计算商用时间表",
-      "summary": "亚马逊全球AI副总裁今日预测，全球首款商用量子计算机将在5至7年内问世，这将彻底改变计算范式。该高管表示，量子计算将解决传统计算机无法处理的复杂问题，在药物研发、气候模拟、金融建模等领域带来革命性突破。亚马逊正大力投资量子计算技术，并已与多家研究机构建立合作关系。这一预测引发科技界广泛关注，量子计算概念股应声上涨。专家认为，量子计算的商用化将开启新一轮科技革命，重塑全球科技竞争格局。",
-      "reason": "量子计算商用时间表明确，科技产业面临新一轮革命。",
+      "title": "乌袭莫斯科炼油厂",
+      "summary": "乌克兰对莫斯科发动了自俄乌全面战争以来最大规模的无人机袭击，目标包括莫斯科炼油厂等关键基础设施。此次袭击导致多处起火，显示乌克兰打击俄罗斯本土纵深能力提升。俄罗斯方面称击落多架无人机，但袭击造成了一定损失。这一事件标志着冲突升级，可能引发更激烈的报复行动，对全球能源市场造成进一步冲击。",
+      "reason": "俄乌冲突重大升级，多平台关注的地缘政治事件",
+      "impact_areas": [
+        "地缘",
+        "经济金融"
+      ],
+      "impact_level": "重大",
+      "sources": [
+        {
+          "name": "凤凰网",
+          "url": "https://news.ifeng.com/c/8u3q7PNZIW0"
+        },
+        {
+          "name": "BBC",
+          "url": "https://www.bbc.com/news/articles/c98291g5rr1o"
+        },
+        {
+          "name": "NYTimes",
+          "url": "https://www.nytimes.com/2026/06/18/world/europe/moscow-ukraine-drone-attack-fire.html"
+        }
+      ]
+    },
+    {
+      "title": "沃什维持利率不变",
+      "summary": "美联储新任主席沃什上任后首次主持货币政策会议，宣布维持基准利率不变，但释放鹰派信号。沃什启动了对美联储运作的全面审查，并成立了多个特别工作组。会议纪要显示，近半数美联储决策者预计2026年将加息。这一政策立场导致债券市场大幅下跌，美元走强，黄金等贵金属价格暴跌。市场预期美联储可能在秋季前维持利率不变，但未来加息路径仍存不确定性。",
+      "reason": "全球央行政策转向，金融市场重大信号",
+      "impact_areas": [
+        "经济金融"
+      ],
+      "impact_level": "重大",
+      "sources": [
+        {
+          "name": "财新网",
+          "url": "https://photos.caixin.com/2026-06-18/102455493.html"
+        },
+        {
+          "name": "Reuters",
+          "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNOVVoOVhjSkc1cnNGNlNHeUVzVkp3NWdJNkMyYW9mTXJUMUc0TTEzdEl0OE9iRjg0YVlTTHA0ZVNPY3gwYXpGa0VsbGVuMlZUTkpZX3dKdHhJOGQyejdNS1dhTjVSeUNibk1TdHM1eWh2eVhpdHpxMU55XzRrYUdtTkNuMExkeGg3a1N0WjJkOFc2RWN1eS1uaUFR"
+        },
+        {
+          "name": "Reuters",
+          "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNXzBsNGR0cnJKd1VEX2Y5TGx1Njdjam9ENFFTdlkzOE51TDNDZ3c3cXlRYTlDam5veTlrRVUzcUVhbEZ6OXZPZDAyV3RaZUtfZjlHMzNpWmpPeXVlYWVTNnY5bThJQXVlRHNLWEhnNEExWmVJY2h0RWZsLWRJREowczFUcTBUNEdWTG1jd2k2WGZSLTRBZFZoeE1VX2MtdThT"
+        },
+        {
+          "name": "Reuters",
+          "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOQ3RGdFdxNnpXLVpLTlkxemJqLUtGWTdweGp6YlNfUWw1M3pQb25JUDc4ZFZKYkR4MnkzSWpLY29sLWRuTFgyOS1pRmdJVE1BUVIycVJKQ3pnNU1DdUN3VThGT08takJiLWhxSGlWb3RCU3ptODRadTNRTXNPZFVETzhUWE9PdkFBNFhmWm9kcnNLS3BMTm5OUTl2U0dsZTg"
+        }
+      ]
+    },
+    {
+      "title": "谷歌研究员跳槽OpenAI",
+      "summary": "谷歌AI研究部门明星研究员跳槽至OpenAI，将领导该公司的AI架构研究。这一人事变动发生在AI技术竞争加剧的背景下，显示科技巨头间的人才争夺白热化。同时，AI模型公司Odyssey完成新一轮融资，估值达14.5亿美元，反映投资者对AI领域的持续看好。Transformer架构创始人离开谷歌，加入OpenAI，预示AI技术路线可能发生重大转变。这些动态将加速AI技术发展，并对全球科技产业格局产生深远影响。",
+      "reason": "AI领域重大人才流动与技术路线转变",
       "impact_areas": [
         "科技",
         "经济金融"
@@ -62,48 +96,110 @@
       "impact_level": "重大",
       "sources": [
         {
-          "name": "雪球热帖",
-          "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNYjJPVFAzTXpQTEdQLVM3VTEwNHczRHpLN0VmZ1VhbGtTOUczTDdqS3Bmb2FVOWdjaDhZZTQxLTdlV1hqTnJWUUxhWjN4R01SMTFsY1p1Y2lfMmhsdHB4WlJlNjBISzFYMDlqNFUtUm54T3YzUUZaVnIyT2tyYS1hRGdkQUMyWnM?oc=5"
+          "name": "财新网",
+          "url": "https://database.caixin.com/2026-06-18/102455424.html"
+        },
+        {
+          "name": "Reuters",
+          "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNS3NKQWNkcHB3M1U1Nk91S01SSi1GMUI3SlE0Tlh3ai1rdk91WGxsSEp3M1lYWks5NC1HQm5JaE5MdzQxa1JIcjNDZmpEczN2MFhDSnFSNlZWc0ZKZkJuV0thWWlBRmpZNDBMMkloN2k4bnBTQWEtTnNyc1RkS05HM2NJZUU2LTg4N1ZkMHo3VFVCU0tVZ2dldGFwMUwxZ3pW"
+        },
+        {
+          "name": "虎嗅",
+          "url": "https://www.huxiu.com/article/4868513.html"
         }
       ]
     },
     {
-      "title": "A股成交额破2万亿",
-      "summary": "今日沪深两市成交额突破2万亿元大关，创下年内新高。其中沪市成交额1.2万亿元，深市成交额8000亿元。市场分析认为，成交额激增反映投资者风险偏好提升，市场活跃度显著提高。科技股、新能源板块领涨，寒武纪等AI概念股涨幅超过15%。机构认为，成交额突破2万亿表明市场资金充裕，风险偏好提升，但同时也需警惕短期过热风险。这一成交水平显示A股市场流动性充裕，为后续市场发展提供了有力支撑。",
-      "reason": "A股成交额创年内新高，市场活跃度显著提升。",
+      "title": "625亿消费品换新资金",
+      "summary": "国家发改委宣布第三批625亿元消费品以旧换新资金将在6月底前下达，旨在刺激消费、促进产业升级。这一政策是扩大内需、稳定经济增长的重要举措，将覆盖家电、汽车、电子产品等多个领域。资金将重点支持绿色智能家电、新能源汽车等高端消费品，推动产业结构优化升级。此举有望提振消费信心，促进相关产业发展，对稳定经济增长、实现全年经济目标具有重要意义。",
+      "reason": "国家重大经济刺激政策，直接影响消费市场",
       "impact_areas": [
         "经济金融",
-        "科技"
-      ],
-      "impact_level": "重大",
-      "sources": [
-        {
-          "name": "36氪",
-          "url": "https://www.36kr.com/newsflashes/3858113460933640"
-        }
-      ]
-    },
-    {
-      "title": "储能产业链重构",
-      "summary": "随着储能市场快速发展，储能产业链正在经历深刻变革，从单纯销售电芯向提供整体解决方案转变。这一趋势正在重塑行业竞争格局，传统电芯企业纷纷向系统解决方案提供商转型。分析人士指出，储能系统化趋势将加速行业整合，提高市场准入门槛，同时推动技术创新和成本下降。头部企业通过垂直整合控制全产业链，而中小企业则专注于细分领域。这一变革不仅影响储能行业，也将对新能源整体发展产生深远影响，加速能源结构转型。",
-      "reason": "储能产业链边界重构，新能源行业竞争格局生变。",
-      "impact_areas": [
-        "科技",
-        "能源",
         "产业"
       ],
       "impact_level": "重大",
       "sources": [
         {
-          "name": "虎嗅",
-          "url": "https://www.huxiu.com/article/4868360.html"
+          "name": "财新网",
+          "url": "https://www.caixin.com/2026-06-18/102455501.html"
         }
       ]
     },
     {
-      "title": "中国居民境外资产多元化",
-      "summary": "光大银行最新研究报告显示，中国居民境外资产配置正在加速，投资策略从过去集中投资香港和美国市场，转向更加多元化的全球布局。报告指出，2026年前五个月，中国居民境外投资同比增长35%，投资目的地扩展至欧洲、东南亚和新兴市场。这一趋势反映了中国投资者风险偏好提升和全球化视野扩大。分析认为，这一变化将重塑全球资本流动格局，影响各国金融市场，同时也为中国企业\"走出去\"创造有利条件。报告建议投资者应根据自身风险承受能力，合理配置境外资产。",
-      "reason": "中国居民境外资产配置多元化，全球资本流动格局生变。",
+      "title": "金融监管总局推进AI应用",
+      "summary": "金融监管总局发布多项政策，推进人工智能在金融行业的应用与治理。包括推进AI金融行业应用基础设施建设、支持金融机构在风险可控前提下推进生成式AI技术应用、加强AI安全开发应用治理等。同时鼓励大型金融机构向中小金融机构输出算力服务，支持同业探索基础设施共建共享。这些政策旨在平衡金融创新与风险防控，推动金融科技健康发展，提升金融服务效率，对金融行业数字化转型具有重要指导意义。",
+      "reason": "金融监管重大政策转向，AI与金融深度融合",
+      "impact_areas": [
+        "科技",
+        "经济金融"
+      ],
+      "impact_level": "重大",
+      "sources": [
+        {
+          "name": "36氪",
+          "url": "https://www.36kr.com/newsflashes/3858551531410441"
+        },
+        {
+          "name": "36氪",
+          "url": "https://www.36kr.com/newsflashes/3858551265662217"
+        },
+        {
+          "name": "36氪",
+          "url": "https://www.36kr.com/newsflashes/3858550775649540"
+        }
+      ]
+    },
+    {
+      "title": "沁源煤矿事故致82死",
+      "summary": "山西沁源县发生煤矿事故，造成82人死亡。事故发生后，当地县长郭晓方辞职，相关责任人被问责。这起事故暴露了煤矿安全生产的严重问题，引发全国对矿山安全的关注。国家已启动安全生产大检查，要求各地加强矿山安全监管。此次事故将对全国煤矿安全生产政策产生深远影响，可能导致更严格的监管措施和安全标准出台，对煤炭行业产生重大影响。",
+      "reason": "重大安全事故，引发全国性关注",
+      "impact_areas": [
+        "社会",
+        "产业"
+      ],
+      "impact_level": "重大",
+      "sources": [
+        {
+          "name": "凤凰网",
+          "url": "https://news.ifeng.com/c/8u3sPDYPj0g"
+        }
+      ]
+    },
+    {
+      "title": "菲律宾强震致78死",
+      "summary": "菲律宾南部发生强烈地震，已造成78人死亡，多人受伤。地震引发多处建筑物倒塌和山体滑坡，救援工作正在进行。这是菲律宾近年来最严重的自然灾害之一，将对当地经济和社会造成重大影响。国际社会已提供援助，帮助受灾地区进行救援和重建。此次地震凸显了环太平洋地震带的风险，对区域防灾减灾体系建设提出更高要求。",
+      "reason": "重大自然灾害，国际关注",
+      "impact_areas": [
+        "社会",
+        "生态"
+      ],
+      "impact_level": "重大",
+      "sources": [
+        {
+          "name": "央视网",
+          "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9xY0V4MWJNa2pXNGZRS3JaU1F2ZGhiX2RPR0hmUm5UdUtFSlFycVQ1ZDYzelo2UnB5dHZ5elNDcGdYTW80clk4TVNjXzgwVFNDRG5UcENaRmM3VnE0TWlJc3ZjdTRSQXV2N2JGM1pDYktCTlZuSjFheg"
+        }
+      ]
+    },
+    {
+      "title": "日元或跌至40年低点",
+      "summary": "交易员预计日元将跌向40年低点，可能成为下一个央行干预门槛。日元持续贬值反映了日本与其他主要经济体货币政策分化的加剧。日本央行维持超宽松货币政策，而美联储等主要央行则进入加息周期。日元贬值对日本出口企业有利，但推高了进口成本，加剧国内通胀压力。日本财务省已表示将密切关注外汇市场，必要时采取行动。日元走势将对全球金融市场、贸易格局产生深远影响。",
+      "reason": "主要货币汇率创历史极值，央行干预信号",
+      "impact_areas": [
+        "经济金融"
+      ],
+      "impact_level": "重大",
+      "sources": [
+        {
+          "name": "财新网",
+          "url": "https://database.caixin.com/2026-06-18/102455417.html"
+        }
+      ]
+    },
+    {
+      "title": "霍尔木兹石油流量或降三成",
+      "summary": "高盛分析师称，霍尔木兹海峡石油流量可能只能恢复至战前的70%，反映了美伊停战后能源市场的新格局。霍尔木兹海峡是全球石油运输的关键通道，承担着全球约20%的石油贸易流量。流量减少将加剧全球能源供应紧张，推高油价，对通胀和经济增长产生负面影响。这一变化将重塑全球能源贸易格局，加速能源多元化趋势，对能源安全和地缘政治产生深远影响。",
+      "reason": "关键能源通道流量重大变化，影响全球能源市场",
       "impact_areas": [
         "经济金融",
         "地缘"
@@ -112,61 +208,11 @@
       "sources": [
         {
           "name": "财新网",
-          "url": "https://finance.caixin.com/2026-06-18/102455335.html"
-        }
-      ]
-    },
-    {
-      "title": "伊朗寻求深化对华合作",
-      "summary": "伊朗议长今日在接受媒体采访时表示，中国是\"独一无二\"的国家，伊朗希望成为中国真正的合作伙伴。这一表态正值美伊临时和平协议生效之际，显示伊朗正在积极寻求与中国深化合作。议长强调，中伊两国在能源、基础设施、科技等领域有广阔合作空间，伊朗愿意成为中国\"一带一路\"倡议的重要参与方。分析人士认为，这一表态反映了伊朗在国际关系调整中寻求新的战略支点，同时也表明中国在中东地区的影响力持续提升。中伊关系的深化将对地区格局产生深远影响。",
-      "reason": "伊朗寻求深化对华合作，中东地缘政治格局生变。",
-      "impact_areas": [
-        "地缘",
-        "政治",
-        "经济金融"
-      ],
-      "impact_level": "重大",
-      "sources": [
-        {
-          "name": "凤凰网",
-          "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE0yQTRYX1puWGRLb3NiS2xnTjRWMlRnaTc1MjU2blNGc2JLOUpLSkwtZU9WdEpjTTM5YUNNdkY1SjNRdWR0a3pJeA?oc=5"
-        }
-      ]
-    },
-    {
-      "title": "AI核心人才流动",
-      "summary": "人工智能领域今日传出重大人事变动，OpenAI成功挖走Transformer架构共同作者之一，这一消息在科技圈引发震动。Transformer架构是当前大语言模型的基础，被广泛应用于GPT、BERT等主流AI模型。被挖走的专家将在OpenAI领导新的研究方向，专注于下一代AI模型架构。分析人士认为，这一人才流动将加速AI技术迭代，改变行业竞争格局。OpenAI此举被视为巩固其在AI领域领先地位的重要举措，也可能引发其他科技巨头的人才争夺战。这一事件凸显了AI人才在科技竞争中的核心地位。",
-      "reason": "AI核心人才流动，行业竞争格局加速演变。",
-      "impact_areas": [
-        "科技",
-        "经济金融"
-      ],
-      "impact_level": "重大",
-      "sources": [
-        {
-          "name": "虎嗅",
-          "url": "https://www.huxiu.com/article/4868355.html"
-        }
-      ]
-    },
-    {
-      "title": "消费品以旧换新加码",
-      "summary": "国家发改委今日公布数据显示，2026年1-5月，已下达今年前两批消费品以旧换新资金1250亿元，覆盖家电、汽车、家具等多个领域。这一政策旨在刺激消费升级，促进绿色低碳产品推广。发改委表示，第三批625亿元补贴资金将于6月底前下达，全年总补贴规模将达1875亿元。分析人士认为，这一政策将有效拉动内需，促进产业升级，同时也有助于实现碳达峰碳中和目标。政策实施以来，家电、汽车等消费品销量显著增长，相关企业业绩普遍改善。",
-      "reason": "国家加大消费品以旧换新补贴力度，内需刺激政策加码。",
-      "impact_areas": [
-        "经济金融",
-        "产业",
-        "社会"
-      ],
-      "impact_level": "重大",
-      "sources": [
-        {
-          "name": "36氪",
-          "url": "https://www.36kr.com/newsflashes/3858092502521088"
+          "url": "https://database.caixin.com/2026-06-18/102455429.html"
         }
       ]
     }
   ],
-  "total_fetched": 265,
-  "generated_at": "2026-06-18T12:28:18.414935+08:00"
+  "total_fetched": 298,
+  "generated_at": "2026-06-18T19:27:35.029623+08:00"
 }
