@@ -1,0 +1,188 @@
+{
+  "date": "2026-06-19",
+  "news": [
+    {
+      "title": "美伊达成停火协议",
+      "summary": "美国与伊朗就结束战争达成谅解备忘录，特朗普宣布\"所有战线都将实现全面停火\"，万斯警告以色列称特朗普是\"唯一强大盟友\"。伊朗最高领袖称特朗普\"出于绝望\"才促成协议。美国中央司令部已解除对伊朗海上封锁，伊朗宣布60天内商船可免费通过霍尔木兹海峡。这一协议可能改变中东地缘政治格局，对全球能源市场产生深远影响。",
+      "reason": "多源密集报道的国际政治外交重大事件，影响全球能源安全与地缘格局",
+      "impact_areas": [
+        "政治",
+        "地缘",
+        "经济金融"
+      ],
+      "impact_level": "重大",
+      "sources": [
+        {
+          "name": "澎湃新闻",
+          "url": "https://m.thepaper.cn/detail/33412893"
+        },
+        {
+          "name": "凤凰网",
+          "url": "https://news.ifeng.com/c/8u4S9IdELIz"
+        },
+        {
+          "name": "BBC",
+          "url": "https://www.bbc.com/news/articles/c8r2eejdd35o?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "name": "NYTimes",
+          "url": "https://www.nytimes.com/live/2026/06/18/world/iran-war-trump-us-deal"
+        }
+      ]
+    },
+    {
+      "title": "尼日尔机场遇袭",
+      "summary": "武装分子袭击尼日尔最大机场，造成35人死亡，其中包括11名安全部队成员。这一事件引发国际社会对尼日尔安全局势的关注。尼日尔近年来政变频发，安全局势持续恶化，此次袭击将进一步加剧地区不稳定。",
+      "reason": "多源报道的安全事件，影响地区稳定",
+      "impact_areas": [
+        "政治",
+        "社会"
+      ],
+      "impact_level": "重大",
+      "sources": [
+        {
+          "name": "BBC",
+          "url": "https://www.bbc.com/news/articles/cdx7krkdqeno?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "name": "NYTimes",
+          "url": "https://www.nytimes.com/2026/06/18/world/africa/niger-armed-attack-airport.html"
+        },
+        {
+          "name": "Reuters",
+          "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQYW5mNHpRemJXNEZjSTVnNUNOSjVWcDF0b3RUSS1ycW9uQk10c2kwRExHZjd5bkQtWHpkMXM1LWhQWlpMWTFWa01JVmp5a3picWxYejdhby1KTzF3NVFCT2MxYVUxc2NyMDMyMlRjcEphSXBvU0FxamhKSnpGNUhKQlYxS3NMVlRtZzg2RDA2MlRZQ0pGWmVHV3JGak84cGx1SDRnNU9VT0N5dw?oc=5"
+        }
+      ]
+    },
+    {
+      "title": "大宗商品指数周跌3.18%",
+      "summary": "中国大宗商品指数周跌3.18%，其中甲醇领跌14.75%。这反映国内大宗商品市场需求疲软，产业链上下游面临压力。甲醇作为重要化工原料，其价格大幅下跌可能影响相关企业盈利能力和产业链利润分配。",
+      "reason": "大宗商品价格创近期极值，反映市场需求变化",
+      "impact_areas": [
+        "经济金融",
+        "产业"
+      ],
+      "impact_level": "重大",
+      "sources": [
+        {
+          "name": "财新网",
+          "url": "https://database.caixin.com/2026-06-19/102455657.html"
+        }
+      ]
+    },
+    {
+      "title": "JCI发布AI医疗应用指南",
+      "summary": "JCI（Joint Commission International）发布医疗机构应用AI指南，为全球医疗机构提供AI应用的标准化框架。该指南强调AI在医疗诊断、治疗决策和患者管理中的应用规范，对中国同行具有重要借鉴价值，将推动国内医疗AI应用向规范化、标准化方向发展。",
+      "reason": "国际权威机构发布AI医疗应用指南，影响全球医疗AI发展方向",
+      "impact_areas": [
+        "科技",
+        "公共卫生"
+      ],
+      "impact_level": "重大",
+      "sources": [
+        {
+          "name": "虎嗅",
+          "url": "https://www.huxiu.com/article/4868673.html"
+        }
+      ]
+    },
+    {
+      "title": "铠侠股价暴涨66倍",
+      "summary": "存储巨头铠侠上市仅18个月股价涨超66倍，从东芝弃子逆袭成日本市值第一企业。这一转变反映全球存储芯片市场格局变化，以及日本半导体产业的复兴迹象。铠侠的成功经验对全球半导体产业具有重要参考价值。",
+      "reason": "半导体企业市值剧变，反映全球存储市场格局重塑",
+      "impact_areas": [
+        "科技",
+        "产业"
+      ],
+      "impact_level": "重大",
+      "sources": [
+        {
+          "name": "虎嗅",
+          "url": "https://www.huxiu.com/article/4868655.html"
+        }
+      ]
+    },
+    {
+      "title": "英伟达CPU压境中国RISC-V迎战",
+      "summary": "随着英伟达进军CPU市场，中国RISC-V架构迎来发展机遇。RISC-V作为开源指令集架构，在AI时代具有独特优势，中国企业和科研机构正加速布局RISC-V生态，以应对国际技术竞争。这场技术竞赛将影响全球计算产业格局。",
+      "reason": "国际芯片巨头进军CPU，中国开源架构加速布局",
+      "impact_areas": [
+        "科技",
+        "产业"
+      ],
+      "impact_level": "重大",
+      "sources": [
+        {
+          "name": "虎嗅",
+          "url": "https://www.huxiu.com/article/4868653.html"
+        }
+      ]
+    },
+    {
+      "title": "半导体ETF大涨4.40%",
+      "summary": "半导体龙头ETF工银净值单日上涨4.40%，反映市场对半导体行业前景乐观。这一涨幅显著高于市场平均水平，表明投资者看好半导体行业未来发展，可能受到AI、5G、新能源汽车等多重因素驱动。",
+      "reason": "半导体ETF单日大涨4.40%，反映行业资金流向重大变化",
+      "impact_areas": [
+        "经济金融",
+        "科技"
+      ],
+      "impact_level": "重大",
+      "sources": [
+        {
+          "name": "雪球热帖",
+          "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNUS1XcEU0anNpQkt6bDAtNVMyM2dlb29TQjRnWkJpV3ZkOFdlalY2SjJnNE4wYlVoVTQ1Z2tDMktDeHFVX0htZkJzd2lXZmdCX3hWWTJBZW9FOWxZcS1WOXJma1hLU1NicGpsdVJtVVhvc2UwWlllMm5jTU00QXpkZ3VYNHVZcHUxYldxcmpIWEpveEV3QUY0?oc=5"
+        }
+      ]
+    },
+    {
+      "title": "汽车ETF上涨3.44%",
+      "summary": "万家汽车新趋势混合C净值单日上涨3.44%，表现优于市场平均水平。这反映投资者对新能源汽车行业前景看好，可能受到政策支持、技术进步和市场需求等多重因素推动。",
+      "reason": "汽车ETF单日大涨，反映新能源汽车行业资金流入",
+      "impact_areas": [
+        "经济金融",
+        "产业"
+      ],
+      "impact_level": "重大",
+      "sources": [
+        {
+          "name": "雪球热帖",
+          "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOVE5yZTZtQ3UtaXJUNktkcGVyQm9IeTRtOW5Pc09jRDdUN2lUWWN1MnRCSkhBMGFrdzYwY1N4VEhSdEtOS0DyRVBNMEg5YWdrWnAtb09JZkZEM01ORWhXZHZPVm10bFhOZDNSbmJ5UC02OWFUZXB1bWFkMjl2ZGpVaEVSQ01rWkVzQnp6VWw0a0lKU05QdlFj?oc=5"
+        }
+      ]
+    },
+    {
+      "title": "劳斯莱斯在华降价百万",
+      "summary": "劳斯莱斯闪灵Series II在中国市场降价，综合让利超100万元，同时免除了40%的大排量税。这一策略旨在提升在中国市场的竞争力，反映豪华汽车品牌对中国市场的重视以及市场竞争加剧。",
+      "reason": "豪华汽车品牌在华大幅降价，反映市场竞争格局变化",
+      "impact_areas": [
+        "产业",
+        "经济金融"
+      ],
+      "impact_level": "重大",
+      "sources": [
+        {
+          "name": "雪球热帖",
+          "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQXzJXcTRXLTQzcXAycURfTHpsdGhFbDZaVDRHTk4zcUNJa1JrV09wamNjRkt3amNGV2JDWnVkUm9tOFpOXzhVa25GZGZybGxhVmJXWHpoUjNHUE9KYlZiRHhCdDN0NUxqOEhYQUhPMm9XRllCV0tCbFFwSzQ0Yk1MR0cxR2N3dw?oc=5"
+        }
+      ]
+    },
+    {
+      "title": "眼镜片县城引入光刻机",
+      "summary": "承包了全球一半眼镜片的浙江县城在车间里引入光刻机，推动产业升级。这一举措显示传统制造业向高科技转型，提升产品附加值和国际竞争力，为中国制造业升级提供典型案例。",
+      "reason": "传统制造业引入高端设备，推动产业升级",
+      "impact_areas": [
+        "产业",
+        "科技"
+      ],
+      "impact_level": "重大",
+      "sources": [
+        {
+          "name": "虎嗅",
+          "url": "https://www.huxiu.com/article/4868665.html"
+        }
+      ]
+    }
+  ],
+  "total_fetched": 201,
+  "generated_at": "2026-06-19T07:27:47.188078+08:00"
+}
