@@ -1,0 +1,196 @@
+{
+  "date": "2026-06-22",
+  "news": [
+    {
+      "title": "美伊谈判陷入僵局",
+      "summary": "美国与伊朗在瑞士举行谈判，双方就核问题展开磋商。特朗普发出'亡国'威胁，导致伊朗代表团退出谈判。尽管美方表示愿意伸出援手，但谈判陷入僵局。美伊谈判对中东地区稳定和全球能源安全有重大影响。",
+      "reason": "多平台密集报道，涉及美伊外交关系，具有高热度",
+      "impact_areas": [
+        "政治",
+        "地缘"
+      ],
+      "impact_level": "重大",
+      "sources": [
+        {
+          "name": "澎湃新闻",
+          "url": "https://m.thepaper.cn/detail/33426063"
+        },
+        {
+          "name": "澎湃新闻",
+          "url": "https://m.thepaper.cn/detail/33425956"
+        },
+        {
+          "name": "凤凰网",
+          "url": "https://news.ifeng.com/c/8u9aCgiobBv"
+        },
+        {
+          "name": "凤凰网",
+          "url": "https://news.ifeng.com/c/8u9QhptBN2G"
+        },
+        {
+          "name": "凤凰网",
+          "url": "https://news.ifeng.com/c/8u9LNkx0uUG"
+        },
+        {
+          "name": "凤凰网",
+          "url": "https://news.ifeng.com/c/8u9GZRwALHH"
+        },
+        {
+          "name": "BBC",
+          "url": "https://www.bbc.com/news/articles/cwy0q41v1lzo?at_medium=RSS&at_campaign=rss"
+        }
+      ]
+    },
+    {
+      "title": "深交所最大规模IPO",
+      "summary": "深交所将迎来史上最大规模IPO，本周有2只新股申购。这一重大事件标志着中国资本市场的重要发展，将对股市格局产生深远影响，同时也反映了当前经济环境下企业融资需求的变化。",
+      "reason": "经济金融领域重大事件，多源密集报道",
+      "impact_areas": [
+        "经济金融"
+      ],
+      "impact_level": "重大",
+      "sources": [
+        {
+          "name": "澎湃新闻",
+          "url": "https://m.thepaper.cn/detail/33426060"
+        },
+        {
+          "name": "36氪",
+          "url": "https://www.36kr.com/newsflashes/3863090608461061"
+        }
+      ]
+    },
+    {
+      "title": "AI+消费政策出台",
+      "summary": "八部门联合发文，加快发展'人工智能+消费'，推动人工智能技术与消费领域深度融合。这一政策将加速AI技术在消费场景的应用，促进产业升级，对科技和消费领域产生深远影响。",
+      "reason": "科技类新闻，政策支持力度大",
+      "impact_areas": [
+        "科技",
+        "经济"
+      ],
+      "impact_level": "重大",
+      "sources": [
+        {
+          "name": "财新网",
+          "url": "https://finance.caixin.com/2026-06-22/102456037.html"
+        }
+      ]
+    },
+    {
+      "title": "国产TGV玻璃基板量产",
+      "summary": "国产TGV玻璃基板技术正加速走向量产，这一突破将打破国外技术垄断，提升我国在显示材料领域的自主创新能力。TGV玻璃基板是高端显示面板的关键材料，其量产将推动我国显示产业链升级。",
+      "reason": "科技类新闻，打破国外技术垄断",
+      "impact_areas": [
+        "科技",
+        "产业"
+      ],
+      "impact_level": "重大",
+      "sources": [
+        {
+          "name": "36氪",
+          "url": "https://www.36kr.com/newsflashes/3863095161148678"
+        }
+      ]
+    },
+    {
+      "title": "AI算力行情持续",
+      "summary": "中信建投研报指出，继续看好AI算力作为本轮行情中长期核心主线的后续表现。这一观点反映了市场对AI算力领域的持续关注，预示着相关产业链将迎来长期发展机遇。",
+      "reason": "科技类新闻，市场关注度高",
+      "impact_areas": [
+        "科技",
+        "经济金融"
+      ],
+      "impact_level": "重大",
+      "sources": [
+        {
+          "name": "36氪",
+          "url": "https://www.36kr.com/newsflashes/3863094039680258"
+        }
+      ]
+    },
+    {
+      "title": "折叠屏iPhone供货",
+      "summary": "供应链公司已向苹果首款折叠屏iPhone小批量供货，标志着苹果正式进入折叠屏手机市场。这一产品创新将引领智能手机行业新趋势，对产业链上下游产生深远影响。",
+      "reason": "科技类新闻，产品创新突破",
+      "impact_areas": [
+        "科技",
+        "产业"
+      ],
+      "impact_level": "重大",
+      "sources": [
+        {
+          "name": "36氪",
+          "url": "https://www.36kr.com/newsflashes/3863091111334914"
+        }
+      ]
+    },
+    {
+      "title": "北欧核电复苏",
+      "summary": "瑞典时隔40多年再建反应堆，标志着北欧地区核电迎来复苏潮。这一趋势反映了欧洲能源结构转型，对全球能源格局和碳中和进程产生深远影响。",
+      "reason": "科技类新闻，能源结构重大变化",
+      "impact_areas": [
+        "科技",
+        "生态",
+        "经济"
+      ],
+      "impact_level": "重大",
+      "sources": [
+        {
+          "name": "36氪",
+          "url": "https://www.36kr.com/newsflashes/3863092201559304"
+        }
+      ]
+    },
+    {
+      "title": "中国企业研发范式转移",
+      "summary": "中国企业研发模式正在经历范式转移，从跟随创新向引领创新转变。这一转变将重塑全球科技竞争格局，提升中国在全球价值链中的地位，对科技产业发展产生深远影响。",
+      "reason": "科技类新闻，产业格局变化",
+      "impact_areas": [
+        "科技",
+        "产业"
+      ],
+      "impact_level": "重大",
+      "sources": [
+        {
+          "name": "虎嗅",
+          "url": "https://www.huxiu.com/article/4869015.html"
+        }
+      ]
+    },
+    {
+      "title": "AI与国防科技",
+      "summary": "人工智能技术在国防领域的应用日益广泛，正在重塑现代战争形态。AI技术与传统兵器的结合，以及其在战略决策中的应用，将对国家安全和国际关系产生深远影响。",
+      "reason": "科技类新闻，国防领域重大变革",
+      "impact_areas": [
+        "科技",
+        "政治",
+        "军事"
+      ],
+      "impact_level": "重大",
+      "sources": [
+        {
+          "name": "虎嗅",
+          "url": "https://www.huxiu.com/article/4869011.html"
+        }
+      ]
+    },
+    {
+      "title": "陆家嘴论坛定调",
+      "summary": "陆家嘴论坛明确了当前中国经济金融的几个大方向，包括金融开放、科技创新和绿色金融等。这些方向将引导未来政策走向，对经济金融领域产生深远影响。",
+      "reason": "经济金融领域重大事件，政策导向明确",
+      "impact_areas": [
+        "经济金融",
+        "政治"
+      ],
+      "impact_level": "重大",
+      "sources": [
+        {
+          "name": "虎嗅",
+          "url": "https://www.huxiu.com/article/4869010.html"
+        }
+      ]
+    }
+  ],
+  "total_fetched": 170,
+  "generated_at": "2026-06-22T07:27:05.976409+08:00"
+}
