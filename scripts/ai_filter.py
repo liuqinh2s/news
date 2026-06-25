@@ -777,6 +777,16 @@ def main():
 
     logger.info(f"✅ AI 筛选完成，共 {len(filtered)} 条重大新闻")
 
+    # 抓到了原始新闻却一条都没筛出来，几乎一定是 AI 调用全失败（密钥失效/欠费/过载），
+    # 而非"今天真的没新闻"。非零退出让 CI 标红报警，并阻止后续 commit 覆盖掉历史好报告。
+    if news_items and not filtered:
+        logger.error(
+            f"❌ 抓取到 {len(news_items)} 条原始新闻，但 AI 筛选结果为 0 条，"
+            f"判定为 AI 调用全部失败，以非零状态退出。请检查各 provider 的 API key 是否有效/欠费。"
+        )
+        sys.exit(1)
+
+
 
 if __name__ == "__main__":
     main()
