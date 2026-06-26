@@ -1,0 +1,190 @@
+{
+  "date": "2026-06-27",
+  "news": [
+    {
+      "title": "委内瑞拉强震致近千人死亡",
+      "summary": "委内瑞拉连续强震已造成至少920人死亡，逾5万人失踪。联合国官员表示情况严峻，中国公民遇难人数升至7人。震区医院等基础设施严重损毁，国际救援队从美多州启程支援。特朗普政府与委方就援助沟通，但委军方反应迟缓引发民众不满。此次地震是委内瑞拉近年来最严重自然灾害，进一步加剧该国已深陷危机的人道主义状况。",
+      "reason": "重大自然灾害致近千人死亡，国际关注度高，对中国公民有直接影响，多源密集报道。",
+      "impact_areas": [
+        "社会",
+        "国际关系"
+      ],
+      "impact_level": "现象级",
+      "sources": [
+        {
+          "name": "凤凰网",
+          "url": "https://news.ifeng.com/c/8uHbVApJtbH"
+        },
+        {
+          "name": "澎湃新闻",
+          "url": "https://m.thepaper.cn/detail/33466235"
+        },
+        {
+          "name": "凤凰网",
+          "url": "https://news.ifeng.com/c/8uHdOQz0s88"
+        }
+      ]
+    },
+    {
+      "title": "美军空袭伊朗，霍尔木兹海峡告急",
+      "summary": "美国军方对伊朗发动打击，报复此前商船在霍尔木兹海峡遇袭事件。伊朗革命卫队回应称挫败部分袭击并誓言严厉报复，同时否认伊美已建立沟通热线。特朗普指责伊朗违反停火协议，伊朗随后撕毁协议。雪球热帖称霍尔木兹海峡即将迎来原油48小时考验，市场对油价飙升的担忧加剧。美伊冲突骤然升级，中东地缘风险陡增。",
+      "reason": "美伊直接军事冲突，影响全球能源安全与金融市场，热度极高且持续发酵。",
+      "impact_areas": [
+        "地缘政治",
+        "经济金融"
+      ],
+      "impact_level": "现象级",
+      "sources": [
+        {
+          "name": "澎湃新闻",
+          "url": "https://m.thepaper.cn/detail/33466124"
+        },
+        {
+          "name": "凤凰网",
+          "url": "https://news.ifeng.com/c/8uHt3JZWjE0"
+        },
+        {
+          "name": "雪球热帖",
+          "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOSGZoZnVfYmQzdTA1MnRTWmx1OFdScktfTE1EMkFBaDVGM2FIQmd2b21PVENmY04tUXBPS3NRYmxkMDBGTkNRVWFoSUc2Z1I0WjMyT1h5MTRIR1VxQ04tVm9CTWJiaUozVDNWSjFkdkt0SFpQS0dhQjNySXpQMkRndUtxd0xRS09LMDJQQWM2UQ?oc=5"
+        }
+      ]
+    },
+    {
+      "title": "GPT-5.6正式发布",
+      "summary": "OpenAI发布最新大语言模型GPT-5.6，号称史上最强但存在严重缺陷。新模型在推理、多模态、代码生成等方面大幅提升，但被曝出在特定任务上输出不稳定、产生误导性信息。业界评价两极，部分专家认为模型能力飞跃，另一些人担忧安全风险。此次发布距离GPT-5仅隔数月，AI军备竞赛进一步白热化。",
+      "reason": "AI重大突破，影响科技行业与人类未来，科技新闻权重高，多平台热议。",
+      "impact_areas": [
+        "科技",
+        "社会"
+      ],
+      "impact_level": "现象级",
+      "sources": [
+        {
+          "name": "虎嗅",
+          "url": "https://www.huxiu.com/article/4870791.html"
+        }
+      ]
+    },
+    {
+      "title": "欧洲致命热浪破纪录",
+      "summary": "一场极端热浪席卷欧洲，德国打破历史最高气温纪录，多个城市暂停公共活动。巴黎、伦敦等城市建筑不适应高温导致居民生活困难。热浪预计将向东和向南移动，欧洲多国进入高度警戒状态。此次热浪已造成数十人死亡，成为欧洲近年来最严重的极端天气事件之一，凸显气候变化适应性建设的紧迫性。",
+      "reason": "极端天气致生命损失，影响欧洲社会与经济活动，多源报道且持续升级。",
+      "impact_areas": [
+        "社会",
+        "生态环境"
+      ],
+      "impact_level": "重大",
+      "sources": [
+        {
+          "name": "BBC",
+          "url": "https://www.bbc.co.uk/news/articles/cx2knzzwprgo?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "name": "Reuters",
+          "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNSFpyUUxIa0FodFcxY3p5aHVfTUJ4WUVmaXB0bnluSlVWNjZGTTlYY1pfOW5fUVRUUXQzeFpMb1ZndzlWVkkyV1ZZd0ZtM2NHNkU4QU9vVm1raUJwQmtEOWtfdjBaT0tvUlp3dkxPdnJtbGxydzRFTTZ0V1JTVEQ1NHI3ZHpUYUpaRnhOS25GSldLNzFzX2lVZl9R?oc=5"
+        }
+      ]
+    },
+    {
+      "title": "美以黎签署三方框架协议",
+      "summary": "在美国斡旋下，以色列与黎巴嫩签署三方框架协议，旨在推进黎南部安全安排。美国宣布设立军事协调小组协助协议落实。以色列总理表示在黎真主党解除武装前，以军将驻留黎南部安全区。该协议被视为中东和平进程的重要一步，但真主党立场与执行细节仍存不确定性。",
+      "reason": "中东重大外交进展，影响地区格局，多源权威报道。",
+      "impact_areas": [
+        "地缘政治",
+        "国际关系"
+      ],
+      "impact_level": "重大",
+      "sources": [
+        {
+          "name": "凤凰网",
+          "url": "https://news.ifeng.com/c/8uHhHJDf2S4"
+        },
+        {
+          "name": "央视网",
+          "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBMQmVrd0Y0ZG9sOUtIeldHQ2NocDN2TlBHcnplODVCU0VsTDJYNy1WZXRXU09hZG9Bamx4NkUtZGtNaW4xSHFadDRad2IzaUFTbGs0X1BXdFMzUEMyUHpNOERWYzJtNzRtbW01ZTZnTmdOaXAwYlU0bA?oc=5"
+        }
+      ]
+    },
+    {
+      "title": "布基纳法索宣布与法国断交",
+      "summary": "布基纳法索政府宣布与法国断绝外交关系，成为继马里、尼日尔之后又一与法国断交的萨赫勒国家。此举进一步削弱法国在西非的影响力，反映该地区反法情绪高涨与俄罗斯势力渗透加深。断交可能引发区域安全真空，影响反恐合作与萨赫勒地区稳定。",
+      "reason": "重要地缘政治事件，标志非洲法郎区影响力衰退，影响国际格局。",
+      "impact_areas": [
+        "地缘政治",
+        "国际关系"
+      ],
+      "impact_level": "重大",
+      "sources": [
+        {
+          "name": "凤凰网",
+          "url": "https://news.ifeng.com/c/8uHiI0WoCWM"
+        }
+      ]
+    },
+    {
+      "title": "全球车企深陷危机大规模裁员",
+      "summary": "虎嗅报道全球车企疯狂‘割肉’，要么瘦要么死。多家汽车制造商被迫大规模裁员、关厂，以应对电动化转型成本高企、市场竞争加剧及需求疲软。传统车企面临生存压力，行业洗牌加速。这一趋势将深刻影响汽车产业链就业、供应链格局及全球经济。",
+      "reason": "汽车产业格局重大变化，影响就业与全球制造业，科技与经济双重影响。",
+      "impact_areas": [
+        "经济金融",
+        "科技",
+        "产业"
+      ],
+      "impact_level": "重大",
+      "sources": [
+        {
+          "name": "虎嗅",
+          "url": "https://www.huxiu.com/article/4870794.html"
+        }
+      ]
+    },
+    {
+      "title": "美国散户今年涌入半导体ETF创纪录",
+      "summary": "数据显示，2026年至今散户投资者向美国上市半导体交易所交易基金注入225亿美元，创历史新高。芯片类股票需求持续激增，反映出市场对AI和科技行业的乐观情绪。这一资金流向信号表明散户对半导体景气周期的强烈参与，可能对板块估值及市场波动产生显著影响。",
+      "reason": "重要市场信号，显示散户情绪与资金流向，对科技投资有指示意义。",
+      "impact_areas": [
+        "经济金融",
+        "科技"
+      ],
+      "impact_level": "重大",
+      "sources": [
+        {
+          "name": "雪球热帖",
+          "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPcXItcjR0a0FUaE10Q1ZfUGM3WkQ2d056YnVEdEhRdDhVc2lEcDlpMHhyaHFUR1A1NERXallheGVKbllYTmJ5VngtNGZQbWN3bnNud2xUSFRNaVpXZlJpZnh6aWVjZ0tINkozMmJYMzBvQ3MyeGZDZWNtbWU2dlA0NlN0NExLLW5UTEREV0FBaw?oc=5"
+        }
+      ]
+    },
+    {
+      "title": "标普确认美国AA+评级展望稳定",
+      "summary": "标普评级确认美国主权信用评级为AA+/A-1+，展望维持稳定。尽管美国债务负担高企，但经济弹性与制度优势支撑评级。该结论缓解了市场对美国财政可持续性的短期担忧，对全球债券市场与美元走势具有稳定作用，但长期挑战仍存。",
+      "reason": "影响全球金融市场的重要评级确认，对投资者信心有直接作用。",
+      "impact_areas": [
+        "经济金融"
+      ],
+      "impact_level": "重大",
+      "sources": [
+        {
+          "name": "雪球热帖",
+          "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQbVFTWFVuX0ctdkNkUDVhWmswMG92NGFUOVV1YXFvWHUtOXh0UnlhMGNGazYtV0drMFNQMjZUaDZJOFdkRWVjcmNqdFhjeFR1RDQwOTE5cVpJcHl0OWl2YlY0NmJ5UEo5ak5iVktramZtS3hvMEUtY3BJeGVNbHhkZ3lwNkVBZ3RmTzZfUGptbw?oc=5"
+        }
+      ]
+    },
+    {
+      "title": "银价单周暴跌逾9%受PCE影响",
+      "summary": "截至6月26日，银价自周一以来累计下跌9.1%，主要受最新PCE（个人消费支出）报告影响。通胀数据超预期引发美联储收紧预期，贵金属承压。白银作为工业金属和避险资产的双重属性使其波动尤为剧烈。此次大跌对贵金属投资者、工业用户及矿企产生即时影响。",
+      "reason": "大宗商品价格极端波动，反映宏观信号，对投资决策有重要参考价值。",
+      "impact_areas": [
+        "经济金融"
+      ],
+      "impact_level": "重大",
+      "sources": [
+        {
+          "name": "雪球热帖",
+          "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPNk52QjgtdXduN0ZPSWJLUG9MRnkyenI3NWxfcWNCc1Y0WElRUWJzUTlQQkxhbzdVYW11ejg4RWJFcjU5X0xRMWNoYWc5ajI3VDUtVWNWNFB2SlFJYWMyN1J5cG1QOGx3R3hKRzlLaGVDRE02RTNha3g1ZzgzTTA3NndJYWp1TldFYjJqUFU2QQ?oc=5"
+        }
+      ]
+    }
+  ],
+  "total_fetched": 180,
+  "generated_at": "2026-06-27T07:26:26.200097+08:00"
+}
