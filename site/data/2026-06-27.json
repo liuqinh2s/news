@@ -2,28 +2,9 @@
   "date": "2026-06-27",
   "news": [
     {
-      "title": "工业企业利润增18.8%",
-      "summary": "国家统计局6月27日发布数据显示，2026年1-5月份全国规模以上工业企业实现利润总额同比增长18.8%，增速较1-4月加快2.4个百分点。其中，电子行业利润同比增长103.9%，有色金属冶炼和压延加工业增长117.1%，采矿业增长33.5%。5月当月利润增速显著回升，反映企业盈利持续改善。该数据是宏观经济的重要先行指标，显示工业生产端景气度向好，但需关注外需放缓和成本压力。",
-      "reason": "国家统计局发布的月度工业企业利润数据是判断经济走势的核心指标，增速超预期回升具有重要信号意义。",
-      "impact_areas": [
-        "经济金融"
-      ],
-      "impact_level": "重大",
-      "sources": [
-        {
-          "name": "澎湃新闻",
-          "url": "https://m.thepaper.cn/detail/33466606"
-        },
-        {
-          "name": "36氪",
-          "url": "https://www.36kr.com/newsflashes/3870818137969925"
-        }
-      ]
-    },
-    {
-      "title": "美伊冲突加剧互设热线",
-      "summary": "6月27日，美军公布最新袭击伊朗画面，此前美伊在签署谅解备忘录后发生交火，双方相互放狠话。同日，伊朗高级官员指责特朗普不遵守谈判原则，而美国则设立军事协调小组协助落实美以黎框架协议。为管控危机，伊美就霍尔木兹海峡问题建立沟通热线。冲突已导致全球油价剧烈波动，国际航运安全受到威胁，中东局势再度紧张。",
-      "reason": "美伊冲突持续升级，涉及霍尔木兹海峡这一全球能源咽喉，直接影响油价和地缘格局，多源密集报道。",
+      "title": "美伊冲突再起，美军空袭伊朗",
+      "summary": "美军对伊朗发动空袭，报复伊朗攻击霍尔木兹海峡商船。伊朗强烈谴责，称美方违反伊美谅解备忘录，并表示将迅速果断回应。双方已建立沟通热线，但局势紧张。美伊冲突升级引发全球关注，国际油价波动，霍尔木兹海峡航行安全受到威胁。",
+      "reason": "多源报道、高热度，地缘冲突直接影响全球能源市场与中东稳定",
       "impact_areas": [
         "地缘",
         "经济金融"
@@ -31,8 +12,12 @@
       "impact_level": "现象级",
       "sources": [
         {
-          "name": "凤凰网",
-          "url": "https://news.ifeng.com/c/8uIIJuUNpNy"
+          "name": "BBC",
+          "url": "https://www.bbc.co.uk/news/articles/ckg590wqxwpo?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "name": "NYTimes",
+          "url": "https://www.nytimes.com/2026/06/27/world/middleeast/us-iran-deal-vague-language.html"
         },
         {
           "name": "央视网",
@@ -41,109 +26,93 @@
       ]
     },
     {
-      "title": "欧洲致命热浪创纪录",
-      "summary": "欧洲遭遇史上最严酷热浪，初步数据显示德国气温创历史最高纪录，法国、英国等地也出现极端高温。热浪导致多起死亡事件，公共活动被迫取消，伦敦和巴黎等城市因空调普及率低而面临健康危机。科学家断言若无气候变化，此类极端事件不可能发生。热浪预计将继续东移南下，影响更多地区。",
-      "reason": "极端天气事件造成人员伤亡和经济损失，德国高温破纪录，反映气候变化加剧，引发广泛关注。",
+      "title": "委内瑞拉强震已致920人遇难",
+      "summary": "委内瑞拉强震死亡人数升至920人，其中包括7名中国公民。震区出现哄抢潮，医院紧急状态。国际救援队抵达，多国提供援助。地震对该国脆弱经济造成重大打击，此前经济刚有起色。",
+      "reason": "高热度、重大人道主义危机，多源连续报道",
       "impact_areas": [
         "社会",
-        "公共卫生",
-        "生态"
+        "国际关系"
+      ],
+      "impact_level": "现象级",
+      "sources": [
+        {
+          "name": "BBC",
+          "url": "https://www.bbc.co.uk/news/articles/c39y79g7gzko?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "name": "财新网",
+          "url": "https://international.caixin.com/2026-06-27/102458192.html"
+        },
+        {
+          "name": "NYTimes",
+          "url": "https://www.nytimes.com/2026/06/27/world/americas/venezuelas-economy-earthquake.html"
+        }
+      ]
+    },
+    {
+      "title": "中俄第11次联合空中战略巡航",
+      "summary": "中俄两军组织实施第11次联合空中战略巡航，展示战略互信与协同能力。此举引发国际关注，被视为对地区安全格局的回应。此前中俄曾进行多次联合巡航，此次规模与路线备受外界猜测。",
+      "reason": "重大地缘军事合作，影响亚太安全格局",
+      "impact_areas": [
+        "地缘",
+        "政治"
       ],
       "impact_level": "重大",
       "sources": [
         {
+          "name": "澎湃新闻",
+          "url": "https://m.thepaper.cn/detail/33468283"
+        },
+        {
           "name": "凤凰网",
-          "url": "https://news.ifeng.com/c/8uIHg9vbl2d"
+          "url": "https://news.ifeng.com/c/8uIloqC251y"
+        }
+      ]
+    },
+    {
+      "title": "欧洲致命热浪破纪录，多地停摆",
+      "summary": "英国连续三天打破最高温纪录，德国创下历史新高，公共活动停摆。巴黎、伦敦等地住房缺乏空调，民众酷热难耐。热浪预计东移南扩，多国进入紧急状态。高温致死风险增加，基础设施承压。",
+      "reason": "重大气候事件，影响数亿人口健康与经济活动",
+      "impact_areas": [
+        "社会",
+        "生态环境"
+      ],
+      "impact_level": "重大",
+      "sources": [
+        {
+          "name": "BBC",
+          "url": "https://www.bbc.co.uk/news/articles/cx2knzzwprgo?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "name": "Reuters",
+          "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNSFpyUUxIa0FodFcxY3p5aHVfTUJ4WUVmaXB0bnluSlVWNjZGTTlYY1pfOW5fUVRUUXQzeFpMb1ZndzlWVkkyV1ZZd0ZtM2NHNkU4QU9vVm1raUJwQmtEOWtfdjBaT0tvUlp3dkxPdnJtbGxydzRFTTZ0V1JTVEQ1NHI3ZHpUYUpaRnhOS25GSldLNzFzX2lVZl9R?oc=5"
+        }
+      ]
+    },
+    {
+      "title": "黎以美达成三方框架协议",
+      "summary": "黎巴嫩、以色列在美国斡旋下达成三方框架协议，以军从两区域撤离但仍在黎南部驻军。协议旨在降低边境冲突，为长期停火铺路。德国外长表示支持协议落实，强调黎巴嫩对武力垄断的重要性。",
+      "reason": "中东和平重要进展，影响区域稳定与全球外交格局",
+      "impact_areas": [
+        "地缘",
+        "政治"
+      ],
+      "impact_level": "重大",
+      "sources": [
+        {
+          "name": "财新网",
+          "url": "https://international.caixin.com/2026-06-27/102458295.html"
         },
         {
           "name": "BBC",
-          "url": "https://www.bbc.co.uk/news/articles/cx2knzzwprgo"
+          "url": "https://www.bbc.co.uk/news/articles/cg5315n1v5go?at_medium=RSS&at_campaign=rss"
         }
       ]
     },
     {
-      "title": "委内瑞拉强震920人遇难",
-      "summary": "委内瑞拉连续强震已致920人遇难，国际救援队陆续抵达。联合国全力配合赈灾，但灾情严重，医院倒塌、民众被困。已确认有7名中国公民遇难。美国、中国等多国派遣救援队和援助物资。地震考验美委关系，特朗普此前曾声称要'接管'委内瑞拉，正面临人道主义挑战。",
-      "reason": "重大自然灾害造成近千人死亡，多国参与救援，国际社会高度关注，人道危机严峻。",
-      "impact_areas": [
-        "社会",
-        "地缘"
-      ],
-      "impact_level": "重大",
-      "sources": [
-        {
-          "name": "央视网",
-          "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9iNk5COFBfNlY3bGxiVFNlOFQwaHRxOVFCMHhqRlp0LVQ0VXNsaVJ3bk9reHhKWWJBbnRpN3l2ZzlHS0pubE14aS16d2N4NFRkcXp3c3RxdGJfOFRUcFpQaE9hRGdRVE1CRTNfZFVHcmRWTk1icnAyTA?oc=5"
-        },
-        {
-          "name": "BBC",
-          "url": "https://www.bbc.co.uk/news/articles/c39y79g7gzko"
-        }
-      ]
-    },
-    {
-      "title": "核聚变超导磁体获突破",
-      "summary": "中国核聚变堆超导磁体研发取得重要突破，相关成果由中科院等单位实现。该技术是可控核聚变的关键环节，有助于提升等离子体约束性能，加速聚变能商用化进程。核聚变被视为终极清洁能源，中国在该领域的持续突破将极大推动全球能源转型，具有里程碑意义。",
-      "reason": "核聚变是未来能源方向，中国超导磁体突破标志技术进展，科技类新闻权重高，影响深远。",
-      "impact_areas": [
-        "科技",
-        "生态"
-      ],
-      "impact_level": "重大",
-      "sources": [
-        {
-          "name": "凤凰网",
-          "url": "https://news.ifeng.com/c/8uIFAX8lw11"
-        },
-        {
-          "name": "36氪",
-          "url": "https://www.36kr.com/newsflashes/3870820130018562"
-        }
-      ]
-    },
-    {
-      "title": "SpaceX纳入纳斯达克100",
-      "summary": "纳斯达克宣布，SpaceX将于2026年7月7日正式纳入纳斯达克100指数。这是继SpaceX去年上市后的又一重要里程碑，彰显其在航天运输、卫星互联网等领域的主导地位。纳入指数将吸引大量被动资金配置，进一步推高其市值，并带动航天板块关注度。",
-      "reason": "SpaceX作为全球最具价值的未上市公司之一（现已上市），纳入主要指数标志其进入主流资本市场，影响广泛。",
-      "impact_areas": [
-        "科技",
-        "经济金融"
-      ],
-      "impact_level": "重大",
-      "sources": [
-        {
-          "name": "36氪",
-          "url": "https://www.36kr.com/newsflashes/3870812987954181"
-        },
-        {
-          "name": "雪球",
-          "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPVEVJejJFN0ltZlBhOUJuaF9lZ2hEMVVPNEhOUHc1amJQcGY0d3RQa0ZkeGFSNkNxdWlVbmhVN3FaTlZDMjl1bU92cTZlMVB4VnJoQVZaYVpOQmxFWWRVOHFjWm1QeTBaeGhsNEpNM204VDVVTzZxTmhxNHF0TzB4emNSSjFLU2hIZXdpY3QzTQ?oc=5"
-        }
-      ]
-    },
-    {
-      "title": "OpenAI发布GPT-5.6预览",
-      "summary": "OpenAI宣布开启下一代模型GPT-5.6系列的限量预览。该模型在推理、多模态和代码生成等方面显著提升，但OpenAI采取了保守的渐进式发布策略，仅对部分用户开放。GPT-5.6的发布标志着AI能力再次跃升，可能加速行业洗牌，同时引发关于安全、就业和监管的新一轮讨论。",
-      "reason": "GPT-5.6是AI领域重要迭代，影响科技行业乃至社会，科技新闻权重高，市场关注度极高。",
-      "impact_areas": [
-        "科技"
-      ],
-      "impact_level": "重大",
-      "sources": [
-        {
-          "name": "36氪",
-          "url": "https://www.36kr.com/newsflashes/3870811056821506"
-        },
-        {
-          "name": "虎嗅",
-          "url": "https://www.huxiu.com/article/4870834.html"
-        }
-      ]
-    },
-    {
-      "title": "证监会顶格处罚债券私募",
-      "summary": "证监会开出首张顶格罚单，处罚债券私募机构及相关责任人，债市'红人'鲍娇艳被处以5年市场禁入和禁止交易。该案涉及债券违规交易和操纵，是监管部门从严整治债券市场乱象的标志性事件，释放了零容忍信号，将影响私募行业合规生态。",
-      "reason": "证监会首次顶格处罚债券私募，彰显监管决心，对金融市场秩序有重要警示作用。",
+      "title": "证监会首开顶格罚单处罚债券私募",
+      "summary": "证监会对债券私募机构开出顶格罚单，债市红人鲍娇艳被5年市场禁入并禁交易。这是监管部门强化债券市场监管的信号，打击违规行为，维护市场秩序。对债券市场参与主体具有强烈警示作用。",
+      "reason": "重大金融监管动作，影响债券市场和私募行业",
       "impact_areas": [
         "经济金融"
       ],
@@ -156,45 +125,68 @@
       ]
     },
     {
-      "title": "黎以美达成三方框架协议",
-      "summary": "黎巴嫩、以色列和美国达成三方框架协议，以色列同意从黎南部两个区域撤军，但仍维持部分驻军。美国设立军事协调小组协助落实协议，同时伊朗因素影响地区局势。这是黎以冲突以来首个重要外交突破，但黎方对以色列部分驻军仍存分歧，和平进程面临不确定性。",
-      "reason": "黎以协议是中东地缘政治重大进展，经美国斡旋达成，影响地区稳定和国际关系。",
+      "title": "功率半导体再调价，AI电源订单爆满",
+      "summary": "功率半导体行业再度阶梯式调价，厂商表示AI相关电源功率订单爆满，产能供不应求。反映出AI算力需求激增对上游硬件的拉动，同时也带来下游成本压力。产业格局持续变化，国产替代进程加速。",
+      "reason": "科技产业重要供需信号，AI上游产业链景气度风向标",
       "impact_areas": [
-        "地缘"
+        "科技",
+        "经济金融"
       ],
       "impact_level": "重大",
       "sources": [
         {
-          "name": "财新网",
-          "url": "https://international.caixin.com/2026-06-27/102458295.html"
-        },
-        {
-          "name": "BBC",
-          "url": "https://www.bbc.co.uk/news/articles/cg5315n1v5go"
+          "name": "36氪",
+          "url": "https://www.36kr.com/newsflashes/3871215128237313"
         }
       ]
     },
     {
-      "title": "中国加快建设新型能源体系",
-      "summary": "据测算，中国计划预计投资超20万亿元建设新型能源体系，涵盖风电、光伏、氢能、储能等领域。该体系旨在实现能源结构转型，保障能源安全，同时推动相关产业发展。专家指出，新型能源体系是经济新增长点，将重塑工业格局，但需解决技术成本和消纳问题。",
-      "reason": "超20万亿投资规模巨大，涉及国家能源战略和产业转型，影响经济与环保方向。",
+      "title": "DeepSeek新模型生成速度提升85%",
+      "summary": "DeepSeek在首轮融资后发表署名论文，推出新模型，生成速度大幅提升85%。此举可能降低AI推理成本，加速大模型应用落地。技术突破引发业界关注，巩固其在开源大模型领域的竞争力。",
+      "reason": "AI重大技术突破，对行业格局和成本效率影响深远",
       "impact_areas": [
-        "经济金融",
-        "生态"
+        "科技"
       ],
       "impact_level": "重大",
       "sources": [
         {
-          "name": "澎湃新闻",
-          "url": "https://m.thepaper.cn/detail/33459893"
-        },
+          "name": "虎嗅",
+          "url": "https://www.huxiu.com/article/4870885.html"
+        }
+      ]
+    },
+    {
+      "title": "苹果寻求从长鑫存储采购内存芯片",
+      "summary": "外媒报道苹果正寻求获准从中国存储芯片厂商长鑫存储购买内存芯片，以分散供应链风险。此举若获批，将打破现有内存市场格局，利好国产芯片，同时也面临美国政策审查。供应链多元化趋势再添案例。",
+      "reason": "科技供应链重大动向，影响全球存储芯片竞争格局",
+      "impact_areas": [
+        "科技",
+        "经济金融"
+      ],
+      "impact_level": "重大",
+      "sources": [
         {
-          "name": "央视网",
-          "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5xRFRJanFYVnlNVV9KYnNOYlBEY2VLTUN5SHBMUHl2VkdUR2d0NW5yT28wX2VaN2FjUEJISDJPblplVXhjT19oQkRxay1YNF9obm1CVjVLS2p2N0dRR3JSenZ4WkhLaDVzbzBsbUZURDFuYVkzWVp1Ug?oc=5"
+          "name": "36氪",
+          "url": "https://www.36kr.com/newsflashes/3871131045876995"
+        }
+      ]
+    },
+    {
+      "title": "主力资金大调仓，超267亿元撤出",
+      "summary": "今日A股市场主力资金大规模调仓，超267亿元从科技股（易中天）撤出，转向其他板块。信号显示市场风格可能切换，投资者风险偏好变化。对科技板块短期走势形成压力，需关注后续资金流向。",
+      "reason": "重要的市场资金信号，反映机构投资者动向和风险偏好",
+      "impact_areas": [
+        "经济金融"
+      ],
+      "impact_level": "重大",
+      "sources": [
+        {
+          "name": "36氪",
+          "url": "https://www.36kr.com/newsflashes/3871211760882689"
         }
       ]
     }
   ],
-  "total_fetched": 291,
-  "generated_at": "2026-06-27T12:26:49.446742+08:00"
+  "total_fetched": 305,
+  "generated_at": "2026-06-27T19:26:14.161364+08:00"
 }
