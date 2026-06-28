@@ -2,122 +2,163 @@
   "date": "2026-06-28",
   "news": [
     {
-      "title": "委内瑞拉地震死亡超1400",
-      "summary": "委内瑞拉强震遇难人数已升至1430人，救援工作仍在进行，最大机场部分恢复运营。外国救援队面临废墟、物资短缺和时间赛跑。地震导致卫生系统危机加剧，志愿者涌入反而阻碍救援。此次地震对委内瑞拉本已脆弱的经济造成重创，此前经济刚有起色。",
-      "reason": "严重人道主义灾难，死亡超1400，全球关注，救援持续，影响深远。",
+      "title": "OpenAI发布GPT-5.6降价",
+      "summary": "OpenAI于6月28日正式发布GPT-5.6模型，并宣布大幅降价，意图抢占市场份额，开启美国大模型价格战。新模型在推理、代码生成等方面有显著提升，同时降低API调用成本，将对AI应用生态产生深远影响。此举可能倒逼其他厂商跟进降价，加速AI技术普及，但也引发对行业盈利模式的担忧。",
+      "reason": "AI大模型巨头发布新品并降价，直接改变行业竞争格局，影响广泛。",
       "impact_areas": [
-        "政治",
-        "社会",
+        "科技"
+      ],
+      "impact_level": "现象级",
+      "sources": [
+        {
+          "name": "财新网",
+          "url": "https://www.caixin.com/2026-06-28/102458451.html"
+        }
+      ]
+    },
+    {
+      "title": "美伊互袭，停火面临考验",
+      "summary": "美国与伊朗在6月28日再次相互发动军事打击。伊朗革命卫队宣布打击了8处美军设施，并威胁将让美军基地体验“地狱”般的感受。特朗普随后确认美军已打击伊朗导弹和无人机储存地点，双方相互指责对方违反停火协议。此前达成的临时停火协议面临破裂风险，霍尔木兹海峡航运安全再度紧张，国际油价可能剧烈波动。",
+      "reason": "美伊直接军事冲突升级，威胁中东稳定和全球能源供应。",
+      "impact_areas": [
+        "地缘",
         "经济金融"
       ],
       "impact_level": "现象级",
       "sources": [
         {
-          "name": "凤凰网",
-          "url": "https://news.ifeng.com/c/8uJFAalew5v"
+          "name": "央视网",
+          "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE0zYTB0c0hIMnZ5a2tldGplQ0t4YlpaTFJ4eFI4TjBvbFhrUEN0bGNmYnNFeGloNXZwQzdDbE12X2RGTUI1bHdEUTV0bWY0eWxYOFZSNjBLcmtSN2FpYzVURDU2eThtd2dzZWlLWDRsQlM4Yzd1eEZzTw?oc=5"
         },
         {
-          "name": "BBC",
-          "url": "https://www.bbc.co.uk/news/articles/cp8l451420zo"
+          "name": "央视网",
+          "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5QTGRMREYzS0M3aVRjZmJ1NndNQTBCR3FUTVdJMEZzNWJ0czJOVVdEa0dULUVvamtKRkg5bTM0WnRuYnBjM3RhOFhyLWswX0loT2Fjc3NyMFROaldrY3d5Q3R6YjJIODZ6aWlfRm1uaHRGVGdSc1VPOQ?oc=5"
         }
       ]
     },
     {
-      "title": "美伊冲突升级 油轮被击中",
-      "summary": "美国再次对伊朗实施军事打击，伊朗格什姆岛村庄遭多枚投射物击中。一枚油轮在霍尔木兹海峡被击中，成为自和平协议以来最严重升级。双方互相攻击，考验停火协议。冲突可能导致霍尔木兹海峡航运中断，威胁全球原油供应。",
-      "reason": "美伊冲突急剧升级，霍尔木兹海峡遇袭，全球能源市场面临剧烈波动风险。",
+      "title": "欧洲极端高温破纪录",
+      "summary": "6月28日，欧洲多国遭遇极端热浪袭击，德国、丹麦、捷克等国打破历史高温纪录，近2亿人面临超过35摄氏度高温。热浪导致用电需求激增，多地发布健康预警，并加剧干旱风险。科学家指出，此次高温与气候变化密切相关，极端天气事件频率和强度正在上升。",
+      "reason": "波及数亿人口，对公共健康、能源和农业产生直接冲击。",
       "impact_areas": [
-        "政治",
-        "经济金融",
-        "地缘"
-      ],
-      "impact_level": "现象级",
-      "sources": [
-        {
-          "name": "澎湃新闻",
-          "url": "https://m.thepaper.cn/detail/33470204"
-        },
-        {
-          "name": "Reuters",
-          "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOamVFR0VfZVlNU01BWjNWakdNczVUSHAzNWFlM0J3MGV1b0ZmbldmdnhQUHVpLTNabjVZSG5tSDJ0RDlQREk0emJnT3ZGbjFEZjVpTEt2UDgxOXpMdWV3dTIzX1ZtQVNpeUdDRVplMkUxd0FVNzNPTEFwZ3BVSUo4SG1BcHFDeEdYS2tIM3RUaWpZNEtyeWlub0h5c29pNjJmdDZ6Y2tha2hKWkNGa3Y0Y2JNYnk4ZWJuUlk4?oc=5"
-        }
-      ]
-    },
-    {
-      "title": "以色列威胁长期驻留黎南部",
-      "summary": "以色列国防部长指示以军做好长期驻留黎巴嫩南部'安全区'的准备。此前黎以美框架协议遭真主党拒绝，真主党斥之为'投降'。以军同时空袭黎南部，黎国内因协议分歧爆发抗议。此举加剧中东紧张局势，可能引发新一轮冲突。",
-      "reason": "以色列拟长期占领黎南部，真主党拒约，中东局势再紧张，影响地区稳定。",
-      "impact_areas": [
-        "政治",
-        "地缘"
-      ],
-      "impact_level": "重大",
-      "sources": [
-        {
-          "name": "凤凰网",
-          "url": "https://news.ifeng.com/c/8uJEPe20nQX"
-        },
-        {
-          "name": "BBC",
-          "url": "https://www.bbc.co.uk/news/articles/cx2kpn0eeweo"
-        }
-      ]
-    },
-    {
-      "title": "塞尔维亚总统武契奇将辞职",
-      "summary": "塞尔维亚总统武契奇表示将在数周后辞职。武契奇长期执政，其辞职可能引发塞尔维亚政治格局变动，对巴尔干地区稳定产生影响。原因尚未明确，可能与国内抗议或政治压力有关。",
-      "reason": "巴尔干重要国家领导人突然宣布辞职，可能引发区域政治连锁反应。",
-      "impact_areas": [
-        "政治"
-      ],
-      "impact_level": "重大",
-      "sources": [
-        {
-          "name": "澎湃新闻",
-          "url": "https://m.thepaper.cn/detail/33470073"
-        },
-        {
-          "name": "凤凰网",
-          "url": "https://news.ifeng.com/c/8uJHxQ4qngM"
-        }
-      ]
-    },
-    {
-      "title": "欧洲多国创纪录热浪",
-      "summary": "热浪打破德国、丹麦和捷克等国气温纪录，欧洲多国遭遇极端高温。持续高温可能引发干旱、野火及公共卫生问题，对农业生产和能源供应构成压力。空调普及率低的欧洲国家面临热死亡风险。",
-      "reason": "极端气候事件影响欧洲核心地区，威胁生命健康及经济，具有广泛社会影响。",
-      "impact_areas": [
-        "社会",
         "生态",
-        "经济金融"
+        "社会",
+        "公共卫生"
       ],
       "impact_level": "重大",
       "sources": [
         {
           "name": "BBC",
-          "url": "https://www.bbc.co.uk/news/articles/cx2vdydz31no"
+          "url": "https://www.bbc.co.uk/news/articles/cx2vdydz31no?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "name": "凤凰网",
+          "url": "https://news.ifeng.com/c/8uK1fAeYutP"
         }
       ]
     },
     {
-      "title": "日本岩手县近海6.1级地震",
-      "summary": "日本岩手县近海发生6.1级地震，目前暂无重大伤亡报告。日本位于地震活跃带，该地震可能引发对海啸和核安全的担忧。日本政府正在评估灾情。",
-      "reason": "6级以上地震发生在日本，可能引发次生灾害，需关注后续影响。",
+      "title": "武契奇宣布将辞职",
+      "summary": "塞尔维亚总统武契奇于6月28日宣布将在几周内辞职，有分析认为此举可能为其出任总理铺平道路。武契奇在讲话中提到了中国和俄罗斯，强调塞尔维亚将继续保持与中俄的友好关系。此举引发国内政治格局变动，各方关注未来塞尔维亚外交政策的连续性。",
+      "reason": "塞尔维亚总统辞职影响巴尔干地缘政治格局，涉及中俄关系。",
+      "impact_areas": [
+        "政治",
+        "地缘"
+      ],
+      "impact_level": "重大",
+      "sources": [
+        {
+          "name": "凤凰网",
+          "url": "https://news.ifeng.com/c/8uJyW6LmLie"
+        }
+      ]
+    },
+    {
+      "title": "兰大调查教师论文AI水印",
+      "summary": "兰州大学教师杨某某的论文图表被指含有AI生成水印，引发学术不端争议。6月28日，兰州大学回应称已成立专项调查组启动调查。该事件再次引发公众对学术诚信和AI辅助科研边界的讨论，可能推动高校完善AI使用规范。",
+      "reason": "暴露AI在学术中滥用风险，影响科研诚信体系建设。",
+      "impact_areas": [
+        "教育",
+        "科技"
+      ],
+      "impact_level": "重大",
+      "sources": [
+        {
+          "name": "澎湃新闻",
+          "url": "https://m.thepaper.cn/detail/33470634"
+        },
+        {
+          "name": "澎湃新闻",
+          "url": "https://m.thepaper.cn/detail/33470630"
+        }
+      ]
+    },
+    {
+      "title": "青海海西州发生4.2级地震",
+      "summary": "6月28日，青海海西州直辖区发生4.2级地震，震源深度10千米。目前尚无人员伤亡和财产损失报告。地震未引发海啸预警，但当地应急部门已启动响应机制，密切监测后续情况。",
+      "reason": "虽震级不大，但发生在青藏高原活跃地带，需警惕次生灾害。",
       "impact_areas": [
         "社会"
       ],
       "impact_level": "重大",
       "sources": [
         {
-          "name": "澎湃新闻",
-          "url": "https://m.thepaper.cn/detail/33470202"
+          "name": "央视网",
+          "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE4zQUoxU0RJTVFKTnNmbEtPS1pwZkpJT3FUcTNYRU9vU1RoNUgxZjZsNkx4WTBMczVHNjZxdm5ZU3hjVFlPblVJTlFqOFU1Q0Y5c001bDdtN3NvNS1iZV9oODFtYk5xbUZvOUpxQnZIT21DZ2tNZDFSNA?oc=5"
         }
       ]
     },
     {
-      "title": "C909商运十周年交付186架",
-      "summary": "中国国产支线飞机C909（原ARJ21）商业运营十周年，累计交付186架，占国内支线机队70%。已安全运送旅客超千万人次，标志着中国民用航空制造业取得重要进展，提升了国产飞机市场份额。",
-      "reason": "国产飞机里程碑事件，展现中国航空工业成就，对民航产业格局有实质影响。",
+      "title": "前5月物流总额超146万亿",
+      "summary": "6月28日公布的物流运行数据显示，今年前五个月我国社会物流总额超过146万亿元，同比增长平稳，物流需求保持增长态势。其中工业品物流、进口物流等细分领域表现稳健，反映出国民经济运行总体平稳、活力持续。",
+      "reason": "关键经济先行指标，反映宏观经济运行状况。",
+      "impact_areas": [
+        "经济金融"
+      ],
+      "impact_level": "重大",
+      "sources": [
+        {
+          "name": "央视网",
+          "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBZQkwzaUEyUWt3ckttZnp0dElFbHY0dWRVcVM5QXlvcV9tckl5c0d4NVduVnpHYk5lTm14UkpRcFJPYk1ENENrWVV2dVY3OVFVY1hkSFBFMDhqQUprQ1MtcWdSYVZ1a1B0aWF6TVVMOXQwejBKMEVTRw?oc=5"
+        }
+      ]
+    },
+    {
+      "title": "汽车碰撞新国标将实施",
+      "summary": "一批汽车安全碰撞测试新国家标准将于近期实施，新标准对侧面碰撞和后面碰撞的考核更加严苛，增加了对乘员保护的要求，并引入了新的测试场景。这将促使车企提升车辆结构安全设计，消费者有望获得更安全的汽车产品。",
+      "reason": "直接影响汽车行业设计和成本，提升道路安全水平。",
+      "impact_areas": [
+        "产业",
+        "社会"
+      ],
+      "impact_level": "重大",
+      "sources": [
+        {
+          "name": "央视网",
+          "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1fcDR0aXVESFNqaUhQT3FLRnB0eFBzbjFRcGdGYmY3WUo5S3ZFRE1aQVVuaXAzOGtxNzloNm5fbkxvMlFnSkpPdkJlNVZGVXhOWUlBTTQ2cjJHaUdVeF82SVpzN0x6OWkxOG5XeDJQZ2UyTWZXdUNZTw?oc=5"
+        }
+      ]
+    },
+    {
+      "title": "第四代半导体项目落户郑州",
+      "summary": "国内首个第四代半导体材料（氧化镓）全产业链项目正式落户郑州，项目涵盖从衬底、外延到器件的完整环节。氧化镓被视为下一代功率半导体材料，相比碳化硅具有更高耐压和更低损耗优势。此举将助力我国在宽禁带半导体领域实现自主可控，抢占技术制高点。",
+      "reason": "第四代半导体产业链落地，具有战略意义，推动国产替代。",
+      "impact_areas": [
+        "科技",
+        "产业"
+      ],
+      "impact_level": "重大",
+      "sources": [
+        {
+          "name": "36氪",
+          "url": "https://www.36kr.com/newsflashes/3872140630692872"
+        }
+      ]
+    },
+    {
+      "title": "5月户均流量创纪录",
+      "summary": "6月28日发布的通信行业数据显示，今年5月我国户均移动互联网流量达到创纪录的24.01GB，同比增长显著。这反映了移动数据消费持续高速增长，视频、直播等应用驱动流量需求，对网络基础设施建设和运营商资费策略有重要导向意义。",
+      "reason": "反映数字化生活深化的核心指标，影响通信投资决策。",
       "impact_areas": [
         "科技",
         "经济金融"
@@ -125,61 +166,12 @@
       "impact_level": "重大",
       "sources": [
         {
-          "name": "澎湃新闻",
-          "url": "https://m.thepaper.cn/detail/33470236"
-        }
-      ]
-    },
-    {
-      "title": "7月起新规施行涉新能源车",
-      "summary": "7月1日起一批新规施行，包括新能源车两项新国标、自动扣费规范等。新国标提升电动车安全性和充电兼容性，自动扣费新规要求平台提供便捷退订方式。对消费市场和行业产生广泛影响。",
-      "reason": "全国性新规实施，涉及新能源车和消费者权益，影响范围广，具有社会意义。",
-      "impact_areas": [
-        "社会",
-        "科技",
-        "经济金融"
-      ],
-      "impact_level": "重大",
-      "sources": [
-        {
-          "name": "澎湃新闻",
-          "url": "https://m.thepaper.cn/detail/33470225"
-        }
-      ]
-    },
-    {
-      "title": "美国有限开放Mythos AI",
-      "summary": "出于国家安全考量，美国允许向可信机构有限开放Anthropic的Mythos人工智能模型。Mythos是前沿AI模型，此前因安全风险被限制。此举标志美国政府在大规模AI模型监管上的新举措，平衡创新与安全，对全球AI治理具有示范意义。",
-      "reason": "前沿AI模型开放政策调整，影响AI行业发展和国家AI安全战略。",
-      "impact_areas": [
-        "科技",
-        "政治"
-      ],
-      "impact_level": "重大",
-      "sources": [
-        {
-          "name": "雪球热帖",
-          "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPS2hvOUQxeGxTOWRzbVE4M1hBdl9DREcxTWpSNnljd2RqVk5ldVVNUGVWNEoydFUyNkVwZVR2NWFhd1M3ZVpXMHJkX0FVMk5sR3FBb3AxNnFQNnFjX1pFQTdoV0EtVDN0LWtPRnlxZFNXcy04X0NObHpIcVpRVVItUmpmeXpOaHNqclgxeUxJUQ?oc=5"
-        }
-      ]
-    },
-    {
-      "title": "Meta暂停鼠标追踪引AI隐私争议",
-      "summary": "Meta暂停其鼠标追踪功能，该功能被指用于AI训练，涉及用户隐私。此举暴露大型科技公司在AI数据收集方面的风险，引发AI伦理和用户数据保护讨论。Meta此决定可能影响其广告业务和AI发展策略。",
-      "reason": "Meta的AI数据隐私争议，反映科技巨头在AI发展与隐私保护间的博弈，对行业有警示作用。",
-      "impact_areas": [
-        "科技",
-        "社会"
-      ],
-      "impact_level": "重大",
-      "sources": [
-        {
-          "name": "雪球热帖",
-          "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNTjltMkpaZ0pkb2JrZDF2ZmVoQUU3Nll1R211OC1JMUNxeTl2MGM5VHU1aGlxcnFTbW92dmoxT29ybWJqQWwtTGVlblQ2TVp3aTF5WkdLaDlhZDVad0F5UkstMHRDUC1acENOLVFEaUVvdWJRTmZHV1ZnYnFFMVBmWjVGRkU0QU5Peng3TGdRVQ?oc=5"
+          "name": "财新网",
+          "url": "https://mini.caixin.com/2026-06-28/102458438.html"
         }
       ]
     }
   ],
-  "total_fetched": 184,
-  "generated_at": "2026-06-28T07:26:30.257153+08:00"
+  "total_fetched": 255,
+  "generated_at": "2026-06-28T12:26:31.788333+08:00"
 }
