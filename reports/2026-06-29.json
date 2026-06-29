@@ -2,60 +2,37 @@
   "date": "2026-06-29",
   "news": [
     {
-      "title": "委内瑞拉地震救援持续",
-      "summary": "6月29日，委内瑞拉地震救援进入关键期，黄金72小时已过，仍有约5万人失联。救援队从废墟中救出33人，其中包括一名11岁男孩。首都加拉加斯一家乡村俱乐部被临时改为医院。国际媒体需办证才能进入重灾区，居民称实际死亡人数远超官方数字。世界卫生组织警告，灾后可能爆发疫情。委内瑞拉所有教育机构继续停课。",
-      "reason": "多源持续报道，人道主义危机严重，国际关注度高",
-      "impact_areas": [
-        "社会",
-        "公共卫生"
-      ],
-      "impact_level": "重大",
-      "sources": [
-        {
-          "name": "BBC",
-          "url": "https://www.bbc.co.uk/news/articles/cr47dvywvy5o?at_medium=RSS&at_campaign=rss"
-        },
-        {
-          "name": "凤凰网",
-          "url": "https://news.ifeng.com/c/8uLXf7HNPJM"
-        },
-        {
-          "name": "央视网",
-          "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9uTDBTeldnR1N1VjVSWXU3MXJBclQ1NHlKc05QZXVMNUVwMEtvMThsaXFGS09ENjctbW8xSUw5VW11TlFnNUFjOXBSS19lbUZud0RuMjNXNEVBVUFnZWFQU3A3TlBrcFdSUkF0NDk1UllyTk95aGFUTA?oc=5"
-        }
-      ]
-    },
-    {
-      "title": "美伊达成暂停攻击协议？",
-      "summary": "6月29日，美国和伊朗据悉同意在本周会谈前停止互相攻击。但伊朗官方称因近期遭袭，已取消参加28日技术性谈判。此前双方在霍尔木兹海峡附近多次交火。美国暗示已就暂停海峡袭击达成协议，但伊朗未证实。伊朗官员表示将维护在霍尔木兹海峡的影响力。国际油价因供应重启预期大跌。",
-      "reason": "地缘冲突影响全球能源供应，多源交叉报道，热度高",
+      "title": "美伊达成协议暂停敌对",
+      "summary": "美国与伊朗达成协议，双方同意暂停敌对行动。此前伊朗因遭袭取消参加技术性谈判，美国则表示已同意‘退让’。此举缓解了中东紧张局势，全球股市上涨，油价回落。但协议措辞模糊，和平谈判前景仍存不确定性。",
+      "reason": "多源密集报道，全球关注度极高，直接影响中东局势和能源市场",
       "impact_areas": [
         "地缘",
         "经济金融"
       ],
-      "impact_level": "重大",
+      "impact_level": "现象级",
       "sources": [
         {
-          "name": "财新网",
-          "url": "https://database.caixin.com/2026-06-29/102458564.html"
+          "name": "Reuters",
+          "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPYUFwVXVYYUk3ZXZGYUhac1BmQjhYN1JiSHM5SlhvWW9taHVTRkFZeVlrNFVfTl8wQVY0VTc3ekNEd1EyX2NMYjdNZXFwWi1WMFJWTHVIaE8yNTNNVWR4NkFHelBmSFlwYWdjRTZQREo4elhtYnNhZ3RMMjg2ckttSw?oc=5"
         },
         {
-          "name": "Reuters",
-          "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNcjJ0V01LU0UwTXVYdzY5LXk2SURZV0t2cVhsZ1NyWVlHUklkeHVKZ1FQTHQ5bVdwcWFQZ09RajN0YXFsY01qR1J1OVNJcF96Qkg4SndTX1hzU0REN29aWDZfMHNkVGhzZC1qdVkzNlJtX2dscC1EZU9yM1lBSmNxZ3Z4cF9oSEdXLXRHc3hkSjU2NUN6UGNEM0ItSjl0OEJtcjR6VnN1czEtTEpRYzlTOTJ0dVRjbTVlYWZySkg0QW0zU29uR1VUdXJ1d2k?oc=5"
+          "name": "BBC",
+          "url": "https://www.bbc.co.uk/news/articles/c872rjw17qpo?at_medium=RSS&at_campaign=rss"
         },
         {
           "name": "NYTimes",
-          "url": "https://www.nytimes.com/live/2026/06/28/world/us-iran-strikes-hormuz"
+          "url": "https://www.nytimes.com/live/2026/06/29/world/hormuz-us-iran-strikes"
         }
       ]
     },
     {
       "title": "欧洲热浪致1300余人死亡",
-      "summary": "世界卫生组织6月29日通报，欧洲近期热浪已导致超过1300例超额死亡，德国创下41.7℃历史最高温。多国出现森林火灾，美国科罗拉多-犹他边境大火致3名消防员死亡。高温加剧能源紧张和健康风险，欧洲多国启动高温应急机制。联合国警告气候变化将导致极端天气常态化。",
-      "reason": "公共健康危机显著，多国受影响，持续关注度高",
+      "summary": "欧洲遭遇极端热浪，德国气温创下41.7℃纪录。世界卫生组织统计，欧洲已记录到与高温相关的1300多例超额死亡。东南欧多地爆发野火，各国面临严重电力短缺和健康危机。",
+      "reason": "大规模健康影响，多国受灾，持续性强，引发全球对气候变化的关注",
       "impact_areas": [
         "公共卫生",
-        "生态"
+        "生态",
+        "社会"
       ],
       "impact_level": "重大",
       "sources": [
@@ -66,85 +43,86 @@
         {
           "name": "央视网",
           "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5LdE5DZFhPM1BvY3FicEd2cHNiOXRSZzVQYTZCQVhMZ044SmVMVWhCMlZ1Qm5QcTFtNEhTZXpRUVdySUwwUEs2UFNCa18tSXhOSzMtRkFTbklRRnhyWmVLaG15MmpMVC1iYno1Yldmenl0Q1M2S1JmUA?oc=5"
+        },
+        {
+          "name": "Reuters",
+          "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNdUdWNDdZSlk3My1oa1J2cXVWVUhTSktxbWFKdEppN05sV3VUSGRFSHZZYURua1FQeFNpZzVUb0RtRXd4OWdqdEZBcS1aQ2RHRmVSS1VSaW1vLXB6akZta2twUU85NFVvOG9PNHhYMDRnNjN3emIxdHJ4TGJLLXIwbDVuSFBsekJyVDJzV3RfMFMxcmoyd0FDUFd0RHVCZE9rVy1vR0l3dW9wck5CWGRDdC15bkhvSEo2WS1J?oc=5"
         }
       ]
     },
     {
-      "title": "中国将20家日本实体列入出口管制名单",
-      "summary": "6月29日，中国商务部宣布将20家日本实体列入出口管制管控名单，并称此举完全正当、合理、合法，旨在坚决遏制日本“新型军国主义”妄动。此前中方已将这些实体列入关注名单。这是中日关系紧张的最新升级，可能影响两国经贸和科技合作。日方对此表示强烈抗议。",
-      "reason": "重大外交事件，涉及进出口管制，影响双边关系及全球供应链",
+      "title": "巴基斯坦打击阿富汗致数十死",
+      "summary": "巴基斯坦在靠近阿富汗边境地区实施地面打击，造成超过30人死亡。巴方称针对恐怖分子据点，阿富汗方面强烈谴责。此举加剧地区紧张局势，可能影响阿塔与巴基斯坦关系。",
+      "reason": "重大地缘冲突，多源报道，影响南亚安全局势",
       "impact_areas": [
-        "政治",
-        "经济金融"
+        "地缘",
+        "社会"
       ],
       "impact_level": "重大",
       "sources": [
         {
-          "name": "凤凰网",
-          "url": "https://news.ifeng.com/c/8uLYFIN3cUI"
+          "name": "NYTimes",
+          "url": "https://www.nytimes.com/2026/06/29/world/asia/pakistan-afghanistan-strikes.html"
         },
         {
-          "name": "凤凰网",
-          "url": "https://news.ifeng.com/c/8uLZBMbmhWv"
+          "name": "BBC",
+          "url": "https://www.bbc.co.uk/news/articles/cy8wygyed0wo?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "name": "央视网",
+          "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5vWVNmaTNoUmw5MnAwWVdoVTZLWVl5djN5VHNnbU5yS3VoVDZzbTFHQko2RWpOOHJfbG1zMDlfYlpEdlVsU1RCTmxybDFTcFR2bDRIb1YwU1lLTHpZRExTVXVQZmFNWXJUQ09zZDZlX2xwTEl0T0hvag?oc=5"
         }
       ]
     },
     {
-      "title": "普京称俄面临命运攸关时刻",
-      "summary": "俄罗斯总统普京6月29日发表讲话，称俄罗斯面临命运攸关时刻，将坚定捍卫自身根本利益。他建议乌俄双方均停止打击对方领土纵深目标。同日，俄新兵前线平均存活时间仅半小时，入伍奖励高达54万卢布。俄乌冲突持续升级，国际社会关注局势走向。",
-      "reason": "俄乌冲突核心动态，普京最新表态影响战争进程与全球安全",
+      "title": "国常会通过碳达峰等规划",
+      "summary": "国务院常务会议审议通过《“十五五”碳达峰行动方案》和《国民健康“十五五”规划》，并听取人工智能发展情况汇报。方案将指导未来五年碳减排路径，健康规划聚焦公共卫生体系，AI汇报体现国家对科技战略的高度重视。",
+      "reason": "国家层面重大政策，影响经济结构和产业方向，科技权重高",
       "impact_areas": [
-        "地缘",
+        "经济金融",
+        "科技",
+        "公共卫生"
+      ],
+      "impact_level": "重大",
+      "sources": [
+        {
+          "name": "36氪",
+          "url": "https://www.36kr.com/newsflashes/3874159730775041"
+        },
+        {
+          "name": "36氪",
+          "url": "https://www.36kr.com/newsflashes/3874157190452230"
+        },
+        {
+          "name": "36氪",
+          "url": "https://www.36kr.com/newsflashes/3874155328034054"
+        }
+      ]
+    },
+    {
+      "title": "中方将20家日本实体列入管控",
+      "summary": "商务部公布将20家日本实体列入出口管控关注名单。外交部表示此举针对少数实体，合理合法。此前日本曾就中国海警船巡航提出交涉，中方予以反驳。此举显示贸易摩擦升级，影响两国经贸关系。",
+      "reason": "地缘经济重大事件，涉及出口管制，影响供应链和企业",
+      "impact_areas": [
+        "经济金融",
         "政治"
       ],
       "impact_level": "重大",
       "sources": [
         {
-          "name": "凤凰网",
-          "url": "https://news.ifeng.com/c/8uLXgdYBlXS"
+          "name": "央视网",
+          "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9VU0Rkc3dIUlJkNndWWS1jU0VBWTg2YzZVZHY5S093dF9Wdk9yZWJkcU9mVU4xWkdIZ0FnUnZNWkJGUUlsN25WX2RTY2ZpV2ZyMXdIcXdiM3NuSDFCR0ZGdWVMUnNXLUdNb29nX1lZR0UwN21BT0xYcQ?oc=5"
         },
         {
-          "name": "央视网",
-          "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBnMmVDdWdFQUlQSVEzeFgtZlR0bHdzYWhLQ2lCWnJKR0podXdVLU1fWGdaa3ZjU3psbGI1a3FpaERLcGxtMDZ3UVQ5cTJud3lXYTJWV2Fqa3Z1RU42Mm1OT3dBQWdUME5QbXBjM0g0SUNQUU0tVUZxSA?oc=5"
+          "name": "澎湃新闻",
+          "url": "https://m.thepaper.cn/detail/33476711"
         }
       ]
     },
     {
-      "title": "三条世界级高性能碳纤维生产线投产",
-      "summary": "6月29日，三条世界级高性能碳纤维生产线在各地集中投产，标志着我国在高性能碳纤维领域取得重大突破。碳纤维是航空航天、新能源汽车等高端制造的关键材料，此次投产将大幅提升国产替代能力，降低对外依赖，推动相关产业链升级。预计年产能将满足国内约30%的需求。",
-      "reason": "重大科技产业突破，打破国外垄断，对高端制造业影响深远",
-      "impact_areas": [
-        "科技",
-        "产业"
-      ],
-      "impact_level": "重大",
-      "sources": [
-        {
-          "name": "央视网",
-          "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9HNEM4ckNGOVBOUGwtUS1PdDhuNFNidDVnTFpCUlVXcDlXdkNZeUJHcWNQY0tlanczQUtLNFBnNjk5ekFGV0ZDNTdwX0NyTkt0VVF6WVMwYlV0dTdkTFhNRmR2YlgxS2ZKVEtoLU5IUFVjMDVuN0RnQw?oc=5"
-        }
-      ]
-    },
-    {
-      "title": "三星SK计划十年投资1.3万亿美元",
-      "summary": "据财新网6月29日消息，韩国三星电子和SK集团据报将在未来十年投资1.3万亿美元，重点发展半导体、人工智能和新能源等前沿技术。这是韩国企业史上最大规模投资计划，将深刻影响全球半导体和科技产业格局，并加速韩国经济结构转型。",
-      "reason": "全球科技巨头巨额投资，影响半导体产业链和未来科技竞争",
-      "impact_areas": [
-        "科技",
-        "经济金融"
-      ],
-      "impact_level": "重大",
-      "sources": [
-        {
-          "name": "财新网",
-          "url": "https://database.caixin.com/2026-06-29/102458566.html"
-        }
-      ]
-    },
-    {
-      "title": "1-5月电子行业利润同比增103.9%",
-      "summary": "中国工业和信息化部数据显示，2026年1-5月，规模以上电子制造业利润总额同比增长103.9%，增速远高于其他行业。主要受益于人工智能、数据中心、消费电子等需求强劲，以及国产替代加速。但前5月电信业务收入同比下降1.9%，显示传统通信业务承压。",
-      "reason": "关键经济先行指标，反映科技制造业高景气度，影响资本市场预期",
+      "title": "特朗普威胁加征数字服务税",
+      "summary": "特朗普威胁对征收数字服务税的国家加征100%关税，欧洲首当其冲。此举可能引发新一轮贸易战，影响全球科技公司和欧洲经济。此前美国也已对农民推出关税减免计划。",
+      "reason": "重大贸易政策动向，影响全球经济和科技行业",
       "impact_areas": [
         "经济金融",
         "科技"
@@ -153,29 +131,71 @@
       "sources": [
         {
           "name": "财新网",
-          "url": "https://www.caixin.com/2026-06-29/102458539.html"
+          "url": "https://international.caixin.com/2026-06-29/102458729.html"
+        },
+        {
+          "name": "Reuters",
+          "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOaDl6YWZ4emt3dWRQTGZnS0ZmMjh1ZllRVG9tVDBTWENxNEh6cktTVkhNLU40TXlpdVJSU0NWZVBCM0gtdzRmQjljeXpVc0F6ZXVuSGlNaWU3T1lxWHRidXk1NFdLbDNXMmJ1RWVDdlRnSDd5bDVsY093THBYdTZiYXlOaEpjc0hpRUNqX3llOFFDREhDbEx3?oc=5"
         }
       ]
     },
     {
-      "title": "国际清算银行警告全球经济多重压力",
-      "summary": "国际清算银行（BIS）6月29日发布报告，警告全球经济面临地缘冲突、通胀粘性、债务高企和气候变化等多重压力，金融脆弱性上升。BIS呼吁各国加强政策协调，防范系统性风险。报告特别指出，中东局势和极端天气可能加剧能源和粮食价格波动。",
-      "reason": "权威国际机构预警，影响全球宏观政策预期和金融市场",
+      "title": "DeepSeek V4正式版7月上线",
+      "summary": "DeepSeek宣布V4正式版将于7月上线，并引入峰谷定价机制。该模型性能大幅提升，峰谷定价有助于降低使用成本。此举将对AI大模型市场竞争格局产生重要影响。",
+      "reason": "科技突破性进展，AI领域重大产品发布，行业关注度高",
       "impact_areas": [
-        "经济金融"
+        "科技"
       ],
       "impact_level": "重大",
       "sources": [
         {
-          "name": "央视网",
-          "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBuRmxpZFA4eVctdWtLbFdiR2l2STZJVFpLMTYtQUVaTGRZLWRTVnRueTR6TUkwQUhBT3pNbnBRb3E1S3d4ei0xemdVT19BSlhaX2V1ZEVQckp3TmNxRG1lMlFOaGQ5ei0yTlQwQ01OT1F0cEl6dXdzUg?oc=5"
+          "name": "36氪",
+          "url": "https://www.36kr.com/newsflashes/3874139626984448"
         }
       ]
     },
     {
-      "title": "南部战区在南海例行巡航",
-      "summary": "6月29日，中国人民解放军南部战区组织海空力量位南海海域进行例行巡航，并回应菲律宾拉拢域外国家组织所谓“联合巡航”，表示坚决维护国家主权和海洋权益。此前菲律宾与美国等国家在南海开展联合活动，中方已多次表明反对立场。此举凸显南海紧张局势持续。",
-      "reason": "南海军事动态，涉及多国博弈，影响区域安全格局",
+      "title": "四川宜宾5.5级地震",
+      "summary": "四川高县发生5.5级地震，目前已造成15人受轻伤，211人转移。应急管理部启动国家地震灾害四级应急响应，并派工作组赴震区。两部门联合行动，确保救援有序进行。",
+      "reason": "自然灾害造成人员伤亡，国家启动应急响应，社会关注度高",
+      "impact_areas": [
+        "社会"
+      ],
+      "impact_level": "重大",
+      "sources": [
+        {
+          "name": "澎湃新闻",
+          "url": "https://m.thepaper.cn/detail/33477401"
+        },
+        {
+          "name": "央视网",
+          "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1wdGJPVWxHVEEwMDFyRDI0RjZoekVBS1Q3Z3RsVGFSMDd6bnU1V1l0UHV2UU8yTVdYUXgzSHliZWxKWF9DclMtNUoyTmRCQWxwVkJFbTBGck82dlFsWWVKejUwSU9SeTczeHJ0ZzIzSkN2WDR3a0xJUQ?oc=5"
+        }
+      ]
+    },
+    {
+      "title": "福建仙游户外探险5人遇难",
+      "summary": "福建仙游发生户外探险意外，9人被困‘刺刀峡谷’，最终5人确认无生命体征。当地文旅局回应事发地非景区属保护区，警方曾提醒不要擅闯。事件引发对户外探险安全的广泛讨论。",
+      "reason": "多平台报道，社会关注度高，涉及公共安全警示",
+      "impact_areas": [
+        "社会"
+      ],
+      "impact_level": "重大",
+      "sources": [
+        {
+          "name": "澎湃新闻",
+          "url": "https://m.thepaper.cn/detail/33477165"
+        },
+        {
+          "name": "凤凰网",
+          "url": "https://news.ifeng.com/c/8uM4CFa2g4N"
+        }
+      ]
+    },
+    {
+      "title": "习近平会见白俄罗斯总统",
+      "summary": "国家主席习近平在北京会见白俄罗斯总统卢卡申科。双方就双边关系、国际和地区问题交换意见。此前普京与卢卡申科也讨论了乌克兰问题。此会晤显示中白战略合作深化，对欧洲地缘格局有影响。",
+      "reason": "元首外交重要事件，影响国际关系和地缘政治",
       "impact_areas": [
         "政治",
         "地缘"
@@ -183,16 +203,16 @@
       "impact_level": "重大",
       "sources": [
         {
-          "name": "凤凰网",
-          "url": "https://news.ifeng.com/c/8uLfTS05Qac"
+          "name": "央视网",
+          "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1lRG5Nbk16bno4RUlGNHZwRFJueFg1RjlaSkVyeVExa2NKTDY2OXp2SWR6SG9PbGRFS2F0M1BHSmZDUjJlVXNhRHNFM0VyMnNDRW5nZEJQZEJNbU5qbFE5RkJQVmNOeHhiUlMwMHJPTGJtQ3RNb1h0Vg?oc=5"
         },
         {
-          "name": "央视网",
-          "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE52NG9HbFVlWENYVjQ3RERWUDhobTJlR085ZjQ4ZnczQktVNE8wQmVFZ0MxRmtINXBPOGkxVDJZM2c5cHNRNDhkVFJ0Q3FNTDh0QkxNR2hfVms0YjRCMVdBM1oyaWZjdmlaQnVlTUNiREZxa1puY29JeQ?oc=5"
+          "name": "雪球热帖",
+          "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOT2tBVTJxc3ExMkZ5eE0zWXNPLWJDVzRZYnliRzFsSE15NWhvSFNleFhDQUpIZXB5bV9vRjduSE16NW5OYUU3R2x4MHJZNXpDRzNmWFVtRE5MQlh2aXU4ckhXTmFOOGF1OHItWVlxTlVfUVQ3S0Znc2VDLWx6cnpiU255dE9rdHFMLTByWm9Ycw?oc=5"
         }
       ]
     }
   ],
-  "total_fetched": 238,
-  "generated_at": "2026-06-29T12:26:16.035980+08:00"
+  "total_fetched": 312,
+  "generated_at": "2026-06-29T19:26:13.001568+08:00"
 }
