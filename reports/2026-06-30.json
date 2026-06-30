@@ -2,57 +2,25 @@
   "date": "2026-06-30",
   "news": [
     {
-      "title": "委内瑞拉强震致1719死",
-      "summary": "6月30日，凤凰网报道委内瑞拉强震已造成1719人死亡，救援工作持续进行。地震导致大量建筑倒塌，基础设施严重受损，数万人无家可归。国际社会纷纷提供援助，但救援面临政治博弈和物流困难。美国提出大规模援助计划，但被质疑其真实意图。中国等国也派遣救援队。此次地震是该国百年来最严重的自然灾害，可能进一步加剧经济和人道危机。",
-      "reason": "重大自然灾害，死亡人数巨大，国际关注度极高，对委内瑞拉及地区产生深远影响。",
+      "title": "霍尔木兹海峡通行量暴跌",
+      "summary": "受美伊冲突升级影响，霍尔木兹海峡通行量暴跌大半。阿联酋组建船队强闯阿曼航道以绕开霍尔木兹海峡，试图维持石油出口。此举可能导致全球油价剧烈波动，并加剧中东航运风险。",
+      "reason": "全球能源运输咽喉受阻，直接影响油价和全球供应链，属于地缘经济重大事件。",
       "impact_areas": [
-        "社会",
-        "地缘"
+        "地缘",
+        "经济金融"
       ],
       "impact_level": "现象级",
       "sources": [
         {
-          "name": "凤凰网",
-          "url": "https://news.ifeng.com/c/8uMntM9AGdC"
-        }
-      ]
-    },
-    {
-      "title": "中欧贸易投资磋商首次会议",
-      "summary": "6月30日，商务部部长王文涛与欧委会贸易和经济安全委员谢夫乔维奇共同召开中欧贸易投资磋商机制首次会议，双方发表联合声明。会议旨在加强中欧经贸合作，解决贸易争端，推动投资便利化。此次会议标志着中欧关系在复杂国际环境下寻求务实合作，对全球贸易格局具有重要影响。",
-      "reason": "中欧高层经贸对话，影响全球贸易走向，具有重大战略意义。",
-      "impact_areas": [
-        "经济金融",
-        "政治"
-      ],
-      "impact_level": "重大",
-      "sources": [
-        {
-          "name": "澎湃新闻",
-          "url": "https://m.thepaper.cn/detail/33481902"
-        }
-      ]
-    },
-    {
-      "title": "国常会听取AI发展汇报",
-      "summary": "6月30日，国务院常务会议听取人工智能发展情况汇报，强调要抢抓人工智能发展机遇，加快核心技术攻关，推动AI与实体经济深度融合。会议提出将加大政策支持，完善监管框架。此举表明中国将AI提升至国家战略高度，可能加速AI产业化和应用落地。",
-      "reason": "中国最高层部署AI战略，对科技产业和经济发展具有重大指导意义。",
-      "impact_areas": [
-        "科技",
-        "经济金融"
-      ],
-      "impact_level": "重大",
-      "sources": [
-        {
           "name": "财新网",
-          "url": "https://finance.caixin.com/2026-06-30/102458993.html"
+          "url": "https://international.caixin.com/2026-06-30/102459121.html"
         }
       ]
     },
     {
-      "title": "隔夜逆回购工具启动",
-      "summary": "6月30日，财新网报道央行启动隔夜逆回购工具，旨在平抑跨季流动性波动。此举释放流动性管理信号，稳定市场预期。分析认为，隔夜逆回购利率可能成为新的政策利率锚，对货币市场利率和债券市场产生直接影响。",
-      "reason": "央行流动性管理创新工具，影响金融市场短期利率和流动性预期。",
+      "title": "美元兑日元跌至40年低点",
+      "summary": "日元兑美元汇率跌至40年新低，市场对日本央行干预的预期急剧升温。日元持续贬值加剧了输入性通胀压力，也可能引发亚洲货币竞争性贬值。日本财务省官员暗示可能采取措施，但市场仍在试探干预底线。",
+      "reason": "日元创40年新低，全球主要货币汇率剧烈波动，影响国际贸易和资本流动。",
       "impact_areas": [
         "经济金融"
       ],
@@ -60,30 +28,65 @@
       "sources": [
         {
           "name": "财新网",
-          "url": "https://opinion.caixin.com/2026-06-30/102458997.html"
+          "url": "https://database.caixin.com/2026-06-30/102459035.html"
         }
       ]
     },
     {
-      "title": "美最高法院裁定美联储理事留任",
-      "summary": "6月30日，美国最高法院裁定阻止特朗普解雇美联储理事丽莎·库克，确认其合法留任。此举维护了美联储的独立性，避免政治干预货币政策。判决对美联储未来政策决策具有稳定作用，市场反应积极。",
-      "reason": "维护美联储独立性的司法裁决，影响全球金融市场的政策预期。",
+      "title": "美国最高法院扩大总统解职权",
+      "summary": "美国最高法院做出历史性判决，扩大总统解职联邦高级官员的权力。此前特朗普试图解雇美联储理事Lisa Cook被最高法院驳回，但本次判决整体上增强了行政权。此举可能重塑美国联邦机构独立性，影响美联储、SEC等监管机构的运作。",
+      "reason": "改变美国权力制衡格局，对金融监管、货币政策独立性产生深远影响。",
       "impact_areas": [
-        "经济金融",
-        "政治"
+        "政治",
+        "经济金融"
+      ],
+      "impact_level": "现象级",
+      "sources": [
+        {
+          "name": "财新网",
+          "url": "https://database.caixin.com/2026-06-30/102459034.html"
+        },
+        {
+          "name": "BBC",
+          "url": "https://www.bbc.co.uk/news/articles/ceqdzd7zx24o?at_medium=RSS&at_campaign=rss"
+        }
+      ]
+    },
+    {
+      "title": "中国6月制造业PMI升至50.3",
+      "summary": "6月统计局制造业PMI录得50.3，高于前值49.5，重回荣枯线上方。需求好转带动生产扩张，但出厂价格年内首次下降，显示企业盈利空间承压。PMI数据提振市场信心，A股早盘半导体板块大涨，创业板指涨超2%。",
+      "reason": "经济先行指标重回扩张区间，对股市和大宗商品有重要指引，影响政策预期。",
+      "impact_areas": [
+        "经济金融"
       ],
       "impact_level": "重大",
       "sources": [
         {
-          "name": "36氪",
-          "url": "https://www.36kr.com/newsflashes/3874407211652353"
+          "name": "财新网",
+          "url": "https://economy.caixin.com/2026-06-30/102459073.html"
         }
       ]
     },
     {
-      "title": "伊朗称未来几天不与美谈判",
-      "summary": "6月30日，伊朗政府表示未来几天没有与美国进行谈判的计划，拒绝在霍尔木兹海峡排雷问题上与美国合作。此举加剧了美伊紧张关系，此前双方在卡塔尔的间接会谈未取得突破。市场担忧中东局势升级可能影响石油供应。",
-      "reason": "美伊对峙升级，地缘风险升高，直接影响国际油价和地区安全。",
+      "title": "摩根士丹利下调油价预测",
+      "summary": "摩根士丹利下调油价预测，警告全球供应过剩风险。其报告指出，OPEC+产量增加及需求放缓可能导致市场失衡。此前美伊冲突一度推高油价，但机构转向看空，能源股承压。",
+      "reason": "国际投行转向看空原油，对全球通胀、货币政策及能源行业有重大影响。",
+      "impact_areas": [
+        "经济金融",
+        "地缘"
+      ],
+      "impact_level": "重大",
+      "sources": [
+        {
+          "name": "财新网",
+          "url": "https://database.caixin.com/2026-06-30/102459082.html"
+        }
+      ]
+    },
+    {
+      "title": "普京承认乌军袭击致俄燃油短缺",
+      "summary": "普京罕见承认乌克兰无人机袭击导致俄罗斯部分地区出现燃油短缺，尤其是库尔斯克、别尔哥罗德等地。限购、涨价、排队现象在俄多地出现。俄方称正采取措施恢复供应，但战争对俄后方能源基础设施的破坏显现。",
+      "reason": "俄官方首次公开承认战争影响国内能源供应，信号意义重大，反映冲突升级对俄经济冲击。",
       "impact_areas": [
         "地缘",
         "经济金融"
@@ -91,30 +94,38 @@
       "impact_level": "重大",
       "sources": [
         {
-          "name": "凤凰网",
-          "url": "https://news.ifeng.com/c/8uMd2nSZ7sx"
+          "name": "澎湃新闻",
+          "url": "https://m.thepaper.cn/detail/33482858"
+        },
+        {
+          "name": "BBC",
+          "url": "https://www.bbc.co.uk/news/articles/clyw31zvpgmo?at_medium=RSS&at_campaign=rss"
         }
       ]
     },
     {
-      "title": "以伊可能随时再起冲突",
-      "summary": "6月30日，以色列国防部长警告称，以色列与伊朗可能随时再次爆发冲突，并指责伊朗通过代理人威胁以色列安全。近期双方在叙利亚、黎巴嫩等地频繁交火，地区紧张局势持续。以色列还威胁打击伊朗核设施。",
-      "reason": "以伊冲突一触即发，中东安全局势面临重大不确定性。",
+      "title": "德国发生罕见枪击案6人死亡",
+      "summary": "德国施塔德市一家母婴中心发生大规模枪击事件，造成6人死亡，其中包括一名儿童。凶手随后被警方击毙。德国总理谴责这是“毫无意义的暴力”，当地加强安全警戒。此类事件在德国极为罕见，引发社会对枪支管控的讨论。",
+      "reason": "德国罕见大规模枪击案，引发全球关注与社会反思，影响德国国内安全政策。",
       "impact_areas": [
-        "地缘"
+        "社会"
       ],
       "impact_level": "重大",
       "sources": [
         {
-          "name": "凤凰网",
-          "url": "https://news.ifeng.com/c/8uMcdJmr56p"
+          "name": "BBC",
+          "url": "https://www.bbc.co.uk/news/articles/c17yzzw1vkjo?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "name": "NYTimes",
+          "url": "https://www.nytimes.com/2026/06/29/world/europe/germany-shooting-stade.html"
         }
       ]
     },
     {
-      "title": "韩国投千万亿韩元发展AI半导体",
-      "summary": "6月30日，韩国政府宣布将投资千万亿韩元（约合数千亿美元）用于人工智能和半导体产业，旨在巩固其全球半导体领先地位，并抢占AI时代技术高地。计划包括建设大型AI数据中心、扶持本土芯片设计公司等。此举将推动全球半导体竞争格局演变。",
-      "reason": "韩国巨额投资AI半导体，影响全球科技产业链，具有产业导向意义。",
+      "title": "寒武纪市值突破1万亿元",
+      "summary": "国产AI芯片龙头寒武纪今日A股市值突破1万亿元，成为又一万亿市值科技公司。受AI算力需求爆发、国产替代政策推动，寒武纪股价持续攀升。半日主力资金大幅加仓电子股，半导体板块集体大涨。",
+      "reason": "国产AI芯片龙头市值破万亿，标志性事件，反映AI产业和自主可控的资本热潮。",
       "impact_areas": [
         "科技",
         "经济金融"
@@ -122,43 +133,43 @@
       "impact_level": "重大",
       "sources": [
         {
-          "name": "凤凰网",
-          "url": "https://news.ifeng.com/c/8uMgRxVNttE"
+          "name": "36氪",
+          "url": "https://www.36kr.com/newsflashes/3875085560091907"
         }
       ]
     },
     {
-      "title": "德国枪击6死，疑家庭矛盾",
-      "summary": "6月30日，德国北部城市斯塔德发生枪击事件，造成6人死亡，包括儿童。警方初步调查认为与家庭矛盾有关，嫌疑人已自杀。这是德国近年最严重的枪击案之一，引发社会对枪支管控的讨论。",
-      "reason": "重大枪击事件，造成多人死亡，引发社会安全关注。",
+      "title": "美团万亿参数大模型发布",
+      "summary": "美团发布LongCat-2.0大模型，宣称完全基于国产算力训练和推理，参数规模达万亿。这是国内互联网巨头在AI领域的重要突破，展示国产算力在超大规模模型训练上的可行性。",
+      "reason": "万亿参数完全国产算力大模型发布，AI自主可控的重要进展，影响行业格局。",
       "impact_areas": [
-        "社会"
+        "科技"
       ],
       "impact_level": "重大",
       "sources": [
         {
-          "name": "央视网",
-          "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1obEN6VVVJQzF6ZHo3UjJYYm1OaTRPYWhBMXRMQW50ZlZTUFVyX3VPUlJsRk55Q3NaUVMxa1JjVGQ5aFhjZXZUNmhQUnNZWWhPSDMzYVZuZHZVcU9KTm5pSDNqS3lpVjdKWlBPUjF5V2did09rbGg3ZQ?oc=5"
+          "name": "36氪",
+          "url": "https://www.36kr.com/newsflashes/3875068439139588"
         }
       ]
     },
     {
-      "title": "同程旅行拟收购嘀嗒出行",
-      "summary": "6月30日，同程旅行宣布拟通过全资子公司向嘀嗒出行发起自愿有条件全面现金要约收购。此举将整合在线旅游与出行服务平台，扩大同程旅行业务版图。嘀嗒出行作为顺风车和出租车平台，估值约百亿元。收购若完成，将改变出行市场竞争格局。",
-      "reason": "大型出行领域并购，影响在线旅游和共享出行行业格局。",
+      "title": "美国拟立法监管AI代理活动",
+      "summary": "美国参议员沃纳宣布将提交法案，监管人工智能代理（AI Agent）的活动。法案旨在防止AI代理被用于欺诈、操纵市场等行为，要求代理程序透明可追溯。此举标志着美国在AI监管立法上迈出重要一步。",
+      "reason": "美国联邦层面首次立法监管AI代理，对全球AI企业合规发展有标杆作用。",
       "impact_areas": [
-        "经济金融",
-        "产业"
+        "科技",
+        "政治"
       ],
       "impact_level": "重大",
       "sources": [
         {
-          "name": "澎湃新闻",
-          "url": "https://m.thepaper.cn/detail/33480665"
+          "name": "雪球热帖",
+          "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPUEJVOTZrVkNRUDNzRGhrMGFSYlR3RUJKdXh2U1FpYTFtRnR2aGJxbEZtamx3TFhRWG5HeEZydDZiMWJnMmQ0NlNXeTFQQnpOZUk3SEZvMkFtc2pFSnV6dXlGbjltNENMM1Y0R3VEaUxuT0lCRDVLWFRsZjNfb0xjeGFxV3NNVkVJazFlN0R5bw?oc=5"
         }
       ]
     }
   ],
-  "total_fetched": 220,
-  "generated_at": "2026-06-30T07:26:19.337458+08:00"
+  "total_fetched": 289,
+  "generated_at": "2026-06-30T12:26:06.572873+08:00"
 }
