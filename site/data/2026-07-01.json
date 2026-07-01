@@ -2,65 +2,24 @@
   "date": "2026-07-01",
   "news": [
     {
-      "title": "委内瑞拉地震死亡近2000人",
-      "summary": "委内瑞拉强烈地震死亡人数已升至1943人，救援工作仍在继续。国际援助陆续抵达，但救援设备短缺、疾病爆发风险加剧人道主义危机。美国与委反对派关系紧张，特朗普政府被指在震后边缘化反对派领导人马查多。此次地震是该国百年来最严重的自然灾害，对已深陷经济和政治危机的委内瑞拉造成毁灭性打击。",
-      "reason": "重大自然灾害，多源报道，持续引发国际关注和人道主义关切",
+      "title": "中共百年华诞庆祝大会举行",
+      "summary": "7月1日，庆祝中国共产党成立105周年大会在北京隆重举行。习近平出席并发表重要讲话，强调解决台湾问题、实现祖国完全统一是党矢志不渝的历史任务。大会颁授了党内最高荣誉“七一勋章”，表彰了全国“两优一先”代表。会议总结了百年来党的成就与经验，擘画了未来发展蓝图。此次大会规模空前，全国瞩目，彰显了党的凝聚力和领导力。",
+      "reason": "全党全国最高政治盛典，影响全局，热度极高。",
       "impact_areas": [
-        "社会",
-        "地缘"
+        "政治"
       ],
-      "impact_level": "重大",
+      "impact_level": "现象级",
       "sources": [
         {
-          "name": "凤凰网",
-          "url": "https://news.ifeng.com/c/8uOLEemgNws"
-        },
-        {
-          "name": "BBC",
-          "url": "https://www.bbc.co.uk/news/articles/c1jykwk8n18o"
+          "name": "澎湃新闻",
+          "url": "https://m.thepaper.cn/detail/33492276"
         }
       ]
     },
     {
-      "title": "美最高法院驳回限制出生公民权",
-      "summary": "美国最高法院以6:3裁定驳回特朗普政府限制出生公民权的行政令，维护了宪法第十四修正案赋予的出生公民权。特朗普对此作出强烈回应，称裁决是“政治决定”。该裁决是美国移民政策领域的重大司法胜利，巩固了“属地主义”原则，对联邦政府限制移民的权力构成约束。",
-      "reason": "美国最高法院重大裁决，影响移民政策，多平台广泛报道",
-      "impact_areas": [
-        "政治",
-        "社会"
-      ],
-      "impact_level": "重大",
-      "sources": [
-        {
-          "name": "凤凰网",
-          "url": "https://news.ifeng.com/c/8uOA3e74QR4"
-        },
-        {
-          "name": "BBC",
-          "url": "https://www.bbc.co.uk/news/articles/cgmepnx1wzzo"
-        }
-      ]
-    },
-    {
-      "title": "以色列总理称战争无止境",
-      "summary": "以色列总理内塔尼亚胡在公开讲话中表示，以色列的军事行动将继续，直到彻底消除威胁，暗示战争将长期化。此举加剧了中东紧张局势，伊朗与美国的间接谈判也在同步进行。国际社会担忧冲突外溢风险，特别是霍尔木兹海峡的航运安全。",
-      "reason": "中东地缘冲突持续升温，影响全球能源和地区稳定",
-      "impact_areas": [
-        "地缘",
-        "经济金融"
-      ],
-      "impact_level": "重大",
-      "sources": [
-        {
-          "name": "凤凰网",
-          "url": "https://news.ifeng.com/c/8uOfdd1jzgQ"
-        }
-      ]
-    },
-    {
-      "title": "6月制造业PMI重返扩张区间",
-      "summary": "国家统计局公布6月制造业采购经理指数（PMI）为50.3，高于临界点，时隔三个月重回扩张区间。该数据超出市场预期，表明在一系列稳增长政策作用下，制造业景气度有所回升。但需求端仍面临压力，小型企业PMI仍低于荣枯线，经济复苏基础尚需巩固。",
-      "reason": "关键经济先行指标回升，反映经济企稳信号，对市场预期影响重大",
+      "title": "比特币跌破6万美元",
+      "summary": "7月1日，比特币价格跌破6万美元关口，创近期新低。大买家Strategy改革融资模式加剧市场焦虑，散户以创纪录速度抄底美股但未能提振加密市场。比特币下跌引发加密货币板块整体走弱，市场恐慌情绪蔓延。分析师指出，美联储政策不确定性及监管风险是主要压力。",
+      "reason": "比特币作为数字资产锚点，跌破关键价位影响全球金融市场情绪。",
       "impact_areas": [
         "经济金融"
       ],
@@ -68,91 +27,76 @@
       "sources": [
         {
           "name": "财新网",
-          "url": "https://finance.caixin.com/2026-07-01/102459487.html"
+          "url": "https://database.caixin.com/2026-07-01/102459547.html"
         }
       ]
     },
     {
-      "title": "英国或干预1100亿美元媒体合并",
-      "summary": "英国政府表示可能介入派拉蒙与华纳兄弟探索公司之间1100亿美元的合并案，理由是担心交易损害竞争和内容多样性。该合并将缔造全球最大媒体集团之一，英国干预可能影响交易条款甚至导致剥离相关资产，对全球流媒体和传统媒体格局产生深远影响。",
-      "reason": "大规模媒体并购引发监管干预，影响全球娱乐产业竞争格局",
-      "impact_areas": [
-        "产业",
-        "科技"
-      ],
-      "impact_level": "重大",
-      "sources": [
-        {
-          "name": "Reuters",
-          "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPQXNOSFdCVl9CYmZlTmVCOFhSOHJscFIxN3MyLW10TV81STNTOWVVRGM2S0Q4RGdTZGt3azNCUzMweTRpUEVZWXE5aVM5UDVkRFRFSzZtRE5pblBwY1pKTGxha3VVNHdaa3RWTEpPMkdLVEgxRGExalNOYjVVaTVQNVM2enhvWmlOMGRfM0FEbS15X3FmNkRTWkVpVldFeUMxVm1IdXB4RG9wcjVNM0RZaW9ydk4wRjNndlBkRDRITWRLc1RpWHlj?oc=5"
-        }
-      ]
-    },
-    {
-      "title": "中国海上双船交付工程突破",
-      "summary": "中国同日完成两艘大型船舶交付，同时多个海洋工程项目取得进展，包括深水钻井平台和海底管道安装。这些成果展示了中国在高端装备制造和海洋工程领域的实力，对保障国家能源安全和提升海军能力具有战略意义。",
-      "reason": "凸显中国高端制造和海洋工程进步，具有国防和经济双重价值",
-      "impact_areas": [
-        "科技",
-        "政治"
-      ],
-      "impact_level": "重大",
-      "sources": [
-        {
-          "name": "央视网",
-          "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE91a19lUmw1eVpmT19tSkNWd1dKTWRrbzMwUXhWRF9VUnlUaHNFaFQ0b3RaSzZ1NGtCYkZabHp0ZHQtSkxQOEFMZmczTDFlcEpZM1dNdnlZSlF0aC1KdFk5WUR4WFA0Ny1CU3JpakFIOHd6U1BvaFh3aQ?oc=5"
-        }
-      ]
-    },
-    {
-      "title": "中国降温神器热卖全球",
-      "summary": "中国生产的“降温神器”（包括便携风扇、凉席、冰垫等产品）海外订单排至8月份，成为夏季外贸爆款。受益于全球高温天气和中国供应链优势，此类小商品出口额同比大幅增长，反映了中国制造在全球消费市场的韧性和竞争力。",
-      "reason": "显示中国外贸韧性，小商品出口强劲，有助于经济稳增长",
+      "title": "现货黄金跌破4000美元",
+      "summary": "7月1日，现货黄金价格跌破4000美元/盎司关口，为近一年来首次。此前黄金因避险需求一度走高，但近期美元走强及风险偏好回升导致资金流出。分析师警告，若失守4000美元支撑位，可能触发大规模止损抛售。黄金暴跌拖累贵金属板块，白银、铂金同步下挫。",
+      "reason": "黄金作为避险资产标杆，跌破整数关口释放重要市场信号。",
       "impact_areas": [
         "经济金融"
       ],
       "impact_level": "重大",
       "sources": [
         {
-          "name": "央视网",
-          "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBPYWVyVHVTNXlEVnBDTlVGTm9QcnI3QWhUS2U4RXc3ZW52YjFadDRkQ0ZCcnpZNjBUczY1Q21ZYUVRZTNXaWRkNFBscWlSSzJlMEpqcC1RUl9PODRXWXA2ZHNIUmFZUFliUlRRT2Nnd3lrWC1xeEo1eQ?oc=5"
+          "name": "财新网",
+          "url": "https://mini.caixin.com/2026-07-01/102459534.html"
         }
       ]
     },
     {
-      "title": "美公布6亿美元月球任务计划",
-      "summary": "美国国家航空航天局（NASA）公布一项价值6亿美元的月球任务计划，旨在推进月球基地建设。该计划包括研发月球表面栖息地和资源利用技术，预计与现有“阿尔忒弥斯”计划协同。此举将加速人类重返月球，并推动相关航天产业链发展。",
-      "reason": "航天重大投资，加速月球开发，对全球太空竞争有标志意义",
+      "title": "特朗普加密收入超14亿美元",
+      "summary": "财务披露显示，特朗普在2025年通过加密货币投资获得至少14亿美元收入，涵盖NFT、代币发行及交易利润。该数字远超此前预估，引发关于利益冲突的讨论。特朗普团队暂未回应。加密市场的政治敏感性升温，监管部门或加强审查。",
+      "reason": "前总统巨额加密收入暴露监管漏洞，政治与金融交叉热点。",
+      "impact_areas": [
+        "政治",
+        "经济金融"
+      ],
+      "impact_level": "重大",
+      "sources": [
+        {
+          "name": "财新网",
+          "url": "https://database.caixin.com/2026-07-01/102459549.html"
+        }
+      ]
+    },
+    {
+      "title": "美最高法捍卫出生公民权",
+      "summary": "7月1日，美国最高法院裁定特朗普行政令不能废止出生公民权，即在美国出生即自动获得国籍的权利。这是特朗普移民政策的重大挫败，法院认定行政令违宪。同时，最高法院还维持了对跨性别运动员参加女子运动的禁令。两起裁决均以6:3通过，保守派大法官出现分歧。",
+      "reason": "影响数百万移民家庭，重塑法律格局，政治影响深远。",
+      "impact_areas": [
+        "政治",
+        "社会"
+      ],
+      "impact_level": "重大",
+      "sources": [
+        {
+          "name": "财新网",
+          "url": "https://international.caixin.com/2026-07-01/102459523.html"
+        }
+      ]
+    },
+    {
+      "title": "美取消Anthropic AI模型限制",
+      "summary": "美国政府取消了对Anthropic公司Fable 5模型的出口限制，该模型此前因安全担忧被禁止。Anthropic随即宣布Fable 5将于7月2日在Claude平台全球上线。此举标志美国AI监管态度转变，从限制转向促进技术出口与竞争。业界认为将加速AI应用普及，但也引发新的安全讨论。",
+      "reason": "AI大模型出口松绑，影响全球AI竞争格局与监管走向。",
       "impact_areas": [
         "科技"
       ],
       "impact_level": "重大",
       "sources": [
         {
-          "name": "36氪",
-          "url": "https://www.36kr.com/newsflashes/3876273105514500"
+          "name": "财新网",
+          "url": "https://database.caixin.com/2026-07-01/102459545.html"
         }
       ]
     },
     {
-      "title": "AI模型精准预测RNA三维结构",
-      "summary": "研究人员开发出一种新AI模型，能以远少于传统方法的数据量精准预测RNA三维结构。该突破有望加速药物研发，尤其是针对RNA靶点的药物设计，对生命科学和精准医疗产生深远影响。相关成果已发表于权威期刊。",
-      "reason": "AI+生物科技突破，降低研发成本，具有重大科学和产业价值",
-      "impact_areas": [
-        "科技"
-      ],
-      "impact_level": "重大",
-      "sources": [
-        {
-          "name": "36氪",
-          "url": "https://www.36kr.com/newsflashes/3876272460509192"
-        }
-      ]
-    },
-    {
-      "title": "英国拟强制苹果谷歌开放支付",
-      "summary": "英国政府计划出台新法规，强制苹果和谷歌放开应用内支付限制，允许开发者使用第三方支付系统，并降低抽成费用。此举旨在促进竞争，降低消费者和开发者成本。若实施，将打破科技巨头在移动支付领域的垄断，可能引发全球监管跟进。",
-      "reason": "科技反垄断重大进展，直接影响全球应用商店规则和利润",
+      "title": "韩国8800亿美元芯片计划",
+      "summary": "韩国政府宣布将投资8800亿美元打造全球最大芯片产业集群，涵盖半导体设计、制造和封装，旨在重塑AI版图并振兴欠发达地区。计划包括新建多个尖端晶圆厂和研发中心，预计创造数十万个就业岗位。此举加剧了与台积电、三星的竞争，全球半导体产业格局面临重大调整。",
+      "reason": "巨额投资规模空前，将深刻影响全球芯片供应链和AI产业。",
       "impact_areas": [
         "科技",
         "经济金融"
@@ -160,12 +104,59 @@
       "impact_level": "重大",
       "sources": [
         {
+          "name": "财新网",
+          "url": "https://database.caixin.com/2026-07-01/102459543.html"
+        }
+      ]
+    },
+    {
+      "title": "港交所标准化每手股数",
+      "summary": "港交所宣布将标准化每手交易股数至8种选项，每手最低市值1000港元。新规旨在降低交易成本、提升市场效率，吸引更多散户参与。此举是港交所推动市场改革的一部分，此前港股每手股数差异大导致不便。业内预计将提振港股流动性和活跃度。",
+      "reason": "交易规则重大改革，直接影响港股市场结构和投资者行为。",
+      "impact_areas": [
+        "经济金融"
+      ],
+      "impact_level": "重大",
+      "sources": [
+        {
+          "name": "财新网",
+          "url": "https://finance.caixin.com/2026-07-01/102459570.html"
+        }
+      ]
+    },
+    {
+      "title": "寒武纪成科创板万亿市值股",
+      "summary": "7月1日，寒武纪股价上涨，成为科创板首只市值突破1万亿元的个股。作为AI芯片龙头，寒武纪受益于国产替代和AI算力需求爆发。万亿市值标志着中国半导体企业在资本市场的里程碑，但市场也关注其盈利能力。此举带动科创板整体走强。",
+      "reason": "首家万亿市值科创板公司，标志中国AI芯片资本里程碑。",
+      "impact_areas": [
+        "科技",
+        "经济金融"
+      ],
+      "impact_level": "重大",
+      "sources": [
+        {
+          "name": "财新网",
+          "url": "https://www.caixin.com/2026-07-01/102459513.html"
+        }
+      ]
+    },
+    {
+      "title": "零跑汽车6月交付增95%",
+      "summary": "零跑汽车公布6月交付量为93376台，同比增长95%，环比增长20%，创单月交付新高。零跑受益于新车型C11销量强劲及海外市场拓展。在新能源汽车行业内卷加剧的背景下，零跑逆势增长，市场份额提升。行业分析师指出，零跑已跻身第一梯队，对蔚来、小鹏构成压力。",
+      "reason": "新势力车企交付数据超预期，反映行业竞争格局变化。",
+      "impact_areas": [
+        "科技",
+        "经济金融"
+      ],
+      "impact_level": "重大",
+      "sources": [
+        {
           "name": "36氪",
-          "url": "https://www.36kr.com/newsflashes/3876269725806597"
+          "url": "https://www.36kr.com/newsflashes/3876509896962054"
         }
       ]
     }
   ],
-  "total_fetched": 203,
-  "generated_at": "2026-07-01T07:26:17.652500+08:00"
+  "total_fetched": 268,
+  "generated_at": "2026-07-01T12:26:21.177235+08:00"
 }
