@@ -1,4 +1,4 @@
-# 2026-07-01 原始新闻标题 (268 条)
+# 2026-07-01 原始新闻标题 (305 条)
 
 ## 新华社 (20 条)
 - Education, health fees among key concerns
@@ -22,128 +22,137 @@
 - Former Chongqing political official facing corruption investigation
 - Former Chongqing political official facing corruption investigation
 
-## 澎湃新闻 (20 条)
-- “七一勋章”获得者陈俊武：领衔设计的装置被誉为新中国炼油工业的第一朵“金花”
-- 男子心存侥幸醉驾回家在路口睡着，被查后连呼“对不起”
-- 墨西哥2比0厄瓜多尔，挺进美加墨世界杯16强
-- 漓江雅集｜从灵渠到平陆运河：重思大分流的地理与交通逻辑
-- 金正恩就中国共产党成立105周年向中共中央总书记、国家主席习近平致贺电
-- 马上评｜延长研究生学制，更要提升培养质量
-- 太钢集团党委书记、董事长吴小弟已任宝武钢铁集团党委常委
-- 有人声称可办手续变更防沙治沙土地性质，新疆沙雅县辟谣
-- 国家矿山安监局公布3个煤矿典型执法案例，相关线索已移送属地公安部门
-- G4216蓉丽高速营盘山隧道段双向交通管制，今年已5次开展路面病害处置
-- 习近平：在庆祝中国共产党成立105周年大会上的讲话
-- 总书记在庆祝中国共产党成立105周年大会上的讲话金句
-- 一位客运员和一座火车站共生的二十年
-- 习近平：解决台湾问题、实现祖国完全统一，是我们党矢志不渝的历史任务
-- 王曼昱0比3不敌佐藤瞳，无缘美国大满贯女单16强
-- 习近平在庆祝中国共产党成立105周年大会上发表重要讲话
-- 8名共产党员获颁党内最高荣誉“七一勋章”
-- 十部影视剧里的“觉醒年代”：一群年轻人的青春、信仰与选择
-- 哈兰德，挡不住！时隔28年，16强，挪威回来了！
-- “天路”驶过：车厢内外的人生与梦想
+## 澎湃新闻 (19 条)
+- 视频丨庆祝中国共产党成立105周年音乐会今晚播出
+- 世界杯播客｜德国足球为何越来越不德国
+- 上半年股票ETF规模大洗牌：通信、半导体赛道狂吸金，千亿级宽基数量归零
+- 陪诊看病服务今起规范化：2小时，公益价99元
+- 美伊在多哈举行间接会谈，聚焦落实谅解备忘录
+- 罗丹艺术中心落户温州，展出70余件雕塑精品
+- 跨越40多年的红色经典，《可爱的中国》全新典藏版推出
+- 广州东站回应一旅客辱骂殴打工作人员：当事旅客已被带走调查
+- 洋河股份：董事长顾宇不再兼任总裁，陈军当选副董事长并接任总裁
+- 含金量爆表！大满贯齐聚！最夯阵容就在上海大师赛！
+- iPhone 18 Pro大量细节被曝光，印度合作伙伴泄密给苹果敲响哪些警钟
+- 四张图读懂破纪录的欧洲热浪：为何今年格外热？空调怎么那么难装？
+- 世界政党政要热烈祝贺中国共产党成立105周年
+- 再走天路丨送出大山的学子，又沿着青藏铁路回到高原
+- 九部门：7月1日起新就业形态人员职业伤害保障试点向全国推开
+- 刺刀峡谷5人溺亡事件复盘：明知山有“雨”，偏向险中行
+- 中共中央关于表彰全国优秀共产党员、全国优秀党务工作者和全国先进基层党组织的决定
+- 国际金价半年回撤近三成，黄金牛市逻辑是否终结？
+- 庆祝中国共产党成立105周年大会在京隆重举行
 
-## 南方周末 (2 条)
+## 南方周末 (5 条)
+- 出海“新蜀道”，一家西部智库的创新实验｜ESG助力中企出海
+- 24家穿越“生死线”，中国“未盈利”上市药企的八年征途
+- 面对AI裁员陷阱，征税是个好选择吗？
 - 盛唐烟火背后：“曲江模式”的荣光、负债与重生
 - 误导全球约1.7亿女性，这个疾病正式改名
 
 ## 凤凰网 (20 条)
-- 什么是“七一勋章”？ - 凤凰网
-- 新华社快讯：“七一勋章”获得者代表吴亚琴发言 - 凤凰网
-- 视频丨习近平向“七一勋章”获得者颁授勋章 - 凤凰网
-- 传习录丨庆祝建党105周年之际 重温总书记号召 - 凤凰网
-- 习近平向全体中国共产党员致以节日的问候 - 凤凰网
-- 视频丨习近平等领导同志为全国先进基层党组织代表颁奖 - 凤凰网
-- 总书记在庆祝中国共产党成立105周年大会上的讲话金句 - 凤凰网
-- 庆祝中国共产党成立105周年大会在京举行 - 凤凰网
-- 习近平等为受表彰的全国“两优一先”代表颁奖 - 凤凰网
-- 习近平党建思想引领强党强国新征程 - 凤凰网
-- 习近平在庆祝中国共产党成立105周年大会上发表重要讲话 - 凤凰网
-- 习近平为“七一勋章”获得者颁授勋章 - 凤凰网
-- 党规之旨 - 凤凰网
-- 《春风习习的地方》第二季同名主题曲中英文版正式上线 - 凤凰网
-- 时政微纪录丨我宣誓！和“七一勋章”获得者重温入党誓词 - 凤凰网
-- 共同努力克服挑战！秘鲁军官：长征精神对许多国家来说都是一种典范 - 凤凰网
-- 青藏铁路20年运送旅客超1亿人次 - 凤凰网
-- 主播说联播丨1.0128亿！这是中国共产党的硬核“家底” - 凤凰网
-- 全球瞭望｜埃塞媒体：中国发展进程为世界提供机遇 - 凤凰网
-- “瓷尚未来·中国当代陶艺的传承与创新”第52届国际陶艺大会主宾国展开展 - 凤凰网江西
+- 张雪发声：近日遭人跟踪
+- 初二女生遭同学围殴后出现抑郁症状，警方介入调查
+- 金正恩、埃尔多安、卢卡申科、武契奇、黄循财等多国政党、政府领导人，对中国共产党成立105周年表示热烈祝贺
+- 欧洲高温破纪录，当地华人称安装费快赶上空调价格了
+- 美伊停火后，伊拉克1400万桶石油从霍尔木兹海峡运出
+- 以军前总参谋长宣布参选，挑战内塔尼亚胡
+- 上海一百万豪车停在地库，竟被“蚂蚁搬家式”拆光卖了
+- 小区天降菜刀，砸中老人头部致“血流不止”，至今无人承认
+- 卢秀燕夜宴蓝营民代，力挺发展无人机产业
+- 月入2万申请困难职工，是谁给了当事人填表的“勇气”
+- 以总理：希望用10年逐步摆脱对美援助依赖
+- 国内航线燃油附加费7月5日起大幅下调
+- 韩国法务部宣布：延长对中国等六国团客免签证费措施
+- 游客被“卡皮巴拉”咬伤，海洋乐园回应
+- 欠台糖1.7亿！民进党大佬吴乃仁进去12天闪电获释，王鸿薇批：不关上酒店，关进去就帕金森
+- 台当局标案再掀争议，柳采葳：赖清德喊没钱，却奉送公款给性侵犯
+- 音乐人在健身房去世，知名酒店最新回应
+- 前体操冠军吴柳芳带货直播，佣金将捐给嫣然天使基金
+- 美伊间接技术性会谈正在多哈进行
+- CoCo门店饮品中发现1枚长约3厘米的铁钉，市监局回应
 
 ## 财新网 (20 条)
+- 委内瑞拉连环强震遇难人数已近两千 救援为何困难重重？
+- 【市场动态】民间调查显示中国制造业创2020年以来最强季度表现
+- 时隔20年 韩国史上第二位女总理诞生
+- 【市场动态】韩国出口保持强劲增长 人工智能热潮继续提振芯片需求
+- 【市场动态】高盛警告全球石油供应过剩将再现 各国补充战略储备不足以改变局面
+- 【市场动态】韩元跌向2009年以来低点 外资抛售韩国股票
+- 调查：三分之一香港受访者有意未来移居大湾区内地城市
+- 【量化观察】A股高质量因子量化策略月报（2026年6月）
+- Anthropic进军制药界，AI新产品助力自研药物
+- 6月人事综述：上半年至少九个正省部级党政岗位换将
+- 绩优主义是死循环，治理教育内卷要改什么
+- 电子行业市值超越银行排名第一 联讯仪器上半年涨幅达2736%
+- 委内瑞拉强震死亡人数升至1943人 救援仍在继续
+- 内外需K型分化：传导链条为何失效
+- 理解倦怠：不是病态，是抵抗｜带着问题去读书
+- Labubu、哪吒等中国IP崛起 背后逻辑是什么？
+- 三大内存巨头在美被诉以AI为由操纵存储价格
+- 西芒杜掠影⑤：中国工程承包商的“出海”考验｜出海·现场
+- Anthropic最强模型解除出口限制 新模型价格不变但成本增高
 - “伏虎”半年报：36名中管干部官宣落马7人为“70后”
-- 港交所标准化每手交易股数至8种 每手最低1000港元
-- 美印临时贸易协议达成在即，印度能否成为“世界工厂”
-- 北京男子举报新疆贪官被控敲诈 一审获刑六年十个月
-- 能源内参｜中航工业”一把手”程福波出任国务院国资委党委书记；德国官员建议大众汽车引入在华研发车型 避免大规模关厂裁员
-- 公募半年业绩出炉 首尾收益差超200%
-- 【市场动态】财务披露显示特朗普2025年加密货币收入至少14亿美元
-- 【市场动态】比特币跌破6万美元 大买家Strategy改革融资模式加剧市场焦虑
-- 【市场动态】美国政府取消Anthropic的Fable 5模型的限制
-- 【市场动态】韩国倾力打造8800亿美元芯片产业集群 盼重塑AI版图并振兴欠发达地区
-- 从《抓特务》票房舆情看一种新的社会现象
-- 财新闻｜现货黄金跌破4000美元关口
-- 直融增量提升，金融结构的历史性转折？
-- 今日开盘：小幅低开 沪指跌幅0.09%
-- 【市场动态】城堡证券：散户以创纪录速度抄底美股
-- 【市场动态】英国央行副行长：智能体兴起或引发市场崩盘
-- 特朗普移民政策受挫 美最高法裁定行政令不能废止出生公民权
-- T早报｜寒武纪成科创板首只万亿市值个股；字节跳动一季度共80名员工因触碰公司红线被辞退；优必选发布仿生陪伴机器人
-- 苏宁万达纠纷案一审宣判 万达被判支付超17.47亿元
-- 人事观察｜三年半连两级 57岁壮族高官李常官掌舵民政部
 
-## 央视网 (8 条)
+## 央视网 (5 条)
+- 饮食健康有密码 - 央视网
 - 独家视频丨“七一勋章”获得者王於昌：六十载深藏功名 一辈子对党赤诚 - 央视网
+- 楼市观察 | 刚性及改善性需求释放 多地延续春季“小阳春”行情 - 央视网
 - 同一天捷报频传！海上双船交付 多地工程突破不断 - 央视网
-- 订单排到8月！中国“降温神器”为何热卖全球？ - 央视网
-- 雪山下的一堂足球课 - 央视网
-- 庆祝中国共产党成立105周年大会特别报道 - 央视网
-- 内塔尼亚胡重申以军将长期驻留黎巴嫩南部“安全区” - 央视网
-- 独家视频丨“七一勋章”获得者吴亚琴：群众心中的“好女儿” - 央视网
-- 2026年民航暑运7月1日启动 出行热度持续攀升 - 央视网
+- 庆祝中国共产党成立105周年大会 - 央视网
 
-## BBC (18 条)
+## BBC (20 条)
 - Trump made more than $1bn from crypto in first year back in office
-- Three-year-old rescued and taken to hospital six days after Venezuela quake
+- Three die in Mexico City World Cup celebrations
 - US Supreme Court upholds birthright citizenship in blow to Trump
-- US Supreme Court has dealt heavy defeats to Trump, while expanding his power
+- Several killed and injured in fire at Antwerp apartment building
+- Three-year-old rescued and taken to hospital six days after Venezuela quake
 - A plane crashed into a tower in Beijing but China is not saying what happened
 - Roof collapse kills 14 children at Pakistan tuition centre
-- What are US and Japanese soldiers doing in the middle of the Australian bush?
+- Sudan's RSF committed crimes against humanity in el-Fasher, Amnesty says
 - Afghan Taliban launch strikes on border with Pakistan as tensions escalate
 - Anthropic says US lifts export ban on its advanced AI tools
-- US Supreme Court upholds bans on transgender athletes in female school and college sports
-- 'Absolute madness': Row over plan to demolish Nazi bunker under Berlin
 - US envoys in Doha to meet mediators but not Iranians, Qatar says
 - Firefighters struggle to contain deadly Greek wildfire
+- 'Absolute madness': Row over plan to demolish Nazi bunker under Berlin
 - Thousands of anti-migrant protesters march in South Africa amid heavy police presence
+- US Supreme Court upholds bans on transgender athletes in female school and college sports
 - Australia sues Amazon for making allegedly unfair contracts with subscribers
 - Almost 60,000 far-right extremists in Germany, intelligence agency says
+- US Supreme Court has dealt heavy defeats to Trump, while expanding his power
+- What are US and Japanese soldiers doing in the middle of the Australian bush?
 - What to know about the looming  deadline on North American free trade
-- Americans react to Supreme Court upholding birthright citizenship
 
-## Reuters (3 条)
-- Top Ukrainian commander says readying for possible new Russian attack from north - Reuters
+## Reuters (7 条)
+- US VP Vance says the Vatican's views on immigration are 'troubling' - Reuters
 - Australia weighs break-up of Big Four accounting firms after scandals - Reuters
+- US removes curbs on Anthropic's latest Fable and Mythos AI models - Reuters
+- Kim Dotcom loses latest appeal against extradition to US from New Zealand - Reuters
+- Citi cuts bitcoin, ether forecasts as ETF flows turn negative - Reuters
+- Indian rupee weakness to persist despite RBI measures to bring in dollars - Reuters poll - Reuters
 - UK may intervene in $110 billion Paramount-Warner Bros Discovery deal - Reuters
 
-## NYTimes (16 条)
-- The Hidden Dead: The True Toll in Venezuela Is Buried Under Rubble
-- U.S. and Iran to Meet with Mediators in Qatar
+## NYTimes (20 条)
+- How War Takes Its Toll on Ukraine’s Pregnant Women
+- After Venezuela Earthquakes, Deportees from the U.S. Are Missing or Found Dead
+- A Risky Burial in the Heart of an Ebola Outbreak
+- Trump Suggestion of a Syrian Crackdown on Hezbollah Confounds Many in Mideast
+- A Town in Quebec Is the First Governing Body to Adopt the Universal Declaration of the Rights of Trees
+- Archaeologists Find Maya Monuments Off the Beaten Path. Way Off.
+- The Two Mexico Cities Fighting for Claim Over Soccer’s Origin
+- Trump Officials Sideline Machado, Venezuela’s Opposition Leader, Over Earthquake Response
 - The Prom Went On in Kyiv, but Masha’s Date Danced Alone
 - After U.S.-Iran War, Oman Is Said to Propose Strait of Hormuz Fee Plan
-- Shortages of Rescue Equipment Hampered Venezuela’s Earthquake Response
 - World Cup Loss Dominates German News, Displacing Even a Mass Shooting
-- China Increases Military and Economic Pressure on Japan
-- Archaeologists Find Maya Monuments Off the Beaten Path. Way Off.
+- 3 People Die During World Cup Celebrations in Mexico City
+- Unfamiliar With Bosnia and Herzegovina? What to Know Before It Faces the U.S.
+- Why Are So Many Cubans Migrating to Guyana?
+- Turkey as a Tango Destination? A Reporter Was Living That Story.
 - Driver Is Reported Dead Days After Plowing Into World Cup Fans in Mexico
 - Beaver Statue Honoring the United States Is Smashed in Toronto
 - Aid Workers in Venezuela Fear Disease Outbreaks After Twin Quakes
-- Trump Officials Sideline Machado, Venezuela’s Opposition Leader, Over Earthquake Response
 - China’s Plan to Save Jobs From A.I.
-- The Two Mexico Cities Fighting for Claim Over Soccer’s Origin
 - Venezuela’s Maduro Accused in Lawsuit of Authorizing Police Killings
-- Putin Faces Increased Pressure as Moscow Is Again Attacked by Drones
 
 ## CNN (6 条)
 - 0% intro APR until 2024 is 100% insane
@@ -154,26 +163,26 @@
 - Want Cash Out of Your Home? Here Are Your Best Options
 
 ## 微博热搜 (20 条)
-- 机器人伴侣价格11.98万至99万
-- 王曼昱0比3佐藤瞳
-- 这是10128.6万分之一的回答
-- 折叠大满配vivo X Fold6开售
-- hr问我为什么有两个毕业证
-- 姜珮瑶体面
-- 现在就出发4 金晨
-- 欧洲人自豪举报20户邻居用空调
-- 世界上倒数第一有眼力见的小狗
-- 中国造海上巨无霸又上新了
-- 成年人的体面就是周末勿扰
-- 罗晋眼里没光了
-- 姜珮瑶回应
-- 日本男球迷猥亵女记者
-- 坐飞机不要把头靠在窗户上
-- 已到工位消息秒回
-- 董明珠喊话股东不用格力凭什么分红
-- 陈瑶没发张月
-- 杨紫白玉兰庆功宴
-- 墨西哥vs厄瓜多尔
+- 庆祝建党105周年大会温暖瞬间
+- 樊振东正式加盟杜塞尔多夫
+- 七一勋章获得者的歌声
+- 樊振东新定妆照出炉
+- 黄金创13年来最大暴跌
+- 公积金 结息
+- 这样安排工资简直是天才
+- 体制内头像都很山清水秀
+- 新时代中国青年要这样做
+- 小米高层重大调整
+- 丁禹兮 姜珮瑶
+- 跟没上过班的人沟通真的好累
+- AI漫剧 降维打击
+- 虞书欣都瘦出脚脖子了
+- 985毕业大厂离职玄学月入10万感悟
+- 疑似赖伟明车厢脱鞋被吐槽
+- 内娱年度最差编剧
+- 人一旦有了考编的念头
+- 比亚迪销量
+- 短国大大方方内娱抠抠搜搜
 
 ## 知乎热榜 (20 条)
 - 为什么人类没有发展出攻击性的器官？
@@ -198,108 +207,142 @@
 - 显微镜发明以前，古人认知中的最小生物是什么？
 
 ## B站热门 (20 条)
-- 永远怀念我们亲爱的妹爷！
-- 哪来的傻孩子啊
-- 高考652分，想报土木工程啊？？？？？？
-- 【剧情】心间错（2026）21【 朱正廷 / 哈妮克孜 】
+- 百万英镑·拯救亚当斯
 - 骗成狗了
-- 夜坝买命记！！！
-- 苗族银饰
-- 真是一台好车
-- 看来痒痒鼠是铁了心要过十周年
-- 2026年7-9月国创夏季导视-哔哩哔哩版权国创
-- 导员 我们真不是故意的…
-- 当永夜末日降临，文明会如何发展？
-- 《原神》角色预告-「桑多涅：致新生」
-- 循环歌单|《超人の小曲》《英雄の小曲》Towards the Light
-- 找到了10年前跪舔b站的视频
-- 我这辈子，跟家暴死磕到底！
 - 今天来到了上海嘉定别墅区  老板家庭大聚餐烤上一只正宗的新疆馕坑烤全羊#苏州烤全羊 #苏州馕坑烤全羊#无锡烤全羊#无锡馕坑烤全羊#上海烤全羊
-- 【乘风2026】总决赛-《想见你想见你想见你》张月&陈瑶 愿所有想念都能在我们的歌声里靠岸
-- ⚡《大 声 喊 出 我 的 名 字 吧》⚡
-- “中国养猪场都用上空调了”！这是真的吗？【主播说三农】
+- 【剧情】心间错（2026）21【 朱正廷 / 哈妮克孜 】
+- 哪来的傻孩子啊
+- 我的脸子弹都打不穿
+- 永远怀念我们亲爱的妹爷！
+- 当永夜末日降临，文明会如何发展？
+- 《最想出院の一集》
+- 苗族银饰
+- 全网独一份一只手的薇尔莉特
+- 高考652分，想报土木工程啊？？？？？？
+- 夜坝买命记！！！
+- 烈阳巨灵，实际上阳不了一点，阴的没边了【我是僵尸】
+- 别告诉他
+- 找到了10年前跪舔b站的视频
+- 导员 我们真不是故意的…
+- 《异环》真红角色PV丨梦的边缘
+- 【Tarokiki 翻唱】Wish You/也许你愿意
+- 循环歌单|《超人の小曲》《英雄の小曲》Towards the Light
 
 ## 抖音热搜 (20 条)
-- 央视新闻专访七一勋章获得者
+- 下半年也要去看更美的风景
+- 8人获“七一勋章” 名单公布
+- 扎根基层，用真心服务百姓
+- 香港回归祖国29周年
 - 用捡来的水瓶给妈妈做了一束花
-- 庆祝建党105周年
 - 送到手里的浪漫新郎都接不住
 - 普通人的幸福时刻
-- 我的青春回忆录
-- 高考志愿怎么填才能避免滑档
-- 和平精英海底钢琴家
-- 一个人造太阳撑起一条产业链
-- 广东清远炒鸡太权威了
+- 中国共产党105年创造发展奇迹
 - 姆巴佩双响创纪录
-- 姜乘澜的高颧骨修容教程
-- 哈兰德发抖音庆祝晋级16强
-- 青海海西州5.2级地震
+- 我的青春回忆录
+- 95号汽油或重回7元区间
+- 福建龙须殿被雷劈视频系合成
 - 世界杯F组荷日瑞全出局
-- 詹姆斯最终会花落谁家
 - 王曼昱不敌佐藤瞳无缘女单16强
-- 一条视频看懂世界杯经济
+- 世界杯48强已出局一半
+- 姆巴佩升至世界杯射手榜第二
 - 最适合我的鼓点BGM找到了
+- 詹姆斯确定离开湖人
+- 希望我的下半年顺顺利利
 - 哈兰德绝杀破门
 
-## 雪球热帖 (13 条)
-- 台湾加权指数开盘上涨0.2% 报46234.70点 - 新浪财经
-- ToneVays 2026年6月30日发布美国东部时间7月1日下午1点将做客SimplyBitcoin 探讨BiP110及其对比特币的意义 - 新浪财经
-- Estrella Immunopharma股东批准任命2026年度审计机构 - 新浪财经
-- Sable 4亿美元再融资 稀释股权为首要目的 救命融资为次要目的 - 新浪财经
+## 豆瓣讨论 (1 条)
+- 感觉浪姐决赛结束第二天就完全消失了。。。。。。怎么一点尾都没有。。。。。 - Douban
+
+## 丁香园 (1 条)
+- 突破高龄「禁区」：国文医院内科特需团队成功救治 85 岁超高龄「多症叠加」危重患者 - y.dxy.cn
+
+## 雪球热帖 (17 条)
+- 一个贴砖工人的“第六感”，给AI预测上了一课 - 新浪财经
+- 福特奥托桑完成对科奇金融的收购 - 新浪财经
 - 加拿大皇家银行认为 Zoom Communications 分层人工智能战略被视为未来增长的关键驱动力 - 新浪财经
 - Anthropic推出Claude Sonnet 5 人工智能能力实现升级 - 新浪财经
-- 人工智能基础设施融资：资产支持型贷款热潮 - 新浪财经
+- 人工智能正催生劳动力市场新形态 首批岗位消失之际新一代如何实现就业 - 新浪财经
+- 耐克：美国银行全球研究部将其目标价从55美元下调至47美元 - 新浪财经
+- Lunate品牌重塑仅为名称变更 并非ETF重置 - 新浪财经
+- 丰田基洛斯卡汽车6月销量同比增长7% 达31016辆 - 新浪财经
+- 十年前向英特尔投资100美元 如今价值达427.26美元 - 新浪财经
+- 软件岗位数量未受人工智能相关担忧影响 2019年以来增长15% - 新浪财经
 - 逾150名高管齐聚首届六月节交流会 兰乔科尔多瓦崛起为创新投资与人工智能领军中心 - 新浪财经
-- 美国股指期货小幅走低 标普500指数下跌0.3% 纳斯达克指数下跌0.4% - 新浪财经
-- 瑞银将AMD目标价上调至670美元 500美元以下买入热潮难以为继 - 新浪财经
-- 美墨加协定的人工智能盲区 - 新浪财经
-- 圣乔治矿业在巴西探明199米高品位稀土和铌矿 创下纪录 - 新浪财经
+- 人工智能基础设施融资：资产支持型贷款热潮 - 新浪财经
+- AMD股价上涨 Circle跌幅超30% 稳定币领域竞争担忧升温 更优布局路径已明晰 - 新浪财经
+- 谷歌人工智能算力限制为Meta敲响警钟 算力在人工智能竞赛中重要性持续攀升 - 新浪财经
 - 微软（MSFT）受损股东获牵头证券欺诈诉讼资格 - 新浪财经
+- 美墨加协定的人工智能盲区 - 新浪财经
+- 查马斯·帕里哈皮蒂亚宣布为8090公司融资1.35亿美元出任罕见首席执行官职位称“人工智能可成为伟大的均衡器” - 新浪财经
 
 ## 36氪 (20 条)
-- 震裕科技在厦门成立汽车部件公司，注册资本5000万
-- 澳大利亚考虑拆分四大会计师事务所
-- 机构：2026年第一季度美国PC出货量同比下滑7%，创2023年以来最大跌幅
-- 半日主力资金加仓基础化工股，抛售通信股
-- 拼多多雄安公司单月入职员工超600人，7月底全员搬至新办公楼
-- 子公司被村田暂停供货？深圳华强：相关传闻不属实
-- 韩元跌向2009年以来低点，外资抛售韩国股票
-- 范式智能增资至约5.6亿
-- A股三大指数午间休盘涨跌不一，天风证券涨停
-- Anthropic：Fable 5将于明天在Claude平台全球上线
-- 宁德时代旗下巧克力换电落地2000座，覆盖180城
-- 顺丰速运旗下西藏速运公司增资至2000万
-- 零跑汽车：6月交付93376台，同比增长95%
-- 深圳楼市6月成交量创近六年以来同期新高
-- 上半年私募持有年内上市ETF超12亿份
-- 起拍价43.29亿元，大通证券控股权首拍流拍
-- 东华软件在西藏成立新公司，注册资本1亿
-- SK集团与KKR将推出韩国最大可再生能源平台，估值达2万亿韩元
-- 小马智行在重庆成立新科技公司，注册资本3000万
-- 老凤祥终止入股迈巴赫奢侈品亚太，改签中国区品牌代理协议
+- 惠康科技：目前对欧洲市场销售占整体营收比例较低，对公司业绩贡献有限
+- 亚通精工：全资子公司签订约8.6亿元辅助运输服务合同，合同金额约占2025年营业收入的46.74%
+- 赛力斯：6月销量36194辆，同比减少28.10%
+- 雷赛智能：预计2026年半年度净利润同比增长55%-65%
+- 立讯精密：截至6月30日，已耗资约10亿元回购股份
+- 2连板格科微：公司2亿像素产品开发顺利并与部分客户达成初步合作意向，尚未形成客户产品出货
+- 康迪科技控股子公司获施耐德电气经销授权
+- 昊华科技：公司及下属子公司未生产电子级氢氟酸
+- 九典制药：获得西尼地平片及氨溴特罗口服溶液药品注册证书
+- 光线传媒：已与合作方组建游戏公司，首款3A游戏计划用三年左右时间推出
+- 安正时尚：股东陈克川所持4140.63万股股份过户至郑秀萍名下，市值约为2.46亿元
+- 青龙管业：拟中标4.97亿元混塔项目物资框架采购
+- 奇瑞集团：6月销售汽车25.7辆，同比增长9.8%
+- 派拉蒙就华纳兄弟探索收购案向欧盟提出补救措施
+- 比亚迪：6月新能源汽车销量40.35万辆，上年同期38.26万辆
+- 2连板鲁信创投：控股股东7月1日减持139.1万股，本次减持计划已实施完毕
+- 联创光电：主营业务不涉及高温超导、可控核聚变相关业务板块
+- 腾讯风控专家上线WorkBuddy，覆盖账号保护、营销保护与金融反诈场景
+- 美诺华：拟投资18.09亿元建设高端制剂全球化产业基地及研发项目
+- 觅蜂科技与同道猎聘集团达成合作
 
 ## 虎嗅 (20 条)
-- 一年开机不超10次，电视正在被国人赶出客厅
-- 邢波再出手：上次“骂”完世界模型，这次轮到智能体了
-- 电车疯狂变大，停车位都装不下了
-- YONEX的护城河是羽毛球鄙视链
-- 起底*ST东智新实控人王建英：百亿私募不复辉煌，产业资本体量较小
-- 深圳全域旅游规划：成为一座“值得停留”的城市
-- 隐秘的直播“杀猪盘”盯上中老年人：付费请演员演绎剧情，有主播一个月卖3000万元
-- AI第一次参加世界杯，能打几分？
-- 中国算力过剩是个伪命题，但比它更危险的事正在发生
-- 为“手搓5纳米”正名：也不全是吹牛啊
-- 赛力斯的硬科技估值，只差一次认知上的切换
-- 谢娜的演唱会，章泽天的播客
-- 五月硅谷调研有感
-- 一年躺赚40亿的日子回不去了？卖了244亿货，净利润却蒸发5个亿，谁在啃食旺旺的利润？
-- 杜锐峰：在“信息爆炸”的时代，我们该怎样阅读？
-- 630GB 机密文件外泄：iPhone18 Pro 被扒了个干净
-- 讨薪一年等来一场设备拍卖会，中小食品厂被两头“胖揍”，欠薪、停产、法人入刑轮番上演
-- 天才的一击：如何在每一件事上追求卓越
-- 6月：活在一个“站队代替判断”的时代
-- 青藏铁路全线通车20年，去打卡的文青换了三代
+- 关于“一人公司”的几句扎心实话：政策不包生儿子
+- 为什么《恋与深空》闹得这么大？
+- 阿维塔再闯港交所：三年亏损112亿，自我造血迫在眉睫
+- 阿里云、腾讯都投了，上海芯片“小巨人”冲刺科创板，大基金二期持股，拟募资30亿
+- 耐克继续等待复苏的好消息
+- 一块华为招牌站不下80款车，“含华量”之争打到台前
+- 局部"震荡"，资金流向哪些新赛道？
+- 全球畅销书作家图书销量断崖式下滑的背后
+- 21岁女生被家人骗进“戒网瘾”学校：有些多动症孩子，也被当成“不听话”关进去过
+- 《柳叶刀》发表全球最大规模mRNA安全与前景综述
+- 全球哪里最难做生意？希腊居首，香港冲进最简单前十
+- 当亲密关系变成一场狩猎
+- 年净亏35亿阿维塔赴港IPO，招股书提了66次华为
+- C罗在这方面第一，谁赞成谁反对
+- 红杉高瓴投资，前美团民宿CEO 联合伯克利教授，做了一只AI 蘑菇
+- 美国学者：别斗了，对华合作直接关乎美国百姓的“钱袋子”
+- 关于具身智能的一些关键洞察：从技术路线到落地账本,几个和主流叙事相反的判断
+- 苹果史上最恶劣泄密事件：iPhone18 Pro 要“凉”了？
+- 百度养了15年的“儿子”，身价比自己贵了880亿
+- 2026上半年零售观察：消费理由越来越硬
 
-## 少数派 (2 条)
+## 少数派 (4 条)
+- 声擎×少数派｜「角落新声」征文活动
+- [送码] 白描 App 的 9 周年：推出鸿蒙版，白描 PDF 共创首发
 - 年度报告不够看？微信读书 Skill 上手体验
 - 派早报：Google 推出 Eclipsa Video 视频标准等
+
+## GitHub Trending (20 条)
+- msitarzewski/agency-agents
+- usestrix/strix
+- HKUDS/Vibe-Trading
+- hasaneyldrm/exercises-dataset
+- facebook/astryx
+- diegosouzapw/OmniRoute
+- allenai/olmocr
+- logto-io/logto
+- togatoga/karukan
+- Mebus/cupp
+- Unclecheng-li/VulnClaw
+- microsoft/AI-For-Beginners
+- refactoringhq/tolaria
+- ogulcancelik/herdr
+- 0xNyk/council-of-high-intelligence
+- altic-dev/FluidVoice
+- CoreBunch/Instatic
+- TencentCloud/CubeSandbox
+- browser-use/video-use
+- yikart/AiToEarn

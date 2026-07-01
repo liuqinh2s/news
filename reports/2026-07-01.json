@@ -2,9 +2,9 @@
   "date": "2026-07-01",
   "news": [
     {
-      "title": "中共百年华诞庆祝大会举行",
-      "summary": "7月1日，庆祝中国共产党成立105周年大会在北京隆重举行。习近平出席并发表重要讲话，强调解决台湾问题、实现祖国完全统一是党矢志不渝的历史任务。大会颁授了党内最高荣誉“七一勋章”，表彰了全国“两优一先”代表。会议总结了百年来党的成就与经验，擘画了未来发展蓝图。此次大会规模空前，全国瞩目，彰显了党的凝聚力和领导力。",
-      "reason": "全党全国最高政治盛典，影响全局，热度极高。",
+      "title": "建党105周年庆祝大会举行",
+      "summary": "7月1日，庆祝中国共产党成立105周年大会在北京人民大会堂隆重举行。中共中央总书记、国家主席、中央军委主席习近平出席并发表重要讲话，回顾党百年奋斗历程，强调继续推进中国式现代化。多国政党政要发来贺电，包括朝鲜、土耳其、白俄罗斯、塞尔维亚、新加坡等领导人。全国多地举办主题展览、文艺演出等活动。此次大会以庄重热烈的方式总结历史成就，明确未来发展方向，是今年最重要的政治事件之一。",
+      "reason": "全国性重大政治活动，多平台高频报道，影响深远。",
       "impact_areas": [
         "政治"
       ],
@@ -12,60 +12,94 @@
       "sources": [
         {
           "name": "澎湃新闻",
-          "url": "https://m.thepaper.cn/detail/33492276"
+          "url": "https://m.thepaper.cn/detail/33493254"
+        },
+        {
+          "name": "凤凰网",
+          "url": "https://news.ifeng.com/c/8uPV50gehed"
+        },
+        {
+          "name": "央视网",
+          "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5wYzdKd0ppZk1LQjNJeWYyNVZZNDNXQk4yVUNkdW9DYlFyLWMxMlppM0JIVVdYbFgyMUhtcFRRRUdaZDBzNGNLekRpWlZGdlBVZWZRQ05mN3BJVmtXdEpxVUR4S09FUDBUcUYw?oc=5"
         }
       ]
     },
     {
-      "title": "比特币跌破6万美元",
-      "summary": "7月1日，比特币价格跌破6万美元关口，创近期新低。大买家Strategy改革融资模式加剧市场焦虑，散户以创纪录速度抄底美股但未能提振加密市场。比特币下跌引发加密货币板块整体走弱，市场恐慌情绪蔓延。分析师指出，美联储政策不确定性及监管风险是主要压力。",
-      "reason": "比特币作为数字资产锚点，跌破关键价位影响全球金融市场情绪。",
+      "title": "委内瑞拉强震遇难近两千",
+      "summary": "委内瑞拉卡拉沃沃州自6月26日以来接连发生两次强烈地震，震级分别为7.8级和6.5级，截至7月1日遇难人数已升至1943人，大量建筑倒塌，救援工作仍在进行。中国、俄罗斯、古巴等国际救援队已抵达，但灾民安置和疾病防控面临巨大挑战。美国特朗普政府在地震响应中边缘化反对派领袖马查多，引发政治争议。此次地震是委内瑞拉近年来最严重的自然灾害，加剧该国人道主义危机。",
+      "reason": "重大自然灾害，死亡人数持续上升，国际关注度高。",
       "impact_areas": [
-        "经济金融"
+        "社会",
+        "地缘"
       ],
       "impact_level": "重大",
       "sources": [
         {
           "name": "财新网",
-          "url": "https://database.caixin.com/2026-07-01/102459547.html"
+          "url": "https://photos.caixin.com/2026-07-01/102459643.html"
+        },
+        {
+          "name": "BBC",
+          "url": "https://www.bbc.co.uk/news/articles/c1jykwk8n18o?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "name": "NYTimes",
+          "url": "https://www.nytimes.com/2026/07/01/world/americas/venezuela-earthquakes-deportees-us-deaths.html"
         }
       ]
     },
     {
-      "title": "现货黄金跌破4000美元",
-      "summary": "7月1日，现货黄金价格跌破4000美元/盎司关口，为近一年来首次。此前黄金因避险需求一度走高，但近期美元走强及风险偏好回升导致资金流出。分析师警告，若失守4000美元支撑位，可能触发大规模止损抛售。黄金暴跌拖累贵金属板块，白银、铂金同步下挫。",
-      "reason": "黄金作为避险资产标杆，跌破整数关口释放重要市场信号。",
+      "title": "美伊在多哈举行间接会谈",
+      "summary": "7月1日，美国与伊朗在卡塔尔多哈进行间接技术性会谈，聚焦落实此前达成的谅解备忘录，涉及核问题及地区安全。美国特使与伊朗代表分处不同房间，由卡塔尔官员传话。这是美伊停火后首次高级别接触。同日，伊拉克通过霍尔木兹海峡运出1400万桶石油，显示航线恢复。会谈进展将直接影响中东局势和全球原油供应，市场密切关注。",
+      "reason": "地缘热点持续演进，影响油价和地区稳定。",
       "impact_areas": [
+        "地缘",
         "经济金融"
       ],
       "impact_level": "重大",
       "sources": [
         {
-          "name": "财新网",
-          "url": "https://mini.caixin.com/2026-07-01/102459534.html"
+          "name": "澎湃新闻",
+          "url": "https://m.thepaper.cn/detail/33495045"
+        },
+        {
+          "name": "凤凰网",
+          "url": "https://news.ifeng.com/c/8uPLiqINd70"
+        },
+        {
+          "name": "BBC",
+          "url": "https://www.bbc.co.uk/news/articles/cpd38x1dy4no?at_medium=RSS&at_campaign=rss"
         }
       ]
     },
     {
-      "title": "特朗普加密收入超14亿美元",
-      "summary": "财务披露显示，特朗普在2025年通过加密货币投资获得至少14亿美元收入，涵盖NFT、代币发行及交易利润。该数字远超此前预估，引发关于利益冲突的讨论。特朗普团队暂未回应。加密市场的政治敏感性升温，监管部门或加强审查。",
-      "reason": "前总统巨额加密收入暴露监管漏洞，政治与金融交叉热点。",
+      "title": "美国解除Anthropic AI模型出口限制",
+      "summary": "美国商务部宣布解除对美国AI公司Anthropic旗下最新模型Fable和Mythos的出口限制，允许向大部分国家出口。此前因国家安全担忧，这些模型被列入管制清单。Anthropic同时宣布其模型在制药、医疗等领域取得突破，并与多家药企合作。此举被视为美国在AI监管与竞争力之间的平衡，利好全球AI产业链，但同时也引发对技术扩散风险的讨论。",
+      "reason": "AI领域重大政策转向，影响全球科技竞争格局。",
       "impact_areas": [
-        "政治",
+        "科技",
         "经济金融"
       ],
       "impact_level": "重大",
       "sources": [
         {
+          "name": "BBC",
+          "url": "https://www.bbc.co.uk/news/articles/cdr42623e1do?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "name": "Reuters",
+          "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNZDJJRUpoY0J3YUZXZWFpUFF5N2pzUTM3X2pSMzZXdVI3ZEtsTnU1b09yRl9TU1NhMlV2RFF4Q3ZEaUVnQXVYWlpzd0k0OGVjRkgzNlBtVTFab3ZxZWFGWUMtWXFCOEZqODdRNzhhSml1Y0pTZGZVNVJLSFZvSGJ2VDFMZ1RTNm5fTXoxVXpQWWRSR3ptWXVpM2Mzc0l4YW05cl9LRDBPV3kwc1FhdmVKcWJwWHA?oc=5"
+        },
+        {
           "name": "财新网",
-          "url": "https://database.caixin.com/2026-07-01/102459549.html"
+          "url": "https://www.caixin.com/2026-07-01/102459586.html"
         }
       ]
     },
     {
-      "title": "美最高法捍卫出生公民权",
-      "summary": "7月1日，美国最高法院裁定特朗普行政令不能废止出生公民权，即在美国出生即自动获得国籍的权利。这是特朗普移民政策的重大挫败，法院认定行政令违宪。同时，最高法院还维持了对跨性别运动员参加女子运动的禁令。两起裁决均以6:3通过，保守派大法官出现分歧。",
-      "reason": "影响数百万移民家庭，重塑法律格局，政治影响深远。",
+      "title": "美最高法院裁定出生公民权",
+      "summary": "美国最高法院7月1日以6:3裁定，特朗普政府试图取消出生公民权的行政命令违宪，维护了在美国出生即自动获得公民权的宪法原则。这是特朗普任期内的重大司法挫败。同日，最高法院还维持了下级法院对禁止跨性别运动员参加女校体育项目的禁令，两起判决均引发社会广泛讨论。法院在平衡行政权与宪法原则方面再次发挥关键作用。",
+      "reason": "影响美国数百万移民家庭，司法里程碑，全球关注。",
       "impact_areas": [
         "政治",
         "社会"
@@ -73,30 +107,85 @@
       "impact_level": "重大",
       "sources": [
         {
-          "name": "财新网",
-          "url": "https://international.caixin.com/2026-07-01/102459523.html"
+          "name": "BBC",
+          "url": "https://www.bbc.co.uk/news/articles/cgmepnx1wzzo?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "name": "BBC",
+          "url": "https://www.bbc.co.uk/news/articles/cj40x888d9go?at_medium=RSS&at_campaign=rss"
         }
       ]
     },
     {
-      "title": "美取消Anthropic AI模型限制",
-      "summary": "美国政府取消了对Anthropic公司Fable 5模型的出口限制，该模型此前因安全担忧被禁止。Anthropic随即宣布Fable 5将于7月2日在Claude平台全球上线。此举标志美国AI监管态度转变，从限制转向促进技术出口与竞争。业界认为将加速AI应用普及，但也引发新的安全讨论。",
-      "reason": "AI大模型出口松绑，影响全球AI竞争格局与监管走向。",
+      "title": "中国制造业PMI创近五年最强",
+      "summary": "7月1日公布的民间调查数据显示，中国6月制造业采购经理人指数（PMI）升至51.8，创2020年以来最强季度表现，超出市场预期。生产指数和新订单指数均显著改善，中小企业景气度回升，显示经济复苏动能增强。但同日公布的内需与外需分化数据表明，消费端仍疲弱，出口受海外需求拉动明显。PMI强劲提振市场信心，但经济全面复苏仍需政策支持。",
+      "reason": "经济先行指标超预期，反映增长动能，影响市场预期。",
       "impact_areas": [
-        "科技"
+        "经济金融"
       ],
       "impact_level": "重大",
       "sources": [
         {
           "name": "财新网",
-          "url": "https://database.caixin.com/2026-07-01/102459545.html"
+          "url": "https://database.caixin.com/2026-07-01/102459719.html"
         }
       ]
     },
     {
-      "title": "韩国8800亿美元芯片计划",
-      "summary": "韩国政府宣布将投资8800亿美元打造全球最大芯片产业集群，涵盖半导体设计、制造和封装，旨在重塑AI版图并振兴欠发达地区。计划包括新建多个尖端晶圆厂和研发中心，预计创造数十万个就业岗位。此举加剧了与台积电、三星的竞争，全球半导体产业格局面临重大调整。",
-      "reason": "巨额投资规模空前，将深刻影响全球芯片供应链和AI产业。",
+      "title": "高盛警告石油供应过剩重现",
+      "summary": "高盛7月1日发布报告警告，全球石油市场将再度出现供应过剩，即使各国补充战略储备也不足以改变局面。预计2026年下半年供需缺口收窄，2027年可能出现每日50万桶的过剩。主要原因是OPEC+增产和美国页岩油产量回升。该预警冲击国际油价，布伦特原油价格当日下跌近3%。若供应过剩成为现实，将压低油价，利好消费国但冲击产油国财政。",
+      "reason": "关键大宗商品供需判断，直接影响油价和通胀预期。",
+      "impact_areas": [
+        "经济金融",
+        "地缘"
+      ],
+      "impact_level": "重大",
+      "sources": [
+        {
+          "name": "财新网",
+          "url": "https://database.caixin.com/2026-07-01/102459703.html"
+        }
+      ]
+    },
+    {
+      "title": "韩元汇率跌至2009年来新低",
+      "summary": "韩元兑美元汇率7月1日跌破1400关口，最低触及1410，创2009年全球金融危机以来最低水平。外资持续抛售韩国股票，6月累计净流出超30亿美元。韩国法务部同日宣布延长对中国等六国团体游客免签证费措施，以提振旅游和消费。韩元贬值加剧输入性通胀压力，但有利于出口竞争力，韩国央行面临加息或干预两难抉择。",
+      "reason": "新兴市场货币危机信号，影响亚洲金融稳定。",
+      "impact_areas": [
+        "经济金融"
+      ],
+      "impact_level": "重大",
+      "sources": [
+        {
+          "name": "财新网",
+          "url": "https://database.caixin.com/2026-07-01/102459700.html"
+        }
+      ]
+    },
+    {
+      "title": "欧洲热浪破纪录空调安装难",
+      "summary": "欧洲多国7月1日遭遇极端热浪，法国、西班牙、德国等地气温突破40摄氏度，多地刷新历史最高温纪录。希腊发生致命野火，消防员仍在奋力扑救。由于欧洲家庭空调普及率低，安装成本高昂且耗时，民众健康受严重威胁。气候变化导致热浪频率和强度增加，欧洲基础设施适应能力面临严峻考验，各国被迫加速推动建筑节能和绿色转型。",
+      "reason": "极端天气事件持续，影响数亿人生活，引发气候政策讨论。",
+      "impact_areas": [
+        "社会",
+        "生态"
+      ],
+      "impact_level": "重大",
+      "sources": [
+        {
+          "name": "澎湃新闻",
+          "url": "https://m.thepaper.cn/detail/33408334"
+        },
+        {
+          "name": "凤凰网",
+          "url": "https://news.ifeng.com/c/8uPQVHRTvGT"
+        }
+      ]
+    },
+    {
+      "title": "iPhone 18 Pro大量细节遭泄密",
+      "summary": "7月1日，苹果新一代iPhone 18 Pro的详细规格和设计图被印度供应链合作伙伴泄露，涉及A19芯片性能、钛金属中框、后置四摄布局等关键升级。这是苹果历史上最严重的泄密事件之一，引发对供应链管理的质疑。泄密内容显示iPhone 18 Pro将在摄像头和AI算力上大幅提升，但外观设计变化有限。该事件影响苹果股价短期波动，并促使苹果重新评估与印度制造商的合作关系。",
+      "reason": "科技巨头核心产品泄密，影响产品节奏和产业链预期。",
       "impact_areas": [
         "科技",
         "经济金融"
@@ -104,59 +193,16 @@
       "impact_level": "重大",
       "sources": [
         {
-          "name": "财新网",
-          "url": "https://database.caixin.com/2026-07-01/102459543.html"
-        }
-      ]
-    },
-    {
-      "title": "港交所标准化每手股数",
-      "summary": "港交所宣布将标准化每手交易股数至8种选项，每手最低市值1000港元。新规旨在降低交易成本、提升市场效率，吸引更多散户参与。此举是港交所推动市场改革的一部分，此前港股每手股数差异大导致不便。业内预计将提振港股流动性和活跃度。",
-      "reason": "交易规则重大改革，直接影响港股市场结构和投资者行为。",
-      "impact_areas": [
-        "经济金融"
-      ],
-      "impact_level": "重大",
-      "sources": [
+          "name": "澎湃新闻",
+          "url": "https://m.thepaper.cn/detail/33494648"
+        },
         {
-          "name": "财新网",
-          "url": "https://finance.caixin.com/2026-07-01/102459570.html"
-        }
-      ]
-    },
-    {
-      "title": "寒武纪成科创板万亿市值股",
-      "summary": "7月1日，寒武纪股价上涨，成为科创板首只市值突破1万亿元的个股。作为AI芯片龙头，寒武纪受益于国产替代和AI算力需求爆发。万亿市值标志着中国半导体企业在资本市场的里程碑，但市场也关注其盈利能力。此举带动科创板整体走强。",
-      "reason": "首家万亿市值科创板公司，标志中国AI芯片资本里程碑。",
-      "impact_areas": [
-        "科技",
-        "经济金融"
-      ],
-      "impact_level": "重大",
-      "sources": [
-        {
-          "name": "财新网",
-          "url": "https://www.caixin.com/2026-07-01/102459513.html"
-        }
-      ]
-    },
-    {
-      "title": "零跑汽车6月交付增95%",
-      "summary": "零跑汽车公布6月交付量为93376台，同比增长95%，环比增长20%，创单月交付新高。零跑受益于新车型C11销量强劲及海外市场拓展。在新能源汽车行业内卷加剧的背景下，零跑逆势增长，市场份额提升。行业分析师指出，零跑已跻身第一梯队，对蔚来、小鹏构成压力。",
-      "reason": "新势力车企交付数据超预期，反映行业竞争格局变化。",
-      "impact_areas": [
-        "科技",
-        "经济金融"
-      ],
-      "impact_level": "重大",
-      "sources": [
-        {
-          "name": "36氪",
-          "url": "https://www.36kr.com/newsflashes/3876509896962054"
+          "name": "虎嗅",
+          "url": "https://www.huxiu.com/article/4871715.html"
         }
       ]
     }
   ],
-  "total_fetched": 268,
-  "generated_at": "2026-07-01T12:26:21.177235+08:00"
+  "total_fetched": 305,
+  "generated_at": "2026-07-01T19:26:38.544111+08:00"
 }
