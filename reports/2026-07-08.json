@@ -2,9 +2,9 @@
   "date": "2026-07-08",
   "news": [
     {
-      "title": "美军对伊朗发动打击",
-      "summary": "7月8日，美军对伊朗发动系列军事打击，回应此前伊朗在霍尔木兹海峡袭击油轮。美国官员称此举是“惩罚”而非对等回应。伊朗副外长谴责美方袭击并取消石油制裁豁免，严重违反谅解备忘录。美国还恢复对伊朗石油制裁。事件引发国际油价剧烈波动，全球地缘风险骤升。霍尔木兹海峡是重要石油运输通道，冲突或严重干扰全球能源供应。",
-      "reason": "美军直接打击伊朗，地缘冲突升级，影响全球能源市场和国际安全格局。",
+      "title": "特朗普终结美伊停火 美军空袭伊朗",
+      "summary": "特朗普7月8日宣布美伊谅解备忘录“已终结”，美军随后对伊朗发动新一轮空袭，打击伊朗军事船只。伊朗南部城市布什尔传出爆炸声，伊朗重申霍尔木兹海峡事务不容干涉。国际油价应声跳涨，中东局势再度紧张。此前伊朗最高领袖哈梅内伊葬礼在伊拉克等地引发大规模悼念。",
+      "reason": "美伊冲突急剧升级，多平台密集报道，油价飙升，全球地缘政治风险骤升。",
       "impact_areas": [
         "地缘",
         "经济金融"
@@ -12,165 +12,187 @@
       "impact_level": "现象级",
       "sources": [
         {
-          "name": "澎湃新闻",
-          "url": "https://m.thepaper.cn/detail/33539157"
-        },
-        {
-          "name": "凤凰网",
-          "url": "https://news.ifeng.com/c/8uaEugBWEZm"
+          "name": "财新网",
+          "url": "https://international.caixin.com/2026-07-08/102462046.html"
         },
         {
           "name": "BBC",
-          "url": "https://www.bbc.co.uk/news/articles/cwykq59jwpvo?at_medium=RSS&at_campaign=rss"
-        }
-      ]
-    },
-    {
-      "title": "勒庞宣布参选法国总统",
-      "summary": "7月8日，法国极右翼领袖玛丽娜·勒庞正式宣布将参加下届法国总统选举，并计划对定罪判决提起上诉。此前法院曾裁定其挪用欧盟资金，但上诉法院解除竞选资格禁令。勒庞的参选将加剧法国政治极化，影响欧盟未来走向。",
-      "reason": "勒庞是法国极右翼代表人物，其参选可能改变法国乃至欧洲政治格局。",
-      "impact_areas": [
-        "政治"
-      ],
-      "impact_level": "重大",
-      "sources": [
-        {
-          "name": "BBC",
-          "url": "https://www.bbc.co.uk/news/articles/c7vygl3zymjo?at_medium=RSS&at_campaign=rss"
-        }
-      ]
-    },
-    {
-      "title": "SpaceX进入纳斯达克100",
-      "summary": "7月8日，SpaceX正式被纳入纳斯达克100指数，券商纷纷上调其目标价。马斯克的太空探索技术公司市值已超数千亿美元，此次入指将吸引更多被动资金流入，进一步巩固其在航天和科技领域的龙头地位。",
-      "reason": "SpaceX入纳指100标志其成为科技巨头，对航天和投资领域影响深远。",
-      "impact_areas": [
-        "科技",
-        "经济金融"
-      ],
-      "impact_level": "重大",
-      "sources": [
+          "url": "https://www.bbc.co.uk/news/articles/clyw8w1g409o"
+        },
         {
           "name": "Reuters",
-          "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPdFlULTBOYXhrMW91ckpQYTN4ampKcmtYWW9xTnA0YmN1ZlFDSVRQY3FmSXJoMFR5RVlaOWd3eVhzOTRTMk5rUW9OLURzSXZTalh1OGxmemtOUW0tTC0yWTJpbVVsVDRMSmRIVTU4N21rWjJCY1BpQVNYLVhNc2tleTVwN3J3dHNpRE00cFltUFVXUERXM0QxajM0d20?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNNGdfTTZZUTJuczJONlh3R3NBTmd2VFQ4YlBWSC1fYzBOT3VCUnU1NGJXaGFvcnNINVdSZFdNVjJSTHp2MExDOUFDdlJUNFY2OG1oLXRLdjgzVERUS0lLUkREbXB2Q1lKaVd5VWlpZmpNSXR6aTFzdjZYMmNBNklIaDQxUzBqcTVwM2hLYXQxTGdWX2s4UWVOYnZmcm40bVd1RldWdUlR"
         }
       ]
     },
     {
-      "title": "亚马逊计划发债250亿美元",
-      "summary": "7月8日，亚马逊宣布计划通过债券发行筹集至少250亿美元，且今年内不再新增发债。此举旨在优化资本结构，支持云计算、AI等领域的持续投入。大规模发债显示亚马逊对未来增长的信心，同时也可能影响信用评级和利率环境。",
-      "reason": "亚马逊大规模发债是重要融资信号，影响科技债市和公司战略。",
+      "title": "北约峰会开幕 特朗普批四国 宣布巨额导弹项目",
+      "summary": "北约峰会在土耳其开幕，特朗普抵达后点名批评四个成员国军费不足，引发盟国不满。北约盟友宣布共同投资370亿英镑（约480亿美元）用于新型导弹项目，以加强欧洲防空。丹麦表示将捍卫北约“每一寸”领土，回应特朗普再提购买格陵兰岛。泽连斯基在峰会前强调需要更多防御系统。",
+      "reason": "北约内部矛盾公开化，巨额军备投资影响全球安全格局，多国密集报道。",
       "impact_areas": [
-        "经济金融",
-        "科技"
+        "地缘",
+        "政治"
       ],
-      "impact_level": "重大",
+      "impact_level": "现象级",
       "sources": [
         {
-          "name": "36氪",
-          "url": "https://www.36kr.com/newsflashes/3886177762078721"
-        }
-      ]
-    },
-    {
-      "title": "Meta发布AI图像生成模型",
-      "summary": "Meta于7月8日推出全新AI图像生成模型，并接入其聊天机器人和Instagram平台。该模型能够根据文字描述生成高质量图像，进一步提升社交媒体的内容创作效率。此举标志着Meta在生成式AI领域的加速布局，与OpenAI、谷歌等形成竞争。",
-      "reason": "Meta发布AI图像模型，推动生成式AI在社交领域应用，影响科技竞争格局。",
-      "impact_areas": [
-        "科技"
-      ],
-      "impact_level": "重大",
-      "sources": [
+          "name": "纽约时报",
+          "url": "https://www.nytimes.com/live/2026/07/08/world/nato-summit-turkey-trump-ukraine"
+        },
         {
-          "name": "36氪",
-          "url": "https://www.36kr.com/newsflashes/3886176091320325"
+          "name": "BBC",
+          "url": "https://www.bbc.co.uk/news/articles/ckg4e3lwzqzo"
+        },
+        {
+          "name": "财新网",
+          "url": "https://photos.caixin.com/2026-07-08/102462026.html"
         }
       ]
     },
     {
-      "title": "研究：中国癌症谱系剧变",
-      "summary": "财新网7月8日报道，最新研究显示中国癌症谱系发生巨变，预计发病率将快速上升。过去以胃癌、肝癌为主的格局正在向肺癌、结直肠癌等转变，与生活方式和老龄化密切相关。该研究对公共卫生政策、医保体系及医药产业具有重要指导意义。",
-      "reason": "癌症谱系变化影响公共卫生资源分配和医药研发方向。",
+      "title": "6月新增信贷社融或不及去年同期",
+      "summary": "财新调查显示，2026年6月新增信贷和社融可能低于去年同期，政府债券发行放缓是主要拖累。同时，6月CPI同比涨幅或小幅收窄，PPI同比增速预计加快。数据反映内需恢复偏弱，货币政策仍需适度宽松。央行同日表示继续实施适度宽松货币政策，加大逆周期调节。",
+      "reason": "关键经济先行指标异动，对金融市场和政策预期有重要指引。",
       "impact_areas": [
-        "公共卫生",
-        "社会"
+        "经济金融"
       ],
       "impact_level": "重大",
       "sources": [
         {
           "name": "财新网",
-          "url": "https://www.caixin.com/2026-07-08/102461825.html"
+          "url": "https://finance.caixin.com/2026-07-08/102462010.html"
+        },
+        {
+          "name": "财新网",
+          "url": "https://economy.caixin.com/2026-07-08/102461954.html"
         }
       ]
     },
     {
-      "title": "王毅外长访问北欧成果",
-      "summary": "7月8日，王毅外长结束北欧访问并发布成果清单。访问期间，中方与瑞典、挪威等国就绿色转型、北极合作、自由贸易等达成多项共识。此访有助于加强中国与北欧国家的关系，对冲地缘政治风险，推动多边合作。",
-      "reason": "中国外长北欧外交取得成果，提升中国在欧洲影响力。",
+      "title": "上半年全国卖地量价齐跌 核心城市频出地王",
+      "summary": "2026年上半年全国土地出让面积和金额均同比下降，但二季度以来北京、上海等核心城市却多次出现单价地王，显示市场分化加剧。在房地产销售回暖尚不确定的背景下，房企聚焦核心城市优质地块，三四线城市土地市场持续冷清。",
+      "reason": "土地市场深刻反映房地产行业格局变化，影响地方财政和经济走向。",
       "impact_areas": [
-        "政治",
         "经济金融"
+      ],
+      "impact_level": "重大",
+      "sources": [
+        {
+          "name": "财新网",
+          "url": "https://www.caixin.com/2026-07-08/102461989.html"
+        }
+      ]
+    },
+    {
+      "title": "台积电大幅扩展PIC产能 2028年目标月产2.5万片",
+      "summary": "据36氪报道，台积电大幅扩展先进封装（PIC）产能，预计2028年达到每月2.5万片。这一扩张旨在满足AI芯片对高性能封装的需求，巩固其在全球半导体制造的主导地位。此举将加速AI硬件迭代，并可能重塑封装产业链格局。",
+      "reason": "半导体龙头扩产影响全球AI芯片供应，科技产业关键趋势。",
+      "impact_areas": [
+        "科技"
+      ],
+      "impact_level": "重大",
+      "sources": [
+        {
+          "name": "36氪",
+          "url": "https://www.36kr.com/newsflashes/3886856544153600"
+        }
+      ]
+    },
+    {
+      "title": "智谱基石解禁首日涨13% 近七成股东承诺长期持有",
+      "summary": "AI公司智谱（Zhipu）基石投资者解禁首日股价上涨13%，近七成解禁股份对应投资者表态长期持有，缓解了市场对抛压的担忧。此前智谱通过配售发行1980万股H股。市场关注AI赛道资金流向，智谱作为国内大模型代表，其股价表现折射行业信心。",
+      "reason": "重要AI公司解禁后走势，反映资本市场对AI产业的态度。",
+      "impact_areas": [
+        "科技",
+        "经济金融"
+      ],
+      "impact_level": "重大",
+      "sources": [
+        {
+          "name": "财新网",
+          "url": "https://www.caixin.com/2026-07-08/102462018.html"
+        },
+        {
+          "name": "36氪",
+          "url": "https://www.36kr.com/newsflashes/3886884584714240"
+        }
+      ]
+    },
+    {
+      "title": "Meta测试超级感知AI眼镜 持续摄录引隐私争议",
+      "summary": "Meta正在测试一款名为“超级感知”的AI眼镜，可进行持续摄录并实时分析环境信息。该产品引发隐私权争议，担忧其可能被滥用于公共场合的持续监控。Meta称将内置隐私保护功能，但专家认为现有法规难以跟上技术发展。",
+      "reason": "AI眼镜技术突破与隐私边界讨论，影响未来可穿戴设备方向。",
+      "impact_areas": [
+        "科技",
+        "社会"
+      ],
+      "impact_level": "重大",
+      "sources": [
+        {
+          "name": "36氪",
+          "url": "https://www.36kr.com/newsflashes/3886848224588036"
+        }
+      ]
+    },
+    {
+      "title": "腾讯健康与辉瑞中国达成AI医疗战略合作",
+      "summary": "腾讯健康与辉瑞中国签署战略合作协议，将共同开发AI驱动的药物研发、疾病诊断和患者管理解决方案。此次合作结合腾讯的AI技术和辉瑞的药品研发能力，旨在加速创新药物上市和提升医疗服务质量，是AI+医疗领域的重大合作。",
+      "reason": "科技巨头与药企联手，推动AI医疗商业化落地，影响医疗行业变革。",
+      "impact_areas": [
+        "科技",
+        "医疗"
+      ],
+      "impact_level": "重大",
+      "sources": [
+        {
+          "name": "36氪",
+          "url": "https://www.36kr.com/newsflashes/3886850756636681"
+        }
+      ]
+    },
+    {
+      "title": "广西暴雨洪水致多地受灾 毒蛇扰民 救援持续",
+      "summary": "广西多地遭持续强降雨，郁江洪水已出峰回落，但部分地区积水严重，毒蛇随洪水进入民居和楼道，引发群众恐慌。当地政府紧急扩充抗蛇毒血清库存，发布防治应急指引。厦门曙光救援队等社会力量已到贵港转移被困师生。预计明日降雨减弱。",
+      "reason": "重大自然灾害引发社会关注，多平台密集报道，涉及公共安全与应急响应。",
+      "impact_areas": [
+        "社会"
       ],
       "impact_level": "重大",
       "sources": [
         {
           "name": "澎湃新闻",
-          "url": "https://m.thepaper.cn/detail/33538503"
-        }
-      ]
-    },
-    {
-      "title": "美股三大指数集体收跌",
-      "summary": "7月8日，美股三大指数集体收跌，大型科技股涨跌不一。地缘冲突加剧市场避险情绪，投资者担忧美伊冲突升级影响全球经济。同时美联储7月维持利率不变的概率为73.3%，市场等待更多政策信号。",
-      "reason": "美股下跌反映地缘风险和市场情绪变化，影响全球资本市场。",
-      "impact_areas": [
-        "经济金融"
-      ],
-      "impact_level": "重大",
-      "sources": [
-        {
-          "name": "36氪",
-          "url": "https://www.36kr.com/newsflashes/3886173444665606"
-        }
-      ]
-    },
-    {
-      "title": "特朗普再提控制格陵兰岛",
-      "summary": "7月8日，特朗普再次声称格陵兰岛“应该由美国控制”，引发国际关注。格陵兰岛是丹麦自治领土，拥有丰富矿产和战略位置。特朗普的言论可能导致美丹关系紧张，并影响北极地缘格局。",
-      "reason": "特朗普涉格陵兰言论挑战国际领土主权，牵动北极地缘博弈。",
-      "impact_areas": [
-        "地缘",
-        "政治"
-      ],
-      "impact_level": "重大",
-      "sources": [
-        {
-          "name": "凤凰网",
-          "url": "https://news.ifeng.com/c/8uZs5YwtViw"
+          "url": "https://m.thepaper.cn/detail/33542447"
         },
         {
-          "name": "央视网",
-          "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1oXzRPNEFmdnNhWkhFVDRFQWVOdnBTaVM4S2ZsTzdndkU5ZVBVWno3c0VlNk9sTlh4cmhZMjBUMlFQaUx4eUo2b0hNUlBYZXBLeng1dFBIOWVoV2o3dUJqQXVyZ3loZVlOcGduWkFiV2twRzZFRzJtSQ?oc=5"
+          "name": "澎湃新闻",
+          "url": "https://m.thepaper.cn/detail/33542111"
+        },
+        {
+          "name": "凤凰网",
+          "url": "https://news.ifeng.com/c/8ub4AHPzgEW"
+        },
+        {
+          "name": "BBC",
+          "url": "https://www.bbc.co.uk/news/articles/c79ygnv9e93o"
         }
       ]
     },
     {
-      "title": "AI系统将蛋白质序列译成文字",
-      "summary": "7月8日，研究人员开发出一种AI系统，可将蛋白质氨基酸序列直接“翻译”成功能性文字描述。该系统有望加速蛋白质工程、药物发现和合成生物学研究。这是AI与生物技术交叉领域的重大突破。",
-      "reason": "AI翻译蛋白质序列属基础科研突破，对生物医药和AI应用意义重大。",
+      "title": "张雪机车将在重庆建研发基地 年产50万辆",
+      "summary": "中国摩托车新锐品牌张雪机车宣布将在重庆建设摩托车研发生产基地，规划年产能50万辆。此前该品牌在2025年世界超级摩托车锦标赛夺冠，引发国内摩托车热潮。新基地将聚焦高性能车型和电动化转型，有望提升国产摩托车全球竞争力。",
+      "reason": "产业突破性事件后续落地，国产摩托车品牌高端化、规模化发展标志。",
       "impact_areas": [
-        "科技",
-        "公共卫生"
+        "产业"
       ],
       "impact_level": "重大",
       "sources": [
         {
-          "name": "36氪",
-          "url": "https://www.36kr.com/newsflashes/3886178922541318"
+          "name": "澎湃新闻",
+          "url": "https://m.thepaper.cn/detail/33542455"
         }
       ]
     }
   ],
-  "total_fetched": 205,
-  "generated_at": "2026-07-08T07:26:19.189647+08:00"
+  "total_fetched": 295,
+  "generated_at": "2026-07-08T19:26:13.912239+08:00"
 }
