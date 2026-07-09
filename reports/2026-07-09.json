@@ -2,9 +2,9 @@
   "date": "2026-07-09",
   "news": [
     {
-      "title": "美伊冲突再升级",
-      "summary": "美军于7月9日再次对伊朗发动大规模打击，伊朗多地传出爆炸声，伊朗方面称袭击造成8名军人死亡，并誓言将加倍奉还。伊朗外长表示将以行动回应特朗普言论。联合国秘书长发声呼吁克制。此前特朗普宣布伊朗停火协议“结束”，并威胁发动更多打击，美军在中东部署超20艘舰艇。美伊局势持续紧张，引发全球市场避险情绪。",
-      "reason": "美伊冲突持续升级，多国媒体密集报道，引发全球关注和地缘风险，影响能源价格和市场稳定。",
+      "title": "美伊冲突升级",
+      "summary": "美国对伊朗发动新一轮军事打击，伊朗袭击科威特和巴林的美军基地作为回应。特朗普称已看透伊朗，宣布停火协议'结束'。美伊双方均展示强硬姿态，冲突可能扩大化。多个国际组织发表联合声明呼吁克制。",
+      "reason": "全球地缘政治核心热点，多平台破圈，影响能源价格和市场稳定。",
       "impact_areas": [
         "地缘",
         "经济金融"
@@ -12,169 +12,177 @@
       "impact_level": "现象级",
       "sources": [
         {
-          "name": "澎湃新闻",
-          "url": "https://m.thepaper.cn/detail/33546490"
-        },
-        {
-          "name": "澎湃新闻",
-          "url": "https://m.thepaper.cn/detail/33546488"
+          "name": "BBC",
+          "url": "https://www.bbc.co.uk/news/articles/cz75zjj5wp8o"
         },
         {
           "name": "凤凰网",
-          "url": "https://news.ifeng.com/c/8ubraenI5Wt"
+          "url": "https://news.ifeng.com/c/8ucF56AA1pe"
         },
         {
-          "name": "央视网",
-          "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9SMDlRNXlqSTdTcnFBTHdjS0c3R3RtYm4wNkVQR2loSXpLQzVocUI4S0VaT3ZVZDlKS2tvd1Ryem9NX2NEcGJ2YVFCRkp1amo5TXFBQk9SUjVwQ21lYnp6R3BoSVY1ZTdKQWZjVlA2QWNrSkFsaVU1VA?oc=5"
+          "name": "NYTimes",
+          "url": "https://www.nytimes.com/live/2026/07/08/world/iran-war-us-trump"
         }
       ]
     },
     {
-      "title": "特朗普授权乌生产爱国者",
-      "summary": "美国总统特朗普宣布将授权海外生产“爱国者”防空导弹系统供乌克兰使用，这将是乌克兰对抗俄罗斯空袭的重大助力。特朗普表示此举将增强乌克兰自卫能力，同时为美国军工企业创造就业。乌克兰方面表示欢迎，但俄罗斯警告将视为升级行为。北约峰会期间，特朗普还批评盟友军费不达标。",
-      "reason": "改变乌克兰防空能力格局，影响俄乌战局及美国军售，引发国际关注。",
+      "title": "台风巴威逼近闽浙",
+      "summary": "台风'巴威'预计于7月11日晚在福建福清至浙江温岭一带登陆，中心风力达强台风级。中央气象台发布台风橙色预警，风暴潮预警最高达红色。浙江丽水、台州中小学幼儿园停课，上海交通行业落实防范措施。广西等地出现洪灾，南宁召开防汛救灾发布会。",
+      "reason": "影响中国东部沿海数省的重大自然灾害，民生关注度高。",
       "impact_areas": [
-        "地缘",
-        "政治"
+        "社会",
+        "生态"
       ],
       "impact_level": "重大",
       "sources": [
         {
           "name": "澎湃新闻",
-          "url": "https://m.thepaper.cn/detail/33546755"
+          "url": "https://m.thepaper.cn/detail/33547456"
+        },
+        {
+          "name": "凤凰网",
+          "url": "https://news.ifeng.com/c/8ucEpkiA2La"
         },
         {
           "name": "央视网",
-          "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5sa0pkNHBWTDZWNktxdEFCU2Y5Vk9aOFdaZS1BUE9Qc1pNZjJSRlBvN1JRX0VQTjktQzNPOElvTlV1ZkhQNE1mT3NPM0RiWHhLWHFTaHYtU0czTTRjSEFDRHI3V0I2OWJ1dXlrN1VUWUxCUWdmU192ag?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBhVDFCTm5VRDY4ejQ5SGNSaUpsQTcyakRXa0VJWGREVm41a0xzNmpKV1pRc2RlLUQzLWxDNWVCbkxrMXprTWVOYTczQmZKVDRLaFNnd3BQclpldUtqOU1wZGFWZTZIMGFOUWF3VDFtWTI2SXV1VFJKUw?oc=5"
         }
       ]
     },
     {
-      "title": "IMF上调中国经济增长预期",
-      "summary": "国际货币基金组织（IMF）在7月9日发布的最新《世界经济展望》报告中，预计2026年全球经济增长3.0%，较此前预测有所上调，其中上调中国经济增长预期至5.2%，反映了中国经济复苏动能增强。IMF还警告地缘冲突和贸易摩擦仍构成下行风险。",
-      "reason": "全球经济核心指标，直接影响市场预期和投资决策，中国增速上调意义重大。",
+      "title": "OpenAI实时语音模型",
+      "summary": "OpenAI推出全新实时语音模型，支持同声传译，接近真人交流体验。该模型可实时处理语音输入并输出自然语音，大幅提升人机交互效率，标志AI语音技术重大突破。",
+      "reason": "AI领域里程碑式进展，对人类未来交互方式产生深远影响。",
+      "impact_areas": [
+        "科技"
+      ],
+      "impact_level": "现象级",
+      "sources": [
+        {
+          "name": "澎湃新闻",
+          "url": "https://m.thepaper.cn/detail/33547604"
+        }
+      ]
+    },
+    {
+      "title": "6月CPI同比上涨1.0%",
+      "summary": "国家统计局发布数据，6月居民消费价格指数（CPI）同比上涨1.0%，涨幅较上月回落。PPI同比涨幅扩大但环比转降。数据反映当前通胀压力温和，但经济复苏基础仍需巩固。",
+      "reason": "关键宏观经济数据，直接影响货币政策预期和市场利率走势。",
       "impact_areas": [
         "经济金融"
       ],
       "impact_level": "重大",
       "sources": [
         {
-          "name": "央视网",
-          "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5NcW9NRjJPUVlJWGRyaHUxcmJUQ1lDV0laQXIycWRiT3MzMjJuMXZsQVlfcjcyTU96MFpxQ0ZUNFY0Zkh0a0RaREJNRVlvbmxnOGxKSWtleGh2bmdoeWZFazNWSFpfU1dSclF3RVFoM2U4QkNTZEhTdA?oc=5"
+          "name": "澎湃新闻",
+          "url": "https://m.thepaper.cn/detail/33547260"
+        },
+        {
+          "name": "财新网",
+          "url": "https://economy.caixin.com/2026-07-09/102462193.html"
         }
       ]
     },
     {
-      "title": "工信部警告Claude Code后门",
-      "summary": "工信部于7月9日发布安全警告，指出AI编程工具Claude Code存在严重安全后门隐患，危害系统安全。该工具已被广泛应用，可能导致敏感数据泄露。工信部要求相关企业立即排查并加强安全防护，同时提醒用户谨慎使用。这是中国首次针对AI开发工具发出国家级安全预警。",
-      "reason": "国家级网络安全警告，波及广泛使用的AI工具，对企业和开发者影响巨大。",
+      "title": "特朗普暂停与西班牙贸易",
+      "summary": "特朗普下令暂停美国与西班牙的所有贸易，理由是其未达到北约国防支出目标，并暗指其与伊朗关系。此举引发市场震荡，西班牙及欧盟表示强烈不满。分析认为该命令法律上难以实施，但政治信号强烈。",
+      "reason": "美欧贸易关系面临重大冲击，可能引发全球贸易格局调整。",
+      "impact_areas": [
+        "政治",
+        "经济金融"
+      ],
+      "impact_level": "重大",
+      "sources": [
+        {
+          "name": "Reuters",
+          "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPUHpycW05eTVleW81UVFsUkdsdzhiaDJuSTl1dDhFNy10bHpyYkVoeWFpWmtvSnFEa2MyRW4wdjExcGpMUVNRNlVveERCZXpPM0lmWkpnNVFBUzhENGdHQmVSRGw3WDN6bXQ4YkdaZGRveWVkWjlkdDFWU0lFSVF3UGFxMzREQkEyYkR0Yy1PbEl2Ul80WGJUMHp6VEE?oc=5"
+        },
+        {
+          "name": "NYTimes",
+          "url": "https://www.nytimes.com/2026/07/08/world/europe/trump-spain-trade-us-iran-nato.html"
+        }
+      ]
+    },
+    {
+      "title": "SK海力士美国IPO获超额认购",
+      "summary": "SK海力士美国IPO据悉获得逾七倍超额认购，显示市场对其存储芯片前景的强烈信心。贝恩资本同期高位清仓闪存芯片厂商铠侠，获得创纪录回报。全球半导体行业投资热度不减。",
+      "reason": "半导体领域重大资本运作，反映行业景气度和投资风向。",
       "impact_areas": [
         "科技",
-        "政治"
+        "经济金融"
       ],
       "impact_level": "重大",
       "sources": [
         {
           "name": "财新网",
-          "url": "https://finance.caixin.com/2026-07-09/102462140.html"
+          "url": "https://database.caixin.com/2026-07-09/102462171.html"
         }
       ]
     },
     {
-      "title": "OpenAI发布GPT-Live语音模型",
-      "summary": "OpenAI于7月9日发布GPT-Live语音模型，使ChatGPT的语音交互更加自然流畅，接近真人对话水平。该模型支持实时打断、情感识别和多轮对话，延迟降低至毫秒级。分析师认为这标志着AI语音助手进入新阶段，将对智能客服、教育、娱乐等行业产生深远影响。",
-      "reason": "AI语音交互的重大突破，影响人机交互范式，科技行业重点关注。",
+      "title": "长鑫科技下周四新股申购",
+      "summary": "长鑫科技公告将于7月16日新股申购，发行66.88亿股，战略配售50%。作为国产DRAM龙头，其上市将重塑半导体产业链竞争格局。",
+      "reason": "国产芯片标志性公司IPO，对中国半导体自主化具有里程碑意义。",
       "impact_areas": [
-        "科技"
-      ],
-      "impact_level": "重大",
-      "sources": [
-        {
-          "name": "36氪",
-          "url": "https://www.36kr.com/newsflashes/3887597243218435"
-        }
-      ]
-    },
-    {
-      "title": "两大航运公司恢复红海航线",
-      "summary": "由于胡塞武装威胁减弱，全球两大集装箱航运公司宣布恢复红海航线，首艘复航船只已在途中。此前红海危机导致全球贸易绕行好望角，推高运价并扰乱供应链。恢复红海航线将降低运输成本，缓解全球通胀压力，但对航运公司盈利可能构成压力。",
-      "reason": "红海航线恢复直接影响全球贸易供应链和运价，对经济和通胀重要。",
-      "impact_areas": [
-        "经济金融",
-        "地缘"
+        "科技",
+        "经济金融"
       ],
       "impact_level": "重大",
       "sources": [
         {
           "name": "财新网",
-          "url": "https://companies.caixin.com/2026-07-09/102462135.html"
+          "url": "https://finance.caixin.com/2026-07-09/102462160.html"
         }
       ]
     },
     {
-      "title": "英特尔新XBM内存架构曝光",
-      "summary": "英特尔公司最新专利曝光了一种名为XBM的新型内存架构，旨在绕过HBM的硅中介层，大幅降低AI计算的内存成本。该技术通过堆叠内存芯片直接与处理器通信，有望使AI服务器内存成本降低40%以上，挑战当前HBM市场主导地位，对三星、SK海力士构成潜在威胁。",
-      "reason": "芯片架构重大创新，可能改变AI内存市场格局，影响科技产业链。",
+      "title": "小鹏Robotaxi开启内测",
+      "summary": "小鹏汽车宣布其Robotaxi（自动驾驶出租车）开启内测，何小鹏称这是小鹏迈向'机器人汽车'的重要一步。小鹏成为国内首批落地L4级自动驾驶商业化运营的车企之一。",
+      "reason": "自动驾驶商业化落地关键进展，推动出行行业变革。",
       "impact_areas": [
-        "科技"
+        "科技",
+        "产业"
       ],
       "impact_level": "重大",
       "sources": [
         {
           "name": "36氪",
-          "url": "https://www.36kr.com/newsflashes/3887599984835077"
+          "url": "https://www.36kr.com/newsflashes/3887879142963973"
         }
       ]
     },
     {
-      "title": "SK海力士美国IPO获逾七倍认购",
-      "summary": "SK海力士的美国首次公开发行（IPO）获得逾七倍超额认购，显示全球投资者对高端存储芯片的强烈需求。该公司计划募资数十亿美元，用于扩大HBM产能。认购火爆反映市场对AI芯片需求持续旺盛，可能带动其他韩国芯片企业赴美上市。",
-      "reason": "全球最大存储芯片公司之一IPO火爆，反映AI芯片市场热度，影响资本市场。",
+      "title": "全球芯片行业挤泡沫",
+      "summary": "财新网发表分析文章指出全球芯片行业面临产能过剩与需求放缓双重压力，估值回调，投资降温。代表性事件包括三星、海力士等龙头业绩波动，韩国股市集中度问题恶化。",
+      "reason": "产业周期性拐点信号，对未来科技投资和供应链具有指导意义。",
       "impact_areas": [
-        "经济金融",
-        "科技"
+        "科技",
+        "经济金融"
       ],
       "impact_level": "重大",
       "sources": [
         {
-          "name": "36氪",
-          "url": "https://www.36kr.com/newsflashes/3887591779744258"
+          "name": "财新网",
+          "url": "https://opinion.caixin.com/2026-07-09/102462198.html"
         }
       ]
     },
     {
-      "title": "台风“巴威”逼近台湾",
-      "summary": "中央气象台7月9日发布台风、暴雨、海浪三预警，今年第8号台风“巴威”正以强台风级别向台湾岛东北部沿海靠近，预计将于11日白天登陆。其云系庞大，可覆盖东部四五个省份，登陆强度及路径存在不确定性，可能给台湾、福建、浙江等地带来强风暴雨，相关部门已启动应急响应。",
-      "reason": "超强台风来袭，威胁人口密集地区，影响农业生产和民众安全。",
+      "title": "韩国股市集中度危机",
+      "summary": "财新报道三星、海力士及相关杠杆ETF占韩国股市成交额逾七成，市场集中度问题恶化，低流动性个股波动风险加剧。投资者担忧韩国市场结构扭曲可能引发系统性风险。",
+      "reason": "重要金融市场结构性风险警示，可能传导至全球市场。",
       "impact_areas": [
-        "社会",
-        "生态"
+        "经济金融"
       ],
       "impact_level": "重大",
       "sources": [
         {
-          "name": "澎湃新闻",
-          "url": "https://m.thepaper.cn/detail/33546754"
-        }
-      ]
-    },
-    {
-      "title": "龙卷风袭击湖北小镇致2死",
-      "summary": "7月9日下午，一场龙卷风横扫湖北某小镇，持续约2分钟，造成2名居民被卷出屋外不幸坠亡，大量屋顶被掀飞，部分房屋倒塌。当地多部门已进驻现场，抢险和灾后恢复工作在高温中紧张进行。龙卷风在华中地区较为罕见，此次灾害引发对极端天气频发的关注。",
-      "reason": "极端天气造成人员伤亡，引发社会对防灾减灾的讨论。",
-      "impact_areas": [
-        "社会",
-        "生态"
-      ],
-      "impact_level": "重大",
-      "sources": [
-        {
-          "name": "虎嗅",
-          "url": "https://www.huxiu.com/article/4873741.html"
+          "name": "财新网",
+          "url": "https://database.caixin.com/2026-07-09/102462226.html"
         }
       ]
     }
   ],
-  "total_fetched": 220,
-  "generated_at": "2026-07-09T07:26:12.114322+08:00"
+  "total_fetched": 292,
+  "generated_at": "2026-07-09T12:26:11.163262+08:00"
 }
