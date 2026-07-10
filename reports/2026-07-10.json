@@ -2,99 +2,87 @@
   "date": "2026-07-10",
   "news": [
     {
-      "title": "美伊冲突升级，霍尔木兹航运停滞",
-      "summary": "美国与伊朗冲突持续升级，双方在波斯湾地区相互发动袭击。伊朗最高领袖哈梅内伊葬礼后，美伊陷入暴力循环。霍尔木兹海峡航运几近停滞，迹象显示一些油轮关闭应答器以隐藏行踪，全球油价波动加剧。经济学家指出世界已适应中东能源冲击，但供应中断风险仍对全球经济构成威胁。",
-      "reason": "多源密集报道，霍尔木兹海峡航运停滞直接影响全球能源供应，地缘风险极高。",
-      "impact_areas": [
-        "地缘",
-        "经济金融"
-      ],
-      "impact_level": "现象级",
-      "sources": [
-        {
-          "name": "BBC",
-          "url": "https://www.bbc.co.uk/news/articles/cz75zjj5wp8o?at_medium=RSS&at_campaign=rss"
-        },
-        {
-          "name": "财新网",
-          "url": "https://database.caixin.com/2026-07-10/102462588.html"
-        }
-      ]
-    },
-    {
-      "title": "晋江鞋厂火灾致28死",
-      "summary": "福建晋江一家鞋厂发生重大火灾，造成28人死亡。事发前一日该厂刚被查出消防隐患，遇难人员多为厂内工人，事发时正值午休。该厂员工逾1000人，工商参保仅12人，暴露用工安全隐患。福建省已成立事故调查组，晋江市委市政府公开道歉。",
-      "reason": "大规模伤亡事件，多平台高度关注，暴露安全生产与劳动保障问题。",
-      "impact_areas": [
-        "社会"
-      ],
-      "impact_level": "重大",
-      "sources": [
-        {
-          "name": "澎湃新闻",
-          "url": "https://m.thepaper.cn/detail/33556601"
-        },
-        {
-          "name": "凤凰网",
-          "url": "https://news.ifeng.com/c/8udqnDDtSLh"
-        }
-      ]
-    },
-    {
-      "title": "SK海力士赴美IPO募资265亿美元",
-      "summary": "韩国芯片巨头SK海力士在美国IPO募集265亿美元，每股定价149美元，刷新外国企业赴美上市纪录。此次融资将用于扩大HBM等先进存储产能，巩固其在AI芯片供应链中的核心地位。此前SK海力士获美国《芯片法案》补贴，此次IPO进一步强化其全球竞争力。",
-      "reason": "创纪录的外企赴美IPO，反映AI芯片需求旺盛及全球半导体资本格局变化。",
+      "title": "可重复使用火箭试验成功",
+      "summary": "7月10日，中国成功完成长征十号乙运载火箭一子级网系回收试验，标志着中国在火箭可重复使用领域取得重大突破。该技术可大幅降低发射成本，提升进入太空能力，为未来大规模星座部署和深空探测奠定基础。此次试验由航天科技集团主导，采用海上平台回收方式，技术路径与SpaceX猎鹰9号类似，但中国方案在回收精度和效率上有独特创新。此举被外界视为中国追赶SpaceX的关键一步，有望改变全球商业航天格局。",
+      "reason": "中国航天里程碑式突破，对标SpaceX可重复使用技术，对全球航天产业格局产生深远影响。",
       "impact_areas": [
         "科技",
-        "经济金融"
-      ],
-      "impact_level": "重大",
-      "sources": [
-        {
-          "name": "财新网",
-          "url": "https://database.caixin.com/2026-07-10/102462586.html"
-        },
-        {
-          "name": "BBC",
-          "url": "https://www.bbc.co.uk/news/articles/c4gym70r0y4o?at_medium=RSS&at_campaign=rss"
-        }
-      ]
-    },
-    {
-      "title": "GPT-5.6正式发布",
-      "summary": "OpenAI发布GPT-5.6，宣称效果比肩Fable 5（此前传闻的顶级模型），成本大幅降低。该模型在推理、编程、多模态任务上显著提升，同时API价格下调。业界认为此举将加速AI应用普及，但竞争加剧可能引发新一轮价格战。",
-      "reason": "重大AI模型更新，性能成本双优化，直接影响AI行业格局。",
-      "impact_areas": [
-        "科技"
+        "航天"
       ],
       "impact_level": "现象级",
       "sources": [
         {
-          "name": "澎湃新闻",
-          "url": "https://m.thepaper.cn/detail/33556391"
+          "name": "BBC",
+          "url": "https://www.bbc.co.uk/news/articles/cm2rmmx86pdo?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "name": "NYTimes",
+          "url": "https://www.nytimes.com/2026/07/10/world/asia/china-space-reusable-rocket-launch-spacex.html"
+        },
+        {
+          "name": "Reuters",
+          "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNN2RjUGFsaXBkem9rVmIyZlJvaUROSmJJY2lVVC1tV0xPcGo2eEd6WHhMeDlLMkV4dnhlaHZwYm9LeThGYkJ3Zm5zZmhiWGtNWmI3Q3hYZFV5M3dYQXpMclMzYTNIV3RSMWlKN2JQLUQ4dzN5OXpKSmctVkt1ckthVV9MQmFHYkFURC16MWxseDVfc0l5SURlb1ktb1lXNnpXalF2Tkkza3dXdXpHSGVHSUdnSm10Q0RqTW53V0lR?oc=5"
+        },
+        {
+          "name": "财新网",
+          "url": "https://www.caixin.com/2026-07-10/102462737.html"
         }
       ]
     },
     {
-      "title": "今年夏粮产量首破3000亿斤",
-      "summary": "全国夏粮实现丰收，产量首次突破3000亿斤，创历史新高。在粮食安全备受关注的背景下，这一数据表明国内粮食生产稳定，有助于稳定通胀预期。但需关注极端天气对秋粮的影响。",
-      "reason": "重要粮食生产数据，直接关系国家粮食安全和经济运行。",
+      "title": "伊朗最高领袖葬礼与美伊冲突",
+      "summary": "7月10日，伊朗为已故最高领袖哈梅内伊举行葬礼，大量民众聚集马什哈德。与此同时，美伊紧张局势持续升级：美国对伊朗实施新一轮军事打击，以色列表示愿参与对伊行动，而伊朗对约旦发动导弹袭击。国际调停努力仍在进行，但全面战争风险上升。哈梅内伊的继任者尚未明确，权力真空加剧不确定性。伊朗核问题、霍尔木兹海峡航运安全成为全球焦点。",
+      "reason": "中东地缘政治核心事件，全面战争风险上升，影响全球能源安全和国际秩序。",
       "impact_areas": [
+        "地缘",
+        "政治",
+        "经济金融"
+      ],
+      "impact_level": "现象级",
+      "sources": [
+        {
+          "name": "BBC",
+          "url": "https://www.bbc.co.uk/news/articles/c5yzm8m4peeo?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "name": "NYTimes",
+          "url": "https://www.nytimes.com/2026/07/10/world/middleeast/iran-supreme-leader-mojtaba-khamenei.html"
+        },
+        {
+          "name": "央视网",
+          "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBNR085amgwWWxrR09IT3ZXa2RzUWFLTEllczhRdFlUaW13X0pvdXEzQ0ZxQ1FOX2ZoOTJqTm1RSVRILURONEs0UDRKR3B2ZzZ5ZHJBc0ZaV052akduYnJhM2xwUlF2QlVFT3JGMjI5Wk1OQ3Y0cHh5bw?oc=5"
+        }
+      ]
+    },
+    {
+      "title": "台风\"巴威\"逼近闽浙沿海",
+      "summary": "强台风\"巴威\"已进入我国24小时警戒线，预计7月11日在闽浙沿海登陆。受其影响，浙江金华等地种植户紧急抢收早稻，福建、浙江多地启动防台应急响应，超市货架被抢空。气象部门警告可能出现海水倒灌，南方周末称台风可能\"闭眼\"但风险仍高。多家航司发布免费退改签方案，沿海地区严阵以待。",
+      "reason": "重大自然灾害逼近人口密集区，多平台持续热议，严重影响沿海居民生产生活。",
+      "impact_areas": [
+        "社会",
         "经济金融",
-        "社会"
+        "生态"
       ],
       "impact_level": "重大",
       "sources": [
         {
           "name": "澎湃新闻",
-          "url": "https://m.thepaper.cn/detail/33555896"
+          "url": "https://m.thepaper.cn/detail/33559209"
+        },
+        {
+          "name": "南方周末",
+          "url": "https://www.infzm.com/contents/325858"
+        },
+        {
+          "name": "央视网",
+          "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE92QnptMmJCYktTVmM0czlEbjkzS1BEZjRnM0FPdWxMblMxQjJLM0hBV3pLbnhpQWp1TnZzUDZqSUVDWi1HMm9ILTJoODJOUGdvNEdRVzFtYWcyLXlrT3h0M1FuUmF2OURqeWpnM2twLXFIbnFjal9IWg?oc=5"
         }
       ]
     },
     {
-      "title": "委内瑞拉地震遇难3889人",
-      "summary": "委内瑞拉遭遇强震，遇难人数已升至3889人，救援工作仍在进行。地震对该国基础设施和革命成果造成毁灭性打击，国际社会呼吁援助。此次灾害可能加剧委内瑞拉人道主义危机和政治不稳定。",
-      "reason": "大规模自然灾害，重大人员伤亡，引发国际关注。",
+      "title": "委内瑞拉强震遇难3889人",
+      "summary": "7月10日，委内瑞拉强震遇难人数升至3889人，搜救工作持续进行。地震导致大量建筑倒塌，一名母亲被埋后靠母乳喂养孩子获救的故事引发关注。此次地震是该国百年一遇的重大灾害，对基础设施和民生造成毁灭性打击，经济和社会秩序面临严峻考验。国际社会已开始提供援助。",
+      "reason": "重大人道主义灾难，遇难人数持续攀升，对委内瑞拉及南美地区产生深远影响。",
       "impact_areas": [
         "社会",
         "地缘"
@@ -104,68 +92,21 @@
         {
           "name": "央视网",
           "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5RUTBMdWFxZjhJdTRXRTdBOWNpaUdPS3AtdFJ6Y19tMFBhMENRaHRYUmd1QTBlZEZiczc2QU93a0lPbzdDcmhGcno5YmNCMWh6OEQ4ZklEQlB5Q2FGb1VHeDR2RkExQlhqUEota3JfT2hrazJyLWtsRg?oc=5"
-        }
-      ]
-    },
-    {
-      "title": "台风“巴威”逼近浙江",
-      "summary": "台风“巴威”预计将于明晚在浙江平阳至温岭一带沿海登陆，浙江已启动防台风应急响应，超市货架被抢购一空。自然资源部将闽浙海洋灾害应急响应升至二级，对上海启动四级应急响应。中央气象台发布暴雨橙色预警。",
-      "reason": "强台风直接威胁人口密集经济发达地区，防灾压力巨大。",
-      "impact_areas": [
-        "社会",
-        "经济金融"
-      ],
-      "impact_level": "重大",
-      "sources": [
-        {
-          "name": "澎湃新闻",
-          "url": "https://m.thepaper.cn/detail/33556588"
-        },
-        {
-          "name": "南方周末",
-          "url": "https://www.infzm.com/contents/325836"
-        }
-      ]
-    },
-    {
-      "title": "老挝成为上合对话伙伴",
-      "summary": "上海合作组织正式接纳老挝为对话伙伴，标志着该组织影响力进一步向东南亚延伸。老挝作为东盟成员国，此举将促进上合与东盟的合作，加强区域安全与经济协调。",
-      "reason": "重要地缘外交动态，上合组织扩员影响欧亚大陆合作格局。",
-      "impact_areas": [
-        "地缘",
-        "政治"
-      ],
-      "impact_level": "重大",
-      "sources": [
-        {
-          "name": "澎湃新闻",
-          "url": "https://m.thepaper.cn/detail/33556194"
         },
         {
           "name": "凤凰网",
-          "url": "https://news.ifeng.com/c/8udtC1R7NTR"
-        }
-      ]
-    },
-    {
-      "title": "美国PCE年度更新或影响利率",
-      "summary": "美联储密切关注的PCE指标年度更新，市场分析认为修订后的数据可能使年内不加息的理由略占上风。纽约联储行长表示需关注AI对通胀的影响。30年期美债收益率重新定价已经开始。",
-      "reason": "关键通胀数据更新，直接影响美联储政策预期和全球资产定价。",
-      "impact_areas": [
-        "经济金融"
-      ],
-      "impact_level": "重大",
-      "sources": [
+          "url": "https://news.ifeng.com/c/8ueKoXZ7fAJ"
+        },
         {
-          "name": "财新网",
-          "url": "https://database.caixin.com/2026-07-10/102462575.html"
+          "name": "NYTimes",
+          "url": "https://www.nytimes.com/2026/07/10/world/americas/venezuela-earthquake-death-baseball-los-criollitos.html"
         }
       ]
     },
     {
-      "title": "燧原科技科创板IPO注册获批",
-      "summary": "证监会同意燧原科技科创板IPO注册申请，该公司是国内AI芯片领军企业。此举将助力国产算力芯片发展，缓解AI芯片供应瓶颈，推动自主可控生态建设。",
-      "reason": "国内AI芯片龙头上市，科技与资本双重重要性，增强产业链自主可控。",
+      "title": "SK海力士在美上市筹资265亿美元",
+      "summary": "7月10日，全球第二大存储芯片制造商SK海力士在纽约证券交易所上市，筹资265亿美元，成为今年全球最大IPO。此举旨在扩大美国内存芯片产能，满足AI需求。美国商务部长敦促SK海力士和三星扩大对美投资。上市后，SK海力士股价上涨，相关杠杆ETF也将推出，反映市场对半导体行业的高关注度。",
+      "reason": "全球半导体行业重大资本事件，显示芯片产业对美投资热潮，影响科技金融格局。",
       "impact_areas": [
         "科技",
         "经济金融"
@@ -173,12 +114,106 @@
       "impact_level": "重大",
       "sources": [
         {
+          "name": "BBC",
+          "url": "https://www.bbc.co.uk/news/articles/c4gym70r0y4o?at_medium=RSS&at_campaign=rss"
+        },
+        {
           "name": "财新网",
-          "url": "https://www.caixin.com/2026-07-10/102462561.html"
+          "url": "https://database.caixin.com/2026-07-10/102462681.html"
+        }
+      ]
+    },
+    {
+      "title": "晋江鞋厂火灾致28人死亡",
+      "summary": "7月10日，福建晋江一家鞋厂发生严重火灾，造成至少28人死亡，多数遇难者被困楼顶。火势失控原因正在调查中，但初步判断与安全管理漏洞有关。事发后，凤凰网等媒体呼吁深入问责。此次事故是近年来制造业领域最严重的火灾之一，引发对劳动安全和消防监管的广泛讨论。",
+      "reason": "重大安全生产事故，28条生命损失，暴露制造业安全漏洞，引发全国关注。",
+      "impact_areas": [
+        "社会",
+        "经济金融"
+      ],
+      "impact_level": "重大",
+      "sources": [
+        {
+          "name": "BBC",
+          "url": "https://www.bbc.co.uk/news/articles/cx2vz51v2pjo?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "name": "凤凰网",
+          "url": "https://news.ifeng.com/c/8ueNKDj9qoQ"
+        }
+      ]
+    },
+    {
+      "title": "全国用电负荷创15.18亿千瓦新高",
+      "summary": "7月10日，受高温天气和复工复产推动，全国用电负荷达到15.18亿千瓦，创历史新高。各地电网运行平稳，但部分地区出现电力缺口。国家电网采取跨区调度等措施保障供应。该数据反映经济活跃度提升，同时凸显迎峰度夏电力保供压力。",
+      "reason": "关键经济先行指标异动，反映经济复苏势头和夏季供电紧张，影响能源政策和市场预期。",
+      "impact_areas": [
+        "经济金融",
+        "能源"
+      ],
+      "impact_level": "重大",
+      "sources": [
+        {
+          "name": "澎湃新闻",
+          "url": "https://m.thepaper.cn/detail/33558986"
+        },
+        {
+          "name": "36氪",
+          "url": "https://www.36kr.com/newsflashes/3889688139135753"
+        }
+      ]
+    },
+    {
+      "title": "夏粮产量首次突破3000亿斤",
+      "summary": "国家统计局7月10日公布，2026年全国夏粮总产量首次突破3000亿斤，达到3012亿斤，再创历史新高。这一成绩得益于面积稳定、单产提升和气候总体有利。夏粮丰收为全年粮食丰收奠定基础，对保障国家粮食安全、稳定物价具有重要意义。",
+      "reason": "国家粮食安全里程碑事件，夏粮产量创新高，对农产品市场和经济预期有稳定作用。",
+      "impact_areas": [
+        "经济金融",
+        "社会"
+      ],
+      "impact_level": "重大",
+      "sources": [
+        {
+          "name": "央视网",
+          "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBmcjlVcHYzSmNhcDR5VGMta0FvSW8xSGhRQ3h6YWJqSkV4ZDdDYVlBUnZoZEJ0bVdwcUx6cDNmVG9XZGVQODRHVHFlWFlPZG9mb0RMQURfMllNRGdMUHpYZnlMaTN1dUhwd1drVjNXc0RSeTlLUWFlUg?oc=5"
+        }
+      ]
+    },
+    {
+      "title": "两部门对氦气实施临时禁止出口",
+      "summary": "7月10日，商务部、海关总署联合发布公告，对氦气实施临时禁止出口管理。氦气是半导体、光纤、航天等领域关键原材料，中国是全球主要氦气进口国和消费国。此举旨在保障国内供应链稳定，应对国际形势变化。政策出台可能推高全球氦气价格，影响相关产业。",
+      "reason": "关键战略物资出口管制，直接冲击半导体等高科技行业供应链，政策信号强烈。",
+      "impact_areas": [
+        "科技",
+        "经济金融",
+        "地缘"
+      ],
+      "impact_level": "重大",
+      "sources": [
+        {
+          "name": "凤凰网",
+          "url": "https://news.ifeng.com/c/8ueIZJNECgK"
+        }
+      ]
+    },
+    {
+      "title": "上半年新能源汽车产销量双超700万辆",
+      "summary": "中国汽车工业协会7月10日发布数据，2026年上半年新能源汽车产销量分别达到705万辆和710万辆，同比增长均超40%，双双创历史新高。6月单月出口量首次突破百万辆，显示中国新能源汽车在全球市场的竞争力持续提升。该数据表明新能源汽车渗透率稳步提高，汽车产业电动化转型加速。",
+      "reason": "新能源汽车产业关键指标再创新高，反映产业趋势和出口竞争力，对经济和能源转型有重要意义。",
+      "impact_areas": [
+        "科技",
+        "经济金融",
+        "产业"
+      ],
+      "impact_level": "重大",
+      "sources": [
+        {
+          "name": "央视网",
+          "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBHbG15cFctUF9RQUpqWElmb0J4Zi1OM1ZYN1RVZEttM0VVYnEtcVRyWDlVQ0F4VElrVHFLdjYwZlJNejVnYVRtU2h5MzhsODE3WG9xQXdGT3RNNFFzNjV5bG43YkRHX1BuRkh1SDdkdmh1c3hfd3NtZQ?oc=5"
         }
       ]
     }
   ],
-  "total_fetched": 241,
-  "generated_at": "2026-07-10T12:26:36.624803+08:00"
+  "total_fetched": 278,
+  "generated_at": "2026-07-10T19:26:54.835766+08:00"
 }
