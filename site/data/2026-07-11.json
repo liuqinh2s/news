@@ -1,0 +1,187 @@
+{
+  "date": "2026-07-11",
+  "news": [
+    {
+      "title": "美伊局势谈判与制裁并行",
+      "summary": "美国与伊朗关系持续紧张。特朗普表示美方已同意继续与伊朗谈判，同时美国发布对伊朗的新制裁措施。伊朗外交部否认曾提出谈判诉求，但同意调解方访问伊朗。消息人士称美国、伊朗、巴基斯坦与卡塔尔将举行四方通话。多方调解努力试图避免冲突升级。",
+      "reason": "美伊局势牵动全球地缘政治，多国介入调解，制裁与谈判并行，影响能源市场和国际安全。",
+      "impact_areas": [
+        "政治",
+        "地缘",
+        "经济金融"
+      ],
+      "impact_level": "现象级",
+      "sources": [
+        {
+          "name": "凤凰网",
+          "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTFBXNGRXZ25nV21DMVM2X2VWNGFpenhRQzE4VDVCY3VueDZfSV9rYVNCTExrUEFhQVQzWEFTb1RsZnBnS1VKYXdnQw?oc=5"
+        },
+        {
+          "name": "凤凰网",
+          "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE5RNm1zZkNvcWdxVmRzdTFWTUM4d2dRZ09WbUg0UFFrZjlRNVhjWG13N3JKV01CczlQQkVsNVU1ZHhHXzRSclB1U2pCMUU?oc=5"
+        },
+        {
+          "name": "凤凰网",
+          "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE9GV2l0NWEyRG1Va3B1SWUwMmpqUVNwSlFBc1lyR1hDcWVIdEo3UkRrU1hneExnTWo1TktYdzFZS0NVRGNrakhoTQ?oc=5"
+        },
+        {
+          "name": "央视网",
+          "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBFbUd3SWs3RVB1Yi1wcEE3WlRaSUtTSjNzazVTeWtYWkVmdmVkOHowT1JEbnRBRWowdk92bGxZbGFidlNnLWR4VXlyOU5YQkJ2SjhLXy1NaUpMMmEzbjQ2V1hjdDFnODNMV3lIREE4SG5KTzQ4b0s3cA?oc=5"
+        },
+        {
+          "name": "NYTimes",
+          "url": "https://www.nytimes.com/2026/07/10/world/middleeast/iran-us-ceasefire-talks.html"
+        }
+      ]
+    },
+    {
+      "title": "委内瑞拉强震逾4千人遇难",
+      "summary": "委内瑞拉发生强烈地震，已造成至少4118人死亡。救援工作仍在进行，国际社会表示关切。此次地震为委内瑞拉近年来最严重的自然灾害，对当地基础设施和人民生命财产造成巨大损失。",
+      "reason": "重大自然灾害导致数千人死亡，国际关注度高，人道主义危机严重。",
+      "impact_areas": [
+        "社会",
+        "地缘"
+      ],
+      "impact_level": "现象级",
+      "sources": [
+        {
+          "name": "凤凰网",
+          "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE1xZ00tOWdVQ0lYN2YwazcxNWpsVXZCdDczdTZfemdZVnZUX05sWFU2aUJiSTZ2NkRqdTZhT1ZCbUZKYUpwclpxOUFjVlQ?oc=5"
+        },
+        {
+          "name": "凤凰网",
+          "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE9lZ3hmWGJkaXpkc2d4VHVJVjJoc09wUUpTeFRtNUlSdklIbTMyS2NjV3MtTjBubHVMMXczQ3ZiaFA1TzA3bTVmTQ?oc=5"
+        }
+      ]
+    },
+    {
+      "title": "苹果起诉OpenAI窃密",
+      "summary": "苹果公司正式起诉OpenAI及其员工，指控其窃取商业机密。苹果声称OpenAI利用前苹果员工获取了与AI技术相关的机密信息。此案可能对AI行业的人才流动和技术竞争产生深远影响。",
+      "reason": "科技巨头之间的重大诉讼，涉及AI核心技术，可能影响行业竞争格局和人才流动规则。",
+      "impact_areas": [
+        "科技"
+      ],
+      "impact_level": "现象级",
+      "sources": [
+        {
+          "name": "BBC",
+          "url": "https://www.bbc.co.uk/news/articles/cy8w379e091o?at_medium=RSS&at_campaign=rss"
+        }
+      ]
+    },
+    {
+      "title": "夏粮产量首破3000亿斤",
+      "summary": "2026年全国夏粮产量首次突破3000亿斤，实现丰收。这一里程碑标志着中国粮食生产能力再上新台阶，为保障国家粮食安全提供了坚实支撑。夏粮丰收有助于稳定物价和农业经济。",
+      "reason": "国家级粮食安全重大突破，对经济稳定和民生有直接积极影响。",
+      "impact_areas": [
+        "经济金融",
+        "社会"
+      ],
+      "impact_level": "重大",
+      "sources": [
+        {
+          "name": "央视网",
+          "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9iUGRPUUNXWWZSZE9JWjFkNHl4VzZGY2dfNV9OVGFQeFEtSDhCR0hFMmN6LS15NEhncXQ5ZFVoMWFqWVQ4YnBmZzFMMExtWkgzUWdnUkRkS2FMVVY5ZmxwRy1USGZ6UGJSTXpMVHIxMDRHRFpZZEZ2bQ?oc=5"
+        }
+      ]
+    },
+    {
+      "title": "上半年出入境人次创新高",
+      "summary": "2026年上半年全国出入境人员达3.69亿人次，创历史新高。这一数据反映疫情后国际人员流动全面恢复，显示中国对外开放和国际交流活跃度显著提升。出入境复苏利好航空、旅游等行业。",
+      "reason": "经济复苏关键指标，显示国际交流全面恢复，对多个行业有直接拉动作用。",
+      "impact_areas": [
+        "经济金融",
+        "社会"
+      ],
+      "impact_level": "重大",
+      "sources": [
+        {
+          "name": "央视网",
+          "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBuUmZQd0lWVS1PLUNNeTMzeDBLams4eXlnSlhjTFkxdlE5MTQ2U25LN0hmMGhldXNsbmR3LVZnZUtzS0xtSlRnQ0EyVWdTUWVmMENoZGFsWWpfYjh0cDRrUFFYTkFSUzlGekVWb3ZOcldKU1hmYU5MbQ?oc=5"
+        }
+      ]
+    },
+    {
+      "title": "英国拟监管云服务巨头",
+      "summary": "英国政府宣布将监管微软、谷歌等云服务提供商，以维护金融稳定。此举旨在防止云服务中断对金融系统造成冲击，要求云服务商遵守更高的弹性和安全标准。该监管将影响全球云计算行业。",
+      "reason": "国家级金融监管新规，对全球云服务市场格局和金融科技有重大影响。",
+      "impact_areas": [
+        "经济金融",
+        "科技"
+      ],
+      "impact_level": "重大",
+      "sources": [
+        {
+          "name": "Reuters",
+          "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPTURGc0ZPdHY3WEU0TGdWcnJsZ3JGWXZuZzR1dmM2V1hLR1BneXMxZXp6aUJveVpNNTdhMUZ1Q0RUX245UENvLWw1MXFfMXpBQXZoNllqWVZURE4yUkxKb0k5SW84ZFVWUXZORkdqXzItUzlBWDg5X0lDTzduTm1pWUlmbjVjdGJkUVJ6NHlFVWNBZm81ejMxUDA0ZDMwQVN2cnIzdkNLc1lRNllsN1N1YUlsQkdLbmJGa19BVHdfSkV0V3A5UDVPN0xrbUtwN01XWFoySg?oc=5"
+        }
+      ]
+    },
+    {
+      "title": "万亿存储巨头美股上市大涨",
+      "summary": "存储芯片巨头登陆美股，开盘大涨14%，开创行业‘第一’。该公司IPO募资规模庞大，市值超万亿，成为今年最大规模的科技公司上市。此举显示存储芯片市场复苏，资本追捧半导体行业。",
+      "reason": "存储芯片行业标志性IPO，反映半导体市场热点，对科技投资有风向标意义。",
+      "impact_areas": [
+        "科技",
+        "经济金融"
+      ],
+      "impact_level": "重大",
+      "sources": [
+        {
+          "name": "虎嗅",
+          "url": "https://www.huxiu.com/article/4874433.html"
+        }
+      ]
+    },
+    {
+      "title": "英伟达股价涨逾3%",
+      "summary": "英伟达股价涨幅扩大至3.15%，延续近期上涨趋势。市场对AI算力需求持续乐观，推动芯片龙头股价走高。英伟达在AI训练芯片市场占据主导地位，其股价表现被视为AI行业景气度的重要信号。",
+      "reason": "AI芯片龙头股价上涨，反映市场对AI行业持续看好，影响科技股整体走势。",
+      "impact_areas": [
+        "科技",
+        "经济金融"
+      ],
+      "impact_level": "重大",
+      "sources": [
+        {
+          "name": "凤凰网",
+          "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE1zcFNuV0JIWjhCUmxXdG51X3otX0ZtSXctY19ibm4yRTlIS3hscU5pTk1OVUtCV2JsR0JqNGdKMnd0dks0eXVfNA?oc=5"
+        }
+      ]
+    },
+    {
+      "title": "大众汽车保住10万岗位",
+      "summary": "大众汽车宣布保住10万个就业岗位，但公司面临利润下滑和转型压力。为应对电动汽车竞争和成本上升，大众此前计划裁员，最终通过内部调整避免了大规模裁员。此举对德国汽车产业和就业市场至关重要。",
+      "reason": "全球汽车巨头就业决策，影响汽车产业转型和德国经济民生。",
+      "impact_areas": [
+        "产业",
+        "经济金融"
+      ],
+      "impact_level": "重大",
+      "sources": [
+        {
+          "name": "虎嗅",
+          "url": "https://www.huxiu.com/article/4874439.html"
+        }
+      ]
+    },
+    {
+      "title": "智己汽车门店爆雷",
+      "summary": "智己汽车一家门店‘爆雷’，出现车主付款后提不到车、提车无合格证等问题。厂家表态将垫资‘兜底’。此事件暴露新能源汽车直营/加盟模式的风险，可能影响消费者信心和行业渠道生态。",
+      "reason": "新能源汽车渠道信任危机，反映行业高速扩张中的经营风险。",
+      "impact_areas": [
+        "产业",
+        "社会"
+      ],
+      "impact_level": "重大",
+      "sources": [
+        {
+          "name": "虎嗅",
+          "url": "https://www.huxiu.com/article/4874434.html"
+        }
+      ]
+    }
+  ],
+  "total_fetched": 188,
+  "generated_at": "2026-07-11T07:26:35.443865+08:00"
+}
