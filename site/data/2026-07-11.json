@@ -2,35 +2,10 @@
   "date": "2026-07-11",
   "news": [
     {
-      "title": "台风巴威致多地红色预警",
-      "summary": "今年第3号台风“巴威”正快速逼近浙江沿海，中心风力达16级。中央气象台发布今年首个暴雨红色预警，浙江提升防台风应急响应至Ⅰ级，52座机场受台风影响，多家机场航班全取消，上海、福建、山东等地紧急转移群众。预计“巴威”将于今天傍晚到夜间在浙江沿海登陆，带来特大暴雨和风暴潮，对东部沿海地区构成严峻考验。",
-      "reason": "最强等级台风正面袭击我国东部沿海，影响范围广、破坏力大，多省启动最高级别应急响应。",
+      "title": "美伊冲突升级",
+      "summary": "美国与伊朗对峙持续升级。特朗普声称已瞄准伊朗1000枚导弹，美国发布新一轮制裁并坚持要求伊朗停止在霍尔木兹海峡攻击船只。伊朗外交部拒绝谈判，但外交部长赴阿曼进行会谈。多方试图推动双方重回谈判桌，但局势仍高度紧张。",
+      "reason": "美伊冲突涉及全球能源安全与地缘政治稳定，多源高热度持续发酵。",
       "impact_areas": [
-        "社会",
-        "经济"
-      ],
-      "impact_level": "重大",
-      "sources": [
-        {
-          "name": "澎湃新闻",
-          "url": "https://m.thepaper.cn/detail/33565206"
-        },
-        {
-          "name": "凤凰网",
-          "url": "https://news.ifeng.com/c/8ufZ3qqg7Nn"
-        },
-        {
-          "name": "央视网",
-          "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5FOFljVlRzSmNmS0ZKWXF1S3hNd01MWkNtVzZ3UTNRa3RLRGNYZ21FN0loUWJqb04xNnRnV2l4dkR5QVpEdGxkWE9NajIzdmNNSGlrdEFQSC1VX1REdkduT3hCNGUycGRwVTRLajNKRXFfRHEySzJaOA?oc=5"
-        }
-      ]
-    },
-    {
-      "title": "特朗普威胁千枚导弹瞄准伊朗",
-      "summary": "美国前总统特朗普回应“伊朗试图暗杀其本人”的报道，声称已有1000枚导弹瞄准伊朗。美国官员透露，美方设定时间表要求伊朗承诺停止袭击霍尔木兹海峡。伊朗回应称美国违反谅解备忘录后果自负。同时，国际调解人试图推动美伊回到谈判桌，但局势持续紧张。霍尔木兹海峡是全球石油运输要道，冲突升级可能影响全球能源供应。",
-      "reason": "地缘政治危机一触即发，霍尔木兹海峡若受阻将冲击全球油价和经济稳定。",
-      "impact_areas": [
-        "政治",
         "地缘",
         "经济金融"
       ],
@@ -38,25 +13,53 @@
       "sources": [
         {
           "name": "凤凰网",
-          "url": "https://news.ifeng.com/c/8ufZNmkjebU"
+          "url": "https://news.ifeng.com/c/8ufwvvrKzyx"
         },
         {
-          "name": "BBC",
-          "url": "https://www.bbc.co.uk/news/articles/crelyq79x71o"
+          "name": "央视网",
+          "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5TM1pobzJpd1hBbXg0bVNnUHZBZ2g4RXY0aVd3bl9aamFqa01vaE51eEpOcGNvSEVPVmtrYzN5ZXZkWjFSUjBUaWx6dEZXOGE2N2wwYUgtLUotMlBLMXlhbmNPVU5MVW0tQW5JOWNlSUw5ZGdWVmh1OA?oc=5"
         },
         {
           "name": "Reuters",
           "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOTDI4WnJQY1UzQVd1QjZQMXRFUkM2SHdzNV9EYmd2cTQ2a1h3cTN0NTlza0JSMWFlbFhibmY0SnVRSHU0U2ZsRGpoMEhMamd5RXNZUXZRVUJRQnVzVGhtajFJbHdXSUtjNy1iOGpTODU3dG5YLUphaGlYRDRXLUZSdXF2U3laZDhaeTVvalFJbjlGOGJYaTFFdnRuMUJmZXE3U1Z0LTRxaUtiNTNnQnQ2bGdDZEVhUzV4OHdBVlBTSVVBdw?oc=5"
+        },
+        {
+          "name": "NYTimes",
+          "url": "https://www.nytimes.com/2026/07/11/world/middleeast/iran-araghchi-oman-iran-strait-of-hormuz.html"
         }
       ]
     },
     {
-      "title": "全国夏粮产量首超3000亿斤",
-      "summary": "国家统计局公布数据显示，2026年全国夏粮产量首次突破3000亿斤，实现丰收。这是我国粮食生产的一个重要里程碑，意味着粮食安全保障能力进一步提升。夏粮包括小麦、大麦等，占全年粮食产量的四分之一左右。此数据表明在政策支持和科技投入下，农业生产持续向好。",
-      "reason": "粮食安全是国家安全基石，夏粮创历史新高具有重大战略意义。",
+      "title": "台风巴威袭击中国沿海",
+      "summary": "台风\"巴威\"逼近中国沿海，中央气象台发布最高等级暴雨红色预警。浙江温州已转移超百万人，多家机场航班全取消，苏州园林暂停夜间开放。国家海洋预报台发布海浪红色警报。应急管理部对吉林启动地质灾害四级响应。",
+      "reason": "超强台风影响数千万人，多省启动应急响应，社会民生影响巨大。",
       "impact_areas": [
-        "经济",
-        "农业"
+        "社会",
+        "生态"
+      ],
+      "impact_level": "现象级",
+      "sources": [
+        {
+          "name": "凤凰网",
+          "url": "https://news.ifeng.com/c/8ug0q43Qk8K"
+        },
+        {
+          "name": "央视网",
+          "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5FOFljVlRzSmNmS0ZKWXF1S3hNd01MWkNtVzZ3UTNRa3RLRGNYZ21FN0loUWJqb04xNnRnV2l4dkR5QVpEdGxkWE9NajIzdmNNSGlrdEFQSC1VX1REdkduT3hCNGUycGRwVTRLajNKRXFfRHEySzJaOA?oc=5"
+        },
+        {
+          "name": "澎湃新闻",
+          "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE15YXhfS3J0Szl0elhBaFBTSVZxSXdLbXVNYUtQc2dkb1JtVDdKa1hvTElGWkxPa203bk5pa09KUWpCSGloTTdrR2JYZDVfSWZpQnp2bkwyZGVSOVNyelE?oc=5"
+        }
+      ]
+    },
+    {
+      "title": "2026年夏粮总产首破3000亿斤",
+      "summary": "国家统计局公布，2026年全国夏粮总产量首次突破3000亿斤，实现丰收。这标志着中国粮食生产能力再上新台阶，对保障国家粮食安全具有里程碑意义。",
+      "reason": "粮食安全核心指标，关系到全国14亿人的饭碗，影响全球粮食市场预期。",
+      "impact_areas": [
+        "经济金融",
+        "社会"
       ],
       "impact_level": "重大",
       "sources": [
@@ -67,53 +70,18 @@
       ]
     },
     {
-      "title": "全国用电负荷创新高",
-      "summary": "受高温天气和经济恢复双重影响，7月11日全国用电负荷创历史新高。国家电网表示，供电保障能力持续提升，通过跨省输电和需求侧管理等措施确保电力供应稳定。当前正值夏季用电高峰期，负荷攀升对电网运行提出挑战，但总体可控。",
-      "reason": "用电负荷是经济运行的晴雨表，创新高反映经济活跃度，同时考验能源保供能力。",
-      "impact_areas": [
-        "经济",
-        "能源"
-      ],
-      "impact_level": "重大",
-      "sources": [
-        {
-          "name": "央视网",
-          "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFAxWF9fM0ktU1R4NE9QZ0M4RC1TV3B5dXlzU0w4Z2V0ZV9CTE1VV0MwU1hhS1Y1aGxwLU9SV3d6Uk5uWnZxQTJONm9HeWMyNkEzalN5dFQzNER5MFNSOURnS3RBSE01TFJkNmpUeHFCVkNPTUFGeHRGMQ?oc=5"
-        }
-      ]
-    },
-    {
-      "title": "上半年出入境3.69亿人次",
-      "summary": "国家移民管理局数据显示，2026年上半年全国出入境人员达3.69亿人次，同比增长显著，创历史新高。这反映了国际人员往来加速恢复，跨境旅游、商务活动持续回暖。出入境人次创新高是经济开放的积极信号，也有利于促进国际交流。",
-      "reason": "出入境数据是衡量对外开放和跨境流动的关键指标，创新高显示经济活力。",
-      "impact_areas": [
-        "经济",
-        "社会"
-      ],
-      "impact_level": "重大",
-      "sources": [
-        {
-          "name": "央视网",
-          "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBuUmZQd0lWVS1PLUNNeTMzeDBLams4eXlnSlhjTFkxdlE5MTQ2U25LN0hmMGhldXNsbmR3LVZnZUtzS0xtSlRnQ0EyVWdTUWVmMENoZGFsWWpfYjh0cDRrUFFYTkFSUzlGekVWb3ZOcldKU1hmYU5MbQ?oc=5"
-        }
-      ]
-    },
-    {
       "title": "苹果起诉OpenAI窃密",
-      "summary": "苹果公司正式向法院提起诉讼，指控OpenAI及其部分员工窃取苹果的商业秘密，涉及人工智能相关技术。苹果在41页的起诉书中详述了证据。OpenAI回应称对其他公司的商业秘密不感兴趣，仍专注于创新。此案是科技巨头之间罕见的法律对弈，可能对AI行业竞争格局产生深远影响。",
-      "reason": "全球两大科技巨头对簿公堂，涉及核心AI技术，影响行业创新和知识产权保护。",
+      "summary": "苹果公司正式起诉OpenAI及其员工，指控其窃取商业机密。苹果称OpenAI通过挖角员工获取了苹果在AI领域的核心研发成果。OpenAI回应称对其他公司的商业秘密不感兴趣，专注自身创新。此案可能影响AI行业人才流动和技术竞争格局。",
+      "reason": "两大科技巨头法律对决涉及AI核心技术，行业影响深远，多源报道。",
       "impact_areas": [
-        "科技"
+        "科技",
+        "法律"
       ],
-      "impact_level": "重大",
+      "impact_level": "现象级",
       "sources": [
         {
           "name": "BBC",
-          "url": "https://www.bbc.co.uk/news/articles/cy8w379e091o"
-        },
-        {
-          "name": "虎嗅",
-          "url": "https://www.huxiu.com/article/4874471.html"
+          "url": "https://www.bbc.co.uk/news/articles/cy8w379e091o?at_medium=RSS&at_campaign=rss"
         },
         {
           "name": "36氪",
@@ -122,28 +90,9 @@
       ]
     },
     {
-      "title": "Meta暂停AI图像功能",
-      "summary": "在遭到连续多日的舆论抨击后，Meta宣布暂停其AI图像生成功能。该功能此前因生成不当内容、伦理问题以及侵犯版权而引发争议。Meta表示将重新评估并改进功能，确保安全合规。这是AI监管趋严背景下又一标志性事件，显示科技公司在AI伦理方面的脆弱性。",
-      "reason": "AI伦理争议持续发酵，Meta被逼整改反映监管压力增大，影响行业规范。",
-      "impact_areas": [
-        "科技"
-      ],
-      "impact_level": "重大",
-      "sources": [
-        {
-          "name": "BBC",
-          "url": "https://www.bbc.co.uk/news/articles/c2dy6e8klw0o"
-        },
-        {
-          "name": "36氪",
-          "url": "https://www.36kr.com/newsflashes/3890535190444553"
-        }
-      ]
-    },
-    {
-      "title": "SK海力士美股首日涨超12%",
-      "summary": "韩国半导体巨头SK海力士在美国纳斯达克上市，首日股价收涨超12%，市值大幅攀升。此次上市是年内最大规模科技股IPO之一，反映出投资者对AI芯片需求的持续乐观。SK海力士CEO透露正考虑“内存即服务”新模式，并计划在美国建厂，进一步拓展全球布局。",
-      "reason": "全球半导体巨头赴美上市受热捧，折射AI投资热潮，对产业链和资本市场有指引作用。",
+      "title": "SK海力士美国上市首日大涨",
+      "summary": "韩国半导体巨头SK海力士在纳斯达克上市，股票首日上涨超12%，市值飙升。SK海力士是AI芯片关键供应商，此次上市反映了全球AI投资热潮持续。公司高管表示未来可能增发，进一步扩张产能。",
+      "reason": "AI产业链标志性IPO，影响全球半导体投资风向和市场情绪。",
       "impact_areas": [
         "科技",
         "经济金融"
@@ -151,51 +100,98 @@
       "impact_level": "重大",
       "sources": [
         {
-          "name": "雪球热帖",
-          "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBtUVA3cl9ZdkpvQngzb0MxYW5DMUJndEpsRXZ5ZHR5Z0lDWGpaTDZxUldoWXFpYmM1S0t2dF9VcW0zMHZKS0ZjcEw3bmtPLV9lbGZnUkJldmdDeGo1bjFfblphUVp5U01UM0lkeEoyckg4TFhqLTB2cw?oc=5"
-        },
-        {
           "name": "Reuters",
           "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOSWhFRmx4bEZ1MW5rMXlkYmN0d0RqeXR6XzhQOXpiTlJBUGhub1gtWDhkb0hrM1RteDhnTmxacklUTXQ3UjRJb3laeEJoSFZXV0ljWklqMTVTYlpnNzMyLXRTd2xzWTB1QkZkNlI1RnFnWE1FX2kzNkVCTlNLMWpKUDhCVUJ5ZGxoQU1DalJLNFhvTVRZN0ZuSDVDZW1LR0duc3pZ?oc=5"
+        },
+        {
+          "name": "雪球",
+          "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBtUVA3cl9ZdkpvQngzb0MxYW5DMUJndEpsRXZ5ZHR5Z0lDWGpaTDZxUldoWXFpYmM1S0t2dF9VcW0zMHZKS0ZjcEw3bmtPLV9lbGZnUkJldmdDeGo1bjFfblphUVp5U01UM0lkeEoyckg4TFhqLTB2cw?oc=5"
         }
       ]
     },
     {
-      "title": "金价跌超20%汇丰下调展望",
-      "summary": "自美国与以色列对伊朗发动军事行动以来，国际金价已累计下跌超过20%。汇丰银行下调2026年黄金价格展望，认为地缘政治风险溢价消退、美元走强以及资金流向风险资产是主要压力。黄金ETF近期出现资金博弈，多空分歧加大。金价大幅波动对全球资产配置和央行储备决策具有重要影响。",
-      "reason": "金价极值波动反映地缘与货币政策变化，是重要宏观经济信号，影响投资走向。",
+      "title": "金价较2026年高点跌三成",
+      "summary": "黄金价格从2026年高点下跌约30%，北京菜百等金店黄金业务以刚需为主，投资需求冷淡。金价大幅下跌反映了市场对全球经济前景及通胀预期的变化，可能影响央行储备策略和投资者配置。",
+      "reason": "金价创多年极端跌幅，是重要的经济信号，对投资决策有重大参考价值。",
       "impact_areas": [
         "经济金融"
       ],
       "impact_level": "重大",
       "sources": [
         {
-          "name": "雪球热帖",
-          "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPU29lcUM5NzlnUlp2RE1MNnRjLUtpYXpUWkhWRnJvR0tySGI1Q0Y5VmVpOXJ6amgzV0h4UG1RNEpvOVNQUXgwNEt1eEVjaHk4YXhGYllvWFpKWGdOTnZNcWFOR0FYenVGcWN0WnB2N19DVW9kUUFaTkxycG9JLS1FOEFrSmhSLW8?oc=5"
+          "name": "财新网",
+          "url": "https://photos.caixin.com/2026-07-11/102463212.html"
         }
       ]
     },
     {
-      "title": "张玉卓任中国工程院院长",
-      "summary": "7月11日，中国工程院第十五次院士大会宣布选举产生新一届院领导班子，张玉卓当选院长。张玉卓此前担任国务院国有资产监督管理委员会主任，具有丰富的科技与产业管理经验。此次人事变动是中国工程科技领域的重大部署，或将影响国家科技决策和产业升级方向。",
-      "reason": "中国工程院领导层更替，直接关系国家科技战略和工程科技发展，影响深远。",
+      "title": "西班牙山火致12人死亡",
+      "summary": "西班牙南部发生严重森林大火，已造成至少12人死亡，成为该国近年来最致命的野火之一。强风和高温加剧火势蔓延，数百名消防员和军队参与灭火。气候变化背景下极端火灾频发引发关注。",
+      "reason": "欧洲极端天气事件，造成重大人员伤亡，气候议题升温。",
       "impact_areas": [
-        "政治",
-        "科技"
+        "生态",
+        "社会"
       ],
       "impact_level": "重大",
       "sources": [
         {
-          "name": "澎湃新闻",
-          "url": "https://m.thepaper.cn/detail/33564743"
+          "name": "BBC",
+          "url": "https://www.bbc.co.uk/news/articles/c1wyv383j2xo?at_medium=RSS&at_campaign=rss"
         },
         {
-          "name": "凤凰网",
-          "url": "https://news.ifeng.com/c/8ufTyMaxBnu"
+          "name": "NYTimes",
+          "url": "https://www.nytimes.com/2026/07/10/world/europe/spain-wildfire-deaths.html"
+        }
+      ]
+    },
+    {
+      "title": "尹锡悦终审被判7年",
+      "summary": "韩国前总统尹锡悦因妨碍逮捕等罪名被最高法院终审判处7年有期徒刑。此案涉及前总统干预司法，是韩国政治清算的延续。尹锡悦仍有多项其他案件待审。",
+      "reason": "韩国前总统被判刑，政治影响重大，反映韩国政局持续动荡。",
+      "impact_areas": [
+        "政治"
+      ],
+      "impact_level": "重大",
+      "sources": [
+        {
+          "name": "财新网",
+          "url": "https://international.caixin.com/2026-07-11/102462945.html"
+        }
+      ]
+    },
+    {
+      "title": "少子化冲击：一年关近3万所幼小",
+      "summary": "据财新教育观察，受少子化影响，中国幼儿园和小学一年内关闭近3万所。入学人口下降导致教育资源配置面临重大调整，多地出现教师过剩、校园闲置现象。",
+      "reason": "人口结构变化深刻影响教育体系和社会经济，长期趋势值得高度关注。",
+      "impact_areas": [
+        "社会",
+        "政治"
+      ],
+      "impact_level": "重大",
+      "sources": [
+        {
+          "name": "财新网",
+          "url": "https://www.caixin.com/2026-07-11/102463028.html"
+        }
+      ]
+    },
+    {
+      "title": "古巴一周内再次全面停电",
+      "summary": "古巴一周内第二次发生全国性大停电，电力系统崩溃导致全岛陷入黑暗。当局称原因是发电燃料短缺和基础设施老化。古巴经济危机加剧，民众生活受到严重影响。",
+      "reason": "古巴能源危机持续恶化，全国停电罕见，引发对拉美能源安全的关注。",
+      "impact_areas": [
+        "社会",
+        "经济金融"
+      ],
+      "impact_level": "重大",
+      "sources": [
+        {
+          "name": "央视网",
+          "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1hTkZsdVNsWG9BTWlxNjJQOHduOHpia1Z3NGg0TEhJS3JWeTVTZzRmbnZFb1pWQlgyc2pkT2s5WmUxc1d6QkRBYk9pUm5BUGVOVy05eTFlakx3Tmt2ellFYXlObTVkYlY2Qk5BWHpTVWdLdDFCZUYzdg?oc=5"
         }
       ]
     }
   ],
-  "total_fetched": 288,
-  "generated_at": "2026-07-11T12:26:59.133827+08:00"
+  "total_fetched": 285,
+  "generated_at": "2026-07-11T19:26:25.785878+08:00"
 }
