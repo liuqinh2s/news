@@ -2,9 +2,33 @@
   "date": "2026-07-11",
   "news": [
     {
-      "title": "美伊局势谈判与制裁并行",
-      "summary": "美国与伊朗关系持续紧张。特朗普表示美方已同意继续与伊朗谈判，同时美国发布对伊朗的新制裁措施。伊朗外交部否认曾提出谈判诉求，但同意调解方访问伊朗。消息人士称美国、伊朗、巴基斯坦与卡塔尔将举行四方通话。多方调解努力试图避免冲突升级。",
-      "reason": "美伊局势牵动全球地缘政治，多国介入调解，制裁与谈判并行，影响能源市场和国际安全。",
+      "title": "台风巴威致多地红色预警",
+      "summary": "今年第3号台风“巴威”正快速逼近浙江沿海，中心风力达16级。中央气象台发布今年首个暴雨红色预警，浙江提升防台风应急响应至Ⅰ级，52座机场受台风影响，多家机场航班全取消，上海、福建、山东等地紧急转移群众。预计“巴威”将于今天傍晚到夜间在浙江沿海登陆，带来特大暴雨和风暴潮，对东部沿海地区构成严峻考验。",
+      "reason": "最强等级台风正面袭击我国东部沿海，影响范围广、破坏力大，多省启动最高级别应急响应。",
+      "impact_areas": [
+        "社会",
+        "经济"
+      ],
+      "impact_level": "重大",
+      "sources": [
+        {
+          "name": "澎湃新闻",
+          "url": "https://m.thepaper.cn/detail/33565206"
+        },
+        {
+          "name": "凤凰网",
+          "url": "https://news.ifeng.com/c/8ufZ3qqg7Nn"
+        },
+        {
+          "name": "央视网",
+          "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5FOFljVlRzSmNmS0ZKWXF1S3hNd01MWkNtVzZ3UTNRa3RLRGNYZ21FN0loUWJqb04xNnRnV2l4dkR5QVpEdGxkWE9NajIzdmNNSGlrdEFQSC1VX1REdkduT3hCNGUycGRwVTRLajNKRXFfRHEySzJaOA?oc=5"
+        }
+      ]
+    },
+    {
+      "title": "特朗普威胁千枚导弹瞄准伊朗",
+      "summary": "美国前总统特朗普回应“伊朗试图暗杀其本人”的报道，声称已有1000枚导弹瞄准伊朗。美国官员透露，美方设定时间表要求伊朗承诺停止袭击霍尔木兹海峡。伊朗回应称美国违反谅解备忘录后果自负。同时，国际调解人试图推动美伊回到谈判桌，但局势持续紧张。霍尔木兹海峡是全球石油运输要道，冲突升级可能影响全球能源供应。",
+      "reason": "地缘政治危机一触即发，霍尔木兹海峡若受阻将冲击全球油价和经济稳定。",
       "impact_areas": [
         "政治",
         "地缘",
@@ -14,68 +38,25 @@
       "sources": [
         {
           "name": "凤凰网",
-          "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTFBXNGRXZ25nV21DMVM2X2VWNGFpenhRQzE4VDVCY3VueDZfSV9rYVNCTExrUEFhQVQzWEFTb1RsZnBnS1VKYXdnQw?oc=5"
+          "url": "https://news.ifeng.com/c/8ufZNmkjebU"
         },
-        {
-          "name": "凤凰网",
-          "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE5RNm1zZkNvcWdxVmRzdTFWTUM4d2dRZ09WbUg0UFFrZjlRNVhjWG13N3JKV01CczlQQkVsNVU1ZHhHXzRSclB1U2pCMUU?oc=5"
-        },
-        {
-          "name": "凤凰网",
-          "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE9GV2l0NWEyRG1Va3B1SWUwMmpqUVNwSlFBc1lyR1hDcWVIdEo3UkRrU1hneExnTWo1TktYdzFZS0NVRGNrakhoTQ?oc=5"
-        },
-        {
-          "name": "央视网",
-          "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBFbUd3SWs3RVB1Yi1wcEE3WlRaSUtTSjNzazVTeWtYWkVmdmVkOHowT1JEbnRBRWowdk92bGxZbGFidlNnLWR4VXlyOU5YQkJ2SjhLXy1NaUpMMmEzbjQ2V1hjdDFnODNMV3lIREE4SG5KTzQ4b0s3cA?oc=5"
-        },
-        {
-          "name": "NYTimes",
-          "url": "https://www.nytimes.com/2026/07/10/world/middleeast/iran-us-ceasefire-talks.html"
-        }
-      ]
-    },
-    {
-      "title": "委内瑞拉强震逾4千人遇难",
-      "summary": "委内瑞拉发生强烈地震，已造成至少4118人死亡。救援工作仍在进行，国际社会表示关切。此次地震为委内瑞拉近年来最严重的自然灾害，对当地基础设施和人民生命财产造成巨大损失。",
-      "reason": "重大自然灾害导致数千人死亡，国际关注度高，人道主义危机严重。",
-      "impact_areas": [
-        "社会",
-        "地缘"
-      ],
-      "impact_level": "现象级",
-      "sources": [
-        {
-          "name": "凤凰网",
-          "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE1xZ00tOWdVQ0lYN2YwazcxNWpsVXZCdDczdTZfemdZVnZUX05sWFU2aUJiSTZ2NkRqdTZhT1ZCbUZKYUpwclpxOUFjVlQ?oc=5"
-        },
-        {
-          "name": "凤凰网",
-          "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE9lZ3hmWGJkaXpkc2d4VHVJVjJoc09wUUpTeFRtNUlSdklIbTMyS2NjV3MtTjBubHVMMXczQ3ZiaFA1TzA3bTVmTQ?oc=5"
-        }
-      ]
-    },
-    {
-      "title": "苹果起诉OpenAI窃密",
-      "summary": "苹果公司正式起诉OpenAI及其员工，指控其窃取商业机密。苹果声称OpenAI利用前苹果员工获取了与AI技术相关的机密信息。此案可能对AI行业的人才流动和技术竞争产生深远影响。",
-      "reason": "科技巨头之间的重大诉讼，涉及AI核心技术，可能影响行业竞争格局和人才流动规则。",
-      "impact_areas": [
-        "科技"
-      ],
-      "impact_level": "现象级",
-      "sources": [
         {
           "name": "BBC",
-          "url": "https://www.bbc.co.uk/news/articles/cy8w379e091o?at_medium=RSS&at_campaign=rss"
+          "url": "https://www.bbc.co.uk/news/articles/crelyq79x71o"
+        },
+        {
+          "name": "Reuters",
+          "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOTDI4WnJQY1UzQVd1QjZQMXRFUkM2SHdzNV9EYmd2cTQ2a1h3cTN0NTlza0JSMWFlbFhibmY0SnVRSHU0U2ZsRGpoMEhMamd5RXNZUXZRVUJRQnVzVGhtajFJbHdXSUtjNy1iOGpTODU3dG5YLUphaGlYRDRXLUZSdXF2U3laZDhaeTVvalFJbjlGOGJYaTFFdnRuMUJmZXE3U1Z0LTRxaUtiNTNnQnQ2bGdDZEVhUzV4OHdBVlBTSVVBdw?oc=5"
         }
       ]
     },
     {
-      "title": "夏粮产量首破3000亿斤",
-      "summary": "2026年全国夏粮产量首次突破3000亿斤，实现丰收。这一里程碑标志着中国粮食生产能力再上新台阶，为保障国家粮食安全提供了坚实支撑。夏粮丰收有助于稳定物价和农业经济。",
-      "reason": "国家级粮食安全重大突破，对经济稳定和民生有直接积极影响。",
+      "title": "全国夏粮产量首超3000亿斤",
+      "summary": "国家统计局公布数据显示，2026年全国夏粮产量首次突破3000亿斤，实现丰收。这是我国粮食生产的一个重要里程碑，意味着粮食安全保障能力进一步提升。夏粮包括小麦、大麦等，占全年粮食产量的四分之一左右。此数据表明在政策支持和科技投入下，农业生产持续向好。",
+      "reason": "粮食安全是国家安全基石，夏粮创历史新高具有重大战略意义。",
       "impact_areas": [
-        "经济金融",
-        "社会"
+        "经济",
+        "农业"
       ],
       "impact_level": "重大",
       "sources": [
@@ -86,11 +67,27 @@
       ]
     },
     {
-      "title": "上半年出入境人次创新高",
-      "summary": "2026年上半年全国出入境人员达3.69亿人次，创历史新高。这一数据反映疫情后国际人员流动全面恢复，显示中国对外开放和国际交流活跃度显著提升。出入境复苏利好航空、旅游等行业。",
-      "reason": "经济复苏关键指标，显示国际交流全面恢复，对多个行业有直接拉动作用。",
+      "title": "全国用电负荷创新高",
+      "summary": "受高温天气和经济恢复双重影响，7月11日全国用电负荷创历史新高。国家电网表示，供电保障能力持续提升，通过跨省输电和需求侧管理等措施确保电力供应稳定。当前正值夏季用电高峰期，负荷攀升对电网运行提出挑战，但总体可控。",
+      "reason": "用电负荷是经济运行的晴雨表，创新高反映经济活跃度，同时考验能源保供能力。",
       "impact_areas": [
-        "经济金融",
+        "经济",
+        "能源"
+      ],
+      "impact_level": "重大",
+      "sources": [
+        {
+          "name": "央视网",
+          "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFAxWF9fM0ktU1R4NE9QZ0M4RC1TV3B5dXlzU0w4Z2V0ZV9CTE1VV0MwU1hhS1Y1aGxwLU9SV3d6Uk5uWnZxQTJONm9HeWMyNkEzalN5dFQzNER5MFNSOURnS3RBSE01TFJkNmpUeHFCVkNPTUFGeHRGMQ?oc=5"
+        }
+      ]
+    },
+    {
+      "title": "上半年出入境3.69亿人次",
+      "summary": "国家移民管理局数据显示，2026年上半年全国出入境人员达3.69亿人次，同比增长显著，创历史新高。这反映了国际人员往来加速恢复，跨境旅游、商务活动持续回暖。出入境人次创新高是经济开放的积极信号，也有利于促进国际交流。",
+      "reason": "出入境数据是衡量对外开放和跨境流动的关键指标，创新高显示经济活力。",
+      "impact_areas": [
+        "经济",
         "社会"
       ],
       "impact_level": "重大",
@@ -102,25 +99,51 @@
       ]
     },
     {
-      "title": "英国拟监管云服务巨头",
-      "summary": "英国政府宣布将监管微软、谷歌等云服务提供商，以维护金融稳定。此举旨在防止云服务中断对金融系统造成冲击，要求云服务商遵守更高的弹性和安全标准。该监管将影响全球云计算行业。",
-      "reason": "国家级金融监管新规，对全球云服务市场格局和金融科技有重大影响。",
+      "title": "苹果起诉OpenAI窃密",
+      "summary": "苹果公司正式向法院提起诉讼，指控OpenAI及其部分员工窃取苹果的商业秘密，涉及人工智能相关技术。苹果在41页的起诉书中详述了证据。OpenAI回应称对其他公司的商业秘密不感兴趣，仍专注于创新。此案是科技巨头之间罕见的法律对弈，可能对AI行业竞争格局产生深远影响。",
+      "reason": "全球两大科技巨头对簿公堂，涉及核心AI技术，影响行业创新和知识产权保护。",
       "impact_areas": [
-        "经济金融",
         "科技"
       ],
       "impact_level": "重大",
       "sources": [
         {
-          "name": "Reuters",
-          "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPTURGc0ZPdHY3WEU0TGdWcnJsZ3JGWXZuZzR1dmM2V1hLR1BneXMxZXp6aUJveVpNNTdhMUZ1Q0RUX245UENvLWw1MXFfMXpBQXZoNllqWVZURE4yUkxKb0k5SW84ZFVWUXZORkdqXzItUzlBWDg5X0lDTzduTm1pWUlmbjVjdGJkUVJ6NHlFVWNBZm81ejMxUDA0ZDMwQVN2cnIzdkNLc1lRNllsN1N1YUlsQkdLbmJGa19BVHdfSkV0V3A5UDVPN0xrbUtwN01XWFoySg?oc=5"
+          "name": "BBC",
+          "url": "https://www.bbc.co.uk/news/articles/cy8w379e091o"
+        },
+        {
+          "name": "虎嗅",
+          "url": "https://www.huxiu.com/article/4874471.html"
+        },
+        {
+          "name": "36氪",
+          "url": "https://www.36kr.com/newsflashes/3890734361377539"
         }
       ]
     },
     {
-      "title": "万亿存储巨头美股上市大涨",
-      "summary": "存储芯片巨头登陆美股，开盘大涨14%，开创行业‘第一’。该公司IPO募资规模庞大，市值超万亿，成为今年最大规模的科技公司上市。此举显示存储芯片市场复苏，资本追捧半导体行业。",
-      "reason": "存储芯片行业标志性IPO，反映半导体市场热点，对科技投资有风向标意义。",
+      "title": "Meta暂停AI图像功能",
+      "summary": "在遭到连续多日的舆论抨击后，Meta宣布暂停其AI图像生成功能。该功能此前因生成不当内容、伦理问题以及侵犯版权而引发争议。Meta表示将重新评估并改进功能，确保安全合规。这是AI监管趋严背景下又一标志性事件，显示科技公司在AI伦理方面的脆弱性。",
+      "reason": "AI伦理争议持续发酵，Meta被逼整改反映监管压力增大，影响行业规范。",
+      "impact_areas": [
+        "科技"
+      ],
+      "impact_level": "重大",
+      "sources": [
+        {
+          "name": "BBC",
+          "url": "https://www.bbc.co.uk/news/articles/c2dy6e8klw0o"
+        },
+        {
+          "name": "36氪",
+          "url": "https://www.36kr.com/newsflashes/3890535190444553"
+        }
+      ]
+    },
+    {
+      "title": "SK海力士美股首日涨超12%",
+      "summary": "韩国半导体巨头SK海力士在美国纳斯达克上市，首日股价收涨超12%，市值大幅攀升。此次上市是年内最大规模科技股IPO之一，反映出投资者对AI芯片需求的持续乐观。SK海力士CEO透露正考虑“内存即服务”新模式，并计划在美国建厂，进一步拓展全球布局。",
+      "reason": "全球半导体巨头赴美上市受热捧，折射AI投资热潮，对产业链和资本市场有指引作用。",
       "impact_areas": [
         "科技",
         "经济金融"
@@ -128,60 +151,51 @@
       "impact_level": "重大",
       "sources": [
         {
-          "name": "虎嗅",
-          "url": "https://www.huxiu.com/article/4874433.html"
+          "name": "雪球热帖",
+          "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBtUVA3cl9ZdkpvQngzb0MxYW5DMUJndEpsRXZ5ZHR5Z0lDWGpaTDZxUldoWXFpYmM1S0t2dF9VcW0zMHZKS0ZjcEw3bmtPLV9lbGZnUkJldmdDeGo1bjFfblphUVp5U01UM0lkeEoyckg4TFhqLTB2cw?oc=5"
+        },
+        {
+          "name": "Reuters",
+          "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOSWhFRmx4bEZ1MW5rMXlkYmN0d0RqeXR6XzhQOXpiTlJBUGhub1gtWDhkb0hrM1RteDhnTmxacklUTXQ3UjRJb3laeEJoSFZXV0ljWklqMTVTYlpnNzMyLXRTd2xzWTB1QkZkNlI1RnFnWE1FX2kzNkVCTlNLMWpKUDhCVUJ5ZGxoQU1DalJLNFhvTVRZN0ZuSDVDZW1LR0duc3pZ?oc=5"
         }
       ]
     },
     {
-      "title": "英伟达股价涨逾3%",
-      "summary": "英伟达股价涨幅扩大至3.15%，延续近期上涨趋势。市场对AI算力需求持续乐观，推动芯片龙头股价走高。英伟达在AI训练芯片市场占据主导地位，其股价表现被视为AI行业景气度的重要信号。",
-      "reason": "AI芯片龙头股价上涨，反映市场对AI行业持续看好，影响科技股整体走势。",
+      "title": "金价跌超20%汇丰下调展望",
+      "summary": "自美国与以色列对伊朗发动军事行动以来，国际金价已累计下跌超过20%。汇丰银行下调2026年黄金价格展望，认为地缘政治风险溢价消退、美元走强以及资金流向风险资产是主要压力。黄金ETF近期出现资金博弈，多空分歧加大。金价大幅波动对全球资产配置和央行储备决策具有重要影响。",
+      "reason": "金价极值波动反映地缘与货币政策变化，是重要宏观经济信号，影响投资走向。",
       "impact_areas": [
-        "科技",
         "经济金融"
       ],
       "impact_level": "重大",
       "sources": [
+        {
+          "name": "雪球热帖",
+          "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPU29lcUM5NzlnUlp2RE1MNnRjLUtpYXpUWkhWRnJvR0tySGI1Q0Y5VmVpOXJ6amgzV0h4UG1RNEpvOVNQUXgwNEt1eEVjaHk4YXhGYllvWFpKWGdOTnZNcWFOR0FYenVGcWN0WnB2N19DVW9kUUFaTkxycG9JLS1FOEFrSmhSLW8?oc=5"
+        }
+      ]
+    },
+    {
+      "title": "张玉卓任中国工程院院长",
+      "summary": "7月11日，中国工程院第十五次院士大会宣布选举产生新一届院领导班子，张玉卓当选院长。张玉卓此前担任国务院国有资产监督管理委员会主任，具有丰富的科技与产业管理经验。此次人事变动是中国工程科技领域的重大部署，或将影响国家科技决策和产业升级方向。",
+      "reason": "中国工程院领导层更替，直接关系国家科技战略和工程科技发展，影响深远。",
+      "impact_areas": [
+        "政治",
+        "科技"
+      ],
+      "impact_level": "重大",
+      "sources": [
+        {
+          "name": "澎湃新闻",
+          "url": "https://m.thepaper.cn/detail/33564743"
+        },
         {
           "name": "凤凰网",
-          "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE1zcFNuV0JIWjhCUmxXdG51X3otX0ZtSXctY19ibm4yRTlIS3hscU5pTk1OVUtCV2JsR0JqNGdKMnd0dks0eXVfNA?oc=5"
-        }
-      ]
-    },
-    {
-      "title": "大众汽车保住10万岗位",
-      "summary": "大众汽车宣布保住10万个就业岗位，但公司面临利润下滑和转型压力。为应对电动汽车竞争和成本上升，大众此前计划裁员，最终通过内部调整避免了大规模裁员。此举对德国汽车产业和就业市场至关重要。",
-      "reason": "全球汽车巨头就业决策，影响汽车产业转型和德国经济民生。",
-      "impact_areas": [
-        "产业",
-        "经济金融"
-      ],
-      "impact_level": "重大",
-      "sources": [
-        {
-          "name": "虎嗅",
-          "url": "https://www.huxiu.com/article/4874439.html"
-        }
-      ]
-    },
-    {
-      "title": "智己汽车门店爆雷",
-      "summary": "智己汽车一家门店‘爆雷’，出现车主付款后提不到车、提车无合格证等问题。厂家表态将垫资‘兜底’。此事件暴露新能源汽车直营/加盟模式的风险，可能影响消费者信心和行业渠道生态。",
-      "reason": "新能源汽车渠道信任危机，反映行业高速扩张中的经营风险。",
-      "impact_areas": [
-        "产业",
-        "社会"
-      ],
-      "impact_level": "重大",
-      "sources": [
-        {
-          "name": "虎嗅",
-          "url": "https://www.huxiu.com/article/4874434.html"
+          "url": "https://news.ifeng.com/c/8ufTyMaxBnu"
         }
       ]
     }
   ],
-  "total_fetched": 188,
-  "generated_at": "2026-07-11T07:26:35.443865+08:00"
+  "total_fetched": 288,
+  "generated_at": "2026-07-11T12:26:59.133827+08:00"
 }
