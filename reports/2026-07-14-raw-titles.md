@@ -1,4 +1,4 @@
-# 2026-07-14 原始新闻标题 (213 条)
+# 2026-07-14 原始新闻标题 (275 条)
 
 ## 新华社 (20 条)
 - Education, health fees among key concerns
@@ -22,93 +22,135 @@
 - Former Chongqing political official facing corruption investigation
 - Former Chongqing political official facing corruption investigation
 
-## 澎湃新闻 (11 条)
+## 澎湃新闻 (20 条)
+- 全球首颗软件定义近存计算3D芯片在沪发布 - thepaper.cn
 - 观察｜当价格不再是唯一评判标准，上海需要怎样的“小菜场”？ - thepaper.cn
+- 世界人工智能大会期间，上海将对部分区域道路采取交通管制措施 - thepaper.cn
+- 郯城县公益救援协会配合胜利镇开展防汛应急抢险救援综合演练 - thepaper.cn
+- 参与倡导IACS《油船和散货船共同结构规范》获通过 - thepaper.cn
+- 乐事薯片中被曝出现蓝色异物 此前产品曾因霉变被拒入境 - thepaper.cn
 - 热闹的具身智能，全是演的 - thepaper.cn
 - 宁夏政协社会和法制委员会组织召开立法协商会 - thepaper.cn
+- 吉林东辽：409户村民提前转移安置 - thepaper.cn
 - 非遗邂逅ESG 上海青少年旧衣改造公益实践启动 - thepaper.cn
+- 辞赋大家最终被踢出一流梯队，蔡邕的地位下降，究竟从何而始？ - thepaper.cn
+- 马斯克的双面人生 - thepaper.cn
 - 别欺负那个不会喊疼的“老实器官”，你的肾可能已经忍你很久了 - thepaper.cn
-- 福建清流“情暖两岸·成长有我”校地公益暑托班正式开班 - thepaper.cn
-- 这帮人干事情没话讲 - thepaper.cn
+- 时令瓜果抢鲜上市 特色产业助农增收 - thepaper.cn
 - 容易得糖尿病的一个坏习惯，你可能每天都在做 - thepaper.cn
+- 福建清流“情暖两岸·成长有我”校地公益暑托班正式开班 - thepaper.cn
 - 胃病照我说的忌口，黏膜自然慢慢修复 - thepaper.cn
 - 宝宝多并趾术后痛感明显吗？无需拆线术后痛感很轻微 - thepaper.cn
-- 肠易激总拉肚子？记住三个温字，让肠道暖起来！ - thepaper.cn
+- 这帮人干事情没话讲 - thepaper.cn
+- 珠江啤酒增速滑坡 - thepaper.cn
 
 ## 凤凰网 (20 条)
-- “强攻工业、大抓产业，加快打造高质量发展的现代产业新区”新闻发布会 - 凤凰网江西
-- 套取补贴、骗补 九江取消12家家电销售企业参与旧换新活动资格 - 凤凰网江西
+- 领克07 GT试驾实测！磁流变悬架带来什么驾乘提升？ - 凤凰网
+- 天天学习｜一条“不可能建成的铁路” - 凤凰网
+- 伊朗阿巴斯港以西发生五次爆炸 - 凤凰网
+- 伊称美军空袭霍尔木兹甘省已致3人死亡 - 凤凰网
 - 中共中央批准：刘强任山东省委副书记 - 凤凰网
-- 茅台1935牵手时尚赛道以场景化实践落地全面向C战略 - 凤凰网
-- 商业航天概念盘初下挫 中国卫星等跌停 - 凤凰网财经
-- 创新药概念震荡上行 陇神戎发涨超13% - 凤凰网财经
-- 伊朗称摧毁美海军第五舰队雷达 - 凤凰网
-- 港股开盘：恒指、恒科齐跌，石油化工、半导体板块上涨 - 凤凰网财经
-- 木薯资源今早复牌 - 凤凰网财经
-- 恒指低开0.13% 恒生科技指数跌0.25% - 凤凰网财经
-- 7月14日人民币对美元中间价调贬18个基点 - 凤凰网财经
-- 国内期货开盘涨跌不一 原油、燃油涨超7% - 凤凰网财经
+- 赤峰黄金：上半年净利润同比预增54%到61% - 凤凰网
+- 贵溪3所民办幼儿园停止办学 从2026年8月不再招生 - 凤凰网江西
 - 江西选手在2026年全国残疾人田径锦标赛中喜获1金3银 - 凤凰网江西
 - #王宝强42岁状态 从草根逆袭到大明星大导演，他靠的从来不只是运气#抖音电影奇遇夜 - 凤凰网
-- 《春风习习的地方》第二季第四集《非遗生花》 - 凤凰网
-- 我国社会治安形势持续向好 群众安全感稳步提升 - 凤凰网
-- 《春风习习的地方》第二季第三集《春风速递》 - 凤凰网
-- 未来五年，这样提高国民健康水平 - 凤凰网
-- 王沪宁将访问朝鲜 - 凤凰网
-- 最新！景德镇市非学科类校外培训机构“白名单”公布 - 凤凰网江西
+- 民众党青年团到访上海，党主席黄国昌表态 - 凤凰网
+- 权威数读｜上半年外贸稳规模优结构成效明显 - 凤凰网
+- 粤港澳大湾区跨境游热度攀升 7月以来拱北口岸日均进出境旅客超31万人次 - 凤凰网
+- 《南海仲裁案裁决新批驳》报告发布 揭示所谓“裁决”存重大谬误 - 凤凰网
+- 全球媒体聚焦｜外媒：中国AI发展路径引全球关注 - 凤凰网
+- 【2026打卡中国】礼乐非遗数字光影让儒家文化在尼山脚下“活”起来（视频） - 凤凰网
+- 中国电商物流指数连续4个月回升 - 凤凰网
+- 大余：“村BA”点燃乡村活力（图） - 凤凰网江西
+- 共青城市卫生健康委员会党委委员肖冬生被查 - 凤凰网江西
+- 甘肃两当县公安局副局长党博学任上被查 - 凤凰网
+- 安远20个小区物业服务价格公示，看看有你家吗？ - 凤凰网江西
 
-## 财新网 (11 条)
-- 商品详情 - 财新商城
-- 大搞家族腐败 政治局委员马兴瑞官宣被“双开” - china.caixin.com
-- 被控受贿数额特别巨大 “烟草虎”韩占武将于江西九江受审 - china.caixin.com
-- 二永债的“量”与“层” - 财新
-- 美“鹰派”参议员格雷厄姆病故：从特朗普的批判者到扈从者｜讣闻 - 财新
-- 中山大学：222人，取消录取资格 - 财新
-- 海南赤潮连续暴发 三亚等地有海水养殖户损失惨重 - 财新
-- 把自己的脸卖给AI，背后有何隐忧？｜热议 - 财新
-- 人事观察｜贵州党政高层调整 副省长、纪委书记就位 - china.caixin.com
-- 特稿｜大模型急招FDE AI落地垂直行业卡口何在？ - 财新
-- 财经早知道｜特朗普：重新封锁伊朗，对通过霍尔木兹货物按20%收费 - 财新
+## 财新网 (20 条)
+- 银行、AMC与国资企业公开抛售资产 上半年深圳法拍类和不良资产交易升温
+- 美联邦法官推翻特朗普诉国税局案 指和解协议不具备法律效力
+- “城商行一哥”新行长落定 江苏银行“袁高配”正式就位
+- 爱诗科技C轮融资29.8亿元 AI视频模型加注实时交互
+- 智能养老：从技术可行迈向服务可及
+- 华北暴雨试验系统揭示降水形成机理：季风及地形共塑华北极端降水格局｜自然
+- 我的能耗管理手记｜亲历
+- 人事观察｜“70后”济南书记刘强 履新山东省委副书记
+- 财新调查｜二季度GDP同比增速或名义改善、实际回落
+- 6月进出口额增速均超预期 AI出口高增主要受涨价带动
+- 美军实战中首次动用自杀式无人艇 袭击伊朗海军基地
+- 【市场动态】韩元触及两个月高位 受SK海力士ADR资金结汇预期提振
+- 【市场动态】梁文锋成全球身家最高的AI公司创始人 得益于DeepSeek估值飙升
+- 【市场动态】城堡证券称散户以接近史上最快速度涌入美股 但下行保护需求升温
+- 逐际动力完成近2亿美元Pre-IPO融资 估值150亿元人民币
+- 《功夫女足》：周星驰，和“周星驰”渐行渐远｜影视
+- 阿西莫格鲁低估AI了吗？
+- 阶跃星辰发布智能体操作系统 展示首款AI手机STEPX Neo
+- 国民健康“十五五”规划：控制三级医院规模、推动AI赋能全产业链
+- 【行业深度】存储板块上半年业绩预喜 利润高增能否持续？
 
-## 央视网 (5 条)
+## 央视网 (14 条)
+- 中共中央决定给予马兴瑞开除党籍、开除公职处分 - 央视网
+- 不光“用得起”更要“用得好” 康复辅具产业扩能提质向“智能”跨越 - 央视网
+- “中国制造”与全球需求精准适配 外贸“含智量”“含绿量”持续提升 - 央视网
+- 《感动中国2025年度人物颁奖盛典》7月14日播出 - 央视网
 - “蛛网”行动翻版？俄称挫败乌远程偷袭图谋 - 央视网
 - 我国外贸“含智量”稳步提升 工业机器人上半年出口62.9亿元 - 央视网
-- 中共中央决定给予马兴瑞开除党籍、开除公职处分 - 央视网
-- 被“反杀”的老千 - 央视网
+- 浙江省水利厅原党组成员、副厅长杨炯接受纪律审查和监察调查 - 央视网
+- 粤港澳大湾区跨境游热度攀升 7月以来拱北口岸日均进出境旅客超31万人次 - 央视网
 - 买墨喝墨吃墨 影视IP助燃“墨香消费” - 央视网
+- 被“反杀”的老千 - 央视网
+- 山东青岛：胶州湾第二海底隧道主线隧道盾构掘进顺利收官 - city.news.cctv.com
+- 翻看上半年消费账单 60秒解锁消费领域新亮点、新模式 - 央视网
+- 四川电网用电负荷达到7431.8万千瓦 创历史新高 - city.news.cctv.com
+- “技术跟跑”→“全球领跑”→“全域赋能” 借助权威数据“数”读中国AI产业新动能 - 央视网
 
-## BBC (17 条)
-- UAE condemns Iran's 'brazen' attack on tankers as US launches fresh strikes
-- Death toll from Bangkok bar fire rises to 30 as police probe safety lapses
+## BBC (20 条)
+- Bangkok fire investigation finds locked doors and flammable decor as deaths climb to 30
+- 'If we die, we die together': Wife of man nearly sucked out of Ryanair plane speaks of ordeal
+- Yemen's Houthis launch missiles at Saudi Arabia after strikes on Sanaa airport
 - Australian police reveal unseen photos 25 years after British backpacker murder
+- Hungary parliament votes to remove president from office
 - US judge voids Donald Trump's $1.8bn settlement with IRS that gave him immunity from tax audits
 - Colombian national killed by ICE agent during operation in Maine
 - Identity of Sydney daycare worker facing 329 child abuse offences revealed
+- EU bans gold imports from Sudan to curb money financing the war
 - Bison rams grandfather in Yellowstone Park, knocking him metres into the air
-- Hungary parliament votes to remove president from office
+- Health fears as frail Indian activist on hunger strike loses 8.2kg
+- US burrito giant Chipotle opening first outlet in Mexico
 - Briton tells of surviving Spain wildfire in car as wife and friends died trying to run to safety
 - 'Hero, legend, sweetheart': Tributes to Jurassic Park actor Sam Neill, who has died aged 78
 - Lindsey Graham's sister chosen as replacement after senator's death
 - Volkswagen planning to cut up to 100,000 jobs globally
 - UK-Switzerland deal to scrap roaming charges and allow Britons to use e-gates
 - Wildfire raging south of Paris could have been set deliberately, says minister
-- Man wanted in connection with murder arrested in Jordan
-- Health fears as frail Indian activist on hunger strike loses 8.2kg
-- Watch: Horses evacuated as fire approaches riding centre near Paris
+- How India's Lord's win echoes the legacy of its pioneering women cricketers
+- How US commerce secretary's Epstein links were uncovered by British whistleblower
 
-## Reuters (6 条)
+## Reuters (11 条)
+- US says it has completed its latest wave of strikes on Iran - Reuters
 - Americans expect prolonged US-Iran war as ceasefire falters, Reuters/Ipsos poll finds - Reuters
+- World stocks dip as oil rises after Trump's Hormuz levy threat - Reuters
+- Trump sends Congress formal notice that Iran conflict has resumed - Reuters
+- New York becomes the first state to impose a data center moratorium - Reuters
 - Houthis fire missiles at Saudi Arabia, breaking years of calm - Reuters
-- Trump slashes the size of two Utah national monuments - Reuters
+- UAE says Iranian missiles struck oil tankers in Strait of Hormuz, one sailor killed - Reuters
 - Inside South Korea's world-beating bear market - Reuters
 - Focus: Wall Street banks ramp up digital assistants in bid to win productivity race - Reuters
+- New bids from Fairfax and Emirates revive stalled IDBI Bank sale, say sources - Reuters
 - Michigan Cases of Intestinal Disease From Parasite Soar to Over 2,600 - GV Wire
 
 ## NYTimes (20 条)
-- Live Updates: U.S. Strikes Iran for 3rd Night, in Return to Open Conflict
+- U.S. Strikes Iran for 3rd Night, in Return to Open Conflict
 - U.K. to Change Law to Allow Deportation of ‘Grooming Gang’ Leader
 - A Robot Army Remakes Ground Warfare in Ukraine
 - Sheikh Hamad bin Khalifa, Ruler Who Transformed Qatar, Dies at 74
+- Europe, Flexing Muscle in Ukraine, Is Still on Sidelines in Iran
+- China Purges Top Official Over Corruption and Sex Charges
+- Trump’s Plan to Charge a Toll in the Strait of Hormuz: What to Know
+- In Bangkok Bar Blaze, Signs of Fatal Lapses Repeated Across the World
+- Trump Will Let Ukraine Build Patriots. Ukraine Wants to Make Homegrown Missiles, Too.
+- A Heated Rivalry Over Bull Mascots Is Dividing a Brazilian Town
+- Here’s the latest.
 - Deportations by India Cause Tension Along Border with Bangladesh
 - Israel’s Regime-Change Plan for Iran
 - Hamas Forces Interfered With Aid Distribution, U.N. Says
@@ -118,13 +160,6 @@
 - Trump’s Threat to Impose Fees in the Strait of Hormuz Contradicts His Aides
 - Yemen’s Fragile Peace in Peril as Houthis Accuse Saudi Arabia of Bombing
 - Europe Will Defend Itself ‘With Blood, if Necessary,’ Macron Says
-- UK Links Iran to Antisemitic Attacks and Calls IRGC Terrorist Group
-- Iranian Hard-Liners Threaten Trump as U.S.-Iran Strikes Continue
-- UK Counterterrorism Police Take Over Investigation Into Ann Widdecombe’s Death
-- A Brazilian Biopic About Jair Bolsonaro Is Threatening His Son’s Presidential Campaign
-- Here’s where the U.S. and Iran are targeting each other in their latest attacks.
-- Inside Israel’s Secret Operation to Install Ahmadinejad, Iran’s Former President, as Leader
-- Here’s the latest.
 
 ## CNN (6 条)
 - 0% intro APR until 2024 is 100% insane
@@ -135,114 +170,143 @@
 - Want Cash Out of Your Home? Here Are Your Best Options
 
 ## 微博热搜 (20 条)
-- 马兴瑞被双开
-- 乐事 蓝色薯片
-- 一组先行指标看中国经济
-- 女子把绿豆汤当水喝致脑出血
-- 张雅琪回应中餐厅表现争议
-- 超250万人请愿将阿根廷逐出世界杯
-- 途观帕萨特夏日风暴
-- 中国人一旦吃饱就触发善良人格
-- 歌手2026突围名单
-- TMEA盛典阵容官宣
-- 副局长自购10亿token月费20多
-- 俞敏洪回应明明天权孙东旭合伙
-- 周子瑜不与JYP续约
-- 乐事回应薯片中被曝出现蓝色异物
-- 哈兰德抱着浣熊回挪威
-- 白鹿莫离被删戏编剧证实
-- A股失守3900
-- 施南生是百分百痴情女子
-- 法国男子来上海出差背了一台空调回国
-- iOS27公测版来了
+- 疑AI照片拿了摄影比赛一等奖
+- 工资向一线岗位倾斜
+- 一组高频数据看中国经济新动能
+- Note17小金刚今晚7点见
+- A股暴力拉升原因
+- 中国燃油车只剩最后一根续命稻草
+- 请愿逐出阿根廷人数已超500万
+- 今日辟谣
+- 世界杯半决赛裁判
+- 功夫女足破7亿票房
+- 女子追尾身亡男友副驾睡觉被起诉
+- 被长期主义的消费观震惊到了
+- 章若楠跑男化妆师评论区被阴阳白干
+- 虞书欣 全世界正数第一会穿搭
+- 金饰价格又崩了
+- 台媒拍的曾沛慈的一天
+- 黄金超混穿越中国
+- 邹市明2亿理财亏损始末
+- 周星驰回应选角迪丽热巴
+- 伴娘遭婚闹致九级伤残9人赔23万
 
 ## 知乎热榜 (2 条)
 - 知友发现 2026 菲尔兹奖名单泄露，王虹、邓煜疑似双双获奖，如何看待这一信息？ - 知乎
 - 福建晋江鞋厂火灾现场疏散213人 500余人投入救援记者采访了解到，福建晋江陈埭镇江头村的辉腾鞋业有限公… - 知乎
 
 ## B站热门 (20 条)
+- 《崩坏：星穹铁道》姬子•启行角色PV——「启明星于今夜坠落」
+- 如何正确安慰兄弟
 - 孩子总把网络烂梗挂嘴边怎么办？【AI全民制作人】
-- 在我的世界还原风雷翅！飞行突破五倍音速？！
-- 动态视频｜世界上所有的钱，加起来有多少？
-- 【纪录片】闪闪的儿科医生4 第7集 父爱练习手册
-- 我们好久没在一起玩了呢，桑多涅~
-- 看完别笑 你也过不了第二关
+- 【复制铜镜全系列合集】ai软件生成，剧情虚构，非官方）正片+番外+解说+彩蛋
+- Bro有话说2
+- 假如你在一个十万人宿舍查寝【AI全民制作人】
+- 《最失败の高情商》
+- 《迈亚融解》实机首曝
+- 碳水的快乐必须是土豆焖饭！暑假带娃来看大漠孤烟啦，感受一下天地辽阔，每天两眼一睁就是挖，是他这个爱挖沙星人的快乐星球啦
+- 这期不笑的是给
+- 《办席竞赛》
 - “父爱如山，无关智商！”
-- 今天来广东韶关，挑战在200多年历史的悬崖小屋上住一晚，体验一把野外生存
-- 热烈欢庆传奇反华魔怔人 林赛-格雷厄姆暴毙
-- 天庭裁员，杨戬哮天下凡再就业？
-- 《洛克王国：世界》S3赛季部分新增和优化内容，实机提前看！
-- 这才是《The Other Side Of Paradise》原版MV！
-- 循环歌单|【SINOS DE NATAL】|“【对视の小曲】”
+- 属于川渝人的寿司
+- 哭着剪完这条视频…
+- BW遇到台风！？漫展摆摊卖雨具和拖鞋有没有搞头？
+- 我们好久没在一起玩了呢，桑多涅~
 - 几天没更新因为在做梦，这次的梦有点麻烦要处理事有点多所以在梦里呆了好几天才回来写歌
-- 当我两只手弹两架琴并同时弹不同的曲子，左右脑互搏式弹琴法
-- 有用知识+1，专业角度计算小米su7赚了多少亏了多少
-- ChiliChill乐团×花玲宴宁，《让风告诉你》提瓦特的故事吧！【BML-PLAY! 2026】
-- 《无限暖暖》2.8版本PV | 黄金尘
-- 给村里修了条公路！
-- 强强杭州城？！燕云十六声
+- 有一个勇者前来斩杀魔王
+- 看完别笑 你也过不了第二关
+- 这才是《The Other Side Of Paradise》原版MV！
 
 ## 抖音热搜 (20 条)
-- 我在等一个喜欢我照片的人
+- 台风“海神”停止编号
+- 一口酸菜鱼吃透淮南烟火气
+- 一分钟看懂上半年经济关键词
 - 马兴瑞被双开
-- 未来5年消费发展路线图来了
-- 韩股又跌熔断了
-- 台风巴威继续北上
-- 直击沈阳暴雨现场
-- 今年或将形成超强厄尔尼诺事件
-- 辽宁全省43座水库超汛限水位
-- 法国vs西班牙前瞻
-- 这夏夯爆了
-- “本科无法进入教师岗位”不实
-- 朋友是自己选的家人
-- 阿根廷队想为广西洪灾捐赠物资
-- 种下了一朵朵青春璀璨的年少
+- 爸爸一旅游就化身孤独的狼
+- 杨瀚森打出夏季联赛最佳一战
+- 吃蛋糕不发胖的方法找到了
+- 今天是海绵宝宝40岁生日
+- 全国文旅把户外亲子卷起来了
+- 电影八仙提档718
 - 陈泽杯7月14日复活投票
-- 挑战在韶关悬崖小屋上住一晚
-- 周星驰星女郎雪野入驻抖音
-- 古巴比伦王颁布了汉谟拉比法典
-- 我申请参加华山论剑S2
-- 野狗骨头前任初恋修罗场
+- 鄂州龙卷风城区8人遇难系谣言
+- 中央防汛物资紧急调拨辽宁
+- 法国举办二战以来最大规模国庆阅兵
+- 今年三伏天比去年长10天
+- 法国vs西班牙
+- 什么时候再去西藏
+- 这样帅的球员功夫女足里有两个
+- 我身上有一个不可战胜的夏天
+- 朋友是自己选的家人
+
+## 豆瓣讨论 (1 条)
+- 没人扒吗？ioi这首很像注水 - douban
 
 ## 雪球热帖 (20 条)
-- 量化交易占据半壁江山，你的对手还是人吗 #A股 #量化交易 - 新浪财经
-- 黑猫投诉2026上半年影音直播投诉数据报告：投诉量近7.6万件 自动续费问题占比超1/3 - 新浪财经
-- 药物受理最新动态：广州宇繁南图生物科技有限公司PRJ1-3024胶囊新药申请获受理 - 新浪财经
-- 吉利汽车：2026年7月14日因行使认股权发行6000股普通股 - 新浪财经
-- 央企回报ETF招商（561960）涨1.19%，半日成交额64.38万元 - 新浪财经
-- 药物受理最新动态：山西澳迩药业有限公司肾复康胶囊补充申请获受理 - 新浪财经
-- 药物受理最新动态：江西滕王阁药业有限公司强力枇杷膏(蜜炼)补充申请获受理 - 新浪财经
-- 九句话影响男孩一生 #家庭教育 - 新浪财经
-- 平凡就是骄傲 - 新浪财经
-- 中证A500ETF国泰（159338）跌0.64%，半日成交额27.92亿元 - 新浪财经
-- 沪深300成长ETF万家（159656）跌0.32%，半日成交额1078.02万元 - 新浪财经
-- 央企创新ETF富国（159974）跌0.79%，半日成交额40.21万元 - 新浪财经
-- 科创50ETF华泰柏瑞（588090）跌3.48%，半日成交额1.94亿元 - 新浪财经
-- 沪深300ETF泰康（515380）跌0.64%，半日成交额1111.73万元 - 新浪财经
-- 稀有金属ETF广发（159608）跌0.47%，半日成交额6375.94万元 - 新浪财经
-- 医疗创新ETF平安（516820）涨1.20%，半日成交额3792.55万元 - 新浪财经
-- 碳中和ETF泰康（560560）跌1.37%，半日成交额50.86万元 - 新浪财经
-- 医疗设备ETF大成（516610）涨0.99%，半日成交额254.09万元 - 新浪财经
-- 材料ETF广发（159944）涨0.51%，半日成交额841.96万元 - 新浪财经
-- 沪深300增强ETF华安（561000）跌0.84%，半日成交额233.91万元 - 新浪财经
+- ST荃银正式处罚落地！律师提示维权刻不容缓 - 新浪财经
+- 鼎信通讯终审胜诉，其余投资者同案同判维权更快 - 新浪财经
+- 银江技术（300020）再被证监会立案，投资者索赔案继续推进 - 新浪财经
+- 黑天鹅突袭！南威软件被立案，6万股民“踩雷” - 新浪财经
+- *ST萃华连续13个跌停，此类股民可积极维权 - 新浪财经
+- 零售药店板块大涨 药易购涨停 - 新浪财经
+- 鸿博股份已有胜诉先例，受损投资者抓紧维权 - 新浪财经
+- 天际股份领监管罚单，财务造假引发索赔 - 新浪财经
+- 巨力索具收正式罚单，受损投资者索赔征集中 - 新浪财经
+- 同辉信息信披违规终收罚单，受损投资者维权索赔还在继续 - 新浪财经
+- 上海易连退市不退责，受损投资者还可维权 - 新浪财经
+- 卓朗科技已有投资者获赔，其余投资者维权索赔还可加入 - 新浪财经
+- 大参林实控人被拘未及时披露，受损投资者维权索赔还在继续 - 新浪财经
+- 巨力索具（002342）收到正式处罚，投资者索赔案持续推进 - 新浪财经
+- 惠伦晶体索赔递交立案，符合要求还可加入 - 新浪财经
+- 东方时尚信披违规遭到处罚，受损投资者可索赔 - 新浪财经
+- 祥明智能A股股东户数增加486户增幅4.61%，流通A股户均持股9874.75股降幅4.41%，户均持股市值30.23万元降幅11.84% - 新浪财经
+- 石药集团：两药物获国家药监局突破性治疗认定 - 新浪财经
+- 易鑫集团：7月14日因购股权发行新股并回购股份 - 新浪财经
+- 领益智造：7月14日回购63.07万股 另有多日激励计划配股 - 新浪财经
 
-## 36氪 (1 条)
-- 🎁36氪放福利啦！体验10秒，即可免费抽AirPods 4、Redmi手环、超人帆布包！ - 36Kr
+## 36氪 (20 条)
+- 美国银行二季度净营收315.6亿美元，高于预期
+- 机构今日买入沪电股份等24股，卖出华天科技14.03亿元
+- 金饰克价年内大跌485元
+- 五粮液：预计2026年半年度净利润同比增长88.80%-98.97%
+- 富国银行二季度营收226.2亿美元，高于预期
+- 科大讯飞：预计2026年半年度净亏损1.80亿元-2.28亿元
+- 隆基绿能：预计2026年半年度净亏损34亿元-38亿元
+- 华尔街各大银行交易业务收入或将接近390亿美元
+- 六部门：到2030年，危险废物填埋处置量占比由2025年约13%降至10%以内
+- 上纬新材发布全球首个可变形个人机器人启元T1，将亮相WAIC 2026
+- 摩根大通二季度调整后营收580亿美元，高于市场预期
+- 国轩高科：预计上半年净利润同比增长227.31%-322.77%
+- 天齐锂业：预计上半年净利润同比增长3276%-4935%
+- 黑芝麻智能完成对亿智的收购，端侧AI战略全面加速
+- 东方锆业：预计上半年净利润同比增长124%-227%
+- 赛意信息：拟采购高性能算力服务器，合同总金额不超50.79亿元
+- 沃尔沃汽车研发公司变更法定代表人
+- 智谱获南向资金净买入29.89亿港元
+- 美银：预计韩国内存产能年均扩张低于10%，远不及2030年翻倍目标
+- 梁文锋身家飙升至360亿美元，超越 Anthropic和OpenAI联合创始人
 
-## 虎嗅 (13 条)
+## 虎嗅 (17 条)
+- 热闹的具身智能， 全是演的 - 虎嗅网
 - 被石油统治衣食住行的时代， 要翻篇了 - 虎嗅网
+- 两千年前的汉朝，工匠已经玩透了“速度与激情” - 虎嗅网
+- 拆解“乙游女孩” 的疯狂购买力 - 虎嗅网
+- 为了赢苏联，美国当年让小学生学高等数学？ - 虎嗅网
 - AI陪伴退潮？监管只想合规， 平台直接断联 - 虎嗅网
+- 阶跃星辰发布AI智能体手机战略，印奇称终端是商业闭环关键 - 虎嗅网
 - 特斯拉估值逻辑变迁：科技企业身份固化，比亚迪科技属性即将被认可 - 虎嗅网
+- 生命诞生概率仅四亿分之一：比中Powerball头奖还难 - 虎嗅网
+- 乐事薯片被曝现蓝色异物 大量投诉发绿变质 消费者担忧品控安全 - 虎嗅网
 - 全球资本市场剧烈波动，AI泡沫面临流动性收紧与技术叙事转变双重压力 - 虎嗅网
-- 2026年7月13日A股跌破年线：历史七次修复周期回顾与当前AI产业链概念不稳分析 - 虎嗅网
+- 名创优品推广视频被指偷窥女性隐私，品牌公关再遭质疑 - 虎嗅网
 - 阶跃星辰发布首款智能体手机STEPX Neo，探索AI原生操作系统 - 虎嗅网
 - 赛力斯上半年预亏15至18亿元，华为不造车战略获验证 - 虎嗅网
-- 基层干部靠什么树政绩？ - 虎嗅网
-- 管理本质：权衡与妥协，没有最优解只有代价选择 - 虎嗅网
+- 全球市场今夜面临三重大考：CPI数据、沃什国会首秀与五大行财报 - 虎嗅网
 - 蒋方舟学位论文被认定抄袭 中国人民大学撤销硕士学位 - 虎嗅网
-- 赛力斯2026年上半年预亏15亿至18亿元 盈利能力持续下滑 - 虎嗅网
-- 奈雪的茶股东会冲突：创始人拒领1元年薪，股价五年跌去九成 - 虎嗅网
-- 人工智能进入下半场：从生成内容到执行任务，能力边界持续扩展 - 虎嗅网
+- 管理本质：权衡与妥协，没有最优解只有代价选择 - 虎嗅网
 
-## 少数派 (1 条)
+## 少数派 (4 条)
+- 社区速递 149｜派友热议睡眠数据化、观穹 6×24 望远镜与 RG Rotate 旋转屏掌机
+- 具透 | iOS 27 首个公开测试版来了，这些是值得你关注的新功能
+- iOS / iPadOS 27 Public Beta 公测版来了：升降级指南 & 注意事项
 - 派早报：全球智能手机出货量创 13 年来最低水平等
