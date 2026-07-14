@@ -3,8 +3,8 @@
   "news": [
     {
       "title": "美伊冲突全面升级",
-      "summary": "美军连续第三晚空袭伊朗，特朗普已通知国会伊朗战事重新爆发，并宣布重新封锁伊朗港口，对通过霍尔木兹海峡的货物征收20%费用。伊朗革命卫队宣称击落一架美军无人机，美军则首次在实战中使用海上无人艇进行打击。尽管特朗普表示仍可能与伊朗达成协议，但局势持续恶化。全球油价飙升，航运保险费用暴涨，中东多国进入戒备状态。分析认为，美伊已从代理人战争走向直接军事对抗，若冲突持续，将严重冲击全球能源供应和经济稳定。",
-      "reason": "多平台破圈，热度极高，直接威胁全球能源安全与地缘稳定",
+      "summary": "美国与伊朗之间的军事冲突持续升级，已进入第三晚。伊朗方面声称摧毁了美海军第五舰队雷达系统，美国则对伊朗目标发动新一轮打击。特朗普宣布重新封锁霍尔木兹海峡，并对过往货物征收20%费用，此举引发国际油价暴涨，国内期货市场原油、燃油开盘涨超7%。阿联酋谴责伊朗对油轮的“公然”攻击。美国民调显示多数民众预期战争将 prolonged。",
+      "reason": "美伊冲突是当前全球最热的地缘政治热点，影响能源价格、全球经济和国际安全。",
       "impact_areas": [
         "地缘政治",
         "经济金融"
@@ -12,133 +12,159 @@
       "impact_level": "现象级",
       "sources": [
         {
-          "name": "澎湃新闻",
-          "url": "https://m.thepaper.cn/detail/33580138"
+          "name": "凤凰网",
+          "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE5yelNHdzIwRWRSSzNXUlpHS0thM2ZYeHEyNnV6czMzdS0zRWVpZjZRemNWajZqRU9PQlJmMzQ1RDRvWGNaNlR3SzB4NmU?oc=5"
         },
         {
-          "name": "澎湃新闻",
-          "url": "https://m.thepaper.cn/detail/33579813"
+          "name": "凤凰网财经",
+          "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBuTWNKSDJpdEd5X0VWMXk0Z2hyRmc5c2pacnZsNFVaT3hVT2xQNHF5Uk56ZEQtWGpkb25YREFIeUgwaWlBMzRFdk1VczhIZXVv?oc=5"
         },
+        {
+          "name": "财新网",
+          "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBaWnlOXzhRRl85VExndEVSNEg3WW5aU0Vha2hJUDhBMWdaRXNLRTVyb3dOdHdPbTBqSlR1OTVDRzZGUnBxdUZWRGdqVWs1cnQ5UENfTXVuOVNSU2tTc292dkVB?oc=5"
+        },
+        {
+          "name": "BBC",
+          "url": "https://www.bbc.co.uk/news/articles/c8d2vn38dy1o?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "name": "Reuters",
+          "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPUndFbURmd2hTcTRfYVltMHZWV0s0dHFIRkd0YmdiWGVHS3VJWWR3YTlpQTRpQUsyUHdjUERIdU0zY0pCaTBEVzBHLTF6c25VLW52Z2NWR29DdUhKMm43RXh2QzNWN05tbmhQWjhjTHdQUFpoczhXYmFELWlWYjJoQlBsYzhPd1A5ZHo2VlJOaElrY1ljVmVybmx3a05EMUZwNzRrbjgzU0RiM3JLZVhwWHhHUEgtdFNxTDNYV2ZQZEhJYmM?oc=5"
+        }
+      ]
+    },
+    {
+      "title": "马兴瑞被开除党籍公职",
+      "summary": "中共中央决定给予马兴瑞开除党籍、开除公职处分，并终止其党的二十大代表资格。马兴瑞曾任新疆维吾尔自治区党委书记，后升任中央政治局委员。通报指出其大搞家族腐败、对抗组织审查等严重违纪违法行为。此案是党的二十大后首个被“双开”的政治局委员。",
+      "reason": "政治局委员被双开是重大政治事件，显示反腐败力度不减，对政坛影响深远。",
+      "impact_areas": [
+        "政治"
+      ],
+      "impact_level": "现象级",
+      "sources": [
+        {
+          "name": "央视网",
+          "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE42ZkFwRnZfbjlmWUZqbkhNUUZ1SHNTNG0zNjczM1RvTVRDNTNCZWpjWjJ3VkJ0OXF2NkNUTFFtR0pmUl9lNDBFSzFndGN4emZhLWRqQ3REZ042andFTFZfZURBWW5ZMUtxX3JWQXlKeXBDOGNXWmNLaQ?oc=5"
+        },
+        {
+          "name": "财新网",
+          "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9zcDZhMG54cFBXRmtJVUR6QWpaU09NQklXU0NnUkFXc2xKLWM0c2ZRX3hWRlhSWDF5M2lSd2tQVl9hNzk0amg5X1FGMlotemdDaWhGLTZPN1FBaDVwUkJR?oc=5"
+        }
+      ]
+    },
+    {
+      "title": "王沪宁将访问朝鲜",
+      "summary": "中共中央对外联络部宣布，中共中央政治局常委、全国政协主席王沪宁将于近日访问朝鲜。此访正值中朝建交75周年，预计将就双边关系、半岛局势等交换意见。这是近年来中国最高级别领导人访朝之一，备受国际关注。",
+      "reason": "高层访问朝鲜对东北亚地缘政治格局有重要信号意义。",
+      "impact_areas": [
+        "政治",
+        "地缘政治"
+      ],
+      "impact_level": "重大",
+      "sources": [
         {
           "name": "凤凰网",
-          "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE9KMHMwYWdvVExKLUxwWkxidG9MRENNWjhfQlZ5MXVGQlRUUFRuQk9qMXlpRmNxTTh3Z2pvN0pJZXZEbUNyWHRqcE5fNTI?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE1IMFV3bENBQVBMS3FWUXl1SFdudGpnd1pKT0RUMVR6LWNCcnpJTGg5Z2ZnRkg0MWh2WXlwSk9HRkN6dmx6REpiamZLUXE?oc=5"
         }
       ]
     },
     {
-      "title": "伯纳姆锁定英工党党首",
-      "summary": "英国工党党首竞选结果出炉，伯纳姆成功锁定职位，预计将于7月20日接替现任首相正式组阁。伯纳姆的胜利标志着工党在经历多年分裂后重新团结，其主张包括加大公共投资、强化社会福利和重新谈判脱欧后协议。此次政权更迭可能改变英国外交与经济政策方向，尤其是对欧关系及对乌克兰援助立场。市场反应积极，英镑小幅上涨。",
-      "reason": "英国政局重大变动，影响欧洲政治格局与经贸政策",
+      "title": "刘强任山东省委副书记",
+      "summary": "中共中央批准：刘强同志任山东省委委员、常委、副书记。刘强此前担任山东省副省长，此次调整为省级党委领导职务变动。山东作为经济大省，人事任命具有较大影响。",
+      "reason": "山东省委副书记任命是重要人事变动，预示经济大省政策方向可能调整。",
       "impact_areas": [
         "政治"
       ],
       "impact_level": "重大",
       "sources": [
         {
-          "name": "澎湃新闻",
-          "url": "https://m.thepaper.cn/detail/33580051"
+          "name": "凤凰网",
+          "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE9YX0NNdTZyZHlLVjh5ZUtUcWlybXhYR21DNm82clQzR0hnNTFpR0ZTc1E3a1Q2cHZxVGhaNlltMWRqWGRRZ0x4TQ?oc=5"
         }
       ]
     },
     {
-      "title": "乌克兰总理向议会辞职",
-      "summary": "乌克兰总理斯米加尔向最高拉达（议会）递交辞呈，理由是与总统泽连斯基在国家重建与欧洲一体化战略上存在难以调和的分歧。议会将于近日表决是否接受辞呈。若辞职获批，乌克兰将面临政府重组，可能影响西方援助分配与战后重建进程。与此同时，乌克兰东部前线战事依然胶着。",
-      "reason": "战时国家政府核心变动，直接影响重建与地缘局势",
+      "title": "印度大规模驱逐孟加拉移民",
+      "summary": "印度政府在孟加拉边境地区大规模驱逐无证移民，导致两国边境紧张局势急剧升温。报道称数万人被驱逐，孟加拉国强烈抗议，指责印度单边行动违反双边协议。此事件可能影响南亚区域合作。",
+      "reason": "印孟边境危机可能引发南亚地缘政治动荡，影响地区稳定。",
       "impact_areas": [
         "地缘政治",
-        "政治"
+        "社会"
       ],
       "impact_level": "重大",
       "sources": [
         {
-          "name": "澎湃新闻",
-          "url": "https://m.thepaper.cn/detail/33580136"
+          "name": "NYTimes",
+          "url": "https://www.nytimes.com/2026/07/14/world/asia/india-bangladesh-border-migration.html"
         }
       ]
     },
     {
-      "title": "美联储理事暗示或加息",
-      "summary": "美联储理事沃勒发表讲话称，若核心通胀数据再次出现高位，美联储将需要在近期考虑加息。该言论被视为美联储转鹰的信号，市场对年内降息预期迅速降温。美债收益率跳升，美元指数走强，美股期货下挫。分析人士指出，沃勒的表态可能预示美联储内部政策倾向已发生转变，未来利率路径将高度依赖通胀数据。",
-      "reason": "全球最重要央行政策信号，直接影响股市、债市和汇率",
+      "title": "大众汽车拟全球裁员10万",
+      "summary": "大众汽车集团宣布计划在全球范围内裁减高达10万个工作岗位，以应对电动汽车转型压力和成本上升。裁员主要集中在传统燃油车部门，同时将加大电池和软件领域投资。此计划是大众历史上最大规模重组之一。",
+      "reason": "大众裁员预示着汽车产业电动化转型的剧烈阵痛，影响全球就业和产业链。",
       "impact_areas": [
-        "经济金融"
+        "经济金融",
+        "科技"
       ],
       "impact_level": "重大",
       "sources": [
         {
-          "name": "36氪",
-          "url": "https://www.36kr.com/newsflashes/3894676384250883"
+          "name": "BBC",
+          "url": "https://www.bbc.co.uk/news/articles/cx2wzpwn51lo?at_medium=RSS&at_campaign=rss"
         }
       ]
     },
     {
-      "title": "Meta追加百亿投资数据中心",
-      "summary": "Meta宣布计划扩容其位于美国的最大数据中心项目，追加投资高达100亿美元，以应对日益增长的AI与云计算算力需求。该项目将进一步巩固Meta在AI基础设施领域的领先地位，同时也反映了科技巨头对算力持续增长的信心。数据中心建设将带动电力、冷却及芯片产业链需求，预计为当地创造数万个就业岗位。",
-      "reason": "科技巨头大规模资本支出，预示AI算力需求持续旺盛",
-      "impact_areas": [
-        "科技",
-        "经济金融"
-      ],
-      "impact_level": "重大",
-      "sources": [
-        {
-          "name": "澎湃新闻",
-          "url": "https://m.thepaper.cn/detail/33578641"
-        }
-      ]
-    },
-    {
-      "title": "世界首台超导量子热机问世",
-      "summary": "科学家成功研制出世界首台超导量子热机，该装置利用超导量子比特与热浴的相互作用实现能量转换，标志着量子热力学领域从理论走向实验。该成果有望为量子计算提供全新的能源管理方案，并推动量子传感器、量子电池等技术的发展。研究团队表示，下一步将探索该热机在微型芯片散热与能量回收中的应用。",
-      "reason": "基础科学重大突破，对未来量子技术与能源领域影响深远",
+      "title": "阶跃星辰发布首款AI手机",
+      "summary": "国内AI创企阶跃星辰发布首款智能体手机STEPX Neo，该手机搭载自研AI原生操作系统，能够自主执行复杂任务，如订餐、导航、写邮件等，无需用户手动操作。这是AI从软件应用走向硬件终端的重要尝试，有望开启AI原生手机新赛道。",
+      "reason": "AI手机发布是AI硬件化的重要里程碑，可能改变智能手机产业格局。",
       "impact_areas": [
         "科技"
       ],
       "impact_level": "重大",
       "sources": [
         {
-          "name": "36氪",
-          "url": "https://www.36kr.com/newsflashes/3894674754681859"
+          "name": "虎嗅",
+          "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1iblo5TWFQZHVTejEwTElueWJGV0VrRFBkaDEwVUlsaExCdTE0emZLdGs1NzJyWmxXcV94MnYzTjRNVHVlZURia1RlYXNEVV8waUNwQnpzc2ZFYVMy?oc=5"
         }
       ]
     },
     {
-      "title": "钙钛矿叠层电池效率刷新",
-      "summary": "我国科研团队在钙钛矿-有机叠层太阳能电池领域取得新突破，将光电转换效率刷新至29.8%，接近理论极限。该成果采用界面钝化与能级匹配新策略，显著提升了电池的稳定性和效率。相比传统硅电池，钙钛矿叠层电池成本更低、柔性更高，有望加速光伏产业的技术迭代和商业化应用。",
-      "reason": "太阳能电池效率纪录再创新高，推动新能源产业进步",
+      "title": "全球智能手机出货量创13年新低",
+      "summary": "根据多家市场研究机构数据，2026年第二季度全球智能手机出货量同比下滑8%，创下13年来最低水平。消费者换机周期延长、创新乏力以及宏观经济不确定性是主因。行业巨头纷纷下调预期，供应链面临减产压力。",
+      "reason": "智能手机出货量新低反映消费电子市场持续低迷，对科技产业链有重大影响。",
       "impact_areas": [
         "科技",
-        "产业"
-      ],
-      "impact_level": "重大",
-      "sources": [
-        {
-          "name": "36氪",
-          "url": "https://www.36kr.com/newsflashes/3894673220221958"
-        }
-      ]
-    },
-    {
-      "title": "海南赤潮暴发养殖户损失惨重",
-      "summary": "海南省三亚、陵水等地近海连续暴发赤潮，导致大量养殖鱼类和贝类死亡，部分养殖户损失超过80%，预计总经济损失已超亿元。赤潮主要由高温天气和海水富营养化引发，含有毒藻类。当地政府已启动应急监测，并指导养殖户采取增氧、转移等自救措施。农业部门正研究建立赤潮灾害保险与补偿机制。",
-      "reason": "生态灾害致严重经济损失，警示海洋环境治理与气候风险",
-      "impact_areas": [
-        "生态",
-        "社会",
         "经济金融"
       ],
       "impact_level": "重大",
       "sources": [
         {
-          "name": "财新网",
-          "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBMRnZIM0RWOG9obnA1VlNQZ3dOVm5wb2d4WlowZjlQLWNoaXNvU1V1TkphYjdENFg4RGJGSnJSMzMwbTRlREFOc3pRaFU2c2tmN0N0eWVRREEyRC0zNUxUT2dR?oc=5"
+          "name": "少数派",
+          "url": "https://sspai.com/post/112286"
         }
       ]
     },
     {
-      "title": "台风巴威北上多省暴雨预警",
-      "summary": "中央气象台发布台风、暴雨、强对流、山洪灾害四预警，今年第5号台风巴威正一路北上，预计将影响辽宁、吉林、黑龙江及广西等地，部分地区有大暴雨。国家防总已启动防汛防台风应急响应，多地紧急组织人员转移和水库预泄。台风可能带来强风、暴雨和风暴潮，对农业、交通和电力设施构成严峻考验。",
-      "reason": "重大自然灾害预警，影响范围广，直接威胁人民生命财产安全",
+      "title": "曼谷酒吧火灾致30人死亡",
+      "summary": "泰国曼谷一家酒吧发生严重火灾，死亡人数升至30人，另有数十人受伤。警方初步调查认为火灾可能由电线短路引发，但暴露出场所安全违规问题。泰国政府承诺全面排查全国娱乐场所消防安全。",
+      "reason": "重大公共安全事故引发社会关注，可能推动泰国安全监管改革。",
+      "impact_areas": [
+        "社会"
+      ],
+      "impact_level": "重大",
+      "sources": [
+        {
+          "name": "BBC",
+          "url": "https://www.bbc.co.uk/news/articles/clyxyzlp9p2o?at_medium=RSS&at_campaign=rss"
+        }
+      ]
+    },
+    {
+      "title": "巴黎南部野火持续蔓延",
+      "summary": "法国巴黎南部地区发生严重野火，火势快速蔓延，已烧毁数千公顷土地，迫使多个城镇疏散居民。法国官员称火灾可能系人为故意纵火。大火逼近巴黎郊区，引发空气质量警报。多国支援灭火队伍已抵达。",
+      "reason": "巴黎附近野火威胁首都安全，引发环境和社会危机，突显气候变化影响。",
       "impact_areas": [
         "社会",
         "生态"
@@ -146,28 +172,12 @@
       "impact_level": "重大",
       "sources": [
         {
-          "name": "央视网",
-          "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5mQ29pZFdFTDdsTGkxVE5Ec2Z1V0RuXzkzWTV2MXpVUUQwWXJlRFpNbDhqRDhkdF9INmZtN3pjR194ME9VT0RSLWZJUVJBbGw2WFJwYUFDREJjOVVHQzV4Z2Z1QXFoNEZKWHRCQ3U5NWttdFVnN2VoXw?oc=5"
-        }
-      ]
-    },
-    {
-      "title": "12位车企掌门人长春共商转型",
-      "summary": "中国汽车工业协会在长春召开闭门会议，12家主流车企掌门人出席，围绕电动化、智能化转型中的利润压力、产能过剩及出海战略进行深入讨论。会议达成共识：行业需从无序竞争转向协同创新，共同推进固态电池、车规芯片等核心技术突破，并建立出口自律机制。此举可能推动中国汽车产业政策调整与格局重塑。",
-      "reason": "汽车行业顶层闭门会，定调转型方向，影响产业格局",
-      "impact_areas": [
-        "产业",
-        "科技"
-      ],
-      "impact_level": "重大",
-      "sources": [
-        {
-          "name": "虎嗅",
-          "url": "https://www.huxiu.com/article/4874988.html"
+          "name": "BBC",
+          "url": "https://www.bbc.co.uk/news/articles/clye4z168edo?at_medium=RSS&at_campaign=rss"
         }
       ]
     }
   ],
-  "total_fetched": 223,
-  "generated_at": "2026-07-14T07:27:01.210167+08:00"
+  "total_fetched": 213,
+  "generated_at": "2026-07-14T12:26:53.451909+08:00"
 }
