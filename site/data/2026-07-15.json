@@ -2,9 +2,9 @@
   "date": "2026-07-15",
   "news": [
     {
-      "title": "美伊冲突激化，霍尔木兹海峡危机",
-      "summary": "美军宣布恢复对伊朗海上封锁，伊朗革命卫队随即对巴林和科威特美军基地实施打击。特朗普放弃对途经霍尔木兹海峡的货物征收20%费用的计划，转而寻求与海湾国家达成贸易投资协议。此举导致国际油价剧烈波动，全球能源安全面临严重威胁。中东多国呼吁克制，联合国安理会计划召开紧急会议。",
-      "reason": "美伊直接军事冲突升级，霍尔木兹海峡是全球石油运输要道，影响全球能源供应和经济稳定。",
+      "title": "美伊冲突升级，霍尔木兹危机",
+      "summary": "特朗普威胁称若伊朗不恢复谈判将轰炸桥梁和电厂，美军恢复对伊朗海上封锁，霍尔木兹海峡出现'断层线'。此前美伊停火协议破裂，美国制裁伊朗石油网络和数字资产。伊朗网络攻击追踪美军人员手机。欧洲在伊朗问题上仍处于旁观。冲突导致全球能源价格波动风险加剧，国际航运面临威胁。",
+      "reason": "多平台密集报道，影响全球地缘政治与能源市场，持续发酵。",
       "impact_areas": [
         "地缘",
         "经济金融"
@@ -16,23 +16,19 @@
           "url": "https://www.bbc.co.uk/news/articles/cy0608wy8pro?at_medium=RSS&at_campaign=rss"
         },
         {
-          "name": "澎湃新闻",
-          "url": "https://m.thepaper.cn/detail/33587798"
+          "name": "NYTimes",
+          "url": "https://www.nytimes.com/live/2026/07/14/world/iran-war-trump-hormuz"
         },
         {
-          "name": "央视网",
-          "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBMVUhXQ2M0MTVhT2V3UWp2dktOc0JwbUhraEJIS1duQXJ0bklLYWVnWm9IX0Z2Vm9JQXh6YjFVM25HM0FYeXJISjRLUjEyNV9HaGRsemt1ejRNOUxGcEFNVU1USnBhZFZpTkVWR2U2OGlvYzQtdktrRw?oc=5"
-        },
-        {
-          "name": "36氪",
-          "url": "https://www.36kr.com/newsflashes/3895661878756999"
+          "name": "财新网",
+          "url": "https://database.caixin.com/2026-07-15/102464311.html"
         }
       ]
     },
     {
-      "title": "美国6月CPI环比大降0.4%",
-      "summary": "美国6月CPI环比下降0.4%，同比涨幅回落至2.1%，核心CPI环比下降0.2%。数据公布后，市场对美联储7月不加息的概率升至超80%。分析认为，油价下跌和供应链改善是主要因素，但服务通胀仍具粘性。美元指数急跌，美股三大指数集体收涨。",
-      "reason": "CPI大幅降温强化美联储暂停加息预期，直接影响全球资产定价和货币政策走向。",
+      "title": "二季度GDP同比增4.3%",
+      "summary": "国家统计局公布二季度GDP同比增长4.3%，名义增速13个季度来首超实际增速。上半年中国经济增量是近五年来同期最大增量，经济新动能不断成长壮大。但房地产开发投资同比下降18%，显示经济结构分化。下阶段将加大逆周期和跨周期调节力度。",
+      "reason": "核心经济数据，反映经济复苏节奏与结构变化，影响政策预期。",
       "impact_areas": [
         "经济金融"
       ],
@@ -40,146 +36,147 @@
       "sources": [
         {
           "name": "财新网",
-          "url": "https://international.caixin.com/2026-07-15/102464243.html"
+          "url": "https://economy.caixin.com/2026-07-15/102464330.html"
+        },
+        {
+          "name": "36氪",
+          "url": "https://www.36kr.com/newsflashes/3896313562072713"
         }
       ]
     },
     {
-      "title": "中国6月原油进口创十年新低",
-      "summary": "海关总署数据显示，中国6月原油进口量同比下降42%，至约800万桶/日，创近十年月度新低。主因是炼厂检修、需求疲软以及高库存。同时，成品油出口同比下降35%。国际油价应声下跌，布伦特原油跌破70美元。分析称，中国需求放缓可能持续至下半年。",
-      "reason": "中国是全球最大原油进口国，进口骤降暗示经济疲软，并对全球油市供需格局产生深远影响。",
+      "title": "6月原油进口大降四成",
+      "summary": "6月中国原油进口量同比大降四成，创近十年月度新低。同时美军恢复对伊朗海上封锁，加剧供应端不确定性。原油进口骤降反映国内需求疲软及地缘风险，对全球油市形成冲击。",
+      "reason": "消息面信号：原油进口创十年新低，对能源市场和宏观经济有重要指引。",
       "impact_areas": [
         "经济金融",
-        "能源"
+        "地缘"
       ],
       "impact_level": "重大",
       "sources": [
         {
           "name": "财新网",
-          "url": "https://www.caixin.com/2026-07-15/102464248.html"
+          "url": "https://www.caixin.com/2026-07-15/102464350.html"
         }
       ]
     },
     {
-      "title": "特朗普向作家支付562万美元赔偿",
-      "summary": "美国前总统特朗普正式向作家简·卡罗尔支付562万美元，作为性侵和诽谤案的赔偿金。该款项包括500万美元赔偿金和62万美元律师费。卡罗尔律师确认收到。特朗普此前多次上诉但均遭驳回，此次支付标志长达数年的法律纠纷画上句号。",
-      "reason": "前总统因民事案件支付巨额赔偿，凸显法律问责，影响美国政治生态和2028年大选。",
-      "impact_areas": [
-        "政治",
-        "社会"
-      ],
-      "impact_level": "重大",
-      "sources": [
-        {
-          "name": "BBC",
-          "url": "https://www.bbc.co.uk/news/articles/c2dydj1wp93o?at_medium=RSS&at_campaign=rss"
-        },
-        {
-          "name": "凤凰网",
-          "url": "https://news.ifeng.com/c/8ulfeE9FX8Z"
-        }
-      ]
-    },
-    {
-      "title": "伊拉克总理要求美军9月底前撤出",
-      "summary": "伊拉克总理穆罕默德·苏达尼发表声明，要求美军在2026年9月30日前撤出伊拉克，结束军事存在。声明称此举基于议会决议和伊主权，并已通报美方。美军目前在伊部署约2500人，主要担任顾问角色。美国国务院暂未正式回应，但分析人士认为撤军可能影响打击ISIS行动。",
-      "reason": "伊拉克要求美军撤离将改变中东军事格局，影响美国地区影响力与反恐战略。",
-      "impact_areas": [
-        "地缘",
-        "政治"
-      ],
-      "impact_level": "重大",
-      "sources": [
-        {
-          "name": "央视网",
-          "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFA0ODhidmkyT3ZRU1JxSW9mQUZmX3JEWFJVN0VjTnVrN0JtNWhsd1M4VmxwcC1iUHlfTExqSDU5MF9sR1lzM0RxbHdmRTlSYUthNDlvMU9SS2pmZlBlUTZYQ2tLRjN6b1NZY1JOX3J6OFV3Snk5cVhzNA?oc=5"
-        },
-        {
-          "name": "凤凰网",
-          "url": "https://news.ifeng.com/c/8ulRjLR4Z4G"
-        }
-      ]
-    },
-    {
-      "title": "纽约州暂停数据中心建设",
-      "summary": "纽约州州长签署行政令，成为美国首个暂停新建数据中心的州。禁令为期两年，理由是高能耗和水资源消耗影响该州气候目标。纽约州目前有超100个数据中心在运营，年耗电量占全州12%。亚马逊、谷歌等公司表示将重新评估纽约州的投资计划。",
-      "reason": "数据中心是AI和云计算基础设施，纽约州禁令可能引发其他州效仿，影响科技产业扩张。",
-      "impact_areas": [
-        "科技",
-        "能源"
-      ],
-      "impact_level": "重大",
-      "sources": [
-        {
-          "name": "Reuters",
-          "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQS1VqV09jX0hhZXQxRXpwaGRHbnY1SmdGT1RMYVEyM1pBaWtyNlBoaTBKYWpCRlMyWHQzMFVCUTFyakRMaDlhTkJpWUtMQThfeFlPQml2RHRUbVJTQmVWMjRvb2w5al9CeW1iQzJ5dkVLUlJHaWZMcXNRbUxZSGdIX2VrZkhKSWplczI1Rlc5d1puZng2Mkc3SXdYM2VYUER4Vnc?oc=5"
-        }
-      ]
-    },
-    {
-      "title": "宇树人形机器人操刀手术成功",
-      "summary": "宇树科技旗下人形机器人“H1”在多家三甲医院完成活体动物手术实验，精确完成软组织切除、缝合等操作，术中无并发症。该机器人搭载多模态感知和自适应控制算法，定位精度达0.1毫米。团队计划2027年开展人体临床试验。手术机器人市场或将迎来颠覆性变革。",
-      "reason": "人形机器人首次自主操刀手术，代表医疗机器人技术重大突破，有望解决外科医生短缺问题。",
-      "impact_areas": [
-        "科技",
-        "医疗"
-      ],
-      "impact_level": "重大",
-      "sources": [
-        {
-          "name": "财新网",
-          "url": "https://www.caixin.com/2026-07-15/102464252.html"
-        }
-      ]
-    },
-    {
-      "title": "谷歌DeepMind负责人呼吁AI监管",
-      "summary": "谷歌DeepMind首席执行官德米斯·哈萨比斯在《华尔街日报》发表署名文章，呼吁美国牵头成立全球人工智能监管机构。他表示，AI能力正以指数级增长，需设立类似国际原子能机构的组织来制定安全标准。此前，欧盟已通过《AI法案》，但缺乏全球协调。",
-      "reason": "AI领军人物呼吁全球监管，反映行业对安全问题的紧迫性，可能加速国际AI治理框架建立。",
-      "impact_areas": [
-        "科技",
-        "政治"
-      ],
-      "impact_level": "重大",
-      "sources": [
-        {
-          "name": "36氪",
-          "url": "https://www.36kr.com/newsflashes/3895677977954181"
-        }
-      ]
-    },
-    {
-      "title": "美国ICE暂停车辆检查执法",
-      "summary": "美国移民和海关执法局（ICE）宣布立即暂停在公路检查站对车辆进行移民执法检查。此前该做法因种族歧视争议被多地起诉。ICE代理局长表示将重新评估执法程序。墨西哥外交部对决定表示欢迎。此举可能影响边境移民管控效果，但有利于减少民权争议。",
-      "reason": "ICE暂停车辆检查是移民执法的重大调整，影响美国境内移民政策执行和边境安全。",
-      "impact_areas": [
-        "政治",
-        "社会"
-      ],
-      "impact_level": "重大",
-      "sources": [
-        {
-          "name": "Reuters",
-          "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBvd1h3OXNPa1RpSlBGU0s0UmZwWVVaV20zSG80d0FpR3Uwb0FwVmJ6T2FVYldpSlZycS1Lc1A0Q2NNYm5ycGpHT3JfcmROUXZ3elR2Uy1fQVgySVZzQWRj0gFcQVVfeXFMTUdHMXNKM3dEZXpwOGtldThFdDJwRHZzMl9OYUZKblY2RTVCb3Z0U296SUJxVWJCUXRSS3AzeFZCRzFYdFY1V1dPZ2hBOF9xNkVhbFRiXzlLLUtNNTY?oc=5"
-        }
-      ]
-    },
-    {
-      "title": "高盛二季度利润超预期",
-      "summary": "高盛公布2026年二季度财报，净利润同比增23%至35亿美元，远超市场预期。主因是交易业务（FICC和股票）收入激增36%，投资银行费用收入也增长15%。CEO所罗门表示高盛将扩大中东和亚洲业务。财报带动银行股普遍上涨，标普500金融板块涨2.1%。",
-      "reason": "高盛业绩代表华尔街整体健康度，超预期利润表明金融市场活跃，可能预示经济韧性。",
+      "title": "6月社零增速超预期转正",
+      "summary": "6月社会消费品零售总额同比增速超预期转正，为经济复苏提供积极信号。消费回暖受政策刺激和居民信心恢复推动，但可持续性仍需观察。该数据对消费类资产和宏观经济判断具有重要参考价值。",
+      "reason": "经济先行指标超预期，反映内需修复力度，影响市场情绪。",
       "impact_areas": [
         "经济金融"
       ],
       "impact_level": "重大",
       "sources": [
         {
-          "name": "Reuters",
-          "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOQ2Z1VkUtc1lGYVJQaDlHVDF1LS1JNkVYcU1jSzF2dlRuZDdpYzlsRGhJb1ZEN0lJUTc5aW9IUkFpWU5iSmJKOFBJQjRHRDVtQk5KYXhZUEpTbXAwc0NrcE5sY0FTZjl1YUJnVmZLenZoSXZWZmJGaDE0OTBIeUpjV1hKZ1BmV0pKaXRWV3QxdVNqdmhsLXpyX1BzUEdEVGlrSU5XNk1LYVNHVm1qRHp1XzB3?oc=5"
+          "name": "财新网",
+          "url": "https://economy.caixin.com/2026-07-15/102464358.html"
+        }
+      ]
+    },
+    {
+      "title": "西班牙2-0法国挺进决赛",
+      "summary": "世界杯半决赛西班牙2-0战胜法国，率先晋级决赛。西班牙队展现强大控球和反击能力，法国队进攻受阻。决赛将对阵阿根廷与英格兰胜者。赛事引发全球热议，多平台热搜。",
+      "reason": "世界杯半决赛全球关注，体育破圈成为社会事件，热度极高。",
+      "impact_areas": [
+        "社会"
+      ],
+      "impact_level": "现象级",
+      "sources": [
+        {
+          "name": "财新网",
+          "url": "https://mini.caixin.com/2026-07-15/102464293.html"
+        },
+        {
+          "name": "澎湃新闻",
+          "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9zTkZiWlVwT1VvQ0hnNjVwR0tHSEF3cEhHaTk2a1RDVkxTdzF5d3VxUjB1bWpoa1V5aU51M1poQlFXa1kyS241YjBPQVdoSy10YmN2RFZXbmMyQWl2dkE?oc=5"
+        }
+      ]
+    },
+    {
+      "title": "上海完成脑机接口首例手术",
+      "summary": "上海某医院开出脑机接口首张处方并成功实施手术，标志着脑机接口技术从实验室迈向临床应用。该技术有望帮助瘫痪患者恢复运动功能，对神经疾病治疗具有里程碑意义。",
+      "reason": "科技重大突破，直接切入医疗应用，预示人机交互新时代。",
+      "impact_areas": [
+        "科技",
+        "社会"
+      ],
+      "impact_level": "重大",
+      "sources": [
+        {
+          "name": "澎湃新闻",
+          "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE01Y3R0eVZJX3plYks4X3RCbzU2N1RIZ3VxWDFRd0ZqdHJ3U3paQnhNaVNZQnpqNWs0MGowT3ZsY1lGeEpQbW9NWUJuZnk1aDBxUHV2LTVLbi1MMDJVc3NoZA?oc=5"
+        }
+      ]
+    },
+    {
+      "title": "OpenAI开发AI智能音箱",
+      "summary": "消息称OpenAI正在开发一款化身AI伴侣的智能音箱，作为其首款硬件产品。该设备可能集成GPT模型，提供自然对话体验，直接对标亚马逊Echo和苹果HomePod。这标志着AI公司从软件向硬件延伸。",
+      "reason": "AI巨头进军硬件，可能重塑智能家居市场，科技行业关注度极高。",
+      "impact_areas": [
+        "科技"
+      ],
+      "impact_level": "重大",
+      "sources": [
+        {
+          "name": "财新网",
+          "url": "https://database.caixin.com/2026-07-15/102464317.html"
+        }
+      ]
+    },
+    {
+      "title": "DeepSeek据悉筹备IPO",
+      "summary": "中国AI初创公司DeepSeek据悉开始筹备IPO，市场估值可能达到数百亿美元。该公司在大型语言模型领域表现突出，其上市将成为中国AI行业的重要里程碑。",
+      "reason": "AI独角兽筹备上市，反映行业资本化加速，对科技投资有信号意义。",
+      "impact_areas": [
+        "科技",
+        "经济金融"
+      ],
+      "impact_level": "重大",
+      "sources": [
+        {
+          "name": "财新网",
+          "url": "https://database.caixin.com/2026-07-15/102464291.html"
+        }
+      ]
+    },
+    {
+      "title": "长鑫科技IPO定价8.66元",
+      "summary": "长鑫科技IPO发行价定为8.66元，预计超募2倍，市盈率约40倍。公司为DRAM芯片龙头，IPO将募资超百亿元，用于扩产和技术研发。蔚来等战略投资者已参与。",
+      "reason": "半导体龙头IPO受到市场热捧，反映国产芯片产业资本化进展。",
+      "impact_areas": [
+        "科技",
+        "经济金融"
+      ],
+      "impact_level": "重大",
+      "sources": [
+        {
+          "name": "财新网",
+          "url": "https://finance.caixin.com/2026-07-15/102464321.html"
+        },
+        {
+          "name": "36氪",
+          "url": "https://www.36kr.com/newsflashes/3896383346820996"
+        }
+      ]
+    },
+    {
+      "title": "华尔街押注美联储7月加息",
+      "summary": "债券交易员此前押注美联储7月加息，但随着经济数据变化，部分交易员缴械。市场对美联储政策预期摇摆不定，反映通胀与增长平衡的难度。美银调查建议全球股票多头减仓。",
+      "reason": "美联储政策预期变化影响全球资产定价，对金融市场有直接冲击。",
+      "impact_areas": [
+        "经济金融"
+      ],
+      "impact_level": "重大",
+      "sources": [
+        {
+          "name": "财新网",
+          "url": "https://database.caixin.com/2026-07-15/102464314.html"
         }
       ]
     }
   ],
-  "total_fetched": 196,
-  "generated_at": "2026-07-15T07:26:16.812762+08:00"
+  "total_fetched": 254,
+  "generated_at": "2026-07-15T12:26:24.654463+08:00"
 }
