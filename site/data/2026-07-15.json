@@ -2,33 +2,34 @@
   "date": "2026-07-15",
   "news": [
     {
-      "title": "美伊冲突升级，霍尔木兹危机",
-      "summary": "特朗普威胁称若伊朗不恢复谈判将轰炸桥梁和电厂，美军恢复对伊朗海上封锁，霍尔木兹海峡出现'断层线'。此前美伊停火协议破裂，美国制裁伊朗石油网络和数字资产。伊朗网络攻击追踪美军人员手机。欧洲在伊朗问题上仍处于旁观。冲突导致全球能源价格波动风险加剧，国际航运面临威胁。",
-      "reason": "多平台密集报道，影响全球地缘政治与能源市场，持续发酵。",
+      "title": "美伊在霍尔木兹海峡再起冲突",
+      "summary": "美军中央司令部宣布对伊朗发动新一波打击，伊朗回应将封锁更多海上贸易路线。霍尔木兹海峡通行受阻，全球油价和航运价格飙升，多国呼吁局势降温。特朗普政府试图对过往船只征收高额通行费，但遭国际反对，方案一日作废。伊朗称已造成30余名平民死亡，美伊对抗持续升级。",
+      "reason": "多源报道，涵盖军事、经济、外交层面，影响全球能源供应和地缘格局，持续数日热度不减。",
       "impact_areas": [
         "地缘",
-        "经济金融"
+        "经济金融",
+        "能源"
       ],
       "impact_level": "现象级",
       "sources": [
+        {
+          "name": "凤凰网",
+          "url": "https://news.ifeng.com/c/8umhHNzDXa0"
+        },
         {
           "name": "BBC",
-          "url": "https://www.bbc.co.uk/news/articles/cy0608wy8pro?at_medium=RSS&at_campaign=rss"
+          "url": "https://www.bbc.co.uk/news/articles/c9323zgq6wvo"
         },
         {
-          "name": "NYTimes",
+          "name": "纽约时报",
           "url": "https://www.nytimes.com/live/2026/07/14/world/iran-war-trump-hormuz"
-        },
-        {
-          "name": "财新网",
-          "url": "https://database.caixin.com/2026-07-15/102464311.html"
         }
       ]
     },
     {
-      "title": "二季度GDP同比增4.3%",
-      "summary": "国家统计局公布二季度GDP同比增长4.3%，名义增速13个季度来首超实际增速。上半年中国经济增量是近五年来同期最大增量，经济新动能不断成长壮大。但房地产开发投资同比下降18%，显示经济结构分化。下阶段将加大逆周期和跨周期调节力度。",
-      "reason": "核心经济数据，反映经济复苏节奏与结构变化，影响政策预期。",
+      "title": "中国经济增速放缓，产能利用率创新低",
+      "summary": "二季度中国GDP增速大幅低于预期，工业产能利用率降至73%，创六年来最低。上半年外贸表现强劲，但内需疲软，制造业投资下滑。央行加大货币政策宽松力度，但信贷需求不足。市场对经济前景担忧加剧，股市承压。",
+      "reason": "核心经济数据揭示下行压力，影响全球经济增长预期和资产定价。",
       "impact_areas": [
         "经济金融"
       ],
@@ -36,147 +37,150 @@
       "sources": [
         {
           "name": "财新网",
-          "url": "https://economy.caixin.com/2026-07-15/102464330.html"
+          "url": "https://economy.caixin.com/2026-07-15/102464527.html"
         },
         {
-          "name": "36氪",
-          "url": "https://www.36kr.com/newsflashes/3896313562072713"
+          "name": "BBC",
+          "url": "https://www.bbc.co.uk/news/articles/cd959x4edy8o"
         }
       ]
     },
     {
-      "title": "6月原油进口大降四成",
-      "summary": "6月中国原油进口量同比大降四成，创近十年月度新低。同时美军恢复对伊朗海上封锁，加剧供应端不确定性。原油进口骤降反映国内需求疲软及地缘风险，对全球油市形成冲击。",
-      "reason": "消息面信号：原油进口创十年新低，对能源市场和宏观经济有重要指引。",
-      "impact_areas": [
-        "经济金融",
-        "地缘"
-      ],
-      "impact_level": "重大",
-      "sources": [
-        {
-          "name": "财新网",
-          "url": "https://www.caixin.com/2026-07-15/102464350.html"
-        }
-      ]
-    },
-    {
-      "title": "6月社零增速超预期转正",
-      "summary": "6月社会消费品零售总额同比增速超预期转正，为经济复苏提供积极信号。消费回暖受政策刺激和居民信心恢复推动，但可持续性仍需观察。该数据对消费类资产和宏观经济判断具有重要参考价值。",
-      "reason": "经济先行指标超预期，反映内需修复力度，影响市场情绪。",
-      "impact_areas": [
-        "经济金融"
-      ],
-      "impact_level": "重大",
-      "sources": [
-        {
-          "name": "财新网",
-          "url": "https://economy.caixin.com/2026-07-15/102464358.html"
-        }
-      ]
-    },
-    {
-      "title": "西班牙2-0法国挺进决赛",
-      "summary": "世界杯半决赛西班牙2-0战胜法国，率先晋级决赛。西班牙队展现强大控球和反击能力，法国队进攻受阻。决赛将对阵阿根廷与英格兰胜者。赛事引发全球热议，多平台热搜。",
-      "reason": "世界杯半决赛全球关注，体育破圈成为社会事件，热度极高。",
-      "impact_areas": [
-        "社会"
-      ],
-      "impact_level": "现象级",
-      "sources": [
-        {
-          "name": "财新网",
-          "url": "https://mini.caixin.com/2026-07-15/102464293.html"
-        },
-        {
-          "name": "澎湃新闻",
-          "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9zTkZiWlVwT1VvQ0hnNjVwR0tHSEF3cEhHaTk2a1RDVkxTdzF5d3VxUjB1bWpoa1V5aU51M1poQlFXa1kyS241YjBPQVdoSy10YmN2RFZXbmMyQWl2dkE?oc=5"
-        }
-      ]
-    },
-    {
-      "title": "上海完成脑机接口首例手术",
-      "summary": "上海某医院开出脑机接口首张处方并成功实施手术，标志着脑机接口技术从实验室迈向临床应用。该技术有望帮助瘫痪患者恢复运动功能，对神经疾病治疗具有里程碑意义。",
-      "reason": "科技重大突破，直接切入医疗应用，预示人机交互新时代。",
+      "title": "ASML上调全年营收预期，AI芯片需求强劲",
+      "summary": "光刻机巨头ASML再次调高2026年营收指引，称存储与AI芯片厂商需求远超预期，产能供不应求。EUV光刻机订单持续增长，显示半导体行业景气度高涨，人工智能投资热潮持续推动上游设备需求。",
+      "reason": "科技行业风向标，反映AI对硬件需求的深远影响，利好半导体产业链。",
       "impact_areas": [
         "科技",
-        "社会"
+        "经济金融"
       ],
       "impact_level": "重大",
       "sources": [
         {
-          "name": "澎湃新闻",
-          "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE01Y3R0eVZJX3plYks4X3RCbzU2N1RIZ3VxWDFRd0ZqdHJ3U3paQnhNaVNZQnpqNWs0MGowT3ZsY1lGeEpQbW9NWUJuZnk1aDBxUHV2LTVLbi1MMDJVc3NoZA?oc=5"
+          "name": "财新网",
+          "url": "https://database.caixin.com/2026-07-15/102464515.html"
         }
       ]
     },
     {
-      "title": "OpenAI开发AI智能音箱",
-      "summary": "消息称OpenAI正在开发一款化身AI伴侣的智能音箱，作为其首款硬件产品。该设备可能集成GPT模型，提供自然对话体验，直接对标亚马逊Echo和苹果HomePod。这标志着AI公司从软件向硬件延伸。",
-      "reason": "AI巨头进军硬件，可能重塑智能家居市场，科技行业关注度极高。",
+      "title": "小鹏计划明年全球推出人形机器人",
+      "summary": "小鹏汽车宣布计划于2027年在全球市场推出人形机器人，将融合自动驾驶技术与人工智能。此前小鹏已在机器人领域布局，该计划标志中国车企向具身智能赛道加速迈进，与特斯拉Optimus形成竞争。",
+      "reason": "中国科技企业进军机器人赛道，代表AI与制造业融合新趋势，影响未来产业格局。",
       "impact_areas": [
         "科技"
       ],
       "impact_level": "重大",
       "sources": [
         {
-          "name": "财新网",
-          "url": "https://database.caixin.com/2026-07-15/102464317.html"
+          "name": "36氪",
+          "url": "https://www.36kr.com/newsflashes/3896801391609737"
         }
       ]
     },
     {
-      "title": "DeepSeek据悉筹备IPO",
-      "summary": "中国AI初创公司DeepSeek据悉开始筹备IPO，市场估值可能达到数百亿美元。该公司在大型语言模型领域表现突出，其上市将成为中国AI行业的重要里程碑。",
-      "reason": "AI独角兽筹备上市，反映行业资本化加速，对科技投资有信号意义。",
+      "title": "百度为苹果智能提供AI搜索功能",
+      "summary": "百度与苹果达成合作，为Apple Intelligence提供AI搜索能力。此举将提升百度在AI应用领域的商业化空间，同时为苹果用户提供更智能的搜索体验，推动国内AI大模型落地应用。",
+      "reason": "重要科技巨头合作，验证中国AI技术价值，影响搜索市场格局。",
       "impact_areas": [
-        "科技",
-        "经济金融"
+        "科技"
       ],
       "impact_level": "重大",
       "sources": [
-        {
-          "name": "财新网",
-          "url": "https://database.caixin.com/2026-07-15/102464291.html"
-        }
-      ]
-    },
-    {
-      "title": "长鑫科技IPO定价8.66元",
-      "summary": "长鑫科技IPO发行价定为8.66元，预计超募2倍，市盈率约40倍。公司为DRAM芯片龙头，IPO将募资超百亿元，用于扩产和技术研发。蔚来等战略投资者已参与。",
-      "reason": "半导体龙头IPO受到市场热捧，反映国产芯片产业资本化进展。",
-      "impact_areas": [
-        "科技",
-        "经济金融"
-      ],
-      "impact_level": "重大",
-      "sources": [
-        {
-          "name": "财新网",
-          "url": "https://finance.caixin.com/2026-07-15/102464321.html"
-        },
         {
           "name": "36氪",
-          "url": "https://www.36kr.com/newsflashes/3896383346820996"
+          "url": "https://www.36kr.com/newsflashes/3896728075323271"
         }
       ]
     },
     {
-      "title": "华尔街押注美联储7月加息",
-      "summary": "债券交易员此前押注美联储7月加息，但随着经济数据变化，部分交易员缴械。市场对美联储政策预期摇摆不定，反映通胀与增长平衡的难度。美银调查建议全球股票多头减仓。",
-      "reason": "美联储政策预期变化影响全球资产定价，对金融市场有直接冲击。",
+      "title": "上市猪企巨额预亏，猪周期底部未现",
+      "summary": "牧原股份等头部猪企发布半年度业绩预告，合计预亏超60亿元，资产减值压力巨大。猪价持续低迷，行业产能去化缓慢，市场预期本轮超长猪周期底部仍未到来，养殖业面临严峻考验。",
+      "reason": "产业周期信号，影响农业板块投资及CPI走势，关注国家收储政策动向。",
       "impact_areas": [
-        "经济金融"
+        "经济金融",
+        "农业"
       ],
       "impact_level": "重大",
       "sources": [
         {
           "name": "财新网",
-          "url": "https://database.caixin.com/2026-07-15/102464314.html"
+          "url": "https://database.caixin.com/2026-07-15/102464466.html"
+        }
+      ]
+    },
+    {
+      "title": "英国将立法限制青少年社媒使用",
+      "summary": "英国政府宣布将对16至17岁青少年实施社交媒体“宵禁”，禁止在特定时段访问平台，旨在保护心理健康。此举引发关于言论自由和科技监管的辩论，或为其他国家立法提供参考。",
+      "reason": "重要社会政策，可能引发全球性青少年社媒监管趋势。",
+      "impact_areas": [
+        "社会",
+        "科技"
+      ],
+      "impact_level": "重大",
+      "sources": [
+        {
+          "name": "凤凰网",
+          "url": "https://news.ifeng.com/c/8umeJlDeZv0"
+        },
+        {
+          "name": "央视网",
+          "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1VdEhtXzBIcnczeVBZdmJiWEtzanNwaW5CV2pabWxQVzZ3LTdMMTBxNXZjNkpSVTVuQ2RjOV9qRGlickM0aWZnS0daam5TbmpiOXhYZEJwZnBnLWJwWUk0RGVkVlAtd2FNeEFzaE8xcmpma19MUm9FNg"
+        }
+      ]
+    },
+    {
+      "title": "澳洲拟限制数据中心能耗，应对AI用电激增",
+      "summary": "澳大利亚政府宣布将设立AI办公室，并对数据中心实施能源和水资源使用限制，以遏制AI热潮带来的电力消耗飙升。这是全球首个针对AI基础设施的能源监管措施，可能影响数据中心投资布局。",
+      "reason": "能源政策与AI发展冲突显现，信号意义重大，关注后续全球数据中心监管跟进。",
+      "impact_areas": [
+        "科技",
+        "能源",
+        "政策"
+      ],
+      "impact_level": "重大",
+      "sources": [
+        {
+          "name": "36氪",
+          "url": "https://www.36kr.com/newsflashes/3896711967721088"
+        },
+        {
+          "name": "纽约时报",
+          "url": "https://www.nytimes.com/2026/07/15/world/australia/albanese-artificial-intelligence-guardrails.html"
+        }
+      ]
+    },
+    {
+      "title": "委内瑞拉地震死亡超4700人",
+      "summary": "委内瑞拉强烈地震造成的死亡人数已升至4734人，政府宣布紧急状态，国际救援陆续抵达。地震引发大规模破坏和人道主义危机，委内瑞拉经济本已脆弱，灾害可能进一步加剧动荡。",
+      "reason": "重大自然灾害导致严重人员伤亡，引发国际关注，可能影响区域稳定。",
+      "impact_areas": [
+        "社会",
+        "人道"
+      ],
+      "impact_level": "重大",
+      "sources": [
+        {
+          "name": "Reuters",
+          "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNaF96RlBmdlFWMWREbkdIeTBOeWFOSXJVVTZxQXBLUVFtUjg1c0lRaUh2ZW5sOGtYNzZYUVlzTDdTZ1I4V2d0VHdTUVp3MlZHS3B2ZVFMMVcwaTdLR0YxWmNHVndpZ3M1dXJkV0FvdGQ4dVJPVGZOWUo2dkVvM21qNWtyUHU2dHNCMi1Xd1B3WDhuaVlPajBsS2dfQ3AwdEctbVdOLUtWSDA"
+        }
+      ]
+    },
+    {
+      "title": "鲁比奥欲拆国际刑事法院，欧盟反对",
+      "summary": "美国国务卿鲁比奥公开主张‘一砖一瓦拆除’国际刑事法院，欧盟迅速回应称其言论‘不可接受’，并重申对ICC的支持。美欧在司法主权问题上分歧加深，国际法治面临挑战。",
+      "reason": "美欧外交裂痕扩大，涉及国际秩序与司法独立性，影响深远。",
+      "impact_areas": [
+        "政治",
+        "国际关系"
+      ],
+      "impact_level": "重大",
+      "sources": [
+        {
+          "name": "澎湃新闻",
+          "url": "https://m.thepaper.cn/detail/33591660"
         }
       ]
     }
   ],
-  "total_fetched": 254,
-  "generated_at": "2026-07-15T12:26:24.654463+08:00"
+  "total_fetched": 322,
+  "generated_at": "2026-07-15T19:26:20.433187+08:00"
 }
