@@ -1,0 +1,182 @@
+{
+  "date": "2026-07-17",
+  "news": [
+    {
+      "title": "美军连续第五晚空袭伊朗",
+      "summary": "美军发动新一轮空袭，连续第五晚打击伊朗目标，中东紧张局势进一步升级。霍尔木兹海峡航运安全受到威胁，国际油价大幅波动。美伊冲突持续发酵，多国呼吁克制，但美国军方表示将继续行动直至伊朗停止威胁。此次空袭涉及伊朗境内多个军事设施，伊朗方面誓言报复。海湾国家正加速推进港口东迁和废弃管道重修，以降低对霍尔木兹海峡的依赖。",
+      "reason": "美伊冲突持续升级，涉及全球能源安全与地缘政治稳定，多平台密集报道。",
+      "impact_areas": [
+        "地缘政治",
+        "经济金融"
+      ],
+      "impact_level": "现象级",
+      "sources": [
+        {
+          "name": "澎湃新闻",
+          "url": "https://m.thepaper.cn/detail/33602385"
+        },
+        {
+          "name": "BBC",
+          "url": "https://www.bbc.co.uk/news/articles/c151gdjwd10o?at_medium=RSS&at_campaign=rss"
+        }
+      ]
+    },
+    {
+      "title": "乌克兰防长遭撤换引发抗议",
+      "summary": "乌克兰总统泽连斯基撤换国防部长费多罗夫，任命赫马拉为代理防长。费多罗夫是90后改革派，在无人机作战等领域推动创新，其离任引发基辅街头抗议，军方内部亦有反对声音。赫马拉为文官背景，外界分析此举反映泽连斯基试图加强对军方的控制。美方对此表示关注，认为可能影响乌克兰作战策略。俄乌战争进程或因此出现变数。",
+      "reason": "乌克兰高层人事变动，直接影响战争走向和国际援乌态势，多源交叉报道。",
+      "impact_areas": [
+        "政治",
+        "地缘政治"
+      ],
+      "impact_level": "重大",
+      "sources": [
+        {
+          "name": "澎湃新闻",
+          "url": "https://m.thepaper.cn/detail/33600884"
+        },
+        {
+          "name": "凤凰网",
+          "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE9PZndCM0RybTlDempQSkxYVjBhVGpEbVNxZGxPMF9rdTVjLXdQZUVZNnV4RGVBY1VCS1JsbVlLTVltSm1fYzZHbQ?oc=5"
+        },
+        {
+          "name": "BBC",
+          "url": "https://www.bbc.co.uk/news/articles/cdx76069n3do?at_medium=RSS&at_campaign=rss"
+        }
+      ]
+    },
+    {
+      "title": "世界人工智能合作组织协定签署",
+      "summary": "《成立世界人工智能合作组织协定》签署仪式在上海举行，旨在构建开放、包容、普惠的全球人工智能治理体系。该组织由多个国家共同发起，将推动AI技术标准制定、伦理规范及跨国合作，降低数字鸿沟。中国在AI治理中发挥积极作用，此举被视为全球AI治理的重要里程碑，预计将加速各国在AI安全、数据跨境流动等议题上的协调。",
+      "reason": "全球AI治理的重要进展，影响科技产业未来规则，具有长期深远意义。",
+      "impact_areas": [
+        "科技",
+        "政治"
+      ],
+      "impact_level": "现象级",
+      "sources": [
+        {
+          "name": "澎湃新闻",
+          "url": "https://m.thepaper.cn/detail/33600156"
+        },
+        {
+          "name": "财新网",
+          "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBvZGZSb1RNTGRSQjhJX1hJN0lwOG5kZTQ5eU1lNGZnTHA4dFFRbGhlTHk2VWNqY200aDVOZGdleG5jc2xMSzNIVU5pbURyYlB5TFhzNGxPanEyT1hNTFpYanRB?oc=5"
+        }
+      ]
+    },
+    {
+      "title": "台积电二季度净利润创新高",
+      "summary": "台积电公布2026年第二季度财报，净利润再创历史新高，主要受AI芯片和高端制程需求拉动。公司计划年内扩产，进一步巩固全球晶圆代工龙头地位。尽管全球半导体周期面临调整，但台积电凭借先进工艺和强劲订单，盈利持续超预期。该业绩对全球科技供应链具有风向标意义，也反映AI算力需求持续旺盛。",
+      "reason": "全球芯片龙头业绩超预期，反映AI产业景气度，影响科技投资方向。",
+      "impact_areas": [
+        "科技",
+        "经济金融"
+      ],
+      "impact_level": "重大",
+      "sources": [
+        {
+          "name": "财新网",
+          "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE43UW4ybi1qUEE0VU1xcHJ6eGk1WDc2UHVNSF9YSHhIWDNrVEJnamJaeXlRUTZ5dE52bm8xdW5UV1BEZUFNTUU2MnJrUVAzR2VSRW5KeXg2dE9kYnRyeXZHem4ybEI?oc=5"
+        }
+      ]
+    },
+    {
+      "title": "英钢被正式收归国有",
+      "summary": "英国政府正式将英国钢铁公司（英钢）收归国有，前中资股东敬业集团能否获得赔偿成为焦点。英钢是英国第二大钢铁企业，此前因经营困境被敬业集团收购。国有化后，英国政府承诺保障就业和产能。此举反映欧洲钢铁产业面临的竞争压力，以及对关键产业安全性的考量，可能引发其他国家效仿。",
+      "reason": "重大产业干预事件，涉及中资出海及欧洲钢铁业格局。",
+      "impact_areas": [
+        "产业",
+        "经济金融"
+      ],
+      "impact_level": "重大",
+      "sources": [
+        {
+          "name": "财新网",
+          "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1UVzdOT2VBdDFhcHNGYm1IdnRRbjNiSFE4TWpIUWVPY0Zvd2drd0puanRmZm02THltSk5zUUJFOWRUZG53UHNyczlGR05GSUQ4YVRqckIxRjhrMFhBN3lfNlU1Wnk?oc=5"
+        }
+      ]
+    },
+    {
+      "title": "全国多地高温持续影响农业",
+      "summary": "中国多地持续高温天气，部分地区气温突破历史极值，对农业生产造成严重影响。各地政府积极采取措施，包括灌溉调度、发放高温补贴、调整作业时间等，以减轻旱情和热害。高温也导致用电负荷攀升，电力保供面临挑战。气象部门预计高温还将持续数日，对夏收秋播影响较大。",
+      "reason": "大规模极端天气事件，直接影响农业产出和能源系统，关乎民生。",
+      "impact_areas": [
+        "社会",
+        "经济金融"
+      ],
+      "impact_level": "重大",
+      "sources": [
+        {
+          "name": "央视网",
+          "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE00XzViNGJnLXJEcXFFRVI3NXllZE95dmFKQ2lyQ05Dd0RDaWpkM2lOMWpPeFVVVlA2VWduVHRlRmpLU1g1SkdQQWhJd3R5VzM0djNIYldKeDYwUFNOdlRQOTd5ZFBLN2FSeEJ5RG5uVk1NdDFCMEJXOA?oc=5"
+        }
+      ]
+    },
+    {
+      "title": "加拿大野火烟雾影响美国",
+      "summary": "加拿大数百起野火持续燃烧，产生的烟雾向南扩散，导致美国多个州发布空气质量警报。这是近年来最严重的跨境烟雾事件，能见度降低，民众健康受影响。加拿大政府已出动军队协助灭火，但火势仍未得到有效控制。气候变化被认为是导致野火更频繁、更猛烈的主因。",
+      "reason": "大规模环境灾难，跨国界影响严重，引发对气候变化的关注。",
+      "impact_areas": [
+        "生态",
+        "社会"
+      ],
+      "impact_level": "重大",
+      "sources": [
+        {
+          "name": "BBC",
+          "url": "https://www.bbc.co.uk/news/articles/c0m7n427xd8o?at_medium=RSS&at_campaign=rss"
+        }
+      ]
+    },
+    {
+      "title": "意大桥倒塌责任人被判刑",
+      "summary": "意大利热那亚莫兰迪大桥2018年倒塌事故宣判，多名高速公路公司高管因过失杀人罪被判有期徒刑，最重达12年。该桥倒塌导致43人死亡，是意大利近年最严重的基建事故。判决结果引发对基建安全监管的讨论，也警示全球老旧基础设施的维护和更新刻不容缓。",
+      "reason": "重大基建安全事故司法终结，对全球基建安全标准具有警示意义。",
+      "impact_areas": [
+        "社会",
+        "政治"
+      ],
+      "impact_level": "重大",
+      "sources": [
+        {
+          "name": "BBC",
+          "url": "https://www.bbc.co.uk/news/articles/c36dnz1zez5o?at_medium=RSS&at_campaign=rss"
+        }
+      ]
+    },
+    {
+      "title": "白宫操作员利用特朗普演讲下注",
+      "summary": "一名白宫提词器操作员被指控利用提前获取的特朗普演讲内容，在政治赌博平台上投注并获利逾10万美元。该案引发对白宫内部信息安全的质疑，也凸显美国政治赌博的监管漏洞。司法部已展开调查，白宫表示将加强安保措施。此事件可能影响即将到来的大选舆论。",
+      "reason": "美国政治丑闻，涉及安保漏洞和赌博监管，具有公众关注度。",
+      "impact_areas": [
+        "政治"
+      ],
+      "impact_level": "重大",
+      "sources": [
+        {
+          "name": "BBC",
+          "url": "https://www.bbc.co.uk/news/articles/cjrvdqyr5d5o?at_medium=RSS&at_campaign=rss"
+        }
+      ]
+    },
+    {
+      "title": "美国收紧国际学生居留期限",
+      "summary": "美国政府发布新规，收紧国际学生及访问学者的入境居留期限，加强审查。新规将影响大量赴美留学人员，尤其对中印等国学生影响较大。高校协会批评此举损害教育开放度，可能导致人才流失。这是美国移民政策进一步收紧的信号，也将影响全球人才流动格局。",
+      "reason": "美国移民政策重大调整，影响国际教育交流与人才流动，波及面广。",
+      "impact_areas": [
+        "社会",
+        "政治"
+      ],
+      "impact_level": "重大",
+      "sources": [
+        {
+          "name": "澎湃新闻",
+          "url": "https://m.thepaper.cn/detail/33602997"
+        }
+      ]
+    }
+  ],
+  "total_fetched": 166,
+  "generated_at": "2026-07-17T07:26:31.181493+08:00"
+}
