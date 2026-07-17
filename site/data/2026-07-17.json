@@ -3,8 +3,8 @@
   "news": [
     {
       "title": "美伊冲突持续升级",
-      "summary": "美国对伊朗发动新一轮空袭，伊朗称民用基础设施遭袭，这是连续第六晚的打击。霍尔木兹海峡安全受到严重威胁，国际油价和全球航运面临不确定性。美国副总统万斯批评以色列操纵美国舆论以延长战争。此次冲突已导致中东局势急剧紧张，多方关注是否演变为全面战争。",
-      "reason": "美伊冲突持续发酵，影响全球地缘政治和经济稳定，热度极高。",
+      "summary": "美军完成第6晚对伊朗打击，伊朗称港口和桥梁等民用基础设施受损，造成至少7死9伤。美伊双方谈判意愿分歧，特朗普被曝考虑扩大战事方案。冲突推高油价，霍尔木兹海峡航运风险加剧，已导致迪拜外籍劳工失业。国际社会呼吁停火，但美国国内政治压力加大。",
+      "reason": "美伊冲突连续多日空袭，影响全球能源安全和地缘稳定，多平台热议。",
       "impact_areas": [
         "地缘",
         "经济金融"
@@ -12,61 +12,27 @@
       "impact_level": "现象级",
       "sources": [
         {
+          "name": "央视网",
+          "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5yajM1MUN3STcyVTl4d1Z2WEY3TmlyN2sycFRwSXhuMnNobUN3azg0NTRmMXJBNDhSQ3BvMnJNS2JucnU5NzNZTUN1bm1DZ3A0TmR6bWVIYUFuTVJFZm0tUmpCQzZ5SDBfX0lRMl9GeGQybV9FYTUyVQ?oc=5"
+        },
+        {
           "name": "BBC",
           "url": "https://www.bbc.co.uk/news/articles/c151gdjwd10o?at_medium=RSS&at_campaign=rss"
         },
         {
           "name": "Reuters",
           "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNcU5Ec2J3b2lDc21BVGR3cWYxV185VjZLdk9tTzlndk5Tc3hPblNOQXVZY3hrYjU3bW9Mek9yZXVFV2tUV2d1NThXTnZ5SkhucHh4X3VPTlkxdk9SX2FlTndvTWRRUnB4ak01QmFWVzQ2RzVaYk1pWU1VMElXRW5jaFM5czAzR2VWeF9neExJZlgwaDhvV2pJbWh4LWV1bWJ5bnRRZmVyckRhNFNwNkVjdEJGdlFYbHc4d2FBTEx0U0ZsRFVaT1RIUmNNWHlrdw?oc=5"
+        },
+        {
+          "name": "NYTimes",
+          "url": "https://www.nytimes.com/live/2026/07/17/world/iran-war-trump-hormuz"
         }
       ]
     },
     {
-      "title": "重庆彭水山体崩塌致多人被埋",
-      "summary": "重庆市彭水县一处路段发生突发山体边坡垮塌，多栋民房受损，有人员被埋。救援队伍已抵达现场，目前已搜救出8名被困者，被埋人数仍在核实。目击者称巨响如放大炮，现场有多层楼房受损，大巴车被埋。该事件引发全国关注，灾害应急响应启动。",
-      "reason": "重大自然灾害导致人员被埋，多地救援，社会关注度极高。",
-      "impact_areas": [
-        "社会"
-      ],
-      "impact_level": "重大",
-      "sources": [
-        {
-          "name": "澎湃新闻",
-          "url": "https://m.thepaper.cn/detail/33604191"
-        },
-        {
-          "name": "凤凰网",
-          "url": "https://news.ifeng.com/c/8upYLzkRUYb"
-        },
-        {
-          "name": "财新网",
-          "url": "https://photos.caixin.com/2026-07-17/102465092.html"
-        }
-      ]
-    },
-    {
-      "title": "Kimi发布2.8万亿参数开源模型K3",
-      "summary": "月之暗面公司正式发布全球参数最大的开源大模型Kimi K3，参数量达2.8万亿，超越GPT-4等闭源模型。该模型在多项基准测试中表现优异，将推动AI开源生态发展。同时，DeepSeek完成首轮融资估值3510亿元，AI领域资本竞争白热化。",
-      "reason": "AI领域重大技术突破，全球最大开源模型发布，影响深远。",
-      "impact_areas": [
-        "科技"
-      ],
-      "impact_level": "现象级",
-      "sources": [
-        {
-          "name": "澎湃新闻",
-          "url": "https://m.thepaper.cn/detail/33603681"
-        },
-        {
-          "name": "财新网",
-          "url": "https://www.caixin.com/2026-07-17/102465041.html"
-        }
-      ]
-    },
-    {
-      "title": "习近平出席世界人工智能大会",
-      "summary": "国家主席习近平出席2026世界人工智能大会暨人工智能全球治理高级别会议开幕式，宣布中国支持全球人工智能发展的重大举措，强调国际合作与治理。这是中国在AI领域最高级别的政治表态，将影响全球AI规则制定和产业合作。",
-      "reason": "国家主席亲自宣布AI支持举措，政策信号强烈，影响全球AI治理格局。",
+      "title": "世界AI合作组织成立",
+      "summary": "7月17日，2026世界人工智能大会在上海开幕，习近平主席发表主旨讲话，宣布世界人工智能合作组织（WAIO）正式成立。29个创始成员国签署协定，旨在推动全球AI治理体系建设。习近平强调携手构建公正合理的全球AI治理体系。该组织被视为AI领域的'WTO'，将制定国际规则，促进技术合作与风险防控。中方表示将推动组织尽早启动运转。",
+      "reason": "中国主导的全球AI治理里程碑事件，习近平亲自宣布，影响AI产业发展和国际规则。",
       "impact_areas": [
         "科技",
         "政治"
@@ -75,14 +41,57 @@
       "sources": [
         {
           "name": "澎湃新闻",
-          "url": "https://m.thepaper.cn/detail/33604109"
+          "url": "https://m.thepaper.cn/detail/33604314"
+        },
+        {
+          "name": "财新网",
+          "url": "https://international.caixin.com/2026-07-17/102465314.html"
+        },
+        {
+          "name": "央视网",
+          "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE53X2tQUl9UQU1fRHpmdFNNMFprZlhLT25adUpFaEpWWlFHSTNrWU5EZC1WZV9UV1lBbWRicVpoNjVxU0ZLSm9YWW1tVVpjNnZkLVJFOF91eTNTTUI0S2FUUGRVUkhEc3U4S3ZmbEMxVHMyVkRJRzJKNQ?oc=5"
         }
       ]
     },
     {
-      "title": "英国将中国钢企旗下英钢国有化",
-      "summary": "英国政府宣布将中国敬业集团旗下的英国钢铁公司国有化，引发中英经贸关系紧张。中国商务部回应称将采取必要措施维护企业权益。此举可能影响中国企业在英投资信心，并导致钢铁行业供应链波动。",
-      "reason": "涉及中英关系及钢铁产业，政治经济影响重大。",
+      "title": "伯纳姆当选英国首相",
+      "summary": "安迪·伯纳姆（Andy Burnham）当选英国工党党首，将接替基尔·斯塔默出任英国首相。伯纳姆被称为'北境之王'，以曼彻斯特市长身份赢得广泛支持。他的胜选标志着工党左翼回归，主张加强公共服务、推动地区平衡发展。他将面临经济复苏、英欧关系、美英关系等挑战。保守党在执政多年后下台，英国政治版图发生重大变化。",
+      "reason": "英国政权更迭，工党左翼上台，影响英国内外政策走向，全球关注。",
+      "impact_areas": [
+        "政治"
+      ],
+      "impact_level": "重大",
+      "sources": [
+        {
+          "name": "澎湃新闻",
+          "url": "https://m.thepaper.cn/detail/33606838"
+        },
+        {
+          "name": "NYTimes",
+          "url": "https://www.nytimes.com/2026/07/17/world/europe/andy-burnham-uk-labour-prime-minister.html"
+        }
+      ]
+    },
+    {
+      "title": "DeepSeek估值3508亿元",
+      "summary": "AI公司DeepSeek完成首轮融资，估值升至3508亿元人民币，腾讯、网易、宁德时代等参投。DeepSeek是国产大模型领军企业，本轮融资规模创AI行业纪录。资金将用于技术研发和算力扩张。此次融资表明资本对中国AI赛道的信心，但也引发对估值泡沫的讨论。",
+      "reason": "中国AI独角兽巨额融资，科技投资风向标，影响AI产业链估值。",
+      "impact_areas": [
+        "科技",
+        "经济金融"
+      ],
+      "impact_level": "重大",
+      "sources": [
+        {
+          "name": "财新网",
+          "url": "https://www.caixin.com/2026-07-17/102465129.html"
+        }
+      ]
+    },
+    {
+      "title": "美国对巴西加征25%关税",
+      "summary": "美国宣布将向巴西实施25%的新关税，巴西政府强烈指责美方措施带有明显政治动机。此举被视为特朗普政府对巴贸易施压升级，可能引发巴西报复。巴西是南美最大经济体，美巴贸易摩擦将影响农产品、钢铁等商品贸易格局。",
+      "reason": "贸易战扩大至南美，影响全球贸易秩序和新兴市场。",
       "impact_areas": [
         "经济金融",
         "政治"
@@ -90,55 +99,39 @@
       "impact_level": "重大",
       "sources": [
         {
-          "name": "澎湃新闻",
-          "url": "https://m.thepaper.cn/detail/33603376"
-        },
-        {
           "name": "财新网",
-          "url": "https://finance.caixin.com/2026-07-17/102465037.html"
+          "url": "https://international.caixin.com/2026-07-17/102465368.html"
         }
       ]
     },
     {
-      "title": "乌克兰防长被撤换引发抗议",
-      "summary": "乌克兰总统泽连斯基撤换国防部长费多罗夫，引发国内军界震荡和战时罕见抗议。费多罗夫被视为科技防长，其去职暴露乌军内部战略分歧。俄方回应称局势变化，美国副总统万斯也批评乌克兰政策。这一事件可能影响乌克兰抗俄战争进程。",
-      "reason": "乌克兰高层人事变动引发政治危机，影响俄乌战争走向。",
+      "title": "日本通过国旗亵渎禁令",
+      "summary": "日本国会通过新法律，禁止亵渎国旗，违者将面临处罚。同时，关于皇位继承的改革方案维持禁止女性天皇的立场，引发国内和国际争议。批评者认为这是民族主义抬头，限制言论自由，并延续性别歧视。日本政府称旨在维护国家象征。该法由安倍派系推动。",
+      "reason": "日本政治右转信号，涉及国家象征和女性权利，引发广泛讨论。",
       "impact_areas": [
-        "地缘",
-        "政治"
+        "政治",
+        "社会"
       ],
       "impact_level": "重大",
       "sources": [
-        {
-          "name": "澎湃新闻",
-          "url": "https://m.thepaper.cn/detail/33603664"
-        },
         {
           "name": "BBC",
-          "url": "https://www.bbc.co.uk/news/articles/cdx76069n3do?at_medium=RSS&at_campaign=rss"
-        }
-      ]
-    },
-    {
-      "title": "美政府缩短国际学生居留期限",
-      "summary": "美国政府宣布缩短国际学生在美居留期限，完成学业后30天内须离境。这一政策将直接影响数十万留学生，引发教育界和外交界广泛批评。此前美国已收紧签证政策，此举进一步限制人才流动，可能影响美国高等教育国际竞争力。",
-      "reason": "影响留学生群体，政策紧缩，对教育和移民领域冲击较大。",
-      "impact_areas": [
-        "社会",
-        "政治"
-      ],
-      "impact_level": "重大",
-      "sources": [
+          "url": "https://www.bbc.co.uk/news/articles/cy07rz79zg9o?at_medium=RSS&at_campaign=rss"
+        },
         {
-          "name": "财新网",
-          "url": "https://international.caixin.com/2026-07-17/102464986.html"
+          "name": "凤凰网",
+          "url": "https://news.ifeng.com/c/8upy4SAcDf1"
+        },
+        {
+          "name": "NYTimes",
+          "url": "https://www.nytimes.com/2026/07/17/world/asia/japan-flag-desecration-law.html"
         }
       ]
     },
     {
-      "title": "加拿大野火致美国空气质量恶化",
-      "summary": "加拿大持续野火产生的浓烟飘至美国，多个主要城市发布空气质量警报。火灾燃烧面积创历史同期新高，且夜间火势不减。美加两国跨区域空气污染问题凸显，对居民健康和航空交通造成影响，气候变化议题再次升温。",
-      "reason": "跨国环境灾难影响广泛，空气质量问题直接关系公共健康。",
+      "title": "加拿大野火烟雾侵袭美国",
+      "summary": "加拿大肆虐的野火产生的烟雾飘至美国，多个主要城市发布空气质量警报，数百万人受影响。得克萨斯州等地洪水与野火并存。科学家指出气候变化加剧了极端天气的频率和强度。加拿大消防力量捉襟见肘，国际救援力量正在集结。",
+      "reason": "跨境环境灾害，影响数百万美国人健康，气候变化警示。",
       "impact_areas": [
         "生态",
         "社会"
@@ -148,42 +141,69 @@
         {
           "name": "BBC",
           "url": "https://www.bbc.co.uk/news/articles/c0m7n427xd8o?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "name": "NYTimes",
+          "url": "https://www.nytimes.com/2026/07/16/world/canada/canada-wildfires-firefighters-heat.html"
         }
       ]
     },
     {
-      "title": "DeepSeek首轮融资估值3510亿",
-      "summary": "AI公司DeepSeek完成首轮融资，估值达3510亿元人民币，成为国内AI领域超级独角兽。此轮融资由多家顶级机构参与，反映市场对AI赛道的高度热情。同时，Kimi K3的发布进一步引发AI估值讨论，行业资本热潮持续。",
-      "reason": "AI领域巨额融资事件，反映市场热度和产业趋势。",
+      "title": "菲律宾谴责中国AI视频",
+      "summary": "中国官方媒体发布AI生成视频，将菲律宾描绘成猴子，引发菲方强烈抗议。菲律宾外交部召见中国大使，谴责这一'种族主义'行为。中国外交部回应称视频是'艺术创作'，无意冒犯。事件加剧中菲南海紧张关系，菲律宾正寻求国际社会支持。",
+      "reason": "中菲外交摩擦升级，涉及AI滥用和种族歧视，影响南海局势。",
       "impact_areas": [
-        "科技",
-        "经济金融"
+        "政治",
+        "科技"
       ],
       "impact_level": "重大",
       "sources": [
         {
-          "name": "虎嗅",
-          "url": "https://www.huxiu.com/article/4876001.html"
+          "name": "BBC",
+          "url": "https://www.bbc.co.uk/news/articles/cj632307934o?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "name": "NYTimes",
+          "url": "https://www.nytimes.com/2026/07/17/world/asia/philippines-ai-video-china-racist.html"
         }
       ]
     },
     {
-      "title": "全球首例脑机接口落地中国",
-      "summary": "中国成功实施全球首例脑机接口临床应用，为370万脊髓损伤患者带来新希望。该技术由国内团队研发，实现了从实验室到医疗场景的突破。这一进展标志着中国在脑机接口领域迈入世界前列，对神经康复和人工智能融合具有里程碑意义。",
-      "reason": "医疗科技重大突破，全球首例，对神经疾病治疗有深远影响。",
+      "title": "重庆山体崩塌预拨5000万",
+      "summary": "重庆彭水发生山体崩塌，导致房屋被埋，居民在预警后成功撤离，无人员死亡。两部门紧急预拨5000万元中央自然灾害救灾资金，支持抢险救援和受灾群众安置。自然资源部已派出工作组。此次成功避险得益于提前预警和转移，凸显地质灾害防治成效。",
+      "reason": "突发自然灾害，国家资金紧急救援，体现防灾减灾成效。",
       "impact_areas": [
-        "科技",
         "社会"
       ],
       "impact_level": "重大",
       "sources": [
         {
-          "name": "虎嗅",
-          "url": "https://www.huxiu.com/article/4876013.html"
+          "name": "澎湃新闻",
+          "url": "https://m.thepaper.cn/detail/33606251"
+        },
+        {
+          "name": "凤凰网",
+          "url": "https://news.ifeng.com/c/8upzl1WDpPj"
+        }
+      ]
+    },
+    {
+      "title": "中国降低原油进口应对高油价",
+      "summary": "财新数据图解显示，中国降低原油进口以应对高油价，同时光伏出口获利好。上半年中国原油进口量同比下降，而光伏组件出口增长显著。这表明中国在能源转型中加快步伐，减少对化石能源依赖，并利用新能源出口弥补贸易差额。此趋势对全球能源市场具有指向意义。",
+      "reason": "中国能源战略调整，影响全球原油和光伏市场，经济信号明确。",
+      "impact_areas": [
+        "经济金融",
+        "科技"
+      ],
+      "impact_level": "重大",
+      "sources": [
+        {
+          "name": "财新网",
+          "url": "https://database.caixin.com/2026-07-17/102465285.html"
         }
       ]
     }
   ],
-  "total_fetched": 270,
-  "generated_at": "2026-07-17T12:26:12.735915+08:00"
+  "total_fetched": 317,
+  "generated_at": "2026-07-17T19:26:36.134980+08:00"
 }
