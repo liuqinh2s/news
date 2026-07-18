@@ -2,34 +2,56 @@
   "date": "2026-07-18",
   "news": [
     {
-      "title": "美伊冲突持续升级",
-      "summary": "伊朗革命卫队宣布击落一架美军MQ-9无人机，并打击了美军在巴林的无人艇。美军随后对伊朗发动新一轮打击，新增13人受伤。冲突已进入第七天，桥梁和水厂等民用基础设施受损，美伊谅解备忘录名存实亡。伊朗多地传出爆炸声，美国被曝将向以色列增派加油机，局势进一步恶化。",
-      "reason": "多源密集报道，跨天持续发酵，涉及全球地缘政治稳定，影响能源市场和地区安全。",
+      "title": "美伊冲突第七天",
+      "summary": "美国对伊朗的军事打击进入第七天，目标扩展至桥梁和供水设施。伊朗方面向沙特美军基地发射导弹作为回应。冲突已导致霍尔木兹海峡通航量骤降，全球能源市场面临危机。国际社会呼吁停火，但双方立场强硬。",
+      "reason": "多日连续报道，多源破圈，直接影响全球能源安全及地缘格局。",
       "impact_areas": [
         "地缘",
-        "政治",
         "经济金融"
       ],
       "impact_level": "现象级",
       "sources": [
         {
-          "name": "澎湃新闻",
-          "url": "https://m.thepaper.cn/detail/33610978"
+          "name": "BBC",
+          "url": "https://www.bbc.co.uk/news/articles/cy748n8zx8ro"
+        },
+        {
+          "name": "Reuters",
+          "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNd1Zpc0tXYzd1NVhsVFJ2VHRXTkl5ZTA0Y0I0Yk9TeFNKbFZoRWpEWTM0Y0NBdmlKUFJIMHlFRGdYWTNDZEF2THo1azkyV3JabU9GOUxGQ3hwY2pxOUJXVUVlaUxHeFpiNVFxYVA2NTZmMTNLOHY1b3JjTVJfT0piMnFoZ2ZicnVXUkdMWG5jY21MUUxLZnpKeDB0V2NqaEdyWHZBTzRXV18zQzhJek9tREx3MW8wcGVaa25MbExTV0tXZWZyd2x3X21ueGNUUQ"
         },
         {
           "name": "凤凰网",
-          "url": "https://news.ifeng.com/c/8uqYuoIZboK"
+          "url": "https://news.ifeng.com/c/8ur9RuLTApr"
+        }
+      ]
+    },
+    {
+      "title": "重庆山体崩塌34人失联",
+      "summary": "重庆彭水县发生山体崩塌，已致34人失联。国家发改委紧急安排3000万元支持灾后应急恢复。救援工作因持续降雨受阻。此前附近曾发生过山体塌方，此次灾害暴露出地质灾害预警与防治的严峻挑战。",
+      "reason": "重大自然灾害，全国关注，涉及多部门救援响应。",
+      "impact_areas": [
+        "社会"
+      ],
+      "impact_level": "重大",
+      "sources": [
+        {
+          "name": "澎湃新闻",
+          "url": "https://m.thepaper.cn/detail/33611203"
         },
         {
-          "name": "BBC",
-          "url": "https://www.bbc.co.uk/news/articles/c151gdjwd10o"
+          "name": "凤凰网",
+          "url": "https://news.ifeng.com/c/8urAsLD0sup"
+        },
+        {
+          "name": "央视网",
+          "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9MX1RXQ2FMMlJUOXFuT0MzTzdITUhMV09jYUlJSXNNV3lwYU4wTERFRllqWV9rNXNNOTBXUzZWTlRNNGdma1J2UV9pc2JjVVdwekl0QmpKYlpZS1I3Q2QzSE9KUlJFR2syaV9SVzl3WWQ3LXpjajd1Zg"
         }
       ]
     },
     {
       "title": "苹果市值超越英伟达",
-      "summary": "苹果公司股价上涨，市值超越英伟达，重新成为全球最有价值公司。这一变化反映出投资者对AI投资风向的转变，从硬件芯片转向消费电子和生态系统。分析师认为，苹果在AI领域的布局和强大的用户基础是其估值回升的关键。",
-      "reason": "科技行业标志性事件，反映全球市值格局变化，影响资本市场和AI投资趋势。",
+      "summary": "苹果公司市值超越英伟达，重新成为全球市值最高的上市公司。市场认为AI投资风向转变，从硬件转向应用端，苹果在AI领域的布局和生态系统优势被重新评估。此举标志着科技股领导权更迭，对全球科技投资策略产生重大影响。",
+      "reason": "科技行业标志性事件，反映AI投资逻辑转变，影响全球资本市场。",
       "impact_areas": [
         "科技",
         "经济金融"
@@ -38,109 +60,69 @@
       "sources": [
         {
           "name": "Reuters",
-          "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOQ0dxV3BmWDRMVmZLTHI0bWpNR2hCVTVfdWloZGRCdnZxTUZNNnBQMGs1bm9oVGpiZVVtclBiNkIxQjF5NlFJY2JjalR4cTIyVEg1TVAycGZpakdXQUxZWEtZWEdMemFhVXFDX2RPX21HV05QMnpVU0REaFpOYjlUVVROV09RdFFURmdVS1FUeFRRcUtoZHdTd3ZKRjNjWVk?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOQ0dxV3BmWDRMVmZLTHI0bWpNR2hCVTVfdWloZGRCdnZxTUZNNnBQMGs1bm9oVGpiZVVtclBiNkIxQjF5NlFJY2JjalR4cTIyVEg1TVAycGZpakdXQUxZWEtZWEdMemFhVXFDX2RPX21HV05QMnpVU0REaFpOYjlUVVROV09RdFFURmdVS1FUeFRRcUtoZHdTd3ZKRjNjWVk"
         }
       ]
     },
     {
-      "title": "委内瑞拉强震致5069人遇难",
-      "summary": "委内瑞拉发生强烈地震，目前已确认5069人遇难，大量建筑倒塌，救援工作持续进行。该国政府已宣布进入紧急状态，国际社会表示哀悼并提供援助。此次地震是该国近年来最严重的自然灾害之一。",
-      "reason": "大规模人道主义灾难，遇难人数持续上升，引发国际关注。",
+      "title": "墨西哥近海7.3级地震",
+      "summary": "墨西哥南部海岸发生7.3级强烈地震，周边地区发布海啸预警。暂无重大伤亡报告，但震中附近基础设施受损。太平洋海啸预警中心评估海啸风险，多国处于戒备状态。",
+      "reason": "强震引发海啸威胁，波及多个国家，属重大自然灾害。",
       "impact_areas": [
         "社会",
-        "地缘"
-      ],
-      "impact_level": "重大",
-      "sources": [
-        {
-          "name": "凤凰网",
-          "url": "https://news.ifeng.com/c/8uqgyAPizp8"
-        }
-      ]
-    },
-    {
-      "title": "全球人工智能进入中国时间",
-      "summary": "世界人工智能大会（WAIC）在中国上海举行，与会中外嘉宾共话AI发展，强调中国在全球AI领域的引领作用。央视评论指出，全球AI发展重心正向中国转移，中国在应用场景、数据和政策支持方面具有独特优势。",
-      "reason": "科技领域重要会议，凸显中国AI领导地位，影响全球科技产业格局。",
-      "impact_areas": [
-        "科技"
-      ],
-      "impact_level": "重大",
-      "sources": [
-        {
-          "name": "央视网",
-          "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFAxd0F2SzQ2blNZemJCTXFEZDk1ZGpSWm5qdkFqT3p4Y0RINFJKRUU2VlFicUpZQTY4WmF5UlV3dy1QNy1abGFxUWVCbmVlWmppSC1LZTcycGMxM2pVZ2J2cHYzQnlsV2ZsOTNxb0V4ZGxzWnhyTktMQw?oc=5"
-        }
-      ]
-    },
-    {
-      "title": "欧盟提议减缓企业减排速度",
-      "summary": "欧盟委员会提出新议案，计划放缓对企业碳排放削减的要求，以减轻企业负担并提高竞争力。该提案引发环保组织批评，但受到部分工业界欢迎。此举可能影响全球气候政策节奏。",
-      "reason": "欧盟气候政策重大调整，直接影响全球减排进程和能源转型节奏。",
-      "impact_areas": [
-        "生态",
-        "经济金融"
+        "生态"
       ],
       "impact_level": "重大",
       "sources": [
         {
           "name": "BBC",
-          "url": "https://www.bbc.co.uk/news/articles/ckgv0zd497zo?at_medium=RSS&at_campaign=rss"
-        }
-      ]
-    },
-    {
-      "title": "特朗普威胁对加拿大加征新关税",
-      "summary": "美国总统特朗普指责加拿大野火产生的烟雾飘入美国城市，威胁将对加拿大商品加征新关税以弥补损失。此举可能加剧美加贸易紧张关系，影响北美供应链和能源贸易。",
-      "reason": "重大贸易政策威胁，涉及全球主要经济体，影响北美经济一体化。",
-      "impact_areas": [
-        "经济金融",
-        "地缘"
-      ],
-      "impact_level": "重大",
-      "sources": [
+          "url": "https://www.bbc.co.uk/news/articles/cwyjv3815yxo"
+        },
         {
-          "name": "BBC",
-          "url": "https://www.bbc.co.uk/news/articles/cwyq93j34lgo?at_medium=RSS&at_campaign=rss"
+          "name": "NYTimes",
+          "url": "https://www.nytimes.com/2026/07/17/world/americas/earthquake-tsunami-warning-mexico-guatemala.html"
         }
       ]
     },
     {
-      "title": "墨西哥海域发生7.3级地震",
-      "summary": "墨西哥沿岸海域发生7.3级强烈地震，美国海啸预警中心发布海啸威胁警报，危地马拉等周边国家也收到预警。目前暂无重大伤亡报告，但当局已启动应急响应。",
-      "reason": "重大自然灾害，可能引发海啸，威胁周边人口稠密地区。",
+      "title": "俄物流中心遭无人机袭击",
+      "summary": "俄罗斯一物流中心遭遇无人机袭击，造成7人死亡、24人受伤。该地点接近冲突前线，袭击凸显俄军后方防御薄弱。目前俄方已加强防空措施，并指责乌方实施恐怖袭击。",
+      "reason": "俄乌冲突升级新迹象，显示战场向后方延伸，影响战局走向。",
       "impact_areas": [
-        "社会",
         "地缘"
-      ],
-      "impact_level": "重大",
-      "sources": [
-        {
-          "name": "BBC",
-          "url": "https://www.bbc.co.uk/news/articles/cwyjv3815yxo?at_medium=RSS&at_campaign=rss"
-        }
-      ]
-    },
-    {
-      "title": "国航等拟购95架空客飞机",
-      "summary": "中国国航、深航、海航计划购买95架空客飞机，目录价格约178亿美元。此举将扩大中国航空公司运力，影响全球航空制造业格局，并可能加剧波音与空客的竞争。",
-      "reason": "巨额飞机采购订单，反映中国航空市场需求，影响全球航空产业链。",
-      "impact_areas": [
-        "经济金融",
-        "产业"
       ],
       "impact_level": "重大",
       "sources": [
         {
           "name": "澎湃新闻",
-          "url": "https://m.thepaper.cn/detail/33609540"
+          "url": "https://m.thepaper.cn/detail/33611721"
         }
       ]
     },
     {
-      "title": "中方反对英国国有化钢铁",
-      "summary": "中国政府对英国政府国有化英国钢铁公司表示强烈不满，认为此举违背市场原则，可能影响中国在英投资。英国钢铁公司曾是中国敬业集团的收购目标，国有化导致交易失败。",
-      "reason": "中英经贸摩擦升级，涉及重要工业资产，影响双边投资关系。",
+      "title": "捷克众议长将率团访华",
+      "summary": "捷克众议长冈村富夫宣布将于近期率团访华。此访旨在加强双边贸易与投资合作，尤其在汽车、机械等领域。在当前欧洲对华政策趋紧背景下，展现捷克务实外交姿态。",
+      "reason": "中欧关系重要信号，可能影响欧盟对华经贸政策走向。",
+      "impact_areas": [
+        "政治",
+        "经济金融"
+      ],
+      "impact_level": "重大",
+      "sources": [
+        {
+          "name": "澎湃新闻",
+          "url": "https://m.thepaper.cn/detail/33611593"
+        },
+        {
+          "name": "凤凰网",
+          "url": "https://news.ifeng.com/c/8ur9SSdWj4f"
+        }
+      ]
+    },
+    {
+      "title": "Trump关税威胁加拿大",
+      "summary": "美国总统特朗普指责加拿大山火产生的烟雾污染美国空气质量，威胁将对加拿大商品加征新关税。此举可能引发新一轮贸易摩擦，加拿大政府表示将进行报复。北美贸易关系面临紧张。",
+      "reason": "美加贸易关系急转直下，可能影响全球供应链及商品价格。",
       "impact_areas": [
         "经济金融",
         "政治"
@@ -149,27 +131,62 @@
       "sources": [
         {
           "name": "BBC",
-          "url": "https://www.bbc.co.uk/news/articles/cjd4kvxpd3do?at_medium=RSS&at_campaign=rss"
+          "url": "https://www.bbc.co.uk/news/articles/cwyq93j34lgo"
+        },
+        {
+          "name": "Reuters",
+          "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQdXUtel94MS1EWVNOZU1tWW12N1lUWjBTSVBmSTk3bnNGWUd5ellVbVBYZ09LdmozUjVxT0dWbUZkTXU1UEpucm5kblpRd1JQX1Q0NDhEbDZ0dFJUazhCcjlJemk2RHUtMU1PTkdpSHRyZmVJZ01ZTFNyZ1REQkpFc1JLcTUzM2VaaVJqSDdZblNuWjBJTV9tQnZnVG9NSTRHXzJFUHJB"
         }
       ]
     },
     {
-      "title": "伊朗打击美军在巴林无人艇",
-      "summary": "伊朗革命卫队宣布对美军在巴林海域的无人艇实施打击，作为对美军袭击的回应。这是美伊海上冲突的新态势，进一步威胁霍尔木兹海峡航运安全。",
-      "reason": "美伊冲突海上战线扩大，直接影响全球能源运输通道安全。",
+      "title": "商汤发布U1 Pro对标GPT-Image",
+      "summary": "在WAIC 2026上，商汤科技发布AI创作平台“U1 Pro”，宣称对标OpenAI GPT-Image 2，可交付成品级设计。该模型支持文生图、图生图等功能，并整合多种行业模板，加速AI在创意产业的落地。",
+      "reason": "中国AI大模型在图像生成领域取得重大突破，产品化能力提升。",
       "impact_areas": [
-        "地缘",
+        "科技"
+      ],
+      "impact_level": "重大",
+      "sources": [
+        {
+          "name": "雪球",
+          "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5BNkl6dHNGTFNYNjB0a1FPSkpkM3ZFWXJlOHp6RmxaVUxHSlVocXU4akZKUzc1T3lJa1ZzazBldHVUQkNDcEtKZjM2NVZMa2o0QWJUN0F1OHZtcjVreVRZWHZ3bVRaSHhFb0JHUk9aUFNfWXhhR0NJ"
+        }
+      ]
+    },
+    {
+      "title": "国家能源局：新型能源赋能AI",
+      "summary": "国家能源局表示将加快构建新型能源体系，推动能源与AI融合发展。通过智能电网、虚拟电厂等模式，为AI算力中心提供绿色低碳电力，同时利用AI优化能源调度。此举对实现“双碳”目标和AI产业发展具有双重意义。",
+      "reason": "能源与AI融合政策信号，影响未来算力成本和能源结构转型。",
+      "impact_areas": [
+        "科技",
         "经济金融"
       ],
       "impact_level": "重大",
       "sources": [
         {
-          "name": "凤凰网",
-          "url": "https://news.ifeng.com/c/8uqh5dNU81A"
+          "name": "36氪",
+          "url": "https://www.36kr.com/newsflashes/3900549667456901"
+        }
+      ]
+    },
+    {
+      "title": "霍尔木兹海峡通航量骤降",
+      "summary": "受美伊冲突升级影响，霍尔木兹海峡船舶通过量降至三周来最低点。全球约20%石油运输经过该海峡，通航受阻推高国际油价，并引发全球能源供应担忧。多国启动石油储备应急机制。",
+      "reason": "核心能源通道受威胁，直接冲击油价和全球通胀预期。",
+      "impact_areas": [
+        "经济金融",
+        "地缘"
+      ],
+      "impact_level": "重大",
+      "sources": [
+        {
+          "name": "36氪",
+          "url": "https://www.36kr.com/newsflashes/3900457912993411"
         }
       ]
     }
   ],
-  "total_fetched": 201,
-  "generated_at": "2026-07-18T07:26:13.136796+08:00"
+  "total_fetched": 283,
+  "generated_at": "2026-07-18T12:26:49.223497+08:00"
 }
