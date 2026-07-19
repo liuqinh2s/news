@@ -3,195 +3,202 @@
   "news": [
     {
       "title": "美伊冲突持续升级",
-      "summary": "伊朗军方宣称将对美国“野蛮行径”进行“毁灭性回击”，美军紧急向中东增派F-16和F-35战机。霍尔木兹海峡战略要地格什姆岛多个地点遭导弹袭击，此前美军在约旦遇袭已致2死1失踪。美国国务院建议全球美公民提高警惕，中东局势急剧恶化。冲突已导致伊朗万人断水，科威特采取预防措施。市场避险情绪升温，国际油价大涨。",
-      "reason": "多平台热议，影响全球地缘政治与能源市场，持续发酵。",
+      "summary": "美军在约旦遇袭致2死后，对伊朗发动新一轮空袭，伊朗击落美MQ9死神无人机。美中央司令部称空袭针对伊朗军事设施，伊朗最高领袖哈梅内伊首次将美国称为'大撒旦'。双方在霍尔木兹海峡对峙加剧，国际社会担忧冲突扩大。",
+      "reason": "美伊直接军事对抗升级，多国关注，影响全球地缘格局",
       "impact_areas": [
         "地缘",
-        "经济金融"
+        "政治"
       ],
       "impact_level": "现象级",
       "sources": [
         {
-          "name": "凤凰网",
-          "url": "https://news.ifeng.com/c/8usnEhy0GKU"
+          "name": "央视网",
+          "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1zanZGNGRkRy1oWWRVZVRNQjEwaFhLVkZXaTJGcXJ5NXRla2dIckI3Mk11MktydmxHSmNMbTZmR2lKVURrOWpmR1M4SDNZN2JYWXdPWlNGSU5ocXB2b0o3Mm1HNGxBMDFUTXNhWDhXR2U2M2VBY3BpaA?oc=5"
+        },
+        {
+          "name": "BBC",
+          "url": "https://www.bbc.co.uk/news/articles/cgk417jp83po?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "name": "NYTimes",
+          "url": "https://www.nytimes.com/live/2026/07/18/world/iran-war-strikes-trump-hormuz"
         },
         {
           "name": "凤凰网",
-          "url": "https://news.ifeng.com/c/8usluPAUxH2"
-        },
-        {
-          "name": "凤凰网",
-          "url": "https://news.ifeng.com/c/8usjU705glc"
-        },
-        {
-          "name": "澎湃新闻",
-          "url": "https://m.thepaper.cn/detail/33615532"
+          "url": "https://news.ifeng.com/c/8ut7vaodSWE"
         }
       ]
     },
     {
-      "title": "世界人工智能大会成果密集发布",
-      "summary": "2026世界人工智能大会（WAIC）在上海继续举行，多项重磅成果发布：《2026中国AI盛典》公布十大年度AI人物；上海交大展示从罕见病诊断到主动式智能体的多项成果；蚂蚁数科发布“智能体超级工厂”，预置近200个岗位级数字专家；百度首发数字人视频播客，突破微表情技术。大会还发布了上海医疗AI算力调度中心等基础设施。",
-      "reason": "AI领域年度盛会，多企业发布前沿成果，影响科技产业走向。",
+      "title": "俄大规模导弹袭击基辅",
+      "summary": "俄罗斯向基辅发射约40枚弹道导弹，造成多人伤亡，这是冲突以来最大规模袭击之一。乌克兰总统泽连斯基呼吁西方提供更多防空系统。俄方此举或为报复乌军近期反攻。",
+      "reason": "俄乌战争重大升级，基辅遭罕见大规模导弹攻击",
       "impact_areas": [
-        "科技"
+        "地缘",
+        "政治"
       ],
       "impact_level": "现象级",
       "sources": [
         {
-          "name": "澎湃新闻",
-          "url": "https://m.thepaper.cn/detail/33615533"
+          "name": "BBC",
+          "url": "https://www.bbc.co.uk/news/articles/c2el7xpnzrpo?at_medium=RSS&at_campaign=rss"
         },
         {
-          "name": "澎湃新闻",
-          "url": "https://m.thepaper.cn/detail/33615538"
-        },
-        {
-          "name": "36氪",
-          "url": "https://www.36kr.com/newsflashes/3901996167513985"
-        },
-        {
-          "name": "36氪",
-          "url": "https://www.36kr.com/newsflashes/3901954083030918"
-        }
-      ]
-    },
-    {
-      "title": "国家开发银行原行长欧阳卫民被查",
-      "summary": "据中央纪委国家监委网站消息，国家开发银行原党委副书记、行长欧阳卫民涉嫌严重违纪违法，目前正接受纪律审查和监察调查。欧阳卫民曾在金融系统任职多年，此次被查是金融反腐持续深化的又一重要信号。国家开发银行作为政策性银行，其高层落马引发市场对金融监管和内部治理的关注。",
-      "reason": "金融反腐重大进展，涉及国家级政策性银行高管，影响广泛。",
-      "impact_areas": [
-        "政治",
-        "经济金融"
-      ],
-      "impact_level": "重大",
-      "sources": [
-        {
-          "name": "澎湃新闻",
-          "url": "https://m.thepaper.cn/detail/33615541"
+          "name": "NYTimes",
+          "url": "https://www.nytimes.com/2026/07/19/world/europe/russia-ukraine-strikes.html"
         },
         {
           "name": "凤凰网",
-          "url": "https://news.ifeng.com/c/8usoUjysomX"
+          "url": "https://news.ifeng.com/c/8utHnLnhGdR"
         }
       ]
     },
     {
-      "title": "重庆彭水山体崩塌专家解读",
-      "summary": "重庆彭水县发生山体崩塌，专家分析认为此次灾害隐蔽性强、突发性强，与近期强降雨有关。警方查处了“山体崩塌系烟花仓库爆炸引起”的网络谣言。目前救援工作仍在进行，现场已完成初步清理。事件引发公众对地质灾害防治和应急响应的关注。",
-      "reason": "重大自然灾害，全国关注，影响公共安全与应急管理。",
+      "title": "匈牙利总统辞职",
+      "summary": "匈牙利总统签署《基本法》修正案后任期终止，国会30天内选举新总统。此前议会投票支持罢免总统，总统本人同意下台。此举或与国内政治危机有关，影响欧盟-匈牙利关系。",
+      "reason": "欧洲一国元首突变，影响欧盟政治格局",
       "impact_areas": [
-        "社会"
-      ],
-      "impact_level": "重大",
-      "sources": [
-        {
-          "name": "澎湃新闻",
-          "url": "https://m.thepaper.cn/detail/33615547"
-        },
-        {
-          "name": "凤凰网",
-          "url": "https://news.ifeng.com/c/8usjYWVAiBF"
-        }
-      ]
-    },
-    {
-      "title": "敬业钢铁正告英国政府",
-      "summary": "敬业钢铁有限公司发布声明，正告英国政府立即停止以国内法践踏国际投资规则的行径。此前英国政府以国家安全为由干预敬业钢铁在英投资，引发中方企业强烈不满。该事件反映中资企业海外投资面临的法律风险上升，也可能影响中英经贸关系。",
-      "reason": "中企与外国政府直接对抗，涉及国际投资法，具有外溢效应。",
-      "impact_areas": [
-        "政治",
-        "经济金融"
-      ],
-      "impact_level": "重大",
-      "sources": [
-        {
-          "name": "澎湃新闻",
-          "url": "https://m.thepaper.cn/detail/33615734"
-        }
-      ]
-    },
-    {
-      "title": "特朗普狂揽14亿美元加密货币收入",
-      "summary": "据财新报道，美国前总统特朗普利用其政治影响力，通过发行加密货币及NFT等方式，已攫取约14亿美元收入。此举引发对政治人物利用身份变现的讨论，也凸显加密货币市场与政治挂钩的风险。该事件加剧了美国内关于加密货币监管的争论。",
-      "reason": "政治人物巨额加密收入，暴露监管漏洞，影响金融与政治格局。",
-      "impact_areas": [
-        "经济金融",
         "政治"
       ],
       "impact_level": "重大",
       "sources": [
         {
-          "name": "财新网",
-          "url": "https://database.caixin.com/2026-07-19/102465881.html"
-        }
-      ]
-    },
-    {
-      "title": "中石化接手中航油推进央企整合",
-      "summary": "中石化正式接手中国航空油料集团，这是央企纵向整合的重要案例。此次整合将打通上下游产业链，提升能源安全保障能力，同时优化资源配置。分析认为，此举可能引发能源央企新一轮重组浪潮，对石化行业格局产生深远影响。",
-      "reason": "央企重大重组，影响能源行业格局和国企改革方向。",
-      "impact_areas": [
-        "经济金融",
-        "产业"
-      ],
-      "impact_level": "重大",
-      "sources": [
+          "name": "澎湃新闻",
+          "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBmT2JiMDVKMkRUSTc1MGt0MjR0cVlmUlhmVEN4dE9qdUxsRG5JR09UaTBuTHcyTXBNMUIwT0lQRFNYcjJNOG85NEcwdTVHTzJQVWh0M25ILW5sQVNZSVE?oc=5"
+        },
         {
-          "name": "财新网",
-          "url": "https://database.caixin.com/2026-07-19/102465872.html"
+          "name": "BBC",
+          "url": "https://www.bbc.co.uk/news/articles/cpd7q7eev7po?at_medium=RSS&at_campaign=rss"
         }
       ]
     },
     {
-      "title": "纽约原油突破82美元创阶段新高",
-      "summary": "受美伊冲突升级及供应担忧影响，纽约原油暗盘价格突破82美元/桶，日内涨幅超2.4%。地缘政治风险溢价显著上升，市场担忧霍尔木兹海峡航运受阻将导致全球石油供应紧张。油价上涨可能加剧通胀压力，影响各国货币政策走向。",
-      "reason": "关键大宗商品价格异动，直接反映地缘风险，影响全球经济。",
+      "title": "世界杯决赛西阿大战",
+      "summary": "今晚世界杯决赛将在西班牙与阿根廷之间展开，全球瞩目。阿根廷民众情绪沸腾，美国也因主办世界杯而掀起足球热潮。双方球星如梅西（阿根廷）和亚马尔（西班牙）将决定冠军归属。",
+      "reason": "全球性体育盛事决赛，破圈引发广泛社会关注",
       "impact_areas": [
-        "经济金融",
-        "地缘"
-      ],
-      "impact_level": "重大",
-      "sources": [
-        {
-          "name": "雪球",
-          "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5lWklWcTVlZ2FHMmd0SFZjTVMxWmJmMGo1Q25KcjdEdDNxb0xRN2lzZ2xmbTRBTDdFTW13TklWbkNsOHBIcDhFQ2p2VC1WTHg0OGZGSzRSd0p6MzlxSmxONlZsVDBpRkhkYU5RYV9hc2FKd3prd1Vjeg?oc=5"
-        }
-      ]
-    },
-    {
-      "title": "美国反数据中心运动蔓延",
-      "summary": "美国多地爆发反对数据中心建设的社会运动，抗议者担忧数据中心耗电、占地及环境影响。该运动已蔓延至全国数十个社区，导致多个大型AI基建项目受阻。此举可能延缓美国AI算力扩张，影响科技巨头投资计划，并引发对AI基础设施与社会效益平衡的讨论。",
-      "reason": "AI基建遭遇社会阻力，可能影响全球科技竞争和投资方向。",
-      "impact_areas": [
-        "科技",
         "社会"
       ],
       "impact_level": "重大",
       "sources": [
         {
-          "name": "雪球",
-          "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE00TTBIQVpGazZfQkFNZ2hPVmtiTUFkcE1meUF6cnFadEVjMFRtWTN2SHJRM1VoTWNnMEl3VnE4UThzcllPRlRlbENuenljRldsaTY0cThvVmU3VDc5aDRVTmhfaVZwQ1ExYmxMS0x5OGN5RFU4bEtqSw?oc=5"
+          "name": "财新网",
+          "url": "https://mini.caixin.com/2026-07-19/102465878.html"
+        },
+        {
+          "name": "NYTimes",
+          "url": "https://www.nytimes.com/2026/07/19/world/americas/argentines-already-losing-their-minds-brace-for-world-cup-final.html"
+        },
+        {
+          "name": "BBC",
+          "url": "https://www.bbc.co.uk/news/articles/cwyr498vqqpo?at_medium=RSS&at_campaign=rss"
         }
       ]
     },
     {
-      "title": "上海‘星枢计划’首发星座发布",
-      "summary": "上海市“星枢计划”首发星座成功发布，标志着上海在商业航天和卫星互联网领域取得重要突破。该星座将提供低轨卫星通信、遥感等服务，助力智慧城市和数字化治理。这是中国商业航天加速发展的缩影，彰显地方政府在航天产业中的布局力度。",
-      "reason": "航天领域重大进展，体现中国商业航天实力和科技创新。",
+      "title": "上半年GDP增长4.7%",
+      "summary": "中国上半年GDP同比增长4.7%，但社零仅增1.3%，显示经济复苏不均。投资和消费均需政策支持。数据发布后，市场关注后续稳增长措施，尤其是消费刺激和基建投资。",
+      "reason": "核心经济数据反映经济温差，影响政策预期和市场走势",
+      "impact_areas": [
+        "经济金融"
+      ],
+      "impact_level": "重大",
+      "sources": [
+        {
+          "name": "财新网",
+          "url": "https://database.caixin.com/2026-07-19/102465922.html"
+        }
+      ]
+    },
+    {
+      "title": "国开行原行长欧阳卫民被查",
+      "summary": "国家开发银行原行长欧阳卫民在退休三年后因涉嫌严重违纪违法被调查。这是金融反腐的最新案例，反映对政策性银行监管的持续加强。此前国开行已有数名高管落马。",
+      "reason": "高层金融反腐重要信号，影响金融行业生态",
+      "impact_areas": [
+        "政治",
+        "经济金融"
+      ],
+      "impact_level": "重大",
+      "sources": [
+        {
+          "name": "财新网",
+          "url": "https://finance.caixin.com/2026-07-19/102465907.html"
+        }
+      ]
+    },
+    {
+      "title": "上海启动低空eVTOL建设",
+      "summary": "上海宣布启动低空eVTOL（电动垂直起降飞行器）装备集群建设，打造八大典型应用场景，包括城市空中交通、物流配送等。此举将推动低空经济产业发展，吸引相关产业链集聚。",
+      "reason": "低空经济政策落地，新兴产业重大进展",
       "impact_areas": [
         "科技",
+        "经济金融",
         "产业"
       ],
       "impact_level": "重大",
       "sources": [
         {
-          "name": "36氪",
-          "url": "https://www.36kr.com/newsflashes/3901993231550085"
+          "name": "澎湃新闻",
+          "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5LTVNDTEotWXoyTUIwcE1LR1lLS19IcGdzSmV3S1haVmlPYXZkVDNjRGJUanRHZWU4R29NbUVvZm1jam5rWFZOSm9BQmRTZGNfRTBIeXM1TENRcTU3dWV4Ug?oc=5"
+        }
+      ]
+    },
+    {
+      "title": "加拿大山火威胁特朗普加税",
+      "summary": "加拿大安大略省山火持续燃烧，浓烟飘入美国城市。特朗普威胁对加拿大加征关税，称其山火管理不力导致'肮脏空气'进入美国。加拿大方面回应称将加强灭火合作。",
+      "reason": "跨境环境灾难引发贸易争端，影响美加关系",
+      "impact_areas": [
+        "地缘",
+        "生态",
+        "经济金融"
+      ],
+      "impact_level": "重大",
+      "sources": [
+        {
+          "name": "BBC",
+          "url": "https://www.bbc.co.uk/news/articles/cwyq93j34lgo?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "name": "NYTimes",
+          "url": "https://www.nytimes.com/2026/07/18/world/canada/ontario-wildfires-smoke-thunder-bay-canada.html"
+        }
+      ]
+    },
+    {
+      "title": "神二十三乘组在轨实验更新",
+      "summary": "神舟二十三号航天员乘组发布最新在轨实（试）验清单，包括空间材料科学、生物技术等多项实验进展。天宫空间站持续产出科研成果，展现中国航天长期驻留能力。",
+      "reason": "中国载人航天重要进展，科技突破象征",
+      "impact_areas": [
+        "科技"
+      ],
+      "impact_level": "重大",
+      "sources": [
+        {
+          "name": "央视网",
+          "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE52ZnpsYTJaTEkzQjY5V0tFaGtmS1FlVEhNR3pVb0FsZFl6LUpEbkpuUFVVV2xOMVVnS2hwMFNhTk15WkRXaFdfUWw4NnU0ZWkxZU81ZzdRT01WN2tOc0U1dnB2aFAzdFhUZVkxNjh6V3cybm5sb09yUg?oc=5"
+        }
+      ]
+    },
+    {
+      "title": "重庆彭水山体崩塌",
+      "summary": "重庆彭水县发生大型山体崩塌，体积约1.8万立方米。当地救援摩托大军排起长龙，此前有预警者成功疏散60余人，避免更大伤亡。目前无人员死亡报告，但交通和基础设施受损。",
+      "reason": "重大地质灾害成功预警，体现防灾减灾成效",
+      "impact_areas": [
+        "社会"
+      ],
+      "impact_level": "重大",
+      "sources": [
+        {
+          "name": "凤凰网",
+          "url": "https://news.ifeng.com/c/8utKFElvmLz"
+        },
+        {
+          "name": "凤凰网",
+          "url": "https://news.ifeng.com/c/8utDUiGmziW"
         }
       ]
     }
   ],
-  "total_fetched": 225,
-  "generated_at": "2026-07-19T12:26:23.062654+08:00"
+  "total_fetched": 233,
+  "generated_at": "2026-07-19T19:26:10.658798+08:00"
 }
