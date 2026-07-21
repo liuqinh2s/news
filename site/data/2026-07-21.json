@@ -2,12 +2,12 @@
   "date": "2026-07-21",
   "news": [
     {
-      "title": "美军完成对伊新一轮打击",
-      "summary": "美国军方宣布已完成对伊朗的最新一轮打击，这是连续第10晚的袭击。此前，一名美军士兵在伊朗袭击中丧生，特朗普警告将进行报复。行动针对伊朗的军事设施和导弹基地，旨在削弱其反击能力。伊朗方面则声称已对美国在至少四个国家的军事目标发动打击，冲突有进一步升级风险。国际社会呼吁克制，但双方未见缓和迹象。",
-      "reason": "美伊冲突持续升级，多平台破圈报道，影响全球地缘政治和能源安全。",
+      "title": "美伊冲突升级胡塞封锁沙特",
+      "summary": "美国连续第10夜对伊朗发动军事打击，已完成最新一轮空袭。也门胡塞武装宣布对沙特实施海上封锁，切断曼德海峡航运。沙特回应称将确保海峡安全，联合国呼吁各方克制。伊朗革命卫队声称摧毁亚马逊云巴林数据中心，引发中东网络与能源双重危机。冲突已导致多艘商船遇袭，油价短期可能剧烈波动。",
+      "reason": "美伊冲突持续升级，胡塞封锁红海要道，全球能源与地缘格局面临重大冲击，多源密集报道。",
       "impact_areas": [
-        "地缘",
-        "政治"
+        "地缘政治",
+        "经济金融"
       ],
       "impact_level": "现象级",
       "sources": [
@@ -16,24 +16,88 @@
           "url": "https://www.bbc.co.uk/news/articles/cx25wg2x26do?at_medium=RSS&at_campaign=rss"
         },
         {
-          "name": "Reuters",
-          "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPWjlJZGJYNm5OYjczNWZJZkMxZGFGRFRJSHVGZjFaMS1KTkNfUTgzV2Y3Qk5VU0RDR0ZXOXBBUldobElBb0hRV2Y5MmlkR0pVNkNlN3RESGlzUlY2bnFBUFNJN3JaVmpyR3RzVkt0QTRVcklEQm05cmNIaUIyQkVJeWtzbi1sSk9XeFZpaURvUU1rM2hJLTMxcGJZa0RzdDFUcV8zdkNuQndVay0yYUc1Q3piMThnS2M2Wm1GMGNVREcxejFLNWxEcw?oc=5"
+          "name": "NYTimes",
+          "url": "https://www.nytimes.com/2026/07/21/world/middleeast/houthis-yemen-iran-war.html"
         },
         {
-          "name": "央视网",
-          "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9SRDY4RmhfcG4tdHJYSUpiZ1lBYTFlMkp4dGtIV01SeWl5ejZMaG9veVRYU2hkUzIxVGpqcEVwbHhTbjVlZmhoZ0VGLVVGMXpQdlNIWENDS1JjZVF4TUFkeXE2N2xSNnJNaEZ4OHdpNldJTlFYWEtoNQ?oc=5"
+          "name": "凤凰网",
+          "url": "https://news.ifeng.com/c/8uwdksxZzVX"
+        },
+        {
+          "name": "财新网",
+          "url": "https://www.caixin.com/2026-07-21/102466691.html"
         }
       ]
     },
     {
-      "title": "特朗普对加商品加征50%关税",
-      "summary": "特朗普宣布对价值200亿美元的加拿大商品加征50%关税，为史上首次动用338条款。此前，特朗普已签署公告调整铝关税。加拿大总理卡尼表示将加强贸易谈判，并称“加拿大人不是出气筒”。此举是特朗普单边贸易保护主义的又一次升级，可能引发全球贸易格局震荡。北美自贸协定面临严重挑战，加拿大或采取报复措施。",
-      "reason": "美国对加拿大加征50%关税，贸易战大幅升级，影响全球经济。",
+      "title": "委内瑞拉强震死亡超5000",
+      "summary": "委内瑞拉发生强烈地震，遇难人数已升至5278人，大量建筑倒塌，搜救工作仍在进行。这是该国数十年来最严重的地震灾害，国际社会已启动救援。地震还引发部分地区山体滑坡和基础设施损毁，对经济和社会造成巨大冲击。",
+      "reason": "重大人道主义灾难，死亡人数超五千，全球关注，多源报道。",
+      "impact_areas": [
+        "社会",
+        "公共卫生"
+      ],
+      "impact_level": "重大",
+      "sources": [
+        {
+          "name": "央视网",
+          "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE4wR3dyWUcwWktPZFoxVDk0NVdTeXJiZDNtdVV4a19HNXhKeFhfUmNNUTMycVdSTkRNWmJzenh1V2s1OG1BZ3dmQ0YwVG9COXRPU05jSS1uazFZOGtyTnB5QndXQmlLdUVidVR6cHlLTXRWMmg3Mksweg?oc=5"
+        },
+        {
+          "name": "NYTimes",
+          "url": "https://www.nytimes.com/2026/07/21/world/americas/venezuela-quake-victims-search.html"
+        }
+      ]
+    },
+    {
+      "title": "英国新首相伯纳姆上台",
+      "summary": "工党领袖安迪·伯纳姆正式就任英国首相，承诺推行权力下放政策，重点解决生活成本危机。上任首日即宣布削减电力增值税，以缓解能源价格高企对民众的负担。新政府面临高通胀、低增长和公共服务压力等挑战，其政策走向将深刻影响英国经济与社会。",
+      "reason": "英国政权更迭，新首相政策方向明确，对英国及欧洲政治经济产生重大影响。",
+      "impact_areas": [
+        "政治",
+        "经济金融"
+      ],
+      "impact_level": "重大",
+      "sources": [
+        {
+          "name": "财新网",
+          "url": "https://international.caixin.com/2026-07-21/102466619.html"
+        },
+        {
+          "name": "NYTimes",
+          "url": "https://www.nytimes.com/2026/07/21/world/europe/andy-burnham-new-uk-prime-minister-policies.html"
+        },
+        {
+          "name": "BBC",
+          "url": "https://www.bbc.co.uk/news/articles/cg4dzq3x3e1o?at_medium=RSS&at_campaign=rss"
+        }
+      ]
+    },
+    {
+      "title": "Anthropic以15亿美元和解AI版权案",
+      "summary": "人工智能公司Anthropic同意支付15亿美元，就一起作家集体诉讼达成和解，创下美国版权侵权赔偿金额最高纪录。该诉讼指控Anthropic未经授权使用受版权保护的作品训练AI模型。和解标志着AI版权法律边界的重要里程碑，可能促使行业建立更明确的训练数据使用规范，对OpenAI、谷歌等公司有示范效应。",
+      "reason": "AI版权领域最高赔偿和解，或重塑行业数据使用规则，对全球AI发展有深远影响。",
+      "impact_areas": [
+        "科技",
+        "法律"
+      ],
+      "impact_level": "现象级",
+      "sources": [
+        {
+          "name": "财新网",
+          "url": "https://www.caixin.com/2026-07-21/102466655.html"
+        }
+      ]
+    },
+    {
+      "title": "特朗普对加拿大加征50%关税",
+      "summary": "美国总统特朗普签署公告，对价值约200亿美元的加拿大商品加征50%关税，并调整铝关税。加拿大总理卡尼表示将加强贸易谈判回应。此举大幅升级美加贸易摩擦，对北美供应链和汽车、铝业等造成冲击，市场担忧全球贸易局势进一步紧张。",
+      "reason": "特朗普大幅加征对加关税，北美贸易战升级，影响全球经济和市场预期。",
       "impact_areas": [
         "经济金融",
         "政治"
       ],
-      "impact_level": "现象级",
+      "impact_level": "重大",
       "sources": [
         {
           "name": "BBC",
@@ -42,162 +106,96 @@
         {
           "name": "Reuters",
           "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNVWJmZE81SUhjQV9Kc0hseUFwMGlDNml3alZscUFqSjljaUh5LTZRSEFjQXo4Y3JHSTdyNkVqLXFjOGZTQWoxUGY1LVRqQVFtSGx3aWhGWmhxR25LNDU5Nm5SQWFELWRER1dfeXNsdWV5Z05RMWRtTEF2em15T25JYm51SHdCRXNWNDd6YUdhY3dTdw?oc=5"
-        },
-        {
-          "name": "财新网",
-          "url": "https://international.caixin.com/2026-07-21/102466412.html"
         }
       ]
     },
     {
-      "title": "胡塞武装宣布对沙特海上禁运",
-      "summary": "也门胡塞武装宣布对沙特阿拉伯实施海上禁运，封锁红海航线。此前胡塞武装已多次袭击商船，此举直接威胁全球能源运输要道。沙特及美国强烈谴责，美军加强在该海域的巡逻。红海航线承载全球约12%的海运贸易，禁运可能导致油价飙升和供应链中断。国际航运保险费用预计大幅上涨。",
-      "reason": "胡塞武装封锁红海，全球能源运输面临双重风险，影响重大。",
+      "title": "印度大规模抗议教育不公",
+      "summary": "印度多所医学院入学试题泄露事件引发全国性抗议，示威者被警方阻拦前往议会。总理莫迪呼吁完善考试系统，称将建立防泄题机制。此次抗议已演变为青年政治运动，要求教育体系根本改革。事件暴露印度教育体制的深层问题，可能影响明年大选。",
+      "reason": "印度大规模抗议持续发酵，涉及教育公平与青年权益，可能引发政治变革。",
       "impact_areas": [
-        "地缘",
-        "经济金融"
+        "政治",
+        "社会"
       ],
       "impact_level": "重大",
       "sources": [
         {
           "name": "BBC",
-          "url": "https://www.bbc.co.uk/news/articles/cm2gmddx1ldo?at_medium=RSS&at_campaign=rss"
+          "url": "https://www.bbc.co.uk/news/articles/cvg9w9dxd7lo?at_medium=RSS&at_campaign=rss"
         },
         {
           "name": "Reuters",
-          "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQcUowRTU0M2hEUzRtdXAxY1FENjh0OWdXcEJlb2h4VlpBOVdGM2YzZ1BQSVhLMFQwOXhRN01aQ1poMVd5TTNRUHBZbV9jNWZRaGFaejU2ckpkNW5HUlZSdlJXWU5GNTlFU0NFUU9DYkJ1LXVFNHZBanlSemdrb3M1Vm80azBhNlRmTGRWbjQ2dEtkQVNfbTVNMUVReDIwYXB6aDNjN0pReHQ5S1BBUFl1NUc4Z1VyVHB4MWNnQ09JZw?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQbFp4WTA4Y1dOQ1dpekQyNmtWaEZhLXh0RTA0OGxnbUdtbm1UcEdKOWJJU0h3UmdQekMtU0FhcWRjUkV1YlpkNzFLWVF3ZE4yeG5uWUxBTjlJSW11WFpPMzVkd3dSY3h6TUZVWXozXzJyTEtzX0pxVncwbTdTQzRLWkQ0bUdGWURjV1AyU2JfM0poT3U3WlFCQVU4MHVXR1VPZk44MWlJaFQxUkxYSDNBcGxvZ3d6WDZzdHc?oc=5"
         },
         {
-          "name": "NYTimes",
-          "url": "https://www.nytimes.com/2026/07/20/world/middleeast/yemen-houthis-saudi-arabia-red-sea-blockade.html"
+          "name": "财新网",
+          "url": "https://international.caixin.com/2026-07-21/102466695.html"
         }
       ]
     },
     {
-      "title": "委内瑞拉强震遇难5278人",
-      "summary": "委内瑞拉发生强烈地震，官方确认遇难人数升至5278人，大量建筑倒塌，救援工作仍在进行。国际社会已提供援助，但灾区基础设施严重受损，医疗和物资短缺。地震还引发了数次余震，加剧了灾民恐慌。这是拉丁美洲近年来最严重的地震灾难之一，对委内瑞拉本已脆弱的经济构成毁灭性打击。",
-      "reason": "重大自然灾害，遇难人数持续攀升，引发国际关注。",
+      "title": "伊朗摧毁亚马逊云巴林数据中心",
+      "summary": "伊朗革命卫队声称对巴林境内的亚马逊云服务数据中心发动攻击并予以摧毁。此举是伊朗对近期美国打击的报复行动之一，首次将军事对抗延伸至云计算基础设施。数据中心毁坏可能导致中东地区大量企业服务中断，并引发对数字基础设施安全性的全球担忧。亚马逊尚未证实完全损毁，但已启动应急响应。",
+      "reason": "首次针对云基础设施的军事打击，数字地缘冲突升级，影响科技与网络安全。",
       "impact_areas": [
-        "社会",
+        "科技",
+        "地缘政治"
+      ],
+      "impact_level": "现象级",
+      "sources": [
+        {
+          "name": "财新网",
+          "url": "https://www.caixin.com/2026-07-21/102466691.html"
+        }
+      ]
+    },
+    {
+      "title": "韩国通过特检法调查尹锡悦夫妇",
+      "summary": "韩国国会通过新特检法修正案，将进一步调查总统尹锡悦及其夫人涉嫌贪腐案件。这是对尹锡悦执政的又一次重大打击，在野党推动调查持续升级。特检组将获得更广泛权限，可能对韩国政治局势产生深远影响，包括尹锡悦的执政前景和政党格局。",
+      "reason": "韩国总统面临持续调查，政治不确定性上升，影响东北亚局势。",
+      "impact_areas": [
         "政治"
       ],
       "impact_level": "重大",
       "sources": [
         {
           "name": "央视网",
-          "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE4wR3dyWUcwWktPZFoxVDk0NVdTeXJiZDNtdVV4a19HNXhKeFhfUmNNUTMycVdSTkRNWmJzenh1V2s1OG1BZ3dmQ0YwVG9COXRPU05jSS1uazFZOGtyTnB5QndXQmlLdUVidVR6cHlLTXRWMmg3Mksweg?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBOUGNnZWRCSXVHYUQyT2NyRjF0eHVYTklpNzVuUV9zdDRDQzdiYkVPVE83Y2tRTHhoWUp4RFRvQzJZVUw0elA2UmJqY3dwdWhpbS1CRzhsUmMwS3hvVGFPYlNjc21VaG5HcWZRSFJDS2hLMkJUS1A2RQ?oc=5"
         }
       ]
     },
     {
-      "title": "加拿大安大略省野火蔓延",
-      "summary": "加拿大安大略省野火面积持续扩大，浓烟飘至美国多个地区，空气质量警报生效。数千居民被迫撤离，消防资源紧张。气候变化加剧了火灾风险，此次野火已成为该省历史上最严重的一次。美国部分地区也受到烟雾影响，引发跨境环境健康问题。",
-      "reason": "大规模野火持续，跨国影响，环境与民生双重冲击。",
-      "impact_areas": [
-        "生态",
-        "社会"
-      ],
-      "impact_level": "重大",
-      "sources": [
-        {
-          "name": "Reuters",
-          "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNUEdiVTZiVm9PMW91U0NzOXpSSERZOTNfU0E5eVF1cHhjUmpXVDRFMlRjbkc2S1BQQlpwUDdWb25fWnRHa284R0RzWGhDMkNlNkFsR1FNblBDMHRnU2NObk5lcG5KcnQ0U0V3bmNTSEVHaTluSkxBX1ZxdnlYbEJmTnRLeVNNZFVFVHVCdHN2YWV4ckxjcUd5U2wzWEFIZnZVZHhHbHNLdw?oc=5"
-        },
-        {
-          "name": "NYTimes",
-          "url": "https://www.nytimes.com/2026/07/20/world/canada/ontario-wildfire-evacuations-thunder-bay.html"
-        }
-      ]
-    },
-    {
-      "title": "多家央企及金融机构宣布增持回购",
-      "summary": "在A股市场波动背景下，多家中央企业和金融机构同日发布增持及回购计划，涉及资金规模可观。此举被视为稳定市场信心的信号，通常发生在市场低位或剧烈波动时。增持回购行为有助于提振股价，向投资者传递积极预期，同时也反映了相关公司对自身价值的认可。",
-      "reason": "国家队入场信号，对资本市场有实质性影响。",
+      "title": "多家央企宣布增持回购",
+      "summary": "多家中央企业今天集中宣布增持或回购计划，涉及金额数十亿元，向市场传递积极信号。业内人士认为，此举有助于稳定投资者信心，改善资本市场预期，同时体现央企对自身价值的认可。在当前市场波动背景下，国家队入市信号明确，可能对A股产生托底作用。",
+      "reason": "央企集体回购增持，释放政策底信号，对资本市场稳定有重要意义。",
       "impact_areas": [
         "经济金融"
       ],
       "impact_level": "重大",
       "sources": [
         {
-          "name": "财新网",
-          "url": "https://mini.caixin.com/2026-07-21/102466428.html"
+          "name": "澎湃新闻",
+          "url": "https://m.thepaper.cn/detail/33629462"
         }
       ]
     },
     {
-      "title": "A股芯片股大涨科创50涨超6%",
-      "summary": "今日A股市场剧烈分化，前期高位科技股雪崩，但半导体芯片板块强势反弹，科创50指数涨超6%，通信ETF成交额47亿元。市场资金从高位股切换至芯片等科技板块，显示投资者对国产替代和AI硬件的信心。半日成交额突破1万亿元，市场活跃度极高。",
-      "reason": "A股半导体板块异动，市场情绪逆转，影响投资方向。",
-      "impact_areas": [
-        "经济金融",
-        "科技"
-      ],
-      "impact_level": "重大",
-      "sources": [
-        {
-          "name": "36氪",
-          "url": "https://www.36kr.com/newsflashes/3904819027036041"
-        },
-        {
-          "name": "36氪",
-          "url": "https://www.36kr.com/newsflashes/3904845180831368"
-        }
-      ]
-    },
-    {
-      "title": "香港首个合规稳定币7月落地",
-      "summary": "香港首个合规稳定币预计7月正式落地，分销商月内接入测试。这是香港在数字资产合规化方面的重要进展，有望推动加密金融与传统金融体系的融合。稳定币将挂钩法定货币，提供低波动的数字交易媒介，有助于香港巩固国际金融中心地位，并吸引更多Web3企业落户。",
-      "reason": "数字金融里程碑，香港金融创新重要一步。",
-      "impact_areas": [
-        "经济金融",
-        "科技"
-      ],
-      "impact_level": "重大",
-      "sources": [
-        {
-          "name": "财新网",
-          "url": "https://finance.caixin.com/2026-07-21/102466450.html"
-        }
-      ]
-    },
-    {
-      "title": "交通运输部：2030年新能源重卡渗透率超40%",
-      "summary": "交通运输部在发布会上表示，预计到2030年新能源重卡渗透率有望超过40%。同时将加快推动小微客车租赁网点布局，推行免费或低价异地还车。此外，我国航空公司定期航线已超1000条，民航“十五五”期间将畅通国际货运通道。这些政策信号表明交通运输领域绿色转型和便利化将持续推进。",
-      "reason": "新能源重卡渗透率目标明确，影响商用车行业和环保进程。",
+      "title": "国产算力新品集中亮相",
+      "summary": "在今日举办的WAIC 2026上，多家国内企业发布新一代算力芯片与系统，包括面向AI训练的超级计算机和边缘计算设备。这些产品在性能上接近国际先进水平，标志着中国在算力基础设施自主化方面取得重要进展。行业分析认为，国产算力生态逐步成熟，将加速AI大模型在各行各业落地。",
+      "reason": "国产算力突破，AI基础设施自主化加速，对科技产业和国家安全有重大影响。",
       "impact_areas": [
         "科技",
-        "经济金融",
-        "生态"
+        "经济金融"
       ],
       "impact_level": "重大",
       "sources": [
         {
-          "name": "澎湃新闻",
-          "url": "https://m.thepaper.cn/detail/33626683"
-        },
-        {
-          "name": "36氪",
-          "url": "https://www.36kr.com/newsflashes/3904794004735621"
-        }
-      ]
-    },
-    {
-      "title": "蚂蚁国际完成12亿美元A轮融资",
-      "summary": "蚂蚁集团旗下蚂蚁国际宣布完成约12亿美元A轮融资，蚂蚁集团、阿里巴巴集团等参与。这笔融资将用于拓展海外市场、技术研发和跨境支付网络建设。蚂蚁国际是蚂蚁集团全球化战略的核心，本轮融资估值预计超百亿美元，显示了投资者对跨境金融科技赛道的看好。",
-      "reason": "蚂蚁国际巨额融资，金融科技出海标杆事件。",
-      "impact_areas": [
-        "经济金融",
-        "科技"
-      ],
-      "impact_level": "重大",
-      "sources": [
-        {
-          "name": "36氪",
-          "url": "https://www.36kr.com/newsflashes/3904813539935873"
+          "name": "央视网",
+          "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE42Z0w1UmNIWGNlam1rQ3pudmk2elF2LW01R25TRE0yVHlkQW8xNno0R04xQXFOcGV2LVc4UTcxSy1rbldkVnVXMVdBN2NUSWFSZkx0N25DZkdzQm9BdVN0dVVpYVJVNUpHS0ZwWjYwa0hTQ1pjdF9DMA?oc=5"
         }
       ]
     }
   ],
   "total_fetched": 292,
-  "generated_at": "2026-07-21T12:26:15.805787+08:00"
+  "generated_at": "2026-07-21T19:26:20.807472+08:00"
 }
