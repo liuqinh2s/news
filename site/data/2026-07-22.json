@@ -2,65 +2,37 @@
   "date": "2026-07-22",
   "news": [
     {
-      "title": "美伊冲突升级红海危机",
-      "summary": "胡塞武装宣布对沙特实施禁运，并威胁攻击停靠沙特港口的船只，红海航运受阻。美国对伊朗发动新一轮空袭，特朗普警告将打击伊朗核设施。国际油价升至五周高点，全球供应链面临中东‘双锁’困局。美防长称对伊战争已耗资375亿美元，请求追加拨款。",
-      "reason": "多平台多来源密集报道，地缘冲突引发油价飙升，影响全球能源与贸易安全。",
+      "title": "美伊冲突持续升级",
+      "summary": "美国军方宣布对伊朗的打击已结束，这是连续第11晚的空袭。特朗普威胁要攻击伊朗的地下核设施'镐山'，伊朗武装部队强硬回应，警告将摧毁美军基地。此外，海湾国家对战争走向分歧加深，部分美国盟友希望华府加码打击伊朗。伊朗革命卫队声称打击并摧毁了亚马逊云在巴林的数据中心。胡塞武装也接近参战。美伊战争已耗费美国375亿美元，五角大楼寻求更多资金。",
+      "reason": "美伊战争持续升级，多源密集报道，已破圈成为全球焦点事件。",
       "impact_areas": [
         "地缘",
         "经济金融",
-        "能源"
+        "科技"
       ],
       "impact_level": "现象级",
       "sources": [
         {
-          "name": "澎湃新闻",
-          "url": "https://m.thepaper.cn/detail/33631150"
-        },
-        {
-          "name": "澎湃新闻",
-          "url": "https://m.thepaper.cn/detail/33633546"
-        },
-        {
-          "name": "凤凰网",
-          "url": "https://news.ifeng.com/c/8ux7TemK3px"
-        },
-        {
-          "name": "BBC",
-          "url": "https://www.bbc.co.uk/news/articles/cx25wg2x26do"
-        },
-        {
           "name": "Reuters",
-          "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQT0Jlc0k2UzBpUjR0R3ZWd2NKVzZVM2F6azd0VWk0WlYySWhpTU8zc2V2NTVWc3hWRzBYSUk2LXNTSzhoUnF1VUotZ1FhdTlMVE53TmtEUllYSThLU3hSU3hIRGRxZHFoaFZXM2VReGdxNGVVcGVOYXh4NTcwdHBpWkZqLWtCTHhOdjFIbWhJcExkcUo3amxFa0x3N3VadTVqbXh2LUxQYXV1Y05IM0N4QlVlUjNmWHM?oc=5"
-        }
-      ]
-    },
-    {
-      "title": "特朗普宣布对加拿大加征50%关税",
-      "summary": "特朗普宣布对加拿大商品加征50%关税，加拿大总理卡尼表示将考虑所有选项进行反制。美国贸易代表亦暗示将很快出台新关税政策，全球贸易紧张局势加剧。",
-      "reason": "重大贸易政策变动，直接影响北美经济及全球贸易格局。",
-      "impact_areas": [
-        "经济金融",
-        "政治"
-      ],
-      "impact_level": "重大",
-      "sources": [
-        {
-          "name": "BBC",
-          "url": "https://www.bbc.co.uk/news/articles/cg4dzq3x3e1o"
+          "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNdjdfcnFmNzMwSTFCYWFYRXZzOGtwSlpwM2ljMXh5QU5LZXFGTnJyUER0UDhyYnl2S2FjS1dPMzZ2S3gyRHBhQk9yV3RWOHRDS3pmYUVLWldkdHhvZWFFM08tWDNreUtrelJETjlRQVdLd09LRlRRNWF4YlB3YzVZT0xrdDJyVHNWN0NKcE4xdjFQVF85dWNGV3pSSHRyS0QtTGRGR1pFUkNjcjg?oc=5"
         },
         {
-          "name": "澎湃新闻",
-          "url": "https://m.thepaper.cn/detail/33633323"
+          "name": "BBC",
+          "url": "https://www.bbc.co.uk/news/articles/cdrv0p37k8jo"
+        },
+        {
+          "name": "央视网",
+          "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBCblZtVExBLUZqem5xMzBNYmRpa1lTVUtnSVd6emtJNzVQdEhoRldUeU81MlBwSnRDZk1yUmg4elhrQ1V6OU50bVNpZzVybW1WWFdUQ25MZlVfcU1rMjF4STI4TlBDVC02Y2d6SXU4YWtvbTYzYU83Zw?oc=5"
         }
       ]
     },
     {
-      "title": "泽连斯基解职乌克兰总司令",
-      "summary": "乌克兰总统泽连斯基在连续数日抗议后，解除了武装部队总司令德拉帕蒂的职务，任命新指挥官。此举引发俄罗斯关注，乌克兰内部领导层出现重大变动。",
-      "reason": "乌克兰军事领导层更迭影响俄乌战争走向，多源报道热度高。",
+      "title": "泽连斯基解职乌军总司令",
+      "summary": "乌克兰总统泽连斯基解除了乌克兰武装部队总司令的职务，任命米哈伊洛·德拉帕蒂为新的总司令。此前，乌克兰军队内部出现抗议活动，引发了战争爆发以来最大规模的军事改组。原国防部长动向未明。此举反映了乌克兰高层在战争战略上的分歧。西方媒体广泛报道，认为这可能影响俄乌战局走向。",
+      "reason": "乌克兰高层重大人事变动，多源报道且涉及俄乌战争关键节点。",
       "impact_areas": [
-        "地缘",
-        "政治"
+        "政治",
+        "地缘"
       ],
       "impact_level": "重大",
       "sources": [
@@ -73,130 +45,169 @@
           "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQS1lhdGlVLWR2R3BlMWk5dWxmYlJGM2Z4N3ByZ1BVblcxdGhobnpESzVMcWxKYktWd1RQUmZrQV9kUDVJbUFJOTJwRXZuakozVjlMSk9qR25iejlTVktTTEhxWDFNU1VMYkd1ZjF3SXZwMkxSS0FNdXhDcEFSeEFGTGdHb0ROOGx6cURjOVBiUEhVZ3F0STM0TEwxSWw5dHg1UllLTVdwNTk?oc=5"
         },
         {
-          "name": "澎湃新闻",
-          "url": "https://m.thepaper.cn/detail/33633259"
+          "name": "财新网",
+          "url": "https://international.caixin.com/2026-07-22/102466953.html"
         }
       ]
     },
     {
-      "title": "荷兰对以色列非法定居点实施制裁",
-      "summary": "荷兰宣布对以色列在巴勒斯坦被占领土上的非法定居点实施贸易制裁，成为首个采取此类措施的欧洲国家。此举引发以色列强烈反应，可能影响欧盟对以政策。",
-      "reason": "重要国际制裁行动，涉及中东和平进程，多源报道。",
+      "title": "法国禁止15岁以下未成年人用社交媒体",
+      "summary": "法国通过一项法律，禁止15岁以下未成年人未经父母同意使用社交媒体平台，成为继澳大利亚之后又一个实施此类禁令的国家。该法律要求平台采取年龄验证措施，违者将面临巨额罚款。此举被视为全球未成年人社交媒体监管趋势的重要一步，引发对言论自由和隐私保护的讨论。",
+      "reason": "多国跟进未成年人社交媒体禁令，影响全球互联网监管格局。",
       "impact_areas": [
-        "地缘",
+        "科技",
+        "社会",
         "政治"
       ],
       "impact_level": "重大",
       "sources": [
         {
-          "name": "澎湃新闻",
-          "url": "https://m.thepaper.cn/detail/33633112"
+          "name": "财新网",
+          "url": "https://international.caixin.com/2026-07-22/102466957.html"
         },
         {
-          "name": "凤凰网",
-          "url": "https://news.ifeng.com/c/8uxAfXdqQK8"
+          "name": "BBC",
+          "url": "https://www.bbc.co.uk/news/articles/cq56l9p4y93o"
+        },
+        {
+          "name": "NYTimes",
+          "url": "https://www.nytimes.com/2026/07/21/world/europe/france-social-media-ban.html"
         }
       ]
     },
     {
-      "title": "特朗普威胁打击伊朗镐山核设施",
-      "summary": "特朗普表示可能很快对伊朗‘镐山’核设施实施军事打击，以阻止伊朗核计划。该设施位于地下深处，打击难度大。此前美国已发动多轮空袭。",
-      "reason": "直接威胁伊朗核设施，大幅升级冲突风险，地缘影响深远。",
+      "title": "特朗普宣布对仿制药征100%关税",
+      "summary": "美国总统特朗普宣布，两年内对仿制药不征收关税，但从第三年开始征收100%的关税，随后提高至200%。此举旨在推动制药业回流美国，但将冲击印度、中国等仿制药出口大国，可能导致全球药品价格上涨和供应链重组。该消息引发医药板块震荡。",
+      "reason": "全球医药贸易重大政策变化，影响药品价格和供应链格局。",
       "impact_areas": [
-        "地缘",
-        "政治"
+        "经济金融",
+        "公共卫生",
+        "产业"
       ],
       "impact_level": "重大",
       "sources": [
         {
           "name": "凤凰网",
-          "url": "https://news.ifeng.com/c/8ux7TemK3px"
+          "url": "https://news.ifeng.com/c/8uxX85JoJZj"
+        },
+        {
+          "name": "Reuters",
+          "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxNRTYzT0tHTGRMbHJTWEhMbzMwT3VFZlBWanNOem02SHBBV1VJLTZTVEVFdjB5MnM1TktvRXFnUDZ5UV9CMzE5cGhtOWVxejE4amlGRWkzTDkwWmw3ZnRYNDFSZlZFZmtma2ZHSk1CSFZSNk5ibHR4Z0tDajFaTFBBYVlvZkVVcDdxTnFaQ0N2U1RqbEd3N1NWRUx0NUtJdVVJLWkwQUswRDdpa2c1Q25Ub0ZpOW1VXzJIcEpDb1NDQ0ZacFJRTS0xSzd1NGFNcHo0LVMzT3lzVmhOVGpJNmM5ZUxmeEM?oc=5"
         }
       ]
     },
     {
-      "title": "欧洲议会外委会首次访华",
-      "summary": "欧洲议会外事委员会代表团首次访问中国，王毅应询就中欧关系、乌克兰危机、中东局势等阐述中方立场。此访标志着中欧高层交往重启，具有重要象征意义。",
-      "reason": "中欧外交重要突破，影响双方经贸与全球治理合作。",
+      "title": "SpaceX逾千亿美元股票将可上市交易",
+      "summary": "据市场消息，SpaceX的宏大解禁即将来临，逾千亿美元股票将可上市交易。这意味着SpaceX员工和早期投资者有望获得流动性，也可能为特斯拉及其他投资者带来巨额回报。该事件被视为科技金融领域的里程碑，可能改变太空产业的投资格局。",
+      "reason": "全球最值钱独角兽股票解禁，影响资本市场和太空经济。",
       "impact_areas": [
-        "政治",
+        "科技",
         "经济金融"
       ],
       "impact_level": "重大",
       "sources": [
         {
-          "name": "凤凰网",
-          "url": "https://news.ifeng.com/c/8ux6FAGKMT0"
+          "name": "财新网",
+          "url": "https://database.caixin.com/2026-07-22/102466904.html"
         }
       ]
     },
     {
-      "title": "家政服务业新规出台",
-      "summary": "商务部等出台19条新规，要求家政服务明码标价、人员持证上岗，旨在解决行业‘开盲盒’式找阿姨难题。新规覆盖培训、信用、保险等环节，影响上千万从业者。",
-      "reason": "民生政策直接影响城市家庭生活，央视重点报道，社会关注度高。",
+      "title": "耐克终止滔搏线上经销权",
+      "summary": "耐克宣布终止与滔搏的线上经销合作，导致滔搏股价暴跌超24%。滔搏紧急回应称线下销售将紧密合作。这一变动标志着耐克在中国市场渠道战略的重大调整，可能对中国运动鞋服零售行业格局产生深远影响。业内分析认为，耐克正在加强直营模式，滔搏面临转型压力。",
+      "reason": "国际品牌与巨头经销商决裂，中国体育零售格局面临重塑。",
       "impact_areas": [
-        "社会"
+        "产业",
+        "经济金融"
+      ],
+      "impact_level": "重大",
+      "sources": [
+        {
+          "name": "澎湃新闻",
+          "url": "https://m.thepaper.cn/detail/33633779"
+        },
+        {
+          "name": "虎嗅",
+          "url": "https://www.huxiu.com/article/4877281.html"
+        }
+      ]
+    },
+    {
+      "title": "一箭九星发射成功",
+      "summary": "2026年7月22日，中国成功发射引力一号遥四运载火箭，实现一箭九星，将卫星送入预定轨道。这是中国商业航天的又一次重要突破，展示了快速发射能力和低成本进入太空的潜力。多源报道，凸显中国航天事业的快速发展。",
+      "reason": "中国商业航天重大进展，多次成功发射彰显技术实力。",
+      "impact_areas": [
+        "科技",
+        "产业"
+      ],
+      "impact_level": "重大",
+      "sources": [
+        {
+          "name": "凤凰网",
+          "url": "https://news.ifeng.com/c/8uxonjhpfkc"
+        },
+        {
+          "name": "36氪",
+          "url": "https://www.36kr.com/newsflashes/3906250194785670"
+        }
+      ]
+    },
+    {
+      "title": "上半年就业形势总体平稳",
+      "summary": "人力资源社会保障部在国新办发布会上介绍，2026年上半年就业形势保持总体平稳。今年上半年，我国已有1.4亿人通过跨境电商全球购物，显示消费新业态的活力。此外，人社部相关负责人调整，陈峰已担任失业保险司司长。就业数据是经济复苏的重要指标。",
+      "reason": "官方发布上半年就业数据，关乎民生和经济基本面判断。",
+      "impact_areas": [
+        "社会",
+        "经济金融"
       ],
       "impact_level": "重大",
       "sources": [
         {
           "name": "央视网",
-          "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1WaFgzNXNXN21GcFNITFFPajItbFRNSDJKNWVwRDUzNWdfUVF0LWJSYlNPeEh4M2JHWERfRUZVaVJ5RWF4MzhTYWZyRnFheGZhbG4wSjU0MWJOQXRjYzFHODlHZ2dSRE4yWm1yb1U1cUV3MjVaY0paNw?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1sbjlIMUNwRU5pTDFXbW9iWGlOSzNINEdUWHlFeGdrVEpqV1hnUnJFcGxQZ19EbzRHTjZUZTBvbTI4RnVFLXlTVnhwS3JEUVNJOXRwQkdzNFc1aXlhSHVCeThBTlVBcXVUTnRaSUtwSkhWbXVScms1Vg?oc=5"
         },
         {
           "name": "澎湃新闻",
-          "url": "https://m.thepaper.cn/detail/33633525"
+          "url": "https://m.thepaper.cn/detail/33634635"
         }
       ]
     },
     {
-      "title": "Gemini 3.6 Flash正式发布",
-      "summary": "谷歌发布Gemini 3.6 Flash模型，在推理速度和能力上显著提升，引发开发者社区热议。该模型或进一步推动AI应用落地，加剧大模型竞争。",
-      "reason": "重大AI产品发布，科技权重高，影响AI产业格局。",
+      "title": "中国实施零关税国家达63个",
+      "summary": "中国宣布实施零关税的国家已达到63个，涵盖多个贸易伙伴。这一举措体现了中国进一步扩大开放、推动贸易自由化的决心，有助于降低进口成本，促进与相关国家的经贸合作。海关总署表示将加快实施'十五五'规划口岸设施改造，并大力推行无感通关模式。",
+      "reason": "中国扩大零关税范围，释放贸易自由化信号，影响进出口格局。",
       "impact_areas": [
-        "科技"
+        "经济金融",
+        "政治"
+      ],
+      "impact_level": "重大",
+      "sources": [
+        {
+          "name": "凤凰网",
+          "url": "https://news.ifeng.com/c/8uxmlxZ6LVa"
+        },
+        {
+          "name": "36氪",
+          "url": "https://www.36kr.com/newsflashes/3906235214583173"
+        }
+      ]
+    },
+    {
+      "title": "韩国股市连续两日熔断",
+      "summary": "韩国股市连续两日触发熔断机制，市场恐慌情绪蔓延。这反映了全球金融市场的不确定性，可能与美伊冲突、关税政策等多重因素有关。韩国股市的剧烈波动对亚洲市场产生连带影响，投资者需警惕系统性风险。",
+      "reason": "韩国股市罕见连续熔断，反映全球市场剧烈震荡，风险信号明显。",
+      "impact_areas": [
+        "经济金融"
       ],
       "impact_level": "重大",
       "sources": [
         {
           "name": "虎嗅",
-          "url": "https://www.huxiu.com/article/4877212.html"
-        }
-      ]
-    },
-    {
-      "title": "月之暗面Kimi估值500亿美元融资",
-      "summary": "AI公司月之暗面（Kimi）计划以投前500亿美元估值进行IPO前最后一轮融资，规模或达数十亿美元。该公司为大模型赛道头部玩家，估值飙升反映资本对AI的狂热。",
-      "reason": "AI领域重大融资事件，独角兽估值新高，科技权重高。",
-      "impact_areas": [
-        "科技",
-        "经济金融"
-      ],
-      "impact_level": "重大",
-      "sources": [
-        {
-          "name": "36氪",
-          "url": "https://www.36kr.com/newsflashes/3905993552319880"
-        }
-      ]
-    },
-    {
-      "title": "SK海力士洽购英特尔俄亥俄园区",
-      "summary": "SK海力士正在洽购英特尔位于俄亥俄州的半导体园区，计划用于存储芯片生产。此举反映存储芯片巨头扩张产能，或改变全球半导体制造格局。",
-      "reason": "半导体产业重大收购动态，影响全球芯片供应链。",
-      "impact_areas": [
-        "科技",
-        "经济金融"
-      ],
-      "impact_level": "重大",
-      "sources": [
-        {
-          "name": "36氪",
-          "url": "https://www.36kr.com/newsflashes/3905998816449927"
+          "url": "https://www.huxiu.com/article/4877295.html"
         }
       ]
     }
   ],
-  "total_fetched": 215,
-  "generated_at": "2026-07-22T07:26:10.960344+08:00"
+  "total_fetched": 275,
+  "generated_at": "2026-07-22T12:26:24.511649+08:00"
 }
