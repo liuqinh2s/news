@@ -1,4 +1,4 @@
-# 2026-07-22 原始新闻标题 (275 条)
+# 2026-07-22 原始新闻标题 (324 条)
 
 ## 新华社 (20 条)
 - Education, health fees among key concerns
@@ -23,50 +23,63 @@
 - Former Chongqing political official facing corruption investigation
 
 ## 澎湃新闻 (20 条)
-- 耐克中国销售渠道大调整，滔搏回应线上销售将被终止：线下销售将紧密合作
-- 国新办发布会丨介绍2026年上半年农业农村经济运行情况
-- 视频丨停止轰炸孩子！ 美防长发言多次被抗议者打断
-- 国台办：民进党当局企图胁迫有关国家为“台独”提供空间
-- 国台办：让每一个中国人都感受到祖国的温暖与强大
-- 陈峰已担任人社部失业保险司司长，此前曾任人社部新闻发言人
-- 今年以来上海警方依法查处网络谣言案件800余起
-- 小区车位设在健身会所正门口，改造合法吗？法院：取消并恢复原状
-- 小红书回应IPO传闻：相关信息均不属实
-- 青海乌兰县通报“茶卡盐湖飞行器坠落致2伤”：飞行器已封存，事发景区已关停
-- 今年上半年，我国已有1.4亿人通过跨境电商全球购物
-- 新闻蒸馏器｜特朗普关税或将“换壳”：覆盖60国，税率10%至12.5%
-- 海关总署：对美进出口今年4月由降转增，5月6月规模持续扩大
-- 台湾民众党称盼以对话取代对立，国台办答澎湃
-- 台经济部门妄称“张雪机车”不得输入台湾，国台办回应
-- 全国最后一位长征女红军王全英逝世，享年105岁
-- 习近平总书记的重要论述指引基础教育改革发展开创新局面
-- 失控的监护“外包”：孩子被送特训机构之后
-- 2026年《财富》中国500强排行榜：国家电网、中石油和中石化位列前三
-- 澎湃十二周年｜穿越浪潮，为每朵浪花刻写自己的河床
+- 上海黄浦互联网优质内容创作集聚区扩容，百年建筑江川大楼“加入”
+- 广州男生中考681分选择中本贯通，其母：既然走了这条路就继续努力
+- 王毅出席东盟外长会期间与鲁比奥会面
+- 消费周刊｜AI手机，走出展厅？
+- 西安遭遇强对流天气，市民：有树木被吹倒，车辆被砸
+- 上海市委深改委会议研究家政服务业员工制转型、公共数据开发利用、养老服务业创新发展等事项
+- 博主江上划船遇男孩游泳抽筋，意外救了两条命
+- 武汉阳逻港一船舶爆炸，致1名船员失联
+- 澎湃漫评｜对凡人善举也当做好“兜底”保障
+- 私家车停斑马线前长时间未动，市民以为司机出事报警，真相是小伙熬夜后无证驾车原地熟睡
+- “数实·博超”首秀今日启幕，让工业文化流入寻常百姓家
+- 商务部新闻发言人就法国“反超快时尚”法有关问题答问
+- 中国足协辟谣“女足主教练米利西奇辞职”
+- 福建：未来拟将吴石故居等推荐申报全国重点文保单位
+- 习近平对基础教育工作作出重要指示
+- 不掩饰自己北方口音的伯纳姆，将如何兑现“修复英国”的承诺
+- 【社论】关键时期，股市迎来密集信号
+- 《体育强国建设“十五五”规划》发布：加强体育饭圈乱象整治、杜绝运动员网红化
+- 澎湃新闻12周年｜文化演艺界的祝福已收到，这阵容真藏不住
+- “切片”时代到来，我们更容易“断章取义”了？
+
+## 南方周末 (2 条)
+- 为了走在全球前列，中国科学家要建一个“返老还童”细胞资源库
+- 当"老外"成为日常丨记者手记
 
 ## 凤凰网 (20 条)
-- 特朗普宣布两年后对仿制药征收100%关税
-- 中国驻菲律宾大使：菲方挑衅在先，却倒打一耙恶意炒作
-- 一箭九星，成功发射
-- 岛内舆论批台当局变相限缩陆配权益，国台办回应
-- 台防务部门呼吁通过所谓无人机条例，国台办回应
-- 还在点火？特朗普批准，美企或在沙特建铀浓缩设施
-- 央媒评“深圳地铁安检排队数百米”：公共服务当有充分科学预判
-- 台陆委会称警员赴福建旅游遭隔离讯问，国台办回应
-- “逼宫”总统！国家英雄被斗倒了
-- 女子举报虐猫惨遭“开盒”后轻生，被父亲及时救下
-- 国台办回应台当局禁止张雪机车开店
-- 被劝停止绝食，蓝营青年坚定决心喊话王世坚
-- 中国实施零关税的国家已达63个
-- 英媒：为什么世界更相信中国而不是美国
-- 嘉义市长选战上演食安攻防，张启楷批致癌油，邀对手王美惠上街
-- 台当局威胁民众审慎赴陆，国台办：其行可耻其心可诛
-- 驻伊尔库茨克总领馆协助受伤台胞，国台办：职责所在
-- 10条鱼4条有病？网友钓到“肿块鱼”引热议，当地渔业部门回应
-- 台外事部门附和菲律宾蓄意挑衅，国台办回应
-- 武契奇：至多两周，将辞去塞尔维亚总统，参选总理
+- “打压中企，欧盟将自损400亿欧元”
+- 普京：困难是暂时的
+- 法国歧视性限制中资跨境电商平台，商务部回应
+- 危险的非洲大蜗牛正在扩张，北方也可能失守
+- 绿营议员呛蒋万安“如丧考妣”，新党游智彬下战帖辩论“毒油事件”
+- 现场：王毅会见菲律宾外长拉扎罗
+- 江西南昌一医院给未成年人做流产手术，监护人不知情，当地卫健委通报
+- 临床医学报考“降温”，学医不如学兽医？
+- 男子称未成年女儿在医院“打胎”，监护人完全不知情，卫健部门通报
+- 泽连斯基任命乌武装部队总参谋长
+- 多地发钱奖励结婚，福建一地结婚奖励3000元
+- 俄罗斯两处物流仓库遭乌无人机袭击，现场浓烟犹如火山喷发
+- 曝美军费即将见底，白宫紧急申请670亿美元经费预算
+- 一尊失去双手的“血雕”，揭开英国“勋爵”50年文物劫掠史
+- 国家林草局原副局长李春良被判无期
+- 台立法机构为“星链”放行，专家：台幻想难抵大陆完备反制能力
+- 刚解雇改革派防长，又任命改革派武装部队总司令，泽连斯基有何考量？
+- 前外长跳槽中企后，匈牙利新政府翻旧帐：宣布启动投资调查
+- 加拿大不仅要面临200亿美元关税，还被踢出了群聊
+- 韩国瑜允诺参加“7·25”凯道抗议，白营号召民众“风雨无阻”：让赖清德听见人民愤怒
 
 ## 财新网 (20 条)
+- 长期任职组织部门 国家林草局原副局长李春良一审被判无期
+- 耐克将中国内地线上销售权收归自营 经销商滔搏股价日跌超两成
+- 财政部：地方财政自给率低于100%是常态 加上转移支付等收支能平衡
+- 中际旭创启动港股招股程序 募资额最高约550亿港元
+- 漫长的婚约：徐志摩为何黯然转身｜故事
+- 能源内参｜山西计划彻底清理取缔隐蔽工作面、“阴阳图纸”；波音：未来20年全球需要4.4万架新飞机 中国需求占比两成
+- 野村：美中期选举前联储难加息 日元贬值压力年底前或缓解
+- 监管如何影响AI发展：Robotaxi的案例
+- 市场化并购：破解A股“进出失衡”困局
 - 继澳大利亚之后 法国将禁止15岁以下未成年人使用社交媒体
 - 泽连斯基欲化解高层人事风波 乌军总司令换人原防长动向未明
 - 珠海原副市长张宜生被查 近四个月三名原市级领导落马
@@ -78,69 +91,80 @@
 - 今日开盘：两市双双低开 沪指跌幅0.64%
 - 韩国低生育的久困之局与意外回暖
 - 【市场动态】SpaceX的宏大解禁即将来临 逾千亿美元股票将可上市交易
-- 交通运输部：“十五五”交建不再“铺摊子上项目” 近半投资将为更新改造
-- 海岱之间与带砺河山｜黄河两岸③
-- 【市场动态】海湾国家对战争走向分歧加深 部分美国盟友希望华府加码打击伊朗
-- 【市场动态】投资回报飙升至数十年最高 套利交易在华尔街大行其道
-- T早报｜长鑫科技660万新股遭弃购；Anthropic以15亿美元和解作家诉讼；伊朗革命卫队称打击并摧毁亚马逊云巴林数据中心
-- 【商圈】SK海力士崔泰源：在废墟上建立万亿AI存储帝国
-- 德国养老金也撑不住了，社保鼻祖如何开源？
-- 路博迈承接三只施罗德产品 董事长称在中国市场“不是过客”
-- 报告：中国临床医护应用AI比例高于全球水平
 
-## 央视网 (13 条)
-- 夏日“清凉壁纸”上线！数百亩荷花进入最佳观赏期 - 央视网
+## 央视网 (20 条)
 - 半生针线 把日子绣成爆款 - 央视网
+- “微改造”让工业遗存与民生需求跨界结合 老厂房焕发新生机 - 央视网
 - 服务明码标价、人员持证上岗 家政19条新规出台 - 央视网
-- 【8点见】三名原副院长被指职称造假，高校回应 - 央视网
 - 一问到底丨新政来了 如何告别“开盲盒”式找家政？ - 央视网
 - 精神如炬 征途如虹｜《闪亮的名字-最美退役军人发布仪式》今晚播出 - 央视网
+- 星火成炬｜ 让世界充满爱 - 央视网
+- 人力资源社会保障部：今年上半年就业形势保持总体平稳 - 央视网
 - 美司法部提议2027年6月开审所谓马杜罗涉嫌贩毒案 - 央视网
+- 从半年报看“十五五”开局：绿色经济新版图 - 央视网
+- 彭水山体崩塌巨石新一轮爆破成功 - 央视网
+- 广东省珠海市政协原党组成员张宜生接受审查调查 - 央视网
+- 河南郑州警方通报“一火灾致两死两伤” - 央视网
+- 国家能源局：截至6月底全国累计发电装机容量同比增长10.8% - 央视网
+- 夏日“清凉壁纸”上线！数百亩荷花进入最佳观赏期 - 央视网
+- 圭亚那沉船事故死亡人数升至53人 - 央视网
+- 商务部回应欧委会对全球速卖通罚款：坚定支持中国企业运用法律武器维权 - 央视网
 - 大熊猫“福虎”嘴角生疮 当地回应：专家团队已到现场诊治 - 央视网
 - 美众议院通过短期拨款法案 避免中期选举前政府“停摆” - 央视网
-- 人力资源社会保障部：今年上半年就业形势保持总体平稳 - 央视网
-- 河南郑州警方通报“一火灾致两死两伤” - 央视网
-- 伊朗武装部队回应特朗普袭击核设施言论 - 央视网
-- “十五五”时期我国交通网将有这些新变化 - 央视网
+- 黄色山洪灾害气象预警：云南南部局地发生山洪灾害可能性较大 - 央视网
+- 加拿大总理：将考虑所有选项应对美加征关税 - 央视网
 
-## BBC (10 条)
+## BBC (18 条)
+- Ukrainian drones hit more sites of Russian online retailer Wildberries
 - Zelensky sacks Ukraine's top army commander after days of protests
+- Iran war has cost US $37.5bn so far, Hegseth says, as Pentagon seeks billions more
+- India's Modi government under growing pressure as 'cockroach' protests intensify
+- Modelling scout linked to Epstein found dead in Paris suburbs
+- Tokyo urges men to wear shorts to work, but some women say it's 'leg hair harassment'
+- Police station opens at Hitler's birthplace in bid to rid site of Nazi link
 - US renews strikes on Iran as Trump threatens to attack underground nuclear site
 - France passes law banning under-15s from social media
-- Tokyo urges men to wear shorts to work, but some women say it's 'leg hair harassment'
 - Michelin-starred restaurateur faces jail for using ants as dessert garnish
+- Rebel Wilson cleared in defamation case brought by actress in her own film
 - Gruesome images in D4vd hearing are 'worst nightmare' for teen girl's family
-- Iran war has cost US $37.5bn so far, Hegseth says, as Pentagon seeks billions more
-- Lebanese army says troops deploying in 'pilot zone' after Israeli withdrawal
-- Carney looking at 'all options' as Trump announces 50% tariffs on Canada
-- Two French firefighters die tackling blaze near Bordeaux airport
+- Tunnel collapse in India kills 14 workers
+- Japan temperatures soar over 40C, marking first 'cruelly hot day'
+- Meet the women breaking world records in lumberjack sports
+- Why WhatsApp usernames could upset Somalia's anti-terror fight
+- Why are thousands protesting for education reform in India?
+- Beluga whales relocated from closed Canadian marine park arrive in US
 
-## Reuters (3 条)
+## Reuters (8 条)
 - US military says its latest strikes on Iran have ended, marking 11th successive night of attacks - Reuters
+- Yen rebounds from 40-year low after report BOJ may hike faster than expected - Reuters
+- Morning Bid: The new ad for chips? An AI model Breaking Bad - Reuters
 - Ukraine gets new top commander as protests spark war's biggest military shake up - Reuters
 - Trump says generic drugs to face no US tariffs for 2 years, then 100% and 200% tariffs later - Reuters
+- Ontario wildfires expand as smoke lingers in parts of the US - Reuters
+- Indian steelmakers pivot home as Europe tightens imports, China squeezes margins - Reuters
+- Ocado to build robotic warehouse for unnamed European retailer - Reuters
 
 ## NYTimes (20 条)
-- Zelensky Dismisses Ukraine’s Top General After Protests
+- Ukraine’s New Military Chief Faces a Monumental Test
+- A Lettuce-Growing Region in Mexico Stomachs the Fallout From the Cyclospora Outbreak
+- Iran War Live Updates: Rubio Signals No Letup in U.S. Strikes
+- Japan Is Startled by Prime Minister’s Grueling Sleep Schedule
+- Firing of Ukraine’s Top General Signals the End of an Era
+- Iran’s Neighbors Long for a Deal, Any Deal, to End the War
+- Germany’s Military Buyers Look to Reduce Caution and Embrace Drones
 - Inside the Fight to Rid South Africa of Black Immigrants
 - 3 Myths Fueling Anti-Immigrant Sentiment in South Africa
+- K-pop’s NewJeans Hints at Comeback After Monthslong Feud With Its Label
 - India’s Young Protesters Are Bloodied but Unbowed
 - Netanyahu Ad Uses a Questionable Tactic Against Bereaved Rival
-- British Politician Ann Widdecombe Was Murdered with a Hammer, Prosecutors Say
-- Trump Escalates Canada Tariffs as Mark Carney Holds Firm
-- Houthis in Yemen Edge Closer to Entering U.S.-Iran War
-- France Joins a Global Move Toward Restricting Social Media for Children
 - The Teenage Boys In Search of Their Mother After the Venezuela Earthquake
 - A Family’s Daring Escape From North Korea
-- Philippines Says Sailor Was Injured in Skirmish With Chinese Coast Guard
+- Here’s the latest.
+- See Which 52 Places to Go We’ve Already Visited From Warsaw to Bangkok
 - With His Latest Threats, Trump Signals to Iran That He Is Willing to Escalate
 - Mykhailo Drapatyi: What to Know About Ukraine’s New Top General
 - A Wartime Rift in Ukraine
-- What to Know About Iran’s Pickaxe Mountain
-- Water Plants Under Fire in the Gulf Are Crucial to Civilians
-- Iran’s top diplomat says ‘security gap’ may have led to strikes on supreme leader.
-- Lebanese Army Accuses Israeli Troops of Firing as Its Forces Deploy in ‘Pilot Zone’
-- Here’s the latest.
+- Trump Threatened to Strike Pickaxe Mountain, a Suspected Iranian Nuclear Site. Here’s What to Know.
 
 ## CNN (6 条)
 - 0% intro APR until 2024 is 100% insane
@@ -151,26 +175,26 @@
 - Want Cash Out of Your Home? Here Are Your Best Options
 
 ## 微博热搜 (20 条)
+- 两个AI演员比内娱待爆艺人都火
 - 耐克将清退中国数千家在线经销商
-- 张伟丽化妆后自己都不认识了
-- 开局之年看中国解码创新浙江
-- 包知了猴饺子一转眼馅跑了
-- 父亲在家长群公开夫妻矛盾被认定家暴
-- 邓紫棋 歌手
-- 耐克抛弃滔搏影响多大
-- 美富豪换血求永生失败后克隆了自己
-- 田曦薇青风吹又生定妆
-- 雷军称澎程每三年或3万km才需保养
-- 新领军王楚钦
-- 演员凯莉霍特尔车祸去世
-- 曝张雅琪和万俊丰同行照片
-- 亚马尔举牌讽刺帕雷德斯
-- 伊朗说打就打
-- 耐克与滔搏线上合作将终止
-- 大人的客气能不能明显一点
-- 九门 提档
-- 如何防止手机被大数据监听
-- 不受力
+- 我国成功发射一箭9星
+- Faker从警
+- 别再给AI乱传文件了
+- 第一次相亲适合吃烤肉
+- 这一秒过火爱吃爽吃偷吃
+- 垃圾袋七分满就扔
+- 曝功夫女足票房流失金额超4亿
+- 哪个暑假工做的雪糕
+- 5岁女童海边溺水获救父母失联
+- 汤唯二胎儿子出生
+- 突然不羡慕中小学老师了
+- 双高胎向魏大勋道歉
+- 十日终焉书粉发声
+- BLG Flandre
+- 王楚然回复张凌赫
+- 李昀锐在飞机上玩空姐给的玩具
+- 滔搏巨震
+- 官方通报未成年打胎监护人不知情
 
 ## 知乎热榜 (20 条)
 - BBC 报道英国女子在印度旅行后脑子长 38 只寄生虫，这么多寄生虫哪来的？有彻底消灭它们的办法吗？
@@ -195,118 +219,149 @@
 - 为什么卡夫卡的作品晦涩难懂，荒诞离奇，却被很多人奉为经典？
 
 ## B站热门 (20 条)
-- 一条老奶奶
+- 【萌黄一槽】飞刃连掷踏弦而跃，波风水门[侠隐江湖]全技能爆料！
+- 《梦战：剑之海》首支实机预告片丨全球首测招募开启
+- 《低山臭水遇知音》
+- 散装家庭，一家人哔站互关认识的
 - 树恨你
-- 无骨草鱼 无骨草鱼教学，十年老师傅无保留教大家，简单易学。
-- 你真的需要智能汽车吗？我们问了100个人...
+- 一条老奶奶
+- 当劳斯销售到五菱上班…
 - 差点被烟管单杀了
 - 千万博主谈b站真相（完整版）
-- 关于我的小岛日常
 - 我的世界硬核生存！【缆车末日惊变100天】 p1 我被困在了充满丧尸的1千米高空缆车上！该如何生存？！！
-- 大 周 礼 时 代(11)
+- 《代号：伙伴》正式定名《航海王：集结》，全新PV上线 | 集结伙伴，热血开团！
+- 教你如何同时画出千里江山图和清明上河图
+- 无骨草鱼 无骨草鱼教学，十年老师傅无保留教大家，简单易学。
+- 史上最奇怪饭店！完全想不出来怎么赚钱
+- 偷偷把室友房间改成了“后室”，会发生什么？
+- 《异环》伊洛伊角色PV丨想做什么梦？
 - ⚡灌 篮 高 手⚡
-- 🐔好 坤 不 挑 曲⚡
-- 逆天小游戏2337
-- 加拿大邻居去世子女却忙着分尸体 的财产
-- 高市民调骤跌丨“现在向中国投降，是代价最小的时候”
 - （知识科普）盘点突击位全干员技能增强削弱史，来看看你都了解多少？
-- 全 网 最 幸 运 的 动 画 教 程   3.5
-- 三角洲三选一挑战赛 选手装备：少爷头少爷能拿下天才少年吗？
-- 寝室睡个觉真难
-- 大狗嚼  这一口会很疯狂！
-- 口口声声姐妹情,口供全是姐妹名!
+- cf生化1v9挑战：兴兴挑战9人小队！但是有一个内鬼！哪边会赢？！
+- 当你不小心进入了黑乌龟...
 
 ## 抖音热搜 (20 条)
-- 最后一位长征女红军王全英逝世
-- 沿虚线撕开我的旅行日记
-- 中国入境旅游市场持续升温
-- 我在豆包养宠物
-- 苹果折叠屏爆料汇总
-- 2026年财富中国500强出炉
+- 在家也能复刻成吉思鸡
+- 广州早茶已经next level了
+- 十五五交通蓝图出炉
+- 韩国首尔市长吴世勋一审被判罚金
+- 名人堂官宣为库里举办展览
+- 大禹新皮肤翡翠华章
 - 苗凯获大田赛十项全能冠军
-- 我收到高考录取通知书了
-- 微胖女孩的夏日显瘦穿搭
-- 白色海莉美甲的高级感超标了
-- 菲律宾放拦阻索围船
-- 下周或有台风登陆广东
-- 如果你也刚好抬头看树
-- 警惕灾情谣言套路
+- 抖火杯反三之夜有多燃
+- 这届非遗手作太好玩了
+- 胖东来禁止员工相互借钱
+- 九门提档至7月30日
+- 最后一位长征女红军王全英逝世
 - 成吉思鸡小哥将来到中国
-- 小生在此苦寻校友
-- 当我用身体波浪来摇杯好茶
-- 游戏树恨你太抽象了
-- 金价银价油价集体上涨
-- 足协杯上海申花4:1青岛海牛
+- 美伊冲突进入垃圾时间了吗
+- 2026世界杯 再见
+- 我的夏日主线任务online
+- 沿虚线撕开我的旅行日记
+- 如果你也刚好抬头看树
+- 功夫女足第二轮路演
+- 就馋这一口内蒙古炭烤肉配凉面
 
-## 豆瓣讨论 (1 条)
+## 豆瓣讨论 (4 条)
+- 希望大家都能保持一定程度的外出欲 - douban
 - 原来真的有“长女综合症” - douban
+- 有一个朝代，所有皇帝都没有男宠 - douban
+- 论坛体 - douban
+
+## 丁香园 (3 条)
+- 全身骨骼的“明星检查”-SPECT全身骨显像 - y.dxy.cn
+- 光子嫩肤快问快答 | 一篇关于M22的科普 - y.dxy.cn
+- "醒了不糊涂"：麻醉医生的四步清醒术 - y.dxy.cn
 
 ## 雪球热帖 (20 条)
-- 昨日涨停板块活跃 托伦斯涨停 - 新浪财经
-- ISP概念板块强势 星宸科技涨幅居前 - 新浪财经
-- NPU板块活跃 瑞芯微涨停 - 新浪财经
-- 新能源汽车行业：关注2026年新能源汽车下乡活动 - 新浪网
-- 有色铜板块活跃 盛屯矿业涨停 - 新浪财经
-- 万和财富早班车 - 新浪网
-- 贵州茅台(600519)事件点评：飞天年内二次提价 市场化定价机制加速落地 - 新浪网
-- 進智公共交通：拟召开股东大会 多项议案待审议 - 新浪财经
+- 5个跌停板！知名大牛股ST天际“栽了” - 新浪财经
+- ST西王上半年预盈，索赔窗口开启中 - 新浪财经
+- *ST华闻上半年同比扭亏，索赔已递交立案 - 新浪财经
+- 26Q2基金季报点评：TMT持仓创历史新高- - 手机新浪网
+- 东山精密7月22日现1笔大宗交易 总成交金额326.25万元 溢价率为0.00% - 新浪财经
+- 曹操出行：7月22日回购6.96万股 付出总额约98.38万元 - 新浪财经
+- 百樂皇宮控股：拟派末期股息、重选董事等议案将在周年大会审议 - 新浪财经
 - 从“能说会道”到“真抓实干” - 新浪财经
-- 铭利达跌2.08%，成交额3206.91万元，主力资金净流入23.34万元 - 新浪财经
-- 药物受理最新动态：山东明仁福瑞达制药股份有限公司阿达帕林凝胶仿制申请获受理 - 新浪财经
-- 药物受理最新动态：重庆希尔安药业有限公司琥珀酸亚铁片仿制申请获受理 - 新浪财经
-- 宏安集团：7月21日回购6000万股，涉资150万港元 - 新浪财经
-- 药物受理最新动态：常州长吉生物技术开发有限公司注射用重组人赛普辛希新药申请获受理 - 新浪财经
-- 博深股份跌2.13%，成交额1396.26万元，主力资金净流出98.94万元 - 新浪财经
-- 药物受理最新动态：北京诺诚健华医药科技有限公司奥布替尼片新药申请获受理 - 新浪财经
-- 盛航股份股东万达控股增持65.4万股耗资824.52万元 - 新浪财经
-- 药物受理最新动态：山东方明药业集团股份有限公司富马酸伏诺拉生片仿制申请获受理 - 新浪财经
-- 南方神州基金：7月21日南方东英精选美元债券基金单位净值为10.4100 - 新浪财经
-- 英飞特跌2.04%，成交额3073.28万元，主力资金净流出54.37万元 - 新浪财经
+- 西藏智汇矿业：3.66亿股内资股转换为H股并于7月23日上市 - 新浪财经
+- ST兴化7月22日现1笔大宗交易 总成交金额123万元 溢价率为0.00% - 新浪财经
+- 地平线：修订可转换借款协议并获CARIAD 12个月自愿禁售承诺 - 新浪财经
+- 云图控股7月22日现1笔大宗交易总成交金额358.04万元其中机构买入358.04万元溢价率为0.00% - 新浪财经
+- 红宝丽7月22日现2笔大宗交易 总成交金额744.8万元 溢价率为-9.83% - 新浪财经
+- 天鸽互动：7月22日回购23.8万股 涉资14.52万港元 - 新浪财经
+- 东亚联丰多元累积：2026年7月14日A类份额净值和累计净值均为148.59元 - 新浪财经
+- 百乐皇宫控股：2026年股东周年大会将审议多项议案 - 新浪财经
+- 协创数据7月22日现1笔大宗交易 总成交金额1920万元 溢价率为-4.36% - 新浪财经
+- 紫金矿业：宣派2026年度中期股息 明确多类股东所得税代扣安排 - 新浪财经
+- 金麒麟最佳投资顾问评选丨7月22日股票组日榜第二名：国元证券王新云今日持仓标的最大涨幅10.00%(附明细) - 新浪财经
+- 恒生中国企业指数基金：2026年7月21日单位净值为1.3561 - 新浪财经
 
 ## 36氪 (20 条)
-- 明治将在华牛奶业务转让给澳亚集团
-- 欧盟保险监管机构要求私募股权买家采取长远眼光
-- 小米旗下瀚星创投入股星利行新能源科技公司
-- 恒指午间休盘跌0.83%，滔搏跌超24%
-- 半日主力资金加仓电子、计算机股
-- 意界智创签约上海市人工智能重点项目
-- 优刻得等在天津成立新合伙企业，出资额约570万
-- 海关总署：加快实施“十五五”规划57个口岸设施改造工程
-- 三星拟在韩国投资2000亿韩元建设HVAC工厂
-- A股三大指数午间休盘涨跌不一，贵金属板块领涨
-- 小红书回应IPO传闻：相关信息均不属实
-- 一箭九星，引力一号遥四运载火箭发射成功
-- 云意电气等在扬州成立新合伙企业，出资额1亿
-- 北京出台“出海十条”，为数字经济企业出海减负赋能
-- 海关总署：将大力推行无感通关等模式，助力企业降本增效
-- 我国实施零关税的国家已达63个
-- 广州：拟稳步有序推进现房销售制，推进房地产开发融资方式改革
-- 广州：拟优化“房票”安置政策，拓宽“房票”适用范围
-- 海南省“十五五”服务业发展规划：探索货运电动垂直起降飞行器、大载荷无人机跨海运输，全面提升物流时效
-- 海关总署：将商签更多贸易合作文件，促进进口、出口更协调
+- 金饰克价涨约28元，多家品牌金饰克价涨到1250元
+- 佳云科技：控股股东筹划控制权变更事项，股票停牌
+- WPS AI登顶TableBench方法榜
+- 3天2板华电辽能：不涉及算电协同项目
+- 宇瞳光学：拟以3000万元-6000万元回购公司股份
+- 机构今日买入紫光股份等31股，卖出中国巨石5.58亿元
+- 南网数字：预计上半年净利润同比增长1051.24%-1511.74%
+- 博腾股份：股东陶荣因非国家工作人员受贿案被取保候审
+- 立讯精密：已耗资约10亿元回购股份
+- 金安国纪：签订珠海国纪增资扩产项目投资协议 意向投资总额约20亿元
+- 凌迪科技携两大产品亮相WAIC 2026，展示物理AI仿真能力
+- 商务部新闻发言人就法国“反超快时尚”法有关问题答记者问
+- OpenAI任命两位银行巨头CEO加入公司董事会
+- 雷迪克：实控人沈仁荣拟增持不低于2000万元
+- 许继电气：中标特高压项目合计约12.45亿元
+- 万华化学：董事长提议实施2026年中期利润分配方案
+- 特朗普计划2028年起征收仿制药关税，设置两年缓冲期倒逼医药产能回迁美国
+- 乘联分会：7月1-19日全国乘用车新能源市场零售同比去年7月同期下降4%，较上月同期下降6%
+- 康隆达：股票交易异常波动，控股股东一致行动人实施减持
+- 上海：推进海洋传感器、海洋智能机器人、潜水器等关键装备研发应用
 
 ## 虎嗅 (20 条)
-- “完全没印象” 却被扣费上千元，“防不胜防” 的投保弹窗
-- 2000亿的气象经济，却养不活1万家“看天”企业
-- 人民币不背德国衰退的锅
-- 2026，AI给数学家带来危机
-- 中国GDP第10省，又易主了
-- 从爆发到IPO，这个赛道只用了一年多
-- 一位游荡者的新疆消费观察
-- 一座城市，如何长出自己的声音？
-- 别让你的 AI Agent 学会掩盖错误
-- Anthropic正在批量制造自己的张磊徐新
-- 当共识越来越快，年轻投资人在赌什么？
-- 韩国股市，连续2日熔断
-- 原来连Xbox内部都不喜欢Game Pass
-- 爆款电影，都在炒CP？
-- 我们让Kimi K3、Qwen3.8-Max 和GLM5.2共同接管了一座屎山
-- 二级市场投资人WAIC上谈AI下一轮机会：国产算力链、模型公司商业化和估值空间
-- 刚刚，耐克宣布终止滔搏线上经销权
-- 突发｜滔搏股价下跌超20%，宣布失去耐克“线上经销权”
-- 中国人不相信勒芒，但奇瑞星途ES相信
-- 上海“老破小”改造，有新玩法了
+- 暴走4天、日均3万步蹲守WAIC，我扒出了AI圈的5个“人设”
+- 蚂蚁集团组织了一支「物理AI特工队」：蚂蚁灵波具身路线的优势与困顿
+- 明治乳业把重包袱甩给瑞幸供奶商
+- 账面上钱太多了，明星Biotech大笔分红，竟引来官司
+- 从"一人一药" 到可复制流程：David Liu 等成立CTG，个性化基因编辑开始补齐产业基础设施
+- 宜家慌了，无人接盘？
+- 绣里淘金三十年，苗绣在沉浮间徘徊
+- 大资金"下班"了？
+- 临床医学报考“降温”，学医不如学兽医？
+- 当机器人开始和人一起工作，谁来保证安全？
+- AI Agent 要自己刷卡了，但“AI 支付宝”比想象中更难做，为什么？
+- 徐铜文院士：“碳中和”里的“膜”法
+- 法德日经济增长预期下调，中国上调，IMF为何看好中国？专访美联储前高级经济学家胡捷
+- 南北丰田半年易位，一汽丰田输在电动化
+- 这种死亡率高达20%的疾病，最初却总被认为是“不爱吃饭”
+- 性价比失灵，手机子品牌开启“大逃杀”
+- 杜勒斯机场能否成为美国首座世界级航空枢纽？
+- 劝几亿人科学养生的斯坦福教授，自己每天吃什么补剂？
+- OpenAI挖了苹果400人，又盯上了苹果身后的中国制造商
+- 三轮行情主线的命运：白酒→新能源→芯片
 
-## 少数派 (2 条)
+## 少数派 (4 条)
+- Parti：一个零门槛联机游戏平台，凭什么不需要服务器？
+- 滤镜背后的色彩科学：LUT 是什么？
 - 角落新声｜我的上帝模式，一名设计师创作环境的演变
 - 派早报：Google 推出 Gemini 3.6 Flash、Unity 7 引擎发布等
+
+## GitHub Trending (19 条)
+- koala73/worldmonitor
+- ruvnet/RuView
+- ayghri/i-have-adhd
+- schollz/croc
+- likec4/likec4
+- chrislgarry/Apollo-11
+- jamiepine/voicebox
+- diegosouzapw/OmniRoute
+- shiyu-coder/Kronos
+- ComposioHQ/awesome-claude-skills
+- oblien/openship
+- agegr/pi-web
+- rohitg00/ai-engineering-from-scratch
+- tirth8205/code-review-graph
+- dreamhunter2333/cloudflare_temp_email
+- DioxusLabs/dioxus
+- hyprwm/Hyprland
+- Pumpkin-MC/Pumpkin
+- dottxt-ai/outlines
