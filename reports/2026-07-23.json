@@ -2,9 +2,9 @@
   "date": "2026-07-23",
   "news": [
     {
-      "title": "美伊冲突升级，特朗普威胁打击伊朗基础设施",
-      "summary": "特朗普总统威胁称，如果伊朗继续在霍尔木兹海峡袭击，将打击伊朗的桥梁和发电厂等民用基础设施。伊朗军方回应称，将不允许本地区出口一滴石油。双方对峙加剧，此前伊朗已对美军基地造成严重伤亡，美军受伤士兵已被转移至德国治疗。多国呼吁克制，但局势持续紧张。",
-      "reason": "美伊冲突持续升级，威胁全球能源供应和地区稳定，多平台广泛关注。",
+      "title": "美伊冲突持续升级",
+      "summary": "美军完成连续第12晚对伊朗的打击行动，美国威胁轰炸伊朗民用设施，国际油价22日显著走高。伊朗方面坚决反击，中东局势持续紧张。美国海岸警卫队6艘巡逻舰也现身南海，加剧地区不确定性。冲突已导致美军多人受伤，部分伤员被转移至德国治疗。",
+      "reason": "美伊冲突持续多日，影响全球能源供应和地缘政治稳定，多平台密集报道。",
       "impact_areas": [
         "地缘",
         "经济金融"
@@ -12,44 +12,52 @@
       "impact_level": "现象级",
       "sources": [
         {
-          "name": "凤凰网",
-          "url": "https://news.ifeng.com/c/8uyvegEdrFg"
+          "name": "央视网",
+          "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1CY3VCMGozd1BYdlBjelo0Q3ZCOFlkUUlWMll1WEtFSjFzSmpHb09POGFQb3hmLU1BaUV2NHhZbWlBRmJWMnNxVE1MbzJsU1dqSy1zOVJxSkhLSTFFYmdKdTBxUW53ODdqYmtQZGd2TkV2Q3VvOFgzRA?oc=5"
         },
         {
-          "name": "BBC",
-          "url": "https://www.bbc.co.uk/news/articles/cdrv0p37k8jo"
+          "name": "凤凰网",
+          "url": "https://news.ifeng.com/c/8uzVAxenHkR"
+        },
+        {
+          "name": "财新网",
+          "url": "https://finance.caixin.com/2026-07-23/102467128.html"
         }
       ]
     },
     {
-      "title": "美沙签署历史性核协议",
-      "summary": "美国与沙特阿拉伯签署具有里程碑意义的民用核能合作协议，允许沙特进行铀浓缩和核燃料循环。该协议引发以色列担忧，可能引发中东地区核军备竞赛。沙特王储借此实现核能自主，美国则旨在巩固中东联盟并制衡伊朗。协议细节包括123条款豁免，但附加严格监督。",
-      "reason": "改变中东地缘格局，可能引发核扩散，涉及大国博弈与能源安全。",
+      "title": "菲船侵闯黄岩岛被驱离",
+      "summary": "菲律宾两艘公务船执意侵闯中国黄岩岛管辖海域，中国海警依法采取驱离措施。中国海警局发表谈话，敦促菲方立即停止侵权挑衅。此次事件是中菲南海争端的最新升级，引发国际关注。",
+      "reason": "南海主权争端再起，涉及中国核心利益，多平台热议。",
       "impact_areas": [
         "地缘",
         "政治"
       ],
-      "impact_level": "现象级",
+      "impact_level": "重大",
       "sources": [
         {
-          "name": "BBC",
-          "url": "https://www.bbc.co.uk/news/articles/cj03r59z73po"
+          "name": "澎湃新闻",
+          "url": "https://m.thepaper.cn/detail/33642501"
+        },
+        {
+          "name": "凤凰网",
+          "url": "https://news.ifeng.com/c/8uzWAyFay1R"
         }
       ]
     },
     {
-      "title": "AMD最高向AI初创Anthropic投资500亿美元",
-      "summary": "AMD宣布将向人工智能初创公司Anthropic出售价值数百亿美元的AI服务器，并计划投资高达500亿美元（含股权）。这是AI领域迄今为止最大的投资之一，显示AMD与NVIDIA在AI算力市场的争夺加剧。Anthropic是OpenAI的主要竞争对手，此交易将加速其模型训练与部署。",
-      "reason": "AI军备竞赛再升级，AMD重注押注Anthropic，影响云计算和芯片格局。",
+      "title": "AMD向Anthropic投资50亿美元",
+      "summary": "AMD宣布将向AI初创公司Anthropic投资高达50亿美元，并为其供应AI服务器芯片。这是AMD在AI领域的最大单笔投资，旨在挑战英伟达的主导地位。Anthropic将利用AMD芯片开发大模型，标志着AI算力竞争白热化。",
+      "reason": "AI军备竞赛重大事件，AMD巨额投资挑战英伟达，影响科技产业格局。",
       "impact_areas": [
         "科技",
         "经济金融"
       ],
-      "impact_level": "重大",
+      "impact_level": "现象级",
       "sources": [
         {
-          "name": "36氪",
-          "url": "https://www.36kr.com/newsflashes/3907431124653442"
+          "name": "财新网",
+          "url": "https://database.caixin.com/2026-07-23/102467185.html"
         },
         {
           "name": "Reuters",
@@ -58,73 +66,24 @@
       ]
     },
     {
-      "title": "OpenAI拟投200亿美元新建数据中心",
-      "summary": "OpenAI宣布计划投资200亿美元在美国新建数据中心，并将到2030年的算力支出预期上调至7500亿美元。此举旨在满足日益增长的AI训练和推理需求，同时也反映了AI基础设施军备竞赛的激烈程度。此前OpenAI已与微软等合作，此次自建数据中心将增强其独立性。",
-      "reason": "AI算力投入超预期，预示行业长期增长前景，影响科技产业投资方向。",
+      "title": "30年期美债收益率创近二十年之最",
+      "summary": "30年期美债收益率高于5%的天数创近二十年最多，反映市场对长期通胀和利率前景的担忧。美债收益率持续走高，对全球资产定价产生广泛影响，新兴市场货币承压，股市波动加剧。",
+      "reason": "全球资产定价核心指标异动，金融市场重大信号，影响投资者决策。",
       "impact_areas": [
-        "科技",
         "经济金融"
       ],
       "impact_level": "重大",
       "sources": [
         {
-          "name": "36氪",
-          "url": "https://www.36kr.com/newsflashes/3907429762520194"
+          "name": "财新网",
+          "url": "https://database.caixin.com/2026-07-23/102467187.html"
         }
       ]
     },
     {
-      "title": "苹果拟全面升级Mac产品线，押注AI",
-      "summary": "据报道，苹果计划对Mac产品线进行重大升级，包括采用更强大的自研芯片、增加内存和AI加速器，以支持新一代人工智能应用。此举显示苹果正积极应对AI PC浪潮，试图在个人电脑市场巩固高端地位。新款Mac预计将搭载M4系列芯片，性能显著提升。",
-      "reason": "苹果加码AI硬件，或带动PC换机潮，影响消费电子产业链。",
-      "impact_areas": [
-        "科技",
-        "经济金融"
-      ],
-      "impact_level": "重大",
-      "sources": [
-        {
-          "name": "36氪",
-          "url": "https://www.36kr.com/newsflashes/3907428945548674"
-        }
-      ]
-    },
-    {
-      "title": "加拿大山火持续，边境烟雾弥漫",
-      "summary": "加拿大安大略省山火持续肆虐，浓烟蔓延至美国边境，居民呼吸困难，抱怨当局支持不足。此次山火规模巨大，已迫使数万人撤离，空气质量恶化，对公共卫生和生态环境造成严重影响。专家指出气候变化加剧了极端火灾的发生频率和强度。",
-      "reason": "重大环境灾害，影响北美数百万居民健康，引发气候政策讨论。",
-      "impact_areas": [
-        "社会",
-        "生态"
-      ],
-      "impact_level": "重大",
-      "sources": [
-        {
-          "name": "凤凰网",
-          "url": "https://news.ifeng.com/c/8uyvrRuBEJA"
-        }
-      ]
-    },
-    {
-      "title": "特斯拉Q2营收282亿美元，同比增长26%",
-      "summary": "特斯拉发布2026年第二季度财报，营收282.36亿美元，同比增长26%，但净利润未达预期。公司警告称扩大Optimus人形机器人产量面临挑战，同时维持全年交付目标。财报发布后股价盘后下跌。投资者关注其AI和机器人业务进展。",
-      "reason": "特斯拉作为新能源汽车和AI龙头，财报影响市场情绪和行业预期。",
-      "impact_areas": [
-        "科技",
-        "经济金融"
-      ],
-      "impact_level": "重大",
-      "sources": [
-        {
-          "name": "36氪",
-          "url": "https://www.36kr.com/newsflashes/3907418005820805"
-        }
-      ]
-    },
-    {
-      "title": "日本高市政权出台首份财经方针，转向积极财政",
-      "summary": "日本高市早苗政权发布首份财经发展方针，重心转向积极财政政策和AI投资。计划加大公共支出、推动数字化转型，并设立专项基金支持半导体和AI产业。此举标志着日本经济政策从安倍经济学逐步过渡，旨在提振长期增长潜力。",
-      "reason": "日本经济政策重大转向，影响全球第三大经济体走向和金融市场。",
+      "title": "上海出台直接融资20条",
+      "summary": "上海发布直接融资20条措施，加强科技金融服务，包括推动科创板改革、设立科创主题ETF、深化债券市场“科技板”、便利科技企业再融资等。此举旨在建设直接融资试验区，支持科技创新企业发展。",
+      "reason": "地方重大金融改革政策，影响科技创新融资环境，对资本市场有直接推动作用。",
       "impact_areas": [
         "经济金融",
         "科技"
@@ -132,43 +91,107 @@
       "impact_level": "重大",
       "sources": [
         {
-          "name": "财新网",
-          "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9SNDdhSk1CTFp1YkVjTDFDQXVueGgxR1lneGZrWGRNb1hEUjNCQ3U2dWFMS3FyTnFHQVVIckhWLURBc1JNVVowMmpOcXpVTUUySm1KMm1ITUFfZURBQjZYTHZYZjFuWDA5dlE?oc=5"
+          "name": "澎湃新闻",
+          "url": "https://m.thepaper.cn/detail/33641845"
+        },
+        {
+          "name": "36氪",
+          "url": "https://www.36kr.com/newsflashes/3907691366716803"
         }
       ]
     },
     {
-      "title": "大众汽车与中国企业合作开发自动驾驶",
-      "summary": "大众汽车集团宣布与中国科技公司合作开发L4级自动驾驶系统，旨在加速在中国市场的智能化转型。合作方包括地平线等本地企业，将整合双方软硬件优势。这是大众继软件子公司CARIAD后，在中国智能驾驶领域的又一重大布局。",
-      "reason": "跨国车企加大在华自动驾驶合作，影响全球汽车产业竞争格局。",
+      "title": "日本高市政权出台首份财经方针",
+      "summary": "日本高市政权发布首份财经发展方针，重点押注AI技术，转向积极财政政策。方针包括增加AI研发投入、推动数字化转型、扩大财政支出刺激经济。这标志着日本经济政策重大转向，可能引发全球关注。",
+      "reason": "日本经济政策重大转向，重押AI和积极财政，影响全球科技竞争和金融市场。",
       "impact_areas": [
+        "经济金融",
         "科技",
-        "产业"
+        "政治"
       ],
       "impact_level": "重大",
       "sources": [
         {
           "name": "财新网",
-          "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE44UUpFOWVZVGVuS0lDaGxzTmRGTTFwMVNibktOV1pWWVJibHZlUk5ad3lQV3dXOUYxeEhiRTQ0WW1iUHU3YXF1YmJqWS1kQXltaGhyU19aZUk5Vnh3Z3dHQ182RHE?oc=5"
+          "url": "https://international.caixin.com/2026-07-23/102467130.html"
         }
       ]
     },
     {
-      "title": "特斯拉警告Optimus产量面临挑战",
-      "summary": "特斯拉在财报中警告，扩大Optimus人形机器人的产量将面临巨大工程和供应链挑战。尽管公司已在工厂部署少量机器人进行测试，但大规模量产仍需数年。这引发了市场对特斯拉机器人业务商业化前景的担忧。",
-      "reason": "人形机器人产业化进程遇阻，影响投资者对AI硬件领域的预期。",
+      "title": "金饰价格三连涨",
+      "summary": "金饰价格在3天内上涨超过40元/克，创近期新高。受全球避险情绪升温、美元走弱及央行增持黄金等因素推动，黄金需求旺盛。金价上涨对消费者购买力形成压力，并可能引发进一步通胀预期。",
+      "reason": "黄金价格连续上涨反映市场避险和通胀预期，对投资和消费有直接指导意义。",
       "impact_areas": [
-        "科技"
+        "经济金融"
       ],
       "impact_level": "重大",
       "sources": [
         {
           "name": "36氪",
-          "url": "https://www.36kr.com/newsflashes/3907425424037000"
+          "url": "https://www.36kr.com/newsflashes/3907708525958280"
+        }
+      ]
+    },
+    {
+      "title": "国泰君安控股可交换债停牌",
+      "summary": "国泰君安控股38.8亿港元零息可交换债券自7月23日起短暂停牌。同时，国泰君安国际也停牌。市场猜测可能涉及重大资产重组或债务安排，引发投资者关注。",
+      "reason": "龙头券商停牌可能涉及重大事项，对金融市场有直接扰动。",
+      "impact_areas": [
+        "经济金融"
+      ],
+      "impact_level": "重大",
+      "sources": [
+        {
+          "name": "雪球热帖（新浪财经）",
+          "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxONlg5WTVvS0oyb3htdThSeTB3LURHelk3OGZjbklGV3NxSkUxRnJjQUxGQkxuT2Vsd0tiN0VPVnAtdDJMZzZBNHBnQ3pESmFPNGxqTU1VT191Y3hOOE5mbjJuampUXy1pMmxLbTAtTWFfUzNGeDVhNzRCQkxLYzBjSjg3dHVLOGc?oc=5"
+        },
+        {
+          "name": "雪球热帖（新浪财经）",
+          "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQdmdIMXZDZ1BIQlIwWElJYlJTZEdBbkphRG1TdlZGcTlmcHRHc0lnR1VEZjV4cm5nUkFsS0F5QXgyckZXRUlJZmtXZmVmaDQ4dGd2eFQ3cDkzZGJsVnhGOXZZQXhIeGxkOVlfYUg0d1ZTZ2ZLcWdTbE5nTEhMR2pndHpjUDlvelU?oc=5"
+        }
+      ]
+    },
+    {
+      "title": "胡塞武装宣称打击沙特油轮",
+      "summary": "胡塞武装宣布对两艘沙特油轮发动打击，红海航运安全再受威胁。此举是胡塞武装对沙特参与打击伊朗的报复，可能进一步推高油价，并影响全球能源运输通道。",
+      "reason": "红海航运安全受威胁，直接影响全球石油运输和油价，地缘风险升级。",
+      "impact_areas": [
+        "地缘",
+        "经济金融"
+      ],
+      "impact_level": "重大",
+      "sources": [
+        {
+          "name": "凤凰网",
+          "url": "https://news.ifeng.com/c/8uzNpxsnA93"
+        },
+        {
+          "name": "BBC",
+          "url": "https://www.bbc.co.uk/news/articles/cpw9xzx9r4ko?at_medium=RSS&at_campaign=rss"
+        }
+      ]
+    },
+    {
+      "title": "美海岸警卫队巡逻舰现身南海",
+      "summary": "美国海岸警卫队6艘巡逻舰出现在南海，专家分析此举意在加强美国在南海的军事存在，配合美军行动。南海局势因菲律宾侵闯和美舰现身更加复杂，地区紧张加剧。",
+      "reason": "美国军事力量在南海加强部署，与菲律宾行动形成联动，地缘风险升温。",
+      "impact_areas": [
+        "地缘",
+        "政治"
+      ],
+      "impact_level": "重大",
+      "sources": [
+        {
+          "name": "凤凰网",
+          "url": "https://news.ifeng.com/c/8uzT3ReTDxc"
+        },
+        {
+          "name": "澎湃新闻",
+          "url": "https://m.thepaper.cn/detail/33642339"
         }
       ]
     }
   ],
-  "total_fetched": 203,
-  "generated_at": "2026-07-23T07:26:26.688773+08:00"
+  "total_fetched": 293,
+  "generated_at": "2026-07-23T12:26:33.751456+08:00"
 }
