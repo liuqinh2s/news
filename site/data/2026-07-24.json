@@ -1,0 +1,210 @@
+{
+  "date": "2026-07-24",
+  "news": [
+    {
+      "title": "伊美冲突升级油价破百",
+      "summary": "胡塞武装袭击沙特油轮，红海局势恶化推动国际油价突破100美元/桶。美伊相互袭击民用设施，美国参议院否决限制特朗普对伊战争权力的决议案，中东全面战争风险加剧。多国谴责以色列，伊朗威胁封锁霍尔木兹海峡，全球经济面临严重冲击。",
+      "reason": "伊美冲突持续升级，油价破百冲击全球经济，多平台跨天报道，热度极高。",
+      "impact_areas": [
+        "地缘",
+        "经济金融"
+      ],
+      "impact_level": "现象级",
+      "sources": [
+        {
+          "name": "NYTimes",
+          "url": "https://www.nytimes.com/live/2026/07/23/world/iran-war-strikes-oil-trump"
+        },
+        {
+          "name": "BBC",
+          "url": "https://www.bbc.co.uk/news/articles/cpw9xzx9r4ko?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "name": "凤凰网",
+          "url": "https://news.ifeng.com/c/8v0ZzHlYcma"
+        },
+        {
+          "name": "澎湃新闻",
+          "url": "https://m.thepaper.cn/detail/33646279"
+        }
+      ]
+    },
+    {
+      "title": "美国新关税措施24日生效",
+      "summary": "美国公布针对60个经济体的新关税措施，以“强迫劳动”为由加税，于7月24日正式生效。加拿大表示将考虑报复，全球贸易战进一步升级。此举可能推高通胀，影响全球供应链。",
+      "reason": "特朗普关税战升级，涉及广泛经济体，今天生效，经济影响重大。",
+      "impact_areas": [
+        "经济金融",
+        "政治"
+      ],
+      "impact_level": "现象级",
+      "sources": [
+        {
+          "name": "澎湃新闻",
+          "url": "https://m.thepaper.cn/detail/33649069"
+        },
+        {
+          "name": "财新网",
+          "url": "https://international.caixin.com/2026-07-24/102467429.html"
+        },
+        {
+          "name": "36氪",
+          "url": "https://www.36kr.com/newsflashes/3908825170171271"
+        }
+      ]
+    },
+    {
+      "title": "谷歌特斯拉暴跌AI支出引担忧",
+      "summary": "Alphabet和特斯拉股价大幅下跌，谷歌跌超5%，特斯拉跌超14%，主要因AI投资烧钱引发市场担忧。Alphabet的现金消耗率升高，特斯拉财报不及预期，科技股遭重挫。纳斯达克指数下跌，全球科技板块承压。",
+      "reason": "科技巨头暴跌反映市场对AI盈利前景担忧，影响全球科技投资情绪。",
+      "impact_areas": [
+        "经济金融",
+        "科技"
+      ],
+      "impact_level": "重大",
+      "sources": [
+        {
+          "name": "BBC",
+          "url": "https://www.bbc.co.uk/news/articles/c235n47g8g8o?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "name": "Reuters",
+          "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQclM4V2JONWFuTXYzY1IyV29PSWlsVjRFMnF4SzhxNl83UHduNTZWVTRSLThVYkZJUFZCc1FLQTRoY3RJUHE0MFdUN0ZwelhkWFlGdFRBOUxRdkNtVkpJTGNkZTE5NmZfOUJkSWtSQnFKb2Q3ZjNvZ0NGYXY3MG96LVpCS1FvVXFmMDc3aU5tZFgwaDZTRW5XdGw1QkVnOTNvSUg2aHVVRFJNRHpDbHI3c1cybmpsTlp4NEh5b0tn?oc=5"
+        },
+        {
+          "name": "36氪",
+          "url": "https://www.36kr.com/newsflashes/3908817882092677"
+        }
+      ]
+    },
+    {
+      "title": "王虹邓煜获菲尔兹奖",
+      "summary": "中国数学家王虹、邓煜荣获2026年菲尔兹奖，这是中国学者首次获得该奖项，实现历史性突破。北京大学发文祝贺，另有两名获奖者会中文。菲尔兹奖被视为数学界最高荣誉，此次突破标志着中国基础科学实力提升。",
+      "reason": "中国学者首次获菲尔兹奖，中国数学界历史性突破，多平台报道，社会关注度高。",
+      "impact_areas": [
+        "科技",
+        "社会"
+      ],
+      "impact_level": "现象级",
+      "sources": [
+        {
+          "name": "澎湃新闻",
+          "url": "https://m.thepaper.cn/detail/33649210"
+        },
+        {
+          "name": "凤凰网",
+          "url": "https://news.ifeng.com/c/8v0OQMez5A0"
+        },
+        {
+          "name": "36氪",
+          "url": "https://www.36kr.com/newsflashes/3908366406358151"
+        }
+      ]
+    },
+    {
+      "title": "美政府拨款50亿美元AI研究",
+      "summary": "美国政府宣布向人工智能科学研究领域拨款50亿美元，旨在加强AI基础研究，保持技术领先。此举被视为应对中国AI崛起的举措，同时可能推动AI监管法案的推进。",
+      "reason": "美国大规模政府AI投资，影响全球AI竞争格局和产业发展方向。",
+      "impact_areas": [
+        "科技",
+        "政治"
+      ],
+      "impact_level": "重大",
+      "sources": [
+        {
+          "name": "36氪",
+          "url": "https://www.36kr.com/newsflashes/3908373362529673"
+        }
+      ]
+    },
+    {
+      "title": "特朗普要沙特承认以色列换核协议",
+      "summary": "特朗普表示，沙特必须承认以色列才能获得美国核协议支持。沙特陷入两难，中东和平进程和核不扩散体系面临挑战。美沙关系出现新变数。",
+      "reason": "中东地缘政治重大动向，影响沙特、以色列关系和核不扩散格局。",
+      "impact_areas": [
+        "地缘",
+        "政治"
+      ],
+      "impact_level": "重大",
+      "sources": [
+        {
+          "name": "BBC",
+          "url": "https://www.bbc.co.uk/news/articles/cwye71yq8wwo?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "name": "Reuters",
+          "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPaFEtb2pVRzJFQThOZGROZ0hBV0pQUHNWSE1kZkFIdG9nV3d4eHBHUXlaTW1jQlpKVmNmV2twYmQ4VjJ1WDNPeW4tOXYtamtJeXk4STFCWk5CS09yUDBoRENzakZmR1FXbXdTcy0zbGdneURkUWphR1p0bTZxOUszS3Z5TXkxQnBwYjlBYVpXSEJCR3cyR3dZZTYwQktlTDJ1ejNpYklIQmlESXJCempEYUR4UWJXX2QyR1lwVGdiUmtMYU5NdzE2UDBn?oc=5"
+        },
+        {
+          "name": "NYTimes",
+          "url": "https://www.nytimes.com/2026/07/23/world/middleeast/trump-saudi-arabia-palestinian-state.html"
+        }
+      ]
+    },
+    {
+      "title": "台风红霞即将登陆粤闽",
+      "summary": "中央气象台发布台风、暴雨等四预警，第3号台风“红霞”预计24日在广东福建沿海登陆，风力强，带来强降雨。当地启动应急响应，学校停课，航班取消。",
+      "reason": "台风登陆直接影响数千万人，带来灾害风险，社会关注度高。",
+      "impact_areas": [
+        "社会"
+      ],
+      "impact_level": "重大",
+      "sources": [
+        {
+          "name": "澎湃新闻",
+          "url": "https://m.thepaper.cn/detail/33649231"
+        }
+      ]
+    },
+    {
+      "title": "LG新能源起诉亿纬锂能",
+      "summary": "韩国LG新能源向中国电池企业亿纬锂能提起专利诉讼，指控其侵犯电池技术专利。亿纬锂能回应将积极应诉。此案可能影响中国锂电池企业的海外市场拓展和行业竞争格局。",
+      "reason": "影响锂电池全球知识产权竞争，可能改变供应链格局。",
+      "impact_areas": [
+        "科技",
+        "经济金融"
+      ],
+      "impact_level": "重大",
+      "sources": [
+        {
+          "name": "36氪",
+          "url": "https://www.36kr.com/newsflashes/3908369597961353"
+        }
+      ]
+    },
+    {
+      "title": "黄仁勋力挺中国AI开源模型",
+      "summary": "英伟达CEO黄仁勋公开表示支持中国AI开源模型发展，认为开源将加速全球AI创新。此举在中美科技竞争背景下备受关注，可能影响AI芯片出口政策。",
+      "reason": "AI领袖表态影响行业风向，涉及中美科技竞争，信号意义强。",
+      "impact_areas": [
+        "科技",
+        "政治"
+      ],
+      "impact_level": "重大",
+      "sources": [
+        {
+          "name": "36氪",
+          "url": "https://www.36kr.com/newsflashes/3908367829095555"
+        }
+      ]
+    },
+    {
+      "title": "Intel二季度营收增25%",
+      "summary": "英特尔公布2026年第二季度财报，营收161.3亿美元，同比增长25%，超出预期。但市场对AI转型仍有疑虑。",
+      "reason": "芯片巨头财报反映行业景气度，对市场有指引作用。",
+      "impact_areas": [
+        "科技",
+        "经济金融"
+      ],
+      "impact_level": "重大",
+      "sources": [
+        {
+          "name": "36氪",
+          "url": "https://www.36kr.com/newsflashes/3908827408504193"
+        }
+      ]
+    }
+  ],
+  "total_fetched": 215,
+  "generated_at": "2026-07-24T07:25:57.215253+08:00"
+}
