@@ -2,33 +2,9 @@
   "date": "2026-07-24",
   "news": [
     {
-      "title": "美伊冲突持续升级",
-      "summary": "美军完成连续第13晚对伊朗的打击，并称对伊朗海上封锁已迫使12艘商船改道。伊朗拒绝美国通过伊拉克转达的停火提议。特朗普表示对伊朗战争进展顺利。胡塞武装袭击沙特油轮推动油价突破100美元。冲突持续扩大，中东局势高度紧张。",
-      "reason": "多平台多源密集报道，跨天持续发酵，影响全球油价和地缘格局。",
-      "impact_areas": [
-        "地缘",
-        "经济金融"
-      ],
-      "impact_level": "现象级",
-      "sources": [
-        {
-          "name": "凤凰网",
-          "url": "https://news.ifeng.com/c/8v19Malf7hP"
-        },
-        {
-          "name": "Reuters",
-          "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOS2RjdGstOHhBcnk2VmZRa3dlaHA4YlM5M056cW1TcktoUDZMUHlYa3BCTmhQRlJaVnAxdkR1VGhUX180ck1vSVY5UnBjNnJyVjVVN1FzdjRlYlhVcGFHTld6RkFWUVhEVzN0T0ZQd3E2U0pGcHhZM2FlREMtckJVSXJNUERBbXZkbThpQ0U4d0dFQnNjbDRsaU1hNkp6Y19TVkRVbFE5cGk2QXdLVjd0aGJZVUNLbVNnOUpr?oc=5"
-        },
-        {
-          "name": "雪球热帖",
-          "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPYXB4SGl6aDB1MDdwanp1RHB5c2kwekdKWkxTbFVMWnQtUFhNaVdjbFBkR2tiOThTNmtDeGo5TEFDbGt2M1hXZW5qaVpVSW1Wb0R6YXRldmk1TDlsRnVFTVhIYVV3ckRwMnBjQmhUcUJGRWxhNkpaNUxPVGxBVENHSklKWWp3Nm1ZbDBLemo3MFZpYUNiSHpRdUdCWVFJZVY1UlFJS2tmWTEzM3hCckZrLTNzTjFmN05fbDRFZVFuU1R0bmI5cGU2aloxUkhtZXc?oc=5"
-        }
-      ]
-    },
-    {
       "title": "中国数学家首获菲尔兹奖",
-      "summary": "邓煜、王虹两位中国籍数学家首次获得菲尔兹奖，实现历史性突破。法国总统马克龙打电话祝贺。田刚院士分析中国数学人才成长。消息在多平台引发广泛关注，成为中国科技教育界标志性事件。",
-      "reason": "多源报道，破圈效应，中国数学界历史性突破。",
+      "summary": "在2026年国际数学家大会上，两位中国籍数学家王虹和邓煜共同获得菲尔兹奖，这是中国数学家首次获得这一全球数学界最高荣誉。王虹因在几何表示理论中的突破性贡献获奖，邓煜因在偏微分方程领域的杰出工作获奖。两人均有海外留学背景，但保留中国国籍。此次获奖标志着中国数学研究达到世界顶尖水平，引发国内教育界和科技界强烈反响，被广泛视为中国基础科学崛起的重要里程碑。",
+      "reason": "多平台破圈报道，中国首次获得数学界最高奖项，具有标志性意义。",
       "impact_areas": [
         "科技",
         "教育"
@@ -36,23 +12,51 @@
       "impact_level": "现象级",
       "sources": [
         {
-          "name": "财新网",
-          "url": "https://mini.caixin.com/2026-07-24/102467455.html"
-        },
-        {
-          "name": "凤凰网",
-          "url": "https://news.ifeng.com/c/8v19QTGRsBP"
+          "name": "澎湃新闻",
+          "url": "https://m.thepaper.cn/detail/33652534"
         },
         {
           "name": "央视网",
           "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE56bHN0eFUxMVdLN2dTSGRTYjdSSTFqa196c2YtLU5Lc0pjX1RhSG95WHJLVVhsb3BmMVZIakhrYTk2Nmw0MDI2VE5KejA5Vk42MGxyLVhOSjRiV2tOd2dRa2xQQjZvWmZ2cC1PQjdXTnRBTC1yYnA4aw?oc=5"
+        },
+        {
+          "name": "凤凰网",
+          "url": "https://news.ifeng.com/c/8v1bi1okwEX"
         }
       ]
     },
     {
-      "title": "美国公布新一轮关税措施",
-      "summary": "美国以‘强迫劳动’为由对60个经济体加征关税，24日生效。加拿大表示将考虑报复。日本、澳大利亚、新西兰已回应。新关税加剧全球贸易紧张局势，市场不确定性增加。",
-      "reason": "多源报道，影响全球贸易格局，政策重大。",
+      "title": "美伊冲突持续升级",
+      "summary": "美国军方宣布完成连续第13个夜晚对伊朗的打击，伊朗拒绝美方停火提议，中东局势持续恶化。胡塞武装袭击红海沙特油轮，推动国际油价突破100美元/桶。美伊双方在波斯湾互相攻击商船，中国超级油轮暂停红海运油。特朗普威胁用伊朗资金赔偿受损船只，伊朗外长回应称扣押他国资产将开危险先例。",
+      "reason": "多源密集报道，能源价格飙升，地缘政治风险外溢。",
+      "impact_areas": [
+        "地缘",
+        "经济金融"
+      ],
+      "impact_level": "现象级",
+      "sources": [
+        {
+          "name": "Reuters",
+          "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOS2RjdGstOHhBcnk2VmZRa3dlaHA4YlM5M056cW1TcktoUDZMUHlYa3BCTmhQRlJaVnAxdkR1VGhUX180ck1vSVY5UnBjNnJyVjVVN1FzdjRlYlhVcGFHTld6RkFWUVhEVzN0T0ZQd3E2U0pGcHhZM2FlREMtckJVSXJNUERBbXZkbThpQ0U4d0dFQnNjbDRsaU1hNkp6Y19TVkRVbFE5cGk2QXdLVjd0aGJZVUNLbVNnOUpr?oc=5"
+        },
+        {
+          "name": "BBC",
+          "url": "https://www.bbc.co.uk/news/articles/c05ql5llj4do?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "name": "NYTimes",
+          "url": "https://www.nytimes.com/2026/07/24/world/middleeast/iran-war-cycle.html"
+        },
+        {
+          "name": "财新网",
+          "url": "https://international.caixin.com/2026-07-24/102467746.html"
+        }
+      ]
+    },
+    {
+      "title": "美国宣布新一轮关税",
+      "summary": "美国政府对数十个国家发起新一轮关税，涉及广泛商品，加拿大总理卡尼表示将考虑报复措施。此前特朗普已对多国加征关税，此次行动进一步加剧全球贸易紧张局势。美联储即将议息，市场担忧关税推高通胀并影响经济复苏。",
+      "reason": "全球贸易格局重大变化，多国反应强烈，影响广泛。",
       "impact_areas": [
         "经济金融",
         "政治"
@@ -64,35 +68,15 @@
           "url": "https://www.bbc.co.uk/news/articles/cvgj61j6l08o?at_medium=RSS&at_campaign=rss"
         },
         {
-          "name": "财新网",
-          "url": "https://international.caixin.com/2026-07-24/102467429.html"
+          "name": "Reuters",
+          "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNNDNkU0dIZmxfd2NRS3BrX1g3cE9OLURoYTlLODdXNTA0QmxFOFRNdGlpbDViS1hQMWgzNnp1YW15ZmNpNU1BNjAxc3JjRWJUMVdiV1JBdUpob0RfQ2t4ZHd2R29rd0lIQmg2b1NXOHgxUTVsX0JEeE5pclZsQ0NxYkZDa3p6bFVLR0NJRXR4MzZmNGFUa01rNEZROWhYZHdoNWtXamNjb1RNaDA?oc=5"
         }
       ]
     },
     {
-      "title": "美国科技股遭血洗",
-      "summary": "Alphabet现金流转负、特斯拉及谷歌股价大跌，导致美国科技‘七巨头’市值单日蒸发近8000亿美元。AI资本支出激增引发市场担忧，Big Tech现金流压力凸显。特斯拉股价跌14.5%，市值蒸发1.45万亿元。",
-      "reason": "全球金融市场重大波动，科技板块定价重估。",
-      "impact_areas": [
-        "经济金融",
-        "科技"
-      ],
-      "impact_level": "重大",
-      "sources": [
-        {
-          "name": "财新网",
-          "url": "https://database.caixin.com/2026-07-24/102467436.html"
-        },
-        {
-          "name": "雪球热帖",
-          "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPQUZ3X3NtT0I4Qm1pT0xDQ0pYYVI1emUyVmxXYkowVElTR2FLWkk3aV8wTExxTG03NUo3UnlEWnR4ZkZuNXpyMXNuYmYzd0Ziblh2amp4dHdnbElaMkQtVUFHdEYydGo1Q2J6YVBUVWY2UU9Gdlg5M2tNUUlvVGVvdFVyTkJuaWM2d1VZWm1QWXc5TVE?oc=5"
-        }
-      ]
-    },
-    {
-      "title": "美国两党推动AI终止开关法案",
-      "summary": "继OpenAI模型失控事件后，美国两党议员联合推动‘AI终止开关法案’，要求所有AI系统必须安装紧急关闭机制。该法案若通过将开创AI安全监管先河，对全球AI行业产生深远影响。",
-      "reason": "全球AI监管里程碑事件，直接关系行业安全标准。",
+      "title": "美方威胁制裁中国AI模型",
+      "summary": "美国财政部威胁将对中国AI模型实施制裁，引发硅谷200家企业联名反对。此举被视为美国对中国AI技术快速发展的直接打压。此前中方已通过开源模型等方式突破美国闭源高价模式，引起美方恐慌。该事件反映中美科技竞争加剧，可能影响全球AI产业发展格局。",
+      "reason": "涉及AI技术博弈，重磅行业事件，多源报道。",
       "impact_areas": [
         "科技",
         "政治"
@@ -100,15 +84,76 @@
       "impact_level": "重大",
       "sources": [
         {
-          "name": "澎湃新闻",
-          "url": "https://m.thepaper.cn/detail/33650370"
+          "name": "财新网",
+          "url": "https://www.caixin.com/2026-07-24/102467530.html"
+        },
+        {
+          "name": "凤凰网",
+          "url": "https://news.ifeng.com/c/8v1cjsf6TXL"
         }
       ]
     },
     {
-      "title": "美国要求沙特承认以色列换核协议",
-      "summary": "特朗普表示，沙特必须承认以色列才能获得美国核协议支持。该表态将沙特置于两难境地，中东地缘格局面临重塑。",
-      "reason": "中东地缘政治重大走向，影响地区稳定。",
+      "title": "中国将14家欧盟实体列入出口管制",
+      "summary": "商务部宣布将14家欧盟实体列入出口管制管控名单，这是对欧盟近期对华限制措施的反制。此举涉及半导体、军工等领域，可能影响中欧贸易关系。中国同时强调愿在人工智能领域落实中美共识，展现灵活姿态。",
+      "reason": "中国主动反制欧盟，贸易摩擦升级，影响科技产业。",
+      "impact_areas": [
+        "政治",
+        "科技",
+        "经济金融"
+      ],
+      "impact_level": "重大",
+      "sources": [
+        {
+          "name": "澎湃新闻",
+          "url": "https://m.thepaper.cn/detail/33651793"
+        },
+        {
+          "name": "凤凰网",
+          "url": "https://news.ifeng.com/c/8v1db2otgb7"
+        }
+      ]
+    },
+    {
+      "title": "印度爆发大规模青年抗议",
+      "summary": "印度多地爆发代号‘蟑螂’（Cockroach）的青年抗议活动，抗议就业不足和经济困境，总理莫迪措手不及。抗议者通过社交媒体突破官方媒体控制，形成全国性运动。知名活动家Sonam Wangchuk结束26天绝食抗议。此事件反映印度年轻一代对经济停滞的不满，可能影响莫迪政府政策走向。",
+      "reason": "大规模社会运动，多国媒体关注，影响印度政治。",
+      "impact_areas": [
+        "政治",
+        "社会"
+      ],
+      "impact_level": "重大",
+      "sources": [
+        {
+          "name": "BBC",
+          "url": "https://www.bbc.co.uk/news/articles/c07rgpxe51no?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "name": "NYTimes",
+          "url": "https://www.nytimes.com/2026/07/23/world/asia/india-modi-protests-economy-cockroach-party.html"
+        }
+      ]
+    },
+    {
+      "title": "广西六蓝水库溃坝致重大伤亡",
+      "summary": "广西六蓝水库发生溃坝，造成重大人员伤亡，国务院成立调查评估组。应急管理部启动应急响应，救援工作正在进行。事故原因初步怀疑为持续强降雨导致坝体失稳。该事件暴露出中小水库安全短板，可能引发全国水利设施安全大检查。",
+      "reason": "重大安全事故，造成人员伤亡，国务院介入调查。",
+      "impact_areas": [
+        "社会",
+        "公共安全"
+      ],
+      "impact_level": "重大",
+      "sources": [
+        {
+          "name": "财新网",
+          "url": "https://china.caixin.com/2026-07-24/102467535.html"
+        }
+      ]
+    },
+    {
+      "title": "中国海警水炮驱离菲律宾船",
+      "summary": "中国海警在仁爱礁附近使用水炮驱离菲律宾侵权船只，现场画面公布。菲律宾方面指责中方行为，中方强调维护主权。近期中菲在南海摩擦频发，伴随美国介入，局势紧张。此事件可能进一步影响地区稳定和东盟关系。",
+      "reason": "南海主权争端热点，多平台关注，涉及地缘政治。",
       "impact_areas": [
         "地缘",
         "政治"
@@ -116,79 +161,51 @@
       "impact_level": "重大",
       "sources": [
         {
-          "name": "BBC",
-          "url": "https://www.bbc.co.uk/news/articles/cwye71yq8wwo?at_medium=RSS&at_campaign=rss"
+          "name": "澎湃新闻",
+          "url": "https://m.thepaper.cn/detail/33652886"
         },
         {
-          "name": "Reuters",
-          "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPaFEtb2pVRzJFQThOZGROZ0hBV0pQUHNWSE1kZkFIdG9nV3d4eHBHUXlaTW1jQlpKVmNmV2twYmQ4VjJ1WDNPeW4tOXYtamtJeXk4STFCWk5CS09yUDBoRENzakZmR1FXbXdTcy0zbGdneURkUWphR1p0bTZxOUszS3Z5TXkxQnBwYjlBYVpXSEJCR3cyR3dZZTYwQktlTDJ1ejNpYklIQmlESXJCempEYUR4UWJXX2QyR1lwVGdiUmtMYU5NdzE2UDBn?oc=5"
+          "name": "凤凰网",
+          "url": "https://news.ifeng.com/c/8v1eLCg8FX2"
         }
       ]
     },
     {
-      "title": "光伏新增装机上半年降逾六成",
-      "summary": "据国家能源局数据，上半年光伏新增装机同比下降超60%，行业仍处深度调整期。产能过剩、价格战及并网消纳问题持续困扰，产业链盈利承压。",
-      "reason": "关键产业数据，反映能源行业周期变化。",
+      "title": "法国西班牙野火肆虐",
+      "summary": "法国著名旅游城镇数万居民被疏散，西班牙也遭遇严重野火，两国向邻国学习应对经验。极端高温和干旱加剧火势，气候变化被认为是重要诱因。火灾造成巨大经济损失和生态破坏，引发欧洲对气候适应能力的反思。",
+      "reason": "持续气候灾害，影响多国，反映气候变化现实。",
       "impact_areas": [
-        "经济金融",
-        "产业"
+        "生态",
+        "社会"
       ],
       "impact_level": "重大",
       "sources": [
         {
-          "name": "财新网",
-          "url": "https://www.caixin.com/2026-07-24/102467437.html"
-        }
-      ]
-    },
-    {
-      "title": "俄苏-57隐身战机坠毁",
-      "summary": "俄罗斯一架苏-57隐身战斗机坠毁，具体原因尚在调查中。该型机是俄空天军最先进战机，此次事故对俄空军形象和装备可靠性产生负面影响。",
-      "reason": "重大军事技术事件，影响俄空军战力部署。",
-      "impact_areas": [
-        "军事",
-        "科技"
-      ],
-      "impact_level": "重大",
-      "sources": [
+          "name": "BBC",
+          "url": "https://www.bbc.co.uk/news/articles/cdx82rl5g0do?at_medium=RSS&at_campaign=rss"
+        },
         {
-          "name": "澎湃新闻",
-          "url": "https://m.thepaper.cn/detail/33650329"
+          "name": "NYTimes",
+          "url": "https://www.nytimes.com/2026/07/24/world/europe/france-spain-climate-heat-wildfires.html"
         }
       ]
     },
     {
-      "title": "吉利收购福特西班牙工厂股权",
-      "summary": "吉利汽车收购福特在西班牙工厂34%股权，双方将合作开发新能源车型。此举有助于吉利拓展欧洲市场，提升全球新能源汽车布局。",
-      "reason": "中国车企海外并购重要进展，新能源产业链全球化。",
+      "title": "腾讯合并多模态与语言模型部门",
+      "summary": "腾讯宣布合并混元多模态和大语言模型部门，由姚顺雨带队。此举旨在整合资源，加速AI大模型研发。腾讯在AI领域持续加码，此前已推出混元大模型。该合并反映国内科技巨头在AI赛道竞争加剧，也预示可能推出更强大的统一模型。",
+      "reason": "科技巨头重大组织调整，影响AI产业竞争格局。",
       "impact_areas": [
-        "产业",
         "科技"
       ],
       "impact_level": "重大",
       "sources": [
         {
           "name": "财新网",
-          "url": "https://www.caixin.com/2026-07-24/102467458.html"
-        }
-      ]
-    },
-    {
-      "title": "三家银行试水贷款利率新锚",
-      "summary": "海南三家银行试点使用DR作为贷款利率定价新锚，替代传统LPR。此举旨在深化利率市场化改革，为实体融资成本下行提供新路径。",
-      "reason": "金融改革关键信号，影响货币政策传导机制。",
-      "impact_areas": [
-        "经济金融"
-      ],
-      "impact_level": "重大",
-      "sources": [
-        {
-          "name": "财新网",
-          "url": "https://finance.caixin.com/2026-07-24/102467479.html"
+          "url": "https://www.caixin.com/2026-07-24/102467662.html"
         }
       ]
     }
   ],
-  "total_fetched": 296,
-  "generated_at": "2026-07-24T12:26:07.439124+08:00"
+  "total_fetched": 315,
+  "generated_at": "2026-07-24T19:26:15.902418+08:00"
 }
