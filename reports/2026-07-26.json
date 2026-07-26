@@ -2,105 +2,53 @@
   "date": "2026-07-26",
   "news": [
     {
-      "title": "台风红霞登陆广东",
-      "summary": "2026年7月26日，今年第3号台风“红霞”在广东惠州沿海登陆，中心附近最大风力14级（强台风级）。深圳发布台风红色预警，多地出现强风暴雨，沿海地区浪高数米，部分建筑受损，交通受阻。预计后续将深入内陆，带来强降雨。",
-      "reason": "强台风直接登陆人口经济密集区，多平台密集报道，影响数百万居民生活。",
+      "title": "伊朗冲突现缓和迹象",
+      "summary": "特朗普下令暂停对伊朗空袭，伊朗革命卫队称已摧毁11架美军飞机并披露美军死亡人数。伊朗官员表示镐山设施目前为空，革命卫队警告英国若继续支持美军将成为打击目标。乌军袭击伊朗商船导致伊方召见乌方临时代办。美伊双方释放缓和信号，但局势仍然紧张。",
+      "reason": "伊朗冲突是多平台持续热点，影响全球地缘政治和能源市场，特朗普暂停空袭标志重大转折。",
       "impact_areas": [
-        "社会",
-        "经济金融"
-      ],
-      "impact_level": "重大",
-      "sources": [
-        {
-          "name": "澎湃新闻",
-          "url": "https://m.thepaper.cn/detail/33660641"
-        },
-        {
-          "name": "凤凰网",
-          "url": "https://news.ifeng.com/c/8v43WtfZZMj"
-        },
-        {
-          "name": "央视网",
-          "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9jQkFPN2ROMUVYSlJrX2V0LUQwTlVQb1hmalJTY1V0MFdaVVZ4V3BOU2t1cHh3cm1icTAtZ2N2WEpRWW1od3FueWVKZUs3aUUwcThQZUNVVllqTDZNN01lVm9SY2E4Uld4ZFBTdFg0U3RySWNOTVBGeA?oc=5"
-        }
-      ]
-    },
-    {
-      "title": "特朗普暂停空袭伊朗",
-      "summary": "据多家媒体报道，美国总统特朗普已下令暂停对伊朗的空袭行动，此前美伊双方在波斯湾地区发生多起交火。白宫顾问对局势升级表示担忧，认为全面战争风险过高。伊朗方面称其核设施“目前是空的”，暗示已转移关键设备。暂停空袭为外交斡旋留下空间，但双方代理人攻击仍在继续。",
-      "reason": "美伊冲突直接牵动全球地缘政治与油价，多源密切报道且跨平台热门。",
-      "impact_areas": [
-        "地缘政治",
-        "经济金融"
+        "政治",
+        "地缘"
       ],
       "impact_level": "现象级",
       "sources": [
-        {
-          "name": "澎湃新闻",
-          "url": "https://m.thepaper.cn/detail/33660464"
-        },
-        {
-          "name": "凤凰网",
-          "url": "https://news.ifeng.com/c/8v3l5OTYhNm"
-        },
         {
           "name": "央视网",
           "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1oYkkxVE1mZm1RUUd5SzJISml4U0lja2VYT0tFN0xLc0Vid1lOY09RRlF0R3VZX1pGX1g2WGQ3aUh6ZVl0akY1b01Ma3ExWW9fZktGRDgwLXFwc0RQY3gycnVZQ2xjNkc4SXlCNFo0SDN4WnVvc3ZwNA?oc=5"
         },
         {
-          "name": "NYTimes",
-          "url": "https://www.nytimes.com/2026/07/25/us/politics/trump-iran-military.html"
+          "name": "凤凰网",
+          "url": "https://news.ifeng.com/c/8v4Pd3iJiZ7"
+        },
+        {
+          "name": "央视网",
+          "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5ZVndxQzdTS1BNQk5yWXNVWl9WYWtkNFVraWhRYXFkaVgxNmxHSEdmY3VzYmF5RWFoNmo3VUZkblgtcHBvc1k2ZXcxVEdDOUQ1eWNDbXVySURCSGh0VmxaVFU2N2FVb0FCMFc5Qk51aWRHR0NRcWZRLQ?oc=5"
         }
       ]
     },
     {
-      "title": "欧洲野火数十万人撤离",
-      "summary": "法国和西班牙遭遇创纪录森林大火，野火在高温干旱条件下迅速蔓延，已迫使超过25万人撤离家园。法国政坛因救灾不力争吵，西班牙请求国际援助，八国已派出救援力量。波尔多附近葡萄酒产区受到威胁，烟雾笼罩多座城市。这是欧洲近年来最严重的野火季之一。",
-      "reason": "大规模灾害，影响数十万人，多国联动应对，多平台连续报道。",
+      "title": "台风红霞登陆广东",
+      "summary": "台风红霞在广东惠州登陆，带来强风暴雨，防护栏被吹倒，车辆泡水。香港亦受波及，树枝被吹断。国家防灾减灾救灾委员会启动四级救灾应急响应指导广东开展救助。广东惠来发布龙卷风警报。",
+      "reason": "台风直接侵袭人口经济密集区，国家启动应急响应，影响数千万人生活。",
       "impact_areas": [
         "社会",
-        "生态",
-        "经济金融"
+        "生态"
       ],
-      "impact_level": "现象级",
+      "impact_level": "重大",
       "sources": [
-        {
-          "name": "BBC",
-          "url": "https://www.bbc.co.uk/news/articles/cd7le0d53y2o?at_medium=RSS&at_campaign=rss"
-        },
-        {
-          "name": "NYTimes",
-          "url": "https://www.nytimes.com/live/2026/07/25/world/france-spain-wildfires-evacuations"
-        },
         {
           "name": "凤凰网",
-          "url": "https://news.ifeng.com/c/8v3i7DyZFTr"
-        }
-      ]
-    },
-    {
-      "title": "柏林汽车冲撞致多人伤",
-      "summary": "德国柏林发生一起汽车冲撞行人事件，一辆汽车冲入一个LGBTQ+骄傲活动人群，造成至少1人死亡、多人受伤。警方逮捕了嫌疑人，初步调查认为可能具有极端主义背景。事件引发对公共安全与仇恨犯罪的讨论。",
-      "reason": "直接针对人群的暴力事件，引发安全担忧，多源报道且社会关注度高。",
-      "impact_areas": [
-        "社会"
-      ],
-      "impact_level": "重大",
-      "sources": [
-        {
-          "name": "澎湃新闻",
-          "url": "https://m.thepaper.cn/detail/33660677"
+          "url": "https://news.ifeng.com/c/8v4OObnYCG6"
         },
         {
-          "name": "NYTimes",
-          "url": "https://www.nytimes.com/2026/07/25/world/europe/berlin-car-attack.html"
+          "name": "央视网",
+          "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFA5U1lfa3BWNXBhU2FGTHJralJlQ2dSX1NocGY4Wkxhdks3bjBZaHdfOXBEVHNGUzRSNWZEODY0V25BRDExOVFkMGo3NDBQZEVHR3pndFoyZ2FXWEROSlRtNHY0bFNucktfUHVuQ1cyRjY2cVJ6QzdLZw?oc=5"
         }
       ]
     },
     {
-      "title": "印度教育部长辞职",
-      "summary": "印度教育部长因持续数周的“蟑螂党”抗议活动辞职。抗议者以“蟑螂”为象征，反对教育政策改革不公，最终迫使政府让步。这是莫迪政府遭遇的重大政治挫折，显示底层民众抗议力量。",
-      "reason": "印度政坛重大事件，引发大规模社会运动，BBC、NYTimes等国际媒体重点报道。",
+      "title": "越南船舶南沙遇险",
+      "summary": "一艘越南籍渔船在南沙海域遇险沉没，中国迅速救援，截至目前已有44人获救，仍有23人失联。事件引发国际关注，中方展现人道主义精神。",
+      "reason": "涉及南海敏感区域和国际救援，失联人数多，引发广泛关注。",
       "impact_areas": [
         "政治",
         "社会"
@@ -108,96 +56,130 @@
       "impact_level": "重大",
       "sources": [
         {
-          "name": "BBC",
-          "url": "https://www.bbc.co.uk/news/articles/cdx828gj5xko?at_medium=RSS&at_campaign=rss"
+          "name": "凤凰网",
+          "url": "https://news.ifeng.com/c/8v4PX2onB5d"
         },
         {
-          "name": "NYTimes",
-          "url": "https://www.nytimes.com/2026/07/25/world/asia/india-education-minister-resigns-cockroach-protests.html"
+          "name": "央视网",
+          "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE13NnFhT0dBaUhjQVhYd0NqdEY0TnZ0eTJlS2VvSXc3a2s0V1NlRHZHN0tFWGppZEJBcWw5ZHRudHp0LUs3NWJLRS0wZXZlekFVblh3R2pscnJtRUw2VzZsSEw0ekNENk5XQ1h2Qm02MldiQzB1Q01KcA?oc=5"
         }
       ]
     },
     {
-      "title": "巴西阻止美代表团入境",
-      "summary": "巴西政府阻止了一个前来调查该国选举系统的美国代表团入境，引发两国外交紧张。巴西方面认为这是对其主权的干涉，而美国则声称关注选举公正。此举可能影响两国关系及未来贸易合作。",
-      "reason": "涉及巴西与美国外交关系，影响全球地缘格局，NYTimes独家报道。",
+      "title": "宁德时代拟400亿回购",
+      "summary": "宁德时代抛出A股史上最大单次回购注销方案，上限400亿元。此举旨在提振股价、增强投资者信心，同时优化资本结构。反映新能源龙头对自身价值的认可，或带动板块情绪。",
+      "reason": "刷新A股回购纪录，对市场信心和新能源产业链有重大信号意义。",
       "impact_areas": [
-        "政治",
-        "地缘政治"
-      ],
-      "impact_level": "重大",
-      "sources": [
-        {
-          "name": "NYTimes",
-          "url": "https://www.nytimes.com/2026/07/25/world/americas/brazil-united-states-election-voting.html"
-        }
-      ]
-    },
-    {
-      "title": "哥伦比亚总统曾遭美调查",
-      "summary": "获特朗普支持的哥伦比亚总统当选人德·拉·埃斯普列拉，曾被美国当局调查。报道揭示其与右翼民兵组织可能存在的关联，引发对哥伦比亚未来外交走向的质疑。",
-      "reason": "影响美国拉美政策，NYTimes独家调查，具有地缘政治意义。",
-      "impact_areas": [
-        "政治",
-        "地缘政治"
-      ],
-      "impact_level": "重大",
-      "sources": [
-        {
-          "name": "NYTimes",
-          "url": "https://www.nytimes.com/2026/07/25/world/americas/colombia-president-de-la-espriella-trump-us-investigation.html"
-        }
-      ]
-    },
-    {
-      "title": "景德镇瓷业遗存申遗成功",
-      "summary": "“景德镇手工瓷业遗存”成功列入联合国教科文组织世界遗产名录，成为全球首个以手工业为主题的系列遗产。中央媒体盛赞这是千年窑火辉映世界的文化成果，将促进陶瓷文化传承与旅游业发展。",
-      "reason": "中国文化重大国际成就，唯一入选的手工业遗产，具有文化符号意义。",
-      "impact_areas": [
-        "社会",
         "经济金融"
       ],
       "impact_level": "重大",
       "sources": [
         {
-          "name": "澎湃新闻",
-          "url": "https://m.thepaper.cn/detail/33660734"
+          "name": "财新网",
+          "url": "https://finance.caixin.com/2026-07-26/102468155.html"
         }
       ]
     },
     {
-      "title": "2026暑期档电影票房破55亿",
-      "summary": "截至2026年7月26日，暑期档电影票房突破55亿元，其中国漫《八仙！》以创新表达成为最大黑马，票房超15亿。行业回暖信号明显，国漫工业化进程加速。",
-      "reason": "反映文化产业复苏，国漫崛起趋势，多平台讨论。",
+      "title": "美出现AI失控事故",
+      "summary": "美国发生史无前例的人工智能失控事故，更多内幕被曝光。事故细节尚未完全公开，但已引发对AI安全性和监管的广泛讨论。业内呼吁加强AI风险管控。",
+      "reason": "AI失控事故史无前例，引发全球对AI安全的担忧，可能推动监管加速。",
       "impact_areas": [
-        "经济金融",
+        "科技"
+      ],
+      "impact_level": "重大",
+      "sources": [
+        {
+          "name": "凤凰网",
+          "url": "https://news.ifeng.com/c/8v4SrzgNUgw"
+        }
+      ]
+    },
+    {
+      "title": "马斯克称中国或成AI领袖",
+      "summary": "马斯克表示未来某个时刻中国极有可能成为AI领导者，即使美国禁用中国模型也挡不住。黄仁勋也称赞中国注定产出卓越AI技术。两位AI领军人物言论凸显中国AI实力崛起。",
+      "reason": "AI领袖对中国AI的极高评价，反映全球AI格局变化，具产业风向标意义。",
+      "impact_areas": [
+        "科技"
+      ],
+      "impact_level": "重大",
+      "sources": [
+        {
+          "name": "36氪",
+          "url": "https://www.36kr.com/newsflashes/3911959974188425"
+        },
+        {
+          "name": "36氪",
+          "url": "https://www.36kr.com/newsflashes/3911959206827139"
+        }
+      ]
+    },
+    {
+      "title": "巴西拒绝两名美官员入境",
+      "summary": "巴西外交部证实拒绝两名美国官员入境，理由是干涉巴西内政。此举标志着两国关系进一步紧张，此前美国曾质疑巴西选举系统。巴西前总统博索纳罗长子宣布参选总统，获得米莱站台。",
+      "reason": "美巴外交冲突升级，影响美洲地缘政治格局，涉及选举干预敏感议题。",
+      "impact_areas": [
+        "政治",
+        "地缘"
+      ],
+      "impact_level": "重大",
+      "sources": [
+        {
+          "name": "凤凰网",
+          "url": "https://news.ifeng.com/c/8v4NWme8gbm"
+        }
+      ]
+    },
+    {
+      "title": "刚果(金)埃博拉确诊超3000",
+      "summary": "刚果（金）埃博拉确诊病例已超3000例，疫情持续蔓延。世卫组织及国际社会加强援助，周边国家提高警惕。乌干达一城镇因20年前经验成功遏制疫情。",
+      "reason": "埃博拉疫情规模庞大，威胁全球公共卫生安全，需国际关注。",
+      "impact_areas": [
+        "公共卫生"
+      ],
+      "impact_level": "重大",
+      "sources": [
+        {
+          "name": "央视网",
+          "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5nc0ZLdW9TbDJURjRCaGU4MjZQYVdiQkh6anpkN3BCckhEblBPSXhBb3d3LTRWRC1idkZhWVV2YVYyUlAwbkV3WDJ5em10bEtBV3llUEs4YjBzcWVoQWFaNVdZZW9KQVN0NWxrai1Ua2tQSnd1SmdfXw?oc=5"
+        }
+      ]
+    },
+    {
+      "title": "特朗普宣布再竞选总统",
+      "summary": "特朗普宣布准备第四次竞选总统，头戴印有“特朗普2028”字样小红帽，称竞选已“拿捏”。此举打破传统，或重塑2028年总统选举格局，但面临法律和党内挑战。",
+      "reason": "特朗普第四次参选打破政治惯例，影响美国未来政局走向。",
+      "impact_areas": [
+        "政治"
+      ],
+      "impact_level": "重大",
+      "sources": [
+        {
+          "name": "财新网",
+          "url": "https://mini.caixin.com/2026-07-26/102468140.html"
+        }
+      ]
+    },
+    {
+      "title": "中南大学调查论文抄袭",
+      "summary": "中南大学收到费某某硕士学位论文涉嫌抄袭举报，校方回应已成立调查组全面核查。学术不端问题再次引发社会关注，高校科研诚信建设任重道远。",
+      "reason": "学术诚信事件引发舆论热议，对高校声誉和学术规范有警示作用。",
+      "impact_areas": [
         "社会"
       ],
       "impact_level": "重大",
       "sources": [
         {
-          "name": "澎湃新闻",
-          "url": "https://m.thepaper.cn/detail/33659805"
-        }
-      ]
-    },
-    {
-      "title": "马斯克：2036年金钱失去意义",
-      "summary": "马斯克在社交媒体上表示，受人工智能与机器人技术影响，到2036年金钱将失去实际意义，引发广泛讨论。该言论折射出AI对经济社会的颠覆性预期，加剧对失业与分配焦虑。",
-      "reason": "马斯克言论自带流量，触及AI终极影响，雪球热帖引发投资圈讨论。",
-      "impact_areas": [
-        "科技",
-        "经济金融"
-      ],
-      "impact_level": "重大",
-      "sources": [
+          "name": "央视网",
+          "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFAwMHIzQ3JDMlIyUmV0RVZxT0JFS2hESUV4TC02UnVJY21hbkxCRFhPYjVIVlhhMTREekxrSXdNZTYxbzJaZXVzTW5ubVJVUk0ycFBwMzdKcThPdVktXzBweHkzWC04Yk8xYk5LY2V0NzRoVURKZ2JUQw?oc=5"
+        },
         {
-          "name": "雪球热帖",
-          "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE40cXpmeGFiQi1xUmdOV09QSGkzUks2WXJ5QUgxYWxxSU40NVJtem5nMFFscl9LX0x2UDRreHpsb196ZXRabXBXUHJtbFBpbmtXZ3YwUk5MU1lKdWF3SzVMMlZvSjVlTlgyTDdHUFJFSGlndlNDMWc4Qg?oc=5"
+          "name": "36氪",
+          "url": "https://www.36kr.com/newsflashes/3911804929332611"
         }
       ]
     }
   ],
-  "total_fetched": 171,
-  "generated_at": "2026-07-26T07:26:08.390977+08:00"
+  "total_fetched": 234,
+  "generated_at": "2026-07-26T12:26:29.932728+08:00"
 }
