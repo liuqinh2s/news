@@ -1,4 +1,4 @@
-# 2026-07-28 原始新闻标题 (233 条)
+# 2026-07-28 原始新闻标题 (297 条)
 
 ## 新华社 (20 条)
 - Education, health fees among key concerns
@@ -22,74 +22,116 @@
 - Former Chongqing political official facing corruption investigation
 - Former Chongqing political official facing corruption investigation
 
-## 澎湃新闻 (16 条)
-- 从WAIC 2026看AI产业的五个转向
-- 研究称150年来最强厄尔尼诺正在形成
-- 人民日报：中国籍数学家首获菲尔兹奖，意味着什么
-- 人民日报政策问答·回应关切：“七下八上”关键期，防汛举措如何落实落细
-- 经济日报：长鑫上市折射硬科技成长逻辑
-- 刮痧变拨筋，养生界“快招陷阱”来了？
-- “AI脸”泛滥背后的流水线
-- AI职场：跳槽频率按月计、薪资轻松破百万，但“不在前沿”的焦虑一直都在
-- 重走越南：沿着百年滇越铁路｜镜相
-- 观察｜长三角示范区迈向功能开发新阶段，释放哪些新信号
-- 张江何以成为科学城？答案藏在扎根于此的企业里
-- 长鑫科技让合肥坐上A股总市值第四城：硬科技正在重新定义城市竞争力
-- 特朗普：有足够耐心与伊朗达成新协议，否则就开打
-- 衡水通报多名公职人员被举报侵吞学校资产：成立联合调查组，全面深入调查核查
-- 高市内阁支持率大跌12个百分点
-- 央媒调查：机票超售与高额退票费，是否触碰公平消费底线？
+## 澎湃新闻 (19 条)
+- 女孩“下腰瘫”培训机构老板仍有52万元赔偿未支付，因拒执罪已获缓刑
+- 广州市教育局回应“中小学试点增加下午餐”：暂无财力专项补贴
+- 国家发改委：中欧班列累计开行量已突破13万列，运送货值超5200亿美元
+- 青海兴海地震后部分山体出现滑坡
+- 苏州交警回应“轿车被飞来限高杆贯穿”：驾驶员面部擦伤
+- 对话｜战鹰的第三盘棋：与围棋、流量和自己的较量
+- 如何保障受灾大学新生顺利入学？全国学生资助管理中心答澎湃
+- 周三起高温重返申城，未来十天将迎日夜连轴热
+- 税务总局：上半年共排查确认“空壳”企业129万户，推动注销近70万户
+- 雷军打新长鑫科技浮盈7亿？小米高管回应：公司投资行为，跟个人财富无关
+- 国开行：今年推出助学贷款共同借款人远程办贷服务，家长可线上协办
+- 青海海南州兴海县再次发生地震，震级5.8级
+- 六部门通告：禁止涉军队退役报废装备销售活动
+- 上半年办理离境退税的境外旅客数量同比增长366%
+- 沈铭权当选宁波市市长
+- 新闻蒸馏器｜逾30万人撤离，法国西班牙山火达二战以来罕见规模
+- 习近平同斯洛伐克总统佩列格里尼会谈
+- “逐浪·共生”2026外滩新媒体年会将在上海举行
+- 观察｜黄仁勋为百年艺术学院捐赠5亿的背后
+
+## 南方周末 (2 条)
+- “安全区”里无安全：以军对决黎巴嫩真主党何日休？丨智库视点
+- “什么时候能参军？”：追着教官问的港澳青少年
 
 ## 凤凰网 (20 条)
-- 走进上市公司看发展︱洛阳钼业：数智赋能矿山蝶变 - 凤凰网
-- 立法会审议23条立法草案 港府称延长羁留时间有明确原则 - 凤凰网
-- 粤语报道｜议员关注被羁留人士咨询律师权利问题 - 凤凰网
-- 俞敏洪：新东方是我的兴趣变成生意，文旅目标是上市 - 凤凰网
-- 刘秀祥：如果没有教育，很多女孩子的人生会一眼望到头 - 凤凰网
-- 俞敏洪回忆因“双减”转型：困难背后蕴含的是机会 - 凤凰网
-- 探秘故宫内部修复成果展，屈峰：我们的专业人才可以开小美院 - 凤凰网
-- 企业家不懂年轻人的痛？俞敏洪：人类的痛感是想通的 - 凤凰网
-- 马未都：书里每个人都是我的人生榜样 - 凤凰网
-- 郭毅可：今天的人工智能不具备创造力，不能表达人性 - 凤凰网
-- 与姜文同台被观众冷落，濮存昕：这是一种激励 - 凤凰网
-- 俞敏洪：东方甄选20%卖书佣金将用来给农村中小学生买书 - 凤凰网
-- 《君品谈》第四季屈峰（上）：探寻故宫，觅近五千年华夏足迹 - 凤凰网
-- 刘秀祥：有更多优秀的人回来，才能让大山发展的更好 - 凤凰网
-- 郭毅可：未来气味可以通过网络传播，但舌尖上的中国很难复制 - 凤凰网
-- 吴小莉谈濮存昕君品精神：人艺和舞台是他的庙门 - 凤凰网
-- 故宫文物修复老师傅50年零失误：技艺没到就不能碰文物 - 凤凰网
-- 热爱如何抵挡漫长岁月？屈峰：找到爱的方向越挖越深 - 凤凰网
-- 郎平回应两大外号：“铁榔头”和“朝阳大炮”都是对我球场表现的形容 - 凤凰网
-- 濮存昕：进剧场看话剧就像请人到家做客，不能失去舞台真实感 - 凤凰网
+- 青海兴海县发生5.7级地震，震源深度10千米
+- 特朗普说美国武器多到用不完
+- 美国中期选举进入百日倒计时，两党各有优势难分胜负
+- 六部门通告：禁止涉军队退役报废装备销售活动
+- 王虹赴法留学推荐信首次曝光，由北大地空学院教师雷军所写
+- 男子务工突发脑梗，治好20多天仍滞留医院，院方回应
+- 上半年全国挽回税款1806亿元
+- 野火持续肆虐法国西班牙，法国总统、西班牙首相最新发声
+- 硅谷AI在“造神”，中国AI在“做事”
+- 基因治疗悲剧：制度不该让一个孩子独自承担死亡风险
+- 唐山大地震——普通人走过的五十年
+- 扎哈罗娃批小泉进次郎涉核言论：可笑又可悲
+- 50年后再访唐山：经历过地震那个夜晚的人，如今怎么样
+- 新租客打扫卧室柜子上掉落4万元现金，半月有余找不到失主
+- “没人能管我该卖什么！”特朗普就向土耳其出售F-35驳斥以方
+- 法国代表安理会发言时，美国代表离场了
+- 普京称俄罗斯正经历“决定性阶段”，战场过于激进有风险
+- 凤凰记者实探“乌无人机满天飞”的高速公路：俄军饱和式设防
+- 风声丨支持率一夜狂跌，高市早苗的人设怎么崩了？
+- 特朗普宣称伊朗主动寻求谈话，称“事情有可能朝着好的方向发展”
 
-## 财新网 (1 条)
+## 财新网 (18 条)
+- 吴珈庆成为台球史上首位千万先生，给阿嬷的奖杯虽迟但到｜体坛
+- 伦敦西区音乐剧《Can You Feel It》：梦回迈克尔·杰克逊的巨星时刻｜爱乐
+- 全球医疗科技市场的未来潜力
+- 【权益周观察】A股调整接近尾声了吗？
+- AI投资：推升还是抑制通胀
+- 西方央行加息论调为何荒谬
+- 财新闻｜多名公职人员被举报侵吞安平志臻中学资产，河北衡水成立联合调查组
+- 年内通胀，“双顶”or“三顶”
+- 今日开盘：两市双双低开 沪指跌幅0.91%
+- 人事观察｜新疆新常委李刚兼任组织部长
+- 南华大学55岁校长夏昆任上被查
+- T早报｜长鑫科技市值登顶A股；商务部：上半年工业企业营收利润率创2024年以来新高；反对美方将科技经贸问题政治化、工具化
+- 【市场动态】据报中国开始量产DUV光刻机
+- 【市场动态】英伟达新一轮逾7500亿美元的AI交易令循环融资忧虑重燃
+- 含糖饮料不好卖，抹茶成新宠？｜饮食
+- 金融定价锚正从技术重新转回石油吗？
+- 调研称商保创新药目录难触及患者 有两大障碍
 - 财经早知道｜长鑫批量“造富”，合肥国资浮盈破万亿
 
-## 央视网 (2 条)
-- 北京中轴线申遗成功两周年 藻井艺术展亮相古建馆 - 央视网
-- 新研究说太阳中银元素丰度比此前估计更高 - 央视网
+## 央视网 (8 条)
+- 多元夜游业态激发夏日文旅活力 构建“全链条+全场景+全域化”消费促进新格局 - 央视网
+- 济南趵突泉景区通报“大树折断致游客受伤” - 央视网
+- 四川宜宾市高县发生3.2级地震，震源深度5千米 - 央视网
+- 甘肃酒泉市肃北县发生3.1级地震，震源深度10千米 - 央视网
+- 新疆阿克苏地区沙雅县发生3.3级地震，震源深度22千米 - 央视网
+- 南华大学党委副书记、校长夏昆接受审查调查 - 央视网
+- 台风“红霞”预警解除，灾害防范远未结束！ - 央视网
+- 曲韵新颜 绝活创富：守戏二十载 渔鼓新财路 - 央视网
 
-## BBC (13 条)
+## BBC (16 条)
 - Wildfire now nine miles from French city of Bordeaux, mayor warns
 - Trump says Iran war talks taking place during lull in strikes
-- Ukraine dismisses Iranian threats as Caspian Sea strike directly links wars
-- A Japanese town wrestles with identity after protests over its first mosque
+- Johnson & Johnson offers up to $5.5bn to settle baby powder lawsuits
 - US singer D4vd to go on trial for murder in death of 14-year-old
+- China's new challenge as natural disasters strike - fake AI videos
+- A Japanese town wrestles with identity after protests over its first mosque
+- Ukraine dismisses Iranian threats as Caspian Sea strike directly links wars
 - Wildfire witnesses describe 'wall of flames', fear and stress
 - Shots fired at US consulate in Toronto for a second time this year
 - 'Do the right thing': Savannah Guthrie makes another plea to mother's kidnappers
 - Number of suspects in fatal Seattle food festival shooting rises to three
 - As the US pauses the war with Iran, is Trump really running out of weapons?
+- What to expect from Zelensky and Netanyahu's visit to Washington
 - A Nigerian soldier is arrested for tipping off criminals - but does it go deeper?
 - Pirlo out of Italy football top job after backlash over Russian betting firm links
 - What you need to know if you're travelling to France or Spain
 
-## Reuters (2 条)
+## Reuters (11 条)
+- Just one in three Americans back Iran war, most unsure of Trump's goals, Reuters/Ipsos poll finds - Reuters
 - Trump says US and Tehran having 'good talks' as drones hit Iran's neighbours - Reuters
+- Palestinian villagers say West Bank nearing breaking point - Reuters
+- Trump urges Senate to end twice annual clock switching - Reuters
+- US Senate votes to advance Trump nominee Clayton to be top US spy - Reuters
+- US threatens funding cuts for two school districts over transgender policies - Reuters
 - Palestinians say settler violence and military raids are bringing them to breaking point - Reuters
+- Australia's Labor party replaces Victoria state premier ahead of November election - Reuters
+- Houthis pushing to model Iran's Hormuz control in Red Sea, Yemeni FM says - Reuters
+- Former Hong Kong opposition leader Wu granted stay in Britain, lawyer says - Reuters
+- Why El Niño's promise of a quieter hurricane season may not guarantee good news for insurers - Reuters
 
-## NYTimes (16 条)
-- Europe WildfiresUpdates: New Heat Wave Could Worsen France and Spain’s ‘Unprecedented’ Fire Season
+## NYTimes (20 条)
+- Europe Wildfires Updates: New Heat Wave Could Worsen France and Spain’s ‘Unprecedented’ Fire Season
 - How the Iran-Backed Houthis Cornered Saudi Arabia Into a New Conflict
 - Even Before Attack, Berlin’s Gay Community Felt ‘More and More Unsafe’
 - Cuba, Lacking Fuel, Relies on Ingenuity to Defy Trump’s Blockade
@@ -97,6 +139,11 @@
 - India’s ‘Cockroach’ Protesters Disperse, But Questions Remain on Education and Dissent
 - Saudis Blame Iran-Backed Militias Based in Iraq for Drone Attacks
 - 15 Sailors Still Missing After Vietnamese Cargo Ship Sank in South China Sea
+- Massive Wildfires Draw Close to Madrid
+- Drilling for Oil the Old-Fashioned Way in ‘Little Texas,’ Indonesia
+- Zelensky and Trump Will Meet at the White House. Has Their Relationship Thawed?
+- Southeast Asian Resort Towns Suffer as Iran War Keeps European Tourists Away
+- The Iran War Is Making Asia’s Street Food More Expensive
 - India’s ‘Cockroach’ Moment
 - Heat Wave Threatens Further Wildfire Spread in France and Spain
 - As Communities Unite Against Europe’s Wildfires, Politicians Trade Blows
@@ -104,7 +151,6 @@
 - Shots Fired Outside U.S. Consulate in Canada for Second Time This Year
 - Amid France Wildfires, Some Residents Help Firefighters Contain Blazes
 - Heat From France’s Wildfires Creates a ‘Fire Cloud,’ or Pyrocumulonimbus
-- Here’s the latest.
 
 ## CNN (6 条)
 - 0% intro APR until 2024 is 100% insane
@@ -115,26 +161,26 @@
 - Want Cash Out of Your Home? Here Are Your Best Options
 
 ## 微博热搜 (20 条)
-- 金鹰奖 提名名单
-- 美股
-- 数说中国硬核经济亮点
-- 超过五年没联系的朋友直接删
-- 白夜行一个恶生恶的故事
-- 3位三支一扶考生疑13天提高20余分
-- 肠癌留了10年逃生窗口期
-- 徐正溪赵今麦好有药味的父女线
-- 佛得角门将泪流满面图片为AI生成
-- 父子景区划桨板遇台风落水爸爸去世
-- 李宏毅后援会会长正式提出辞职
-- 金鹰奖女主名单总共6名
-- 15个不成熟父母的特征
-- 听泉赏宝炒股把爸妈工资卡里的钱亏没了
-- 20岁女孩从18楼坠落奇迹生还
-- 美国掀起中国科技大讨论
-- 肠癌很多人发现就是中晚期
-- 各个行业被AI取代的概率
-- 逐玉配角第一个飞升的是李卿
-- 76人官方晒詹姆斯球衣
+- 青海地震
+- 网红书记带货知了猴被指破坏生态
+- 紧急预拨1.8亿元支持6省防汛防台风
+- 原来办公室恋情是有门槛的
+- 在张雅琪身上看到了自己的同事
+- 改善脖子前倾最简单的动作
+- LV在华业绩
+- 携程全员信曝光
+- 詹姆斯下赛季或直升机通勤
+- 御廷谣
+- 医院通报女孩称正颌手术被做反
+- LV回应茉莉奶白案
+- 刘亦菲素颜女大
+- A股
+- 林志颖的基因彩票还在发力
+- 韩系车在全球凭什么这么能打
+- 杨天真 切胃瘦了但迅速又胖了
+- 王濛在伦敦机车被贴罚单
+- 佛得角后卫轰出世界杯最佳进球
+- AI漫剧就是一场巨大的侵权事件
 
 ## 知乎热榜 (20 条)
 - 为什么鲁宾逊漂流记这样一部以热带海岛为背景的作品，完全没有任何关于蚊虫的描写？
@@ -159,96 +205,118 @@
 - 瞎扯 · 如何正确地吐槽
 
 ## B站热门 (20 条)
-- 敢想敢不同
 - 和解剖了4000具尸体的法医，一起看了影片中的尸体...
-- 《绝区零》蕾米埃尔EP | Two to Tango 交缠舞步
-- 【剧情】昭阳公主（2026）08 【孔雪儿/李宏毅】（按姓氏笔画排序）
-- 奇怪的玩具工厂 第五章 Part1
-- 丧 尸 下 乡
-- 极客湾手机续航大横评：电池锁容？电量缩水？谁在浑水摸鱼？
-- 【终末地】向 渊 行 前 传.exe
 - 法老的诅咒：一场殖民者写给世界的爽文
-- 这 一 钓 会 很 帅
-- 哈吉蜂为了救克莱尔居然掏出了......
-- 人类幼崽开机使用说明书
-- 在线峰值四千人！我做出来了三角洲第一个全自动改枪...
-- 大结局让我彻底搞懂了prime瑞克的过去，也明白了为啥只有主角爷孙能相伴到永远！（瑞克和莫蒂·第九季大结局剧情）
-- 生物军团vs泰坦傀儡！
-- Tiny Giant (Remix) | Zenless Zone Zero
+- 丧 尸 下 乡
+- 【剧情】昭阳公主（2026）08 【孔雪儿/李宏毅】（按姓氏笔画排序）
+- 从哪里跌倒就从哪里站起
+- 老师年纪小是一种什么体验？
+- 坚守者 vs 各种傀儡！
+- 来杯好酒摇一摇
 - 《电话簿是你的谎言》
-- 读 评 论
-- 大庆赶海，大海退潮后发现大个的竹节蛏眼，撒上一点盐往外跑
-- 《绝区零》蕾米埃尔动画短片 | 静默之日
+- 《绝区零》蕾米埃尔EP | Two to Tango 交缠舞步
+- 这 一 钓 会 很 帅
+- 奇怪的玩具工厂 第五章 Part1
+- 还记得“卖茶女”的诈骗套路吗？当“深圳网警”遇到“恋爱脑”，深情难抵骗局真相！
+- 【洛天依原创】若夏日终将完结
+- 当家里来强盗时，此时我和我的兄弟 1～6全集
+- 一个人清理海浪冲上来的垃圾有人夸吗
+- 撕皮充气冰山2.0（你们一直催的，我真没想到这么多人爱看撕皮）
+- 大结局让我彻底搞懂了prime瑞克的过去，也明白了为啥只有主角爷孙能相伴到永远！（瑞克和莫蒂·第九季大结局剧情）
+- 【苏新皓】囍 solo直拍 梦寐以求青岛演唱会
+- 传奇人物志——牛顿
 
 ## 抖音热搜 (20 条)
-- “红霞”停止编号
-- 中国男篮90:82再胜喀麦隆
-- 数说中国经济新亮点
-- 中使馆通报公民遭保安强力对待
-- 课本里的天下第一泉我见到了
-- 这次出发不是找你是去找自由
-- 一代人有一代人的美食人格
+- 韩国股市跌到熔断
 - 暑期大学生已开启纯吃模式
-- 薄荷魔方蛋糕征服老外的味蕾
-- 哈兰德评价哈兰葱
-- 夏天怎么能少了西瓜
-- “白海豚”或将发展为超强台风
-- 也许放弃才能靠近你
-- JASON吴河南卖瓜实录
-- 青春如同奔流的江河
-- 相信我们会像童话故事里
+- 风电产业迈入一体化出海新阶段
+- 甘肃渭源发生山洪后情况如何了
+- 青海海南州连续两次地震
+- 2026CBA选秀大会
 - 这是少年足球最美的画面
+- 这次出发不是找你是去找自由
+- 薄荷魔方蛋糕征服老外的味蕾
 - 合肥国资持股长鑫市值超1万亿
+- 唐山大地震50周年
+- 官方回应河南三支一扶成绩争议
+- “讨薪烧桥致损失57亿”系谣言
+- 中国男篮90:82再胜喀麦隆
+- “白海豚”或将发展为超强台风
+- “红霞”停止编号
+- 周星驰功夫女足路演秒变周星星
+- 这期是我送你的泡泡
+- 小猫吵着要拍百万运镜
 - 董路回应2034不进世界杯就退休
-- 和法医一起看影片中的尸体
 
 ## 雪球热帖 (20 条)
-- 7月AI NATIVE 应用ARR 点评：看好模型智能加速跃迁 催化商业化再上台阶 - 手机新浪网
-- 智能电视“长辈模式”岂能难倒长辈 - 新浪财经
-- 国泰中证机床ETF发起联接A净值上涨3.77% - 新浪财经
-- 嘉实中证机器人ETF发起联接A净值上涨3.00% - 新浪财经
-- 富国中证1000ETF联接A净值上涨3.47% - 新浪财经
-- 鹏华上证科创板新能源ETF发起式联接I净值上涨3.38% - 新浪财经
-- 广发上证科创板200ETF联接A净值上涨3.87% - 新浪财经
-- 博时上证科创板100ETF联接C净值上涨3.06% - 新浪财经
-- 国泰中证机床ETF发起联接C净值上涨3.76% - 新浪财经
-- 中際旭創：确定H股发售价格 预计30日上市交易 - 新浪财经
-- 美高域集團：拟召开股东大会 涉及多项议案及授权事项 - 新浪财经
-- 长城产业优选混合A净值上涨3.25% - 新浪财经
-- 南方军工改革灵活配置混合A净值上涨3.06% - 新浪财经
-- 广发成长启航混合A净值上涨4.49% - 新浪财经
-- 圆信永丰医药健康A净值上涨3.88% - 新浪财经
-- 德邦稳盈增长灵活配置混合C净值上涨3.07% - 新浪财经
-- 长城产业趋势混合C净值上涨3.58% - 新浪财经
-- 东方阿尔法瑞丰混合发起A净值上涨3.79% - 新浪财经
-- 富国成长策略混合A净值上涨4.36% - 新浪财经
-- 融通产业趋势股票A净值上涨4.25% - 新浪财经
+- 教育培训板块强势 传智教育涨停 - 新浪财经
+- AI估值的三驾马车：地缘、宏观与产业 - 手机新浪网
+- 药物受理最新动态：天津市中央药业有限公司头孢地尼分散片补充申请获受理 - 新浪财经
+- 药物受理最新动态：柳河长隆制药有限公司保心宁片补充申请获受理 - 新浪财经
+- 菲林格尔股东亚太集团国际有限公司27天减持230.34万股，套现1.09亿元 - 新浪财经
+- 索宝蛋白股东万得福实业集团有限公司增持19.7万股耗资276.47万元 - 新浪财经
+- 招商局太子湾大厦项目全面封顶 - 新浪财经
+- 成熟是教训 - 新浪财经
+- 药物受理最新动态：中曦（福建）药业有限公司注射用磷酸左奥硝唑酯二钠仿制申请获受理 - 新浪财经
+- 青海兴海发生5.7级地震 - 新浪财经
+- SHIBOR主要期限利率涨跌不一 - 新浪财经
+- 大行评级丨花旗：石药中期盈利预告远胜预期，维持“买入”评级 - 新浪财经
+- 创业板50ETF景顺（159682）跌5.92%，半日成交额3.67亿元 - 新浪财经
+- 半导体设备ETF易方达（159558）跌3.57%，半日成交额17.76亿元 - 新浪财经
+- 疫苗ETF富国（159645）跌1.31%，半日成交额155.76万元 - 新浪财经
+- 机器人ETF银华（562360）跌1.57%，半日成交额824.87万元 - 新浪财经
+- 石油ETF国泰（561360）跌2.22%，半日成交额6133.95万元 - 新浪财经
+- 生物医药ETF国泰（512290）跌1.09%，半日成交额6623.12万元 - 新浪财经
+- 光伏ETF博时（560310）开盘跌2.00%，重仓股阳光电源跌0.42%，特变电工跌1.40% - 新浪财经
+- 瑞士銀行：牛熊證65685强制赎回 剩余价值为0港元 - 新浪财经
 
-## 36氪 (8 条)
-- 波托马克银行扩大住宅贷款业务，聘请资深房贷专家盖尔·莫克斯利
-- 米其林上半年营收126.9亿欧元不及预期
-- MAIRE旗下子公司获授阿根廷价值13亿欧元大型化肥综合体项目合同
-- 美银：8月或开启美股今年“最艰难的三个月”
-- 中际旭创香港上市发售价定为每股980港元
-- 阿斯利康重申2030年800亿美元营收目标，抗肿瘤药物拉动二季度增长
-- OpenAI前首席科学家创办的AI公司SSI获英伟达投资，宣布建立长期合作
-- 美股三大指数收盘涨跌不一，苹果重返全球市值第一
+## 36氪 (20 条)
+- 英伟达据悉签署价值高达500亿美元的得州数据中心租赁协议
+- 樱花互联网拟投资260亿日元建设生成式AI基础设施，引入英伟达新一代GPU设备
+- 恒指午间休盘跌0.11%，恒生科技指数涨0.16%
+- 安徽中安财产保险公司登记成立，注册资本40亿
+- 半日主力资金加仓银行股，抛售电子、通信股
+- A股三大指数午间休盘集体下跌，新易盛跌超12%
+- 极氪9X五座版正式上市
+- 上海医药、君实生物等成立新私募基金，出资额15亿
+- 创业板指跌超6%
+- 聚灿光电：已对接多家AI眼镜企业推进定制研发
+- 灵光App上线“一键部署”
+- 税务总局：上半年支持科技创新主要政策和制造业发展政策，减税降费以及退税1.91万亿
+- 韩国KOSPI指数跌幅扩大至10%
+- 杭州：拟适当超前布局算力网、新型电网、新一代通信网等新型设施
+- 杭州：拟支持企业建设词元生产平台、交易结算平台、对外服务平台
+- KKR据悉正在考虑以5亿美元的价格出售LS Automotive India
+- 国家发改委：中欧班列架起中欧经贸快车道，国产空调15天左右直达欧洲
+- 飞利浦二季度销售增长4%，上调利润和现金流预期
+- 上半年税务部门累计征收税费收入16.7万亿元
+- 微软AI发布网络安全模型MAI-Cyber-1-Flash，漏洞检测性能提升并降低50%成本
 
-## 虎嗅 (14 条)
-- 逃杀时刻：中国汽车经销王朝的更替与“脱身法则”
-- 一个例证，同时回答两个问题
-- AI与一朵四叶花：从路易威登诉茉莉奶白案看AI如何重塑法律工作的能与不能
-- 长鑫科技与你有关！它可能会让你的下一台电脑贵1000块
-- 刚刚，北大校友翁荔官宣离职，AI 时代最好的“对齐”是照顾好自己
-- 物理AI驱动的组织变革
-- 东野圭吾：在白夜里走路的人
-- 东野圭吾为什么那么红？他写的不是推理，是人性
-- 年销20亿元的感冒灵，说明书要大改，国家药监局明确：服药期间不得开车
-- 从17岁的陈广宇到王虹邓煜，当天才们提前抵达，我们准备好了吗？
-- K型分化下的破局路：年轻人如何抓住时代的大潮？
-- 固废资源化的黄金五年①：飞灰资源化的热潮、困局与方向
-- 越来越多人参与的Game Jam，变味了吗？
-- AI越强，聪明的资本越抢“笨生意”
+## 虎嗅 (20 条)
+- 光刻机从造出来到用起来有多远？
+- 51.79亿罚单背后：携程的“二选一”和“最低价”会消失吗？
+- 一年狂卖10亿，中产们在夏天抢爆羊毛衫
+- 会计到底会不会被AI取代？跨圈探寻财务的未来“往哪走”
+- 狂撒1500亿，上汽缓过了一口气
+- 傍上Anthropic，比特币矿厂咸鱼翻身了？
+- AI新基建里，我们是“卖铲人”背后的“修铲人”
+- 分体屏创新背后的成本困局，影石Luna Ultra的现实考验
+- 罗森10块钱的饼干杯，暴露了茶咖赛道尴尬的真相
+- 找合伙人：能力互补与人品过硬，到底哪个更重要？
+- 苹果AI 眼镜明年WWDC 见，但这次“隐私”不好做
+- 零售巨头克罗格Kroger入华疑云
+- 又一家物企，卖了
+- 实探长鑫科技合肥总部：园区崛起带火长岗CBD，基层员工“旁观”造富神话
+- 全球最大OTA：“互联旅行”七年未成，AI已兵临城下
+- 藏在大模型背后的新闻人：GPT们的回复是这样写出来的
+- 五十年回响：唐山大地震的书写、阅读与记忆重建
+- 美债利率逼近新高，AI还能顶得住吗？
+- “稀缺性溢价”消失，智谱能重返万亿市值吗？
+- 全网刷屏的“韩国女孩的黄金时代”怎么这么快结束了？
+
+## 少数派 (2 条)
+- 索尼抛弃实体游戏光盘，谁成为了转型代价？
+- 派早报：月之暗面开源 Kimi K3 模型等
 
 ## GitHub Trending (15 条)
 - permissionlesstech/bitchat
