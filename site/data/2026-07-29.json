@@ -2,125 +2,81 @@
   "date": "2026-07-29",
   "news": [
     {
-      "title": "苹果市值首破5万亿美元",
-      "summary": "7月29日，苹果公司股价盘中上涨，市值首次突破5万亿美元，成为全球首家达到这一里程碑的上市公司。苹果在AI、服务业务及iPhone换机周期推动下持续增长，市值突破5万亿进一步巩固其全球最高市值公司地位，对美股科技板块和全球资本市场具有标杆意义。",
-      "reason": "苹果市值突破5万亿美元创历史，反映科技巨头持续主导市场，影响全球资本配置。",
-      "impact_areas": [
-        "科技",
-        "经济金融"
-      ],
-      "impact_level": "重大",
-      "sources": [
-        {
-          "name": "Reuters",
-          "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNbUZmRGhDbU9sZWNKNm4zU1JTVmNubzllUjF5UnhTREUtbzVHV2FyNzZUMHhfZjItUTh6THB4TDVqRHFHc2tTUkFGSTlqSG1LWmFWS2E0ZFk0bm51RE1wMjQ0X09FdlBvOGVoTGpUUmp5cjZfRG1UM01fSTd4MUdLSWZJMVBoOWRxWExNT1JUaUJWTnZtVGFaMWFKMlB5cVVEQlVFVVFIbWs0ZFlHdlhrZEw0MFd0NUs1UmV3ZWxNZlVxdC03dF94cm9MOGY?oc=5"
-        },
-        {
-          "name": "财新网",
-          "url": "https://www.caixin.com/2026-07-29/102468972.html"
-        }
-      ]
-    },
-    {
-      "title": "韩国股市暴跌触发熔断",
-      "summary": "7月29日，韩国KOSPI指数跌幅扩大至10%，韩国交易所对KOSDAQ指数启动熔断机制。SK海力士股价跌逾17%，创纪录最大跌幅，半导体板块重挫。市场恐慌情绪蔓延，主要受美国科技股回调、贸易摩擦及朝鲜半岛地缘风险影响。韩国股市暴跌可能引发亚洲金融市场连锁反应，对全球半导体供应链预期产生冲击。",
-      "reason": "韩国股市暴跌触发熔断，半导体龙头创纪录跌幅，全球金融市场风险信号明显。",
-      "impact_areas": [
-        "经济金融",
-        "科技"
-      ],
-      "impact_level": "重大",
-      "sources": [
-        {
-          "name": "36氪",
-          "url": "https://www.36kr.com/newsflashes/3916215401672065"
-        },
-        {
-          "name": "36氪",
-          "url": "https://www.36kr.com/newsflashes/3916157434310020"
-        }
-      ]
-    },
-    {
-      "title": "美伊冲突持续，特朗普表避免升级",
-      "summary": "7月29日，伊朗与美国在中东地区继续发生军事冲突。美国军方称拦截了伊朗向美军发射的弹道导弹，伊朗与阿曼磋商恢复霍尔木兹航运。同时，特朗普表示希望避免伊朗局势升级，但美军仍在增兵。美伊冲突持续升级威胁全球能源供应和航运安全，霍尔木兹海峡通行费争议进一步加剧中东紧张。",
-      "reason": "美伊军事冲突持续，霍尔木兹航运受阻，影响全球能源市场及中东地缘格局。",
+      "title": "美伊冲突持续升级",
+      "summary": "美国与沙特联合对伊朗支持的伊拉克民兵组织发动空袭，报复其袭击沙特石油设施。伊朗则公布打击驻约旦美军基地的画面，并发射弹道导弹被美军拦截。胡塞武装宣称袭击另一艘沙特油轮。乌克兰与伊朗两国外长就里海袭船事件通话。多国卷入冲突，地区紧张局势加剧，国际油价波动。",
+      "reason": "多源密集报道，涉及美、伊、沙特、伊拉克、胡塞等多方，影响全球地缘政治与能源市场。",
       "impact_areas": [
         "地缘",
         "经济金融"
       ],
-      "impact_level": "重大",
+      "impact_level": "现象级",
       "sources": [
         {
-          "name": "财新网",
-          "url": "https://database.caixin.com/2026-07-29/102468977.html"
+          "name": "澎湃新闻",
+          "url": "https://m.thepaper.cn/detail/33682148"
         },
         {
           "name": "BBC",
           "url": "https://www.bbc.co.uk/news/articles/c70g6y24d76o"
         },
         {
-          "name": "Reuters",
-          "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNVG0xV2dSNkZDNzM5a3hxZl9oMXkxVmRGQmhLZzRHUGVBcFd0aDNNaWI1VlhIbndMUVhEa0tteEQxV2Q3X3ZSTEU5X1VvdkVQMjJPb1c4NkpjcU5yVXZrLVVEWmR0ZlZ2M2FFZWpTUmdoUm1sZHpVQV9KbkViUnB0TV8yS2p5bmduaXJOZnMwcy1LU25iN2RvdWc2WU1va1N5TnctcXpodUh4aUpQTElpMFpxNXJpcDIxckJaOC1Pb1cyV2V1SF82dmNiTQ?oc=5"
+          "name": "NYTimes",
+          "url": "https://www.nytimes.com/live/2026/07/28/world/iran-us-strikes-iraq-trump"
         }
       ]
     },
     {
-      "title": "ChatGPT周活跃用户近10亿",
-      "summary": "7月29日，OpenAI宣布其ChatGPT周活跃用户数已接近10亿，标志着AI对话产品达到前所未有的用户规模。ChatGPT在企业和个人用户中广泛应用，推动AI技术商业化加速。该数据反映出AI工具已深度渗透日常生活，可能引发监管关注和行业竞争格局变化。",
-      "reason": "ChatGPT用户接近10亿，AI产品渗透率创新高，对科技行业和社会影响深远。",
+      "title": "日本熊本7.1级强震致13死",
+      "summary": "日本熊本县发生7.1级强震，已造成至少13人死亡，数百人受伤。震中附近商场爆炸、建筑倒塌，救援工作紧张进行。未来三天可能再发强震。截至7月29日，已发生超过100次余震。日本政府正与时间赛跑，抢救被埋人员。",
+      "reason": "重大自然灾害，人员伤亡严重，国际媒体高度关注，持续发酵。",
       "impact_areas": [
-        "科技"
-      ],
-      "impact_level": "重大",
-      "sources": [
-        {
-          "name": "36氪",
-          "url": "https://www.36kr.com/newsflashes/3916120299498883"
-        }
-      ]
-    },
-    {
-      "title": "C919高原型首架机首飞",
-      "summary": "7月29日，C919高原型首架机在四川成都完成首飞。高原型是针对高海拔机场环境优化设计的版本，具备更强的适应性和运载能力。C919系列化发展进入新阶段，标志着中国民机产业在关键技术上取得突破，有望拓展高原航线市场，对国内航空运输和制造业具有战略意义。",
-      "reason": "C919高原型首飞，中国国产大飞机系列化进展，科技自主突破。",
-      "impact_areas": [
-        "科技",
-        "产业"
-      ],
-      "impact_level": "重大",
-      "sources": [
-        {
-          "name": "央视网",
-          "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5TbDFxbTJjelFCVHBnVFc5VTJFN0RHbHdzYW5vX1c3TG43VFZSQXNxYm9NYzFPY2RZZzlodG56N3dzWk9BOW9NYnMtV3NuZTc3VXNoQ3A1TjFWeTJMeWRmOVJpSzUyWmRWd2VMT3U4Ym9sMDNfUHM3MQ?oc=5"
-        },
-        {
-          "name": "澎湃新闻",
-          "url": "https://m.thepaper.cn/detail/33680423"
-        }
-      ]
-    },
-    {
-      "title": "美国制裁中国科研机构",
-      "summary": "7月29日，美国国防部将部分中国科研机构列入制裁清单，限制其获取美国技术。中国商务部表示坚决反对，称此举破坏全球科技合作。此次制裁涉及多个前沿研究领域，进一步加剧中美科技脱钩。长期来看将影响两国科技交流以及全球创新链布局。",
-      "reason": "美国制裁中国科研机构，中美科技脱钩加速，影响全球科技产业链。",
-      "impact_areas": [
-        "科技",
-        "政治",
+        "社会",
         "地缘"
       ],
-      "impact_level": "重大",
+      "impact_level": "现象级",
       "sources": [
         {
-          "name": "澎湃新闻",
-          "url": "https://m.thepaper.cn/detail/33679912"
+          "name": "财新网",
+          "url": "https://photos.caixin.com/2026-07-29/102469038.html"
+        },
+        {
+          "name": "BBC",
+          "url": "https://www.bbc.co.uk/news/articles/cgk43y21j0do"
+        },
+        {
+          "name": "NYTimes",
+          "url": "https://www.nytimes.com/2026/07/28/world/asia/japan-earthquake-kumamoto-damage.html"
         }
       ]
     },
     {
-      "title": "英国新首相裁撤重组科技部",
-      "summary": "7月29日，英国新首相宣布裁撤并重组科技部门，这是十年内第七次改组，第三次修改科技治理架构。改革旨在整合资源，提升英国在AI、量子计算等领域的竞争力。频繁改组反映出英国科技政策的动荡，可能影响其全球科技中心地位和营商环境。",
-      "reason": "英国科技部重组，十年七相三改科技治理，反映政策不确定性，影响全球科技格局。",
+      "title": "SK海力士业绩增长股价却暴跌",
+      "summary": "SK海力士公布二季度财报，利润同比大涨557%仍不及市场预期，股价盘中暴跌超19%，拖累韩国及全球半导体板块。市场担忧AI投资热潮放缓及长期协议风险。此前SK海力士作为HBM龙头备受追捧，此次下跌引发对AI泡沫的重新评估。",
+      "reason": "半导体龙头业绩信号，市场对AI投资前景产生分歧，全球科技股震荡。",
+      "impact_areas": [
+        "科技",
+        "经济金融"
+      ],
+      "impact_level": "重大",
+      "sources": [
+        {
+          "name": "澎湃新闻",
+          "url": "https://m.thepaper.cn/detail/33682808"
+        },
+        {
+          "name": "财新网",
+          "url": "https://www.caixin.com/2026-07-29/102469076.html"
+        },
+        {
+          "name": "虎嗅",
+          "url": "https://www.huxiu.com/article/4879095.html"
+        }
+      ]
+    },
+    {
+      "title": "美国禁止中国仿人机器人进口",
+      "summary": "特朗普政府宣布禁止进口中国仿人机器人，理由是为了保护美国的人工智能基础设施建设。已在美国联邦通信委员会注册的型号可继续销售。此举是中美科技竞争的最新举措，可能影响全球人形机器人产业链格局。中国外交部回应称保护主义无法提升美国竞争力。",
+      "reason": "科技领域重大政策，直接影响中美AI与机器人产业，涉及全球供应链重塑。",
       "impact_areas": [
         "科技",
         "政治"
@@ -129,62 +85,143 @@
       "sources": [
         {
           "name": "财新网",
-          "url": "https://international.caixin.com/2026-07-29/102468957.html"
+          "url": "https://www.caixin.com/2026-07-29/102469156.html"
+        },
+        {
+          "name": "BBC",
+          "url": "https://www.bbc.co.uk/news/articles/cp9e2ex3ekyo"
+        },
+        {
+          "name": "Reuters",
+          "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPTnkxZko1VERycFBhV3VqR0ZGdS1KVnhybkVqa2N3N2NKZDBKcUlSS3AtNU9oZ2xybmdoTzRwd0h4anlyU2RMdFpVNFZtdnVkcjBXSnJBZ3VDN3ZBanVJeUVOYVhvVkJGd21saURQd0lsWXlMdjY2enpyZnVDb21Bb2thM285cmVuN3V3U1puZ2h3Q3E4ZW1tMG9UQ2UwQXdoMWM0eURlTHlUZEhtOWd5Ymg2QjVOd3Y5R1ZlMG53"
         }
       ]
     },
     {
-      "title": "美国参议院确认情报总监",
-      "summary": "7月29日，美国参议院投票确认特朗普提名的Clayton为国家情报总监。Clayton是前证券交易委员会主席，其任命强化了特朗普对情报机构的控制。这一任命可能影响美国情报工作的独立性和对外政策，特别是在俄乌冲突、中东局势等热点问题上。",
-      "reason": "美国情报总监换人，影响情报政策及对外决策，地缘政治重要变动。",
+      "title": "反网络暴力法公开征求意见",
+      "summary": "国家互联网信息办公室发布《反网络暴力法（征求意见稿）》，向社会公开征求意见。这是我国首部针对网络暴力的专项法律，明确了网络暴力行为的界定、平台责任、受害者权益保护等内容，标志着网络暴力治理进入法制化阶段。",
+      "reason": "重大社会立法，直接影响数亿网民，平台治理将迎来根本性变革。",
       "impact_areas": [
-        "政治",
-        "地缘"
+        "社会",
+        "科技"
       ],
       "impact_level": "重大",
       "sources": [
         {
-          "name": "Reuters",
-          "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNVWFtc2dMVE9kc1JEbXBLelZmc09RaDA2WERJazBtWTdCY2xPdVlvWVpZZDJnSWR3eU5FcTR3WklxNkRmM0hJSkNmajRIdlg3bDktWW5ucEtvNndzZXQ3cEl6cXBpWWlXY25RekFua2NORlZXVXFUMjROSThUQnRRRzVtOW5pYVgxdUIyMHB2cTAtVm5qQTVZLXpTYkEyMjA?oc=5"
+          "name": "澎湃新闻",
+          "url": "https://m.thepaper.cn/detail/33682895"
+        },
+        {
+          "name": "凤凰网",
+          "url": "https://news.ifeng.com/c/8v9vEcSRibW"
+        },
+        {
+          "name": "36氪",
+          "url": "https://www.36kr.com/newsflashes/3916563593850247"
         }
       ]
     },
     {
-      "title": "日本熊本地震致13人死亡",
-      "summary": "7月28日夜间，日本熊本县发生强烈地震，截至7月29日已造成13人死亡、数百人受伤，多处建筑倒塌，熊本城受损。救援工作仍在进行，日本政府动员自卫队救灾。鹿儿岛华人讲述地震瞬间。此次地震再次警示日本防灾体系，对当地经济活动和旅游造成短期冲击。",
-      "reason": "日本强震致13人死亡，引发国际关注，影响日本社会和经济。",
+      "title": "泽连斯基与特朗普白宫会面",
+      "summary": "乌克兰总统泽连斯基与美国总统特朗普在白宫举行会晤，讨论乌克兰局势及美国援助问题。泽连斯基希望获得更多‘爱国者’拦截弹。这是两人关系改善的信号，此前特朗普曾对援乌持保留态度。同日，特朗普还与以色列总理内塔尼亚胡会面。",
+      "reason": "俄乌战争关键节点，美乌领导人互动影响援助走向，地缘政治重要事件。",
       "impact_areas": [
+        "地缘",
+        "政治"
+      ],
+      "impact_level": "重大",
+      "sources": [
+        {
+          "name": "凤凰网",
+          "url": "https://news.ifeng.com/c/8v9tkfJeazo"
+        },
+        {
+          "name": "BBC",
+          "url": "https://www.bbc.co.uk/news/articles/cj4k2z8z45ro"
+        },
+        {
+          "name": "NYTimes",
+          "url": "https://www.nytimes.com/2026/07/28/world/europe/zelensky-trump-meeting-ukraine-war-russia.html"
+        }
+      ]
+    },
+    {
+      "title": "欧洲高温干旱山火肆虐",
+      "summary": "欧洲持续高温干旱，法国西南部山火复燃，西班牙、意大利等多国火灾频发。欧洲正经历有记录以来最猛烈的火灾季之一，火势堪比‘原子弹’。专家警告，气候变化加剧极端天气，未来火灾将成为常态。纽约时报称这是欧洲气候变化的清算。",
+      "reason": "气候危机标志性事件，影响多国生态、经济，全球警示意义。",
+      "impact_areas": [
+        "生态",
         "社会"
       ],
       "impact_level": "重大",
       "sources": [
         {
           "name": "凤凰网",
-          "url": "https://news.ifeng.com/c/8v9SlYpDVHn"
+          "url": "https://news.ifeng.com/c/8v9vxNH4Ylc"
         },
         {
           "name": "NYTimes",
-          "url": "https://www.nytimes.com/live/2026/07/28/world/japan-earthquake-kumamoto-tsunami"
+          "url": "https://www.nytimes.com/2026/07/29/world/europe/summer-heat-wave-fires-climate-change.html"
+        },
+        {
+          "name": "BBC",
+          "url": "https://www.bbc.co.uk/news/articles/cj638jx0l53o"
         }
       ]
     },
     {
-      "title": "红海油轮通行量锐减逾七成",
-      "summary": "7月29日，财新网援引数据显示，红海油轮通行量已锐减逾七成，但实际暗航盛行。由于胡塞武装袭击商船，国际航运公司纷纷避开红海航线，导致航运成本飙升。尽管存在暗航，但全球油轮供需失衡加剧，推高油价风险。红海航运危机持续发酵，对全球能源贸易和供应链构成重大威胁。",
-      "reason": "红海航运量暴跌七成，暗航盛行，全球能源贸易面临重大中断风险。",
+      "title": "C919高原型首飞成功",
+      "summary": "国产大飞机C919高原型首架机完成首飞，标志着C919系列化发展迈出关键一步。高原型针对高海拔机场进行优化，可满足青藏高原等地区的运营需求。这是继标准型投入商业运营后，C919家族的重要扩展，增强了国产大飞机的市场竞争力。",
+      "reason": "重大科技航天成就，国产大飞机谱系化迈出关键一步，具有战略意义。",
       "impact_areas": [
-        "经济金融",
-        "地缘"
+        "科技",
+        "产业"
       ],
       "impact_level": "重大",
       "sources": [
         {
-          "name": "财新网",
-          "url": "https://www.caixin.com/2026-07-29/102469015.html"
+          "name": "央视网",
+          "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5TbDFxbTJjelFCVHBnVFc5VTJFN0RHbHdzYW5vX1c3TG43VFZSQXNxYm9NYzFPY2RZZzlodG56N3dzWk9BOW9NYnMtV3NuZTc3VXNoQ3A1TjFWeTJMeWRmOVJpSzUyWmRWd2VMT3U4Ym9sMDNfUHM3MQ"
+        }
+      ]
+    },
+    {
+      "title": "苹果市值首次突破5万亿美元",
+      "summary": "苹果公司股价盘中上涨，市值首次超过5万亿美元，成为全球首家达到这一市值的公司。分析师预计苹果将迎来5年来最强的6月季度销售增长。不过，市场对科技股估值和AI泡沫的担忧仍在加剧。苹果市值突破凸显其在消费电子和AI领域的领导地位。",
+      "reason": "资本市场重要里程碑，反映科技巨头主导地位，对全球金融市场有信号意义。",
+      "impact_areas": [
+        "经济金融",
+        "科技"
+      ],
+      "impact_level": "重大",
+      "sources": [
+        {
+          "name": "Reuters",
+          "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNbUZmRGhDbU9sZWNKNm4zU1JTVmNubzllUjF5UnhTREUtbzVHV2FyNzZUMHhfZjItUTh6THB4TDVqRHFHc2tTUkFGSTlqSG1LWmFWS2E0ZFk0bm51RE1wMjQ0X09FdlBvOGVoTGpUUmp5cjZfRG1UM01fSTd4MUdLSWZJMVBoOWRxWExNT1JUaUJWTnZtVGFaMWFKMlB5cVVEQlVFVVFIbWs0ZFlHdlhrZEw0MFd0NUs1UmV3ZWxNZlVxdC03dF94cm9MOGY"
+        }
+      ]
+    },
+    {
+      "title": "俄指控Telegram创始人协助恐怖主义",
+      "summary": "俄罗斯正式指控Telegram创始人帕维尔·杜罗夫协助恐怖主义活动，称其未能阻止平台被用于恐怖主义宣传和协调。杜罗夫可能面临长期监禁。此举引发全球科技界和言论自由倡导者的强烈反对，认为这是俄罗斯打压信息自由的又一举措。",
+      "reason": "科技巨头与政府对抗，影响全球通信平台监管与言论自由。",
+      "impact_areas": [
+        "科技",
+        "政治"
+      ],
+      "impact_level": "重大",
+      "sources": [
+        {
+          "name": "BBC",
+          "url": "https://www.bbc.co.uk/news/articles/cj4kexqkpzno"
+        },
+        {
+          "name": "NYTimes",
+          "url": "https://www.nytimes.com/2026/07/29/world/europe/telegram-russia-pavel-durov.html"
         }
       ]
     }
   ],
-  "total_fetched": 294,
-  "generated_at": "2026-07-29T12:26:56.201712+08:00"
+  "total_fetched": 323,
+  "generated_at": "2026-07-29T19:26:13.765002+08:00"
 }
