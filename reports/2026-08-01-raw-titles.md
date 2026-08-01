@@ -1,4 +1,4 @@
-# 2026-08-01 原始新闻标题 (268 条)
+# 2026-08-01 原始新闻标题 (291 条)
 
 ## 新华社 (20 条)
 - Education, health fees among key concerns
@@ -22,52 +22,61 @@
 - Former Chongqing political official facing corruption investigation
 - Former Chongqing political official facing corruption investigation
 
-## 澎湃新闻 (16 条)
-- 家门口不光能刷医保，还能刷颜值？魔都这家社区医院有点“卷”
-- 《黄岩岛国家级自然保护区管理办法》印发
-- 现场画面！南部战区位黄岩岛周边组织海空联合演训
-- 第12批集采开标：327家企业的521个产品获拟中选资格，有哪些看点
-- 浙江实施人工智能OPC术语团体标准：由1名核心自然人主导
-- 黑龙江发布暴雨红色预警：五常局地累计雨量或将超100毫米
-- 给城市发展“做体检”，上海交大团队发布《人民城市高质量发展指数报告》
-- 美官员称特朗普已下令对伊朗发动新袭击：可能本周末启动
-- 国家博物馆发声明提醒：从未授权在馆外公共场所开展扫码入群等活动
-- 国青女篮在世界杯赛场经风雨、见世面
-- 我们正在重新审视自己和世界篮球的距离
-- 人民军队制胜向强
-- 商务部就美国将中国企业列入所谓涉疆法案实体清单答问
-- 谭权任重庆市副市长、市公安局局长
-- 体坛联播｜巴萨热身赛点球失利，国际足联取消推进商业计划
-- 《澎湃新闻｜艺术评论》周刊：鲜艳的弗里达
+## 澎湃新闻 (15 条)
+- 钧正平：法理昭昭，主权有据！中方加强黄岩岛管控合理合法
+- 五年规划发布，全国供销合作社将全面升级为农服务
+- 海南启动赤潮灾害Ⅲ级应急响应
+- 两部门联合印发“十五五”公共机构节能降碳工作方案
+- 观察｜主流媒体在AI时代，如何打造信任引擎？
+- 2026暑期档电影票房破70亿，《八仙！》破10亿
+- 老人戒指掉入高铁厕所、12306回复称不符合寻找条件？铁路部门回应
+- 一部影像史诗的诞生：诺兰与他的《奥德赛》
+- 胡塞武装否认将在曼德海峡征收通行费，称海上措施仅针对沙特
+- FIFA放弃出售世界杯股权项目，因凡蒂诺连任前景或蒙阴影
+- 中国海警位黄岩岛附近海域组织维权执法管控演练
+- 古典学学者围观《奥德赛》：黑白海伦、佩涅罗佩的别针与神秘入侵者
+- 四大行陆续上架5年期大额存单，均为20万元起存
+- 美伊互袭：打打停停的困境与出路
+- 领航丨矢志强军向复兴
 
-## 南方周末 (3 条)
+## 南方周末 (7 条)
+- 房子的“身份证”来了｜ 说政经事
+- 何处安放生活？三大城市群的理想之城答卷
+- “一刀切”成效几何？社交媒体禁令的治理迷思 | 法眼
+- “不承认以色列主权”：马来西亚总理下达“逐客令”
 - 强监管下的CSR创新：南方周末中国企业社会责任十大观察（2026）
 - 透明化VS看不懂，银行理财业绩“换锚”后的AB面
 - 中国人民大学教授叶裕民：村改与市民化相向而行，需要“一把手工程”
 
 ## 凤凰网 (20 条)
-- 视频来了！南部战区在黄岩岛周边联合演训
-- 第12批集采开标，药企代表：这次报价比之前理性多了，但个别品种还是挺卷的
-- “5年来，呼和浩特49名被调整下来的干部因表现突出被重新任职、提拔使用或晋升职级”
-- 15年监禁判决被撤销，秘鲁前总统乌马拉获释
-- 韩国国会通过法案取消检察官侦查权
-- 日自卫队竟称“日本海军”，被中国海军当场反驳
-- 阿里巴巴集团主席蔡崇信宣布离婚，双方未来仍将保持“合作伙伴关系”
-- 山西一精神科医生夸张美颜证件照火了，新照片来了
-- 蔡崇信宣布离婚，不涉及出售阿里股份
-- 渔民钓获鲨鱼徒手将其拽回大海，目击者直呼震惊
-- 蔡崇信夫妇宣布离婚，曾被外界视为华裔商界“顶配夫妻”
-- 巴拿马，正为惹恼中国付出代价
-- 马杜罗犯下的最大错误是什么？委内瑞拉代总统表态
-- 俄乌在乌东双子城较量
-- “中方能出重拳反击，欧盟有点羡慕”
-- 当1743亿美元的中国资本涌向世界, 倒逼西方回答: 准备好迎接“大合流”了吗？
-- 哈马斯：我们同意的是储存武器，不是移交武器
-- 伊朗发布约旦美军基地卫星图，称摧毁3架F-35
-- 连云港火灾母女坠楼，小区居民讲述救援细节：大人用腿把孩子挡在里面，消防员一到就拿水枪喷水
-- 五台山多名驴友遭雷击，“眼前一白，然后就倒了”
+- 喜羊羊动画被指“擦边”，要以最审慎的态度守护童真
+- 八一节点集中披露尖端军力，中国释放何种战略信号？
+- 特朗普500万美元镀金雕像遭批：不如让孩子吃饱
+- 多地小学老师为何改教初中？
+- 太意外，各地开始“抢老人”，什么信号？
+- 85岁老人的困惑：宝鸡公交咋用不了陕西敬老证？免费坐车要拿当地敬老卡，办卡工本费20元，每年保险费18元
+- “夺命裤”，网友吵翻了
+- 日本一客机起落架舱门发生故障，将紧急降落
+- 男子因“大盘鸡放土豆”报警？警察回应
+- 连云港火灾母女坠楼，事发小区消防通道仍停满车
+- 南部战区在黄岩岛领海领空演练，实战化科目曝光！
+- 轰-6K挂超音速导弹画面曝光！专家：射程覆盖黄岩岛
+- 特朗普用声音模拟美军拦截伊朗导弹过程，英媒：幼稚
+- 26人流窜多地盗墓17次，一无所获仍被判刑
+- 00后华尔街“AI股神”婚礼前爆仓，亏损超400亿美元
+- 出租屋散发刺鼻气味飘满小区，警察上门发现租客正操演“炼金秘术”
+- 25岁，爆仓，婚礼前亏1000亿
+- 运油-20给“小六”加油，“小六”是指六代机吗？
+- 建军百年在即，解放军四军种今年迎来哪些新装备？
+- 出生时被抱错，两女子错换37年人生
 
 ## 财新网 (20 条)
+- 国内航线燃油附加费三度下调 8月5日起降至百元以下
+- 人事观察｜重庆市政府高层“大换血” 六人职务调整
+- 人事观察｜电力系统高官褚伟履新宁夏党委常委、秘书长
+- 视线｜极端高温致多瑙河水位跌破记录 二战沉船与猛犸象化石接连露出
+- 大西洋观察｜欧洲政治：没有最右 只有更右
+- 人事观察｜天津新任市委常委、“75后”谢元兼任教育工委书记
 - 巴基斯坦雪崩致10人登山队失联 包括1名中国人
 - 思路与园路｜万里读行④
 - 一周天下｜日本熊本地震致36人死亡、欧洲野火持续
@@ -82,57 +91,60 @@
 - 【周刊提前读】女童基因编辑死亡事件留下什么启示？
 - 【周刊提前读】国产摩托车走向高端市场 强制报废是否过时引讨论
 - 朱学东：“大名件”丝瓜烧油面筋｜饮食
-- 【周刊提前读】国产AI短剧加速海外淘金 但竞争亦日趋激烈
-- 人事观察｜三年三度履新 广东副省长、佛山书记唐屹峰“入常”
-- 人事观察｜国务院部门最年轻副职 49岁蒋成华任商务部副部长
-- 水库蓄水后马尔康红旗特大桥垮塌 调查指地质勘察弄虚作假
-- 【周刊提前读】新能源发电全面入市之后：价格信号如何催化精细化发展
-- 【周刊提前读】电价像普通商品一样波动：电力企业迎来全新机遇与挑战
 
-## 央视网 (3 条)
-- 美官员称特朗普已下令对伊朗发动新一轮袭击 - 央视网
-- 伊朗官员：已制定全面计划应对潜在美以袭击 - 央视网
+## 央视网 (4 条)
+- 本轮厄尔尼诺到底有多强？将给我国带来哪些影响？一文了解↓ - 央视网
+- 夏日“宝藏秘境”解锁限定体验 满目盛夏风情皆是出游佳选 你心动了吗？ - 央视网
 - 煤电占比首次跌破50% 绿电如何持续壮大？ - 央视网
+- 美官员称特朗普已下令对伊朗发动新一轮袭击 - 央视网
 
-## BBC (5 条)
-- Spain's PM blames traffickers after 60,000 migrants reach Ceuta from Morocco
-- Body of US climber the latest recovered after Pakistan avalanche
+## BBC (16 条)
+- Spain attacks 'selfish' response of some EU countries to Ceuta migrant crossings
+- Uefa has 'lost confidence' in Infantino's Fifa leadership
+- Israeli West Bank settler tells BBC attacks on Palestinians are justified as revenge
+- Russian strikes on Kyiv kill at least nine, Ukraine officials say
+- Race to rescue remaining climbers after deadly avalanche in Pakistan
 - Peru's ex-president leaves jail after 15-year jail term for corruption overturned
+- India's 'cockroach' protesters have wounds consistent with pellet-gun fire, say experts
+- Trump administration drops Reflecting Pool vandalism charge and admits 'botched' repairs
+- Death row inmates desperate to escape execution in Saudi Arabia call the BBC
+- Infantino on the brink? Who might replace him if he goes?
+- How police in US are using the power of podcasts to crack unsolved murders
+- Greyhounds bound for Australia as New Zealand racing ban takes effect
 - What's in the Gaza peace deal roadmap?
+- Watch: Why Fifa dropped plans to sell stakes in the World Cup
+- What we know about the Pakistan avalanche and missing climbers
 - What triggered the mass migrant crossings into Ceuta?
 
-## Reuters (9 条)
+## Reuters (6 条)
 - Apple set to lose nearly $500 billion in value after weak forecast - Reuters
-- US Treasury informed banks that it may intervene in Japan's yen, source says - Reuters
-- US Justice Department says 'flawed' work led to Reflecting Pool peeling - Reuters
-- Spain says migrants are returning from Ceuta after 57 die in border rush - Reuters
 - US to make visa bond program permanent for people from dozens of countries - Reuters
+- US Justice Department says 'flawed' work led to Reflecting Pool peeling - Reuters
 - US ICE detains Johns Hopkins researcher as airport arrests surge - Reuters
-- EXCLUSIVE: Russian grain lobby says Kyiv's attacks threaten Black Sea exports, global food security - Reuters
-- Greece fights fires near Athens as France, Spain improve - Reuters
 - Moonshot has Nvidia chip cluster from Alibaba computing deal, Bloomberg News reports - Reuters
+- Wildfires in southeast France - The Lufkin Daily News
 
 ## NYTimes (20 条)
-- After Tens of Thousands of Migrants Enter Spanish Territory, Most Return to Morocco
-- At Least 34 Dead From Coal Mine Blast in Pakistan
-- Trump’s Gaza Deal Sparks Questions on Whether Israel and Hamas Will Comply
-- Did 75,000 Students Cheat on a College-Entrance Exam in Mexico?
-- I Flew in the Douglas DC-3, a WWII Workhorse of Aviation, Over the Amazon
-- Beijing Protests After New Zealand Minister Insults Chinese-Born Lawmaker
+- Russian Missiles Kill 9 in Kyiv After Trump Backs Off Air-Defense Pledge
+- Spain Installs Floating Barrier in Ceuta After Influx of Migrants
+- In Iran, the U.S. Appears Headed for a Strategic Defeat, Allies Fear
+- Kuwait Says It Downed Iranian Drones as Mideast Braces for Possible Escalation
+- The U.S. Deported Him to Jail in Russia. Then He Escaped.
 - How 50,000 People Surged Into a Spanish Exclave in Africa
-- Extreme Heat Has Transformed What Summer Means Across Generations in Europe
 - Japan’s Rescuers Battle Cruel Heat After Major Earthquake
+- Extreme Heat Has Transformed What Summer Means Across Generations in Europe
+- Beijing Protests After New Zealand Minister Insults Chinese-Born Lawmaker
+- Search Continues for Missing Climbers After Pakistan Avalanche
+- At Least 34 Dead From Coal Mine Blast in Pakistan
+- Making Rounds
+- A Weekend That Marks a Historical Moment for Black Canadians
+- Fact-Checking Trump’s Claims About the Effect of the Iran War on Oil Prices, Munitions and More
+- A French Village Becomes a Ghost Town After the Wildfires
 - Evidence Indicates U.S. Dropped Bomb on Residential Area in Iran, Killing 3 Civilians
 - Trump Backs Away From Deal to Let Ukraine Build Patriot Missiles
 - Thousands of Migrants Surge Into Ceuta from Morocco, Prompting Political Backlash
 - What Caused the Surge of Migrants From Morocco Into Ceuta?
 - Young Men Poured Into Ceuta Seeking Work
-- Ceuta Evokes Europe’s 2015 Migration Crisis. But Much Has Changed Since.
-- Ukraine’s Strike on Iranian Ship Shows How Two Wars Could Spiral
-- Far-right politicians seize on Ceuta
-- Spain’s Leader Rushes to Ceuta After Thousands of Migrants Burst Across Border
-- Renowned Climber Nirmal Purja Is Missing After Avalanche in Pakistan as 4 Bodies Are Found
-- What to Know About Ceuta
 
 ## CNN (6 条)
 - 0% intro APR until 2024 is 100% insane
@@ -143,26 +155,26 @@
 - Want Cash Out of Your Home? Here Are Your Best Options
 
 ## 微博热搜 (20 条)
-- 警方对捐日本侵华罪证少年启动保护
-- 莫得闲今日开播
-- 有种安心叫人民子弟兵
-- 喜羊羊新作画面疑似擦边
-- 你不用去赛里木湖了你没白活
-- 奶奶给我做的减脂餐
-- 侯明昊珍宝珠冰脆酸条嚼嚼者
-- 老人高铁如厕掉落金戒指求助无果
-- 美羊羊捂裙镜头是否属于过度解读
-- 金靖直言丑的基因很强大
-- 少年捐日军罪证或为孤品
-- 公司裁员从胖的开始
-- 送到你床上涉事邮政快递点被查
-- 金高银金泰梨韩国90花断层第一
-- 小澈直播被封
-- 航空公司不满携程返还天价退票费
-- 林子烨也在看TF四代突围
-- 檀健次八月在何不同舟渡剧组拍戏
-- 用AI的方式打开CJ骁龙馆
-- 3中国留学生在澳遭2女子辱骂殴打
+- 女子住酒店退房搬空用品只剩电视
+- 国家电网坚决拥护党中央决定
+- 歼15飞行员雨中盲操安全着舰
+- 曝Jiejie离开WBG原因
+- 喜羊羊与灰太狼回应被指擦边
+- 逐玉作者道歉
+- 年会不能停2我的理想打工副本
+- 奥德赛
+- 这样的外卖才配收我的打包费
+- 客人笑了半小时才吃这碗蛋炒饭
+- 找对象的尽头是初高中同学
+- 陈瑶霍仙姑下线了
+- 森碟都会开车了
+- Wolves对战FPX.ZQ
+- TF四代五公稳了
+- TOP青岛演唱会设备车倾撒
+- 借1万块1年利息掏了2400元
+- 奇瑞七月销量276820辆
+- 21岁女子漂流呛水后吐血不止
+- 皇马给维尼修斯下续约最后通牒
 
 ## 知乎热榜 (20 条)
 - 玉米不能当饭吃，怎么成为了世界三大粮食作物之一？
@@ -187,121 +199,134 @@
 - 瞎扯 · 如何正确地吐槽
 
 ## B站热门 (20 条)
-- 我们拍到了水下风暴
-- 《原神》7.0版本PV：「无神怜爱的雪国」
+- 《找工作是你的谎言》
+- ⚡️宗 主 连 携 技⚡️
 - 【独家】《凡人修仙传之慕兰之战》第9集【总第185集】
-- 小时候看不懂，长大后已是局中人
-- 《次子就是次子》
+- 刚认识就给我花钱，你是不是喜欢我？
+- 我们拍到了水下风暴
 - 【纪录片】闪闪的儿科医生4 第10集 接棒！生命未完待续……
+- 久等啦~欢迎收看新系列！
+- 《原神》至冬交响音乐现场
 - 😊什么样的结局才配得上这一路的颠沛流离……【一口气看完】
-- 庆祝中国人民解放军建军99周年微视频《向百年》
-- 我还能找到更神秘的我的世界小知识吗？！答对这些题你也可以做科普了！
-- 【纪录片】地球·劫后重生 中配版08 美洲洪水
-- 当你不小心进入了黑乌龟...
-- 太初神宗的故事（合集）
-- 你们起过最爆笑的外号是什么
-- 《整改到胃》
-- “ 恋 爱 大 师 ”2.0
-- 一条视频看七月：韩国赌命梭哈，美国全球收费，这世界谁正常？
+- 《次子就是次子》
+- 《原神》7.0版本PV：「无神怜爱的雪国」
+- 小时候看不懂，长大后已是局中人
+- 大 周 礼 时 代(15)
+- 予愿安洁莉娜的入职测试！【明日方舟】
+- 两个固排的诞生
 - 遗忘之海×海绵宝宝联动PV——出发！蟹堡王分店！
-- 比赛现场一片混乱😱你们不都是顶流蓝v吗？再吵我记名字了！
-- 成为蜘蛛侠的10年，荷兰弟对我说…【蛛联B合】
-- 古罗马离谱习俗——两千年前的古罗马，开放程度与市井智慧，完全颠覆现代人的认知。
+- 美军传来噩耗，国防部长成了健身卖药黑私教
+- 《全世界最会用AI的人》
+- 《整改到胃》
+- 予愿安洁莉娜 VS 方舟精英BOSS，泰拉人能飞！【明日方舟】
 
 ## 抖音热搜 (20 条)
-- 在八一广场共同见证升旗仪式
+- 上海大师赛赵心童vs威尔逊
 - 把盛夏交给火把节
-- 庆祝中国人民解放军建军99周年
-- 别不开心送你一片大球球
-- 吴宜泽无缘上海大师赛决赛
-- 八一建军节之际致敬中国军人
-- 国家电网原董事长辛保安被查
+- 99载光荣征程 致敬人民子弟兵
+- 人民军队生日快乐
+- 哈兰德与乔丹合影
 - 八月第一天接好运莲莲
+- 用一万斤青铜复刻曾侯乙编钟
+- 这个淡人奶油妆没有对手
+- 国家电网原董事长辛保安被查
 - AI生成的作品算艺术吗
-- 我的暑期限定solotrip
-- 完善出境入境限制措施
-- 美股三大股指全线收涨
+- 直-20J亮剑黄岩岛
+- 威姆斯vs卡米然百分大战
+- 2034杯是孩子们的圆梦之旅
 - 原神至冬版本前瞻
-- 伊朗打击美军空中任务后勤保障枢纽
+- 李荣浩襄阳演唱会
 - 凤凰传奇成都演唱会
-- 中国妇女报批贵州擦边伴漂
 - 梦的翅膀受了伤丝滑入场舞
 - 蜘蛛侠4结尾神来之笔
-- 把快乐装进云朵里
-- 总是为路边的小猫驻足算幼稚吗
+- 台风白海豚最新路径
+- 内蒙古的韭菜花又开了
 
 ## 豆瓣讨论 (1 条)
 - 绝世战魂第二季- 电视剧 - Douban
 
 ## 雪球热帖 (20 条)
-- 曾姓股民向东通退发起索赔 刘彦梅律师接受咨询 - 新浪财经
 - 霍姓股民向*ST天茂发起索赔 牛彬律师接受咨询 - 新浪财经
-- 7.30中央政治局会议精神学习：加力度、提实效、强韧性 - 手机新浪网
-- 计算机行业月报：国产AI产业基本面持续向好 - 手机新浪网
-- 中原证券研究所月度金股组合(2026年8月) - 手机新浪网
-- 固定收益点评报告7月PMI数据点评：内外需均放缓价格指数续降 - 手机新浪网
-- 债券研究：转债市场日度跟踪 - 手机新浪网
-- 传媒2026Q2基金持仓分析：配置力度进一步下降 出版获增配 - 手机新浪网
-- 新凤鸣股东屈凤琪3天减持540万股，套现1.05亿元 - 新浪财经
-- 苏交科股东省心享迎水晋泰嘉裕16号私募证券投资基金5天减持300万股，套现1631.49万元 - 新浪财经
-- 融通明锐混合A净值上涨10.03% - 新浪财经
-- 医药生物周报：5M26实体药店市场分析 - 手机新浪网
-- 兴证资管金麒麟领先优势一年持有期混合C净值上涨3.99% - 新浪财经
-- 恒生前海北证50成份指数增强A净值上涨3.15% - 新浪财经
-- 汇添富优选回报混合A净值上涨4.73% - 新浪财经
-- 华夏创业板人工智能ETF发起式联接C净值上涨7.22% - 新浪财经
-- 山东玻纤股东东兴投资86天减持589.37万股，套现1.07亿元 - 新浪财经
-- 摩根新兴动力混合A类净值上涨3.10% - 新浪财经
-- 万家汽车新趋势混合A净值上涨4.06% - 新浪财经
-- 华宝上证科创板芯片ETF净值上涨3.21% - 新浪财经
+- 英国海军：周五阿曼附近海域一艘油轮遭弹体击中 - 新浪财经
+- 中国国家博物馆严正声明 - 新浪财经
+- 联想ThinkCentre Neo 50a 24 Gen 7一体机海外发布 - 新浪财经
+- 北部湾港(000582)：平陆运河重塑货运格局 北部湾港迎来增长红利 - 手机新浪网
+- 汇添富中证科创创业50指数增强发起式A净值上涨3.65% - 新浪财经
+- 博时新收益混合A净值上涨3.26% - 新浪财经
+- 嘉合睿金混合C净值上涨5.37% - 新浪财经
+- 海富通成长价值混合C净值上涨3.03% - 新浪财经
+- 华宝科技ETF联接C净值上涨3.24% - 新浪财经
+- 泰信优势领航混合A净值上涨10.20% - 新浪财经
+- 华商龙头优势混合净值上涨3.83% - 新浪财经
+- 东方高端制造混合C净值上涨8.60% - 新浪财经
+- 华商卓越成长一年持有混合A净值上涨5.58% - 新浪财经
+- 英大灵活配置A净值上涨5.88% - 新浪财经
+- 宏利景气智选18个月持有混合C净值上涨3.47% - 新浪财经
+- 今日期货市场重要快讯汇总｜2026年8月1日 - 新浪财经
+- 财通景气行业混合A净值上涨4.76% - 新浪财经
+- 前海开源金银珠宝混合C净值上涨3.21% - 新浪财经
+- 广发科技先锋混合净值上涨4.07% - 新浪财经
 
-## 36氪 (13 条)
+## 36氪 (20 条)
+- 金山办公WPS存储管理新版本上线
+- 长三角多地发放结婚消费券
+- 印度央行：印度引资举措吸引超400亿美元外资
+- 美中贸委会会长：美国企业重视中国市场和对华合作
+- 部分美国企业换上中国大模型以降低成本
+- 充电桩CCC认证自8月1日起开始强制实施
+- 国际足联放弃“出售世界杯部分股权”计划，亚足联主席发声
+- 岚图汽车：7月交付13189辆新车
+- 吉尔吉斯斯坦与阿塞拜疆签署同盟关系条约
+- 浙江实施人工智能OPC术语团体标准：由1名核心自然人主导
+- 鸿蒙智行月交付45046台
+- 中国国家博物馆严正声明：从未在馆外开展扫码入群、信息采集活动
+- 2025年地方养老基金投资收益率为5.76%
+- 2026年上半年，浙江机场累计运输生鲜近4万吨
+- 中国—乌兹别克斯坦AEO互认安排正式实施
+- 报道称OpenAI面临投资者担忧与竞争压力 IPO或推迟至明年
+- 快递外卖电动车须悬挂专用号牌 北京新规今起施行
+- 蔚来公司7月交付35934台，同比增长71%
 - 暑运过半 全国铁路累计发送旅客4.32亿人次
 - 韩国7月出口飙升至历史第二高 半导体出口同比暴增近180%
-- 干旱导致缺电 罗马尼亚全国整个8月进入警戒状态
-- 多家品牌金饰价格下调 老凤祥克价1225元
-- 今年7月或成美国有记录以来最热月份
-- 福特CEO：正为中国汽车进入美国市场做准备
-- 国际足联叫停世界杯股权出售计划
-- “十五五”国家电网特高压在建总规模将达“十四五”两倍
-- 2026年中期分红方案密集落地 45家公司拟派现逾370亿元
-- 下周37股面临解禁 合计解禁市值超233亿元
-- 今年上半年港珠澳大桥珠海公路口岸进出口突破2000亿元
-- 美股三大指数收盘集体上涨，大型科技股涨跌不一
-- 7月小米汽车交付量持续超30000台
 
 ## 虎嗅 (20 条)
-- 全世界最强的AI，都在“抄”这群普通人的作业
-- 鸡排哥消失了？网红爆火的下半场，比你想象的更短
-- 为什么年轻人，开始爱上一个注定毁灭的世界？
-- 上海地铁时隔21年拟全线调价，释放了哪些信号？
-- 实测MiniMax H3 VS Seedance2.5 ：旗鼓相当，性格迥异
-- 互联网流量，崩塌了
-- 25岁AI大神，百亿美元439%收益，爆仓后：一篇165页AI长文，到底讲透了什么
-- Claude封号后，她们开始抢救爱情
-- AI正在抢走饭碗，打工人的出路在哪儿？
-- 过去女人穿的，现在男人全上身了？
-- 上海雪花膏，破产了
-- 一群富豪的牛津梦，标价108万
-- 为什么货少了，船还不够用？
-- 当城市规则撞上农村传统的裂缝时，你还忍心骂房主任吗？
-- AI破译梦的密码：你的大脑正在重写现实
-- WAIC 收官真心话：数百家机器人刷屏背后，AI 究竟重写了什么？
-- 老乡鸡五连败、巴奴现金只剩3932万：2026食品IPO为何集体遇冷？
-- AI乌托邦：我们不需要一台永不犯错的机器
-- 不是所有产品都适合AI 化：一个AI 产品经理的判断框架
-- 特斯拉拆不掉中国制造
+- 赵露思主理品牌RDD，困于粉丝
+- 恐怖片，正在制造新人导演
+- AI把成本打下来之后，谁来把需求接回去？
+- 观众需要AI明星吗？
+- 首例脑部基因编辑试验与一名6岁女孩之死
+- 豆包40亿美金ARR，照样得面临终极叙事
+- 新一代“擦屁股大师”，正在盘活内娱？
+- 25岁，爆仓，婚礼前亏1000亿
+- 中国车企的泰国“大考”：47%市占率高点之后，合规门槛全面抬升
+- 几十元每月上百G，大流量卡“大撤退”，不少人连夜抢购，谁在为“增量不增收”买单？
+- MODEL Y ，特斯拉专心造车的高光时刻 |CDM新经典系列
+- 给狂跌“43%”的长安汽车辟个谣
+- 号卡新规后，运营商线下门店的失血和回血在同时发生
+- 1350亿，世界杯差点被“卖”了
+- 为什么新一代网红媒婆都是男的？
+- 数百万本书，被Claude“阅后即焚”
+- 世界首富扛不住，特斯拉辟谣甩卖中国业务
+- AI大厂，打起了“Token奶茶大战”
+- 学合肥，该学什么
+- 罕见病家庭的百万试验
 
-## GitHub Trending (12 条)
-- zhaoxuya520/reverse-skill
-- different-ai/openwork
-- mvanhorn/last30days-skill
-- paperswithbacktest/awesome-systematic-trading
+## 少数派 (1 条)
+- 「弯道超车」赛车入门指北：进站不只为换胎，策略里的那本时间账
+
+## GitHub Trending (15 条)
 - microsoft/AI-For-Beginners
-- github/copilot-sdk
-- chatwoot/chatwoot
-- agavra/tuicr
+- paperswithbacktest/awesome-systematic-trading
 - usekaneo/kaneo
-- geo-tp/ESP32-Bit-Pirate
-- deepfakes/faceswap
-- 1jehuang/jcode
+- zhaoxuya520/reverse-skill
+- microsoft/generative-ai-for-beginners
+- github/copilot-sdk
+- github/gh-stack
+- huggingface/speech-to-speech
+- abus-aikorea/voice-pro
+- iv-org/invidious
+- ansible/ansible
+- microsoft/TRELLIS.2
+- TencentCloud/TencentDB-Agent-Memory
+- NomaDamas/k-skill
+- bytedance/deer-flow
