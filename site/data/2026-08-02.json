@@ -1,0 +1,214 @@
+{
+  "date": "2026-08-02",
+  "news": [
+    {
+      "title": "莫斯科餐厅爆炸致3死多伤",
+      "summary": "今日，俄罗斯莫斯科市中心一家高档餐饮店发生自制炸弹爆炸，俄媒称已造成3人死亡、21人受伤。俄方初步定性为自制炸弹袭击，警方正展开调查。事件发生在莫斯科繁华地段，引发对俄罗斯国内安全形势的担忧。若定性为恐怖袭击，将进一步冲击俄罗斯社会稳定预期，并可能影响国际社会对俄投资环境的评估。",
+      "reason": "莫斯科闹市餐厅遭炸弹袭击致多人死伤，安全事件冲击国内稳定预期，国际关注度极高。",
+      "impact_areas": [
+        "政治",
+        "社会"
+      ],
+      "impact_level": "重大",
+      "sources": [
+        {
+          "name": "澎湃新闻",
+          "url": "https://m.thepaper.cn/detail/33696538"
+        },
+        {
+          "name": "凤凰网",
+          "url": "https://news.ifeng.com/c/8vFTG0L4Yiq"
+        },
+        {
+          "name": "BBC",
+          "url": "https://www.bbc.co.uk/news/articles/c86n4ljxp63o"
+        }
+      ]
+    },
+    {
+      "title": "欧盟紧急应对休达移民危机",
+      "summary": "西班牙北非飞地休达近日遭遇大规模非法越境潮，西官方称约5万人被遣返、67人在过程中丧生。西班牙已在休达海域安装浮动屏障，欧盟宣布将召开紧急会议商讨应对方案。事件暴露欧盟外部边界管控漏洞，恶化西班牙与摩洛哥关系，并重新引发欧盟内部关于移民配额与边境安全政策的激烈争论。",
+      "reason": "休达大规模偷渡潮与欧盟紧急会议标志欧洲边界危机再起，牵动欧盟移民政策走向。",
+      "impact_areas": [
+        "政治",
+        "社会",
+        "地缘"
+      ],
+      "impact_level": "重大",
+      "sources": [
+        {
+          "name": "澎湃新闻",
+          "url": "https://m.thepaper.cn/detail/33696415"
+        },
+        {
+          "name": "凤凰网",
+          "url": "https://news.ifeng.com/c/8vF6PzvSEQ4"
+        },
+        {
+          "name": "BBC",
+          "url": "https://www.bbc.co.uk/news/articles/cz7d17r455go?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "name": "Reuters",
+          "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQN0J1S2JCeWV3d0FxbXk5WEtkeXpHOGdQdGtPSFNQV3MzRkN5RGxZS0lINHFHb3BKN3BCLVNSQU13OExKOEhNRzNaVlBxV01Fck1hTDVMQUN2TmxqYVZxOHI2UDdaSVlNT21BSUxPSzVjcWFzbGxKSVdPWThRM056OGVyRE1JdHpXYnJpLUFiQWh4OTNQLXhhbk5NVGtJaW9ocnpUaVc4QnRLTnRXdU9oQmRpTWlGOVEweUszY1ZDbk5ISzA?oc=5"
+        }
+      ]
+    },
+    {
+      "title": "中东局势升温美建议撤侨",
+      "summary": "美国政府建议中东地区美国公民做好撤离准备，美军同时向中东增派重型运输直升机。以色列官员披露，美国接近批准对伊朗军事打击，以方已保持高度警惕。相关信号显示中东局势正滑向更大规模冲突边缘。若美伊开战，全球原油供给与海峡通航将受直接威胁，国际油价、航运与金融市场或将剧烈震荡。",
+      "reason": "美国建议撤侨并逼近对伊军事打击，中东战云密布，可能引爆全球能源与市场震荡。",
+      "impact_areas": [
+        "地缘",
+        "经济金融",
+        "政治"
+      ],
+      "impact_level": "现象级",
+      "sources": [
+        {
+          "name": "澎湃新闻",
+          "url": "https://m.thepaper.cn/detail/33695937"
+        },
+        {
+          "name": "凤凰网",
+          "url": "https://news.ifeng.com/c/8vFJ2CWKgfu"
+        },
+        {
+          "name": "央视网",
+          "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBNVzNDMWlla3Vob2VTSVJFV2RLNC05SjdBT1FyWlQ2bnE2RmwwQWM3eFF3Sm8tUG1IUU1LVG0wTmx2NFFaTEtoWGZldktsVXNpS1g1RlJXRkxjLUgyNjFaWlVHRm95YmhldW9uMVdDUUdqVXJlOHhOcQ?oc=5"
+        },
+        {
+          "name": "雪球热帖",
+          "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBQelk0MjR3M3VERDZrbXBYZHhPaVFFMFBFOUF0OVpOWFpMWG5TMWpFVVpXeGV6UGg0T1h6Mm8wOGxSSWVJTTN6TzRmSngyWkhOcTN3b2JxbC1WVTNOdjBxRWdnYXRENm9Vc1o1dExDeDNCVVV6WjNkcw?oc=5"
+        }
+      ]
+    },
+    {
+      "title": "巴雪崩致中国公民失联",
+      "summary": "巴基斯坦北部山区发生严重雪崩，造成多人死伤和失踪，其中一名中国公民失联，中国使馆已敦促巴方全力搜救。雪崩还袭击了登山团队，多名外国登山者遇难或失踪。该事件凸显高海拔山区自然灾害风险，亦考验中国领事保护应急机制，同时对当地登山旅游产业造成沉重打击。",
+      "reason": "巴基斯坦雪崩致中国公民失联，涉及海外公民安全，登山界损失惨重，领保窗口受关注。",
+      "impact_areas": [
+        "社会",
+        "地缘"
+      ],
+      "impact_level": "重大",
+      "sources": [
+        {
+          "name": "澎湃新闻",
+          "url": "https://m.thepaper.cn/detail/33696246"
+        }
+      ]
+    },
+    {
+      "title": "秘鲁飞机坠毁13人遇难",
+      "summary": "今日，秘鲁一架搭载游客的小型飞机在飞行途中坠毁，机上十余人遇难，BBC报道称遇难人数为13人。事故原因仍在调查。此次空难是秘鲁旅游航空近年最严重事故之一，将促使航空监管部门重新审视小型观光飞机的适航标准与安全运营，对秘鲁旅游业短期亦构成负面冲击。",
+      "reason": "秘鲁观光飞机坠毁致13人遇难，为空难重大事件，冲击旅游业与航空安全监管。",
+      "impact_areas": [
+        "社会",
+        "产业"
+      ],
+      "impact_level": "重大",
+      "sources": [
+        {
+          "name": "澎湃新闻",
+          "url": "https://m.thepaper.cn/detail/33696536"
+        },
+        {
+          "name": "BBC",
+          "url": "https://www.bbc.co.uk/news/articles/c70g132erlko"
+        }
+      ]
+    },
+    {
+      "title": "刚果(金)埃博拉疫情最严重",
+      "summary": "世界卫生组织表示，刚果（金）正在经历有记录以来最严重的埃博拉疫情，病毒并已扩散至邻国乌干达。乌干达方面在控制疫情方面取得一定成效，但跨境传播风险依然严峻。此次疫情暴露非洲公共卫生体系脆弱性，国际社会需加紧疫苗、防护物资和医疗队支援，防止疫情演变为区域性公共卫生灾难。",
+      "reason": "刚果（金）埃博拉疫情为史上最严重，跨境扩散威胁区域公共卫生安全，需全球响应。",
+      "impact_areas": [
+        "公共卫生"
+      ],
+      "impact_level": "重大",
+      "sources": [
+        {
+          "name": "BBC",
+          "url": "https://www.bbc.co.uk/news/articles/cy07qe0knvzo"
+        },
+        {
+          "name": "BBC",
+          "url": "https://www.bbc.co.uk/news/articles/clyemjn44qqo"
+        }
+      ]
+    },
+    {
+      "title": "欧洲多国遭热浪野火",
+      "summary": "欧洲多地遭遇极端高温与野火双重打击：意大利几乎所有主要城市发布最高级别高温警报，希腊、法国、西班牙山火持续蔓延并呈恶化趋势。高温加剧能源需求和农业干旱，野火威胁居民生命财产与自然生态。气候变化正使欧洲极端天气常态化，迫使各国加快气候适应和灾害应急体系建设。",
+      "reason": "欧洲多地高温警报与野火蔓延，极端天气常态化，对民生、生态、能源构成系统性压力。",
+      "impact_areas": [
+        "生态",
+        "社会",
+        "公共卫生"
+      ],
+      "impact_level": "重大",
+      "sources": [
+        {
+          "name": "BBC",
+          "url": "https://www.bbc.co.uk/news/articles/cr7k4gdrgljo"
+        },
+        {
+          "name": "Reuters",
+          "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPaENSUzhSWi1xMmhoSVFXRFZLTUM2V2Rydm5sOUp0aW1WYkxkV1pWdDFCTVpkbkF0WVFpSUlZbFZuQ2FwYXVvOVR1X1I0NWlWTjFUaFdlU2tyd1RXNm1rcWF5OWV1SzNHYVpvRGtlWFQ2NWxCYUk1R2c1UWVaU3k0SENqbDMxS1B3eUZoOE9pSGhxNGZScDBFY2NLUjVoNzhxNm1BYzFoUm5EbVE0dXQyUGJoQkd1YkRTdjNqXw?oc=5"
+        }
+      ]
+    },
+    {
+      "title": "俄船违反制裁向马里运军车",
+      "summary": "据BBC调查报道，一艘俄罗斯船只无视国际制裁，向马里运送军用车辆。此举显示俄罗斯正扩大在西非萨赫勒地区的军事存在，支持马里军政府对抗西方压力。俄方通过规避制裁向非洲输送军备，既削弱国际制裁效力，也可能加剧地区军备竞赛与地缘争夺，引发法国、欧盟及美国强烈反应。",
+      "reason": "俄船无视制裁向马里运送军车，显示俄在非洲扩张与制裁体系受挑战，地缘意义突出。",
+      "impact_areas": [
+        "地缘",
+        "政治"
+      ],
+      "impact_level": "重大",
+      "sources": [
+        {
+          "name": "BBC",
+          "url": "https://www.bbc.co.uk/news/articles/cgk4rdley0ko"
+        }
+      ]
+    },
+    {
+      "title": "第12批集采10款原研药降价",
+      "summary": "国家第12批药品集中采购中标结果公布，10款原研药价格大幅下调，部分品种降幅显著。集采常态化推动药价回归合理区间，减轻患者用药负担；同时原研药企在华市场份额和定价体系受到冲击，国内仿制药企也面临利润率收窄压力。长期来看，集采将倒逼医药行业加速创新转型与结构升级。",
+      "reason": "国家集采第12批结果出炉，原研药大幅降价，医药产业格局与患者负担将发生显著变化。",
+      "impact_areas": [
+        "经济金融",
+        "公共卫生",
+        "产业"
+      ],
+      "impact_level": "重大",
+      "sources": [
+        {
+          "name": "凤凰网",
+          "url": "https://news.ifeng.com/c/8vFKDnxi6GU"
+        }
+      ]
+    },
+    {
+      "title": "中方加强黄岩岛管控",
+      "summary": "《解放军报》'钧声'专栏发表评论，明确表示中方加强黄岩岛管控合法合理。这是中国官方媒体对南海维权行动的正面宣示。黄岩岛扼守南海重要水道，中方强化管控势必引发菲律宾等周边国家关注，也可能招致美国等域外势力介入。该表态显示中国在南海主权问题上立场更趋坚定，地区海上博弈或进一步升温。",
+      "reason": "解放军报高调表态加强黄岩岛管控，南海维权立场趋硬，地区海上博弈风险上升。",
+      "impact_areas": [
+        "地缘",
+        "政治"
+      ],
+      "impact_level": "重大",
+      "sources": [
+        {
+          "name": "澎湃新闻",
+          "url": "https://m.thepaper.cn/detail/33696559"
+        }
+      ]
+    }
+  ],
+  "total_fetched": 178,
+  "generated_at": "2026-08-02T07:27:23.505544+08:00"
+}
