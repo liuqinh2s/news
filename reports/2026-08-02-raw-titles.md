@@ -1,4 +1,4 @@
-# 2026-08-02 原始新闻标题 (178 条)
+# 2026-08-02 原始新闻标题 (183 条)
 
 ## 新华社 (20 条)
 - Education, health fees among key concerns
@@ -22,60 +22,87 @@
 - Former Chongqing political official facing corruption investigation
 - Former Chongqing political official facing corruption investigation
 
-## 澎湃新闻 (11 条)
-- 明查｜韩国股市大跌，民众上街抗议？实为7月首尔罢工集会
-- 人民日报金社平：谋幸福——深刻认识“最本质的特征”和“最大优势”
-- 历史上的今天｜1936年8月2日，赵一曼英勇就义，年仅31岁
-- 人民日报头版关注：上海稳步建设全球科创高地
+## 澎湃新闻 (17 条)
+- 大学生写家史︱田垄与灶台边的家族记忆
+- 伊朗军方：特朗普称伊朗要求停止攻击是“谎言”
+- 机场摆渡车空调故障致旅客闷热不适，春秋航空发布致歉公告
+- 赵心童无缘决赛：有遗憾，但输赢很正常
+- 福泽盛：中国将助力斯诺克运动登上奥运舞台
+- 湖南衡阳通报“公职人员损坏车位地锁”：将严肃处理
+- 山西吕梁一路口因暴雨致多辆私家车堆叠，道路严重堵塞，不少人来寻车
+- 澎湃新闻发布AI底座战略，打造智媒时代“信任引擎”
+- 视频丨太空种粮技术升级！首次在轨连续培养两代水稻实验进展顺利
+- 甘肃渭源重大山洪灾害致25死23伤，国家防减救灾委挂牌督办
+- 湖南衡阳通报公职人员损坏停车位地锁事件：依规依纪严肃处理
+- 62人被追责问责，包钢板材厂爆炸事故调查报告公布
+- 浙江省委原副书记吴敏达逝世，参与研制摄影机记录了首枚氢弹试爆
+- 上海书评周刊丨张瑞威谈明清稻米经济：粮政、商路与食味
+- 时政微观察丨军旗永向党
+- 禁带外置扩音设备入园，上海鲁迅公园“噪声扰民”整治效果如何？
 - 解放军报钧声：中方加强黄岩岛管控合法合理
-- 莫斯科餐厅爆炸已致3死21伤，俄称系自制炸弹袭击
-- 秘鲁一架小型飞机坠毁，机上十余人遇难
-- 欧盟宣布将召开紧急会议讨论休达移民危机
-- 莫斯科市中心一餐饮店发生爆炸，造成人员伤亡
-- 巴基斯坦雪崩致1名中国公民失联，我使馆敦促巴方全力搜救
-- 美军称已部署一架重型运输直升机至中东地区
 
-## 凤凰网 (8 条)
-- 莫斯科一餐饮店发生爆炸，致3死15伤
-- 凤凰女记者德黑兰日志丨中国企业家说，不管战争怎样，他们不会离开
-- 丈夫出轨做试管婴儿，女子：他父母、好友劝我接受现实
-- 性别和情绪，房主任的两种舞台语法为什么在现实中失灵了？
-- 5万人被遣返、67人丧命，西班牙称休达“偷渡潮”平息
-- 第12批集采中标结果出炉，有10款原研药价格被打下来了
-- 太子集团“幕后大哥”胡小伟已离开日本，被遣送美国
-- 美政府建议中东地区美国公民做好撤离准备
+## 南方周末 (1 条)
+- 每一个字都平等印刷在字典上丨记者手记
 
-## 央视网 (2 条)
+## 凤凰网 (5 条)
+- 受高温影响 多瑙河莱茵河水位创历史新低 - v.ifeng.com
+- 44年来首次，匈牙利关闭全国唯一核电站 - v.ifeng.com
+- 特朗普：已同意取消对伊朗的打击 - v.ifeng.com
+- 冲绳要求美军撤走“海马斯” - v.ifeng.com
+- 以色列允许国际稳定部队进入加沙 加沙民众期望部队助重建家园 - v.ifeng.com
+
+## 财新网 (4 条)
+- 医药板块7月收涨，“基因编辑概念股”一日跌超19%｜医药股周报
+- 7月财新中国新经济指数微降至33.8 主要受资本投入下降影响
+- 财新闻｜江苏徐州一地试点集中供冷
+- 不要轻易介入他人的因果，不要干涉与背负他人的命运｜活着，有那么好吗？③
+
+## 央视网 (6 条)
 - 现在开庭 | 网购背后的连环陷阱 - 央视网
+- 星火成炬 沃野新篇｜ 回到泥土味的夏天 - 央视网
 - 美军称已部署一架重型运输直升机至中东地区 - 央视网
+- 莫斯科餐厅爆炸已致3死21伤 俄称系自制炸弹袭击 - 央视网
+- 特朗普称同意取消对伊朗的打击 - 央视网
+- 伊朗外长警告美国不要采取“冒险行动” - 央视网
 
-## BBC (13 条)
+## BBC (16 条)
+- Trump says he is cancelling strikes on Iran subject to 'rapidly' making deal
+- How Spain's migrant crisis created a political storm - whipped up by social media
 - EU calls emergency meeting to discuss Ceuta migrant crossings
-- Call for 'full review' as pressure grows on Infantino
-- Tourist plane crashes in Peru, killing 13
 - Young guns for hire - the teenage hitmen recruited to kill across Europe
 - The Sopranos star Vincent Pastore dies aged 80
-- Italy putting nearly all major cities on highest heat alert
+- Call for 'full review' as pressure grows on Infantino
+- Tourist plane crashes in Peru, killing 13
 - Why Uganda seems to be winning the battle against Ebola as virus spreads in DR Congo
 - Russian ship defies sanctions to send military vehicles to Mali
+- Italy putting nearly all major cities on highest heat alert
 - Current Ebola outbreak worst ever in DR Congo, WHO says
 - Three killed after bomb detonated at Moscow restaurant, state media say
 - How Australia combines modern tech and Indigenous knowledge to fight fire
+- Solitude as a new aspirational lifestyle: 'We are not lonely'
 - Ginger hair portraits show unexpected 'golden thread' connecting Americans
 - Crowds line Amsterdam's canals for Pride boat parade
 
-## Reuters (2 条)
-- Spain installs floating barrier in Ceuta after deadly migrant rush - Reuters
-- Wildfires spread across Greece, conditions worsen in France and Spain - Reuters
+## Reuters (3 条)
+- EXCLUSIVE: Japan to announce Tokyo, Washington took joint action on yen, sources say - reuters.com
+- Spain installs floating barrier in Ceuta after deadly migrant rush - reuters.com
+- Wildfires spread across Greece, conditions worsen in France and Spain - reuters.com
 
-## NYTimes (11 条)
+## NYTimes (18 条)
 - Iran Plotted Wider War With Help of Its Proxies
 - Spain Installs Floating Barrier in Ceuta After Influx of Migrants
 - Israel Says It Killed Several Hezbollah Members on Key Lebanon Hilltop
 - Improvised Bomb Kills 3 at an Upscale Moscow Restaurant
 - Israel Bombards Gaza, Days After Trump Announced Deal to Advance Cease-Fire
 - Nirmal Purja, Renowned Mountaineer, Is Found Dead After Pakistan Avalanche
+- Japan’s Rescuers Battle Cruel Heat After Major Earthquake
 - Last Missing Climbers’ Bodies Are Found, Pakistan Officials Say
+- How China Keeps Tabs on Foreigners
+- After Most Migrants Leave Ceuta, Exhausted Holdouts Find Shelter on Beach
+- Europe’s Far Right, Once Marginal, Now Sets Tone on Spain Migrant Crisis
+- Australia’s Indie Music Venues Closing as Costs Rise and Attendance Drops
+- Tourist Plane Crashes in Peru, Killing All 13 Aboard
+- Teen Hikers Rescued 12 Hours Into Google Maps Hike
 - Justice Dept. Subpoenas Times Freelancer in Effort to Identify Sources
 - Migration Surge on the Spain-Morocco Border
 - Fact-Checking Trump’s Claims About the Effect of the Iran War on Oil Prices, Munitions and More
@@ -90,120 +117,100 @@
 - Want Cash Out of Your Home? Here Are Your Best Options
 
 ## 微博热搜 (20 条)
-- 丈夫出轨做试管亲友劝原配接受现实
-- 公职人员停车受阻暴力损坏地锁
-- 中国新型战机超视距猎杀
-- 跟着劲酒的节奏养起来
-- 直观感受到什么是家道中落
-- 曾舜晞说孟子义拍戏动过真感情
-- 婚外胚胎案丈夫称患癌妻子是雷
-- 热爱奔赴白药双护
-- 发现赚钱方式对人影响很大
-- 只有真母单才懂这段吐槽有多真实
-- 雷军说晚安被指营销
-- 存储芯片利好来了
-- 房价还能重新上涨吗
-- 气象局称发生超强厄尔尼诺概率在增大
-- 房主任母女关系
-- 疑似第一批解暑冬瓜受害者出现了
-- 找对象的尽头是初高中同学
-- 奥德赛上座率
-- 伊朗用了新武器
-- Bin Wenbo
+- 你的公积金将有新变化
+- 余承东恶搞视频被投诉下架
+- 谢谢人民子弟兵给的安全感
+- 小红书旅游帖 诈骗
+- 再也不相信团播里的帅哥美女了
+- 小米手机涨价300到500元
+- 与黄宗泽共赴吉隆坡之约
+- 住房公积金条例重大修订
+- C罗结婚酒店当天仍可预订
+- 迪丽热巴被功夫女足演员惊到了
+- 房主任 心理创伤
+- Chinajoy
+- 王楚然自曝近视700多度
+- TF四代高会开屏
+- 甘肃山洪已致25死23伤
+- 李荣浩粉丝中考成绩659分要他转659元
+- 罗正徐艺洋拍过吻戏
+- 小米多款手机今起正式涨价
+- 特朗普称同意取消打击伊朗行动
+- 横店现在到底有多少没戏拍的演员
 
-## 知乎热榜 (20 条)
+## 知乎热榜 (6 条)
 - 古人为什么会创造出黄泉、冥界和阴间这些想象世界？
 - 为什么很多文物「破破烂烂」却价值连城，它到底贵在哪里？
 - 既然人类没有到过木星内部，又怎么断言木星没有陆地的呢？
 - 中世纪的大学在教什么？
-- 玉米不能当饭吃，怎么成为了世界三大粮食作物之一？
-- 历史上有没有出现过位于岛屿上的内陆国？
-- 藏传佛教为何痴迷于血肉祭祀?
 - 国外有没有类似长城的建筑？ 有人看过吗？
-- 一直拍打蚊子不让蚊子落地，让它只能一直飞，蚊子会累死吗？
-- 黄鳝泥鳅这种在国内被视为滋补佳肴的淡水生物，为啥在西方餐桌上几乎绝迹？是文化不同还是口味差异？
-- 如果塔里木河最终流入大海的话长度将会如何？
-- 瞎扯 · 如何正确地吐槽
-- 大象和海象是同源吗？它们的名字相似是因为长相吗？
-- 有哪些原来很贵的食材现在便宜了？
-- 光伏板挡住了阳光，下面的草为啥长得更茂盛了？
-- 瞎扯 · 如何正确地吐槽
-- 王虹、邓煜获「菲尔兹奖」，这是中国籍数学家首次获得该奖，获得这个奖有多难？他们攻克了什么数学难题？
-- 为什么中国古代有二十四史这样庞大的史书集，而外国著名的史书似乎很少？
-- 现代人能吃得惯古代普通老百姓家里的菜吗？
-- 瞎扯 · 如何正确地吐槽
+- 有没有两个地点在地图上看着挺近，但实际上却很难直接走陆路，需要绕很远才能通过的？
 
 ## B站热门 (20 条)
 - ⚡️宗 主 连 携 技⚡️
-- 【命运-冠位指定×上美影】简中版十周年专属PV——行迹
-- 【独家】《凡人修仙传之慕兰之战》第9集【总第185集】
-- 《原神》至冬交响音乐现场
-- 我们拍到了水下风暴
 - 第5集丨“零号大坝开满了鲜花？”
-- 😊什么样的结局才配得上这一路的颠沛流离……【一口气看完】
-- 我发现了一个诡异的论坛....
-- 【TF家族练习生】《突围II破局》EP06：我们把彼此留下来（上）
 - 刚才发错了
-- 小时候看不懂，长大后已是局中人
-- 这是一只美人鱼，你敢和她直视10秒吗？
-- 【合唱】千本樱（100000人）                                     【B萌应援】
-- 【warma】我为1000亿奖金挑战天才作者谜题！
-- 《原神》7.0版本PV：「无神怜爱的雪国」
-- 当我和同学大半夜兜风路过初中于是我们直接翻进去弹琴
-- 对 抗 路 迎 来 大 变20.0
-- 偷偷开通女友亲密付…假大方花一万让她当富婆！看到余额她直接破防！
-- 父母眼中让人笑话的一生belike
+- 关于鼠鼠怎么活到现在
+- 【命运-冠位指定×上美影】简中版十周年专属PV——行迹
 - "大狗？？老吴！！"
+- 父母眼中让人笑话的一生belike
+- 正宗大盘鸡到底有没有土豆？？【主播说三农】
+- 【TF家族练习生】《突围II破局》EP06：我们把彼此留下来（上）
+- 【独家】牧神记 第94集 厉天行与皇帝
+- 我发现了一个诡异的论坛....
+- 新三国up锐评神探狄仁杰09：杀害我的凶手是…额！
+- 【warma】我为1000亿奖金挑战天才作者谜题！
+- 《原神》至冬交响音乐现场
+- 对 抗 路 迎 来 大 变20.0
+- 不是只有伟大的艺术家才能创作出好的作品～
+- 我们拍到了水下风暴
+- 乌合之众：一个流传百年的心理学谎言
+- 动手能力超强！13岁男生用废纸板和胶水，“手搓”各种武器装备模型。
+- 别光顾着玩手机
 
 ## 抖音热搜 (20 条)
-- 赵心童8:10威尔逊无缘决赛
-- 当我把哈兰德大葱给福登看
-- 嘹亮军歌穿越山海
+- 小米多款手机今起正式涨价
+- Hyrox成都来敲钟
+- 我国超长期特别国债资金精准发力
+- 2034杯的意义不止输赢
 - 用一万斤青铜复刻曾侯乙编钟
-- 直-20J亮剑黄岩岛
-- 2家券商被证监会立案
-- 证监会对7家券商开出罚单
+- 这桌菜哪个小孩能顶得住
+- 甘肃渭源山洪已致25死23伤
+- 盘点全国城市好听的地铁站名
 - 这个淡人奶油妆没有对手
-- 在八一广场共同见证升旗仪式
-- 专访99岁抗美援朝老兵蹇兆增
-- 运20B首次送新飞行学员报到
 - 中超天津津门虎3:2云南玉昆
-- 景德镇辟谣瓷柱路灯损坏赔16万
-- 苏超南京2:0胜盐城
+- 这届AI进化到开始玩心眼了
+- 特朗普同意取消对伊朗的打击
+- 郑钦文止步多伦多资格赛
+- 天才女友开播
 - 中超成都蓉城1:1武汉三镇
 - 中超上海海港0:1山东泰山
+- 苏超最新积分榜
 - 苏超淮安0:1南通
-- 李荣浩襄阳演唱会
-- 苏超连云港0:0宿迁
-- 金志文野草呐喊出生命的韧性
+- 赵心童8:10威尔逊无缘决赛
+- 小火人蜘蛛侠联动
 
-## 雪球热帖 (4 条)
-- Codex与开源模型关注度攀升，Anthropic旗下Claude Code依旧占据主导 - finance.sina.com.cn
-- 美政府建议中东地区美国公民做好撤离准备 - finance.sina.com.cn
-- 以官员称美接近批准对伊军事打击 以方保持高度警惕 - finance.sina.com.cn
-- Safety Insurance(SAFT.US)获溢价收购 股价跳涨后窄幅震荡 - finance.sina.com.cn
+## 雪球热帖 (10 条)
+- 不锈钢、镀锌钢管等！广东万泰在哈萨克斯坦投资100万吨钢厂7月28日奠基 - 新浪财经
+- 科创创业ETF方正富邦7月31日净申购-120万份，近一年涨71.98%，高溢价风险需警惕 - 新浪财经
+- 今日国际国内财经新闻精华摘要｜2026年8月2日 - 新浪财经
+- 百家机构调研股曝光！002415，业绩超预期 - 新浪财经
+- 反转！特朗普改口了 - 新浪财经
+- 戒毒康复还能开 “运动处方”？黑龙江这场康复训练培训给你答案 - 新浪财经
+- 邹春林履新南园街道办主任，曾任福田区信访局局长 - 新浪财经
+- 中原证券：医药生物指数迎来反弹 中药板块涨幅居前 - 新浪财经
+- AI搜索时代GEO公司怎么选:服务商实力大盘点与选型决策参考 - 新浪财经
+- 林肯纪念堂倒影池案嫌疑人指控被撤销，特朗普抨击“亲密盟友”：不知道她咋想的 - 新浪财经
 
-## 虎嗅 (6 条)
-- 世界车企重新校准方向
-- 库克最会赚的钱，继任未必收得到
-- 当“安慰人”成为最赚钱的生意，你的“痛苦税”就停不下来了
-- 一封价值1100亿的道歉信
-- 当AI模型被按下暂停键
-- AI 没有让企业变乱，它只是让旧账同时到期
-
-## GitHub Trending (15 条)
-- microsoft/AI-For-Beginners
-- paperswithbacktest/awesome-systematic-trading
-- usekaneo/kaneo
-- zhaoxuya520/reverse-skill
-- microsoft/generative-ai-for-beginners
-- github/copilot-sdk
-- github/gh-stack
-- huggingface/speech-to-speech
-- abus-aikorea/voice-pro
-- iv-org/invidious
-- ansible/ansible
-- microsoft/TRELLIS.2
-- TencentCloud/TencentDB-Agent-Memory
-- NomaDamas/k-skill
-- bytedance/deer-flow
+## 36氪 (11 条)
+- 山东：力争3年内集聚万名人工智能OPC创新人才
+- 微信地震预警能力更新，地震预警小程序可反馈震感
+- 长三角（嘉兴）Token运营中心正式启动
+- 上半年全国二手房交易占比超新房
+- 吉利汽车集团架构调整 林杰任销售总公司总经理
+- 无锡：上半年新签约10亿元以上产业项目78个 签约金额1758.38亿元
+- 小米多款手机今起正式涨价
+- 电影《八仙！》票房突破11亿
+- 今年上半年北京“双枢纽”机场进出口超4000亿元
+- 金风科技参建Ummbila Emoyeni一期风电项目实现商业运营
+- 金富科技：公司液冷产能和订单销量实现同比、环比稳步攀升
