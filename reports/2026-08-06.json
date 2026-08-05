@@ -1,0 +1,200 @@
+{
+  "date": "2026-08-06",
+  "news": [
+    {
+      "title": "伊朗称与阿曼达成海峡新安排",
+      "summary": "8月6日，伊朗方面表示已与阿曼就霍尔木兹海峡航运线路达成一致，并将关闭临时航道。此前伊朗副外长称新安排将取代临时通行措施。路透社引述独家消息指，若美国发动新一轮打击，伊朗威胁袭击海湾国家。霍尔木兹海峡承担全球约五分之一石油海运量，相关动向直接牵动油价、航运保险和中东安全格局。尽管协议细节尚未公布，但此举被视为伊朗在美伊对峙升级背景下缓解航运风险的外交尝试，市场需警惕执行不确定性与区域冲突外溢风险。",
+      "reason": "霍尔木兹海峡承担全球约五分之一石油运输，达成新安排及对海湾威胁直接牵动油价与中东安全格局。",
+      "impact_areas": [
+        "地缘",
+        "经济金融",
+        "能源"
+      ],
+      "impact_level": "现象级",
+      "sources": [
+        {
+          "name": "BBC",
+          "url": "https://www.bbc.co.uk/news/articles/ckg9d3eyeggo?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "name": "凤凰网",
+          "url": "https://news.ifeng.com/c/8vLwjG8ZFcF"
+        },
+        {
+          "name": "澎湃新闻",
+          "url": "https://m.thepaper.cn/detail/33725588"
+        }
+      ]
+    },
+    {
+      "title": "基辅遭袭拦截弹告急",
+      "summary": "8月6日前后，乌克兰首都基辅遭遇俄方大规模空袭，乌方承认防空拦截弹短缺导致损失扩大，称这是‘最恐怖一夜’。乌克兰军方表示，过去40天已打击俄方百余处战略目标。俄罗斯境内一无人机工厂负责人遭汽车炸弹袭击身亡，显示冲突正向俄后方延烧。俄乌双方攻防均显著升级，空袭与特种打击交织，短期内和平谈判前景渺茫，欧洲安全格局与能源供应持续承压。",
+      "reason": "俄乌冲突显著升级，基辅遇袭暴露防空缺口，打击向俄后方延烧，直接影响战局与欧洲安全秩序。",
+      "impact_areas": [
+        "地缘",
+        "政治"
+      ],
+      "impact_level": "现象级",
+      "sources": [
+        {
+          "name": "BBC",
+          "url": "https://www.bbc.co.uk/news/articles/cyvlgq2gp2eo?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "name": "雪球热帖",
+          "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5mWGZMSkdSZUZKV0NyOGZRc0NBYzdHZVU2YTM3MlFmRFdEZzkxeGdKSlcwX0lmUFY5ZDBuamVpRmlPYkNrUWRNYXdqYzM5UHRLRHYwQjQ2eXFrY2pQZEdta3NJY0o1RWN0d2c5UU1EUTJQeUVJd2FrWQ?oc=5"
+        },
+        {
+          "name": "凤凰网",
+          "url": "https://news.ifeng.com/c/8vLwFovpi0Z"
+        }
+      ]
+    },
+    {
+      "title": "以色列打击黎南部",
+      "summary": "以色列8月6日对黎巴嫩南部发动空袭，这是数周来首次在事先发布撤离警告后实施打击，以方指责真主党违反停火协议。以军同时证实有数名以色列犹太人定居者非法潜入黎巴嫩，局势更趋复杂。此次冲突若持续扩大，将直接威胁脆弱的停火安排，并可能将黎巴嫩真主党、以色列与地区大国卷入新一轮对抗，对中东安全与原油市场构成溢出风险。",
+      "reason": "以黎停火面临破裂风险，空袭与地面渗透叠加，可能引爆新一轮中东对抗并威胁国际油价稳定。",
+      "impact_areas": [
+        "地缘"
+      ],
+      "impact_level": "重大",
+      "sources": [
+        {
+          "name": "BBC",
+          "url": "https://www.bbc.co.uk/news/articles/c998711dyjvo?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "name": "雪球热帖",
+          "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9GTTVwMVRsWHNsMFJFZ0ViWGkyRVNmb2R5T0dud2M0LTBKcTBEUjJlbVRhaFc4WlpOSVdYeGJhSnFDSFNZTTZBUjRzZkllSVJLVVNtbmNtbWpkNlB3YnVLTnBSUzcwVGptSmVMOU9yYXNNU3hXSUkxUw?oc=5"
+        }
+      ]
+    },
+    {
+      "title": "谷歌AI高层巨震",
+      "summary": "谷歌AI部门8月6日发生重大人事变动：DeepMind首席执行官哈萨比斯卸任，谷歌首席科学家、深度学习先驱杰夫·迪恩离职，Gemini团队换帅，另有三位核心研究人员出走创业。这次变动被业内视为谷歌AI战略进入新阶段的标志，也反映前沿AI领域竞争白热化。核心人才持续流失可能削弱谷歌在生成式AI竞赛中的竞争力，并对Anthropic、OpenAI等对手的人才争夺格局产生影响。",
+      "reason": "谷歌核心AI高管集体离任，动摇其生成式AI竞争力，全球科技人才流向和AI竞争格局或将重塑。",
+      "impact_areas": [
+        "科技"
+      ],
+      "impact_level": "重大",
+      "sources": [
+        {
+          "name": "36氪",
+          "url": "https://www.36kr.com/newsflashes/3927248986585475"
+        },
+        {
+          "name": "虎嗅",
+          "url": "https://www.huxiu.com/article/4880992.html"
+        }
+      ]
+    },
+    {
+      "title": "沙特550亿美元收购EA",
+      "summary": "沙特主权财富基金PIF联合库什纳旗下Affinity Partners完成对电子艺界（EA）约550亿美元的收购交易，成为游戏行业迄今最大规模的并购之一。交易将全球顶级游戏开发商纳入中东主权资本版图，反映沙特以体育和娱乐产业为支点推动经济多元化的战略。对游戏产业而言，行业整合加速，资本来源和监管环境可能随之变化，头部厂商竞争格局面临重塑。",
+      "reason": "550亿美元收购游戏巨头，沙特主权资本挺进全球娱乐产业，必将重塑游戏行业竞争版图。",
+      "impact_areas": [
+        "经济金融",
+        "科技",
+        "产业"
+      ],
+      "impact_level": "重大",
+      "sources": [
+        {
+          "name": "36氪",
+          "url": "https://www.36kr.com/newsflashes/3927227818506633"
+        }
+      ]
+    },
+    {
+      "title": "美股涨跌互现黄金大涨",
+      "summary": "8月5日纽约股市三大指数收盘涨跌不一，纳指下跌，标普及道指温和波动；美元指数下跌，国际金价显著上涨，避险情绪升温。SpaceX股价大跌超13%，拖累科技与太空概念板块。市场正重新定价美联储降息路径、地缘风险与科技股高估值，黄金走强与美元走弱组合显示资金加速转向避险资产，对全球风险资产定价具有指示意义。",
+      "reason": "主要股指与黄金、美元走势反映全球风险偏好剧变，是判断宏观流动性和避险情绪的关键信号。",
+      "impact_areas": [
+        "经济金融"
+      ],
+      "impact_level": "重大",
+      "sources": [
+        {
+          "name": "Reuters",
+          "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPSjNOaFJhdXRJblJMNldJM09LeFJDOXNqY2Y0R3dhcGt3S1ZyNm1peFdvVlBfN2RrNmtCYVhQa3pzenI5VlBld2c2Y0JPLTAzNWRhTWxUYWxjNEpvWGxIYlR3M2NLdGg5RnpRSmtYVVVwamJfYTZ5S1JaQ3J5QjFEQ3B0WQ?oc=5"
+        },
+        {
+          "name": "澎湃新闻",
+          "url": "https://m.thepaper.cn/detail/33726330"
+        },
+        {
+          "name": "澎湃新闻",
+          "url": "https://m.thepaper.cn/detail/33726200"
+        }
+      ]
+    },
+    {
+      "title": "10年期国债收益率破1.7%",
+      "summary": "8月6日中国债市走出超预期行情，10年期国债收益率盘中跌破1.7%，创阶段新低。市场对经济增长预期、货币政策宽松以及资产配置需求的变化在这一关键利率上集中体现。收益率快速下行意味着债券市场定价已进入新区间，对银行、保险等机构资产端收益形成压力，同时可能强化市场对后续降息降准的预期，对股债汇和房地产等大类资产配置具有重要参考意义。",
+      "reason": "10年期国债收益率创阶段新低，是货币政策预期与大类资产定价的重要先行指标，信号意义突出。",
+      "impact_areas": [
+        "经济金融"
+      ],
+      "impact_level": "重大",
+      "sources": [
+        {
+          "name": "雪球热帖",
+          "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5nYktfSHZDRU0yRUUwQzBIdXhvdmNBOGF6bjRfVHQ0eV9GUmFla0twaWtVdHZ4NlRiM21FRVRPR0h2YnBXOTVvel9rUDR2YTM2YXF4N3BjcHowYjM3WThCUHlxWlhfdno0Y095dG55ZmRsV1l4enFMYg?oc=5"
+        }
+      ]
+    },
+    {
+      "title": "陕西暴雨转移五千余户",
+      "summary": "陕西柞水县遭遇大暴雨，引发严重洪涝风险，截至8月6日已有五千余户群众紧急转移安置。当地正面临山洪、滑坡等次生灾害威胁，救援和安置压力较大。极端强降雨频发凸显气候变化下中小流域防洪体系短板，对受灾地区民生、基础设施和农业生产造成直接冲击，后续灾后重建与防灾投入或将加大。",
+      "reason": "极端暴雨导致数千户紧急转移，凸显防灾短板，对受灾地区民生和基础设施造成重大冲击。",
+      "impact_areas": [
+        "社会",
+        "生态"
+      ],
+      "impact_level": "重大",
+      "sources": [
+        {
+          "name": "澎湃新闻",
+          "url": "https://m.thepaper.cn/detail/33725008"
+        },
+        {
+          "name": "凤凰网",
+          "url": "https://news.ifeng.com/c/8vM601SE5Lc"
+        }
+      ]
+    },
+    {
+      "title": "德国机场发现爆炸物无人机",
+      "summary": "德国一处机场发现一架携带爆炸物的无人机，警方已介入处置。该机场据信与乌克兰航空公司存在关联，外界担忧俄乌冲突外溢至民用航空与欧洲腹地。事件加剧欧洲对关键基础设施安全的警惕，或促使各国加强无人机防御与机场安保措施，并进一步推高地区安全焦虑。",
+      "reason": "爆炸物无人机侵入民航机场，显示俄乌冲突安全威胁外溢至欧洲核心基础设施，需高度警惕。",
+      "impact_areas": [
+        "地缘",
+        "社会"
+      ],
+      "impact_level": "重大",
+      "sources": [
+        {
+          "name": "BBC",
+          "url": "https://www.bbc.co.uk/news/articles/cyvlg4q48l3o?at_medium=RSS&at_campaign=rss"
+        }
+      ]
+    },
+    {
+      "title": "Meta推AI编程智能体",
+      "summary": "Meta于8月6日推出首款AI编程智能体，正式向Anthropic和OpenAI发起挑战。该产品聚焦代码生成与自动化开发场景，试图在开发者工具市场打开缺口。随着科技巨头密集入局，AI编程赛道从模型能力竞争转向产品与生态竞争，或加速软件研发流程重塑，并对全球开发者工具、云服务和企业软件市场产生深远影响。",
+      "reason": "Meta正式入局AI编程智能体，科技巨头AI产品竞争全面升级，将深远影响软件行业格局。",
+      "impact_areas": [
+        "科技"
+      ],
+      "impact_level": "重大",
+      "sources": [
+        {
+          "name": "36氪",
+          "url": "https://www.36kr.com/newsflashes/3927221810985344"
+        }
+      ]
+    }
+  ],
+  "total_fetched": 208,
+  "generated_at": "2026-08-06T07:27:45.650010+08:00"
+}
