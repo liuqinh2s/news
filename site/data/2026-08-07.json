@@ -2,190 +2,176 @@
   "date": "2026-08-07",
   "news": [
     {
-      "title": "泰国校园枪击案2死20伤",
-      "summary": "泰国一所学校发生枪击事件，已造成至少2人死亡、约20人受伤，枪手作案后藏匿于学校附近，后被警方发现已死亡，疑为自杀。事件引发泰国社会对校园安全与枪支管控的广泛讨论。目前当地警方已封锁周边区域，伤者被送往医院救治。该事件在泰国及国际社交媒体上迅速发酵，成为今日全球关注的热点新闻。",
-      "reason": "校园枪击造成多人伤亡且枪手死亡，多国媒体报道，社会关注度极高",
+      "title": "泰国校园枪击案致多人死亡",
+      "summary": "2026年8月7日，泰国暖武里府一所学校发生严重枪击事件。据官方通报，枪手为该校学生，在校园内开枪射击，导致至少7人死亡、多人受伤，枪手随后被发现死亡，疑为自杀。泰国总理阿努廷赶赴现场并致歉。事件原因尚在调查中，初步信息显示或与个人纠纷有关。此次枪击是泰国近年最严重的校园暴力事件之一，引发社会对校园安全和枪支管控的强烈关注，预计将推动泰国加强校园安保和青少年心理健康干预。",
+      "reason": "泰国校园枪击致多人死亡，多国主流媒体密集报道，社会冲击大，引发校园安全反思。",
       "impact_areas": [
+        "社会",
+        "公共卫生"
+      ],
+      "impact_level": "重大",
+      "sources": [
+        {
+          "name": "财新网",
+          "url": "https://international.caixin.com/2026-08-07/102472305.html"
+        },
+        {
+          "name": "澎湃新闻",
+          "url": "https://m.thepaper.cn/detail/33739267"
+        }
+      ]
+    },
+    {
+      "title": "特朗普签令限制出生公民权",
+      "summary": "2026年8月7日，美国总统特朗普签署新的行政命令，试图限制在美国境内出生者的自动公民权，尽管此前最高法院对此类做法作出过否定裁决。命令要求联邦机构不再向父母为非公民或非法移民的新生儿发放美国护照和公民证明。此举立即引发民权和移民团体的法律挑战，多个州表示将提起诉讼。分析人士指出，该行政令触及美国宪法第十四修正案，可能引发长久的宪政博弈，对全球移民格局和美国人口结构产生深远影响。",
+      "reason": "特朗普挑战美国宪法出生公民权，冲击移民制度根基，引发重大宪政与法律争议。",
+      "impact_areas": [
+        "政治",
+        "社会"
+      ],
+      "impact_level": "现象级",
+      "sources": [
+        {
+          "name": "BBC",
+          "url": "https://www.bbc.co.uk/news/articles/cj63966j95yo"
+        },
+        {
+          "name": "Reuters",
+          "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNQlBIVEJ3RmxwWHB3RElBYnBYVGdvRjZUUjYzbmJ6UW5wU0E3SlQtV1g3Uk5zQzFlelZMUWo5UExUelBUMnZQY0pibWx1OHBLN1FtTDBJY1Q3WUFXMmNScndrNUtleC1ucVEtdDdMUy1oR2RTeVpaN09heGUtLUk0UFNfT25Lb0swemZNVjQtbHRoLWh3anVQOTF2WGU?oc=5"
+        }
+      ]
+    },
+    {
+      "title": "美国对关键芯片材料加征15%关税",
+      "summary": "特朗普政府8月7日宣布对进口的关键芯片材料征收15%关税，以削弱中国在全球半导体供应链中的影响力。此举针对稀土、镓、锗等芯片制造所需的关键矿物，直接推高美国芯片企业成本，并可能引发中国进一步反制。分析认为，这一措施标志着中美科技战从成品芯片扩展到上游材料和供应链，全球半导体产业格局将面临新一轮重构，相关企业和下游电子产品价格预计在后续季度出现连锁反应。",
+      "reason": "中美科技战升级至关键材料领域，直接影响全球半导体供应链与电子产业成本。",
+      "impact_areas": [
+        "科技",
+        "经济金融"
+      ],
+      "impact_level": "重大",
+      "sources": [
+        {
+          "name": "BBC",
+          "url": "https://www.bbc.co.uk/news/articles/cdrvn686dljo"
+        }
+      ]
+    },
+    {
+      "title": "央行7月增持黄金近20吨",
+      "summary": "中国人民银行在2026年7月继续增持黄金储备近20吨，累计黄金储备超过7600万盎司，创下有数据记录以来新高。这已是央行连续多月增持黄金，反映出在外汇储备多元化与去美元化趋势下，中国持续推进战略黄金储备积累。此举对全球黄金市场构成持续性支撑，也为人民币国际化提供底层信用背书。分析人士认为，央行增持节奏未受金价波动影响，显示其基于长期战略考量的购金决心，未来黄金作为国际储备资产的地位有望进一步强化。",
+      "reason": "央行连续增持黄金，累计创新高，反映去美元化趋势，是全球黄金市场重要风向标。",
+      "impact_areas": [
+        "经济金融"
+      ],
+      "impact_level": "重大",
+      "sources": [
+        {
+          "name": "财新网",
+          "url": "https://finance.caixin.com/2026-08-07/102472383.html"
+        }
+      ]
+    },
+    {
+      "title": "AI大模型商业化提速",
+      "summary": "据路透社8月7日独家报道，阿里巴巴计划对使用其下一代开源AI模型的大型商业用户收费，标志着国产大模型从免费开源向商业化闭环转型。同日，OpenAI宣布为免费用户默认提供最新入门模型GPT-5.6 Luna，而DeepSeek也宣布即将涨价。此外，字节跳动在全员会上复盘AI业务，坦承大模型被海外竞对拉开差距。主流AI厂商密集调整定价策略，显示行业正从烧钱抢用户转向盈利考核，开源模式与闭源收费的边界日益模糊，AI产业竞争进入新阶段。",
+      "reason": "头部AI厂商集体转向收费，开源模式生变，影响全球AI产业商业模式与竞争格局。",
+      "impact_areas": [
+        "科技",
+        "经济金融"
+      ],
+      "impact_level": "现象级",
+      "sources": [
+        {
+          "name": "财新网",
+          "url": "https://www.caixin.com/2026-08-07/102472273.html"
+        },
+        {
+          "name": "Reuters",
+          "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNbE5xeXpfUzZwaHRia2xzb1A2V3VQU0xPVmpLWG1rckR6dzJYUW51Y1NjdzdtQjUzWlFRdGVJcXE5Y29NZGlKMHdxZDU3dkpHY3BTREx3U0xjVXJ6S1QtSXgwb2xEeHpveEVuVmJIYTRkMDNTNE1lTlM4Wng3V2JMcTNYWExvWnpCZW4xWEdqQ2ktdThBWnJXX0haRW1TRjUwOExfVHBGQ1dHQTNibWNmTjRNQzVMb0ozTGRnMkx6dE9VbXNVR25BYmplc2ZoQQ?oc=5"
+        }
+      ]
+    },
+    {
+      "title": "Meta被罚5.67亿美元",
+      "summary": "8月7日，Meta因未充分保护未成年人隐私、存在系统性儿童安全隐患，被欧盟监管机构处以5.67亿美元罚款，这是针对社交媒体公司最大的一笔儿童安全罚款。调查发现Instagram和Facebook算法向儿童推荐有害内容，且未有效执行年龄验证。Meta表示将上诉，但承认需加强儿童保护措施。此案为全球社交平台设定新监管标杆，可能促使各国效仿出台更严格的未成年人网络保护法规，大型科技公司在儿童安全治理上的合规成本将大幅上升。",
+      "reason": "史上最大儿童安全罚款，树立科技监管新标杆，倒逼社交平台加强未成年人保护。",
+      "impact_areas": [
+        "科技",
+        "社会"
+      ],
+      "impact_level": "重大",
+      "sources": [
+        {
+          "name": "BBC",
+          "url": "https://www.bbc.co.uk/news/articles/cd7lz3wr2rlo"
+        }
+      ]
+    },
+    {
+      "title": "银河系外围发现波纹状气体结构",
+      "summary": "中国科学家团队首次发现银河系外围气体盘存在波纹状褶皱结构，相关成果于8月7日公布。这一发现基于多波段射电观测数据，表明银河系并非静态系统，其外围气体层受到内部恒星活动及外部天体引力扰动，正在形成大尺度波纹。该研究为理解星系气体循环、恒星形成以及银河系与卫星星系的相互作用提供了全新观测证据。外国天文学家评价这是银河系结构研究的重要突破，或将改写星系演化模型。",
+      "reason": "中国天文研究取得重大发现，为理解银河系演化提供关键证据，展现基础科研突破。",
+      "impact_areas": [
+        "科技"
+      ],
+      "impact_level": "重大",
+      "sources": [
+        {
+          "name": "凤凰网",
+          "url": "https://news.ifeng.com/c/8vOlaW0KJTh"
+        }
+      ]
+    },
+    {
+      "title": "刚果（金）限制铜钴精矿出口",
+      "summary": "刚果（金）政府于8月7日起实施铜钴精矿出口禁令，要求境内矿企将矿石在当地冶炼加工后再出口。该国是全球最大钴生产国和主要铜供应国，此举旨在推动本土产业链升值，但短期将扰乱全球铜钴供应链。多家中国有色企业回应称暂无重大影响，但国际铜钴价格出现明显波动。分析师认为，若禁令长期执行，将加速全球矿业投资向非洲下游冶炼转移，同时推高动力电池和新能源产业原材料成本，对全球绿色转型形成压力。",
+      "reason": "全球主要铜钴生产国实施出口禁令，扰动关键矿产供应链，影响新能源产业成本。",
+      "impact_areas": [
+        "经济金融",
+        "产业"
+      ],
+      "impact_level": "重大",
+      "sources": [
+        {
+          "name": "财新网",
+          "url": "https://www.caixin.com/2026-08-07/102472203.html"
+        }
+      ]
+    },
+    {
+      "title": "沙特土耳其巴基斯坦签防务协议",
+      "summary": "8月7日，沙特阿拉伯、土耳其与巴基斯坦三国在利雅得签署共同防务协议，建立军事合作与联合演习机制。协议涵盖情报共享、军工技术合作和联合训练，旨在应对区域安全威胁。此举被解读为中东与南亚安全格局的重要调整，三国在也门、阿富汗及反恐事务上拥有共同关切，可能重塑红海至南亚的安全走廊。美国对此反应谨慎，而伊朗表示关切。分析认为，该协议将增强伊斯兰世界内部安全自主性，对现有地区力量平衡产生显著影响。",
+      "reason": "中东与南亚主要国家达成防务同盟，重塑区域安全格局，地缘影响深远。",
+      "impact_areas": [
+        "地缘",
+        "政治"
+      ],
+      "impact_level": "重大",
+      "sources": [
+        {
+          "name": "澎湃新闻",
+          "url": "https://m.thepaper.cn/detail/33739268"
+        }
+      ]
+    },
+    {
+      "title": "欧洲野火肆虐33万人撤离",
+      "summary": "欧洲多国遭遇极端高温和野火，累计已迫使超过33万人撤离，法国、西班牙、希腊和意大利灾情尤为严重。8月7日，法国西南部一处度假区在数小时内被大火吞噬，数百栋房屋损毁。科学家指出，此次极端天气与厄尔尼诺叠加气候变暖相关，是地球升温趋势下的“哨兵事件”。大规模撤离暴露欧洲应急体系薄弱，也推升能源、粮食和保险成本。气候危机正从环境问题演变为系统性经济与社会风险。",
+      "reason": "欧洲大规模野火致数十万人撤离，凸显气候危机系统性影响，具有全球警示意义。",
+      "impact_areas": [
+        "生态",
         "社会"
       ],
       "impact_level": "重大",
       "sources": [
         {
           "name": "澎湃新闻",
-          "url": "https://m.thepaper.cn/detail/33736259"
-        },
-        {
-          "name": "Reuters",
-          "url": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxNZmZxTjNQdGV3MFBpM25KNWtZTV9IbGpfRlFsWHBuZDdCY3gzZ0VHWnc5NmswUzI0MzI0OG1UVk05MVdGRjlhZnZMUmVfc1MtY0EtNjZUUUFjbnFoUUlrZFpwOHNRVnowVk44MURTTGowUm5vbWM5X2kyV0d1TG1TNTVFVm9VSkFweTg4Y29DOEtvS2EyS09DLTFCZWZJUnVRYzVBRkpvWGpKTGxqWnNiMjZMMm5HcGlSOGJPcDNMYWJqR25mbkN6MXpRNVNNM2tfSkItSkpUYjhMZGJSVTJ3aEJHbUtpX040TWtrWmZsZjRTQQ?oc=5"
-        }
-      ]
-    },
-    {
-      "title": "Meta因儿童伤害遭巨额罚款",
-      "summary": "美国法院对Meta旗下社交媒体平台做出重大裁定，认定其产品对儿童造成伤害，并开出迄今最大规模的儿童安全相关罚单。BBC报道罚款金额为5.67亿美元，此前媒体称近10亿美元。这项裁决被视为社交媒体平台在未成年人保护责任上的标志性案例，可能促使整个行业重新审视算法推荐、年龄验证和内容审核机制，并面临更多监管压力。",
-      "reason": "社交媒体巨头在儿童安全领域遭天价罚款，或重塑行业监管格局",
-      "impact_areas": [
-        "科技",
-        "社会"
-      ],
-      "impact_level": "重大",
-      "sources": [
-        {
-          "name": "BBC",
-          "url": "https://www.bbc.co.uk/news/articles/cd7lz3wr2rlo?at_medium=RSS&at_campaign=rss"
-        }
-      ]
-    },
-    {
-      "title": "特朗普签令限制出生公民权",
-      "summary": "美国总统特朗普再次签署两份行政令，试图限制在美国出生即自动获得公民身份的权利，重点打击“生育旅游”产业。尽管最高法院此前曾做出相关裁决，但特朗普仍推进此举，引发法律与政治争议。新规可能影响赴美生子人群及移民家庭，同时加剧美国国内关于移民政策与宪法第十四修正案的激烈辩论。",
-      "reason": "美国出生公民权政策重大转向，影响移民群体并引发法律政治冲突",
-      "impact_areas": [
-        "政治",
-        "社会"
-      ],
-      "impact_level": "重大",
-      "sources": [
-        {
-          "name": "财新网",
-          "url": "https://international.caixin.com/2026-08-07/102472096.html"
-        },
-        {
-          "name": "BBC",
-          "url": "https://www.bbc.co.uk/news/articles/cj63966j95yo?at_medium=RSS&at_campaign=rss"
-        }
-      ]
-    },
-    {
-      "title": "霍尔木兹海峡或禁美以船只",
-      "summary": "伊朗与阿曼据报已接近达成临时协议框架，涉及霍尔木兹海峡的通行安排，现有两条航道将关闭，并可能禁止美国和以色列船只通行。霍尔木兹海峡是全球最重要的石油运输通道之一，若协议落地，将直接影响全球原油供应和运输安全，推高地缘风险溢价。中东能源格局可能面临重大调整，国际油价与航运市场将剧烈波动。",
-      "reason": "全球能源咽喉要道通行规则或将改变，直接影响原油市场与地缘格局",
-      "impact_areas": [
-        "地缘",
-        "经济金融"
-      ],
-      "impact_level": "现象级",
-      "sources": [
-        {
-          "name": "财新网",
-          "url": "https://database.caixin.com/2026-08-07/102472121.html"
-        },
-        {
-          "name": "凤凰网",
-          "url": "https://news.ifeng.com/c/8vODf2NADJX"
-        }
-      ]
-    },
-    {
-      "title": "美国对多晶硅加征15%关税",
-      "summary": "美国宣布对关键芯片材料多晶硅加征15%关税，以应对中国在该供应链的主导地位。此举直接冲击全球半导体和光伏产业，多家中国光伏龙头已回应并评估影响。关税将提高美国本土制造芯片和太阳能组件的成本，同时加速各国供应链分散布局，全球科技竞争正从成品延伸至上游关键材料。",
-      "reason": "关键材料关税落地，影响半导体与光伏产业链，是重要消息面信号",
-      "impact_areas": [
-        "科技",
-        "经济金融",
-        "产业"
-      ],
-      "impact_level": "重大",
-      "sources": [
-        {
-          "name": "BBC",
-          "url": "https://www.bbc.co.uk/news/articles/cdrvn686dljo?at_medium=RSS&at_campaign=rss"
-        },
-        {
-          "name": "虎嗅",
-          "url": "https://www.huxiu.com/article/4881392.html"
-        },
-        {
-          "name": "36氪",
-          "url": "https://www.36kr.com/newsflashes/3928912493936004"
-        }
-      ]
-    },
-    {
-      "title": "前7月集成电路出口增99.5%",
-      "summary": "海关总署公布数据显示，今年前7个月我国货物贸易进出口延续增长态势，以美元计价7月出口同比增长23.9%，进口同比增长27.5%。其中集成电路累计出口金额达2160亿美元，同比大增99.5%，成为外贸最大亮点。民营企业进出口17.16万亿元，增长17.2%，对63个国家实施零关税政策。数据反映出中国制造业升级与科技产品国际竞争力显著增强。",
-      "reason": "核心出口数据远超预期，集成电路翻倍增长，指示科技产业景气度",
-      "impact_areas": [
-        "经济金融",
-        "科技"
-      ],
-      "impact_level": "重大",
-      "sources": [
-        {
-          "name": "36氪",
-          "url": "https://www.36kr.com/newsflashes/3928880049404033"
-        },
-        {
-          "name": "36氪",
-          "url": "https://www.36kr.com/newsflashes/3928880364206213"
-        }
-      ]
-    },
-    {
-      "title": "AI被用于设计新型病毒",
-      "summary": "研究人员利用人工智能设计出全新的病毒，这一突破引发科学界和伦理界的强烈关注。AI在生物工程中的应用显示出强大能力，但也带来生物安全风险：恶意分子可能利用类似技术制造病原体。目前相关研究仍在早期阶段，但亟需建立全球性的AI生物安全监管框架，防止技术滥用。",
-      "reason": "AI生物设计能力突破边界，可能改变生物安全格局，潜在风险极高",
-      "impact_areas": [
-        "科技",
-        "公共卫生"
-      ],
-      "impact_level": "现象级",
-      "sources": [
-        {
-          "name": "BBC",
-          "url": "https://www.bbc.co.uk/news/articles/c5y3j3ngevmo?at_medium=RSS&at_campaign=rss"
-        }
-      ]
-    },
-    {
-      "title": "SpaceX特斯拉投168亿建芯片厂",
-      "summary": "据财新T早报消息，SpaceX与特斯拉联合宣布斥资168亿美元在德州建立芯片工厂，英伟达等科技巨头也参与相关AI基础设施投资。这一巨额投资将进一步强化美国本土芯片制造能力，支撑AI、航天和电动车业务需求。芯片工厂的落地将影响全球半导体产业布局，并可能加剧高端芯片制造的竞争与人才争夺。",
-      "reason": "两大科技巨头巨额投资芯片制造，将重塑半导体产业竞争格局",
-      "impact_areas": [
-        "科技",
-        "经济金融",
-        "产业"
-      ],
-      "impact_level": "重大",
-      "sources": [
-        {
-          "name": "财新网",
-          "url": "https://www.caixin.com/2026-08-07/102472107.html"
-        }
-      ]
-    },
-    {
-      "title": "欧洲酷热德国近1.2万人死亡",
-      "summary": "欧洲遭遇破纪录酷热天气，德国已有近1.2万人因高温丧生。极端高温对老年人、慢性病患者等脆弱人群构成严重威胁，医疗系统承压。研究指出，气候变化正在使此类热浪更频繁、更强烈，各国亟需加强高温预警与公共卫生干预措施。这一事件再次敲响气候危机警钟。",
-      "reason": "极端高温造成大规模死亡，凸显气候变化的紧迫公共卫生威胁",
-      "impact_areas": [
-        "公共卫生",
-        "生态"
-      ],
-      "impact_level": "重大",
-      "sources": [
-        {
-          "name": "凤凰网",
-          "url": "https://news.ifeng.com/c/8vOH6S4uZBP"
-        }
-      ]
-    },
-    {
-      "title": "部分银行房贷利率降至2字头",
-      "summary": "据财新财经早知道报道，部分银行房贷利率已降至“2字头”，即低于3%的水平。这是房地产金融政策持续宽松的重要信号，有助于降低购房成本、提振楼市需求。房贷利率下行也将压缩银行净息差，影响金融机构盈利预期，同时可能带动居民中长期贷款回升，对宏观经济和消费产生积极影响。",
-      "reason": "房贷利率进入2字头，是重要政策信号，影响房地产与金融市场",
-      "impact_areas": [
-        "经济金融"
-      ],
-      "impact_level": "重大",
-      "sources": [
-        {
-          "name": "财新网",
-          "url": "https://finance.caixin.com/2026-08-07/102472094.html"
+          "url": "https://m.thepaper.cn/detail/33736855"
         }
       ]
     }
   ],
-  "total_fetched": 278,
-  "generated_at": "2026-08-07T12:26:38.922108+08:00"
+  "total_fetched": 301,
+  "generated_at": "2026-08-07T19:26:44.631947+08:00"
 }
