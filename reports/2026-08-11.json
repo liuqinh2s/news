@@ -2,9 +2,9 @@
   "date": "2026-08-11",
   "news": [
     {
-      "title": "哥伦比亚7.4级地震逾百人死亡",
-      "summary": "8月10日，哥伦比亚发生7.4级强震，震中邻近卡利等人口密集区，目前已造成至少132人死亡，数百人受伤，大量建筑倒塌，道路和通信中断。新总统埃斯普列利亚面临上任以来首次重大危机，政府宣布进入紧急状态并调动军队参与救援。国际社会已表示援助意愿，美国承诺提供1550万美元灾后重建资金。此次地震是哥伦比亚近年来最严重的自然灾害，震后余震不断，救援和重建工作将长期持续，对当地经济、社会秩序和政治稳定性构成严峻考验。",
-      "reason": "7.4级强震造成百余人死亡，全球多家媒体密集报道，自然灾难影响巨大，救援与重建持续牵动国际关注。",
+      "title": "哥伦比亚强震致132人死亡",
+      "summary": "8月10日，哥伦比亚西部考卡山谷省首府卡利附近发生7.4级强震，造成至少132人死亡，数百人受伤，多栋建筑倒塌。救援工作仍在进行，震区道路中断，医院人满为患。此次地震是哥伦比亚近年来震级最大、伤亡最严重的地震，总统宣布进入紧急状态。南美洲位于纳斯卡板块与南美板块交界处，地震活动频繁，但此次灾害暴露出老旧建筑抗震标准不足和应急响应短板。国际社会已开始提供援助，后续重建和防震加固将成为长期议题。",
+      "reason": "重大自然灾害，多源密集报道，死亡人数持续上升，对哥伦比亚及南美地区造成严重人道主义后果。",
       "impact_areas": [
         "社会",
         "地缘"
@@ -17,34 +17,78 @@
         },
         {
           "name": "NYTimes",
-          "url": "https://www.nytimes.com/live/2026/08/10/world/colombia-earthquake-bogota-cali"
+          "url": "https://www.nytimes.com/2026/08/11/world/americas/colombia-earthquake-cali-medellin-deaths.html"
+        },
+        {
+          "name": "Reuters",
+          "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxNMW9MUWZGTWJpQUdtSG5YQ3pmMGhvNDF0VXQxVEhCVU41UG9ieFhMUVVtbW9KNl9JaWhPbUoydmhwdW1LbXlHVjJ3eERGdmFMak1HUzhPOUdtSEo4X2hxY05seHR6OHZkcVd5NnJ5VFRCSzRxMjU3MFVoVFo1NHB4eU5tOGtHSmlZSld5LXhQWXRFOEVLcWlpRWpkMFF4YkZrU3ExYzZ4MWFRcGlEOEJCTW5FYzI1Tmg1QVd4THBRUHFDZUlWZHQ2LTlRV24yeEpseE1Ba3dSRmtsNEE?oc=5"
         }
       ]
     },
     {
-      "title": "英伟达筹划5000亿AI基建",
-      "summary": "英伟达与六家华尔街巨头达成合作，筹划5000亿美元AI基础设施融资计划。据财新援引市场动态，该计划旨在为AI数据中心、算力网络等基础设施提供大规模长期资金支持，有望重塑AI产业资本开支格局。BBC报道称，主要投资方包括多家大型机构，项目将分阶段推进。此举反映了AI算力需求爆发背景下，科技巨头与金融资本深度绑定，可能加速全球AI基础设施扩张，并对电力、芯片、数据中心等产业链产生深远影响。",
-      "reason": "5000亿美元AI基建融资规模空前，科技与金融深度联动，直接改变AI产业投资格局，全球影响力大。",
+      "title": "台风白海豚袭华中北京预警",
+      "summary": "台风“白海豚”登陆后虽然已停止编号，但残余环流仍给中国中部地区带来强降雨，部分地区出现严重内涝，多地河流超警戒水位。应急管理部针对北京启动国家地质灾害四级应急响应，北京市发布暴雨和大风预警。台风“白海豚”在生成后迅速增强为14级强台风，其路径对人口密集的中原地区造成罕见直接冲击。各地已投入抢险救援力量，转移安置数万人。此次台风暴露出内陆城市应对极端降雨的基础设施短板，也再次印证气候变化下台风北上、深入内陆的新趋势。",
+      "reason": "直接影响中国中部数省和首都北京，多源连续报道，灾害持续发酵，公众关注度高。",
       "impact_areas": [
-        "科技",
-        "经济金融"
+        "社会",
+        "生态"
       ],
-      "impact_level": "现象级",
+      "impact_level": "重大",
+      "sources": [
+        {
+          "name": "央视网",
+          "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9iaHVlQ2JxTFhjbDVNQVIzNWdWMkdmcUxmbWh3N1VGUWxmcmdMTFdYNDlRQXB6TURPTnhjZUdvbVl4cGZGYTZEV1ZGcVpYUWRtVzNESDhBeXNjMWM5RkQtNW5mSjRTTnJQejBsbUZBTlloTE10MGdNVQ?oc=5"
+        },
+        {
+          "name": "Reuters",
+          "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPX3REYmlxMFRqOEdlVDhZVjhUTE1kaTAzbkxRRlVTNHFfclRYLUxpRGJMYVV4R0IyWVFEVnVHdVZzS1p0Smc4U3FuNnQ3T2phRmVieC1ET3p6YTFRSnM1RXZuNWpOUHp6M2lvSms1UGU1LXBaXzFONC1XVUxTRFBRa1Fkd1VvbUIzMFZjSjhwVHk2em0tLUwwSmk4NEZtY0ltTFlYeWJvSldWR1BqRnQ2c2lCT3lBQ2lhVnFwSGphemp1RllERQ?oc=5"
+        }
+      ]
+    },
+    {
+      "title": "西班牙8万移民涌入休达",
+      "summary": "西班牙在北非的飞地休达遭遇大规模移民涌入，最新数据显示约8万名移民进入该地区，西班牙与摩洛哥关系因此骤然紧张。社交媒体上的煽动性内容被认为是此次危机的导火索之一，大量移民通过陆路或游泳越境。西班牙政府紧急增派警力，并试图与摩洛哥协调遣返，但摩洛哥方面态度强硬。此次事件加剧了欧盟外部边界压力，也暴露出社交媒体对非法移民流动的组织化影响。西班牙与摩洛哥的复杂关系将因该事件进一步恶化，后续可能影响双边经贸和反恐合作。",
+      "reason": "涉及西班牙、摩洛哥和欧盟的地缘政治危机，多源交叉报道，移民潮规模罕见。",
+      "impact_areas": [
+        "地缘",
+        "社会"
+      ],
+      "impact_level": "重大",
+      "sources": [
+        {
+          "name": "央视网",
+          "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBRZERvaXB6cHRxdlZCQkFrQVg3aEhBUi03Z3RocHpCSkRXS29hMHJXbGQyVmRfblhSbmctbGxGbjdGLTBNcEppblAwZUNLcFlkY3FUYzN6YkI3aDFGazQ5bzRvVlg5VnhpX0hXRjI1a291dm5idjBraA?oc=5"
+        },
+        {
+          "name": "NYTimes",
+          "url": "https://www.nytimes.com/2026/08/11/technology/social-media-ceuta-spain-morocco.html"
+        }
+      ]
+    },
+    {
+      "title": "俄被指用朝鲜导弹袭击乌",
+      "summary": "乌克兰总统泽连斯基称，俄罗斯正在使用朝鲜提供的导弹打击乌克兰目标，并公布相关证据。与此同时，纽约时报调查显示，随着乌克兰扩大对俄本土的远程空袭，俄罗斯平民死亡人数正在快速上升。俄乌冲突在军事层面呈现升级趋势，外部武器介入使战争复杂化。朝鲜援俄导弹若属实，将标志俄乌战争国际化的进一步加深，并引发韩国、日本等亚太国家对安全格局的担忧。联合国安理会可能就此召开紧急会议，但各方立场分歧明显。",
+      "reason": "俄乌冲突重大升级信号，多源报道，涉及朝鲜介入，地缘政治影响外溢至亚太。",
+      "impact_areas": [
+        "地缘",
+        "政治"
+      ],
+      "impact_level": "重大",
       "sources": [
         {
           "name": "BBC",
-          "url": "https://www.bbc.co.uk/news/articles/c78gr0jv0mdo?at_medium=RSS&at_campaign=rss"
+          "url": "https://www.bbc.co.uk/news/articles/c151dpzwnvxo?at_medium=RSS&at_campaign=rss"
         },
         {
-          "name": "财新网",
-          "url": "https://database.caixin.com/2026-08-11/102473041.html"
+          "name": "NYTimes",
+          "url": "https://www.nytimes.com/2026/08/11/world/europe/russia-ukraine-civilian-casualties.html"
         }
       ]
     },
     {
       "title": "美战略石油储备跌破3亿桶",
-      "summary": "美国战略石油储备（SPR）降至3亿桶以下，为数十年来最低水平。央视网援引数据称，这一变化主要因持续释储和补库缓慢所致。受此消息影响，国际油价显著上涨。SPR作为全球能源安全的重要缓冲，其低位运行意味着美国应对供应冲击的能力下降，可能加剧原油市场波动，并对OPEC+产量政策、全球通胀预期及能源价格走势产生传导效应。",
-      "reason": "美国战略石油储备创数十年低位，国际油价应声上涨，属于重要消息面信号，对全球能源市场有直接指引。",
+      "summary": "美国战略石油储备（SPR）自1983年以来首次降至3亿桶以下，降至约2.98亿桶。受此消息影响，国际油价显著上涨。SPR快速下降源于此前为平抑油价的大规模释放以及后续补充缓慢，反映出美国能源安全缓冲能力大幅削弱。市场担忧供应弹性下降，地缘政治风险溢价重新上升。分析师认为，若油价继续走高，拜登政府可能面临更大的通胀压力，并可能重新考虑补充储备的节奏。该事件对全球原油市场定价和能源政策具有重要信号意义。",
+      "reason": "关键大宗商品库存创数十年极值，直接影响国际油价和全球通胀预期，属重要消息面信号。",
       "impact_areas": [
         "经济金融",
         "地缘"
@@ -58,45 +102,33 @@
       ]
     },
     {
-      "title": "中星4B卫星发射失利",
-      "summary": "8月11日，长征七号改运载火箭搭载中星4B卫星发射升空后爆炸解体，发射任务失利。财新网报道称，火箭升空后异常，卫星未能进入预定轨道。此次失败是长征七号改火箭发展中的一次重大挫折，可能影响后续高密度发射计划和商业航天订单安排。目前事故原因正在调查中，具体损失和影响尚待评估。中国航天需在技术归零和质量管理上进一步强化。",
-      "reason": "重大航天发射事故，涉及长征七号改火箭和国家卫星任务，对后续发射排期和商业航天信心有直接影响。",
+      "title": "华尔街向英伟达注资5000亿",
+      "summary": "多家华尔街机构与英伟达达成合计5000亿美元的AI融资协议，用于扩建AI数据中心、采购GPU集群并支持相关电力基础设施。这是科技行业历史上规模最大的融资安排之一，英伟达将部分资金用于投资电力企业，以满足AI算力爆炸式增长的能源需求。该协议显示AI基础设施正从科技巨头自筹转向由华尔街资本深度参与，形成类似“数字房地产”的资产证券化模式。分析认为，这一方面加速AI产业化进程，另一方面也带来算力泡沫和电力供给紧张的隐忧，对全球科技产业和能源市场影响深远。",
+      "reason": "5000亿美元创纪录AI融资，华尔街与英伟达深度绑定，重塑AI算力资本格局，对科技和能源产业影响巨大。",
       "impact_areas": [
         "科技",
-        "产业"
+        "经济金融"
       ],
-      "impact_level": "重大",
+      "impact_level": "现象级",
       "sources": [
         {
-          "name": "财新网",
-          "url": "https://science.caixin.com/2026-08-11/102473079.html"
-        }
-      ]
-    },
-    {
-      "title": "台风白海豚袭沪雨量破纪录",
-      "summary": "今年第X号台风“白海豚”影响上海及长三角地区，浙江发布评估报告称其路径罕见、雨量破多项历史纪录。台风过后上海出现严重内涝和交通中断，Reuters发布现场图片显示灾后场景。此次台风造成多地受灾，部分农作物和基础设施受损，相关部门正开展灾后恢复。专家指出，极端天气频发与气候变化相关，城市防汛和应急体系面临更大挑战。",
-      "reason": "台风路径罕见、雨量破纪录，直接冲击上海等经济核心区域，灾后评估和气候警示意义重大。",
-      "impact_areas": [
-        "社会",
-        "生态"
-      ],
-      "impact_level": "重大",
-      "sources": [
-        {
-          "name": "凤凰网",
-          "url": "https://news.ifeng.com/c/8vUyqn0vyjg"
+          "name": "BBC",
+          "url": "https://www.bbc.co.uk/news/articles/c78gr0jv0mdo?at_medium=RSS&at_campaign=rss"
         },
         {
-          "name": "Reuters",
-          "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPYU5iQ0Fib3JEcEJnejEwY1BZc3puNkJjRmxGcC02Vmg4MHZyeWhHclB2WnJRNFVWNDhNRGVKdlVnZWp0c05QblFEa3pVZWtHWVFybVpYUmVuLS1ScWota3RJdXo4YWhSUnk1V3RaRFcxUGNLZW9NUDlVdHVUUE1UaE9YRjVVd1hlZXBabXVoeUN6LXo4bWlXRTRsNUNFTE9EZFo0TDNXQUdwa1VJeUpHZWl4R1lWdzdLTEJPaHBodkNNRlpOUEt2Y1VxUjB6XzNTN1pCLQ?oc=5"
+          "name": "雪球热帖",
+          "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQSHFZTnNOb2RVS2pXUTFBemxvcG9ybm80VTVCX2k4VkRwaTJiZXAzcVhvTkN4Q1ZUelNyY2RVWHpFTEdYMV95b0M2N2oxeTQ2UFhCMHV1VHFMcTAzVDdzR05JUy16QXU3VS1FdUE0VmFEbmFBMXFZLVo3R1NrQ3Buc3NlZEtNd25zVDhCZXFGVEpYalBBdHpuZVl5cGM?oc=5"
+        },
+        {
+          "name": "虎嗅",
+          "url": "https://www.huxiu.com/article/4882335.html"
         }
       ]
     },
     {
-      "title": "特朗普签署限制儿童疫苗令",
-      "summary": "美国总统特朗普签署行政命令，限制儿童疫苗接种计划，并要求拆分麻疹-腮腺炎-风疹（MMR）联合疫苗。BBC报道称，此举在麻疹大暴发背景下引发巨大争议。公共卫生专家警告，限制疫苗接种可能降低免疫覆盖率，导致可预防传染病疫情加剧。该命令将对美国公共卫生政策、疫苗生产和儿童健康产生深远影响，也引发全球对疫苗科学和公共健康治理的讨论。",
-      "reason": "美国最高领导人干预疫苗接种政策，直接冲击公共卫生体系，在全球公共卫生领域引发广泛争议和警惕。",
+      "title": "特朗普签令限制儿童疫苗",
+      "summary": "美国总统特朗普签署行政令，旨在限制儿童疫苗接种范围，并要求将原本联合接种的MMR（麻疹、腮腺炎、风疹）疫苗拆分接种。该命令遭到公共卫生专家和医学界强烈反对，认为这会降低疫苗接种率，增加麻疹等传染病爆发风险。支持者则认为这是尊重家长选择、减少疫苗干预的一步。行政令可能面临法律挑战，并成2026年中期选举的争议议题。此举反映美国公共卫生政策在政治化背景下进一步转向，或将影响全球疫苗政策讨论。",
+      "reason": "美国最高行政令直接改变儿童疫苗政策，引发公共卫生和政治争议，影响范围大且具有全球示范效应。",
       "impact_areas": [
         "公共卫生",
         "政治"
@@ -106,79 +138,61 @@
         {
           "name": "BBC",
           "url": "https://www.bbc.co.uk/news/articles/ce3q5vl581wo?at_medium=RSS&at_campaign=rss"
+        }
+      ]
+    },
+    {
+      "title": "叙利亚前总统巴沙尔被判死刑",
+      "summary": "被推翻的叙利亚前总统巴沙尔·阿萨德被叙利亚法院缺席判处死刑。这是推翻阿萨德政权后司法进程中的标志性事件。与此同时，叙南部苏韦达省担心政府接管。阿萨德目前流亡海外，实际执行难度大，但判决具有强烈政治象征意义，可能进一步巩固现政权合法性，并影响国际社会对叙利亚的承认和重建谈判。该事件也可能促使阿萨德的支持者（如俄罗斯、伊朗）在外交上作出回应，使叙利亚局势和战后安排更加复杂。",
+      "reason": "叙利亚战后司法与政治的标志性事件，影响中东地缘格局，引发国际关注。",
+      "impact_areas": [
+        "地缘",
+        "政治"
+      ],
+      "impact_level": "重大",
+      "sources": [
+        {
+          "name": "BBC",
+          "url": "https://www.bbc.co.uk/news/articles/ce34dkpnyg7o?at_medium=RSS&at_campaign=rss"
         },
         {
-          "name": "虎嗅",
-          "url": "https://www.huxiu.com/article/4882130.html"
+          "name": "NYTimes",
+          "url": "https://www.nytimes.com/2026/08/11/world/middleeast/syria-sweida-province-druse-government.html"
         }
       ]
     },
     {
-      "title": "日本央行据悉9月加息",
-      "summary": "据36氪援引消息人士，日本央行据悉将在9月加息以应对通胀风险。若实施，这将是日本货币政策正常化的又一关键步骤。当前日本核心通胀持续高于2%目标，日元疲软推高进口成本。加息预期影响全球利率和汇率市场，尤其对套息交易和亚太资产配置产生冲击。市场关注日本央行后续政策路径及对全球流动性的影响。",
-      "reason": "日本央行加息是全球重要央行政策转折信号，影响日元、全球利率和套息交易，对金融市场外溢效应明显。",
+      "title": "Meta发布开源小模型Muse",
+      "summary": "Meta发布开源小模型Muse Glimmer，该模型采用“蒸馏”技术训练，在降低参数规模的同时保持较强的语言理解和推理能力，并支持本地部署。这是继大模型竞赛后，科技巨头转向高效小模型的重要信号。小模型可在手机、PC等设备上离线运行，减少对云端算力的依赖，有利于AI应用向端侧普及。Meta同时将其开源，旨在吸引开发者生态，与OpenAI、谷歌的闭源路线形成差异化竞争。此举可能重塑AI产业竞争格局，加速低成本AI民主化。",
+      "reason": "科技巨头推出开源蒸馏小模型，代表AI技术路线演进，对端侧AI和行业生态有深远影响，科技类优先。",
       "impact_areas": [
-        "经济金融"
-      ],
-      "impact_level": "重大",
-      "sources": [
-        {
-          "name": "36氪",
-          "url": "https://www.36kr.com/newsflashes/3934562585836678"
-        }
-      ]
-    },
-    {
-      "title": "金饰克价涨至1336元",
-      "summary": "国内金饰价格持续攀升，克价已涨至1336元，创历史新高。受全球地缘政治不确定性、央行购金和降息预期推动，国际金价维持强势。金饰价格高企抑制消费者购金需求，但对黄金回收和投资金条市场形成刺激。高金价对珠宝零售、加工企业成本端构成压力，行业格局面临调整。该价格信号反映全球避险情绪和货币体系变化，对投资策略有重要指引。",
-      "reason": "金饰价格创历史新高，是黄金市场重要价格极值信号，反映避险情绪和货币环境，对消费和投资领域有直接影响。",
-      "impact_areas": [
-        "经济金融"
-      ],
-      "impact_level": "重大",
-      "sources": [
-        {
-          "name": "36氪",
-          "url": "https://www.36kr.com/newsflashes/3934522603584901"
-        }
-      ]
-    },
-    {
-      "title": "075两栖舰形成作战能力",
-      "summary": "8月11日，075型两栖攻击舰湖北舰正式形成整体作战能力。国防军事领域专家指出，这标志着中国海军两栖作战力量实现跨越式发展。湖北舰具备搭载直升机、气垫艇和两栖战车的能力，可执行登陆作战、远海投送和人道主义救援等任务。此举提升了解放军维护国家主权和海洋权益的能力，对地区安全格局产生一定影响。",
-      "reason": "国产大型两栖攻击舰形成战斗力，是中国海军力量建设的标志性节点，对国防和地区安全有重要意义。",
-      "impact_areas": [
-        "政治",
         "科技"
       ],
       "impact_level": "重大",
       "sources": [
         {
-          "name": "凤凰网",
-          "url": "https://news.ifeng.com/c/8vUxuYTXPwr"
+          "name": "财新网",
+          "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5MRTFBVHFEaGNUV0REaTZVWThVQlQybFg4aHBqMzQwa09jWi1aRjNwU0s2VGxnaFV6WThzUFB3b0JBdl9VVjBYRElUUjJoM1FQUXlfRnRFbnN0MDhrY1NrZmJiRE0?oc=5"
         }
       ]
     },
     {
-      "title": "北京天津启动防汛四级应急",
-      "summary": "国家防总、应急管理部针对北京、天津启动防汛四级应急响应，河南同时发布红色山洪灾害气象风险预警。近期华北和河南等地出现强降雨，多地面临内涝和山洪风险。应急响应要求相关地区加强监测预警、巡查防守和人员转移安置。目前部分河流已超警戒水位，防汛形势严峻。此次强降雨过程对城市运行、农业和基础设施构成直接威胁，相关部门正全力应对。",
-      "reason": "国家防总对京津启动应急响应，河南发布红色山洪预警，多地防汛压力大，直接关系城市安全与民生。",
+      "title": "索尼台积电合资建传感器厂",
+      "summary": "索尼与台积电宣布将在日本成立先进图像传感器合资公司，计划采用先进制程技术，于2029年实现量产。这标志着全球图像传感器龙头与晶圆代工巨头首次深度绑定，旨在争夺自动驾驶、AI视觉和高端手机摄像头市场份额。合资工厂将提升日本先进半导体制造能力，并缓解索尼对第三方代工的依赖。该合作可能改变CMOS图像传感器行业格局，推动台积电业务向传感器领域延伸，并增强日本半导体产业的战略自主性，对全球芯片供应链产生中期影响。",
+      "reason": "索尼与台积电强强联合，改变图像传感器和半导体代工格局，科技产业重大合作，具长期战略影响。",
       "impact_areas": [
-        "社会"
+        "科技",
+        "产业"
       ],
       "impact_level": "重大",
       "sources": [
         {
-          "name": "凤凰网",
-          "url": "https://news.ifeng.com/c/8vV1rYw0Sr1"
-        },
-        {
-          "name": "凤凰网",
-          "url": "https://news.ifeng.com/c/8vUyuaTTxBk"
+          "name": "36氪",
+          "url": "https://www.36kr.com/newsflashes/3934938236845186"
         }
       ]
     }
   ],
-  "total_fetched": 264,
-  "generated_at": "2026-08-11T12:26:46.793850+08:00"
+  "total_fetched": 243,
+  "generated_at": "2026-08-11T19:26:41.607976+08:00"
 }

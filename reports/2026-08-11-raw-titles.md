@@ -1,4 +1,4 @@
-# 2026-08-11 原始新闻标题 (264 条)
+# 2026-08-11 原始新闻标题 (243 条)
 
 ## 新华社 (20 条)
 - Education, health fees among key concerns
@@ -22,99 +22,88 @@
 - Former Chongqing political official facing corruption investigation
 - Former Chongqing political official facing corruption investigation
 
-## 澎湃新闻 (2 条)
-- “美个朋友”社交平台被控借女主播诈骗3.2亿元案将恢复庭审 - thepaper.cn
+## 澎湃新闻 (6 条)
+- 图集｜自在明光：山水在侧，文化在心 - thepaper.cn
 - 为什么要认真对待动粥？ - thepaper.cn
+- “美个朋友”社交平台被控借女主播诈骗3.2亿元案将恢复庭审 - thepaper.cn
+- 成人肌少症夏季食谱——华东地区篇 - thepaper.cn
+- 暴雨Ⅲ级、大风Ⅳ级！鹤壁发布重要天气预警报告 - thepaper.cn
+- 计划2027年秋季学期正式投用！云南师大附中小学部、初中部落地昆明西山区 - thepaper.cn
 
-## 凤凰网 (20 条)
-- 精心策划的骗局！特朗普当时被用餐饮车转移到第三架飞机
-- 遏制中国？美国仍在做“沿第一岛链拒止威慑”的美梦
-- “山洪冲走14副棺材损失40万”遭质疑，老板称是“各项损失总和”，镇政府：正核查损失，将申请帮扶
-- 国家防总、应急管理部针对北京、天津启动防汛四级应急响应
-- 高雄市长选情胶着，蓝绿民调仅差1.64%，徐巧芯：团结造势柯志恩有望翻盘
-- 卢秀燕全台跨县市辅选蓄力2028，温和路线适配蓝营多元串联新格局
-- 陈佩琪游大陆，民众党干部：台湾社会期盼两岸正常交流，民进党不敢切断两岸航班
-- 吴乃仁欠1.8亿公款每月打算还5万，郭正亮：民进党选情必受冲击
-- 美国联邦通信委员会成“反华急先锋”
-- 特朗普接受采访闭目养神，卫生部长不停抖手
-- 行凶者被捕后召开记者会画面引争议，泰国总理斥：这不应该
-- 一辆印有“特警”字样的警车被指换标，警方通报
-- 浙江发布台风“白海豚”评估报告：路径罕见、雨量破多项纪录
-- 075型两栖攻击舰湖北舰形成整体作战能力
-- 网友做磁共振检查，忘摘“999足金”的金镯子，医生：“黄金的不要紧”，没想到手镯疯狂抖动
-- 河南发布红色山洪灾害气象风险预警
-- “弟弟举报哥哥冒名上大学”案新进展：哥哥起诉湘潭大学，弟弟将出庭
-- 美国将提供1550万美元，帮助哥伦比亚进行灾后重建
-- 库尔斯克战役两周年：战事催生了一个独立兵种
-- 胖东来发布员工关爱补偿案例
+## 凤凰网 (2 条)
+- 直播｜南昌梅岭云端索道新闻发布会 - 凤凰网江西
+- “赣水欢腾 盛世如愿”——2024年南昌市国庆烟花晚会 - 凤凰网江西
 
-## 财新网 (17 条)
-- 新疆霍城新设大耳沙蜥保护小区引争议 专家指保护力度不足
-- 虚假招工套路多：面试、协议、实习都是假的
-- 中星4B卫星发射失利 长征七号改火箭升空后爆炸解体
-- 民族矿业浪潮下，中国出海矿企的破局之道
-- 反市场的商业是不道德的：浅议钟睒睒的商业逻辑
-- 苹果成立50周年：它改变了我们，也重塑了自己｜带着问题去读书
-- 银行网点员工该不该午休
-- 财新闻｜宇树科技，网上最终中签率0.01809759%
-- 今日开盘：两市双双低开 沪指跌幅0.40%
-- 【市场动态】美伊保持强硬态度，霍尔木兹协议希望渺茫
-- T早报｜宇树科技网上申购中签率0.018%；江波龙上半年归母净利润暴增715倍；极兔速递因安全生产管理履职缺位被罚7万元
-- 【市场动态】英伟达联手六家华尔街巨头 筹划5000亿美元AI基建融资
-- 【市场动态】OpenAI据悉回购70亿美元员工股份
-- 【商圈】白手起家科创板上市 女企业家郭恒华陷非吸刑案
-- 中年塌陷样本：独一代的父母照护困境
-- 西班牙对意大利实施反制性临时边境管控 休达危机后两国震荡未平
-- 财经早知道｜外交部：百余名菲律宾公民被依法处理
+## 财新网 (7 条)
+- 最新封面报道｜夯实社保 - 财新周刊
+- 最新财新周刊｜AI重塑游戏生态 - 财新周刊
+- 最新财新周刊｜谁主AI“光未来”？ - 财新周刊
+- 今日开盘：两市双双低开 沪指跌幅0.40% - finance.caixin.com
+- 单车收入下滑叠加汇兑损失 九号公司上半年增收不增利 - 财新
+- 虚假招工套路多：面试、协议、实习都是假的 - china.caixin.com
+- Meta发布开源小模型Muse Glimmer 使用“蒸馏”训练 - 财新
 
-## 央视网 (7 条)
-- 国家慢性病综合防控示范区已建成578个 - 央视网
-- 世界最大冲击式水电机组顺利完成转子吊装 - 央视网
+## 央视网 (12 条)
+- 台风“白海豚”停止编号 - 央视网
+- 深化！山海协作处处新 - 央视网
 - 南水北调东中线一期工程调水突破900亿立方米 - 央视网
-- 港珠澳大桥珠海公路口岸进出境车辆累计突破2500万辆次 - 央视网
-- 防范登革热、猴痘等疾病 中疾控发布健康风险提示 - 央视网
-- 美战略石油储备降至3亿桶以下 国际油价显著上涨 - 央视网
+- 应急管理部针对北京启动国家地质灾害四级应急响应 - 央视网
+- 菲律宾国调局对莎拉·杜特尔特提出严重威胁指控 - 央视网
+- “白海豚”余威不减 各地各部门全力应对 - 央视网
+- 西班牙更新休达危机数据：约8万移民涌入 - 央视网
 - 美政府自去年初以来已吊销逾17.5万份非移民签证 - 央视网
+- 美战略石油储备降至3亿桶以下 国际油价显著上涨 - 央视网
+- “雪龙”号顺利完成12个冰站作业任务 - 央视网
+- 英格兰近四分之三地区进入干旱状态 - 央视网
+- 专家谈哥伦比亚地震与委内瑞拉地震区别 - 央视网
 
-## BBC (13 条)
+## BBC (17 条)
+- Trump hid in catering truck in secret plane swap over Iran threat, reports say
+- Russia using North Korean missiles to strike Ukraine, Zelensky says
+- Ousted Syrian dictator Bashar al-Assad sentenced to death in absentia
 - At least 132 killed in Colombia's largest  earthquake in years
+- Libyan authorities battle big blaze at major oil refinery
+- Australia PM under fire for remarks on Japanese counterpart's melon gifts
 - Canada flight cancelled after child refuses to wear seat belt
 - Watch: What we know about Tupac murder suspect Duane 'Keffe D' Davis
-- 'We've had a lot of close calls': Canada wildfire evacuees wonder if they still have homes
-- 30 years later, a former gang member will stand trial for Tupac's murder
 - Trump signs order to limit childhood vaccines and split MMR shots
 - Jackie, the famous California bald eagle, dies after weeks of intensive care
 - New train service connects Finland and Sweden for first time in decades
-- Nvidia gets $500bn from major investors to develop AI infrastructure
+- Wall Street giants hand Nvidia $500bn to fund boom in AI projects
 - The lonely Chinese men being conned by fake brides
+- Watch: Family escapes home during Colombia earthquake
 - Watch: Moment powerful earthquake shakes Colombia and crumbles buildings
 - Watch: What we know about suspected crime boss Daniel Kinahan
 - Young girl finds whale stranded on Australian beach
 
-## Reuters (2 条)
-- JBS taps Wesley Batista Filho as CEO, posts surprise second-quarter loss - reuters.com
-- Aftermath of Typhoon Dolphin in Shanghai - The Lufkin Daily News
+## Reuters (5 条)
+- Lenders scrutinize US data center financing as community opposition builds - Reuters
+- Typhoon Dolphin floods central China, puts Beijing on alert for heavy rain - Reuters
+- JBS taps Wesley Batista Filho as CEO, posts surprise second-quarter loss - Reuters
+- Aftermath of a Russian missile strike in Zaporizhzhia - The Lufkin Daily News
+- Rescue workers and residents dig through the rubble of collapsed buildings in Cali after a devastating magnitude 7.4 earthquake struck western Colombia on Monday, August 10. Photos by Reuters - facebook.com
 
-## NYTimes (19 条)
-- Powerful 7.4 Earthquake Strikes Colombia, Killing More Than 100
-- Netanyahu Walks Tightrope on Trump’s Gaza Disarmament Deal
-- Police in India Use Tear Gas to Break Youth Protest
+## NYTimes (20 条)
+- Russian Civilian Deaths Are Growing Rapidly as Ukraine Expands Its Air War
+- A Syrian Holdout Province, Sweida, Fears a Government Takeover
+- What We Know About the Earthquake in Colombia
+- The Eclipse Is Coming, and Iceland Is … Mostly Ready
+- Spain’s Complex Ties With Morocco Fuel Speculation Over Ceuta Migrant Surge
+- How Raúl Castro’s Grandson, Raúl G. Rodríguez Castro, Became a Power Broker
+- What to Know About the Cuban Mafia in Quintana Roo
 - In a Sweltering Summer, These Italians Want Romans to Curl
 - France Bans Unsolicited Telemarketing Calls
+- Major Quake Hits Colombia, Killing at Least 111
+- Netanyahu Walks Tightrope on Trump’s Gaza Disarmament Deal
+- How Social Media Sparked a Refugee Crisis Between Spain and Morocco
+- A.C. Vests and UV Parasols: East Asia Deploys Heat-Fighting Gadgets
 - Man in Custody Over Bomb Threat at U.S. Consulate in Nova Scotia
 - Here Is Where Colombia’s Quake Hit Hardest
 - Yabloko, Russian Antiwar Party, Is Banned From Parliament Elections
 - Turkey Moves to Advance Peace Process With P.K.K.
 - Colombia Quake Chases Teenage Venezuelan Brothers From Their New Home
 - Takeaways From Jason Arday’s Memoir
-- Major Quake Hits Colombia, Killing at Least 111
 - Journalism and Paywalls
-- Italian Diver Discovers Hundreds of Ancient Amphorae in Sicily
-- Colombia’s Earthquake Puts Abelardo De La Espriella, Its New President, to the Test
-- Images Emerge From Quake-Battered Colombia
-- How ‘Harry Potter’ Fans Protected Dobby’s Grave From the Path of a U.K.-Ireland Power Cable
-- Here’s the latest.
-- Explosive Canada Wildfire Leaves 1 Dead in British Columbia
 
 ## CNN (6 条)
 - 0% intro APR until 2024 is 100% insane
@@ -125,177 +114,171 @@
 - Want Cash Out of Your Home? Here Are Your Best Options
 
 ## 微博热搜 (20 条)
-- 睡车里被酒店收150元住宿费事件反转
-- 百妖谱官宣开机
-- 两部门紧急预拨1.8亿元救灾资金
-- 李嘉诚又要套现了
-- 龙餐馆灯塔预测票房35亿
-- 艾米百妖谱出妆
-- 雅典娜案设局者仍在境外逃亡
-- 曾经月销5万的车现在卖不动了
-- 白海豚突然大拐弯
-- NBA将放行伦纳德交易
-- 姜小柔去世
-- 凶手父母多次热情招待溺亡女孩父母
-- 白鹿黑丝御姐黑西装
-- 女子被拐关地下室被虐8年
-- 陈雪凝疑似生孩子了
-- 少年强抱女友跳河自己上岸女友溺亡
-- 金价会涨到多高
-- 总有人在默默守护你的热爱
-- iOS27新功能汇总
-- 易烊千玺回应最年轻双料影帝
+- 北京暴雨
+- 台风白海豚停止编号
+- 遇城市内涝这些事千万不能做
+- 于东来自掏65亿建商场当包租公
+- 龙翔被判死缓
+- 建议女生不要在网上过度分享
+- 科目二挂了教练换的头像
+- 7旬老人被女主播崩了3年
+- 红米发布会
+- JDG零封淘汰EDG
+- 陈思诚连夜从泰国回来
+- 巴旦木公主晒结婚证
+- 买车的欲望已经到了极致
+- PDD祝福巴旦木公主
+- 严浩翔方回应说唱巅峰乐评人发言
+- 俄少女逃出电诈园仍处严重应激状态
+- 陈俊生150万年薪让罗子君买8万的鞋
+- 建议大家装修不要太大众
+- 白鹿直播
+- 百万网红姜小柔遗体在广州安葬
 
-## 知乎热榜 (20 条)
+## 知乎热榜 (4 条)
 - 汉族的汉化能力为何那么强大呢？
 - 日本为什么会流行起来枯山水，毕竟这风格很容易招流浪猫过来上厕所？
 - 为什么虾的复眼是正方形而非六边形的？
 - 瞎扯 · 如何正确地吐槽
-- 女孩囤积大量吧唧（徽章）致甲醛中毒，类似制品的哪些部分会释放有毒物质？出现什么症状需要警惕？
-- AI 编程时代，被誉为「软件工程圣经」的《人月神话》，有哪些理论过时了？
-- 有哪些文字发展到现在已经完全脱离了最初的本意？
-- 瞎扯 · 如何正确地吐槽
-- 考古队在墓穴里会碰见机关吗？
-- 西班牙率先暴富并拥有了几乎整个美洲，为何最后却远远落后于当初远不如自己的英法德？
-- 有什么东西是两广地区常吃常见，但外省朋友不怎么吃的？
-- 随机生成5位数，得到11111和得到54176的概率相同，为什么遇到前者时我们会觉得随机算法有问题？
-- 如果进化论是对的，植物为何不进化得很难吃？
-- 藏族为什么没有高原反应?
-- 如何评价用今天的价值观和法律来要求1800年前的古人？
-- 如果我毕生追求的知识在AI面前毫无价值，那我存在的意义是什么？
-- 人类的指甲在生活中看起来好像并没有什么实际的价值，为什么这么长时间也没有退化呢？
-- 为什么有些小学生对「找规律」题感到特别困惑？
-- 为什么很多西方语言会出现阴性、阳性这种属性?
-- 瞎扯 · 如何正确地吐槽
 
 ## B站热门 (20 条)
-- 7款挂烫机横向测评！！超详细测试！！
-- 【实拍实测】2026年8月显示器推荐，游戏/观影/设计全品类，买前必看！ HKC/蚂蚁电竞/KTC/AMZFAST/盛色/微星/ROG/三星/雷鸟/科睿/雷神
-- 【2026年八月充电宝推荐】充电宝我只要又好看，容量又大，体积又小的！安克/酷态科/京东京造/西圣
-- 童年射击游戏变成这样，真不怕我玩疯啊！
-- “一种开头一个结局，一部动漫一场青春”#02
-- [营销漫谈] 无效决斗？大疆影石超长预热漫谈
-- “两广人的家具belike：”【Monody-混响】【两广家具の小曲】
-- 《人民の少爷》
-- 别买新电脑了，老祖宗的零元购才是版本答案
 - 靠这锅沙子烤玉米，他在印度街头撑起了尊严
-- 淀粉：碳基压缩科技
-- 当星际战士降临，被邪神腐化的世界会如何发展？
-- 员工心情不好，那就带她去边境旅游！
-- 双马尾入侵《逆战：未来》？
-- 在墨西哥，你甚至可以和神父摔角?!
-- 你的手机，还好嘛？8月暑期手机散热器推荐，夏天给手机配个专属空调！全品类多价位段，带你找到最适合自己的手机散热器
-- 《英文最差の一集》
-- 史上最难！只有一块黑曜石该如何通关？
+- 《原神》角色预告-「奥黛塔：天真的挽歌」
+- 【萌黄一槽】一起来捉萤火虫吧！枫[夏日限定]全技能爆料！
+- 不看后悔！海绵宝宝主题汉堡店 这装修下血本了
+- 大理百元豪车租赁乱象调查：186元租的保时捷是重大事故车，游客拒买高价保险遭敲诈【探照灯计划】
 - 2026和平精英刺激之夜完整高清回放
-- 我和bro的潦草日常belike:
+- 当你遇上了奇葩家长
+- 勇闯互联网
+- 《人民の少爷》
+- 《英文最差の一集》
+- “两广人的家具belike：”【Monody-混响】【两广家具の小曲】
+- 当人脉哥请同学回家吃饭！
+- 双马尾入侵《逆战：未来》？
+- 【僵毁TV第二季】B42多人联机体验Be like: S2E2【TapNow制作】
+- 摇可乐会喷的真正原因，你可能错了十几年
+- 史上最难！只有一块黑曜石该如何通关？
+- 【传奇耐熬王】😫啊！！！受不了了！天天下雨~人均抑郁~！😨高难度雨水恶魔小岛！谁能活到最后？
+- 跑步一分钟5块，上不封顶，第147期，广东深圳13岁小姑娘速度耐力惊艳
+- 在东方明珠玩100人躲猫猫！奖金10万元
+- 王健林现在怎么样了? 万达什么情况?
 
 ## 抖音热搜 (20 条)
 - 台风白海豚实时路径
 - 哥伦比亚地震已致上百人遇难
-- 一组数据看7月经济活力
+- 一组数据看新产业动能强劲
+- 宁波公安回应网红雅典娜遇害传闻
+- 贵州抓猪大赛可太有意思了
 - 河南暴雨
-- 台风白海豚大拐弯
-- 开封夜市好吃到停不下来
-- 穿搭天才依旧稳定发挥
-- 原来爸爸也曾是少年
-- 一口气看懂万达现状
-- 用AI重返那年相遇的青涩夏天
-- 夏天结束前再漂亮一次
-- 通勤穿出松弛感
-- 国乒男单世界排名前10仅剩2人
-- 北京全市启动防汛二级应急响应
-- 自古逢秋悲寂寥
-- 百花奖获奖名单
-- 蹦沙卡拉卡反差转场
 - 百花奖男女明星怼脸镜头
-- 短人向上生长百花为证
-- 王骁萨日娜百花奖最佳男女配
+- 最权威版公瑾爆蛋
+- 台风白海豚大拐弯
+- 给AI时代一点手搓实拍的小震撼
+- AI打开了我童年记忆的百宝箱
+- 原来爸爸也曾是少年
+- 易烊千玺最年轻的金鸡百花双影帝
+- 需要多少涟漪才能细水长流
+- 用AI重返那年相遇的青涩夏天
+- 这个半脸动漫惊到我了
+- 一口气看懂万达现状
+- 穿搭天才依旧稳定发挥
+- 重器把我看哭了
+- 花小龙带何与自律的一天
+
+## 豆瓣讨论 (1 条)
+- 芙永远无法接到代言的产品：止汗喷雾 - douban
+
+## 丁香园 (1 条)
+- 【明医术见】钻心头痛竟是血管「搭错线」，神经医学中心内外科联手「拆弹」解顽疾 - y.dxy.cn
 
 ## 雪球热帖 (20 条)
-- 财报不及预期之际，巴里克与纽蒙特达成40亿美元交易，北美资产冲刺年底IPO - 新浪网
-- 罗姓股民向鹏都农牧发起索赔 张海峰律师接受咨询 - 新浪网
-- 华尔街公司与英伟达就5000亿美元AI融资协议达成合作 - 新浪网
-- 高盛全球银行与市场业务联席主管：三大理由建议持续布局市场 - 新浪网
-- 地产ETF华宝（159707）涨0.20%，半日成交额4529.75万元 - 新浪网
-- 科创成长ETF易方达（588020）涨0.00%，半日成交额2.05亿元 - 新浪网
-- 上证180ETF南方（530580）跌0.25%，半日成交额1176.89万元 - 新浪网
-- 央企结构调整ETF博时（512960）涨0.20%，半日成交额90.59万元 - 新浪网
-- 国企红利ETF创金合信（563890）跌0.28%，半日成交额14.92万元 - 新浪网
-- 信创ETF国泰（159537）涨0.96%，半日成交额284.52万元 - 新浪网
-- 可持续发展ETF博时（515090）涨0.07%，半日成交额35.25万元 - 新浪网
-- 科创50ETF中银（588720）涨0.17%，半日成交额409.62万元 - 新浪网
-- 电网设备ETF华夏（159326）跌0.29%，半日成交额4.47亿元 - 新浪网
-- 消费电子ETF华夏（159732）涨1.50%，半日成交额2.69亿元 - 新浪网
-- 券商ETF银华（159842）涨0.00%，半日成交额1.33亿元 - 新浪网
-- 建材ETF国泰（159745）跌0.37%，半日成交额1623.38万元 - 新浪网
-- 科创综指ETF天弘（589860）涨0.19%，半日成交额1955.34万元 - 新浪网
-- 影视ETF银华（159855）涨1.17%，半日成交额1028.62万元 - 新浪网
-- 机器人ETF银华（562360）涨0.64%，半日成交额1285.34万元 - 新浪网
-- 光伏ETF平安（516180）涨0.98%，半日成交额751.57万元 - 新浪网
+- 财报不及预期之际，巴里克与纽蒙特达成40亿美元交易，北美资产冲刺年底IPO - 新浪财经
+- 罗姓股民向鹏都农牧发起索赔 张海峰律师接受咨询 - 新浪财经
+- 华尔街公司与英伟达就5000亿美元AI融资协议达成合作 - 新浪财经
+- 高盛全球银行与市场业务联席主管：三大理由建议持续布局市场 - 新浪财经
+- 海外新兴产业日报：美国非农就业减少 AI数据中心电力合作推进 先进核能测试取得进展 - 新浪网
+- 实达集团涉嫌信披违法违规被立案 受损股民可进行预登记索赔 - 新浪财经
+- 金泰豐國際控股：重新分配所得款項淨額用於營運及一般用途 - 新浪财经
+- 家电行业2026年7月月报及8月投资策略：经营拐点清晰 重视出口链配置价值 - 新浪网
+- HM International：2026年中期报告已发布 提供获取方式 - 新浪财经
+- J.P.Morgan：发行五类恒生指数牛熊证 总额10亿份 - 新浪财经
+- 瑞士銀行：发行石药集团、紫金矿业相关单一股份权证 - 新浪财经
+- 浙商银行：股东浙江省海港集团及其一致行动人增持股份至6.01% - 新浪财经
+- 国泰君安国际：UBS AG 8月10日多笔买卖公司股份 - 新浪财经
+- 中銀國際亞洲：發行1億份恒生指數牛熊證 - 新浪财经
+- 摩根亚洲股息：公布2026年8月10日多份额基金单位净值 - 新浪财经
+- 惠理高息股票：公布2026年8月10日多类基金份额净值 - 新浪财经
+- 友邦保險：瑞士銀行将发行6000万份友邦保险认沽权证 - 新浪财经
+- 中国人保：董事会提名谭炯为执行董事并拟选举其为董事长 - 新浪财经
+- 捷利交易宝：2026年8月11日回购90万股 耗资118.97万元 - 新浪财经
+- 高萌科技：2026年股东周年大会各项决议案均获通过 - 新浪财经
 
 ## 36氪 (20 条)
-- 机构：预估2028年全球卫星火箭发射市场规模将达404亿美元
-- 南大光电：ArF光刻胶有六款产品通过客户验证并实现销售，目前50吨产能尚未满产
-- 机构：第二季度全球平板电脑市场进入下行周期，出货量同比下降10%
-- 恒指午间休盘跌0.63%，恒生科技指数跌1.27%
-- 中煤电力在内蒙古成立清洁能源公司，注册资本5000万
-- 半日主力资金加仓电子板块，抛售有色金属板块
-- 保利发展等成立上海保合汇企业发展有限公司
-- A股三大指数午间休盘涨跌不一，百花医药涨停
-- 日本央行据悉将在9月加息以应对通胀风险
-- 越南Vinspace与SpaceX签署协议，计划明年二季度实现卫星发射入轨
-- 通用汽车拟向三星SDI出售35亿美元美国电池合资企业半数权益
-- 三星电子相对于SK海力士的市盈率溢价或将扩大
-- 谷歌在韩月活用户数首超韩国互联网巨头Naver
-- 韩国财长：单股杠杆ETF交易规模大幅缩减，将采取一切可能措施降低市场波动性
-- 金饰克价涨至1336元
-- 董宇辉1000万在北京成立新公司
-- “寻明生科”再获总额1亿美金的B系列融资
-- 韩军工巨头韩华拟斥资超10亿美元扩大美国造船业务
-- 裕信银行与德国商业银行据悉首次就监管控制变化正式磋商
-- 消息称苹果仍计划明年推出全玻璃版iPhone
+- 冬海集团二季度营收同比增长48.1%至77.88亿美元
+- 皇氏集团：股票交易异常波动，控股股东股份转让尚不确定
+- 雅本化学：拟定增募资不超过8.41亿元用于创新医药CDMO项目
+- 宇树科技中签号出炉：中签号码共有19414个
+- 韩国多家券商，下调三星、SK海力士目标价，最高猛砍超30%
+- 源杰科技：拟投资约42.68亿元建设半导体科技产业园项目
+- 两大能源央企参投宇树科技
+- AI算力引爆，24只概念股上半年净利润预增
+- 东阳光：控股子公司增资扩股 引入投资者东方资产
+- 字节跳动新成立AI数据与安全部门，与Seed、Flow、抖音等部门平行
+- 百花医药：公司不涉及创新药研发
+- 百亿级证券私募数量再创历史新高，达157家
+- 行云科技：算力卡被卡在海关传闻不实，在手算力长期3-5年订单约150.82亿元
+- 曝字节Seed AI数据安全负责人将离职，官方暂无回应
+- 国民技术：自10月1日起对公司部分产品价格上调10%—20%
+- 安徽建工：副总经理何洪春被实施留置
+- 索尼与台积电将在日本成立先进图像传感器合资公司，采用先进制程技术2029年量产
+- 郑州调整住房公积金缴存基数
+- 腾讯出行服务正式接入如祺Robotaxi
+- 江波龙：取得7.2亿元股票回购专项贷款承诺函
 
 ## 虎嗅 (20 条)
-- 当所有品牌都有一支“无限内容团队”，品牌还剩下什么？
-- 中国机器人公司上市潮：宇树之后，如何定价？
-- 女装悄悄擦边，把女孩骗得好惨？
-- 在散场之前离开
-- 从推荐到成交，豆包开始算一笔新账
-- 轻量化正在成为AI眼镜的一场价值压力测试
-- “老登”的快乐，你想象不到
-- 扎克伯格发长文定义Meta的AI路线图：要做“个人超级智能”
-- 谁在逼一线员工“造假摆拍”，不是完不成的业绩，而是公司无意义的内耗
-- 看了个辣眼睛的视频
-- 汽车大省格局洗牌：安徽浙江逆袭，谁在掉队？
-- 客流回来了，电影院却不想只靠电影赚钱
-- 创业艰难百战多：做事要快，边干边调
-- 戚薇授权AI数字分身，演员开始批量生产自己
-- John Gruber：长期写作的秘密，写下今天的自己真正想读、却还没有人写出来的东西
-- 麻疹大暴发之际，特朗普选择向麻疹疫苗开炮
-- 一家公司最危险的时刻是“收入过亿”后的第二年
-- 印度轮椅大军，为何能薅遍全球？
-- AI带来的最大风险，200位AI专家及经济学家联名警告
-- 半年融资250亿，灵巧手还没跑出“标准手”
+- 华尔街把 GPU 变成了“数字房地产”：一场关于时间的套利
+- 钟睒睒炮轰电商平台的话，错了吗？
+- 智平方200亿的大脑故事，等上市称重
+- 宇树IPO背后的302份招标书，关于人形机器人的六个真相
+- WorkBuddy里的腾讯棋局
+- AI办公大战拆解：腾讯字节阿里到底在争什么？
+- 《归墟》爆了，AI短剧为什么迷上“世界末日”？
+- 一纸禁令，茅台镇“大师”集体“卸甲”
+- 单亲妈妈带自闭症儿子出游，一个瞬间让26万人破防
+- 英伟达筹资3.4万亿推AI基建，200亿押注电力企业
+- 平台一直有，难的是如何协调管理
+- 56亿元还没花完，摩尔线程为何还要去港股？
+- 充电桩没有被“强制拆除”，但真正该拆的从来不是桩
+- 樊文花vs植物医生：一个困在创始人里，一个困在增长里
+- 研发周期跟风砍半，合资车企也造速成车了
+- 全球NAND老二，成了老三的第一大股东
+- 26岁香港交易员巨亏1.5亿背后，一场韩国股市“大逃杀”
+- AI 入口，开始收费
+- 一只白海豚，为什么突然变成了14级台风？
+- 别只看宇树610亿，巨头买的不是机器人
 
-## 少数派 (2 条)
+## 少数派 (5 条)
+- 社区速递 153 | 派友们的吃灰工作流、太空美学复古落地灯与实用帆布钱包
+- 走通上架流程，拥抱新兴生态：《鸿蒙应用上架指南》上线
+- 从内容工坊到 Dot Skill，Quote/0 开始把屏幕交还给你
 - 不喜欢对照式译文的阅读体验？Ovid 让你「按需」查看原版书籍
 - 派早报：Meta 发布开源本地 AI 智能体大模型 Muse Glimmer、阿里千问开放平台上线等
 
-## GitHub Trending (16 条)
-- semantica-agi/semantica
+## GitHub Trending (17 条)
 - msitarzewski/agency-agents
-- NanmiCoder/MediaCrawler
+- semantica-agi/semantica
+- nvm-sh/nvm
 - addyosmani/agent-skills
-- paperclipai/paperclip
-- PrimeIntellect-ai/prime-agent
-- LadybirdBrowser/ladybird
-- ruvnet/RuView
-- danielmiessler/LifeOS
-- firecrawl/firecrawl
-- TauricResearch/TradingAgents
-- google-deepmind/weathernext
+- ZhuLinsen/daily_stock_analysis
 - vitali87/code-graph-rag
-- pingdotgg/t3code
-- Comfy-Org/ComfyUI
-- opa334/Dopamine
+- anthropics/skills
+- 3b1b/manim
+- HKUDS/DeepTutor
+- stablyai/orca
+- paperclipai/paperclip
+- huggingface/transformers
+- harveyai/harvey-labs
+- jaywcjlove/awesome-mac
+- calesthio/OpenMontage
+- practical-tutorials/project-based-learning
+- PrimeIntellect-ai/prime-agent
