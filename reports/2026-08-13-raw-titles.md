@@ -1,4 +1,4 @@
-# 2026-08-13 原始新闻标题 (209 条)
+# 2026-08-13 原始新闻标题 (241 条)
 
 ## 新华社 (20 条)
 - Education, health fees among key concerns
@@ -22,58 +22,98 @@
 - Former Chongqing political official facing corruption investigation
 - Former Chongqing political official facing corruption investigation
 
-## 澎湃新闻 (11 条)
-- 第一批火的AI艺人，已经撞上了真人明星的壁
-- 明查｜德国总理默茨即将辞职？视频系伪造
-- 2026，短剧的“第一次”之年
-- 人民日报金社平：培育更多“中国服务”品牌
-- 白送冰柜还倒贴电费？便利店里的“冰柜争霸赛”
-- AI也开始“摸鱼”了，没开玩笑，是真事儿
-- 经济日报谈宇树科技上市：风口之上尤需定力，高光之下愈要清醒
-- 关闭年赚1亿的店，胖东来把桌子掀了
-- 林俊旸开启上海创业：首轮融资阵容出炉
-- 中央气象台发布暴雨黄警：鄂皖苏浙粤等地局地有大暴雨
-- 电车露营来袭，酒店要被新能源车打败了？
+## 澎湃新闻 (20 条)
+- 马斯克：AI将占据公司99%的价值，SpaceX须在软硬件上双线取胜
+- 直播丨直击哥伦比亚地震救援现场：卡利震后48小时
+- 威少突然选择退役，他是最被低估的球星
+- 腾讯详解AI战略：优先级是训练SOTA级别的混元模型，如果将算力资源用于租赁将有显著回报
+- 上海松江银湖别墅小区排涝已基本完成，善后恢复工作预计今日收尾
+- 弗拉丹·米洛耶维奇出任上海申花队主教练
+- 游客称漂流滑道上玻璃翘起有人受伤，柳州红马山景区：4人受伤，项目关停整改
+- 职业外交官为助选金主让路，特朗普政府的大使团队有多业余？
+- 财晓得｜算力过剩？AI基建减速？科技巨头的资本开支很诚实
+- 外卖平台“破卷向善”，三大平台将率先在京落地“红灯停表”
+- 他们比暴雨先到！发现人手不足，民辅警帮村民抢收2000余斤晾晒稻谷
+- 普京首次登上俄日争议岛屿
+- 直播丨凌晨2时启用！河南漯河泥河洼蓄滞洪区开闸蓄洪
+- 2026未来科学大奖公布：张宏、赵东元、袁新意获奖，单项奖金百万美元
+- 新闻蒸馏器｜高市政府加速收紧外国人政策，日本舆论担忧“吸引力下降”
+- 中央生态环境保护督察已实现三轮全覆盖
+- 肠癌能活多久？用上万病例汇编成书，结直肠癌百问百答亮相上海书展
+- 时政微观察丨从乡村蝶变看浙江的共富之路
+- 黄浦江今日凌晨最高潮位5.17米目前已回落，专家分析原因
+- 盘点｜伊朗密集换帅，穆杰塔巴打下哪些烙印？
 
-## 凤凰网 (3 条)
-- 特朗普披露白宫新闻秘书莱维特离职时间
-- “伊朗可能延长与美国的战争，直到特朗普卸任”
-- 台风“白海豚”后，很多浙江人做了同一件事，让很多人意外和感动
-
-## 财新网 (3 条)
+## 财新网 (18 条)
+- 免税优惠抢基金落户 港府、律师详解最新适用范围
+- 再生铜产业进入变革发展期
+- 火线评论｜外籍人才扎堆回流香港 缘何韩国精英最吃香？
+- 【市场动态】腾讯加快AI投入，微信广告助推业绩增长
+- 【市场动态】黑石考虑放弃30亿美元债务融资计划
+- 【市场动态】中国自贸区债券市场现复苏迹象
+- 腾讯股价跌超5% 预告发布更大参数模型Hy4
+- 【市场动态】瑞士拟立法强制延迟银行高管奖金发放
+- 英伟达联手美国六大资管公司，开创AI基建融资新纪元
+- 财新闻｜张雪机车获红杉中国独家新一轮投资，交易细节未披露，今年营收有望达20–25亿
+- 今日开盘：两市双双高开 沪指涨幅0.27%
+- 荣耀发万元“机器人手机” IPO动作密集
+- T早报｜腾讯二季度利润增速大幅下滑；端侧模型企业面壁智能启动IPO辅导；Gemini App月活用户数超过10亿
+- 朱镕基，中国走向世界的形象代言人｜纪念
+- 特朗普民调支持率触及两届以来新低 四成美国民众盼发生“革命性”变化
 - 新型研究型大学高招表现亮眼 传统民办高校加速洗牌｜教育观察
 - 财经早知道｜央行最新动作，及时谋划出台务实管用的增量政策
 - 【商圈】山姆・奥尔特曼：人类顶尖AI掌舵人能被信任吗？
 
-## 央视网 (2 条)
-- 世卫组织：美国调整儿童疫苗接种计划背离科学依据 - 央视网
-- 伊拉克总理：9月30日为国际联盟撤军最后期限 - 央视网
+## 央视网 (10 条)
+- 黄河实现连续27年不断流 - 央视网
+- 军事→贸易 千年水道见证中华文明的传承与发展 - 央视网
+- 会“说人话”的AI为何“读不懂人话” - 央视网
+- 哥伦比亚宣布进入经济紧急状态以应对强震 - 央视网
+- 云南华宁南盘江一民船侧翻致6人落水 目前1人获救 - 央视网
+- 吃药前少了这一步 不仅白吃还伤身 - 央视网
+- 委内瑞拉政府与反对派结束首轮对话 达成多项协议 - 央视网
+- 一年来我国已累计清理处置6000多万吨固体废物 - 央视网
+- 南苏丹霍乱疫情已致1721人死亡 确诊病例超11万例 - 央视网
+- 我国新一轮空气质量持续改善行动方案正在制定 - 央视网
 
-## BBC (11 条)
+## BBC (18 条)
 - Major Russian grain export terminals hit in Ukraine Black Sea port attack
 - Israeli settlers besieging Palestinian families in West Bank village
-- ICE plans to equip agents with gloves that can deliver electric shocks
-- Trump says White House press secretary Karoline Leavitt to leave post
+- Ebola outbreak on track to be deadliest ever, WHO chief says
+- Three men will be executed on the same day as death penalties rise in US
 - Why are 'human fridges' being sold in Japan?
-- Woman pulled alive from rubble 36 hours after Colombia quake
+- BTS star V reveals hearing loss battle during livestream
 - Travis Kelce shares first details from his wedding to Taylor Swift - 'Best night of my life'
+- Australian army whistleblower released on parole after more than two years in jail
 - Thousands of Canadians call for US ambassador's expulsion
+- Trump says White House press secretary Karoline Leavitt to leave post
+- Twitch users can now block Amazon from using their content to train AI
+- Woman pulled alive from rubble 36 hours after Colombia quake
 - Members of Trump's cabinet remained on decoy plane, after president's quiet exit
-- LA Lakers to be sold in record $12.5bn deal
-- Under strain, Australia's world-leading disability support faces major restructure
+- ICE plans to equip agents with gloves that can deliver electric shocks
+- Vultures are disappearing in Nigeria - but the 'Vulture King' is fighting to reverse the trend
+- Australia's game-changing disability support is in crisis – what went wrong?
+- Why Japanese firms are being so slow to use AI
+- 'If you're not conservative, don't come here': The town making missiles for Trump
 
-## Reuters (2 条)
+## Reuters (3 条)
+- US immigration agency plans to buy electric shock gloves, raising alarm among rights advocates - Reuters
 - Federal grand jury returns hate crime indictment in stabbing of Muslim man in Utah - Reuters
-- Aftermath of an earthquake in Palmira - The Lufkin Daily News
+- Aftermath of an earthquake in Cali - lufkindailynews.com
 
 ## NYTimes (20 条)
 - First Total Eclipse in Europe in Decades Turns Day to Night
 - How Nigel Farage Ended Up Running Against Count Binface in Clacton
+- Europeans, Braced for 5th Heat Wave of 2026, Have Had Enough
 - More Than 40 Dead After a Ferry Capsizes on Zimbabwe’s Lake Kariba
 - A Space Expert Hoped to Use the Eclipse as Science Class. The D.J.s Had Other Plans.
 - How Raúl Castro’s Grandson, Raúl G. Rodríguez Castro, Became a Power Broker
+- The Man on a Mission to Build India’s Most Livable City
+- Russian Blockade of Major Ukrainian Ports Threatens Global Grain Supplies
+- What to Know About Thursday’s Special Election in Clacton: Farage vs. Binface
+- ‘An English Summer Is Not the Same Anymore’
 - Arabian Sea Bird and Turtle Habitat Threatened by Oil From Grounded Tanker
-- Palestinians Trapped by Settlers for Days as Israeli Army Shows Up, and Then Leaves
+- Settler Siege of Palestinian Homes Highlights Growing West Bank Chaos
 - Muddling through Iceland’s rainy eclipse, accompanied by clouds, whales and at least one proposal.
 - For Trump, Secret Flight Was a Stunning Ruse. For Putin, ‘a Regular Tuesday.’
 - Afghanistan’s Unhappy Anniversary
@@ -82,11 +122,6 @@
 - Driver Sets Record for Hydrogen-Powered Vehicle at More Than 406 M.P.H.
 - At Iceland’s eclipse festival, a prayer for sea cucumbers and ‘generosity from the sky.’
 - A Special U.S. Navy Squadron Photographed the Last Total Solar Eclipse in Spain in 1905
-- As Europe Faces Heat Waves and Wildfires, Travelers Are Forced to Adapt
-- Effects of Record-Breaking El Niño Are Happening on 3 Continents
-- Eclipse chasers stake out their viewing spots in Iceland.
-- A Partial Solar Eclipse Will Be Visible in Parts of the U.S. and Canada
-- How Scientists Use Eclipses for Research
 
 ## CNN (6 条)
 - 0% intro APR until 2024 is 100% insane
@@ -98,25 +133,25 @@
 
 ## 微博热搜 (20 条)
 - 朱镕基同志逝世
-- 威少宣布退役
-- 60万亿元消费蓝海要来了
-- 张婧仪代言比亚迪秦MAX
 - 胖东来许昌老店关闭周边商户发声
-- 41国所谓涉华声明不过是废纸一张
-- Lululemon劲敌来中国了
-- 胚胎案妻子回应丈夫花百万救命
-- 上半年全国离婚登记138.3万对
-- 龙餐馆
-- 虞书欣丁禹兮 我欲乘风
+- 我国生态治理迈向新阶段
+- 情侣懒得拍婚纱照交给豆包
+- 重罚台风请假员工公司多年0人参保
+- 骑行辅警被刺死其父亲发声
+- 恋与深空
+- 艾米给邓为喂了什么
+- 八仙曹国舅出场台词火出圈
+- 男子分手十多年想要回30克金手镯
+- 邹市明45岁重返拳击赛场
+- 刘晓庆 女帝和她的将相
+- 胖东来新乡店旧址如今客流稀少
+- 比Lululemon还贵的瑜伽服来中国了
+- 魏如萱称歌手丑八怪是节目组选的
+- 姜潮麦迪娜新疆婚礼含金量太高了
 - 升学宴35桌无人上桌
-- 李雪健已经完全听不见了
-- 英仙座流星雨
-- 王加一分享和肖战相识的过往
-- 威少退役
-- 喜欢穿洞洞鞋的人天塌了
-- 微信群聊可以彻底关闭通知了
-- DeepSeek发布V4Pro正式版
-- 普京说俄罗斯对日本没有诉求
+- 曝曾辉送考人不是韩雨彤了
+- 章若楠被金靖穿搭可爱到受不了
+- 金价油价全涨了
 
 ## 知乎热榜 (20 条)
 - 通电能让蘑菇长得更快吗？
@@ -127,7 +162,6 @@
 - 如何看待OpenAI下一代模型Astra大量解决数学猜想？
 - 大象肉多，为何没人养殖食用？
 - 瞎扯 · 如何正确地吐槽
-- 汉族的汉化能力为何那么强大呢？
 - 日本为什么会流行起来枯山水，毕竟这风格很容易招流浪猫过来上厕所？
 - 为什么虾的复眼是正方形而非六边形的？
 - 瞎扯 · 如何正确地吐槽
@@ -139,106 +173,102 @@
 - 西班牙率先暴富并拥有了几乎整个美洲，为何最后却远远落后于当初远不如自己的英法德？
 - 有什么东西是两广地区常吃常见，但外省朋友不怎么吃的？
 - 随机生成5位数，得到11111和得到54176的概率相同，为什么遇到前者时我们会觉得随机算法有问题？
+- 如果进化论是对的，植物为何不进化得很难吃？
 
 ## B站热门 (20 条)
-- 《影之刃零》预购开启，11分钟实机预告公开
-- 2026和平精英刺激之夜完整高清回放
 - 🐧当你打游戏时父母进你房间蹭空调🐧
+- 《影之刃零》预购开启，11分钟实机预告公开
 - 这视频等了五年！
 - 《顽童戏老叟》
 - 《癫佬外传》第一季合集
-- 「直到大地变成一颗烂苹果！！」
-- 这不是黑历史…是23年 我奋斗的开始…差点gg也得拍视频
-- 诺兰2.5亿巨制！看懂奥德赛
-- 【咒术回战IF】高羽史彦:你觉得未来的英雄来救场会搞笑吗？【B萌应援】
 - 百米赛道高难度闯关、只有上过的才知道含金量有多高！
-- 恶心套路？情绪共振！细节夯爆！观众比男主先爱上女主！《花开锦绣》
-- 特朗普挥不动的重拳
-- 为纪念逝去的小狗创作的歌曲，却戳中无数人的内心，火了二十多年
-- ⚡泥 肘⚡
-- 船新版本新宝岛！这个联动怎么说？
 - 🔥全看完的可以封神了！三角洲AI夏日晚会🔥
-- 「妄想天使」全新企划《天使导览》第一期
-- 这些散落在不同作品里的日系旋律，早已不止是耳边流淌的曲调。
+- 【原神一条龙全收集】至冬7.0(成就数/冰神瞳/摩拉/影生翼滴/枪械蓝图)古兽冰原+焰羽谷+永凝冻土+霜殛寒峰+白桦雪藏地/玉帛/原神7.0一条龙
+- 「直到大地变成一颗烂苹果！！」
 - 假千金绑定了云原神系统，没想到我绑定了爱上雷神系统，这都什么和什么啊我剪的时候果珍绷住了吗。
+- 为纪念逝去的小狗创作的歌曲，却戳中无数人的内心，火了二十多年
+- 6年，你们童年的愿望，我帮你们实现了！
+- 深切缅怀！朱总理一路走好！
+- 高中牲自制蛛丝发射器（一）
+- 这些散落在不同作品里的日系旋律，早已不止是耳边流淌的曲调。
+- 船新版本新宝岛！这个联动怎么说？
+- 大量人员被抓捕！三角洲行动被央视点名
+- 臣妾要线上告发熹贵妃
+- [审美积累]“黑暗时代所定义的中世纪电影美学”
+- 飞龙在天！
 
 ## 抖音热搜 (20 条)
 - 朱镕基同志逝世
-- 山西运城才是旅行的宝藏地
-- 我国加快自然资源一张图建设
-- 沉浸式感受红山石林带来的震撼
-- 新台风浪卡生成
-- 硬核运镜闯8D重庆太丝滑了
-- 徒步人都有的一张照片
-- 朱镕基同志遗像发布
-- 15万亿元投资新机遇来了
-- 央行将开展隔夜逆回购操作
-- 白海豚停编为何内陆降雨这么强
-- 一起追英仙座流星雨
-- 穿搭改变环境
-- 英仙座流星雨将迎来极大
-- 赵心童5:6不敌张安达
+- 白海豚对河南的影响有多大
+- 60秒读懂海洋经济
+- 威少宣布退役
+- 我选择海岛作为我生活的解药
+- 看看我拍到的英仙座流星雨吧
+- 许昌襄阳出现最强单日降雨
+- 台军“汉光演习”播放玩具枪声
+- 美卖欧元买日元 引发欧洲不满
 - 武大靖出任中国短道速滑队主教练
+- 伦纳德百分大战定档
+- 穿搭改变环境
+- 没有花一开始就是一朵花
+- 台风白海豚谣言盘点
+- 央行将开展隔夜逆回购操作
 - 英伟达最新开源大模型上线
 - 感动千万网友的搬瓜少年后续
-- 没有花一开始就是一朵花
-- 这下七夕你总满意了吧
+- 杰伦格林抖音海选球迷太夯了
+- 哥伦比亚地震直击经济命脉
+- 逆天邪神云澈倾月夫妻联手
 
 ## 雪球热帖 (20 条)
-- 美股三大指数收盘涨跌不一 SK海力士涨超9% - 新浪财经
-- 中央气象台发布暴雨黄警：鄂皖苏浙粤等地局地有大暴雨 - 新浪财经
-- 科威特挫败一起针对重要设施的恐袭图谋 - 新浪财经
-- 黎巴嫩政府军指责以色列违反框架协议持续袭击黎南 - 新浪财经
-- 已致刚果（金）两千余人死亡 世卫：或为有记录以来最致命埃博拉疫情 - 新浪财经
-- 美国7月预算赤字为4323.1亿美元 预估赤字为3460亿美元 - 新浪财经
-- Coherent第一财季业绩展望高于市场预期 - 新浪财经
-- 消息称派拉蒙已商讨设立董事会，以保障 CNN 的独立性 - 新浪财经
-- 8月13日热门中概股多数下跌，台积电涨1.66%，阿里巴巴跌约2% - 新浪财经
-- SpaceX涨近12% 大摩看好其两项结构性优势 - 新浪财经
-- 华夏房地产ETF联接D净值上涨3.29% - 新浪财经
-- 盛禾生物：拟于8月27日召开股东大会 审议委任非执行董事议案 - 新浪财经
-- 中信保诚新兴产业混合C净值上涨3.14% - 新浪财经
-- 嘉合睿金混合C净值上涨4.66% - 新浪财经
-- 盛禾生物控股：8月27日将召开股东大会审议委任非执行董事议案 - 新浪财经
-- 财通景气行业混合A净值上涨3.87% - 新浪财经
-- 兴证资管金麒麟兴享优选混合B净值上涨3.78% - 新浪财经
-- 红土创新科技创新股票(LOF)C净值上涨3.44% - 新浪财经
-- 华润元大信息传媒科技混合C净值上涨3.03% - 新浪财经
-- 方正富邦金立方一年持有期混合D净值上涨3.33% - 新浪财经
+- 潼关黄金：8月25日将召开董事会审议中期业绩及派息 - 新浪财经
+- 雅迪集团：将于8月25日召开董事会审议中期业绩及派息 - 新浪财经
+- 罗甸县齐林再生资源回收站完成商务部绿色流通服务企业备案公示 微型规模、参保0人 - 新浪财经
+- 江山控股：拟8月27日开会审议中期业绩及派息事宜 - 新浪财经
+- 药物受理最新动态：四川泰乐制药有限公司银翘解毒颗粒补充申请获受理 - 新浪财经
+- 药物受理最新动态：Novartis Europharm Limited塞瑞替尼胶囊补充申请获受理 - 新浪财经
+- 药物受理最新动态：艾司博迪亚（上海）生物科技有限公司ACE723新药申请获受理 - 新浪财经
+- 理工能科十大流通股东格局生变：宁波万泽微测新进，朴长毅退出，北向资金等增持 - 新浪财经
+- 金桥集团控股：8月28日将开会审批中期业绩及考虑派息 - 新浪财经
+- 药物受理最新动态：长春澜江医药科技有限公司注射用磷酸左奥硝唑酯二钠仿制申请获受理 - 新浪财经
+- 软件ETF华夏（159068）跌0.38%，半日成交额671.55万元 - 新浪财经
+- A50ETF广发（159136）涨0.19%，半日成交额37.18万元 - 新浪财经
+- 房地产ETF华夏（515060）跌1.80%，半日成交额4085.45万元 - 新浪财经
+- 电力ETF广发（159611）涨0.19%，半日成交额2.86亿元 - 新浪财经
+- 自由现金流ETF广发（159229）跌1.15%，半日成交额501.63万元 - 新浪财经
+- 宜昌宜宇鑫环保科技有限公司完成商务部绿色流通服务企业备案公示 注册资本200万、参保0人 - 新浪财经
+- 科技100ETF华泰柏瑞（515580）涨0.98%，半日成交额479.42万元 - 新浪财经
+- 新能源ETF申万菱信（159752）涨0.16%，半日成交额269.63万元 - 新浪财经
+- 新能源车ETF汇添富（516390）跌0.33%，半日成交额120.97万元 - 新浪财经
+- 农牧渔ETF华宝（159275）跌0.36%，半日成交额531.04万元 - 新浪财经
 
-## 36氪 (11 条)
-- 泽璟制药递表港交所
-- 美银对冲基金客户继续大买美股，单周规模创出2008年以来之最
-- 法国今夏热浪或致超百亿欧元经济损失
-- A股公司以实际行动稳市场强信心
-- 思科：第四财季营收同比增长18%至173亿美元
-- 高盛拟至多23亿美元收购ETF发行商Neos
-- 谷歌发布三款新手机，搭载Google Tensor G6芯片
-- 荣耀CEO李健：Robot Phone预定量已超40万台
-- SpaceX AI：推出Grok 4.6
-- DeepSeek API文档新增“DeepSeek-V4-Pro-0813”模型
-- 美股三大指数收盘涨跌不一，热门中概股普跌
+## 36氪 (20 条)
+- 长飞光纤中标中国电信广东公司1.59亿元空芯光缆集采
+- 三家外卖平台将率先在京落地“红灯停表”
+- Shein据悉考虑8月28日左右在香港上市交易
+- 联想集团：2026/27财年第一财季营收269.4亿美元，同比增长43%
+- 川润股份：向特定对象发行股票申请获深交所受理
+- 半日主力资金加仓医药生物板块，抛售有色金属板块
+- 恒指午间休盘涨0.07%，恒生科技指数涨0.3%
+- 速卖通全面加码“海外托管”，上半年新入驻超2万商家
+- 美团骑手“等灯停表”功能已在北京试点路测
+- A股三大指数午间休盘集体上涨，CRO概念走强
+- 弘毅文化联手AIROBO成立合资公司，进军机器人平台运营
+- 小马智行在佛山新设科技公司，含智能机器人研发业务
+- 重大资产重组，股价4天翻倍，蓝盾光电回应
+- 千问开放平台上线菜鸟智能体
+- Alo关联公司注册资本200万美元
+- 谷歌AI竞赛告急，共同创办人布林出手整顿DeepMind团队
+- Anthropic据悉洽购AI初创公司Decart，交易估值约60亿美元
+- 上海：推广发放“算力券”“模型券”“语料券”，降低公共数据、算力、模型、语料等数字要素的使用成本
+- 上海：支持推荐民营企业参与国家审批（核准）的铁路、核电等领域项目
+- 全球16国将参加第二届世界人形机器人运动会，队伍总量同比增长138%
 
-## 虎嗅 (3 条)
-- 西方发起第二轮纯电竞争
-- 演唱会卖的不是音乐，是一代人的青春赎身券
-- Skill 不够了，Agent 需要拼“生产系统”
+## 虎嗅 (4 条)
+- 全球车企转向"选择性纯电动化"，福特等调整战略聚焦低价车型 - 虎嗅网
+- Skill 不够了，Agent 需要拼“生产系统” - 虎嗅网
+- 不只是赌博， 终于搞懂了线上预测平台的真实面目 - 虎嗅网
+- workbuddy为什么来到了腾讯的舒适区？ - 虎嗅网
 
-## GitHub Trending (17 条)
-- cathrynlavery/diagram-design
-- macro-inc/macro
-- semantica-agi/semantica
-- stablyai/orca
-- msitarzewski/agency-agents
-- shiyu-coder/Kronos
-- NanmiCoder/MediaCrawler
-- hugohe3/ppt-master
-- infiniflow/ragflow
-- paperclipai/paperclip
-- NVIDIA-NeMo/Switchyard
-- ZuodaoTech/everyone-can-use-english
-- smicallef/spiderfoot
-- localsend/localsend
-- Lightricks/LTX-2
-- embabel/embabel-agent
-- cactus-compute/needle
+## 少数派 (2 条)
+- 6 天时间丈量独库公路：我的平安骑行指南
+- 派早报：荣耀发布 Robot Phone、Google 推出 Pixel 11 系列等
