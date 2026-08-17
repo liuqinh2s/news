@@ -2,80 +2,184 @@
   "date": "2026-08-17",
   "news": [
     {
-      "title": "江泽民诞辰百年大会举行",
-      "summary": "8月17日，纪念江泽民同志诞辰100周年大会在北京隆重举行，习近平出席大会并发表重要讲话，高度评价江泽民同志光辉的一生、战斗的一生。大会号召继承发扬老一辈革命家光荣传统，为全面建设社会主义现代化国家而团结奋斗。这一事件是中国政治生活中的头等大事，具有深远政治意义和广泛社会影响。",
-      "reason": "中国前最高领导人诞辰百年纪念大会，习近平重要讲话，国内重大政治事件。",
-      "impact_areas": [
-        "政治"
-      ],
-      "impact_level": "现象级",
-      "sources": [
-        {
-          "name": "澎湃新闻",
-          "url": "https://m.thepaper.cn/detail/33797871"
-        }
-      ]
-    },
-    {
-      "title": "美伊谈判期限已过战事持续",
-      "summary": "美国与伊朗未能在8月17日最后期限前就结束战争达成广泛协议，谈判破裂风险升高。美方转向以经济施压为主的新策略，被指重现历史上对伊制裁老路。伊朗军方悬赏3万美元击杀美军，中东产油国借“暗航”持续出口原油，国际油价上行，黄金反弹。冲突外溢风险加剧，全球市场避险情绪升温。",
-      "reason": "美伊冲突进入新阶段，经济战升级叠加油价金价异动，影响全球地缘与金融市场。",
+      "title": "美伊谈判到期未延长 中东局势再升温",
+      "summary": "8月17日，美伊关于结束战争的谅解备忘录到期且未获延长，双方未能在最后期限前达成全面协议。美国已向中东派出第三艘航母，伊朗最高领袖哈梅内伊则释放信号称将继续保持战争状态。霍尔木兹海峡通船量环比下降，市场对封锁风险的担忧升温。若冲突升级，全球油价可能剧烈波动，并经由能源渠道冲击世界经济。目前外交谈判窗口尚未完全关闭，但双方立场差距明显，短期内难以化解。",
+      "reason": "美伊冲突升级风险加剧，直接影响全球能源市场和地缘格局。",
       "impact_areas": [
         "地缘",
         "经济金融"
       ],
-      "impact_level": "现象级",
+      "impact_level": "重大",
       "sources": [
         {
-          "name": "NYTimes",
-          "url": "https://www.nytimes.com/2026/08/17/world/middleeast/iran-mou-deadline.html"
-        },
-        {
           "name": "财新网",
-          "url": "https://database.caixin.com/2026-08-17/102474681.html"
+          "url": "https://database.caixin.com/2026-08-17/102474784.html"
         },
         {
           "name": "凤凰网",
-          "url": "https://news.ifeng.com/c/8veylV32h3N"
+          "url": "https://news.ifeng.com/c/8vfLF9nDBak"
+        },
+        {
+          "name": "纽约时报",
+          "url": "https://www.nytimes.com/2026/08/17/world/middleeast/iran-mou-deadline.html"
         }
       ]
     },
     {
-      "title": "普京首次登日俄争议岛屿",
-      "summary": "俄罗斯总统普京首次登上日俄争议岛屿（南千岛群岛/北方四岛），引发日本强烈反应。日本首相高市早苗称“绝对无法接受”，表示将强烈抗议。此举可能影响日俄关系及地区安全格局，俄方借此展示对争议领土的实际控制，进一步加剧俄日围绕和平条约谈判的紧张局势。",
-      "reason": "俄日领土争端重大升级，普京首次登岛开先例，直接影响东北亚地缘政治。",
+      "title": "印尼7.7级地震已致68人遇难",
+      "summary": "印度尼西亚发生7.7级强烈地震，截至8月17日已造成68人死亡，受灾地区出现食品、饮用水和药品短缺，有受灾民众面临饥饿风险。中国国家主席习近平已向印尼总统普拉博沃致慰问电。地震引发山体滑坡并损毁大量房屋，救援工作因道路中断和余震困难重重。印尼位于环太平洋火山地震带，此次灾害再次凸显其防灾减灾体系不足，国际社会已开始组织援助。",
+      "reason": "重大自然灾害造成严重人员伤亡，国际救援关注度高，同时体现地区灾害风险。",
       "impact_areas": [
-        "地缘",
-        "政治"
+        "社会",
+        "地缘"
+      ],
+      "impact_level": "重大",
+      "sources": [
+        {
+          "name": "澎湃新闻",
+          "url": "https://m.thepaper.cn/detail/33799777"
+        },
+        {
+          "name": "BBC",
+          "url": "https://www.bbc.co.uk/news/articles/crl7686r71yo?at_medium=RSS&at_campaign=rss"
+        }
+      ]
+    },
+    {
+      "title": "普京首登争议岛屿 日本强烈抗议",
+      "summary": "俄罗斯总统普京8月17日首次登上俄日争议岛屿（俄称南千岛群岛，日称北方四岛），日本首相高市早苗表示“绝对无法接受”，并称正在考虑应对措施。这是俄日领土争端数十年来首次由最高领导人亲自登岛宣示主权，被视为对日本政策的重大挑战。事件可能使日俄关系进一步恶化，影响双方和平条约谈判，同时牵动美国在亚太的盟友体系。",
+      "reason": "俄日领土争端升级，大国地缘博弈出现新局面。",
+      "impact_areas": [
+        "政治",
+        "地缘"
       ],
       "impact_level": "重大",
       "sources": [
         {
           "name": "央视网",
           "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1TQW4zVW5ZTXBSckN6dm5mcUQ5R01jMEpxOE9uM0VaYnB2bHNCQ0V1all6eXNvTEtqRF9kOEQzak92N1VacFJEUkRTUm82a3ZCbGFFUjdDY0Y4MXc2aUR6Z0swSmZzcmhiSEpUcG9Ed2pLNzhrN1Bkdg?oc=5"
+        },
+        {
+          "name": "凤凰网",
+          "url": "https://news.ifeng.com/c/8vfFvnyyoAk"
         }
       ]
     },
     {
-      "title": "中国印尼台湾东部军演",
-      "summary": "中国与印度尼西亚在台湾东部海域举行联合军事演习，这是中国与外国军队在该区域的罕见联合行动。分析认为此举改变了地区军事平衡，表明印尼与中国军事合作深化，同时也对台海局势产生新影响。在中国持续扩展亚洲影响力的背景下，此次军演引发外界关注。",
-      "reason": "中国与印尼在台湾东部联合军演，罕见举动，改变地区军事态势，地缘影响深远。",
+      "title": "7月经济数据回落 投资降幅扩大",
+      "summary": "国家统计局8月17日发布7月经济数据，规模以上工业增加值同比增长4.5%，增速较上月回落；社会消费品零售总额同比增长仅0.6%，低于市场预期；1—7月固定资产投资同比下降6.7%，降幅进一步扩大。数据表明新旧动能投资明显分化，房地产和传统基建拖累明显，而高技术制造业保持较快增长。内需不足仍是核心矛盾，政策加码稳增长的紧迫性上升，市场对下半年经济修复力度存疑。",
+      "reason": "中国经济核心数据全面走弱，影响全球经济增长预期。",
       "impact_areas": [
-        "地缘",
-        "政治"
+        "经济金融"
       ],
       "impact_level": "重大",
       "sources": [
         {
-          "name": "凤凰网",
-          "url": "https://news.ifeng.com/c/8vey4QiDja1"
+          "name": "财新网",
+          "url": "https://economy.caixin.com/2026-08-17/102475108.html"
+        },
+        {
+          "name": "财新网",
+          "url": "https://economy.caixin.com/2026-08-17/102475014.html"
+        },
+        {
+          "name": "财新网",
+          "url": "https://economy.caixin.com/2026-08-17/102474966.html"
         }
       ]
     },
     {
-      "title": "特朗普宣布缩减美韩军演",
-      "summary": "特朗普表示美国将缩减在韩国的军事演习规模，理由是韩国未参与美国对伊朗的军事行动。随后韩国国防部回应称韩美军演正按计划进行。韩美同盟关系出现裂痕，地区安全局势不确定性上升。特朗普的言论再次引发盟友对美国安全承诺可靠性的担忧。",
-      "reason": "美国缩减对韩军演承诺，动摇美韩同盟，直接影响东北亚安全格局。",
+      "title": "美元跌至三个月低点 加息押注降温",
+      "summary": "8月17日美元指数跌至6月初以来最低水平，此前投资者大幅削减对美联储加息的押注。近期美国经济数据表现疲弱，市场预期美联储会提前结束紧缩周期甚至转向降息。美元走弱引发全球资产重新定价：新兴市场货币和股市上涨，黄金、原油等大宗商品获得支撑。对新兴经济体而言，美元贬值缓解资本外流压力，但同时也可能推升输入性通胀。",
+      "reason": "美元指数创三个月新低，全球资金流向和资产价格将随之重定价。",
+      "impact_areas": [
+        "经济金融"
+      ],
+      "impact_level": "重大",
+      "sources": [
+        {
+          "name": "36氪",
+          "url": "https://www.36kr.com/newsflashes/3943498784537729"
+        },
+        {
+          "name": "路透社",
+          "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNcEx2UnRQT3N2aTdDejItdVFGZ280ZXJ1ZzYtSHRoeDg0WEd1dGxmbkRvd1ZJMVRaUkdsMEZsMWx6ZUh1Wk1NeExBUTRxbHNuaW01TFpBd1F5dWlOOWoydXdETU8tamlmU2xpeEptdDRDTk52LW9GZW5oV201MmRubl85SnNSdnVwT2NxT0VHdmxxVGJ4TGdIWFhQcUN4dnBEcmFUUENqRQ?oc=5"
+        }
+      ]
+    },
+    {
+      "title": "刚果（金）埃博拉疫情史上最严重",
+      "summary": "世界卫生组织8月17日确认，刚果（金）本轮埃博拉疫情已为该国有记录以来最严重的一次，死亡人数超过历史任何一次疫情。该国东部医疗系统薄弱、武装冲突持续，加上社区不信任，导致疫区封锁和疫苗接种困难。由于埃博拉病毒致死率极高，疫情存在向邻国扩散的风险。国际社会亟需增加医疗物资和专业人员援助，否则可能演变为更广泛的区域公共卫生灾难。",
+      "reason": "史上最严重埃博拉疫情暴发，全球公共卫生面临严峻挑战。",
+      "impact_areas": [
+        "公共卫生"
+      ],
+      "impact_level": "重大",
+      "sources": [
+        {
+          "name": "BBC",
+          "url": "https://www.bbc.co.uk/news/articles/cvgll74vvydo?at_medium=RSS&at_campaign=rss"
+        }
+      ]
+    },
+    {
+      "title": "夏威夷飓风致18万人断电",
+      "summary": "飓风Lala于8月17日横扫夏威夷后减弱为热带风暴，但已造成约100栋房屋被冲毁，超过18万人断电，部分岛屿出现严重洪涝。州长宣布进入紧急状态，国民警卫队已参与救灾。夏威夷经济高度依赖旅游，灾后重建和游客恢复需要较长时间。气象学家指出，气候变化正使强飓风更频繁，基础设施韧性不足的问题在太平洋岛屿地区普遍存在。",
+      "reason": "强飓风袭击美国夏威夷，大规模停电和房屋损毁，灾情严重。",
+      "impact_areas": [
+        "社会",
+        "生态"
+      ],
+      "impact_level": "重大",
+      "sources": [
+        {
+          "name": "BBC",
+          "url": "https://www.bbc.co.uk/news/articles/crmrr7kjy9vo?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "name": "路透社",
+          "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOVWp3QXBkLU5sd2piVkkwODRCOEpFZFV6MGY2OFZyUlM2TUcxcXVubEgzS2R5VlZVUFMzZEo3d0ZGS0FxS1BxVXgwQWdVdHZVbGpMaGJIRzFOOG50YUp2T2RXbl9wTEhPUlpvTmZZOGlVamdnQUlmUGxPaktaTElqN0dTS1lZLTR6NUtfZ3NOb1JUT1lUcGJZQmtBY1d0bkpxeWtfSnNjUUM3dXBEQTNoQl9BbmE0SjRBVjdveWhkTzdmREU?oc=5"
+        }
+      ]
+    },
+    {
+      "title": "硅料硅片罕见涨价 组件厂承压",
+      "summary": "8月17日，光伏行业出现罕见的上游价格暴涨，多晶硅、硅片价格单日涨幅显著，但组件厂商反映终端需求支撑不足，对后市态度悲观。暴涨主要因上游供给端意外收缩和部分企业囤货，而下游电池、组件环节难以转嫁成本，利润空间被严重挤压。行业分析师预计，中小厂商可能减产停产，产业链洗牌加速，龙头企业凭借一体化布局更具抗风险能力。",
+      "reason": "光伏上游价格罕见暴涨，产业链利润急剧重分配，行业格局可能生变。",
+      "impact_areas": [
+        "经济金融",
+        "产业",
+        "科技"
+      ],
+      "impact_level": "重大",
+      "sources": [
+        {
+          "name": "虎嗅",
+          "url": "https://www.huxiu.com/article/4883726.html"
+        }
+      ]
+    },
+    {
+      "title": "燃气轮机爆单涨价 碳中和承压",
+      "summary": "受全球能源安全焦虑影响，燃气轮机订单爆发式增长，价格较前期上涨约三倍，而众多国家的碳中和承诺出现历史上最大规模的违约潮。可再生能源的不稳定性迫使电网大量采用天然气调峰，推高了燃气发电设备需求。供应链瓶颈导致交货周期延长、成本飙升。这一趋势表明，短期内化石能源仍难被替代，能源转型路径面临重大调整，气候治理目标实现的不确定性增加。",
+      "reason": "能源安全压倒气候目标，燃气轮机价格暴涨折射碳中和进程受阻。",
+      "impact_areas": [
+        "产业",
+        "生态",
+        "经济金融"
+      ],
+      "impact_level": "重大",
+      "sources": [
+        {
+          "name": "虎嗅",
+          "url": "https://www.huxiu.com/article/4883727.html"
+        }
+      ]
+    },
+    {
+      "title": "特朗普宣布减少对韩军演",
+      "summary": "美国总统特朗普8月17日宣布，由于韩国未参与美国对伊朗的军事行动，美国将减少与韩国的联合军事演习。韩国外交部回应称维护半岛和平稳定符合各方共同利益。此举被外界视为对韩国的敲打，可能削弱美韩联合威慑，给朝鲜带来战略空间，并引发盟友对美国安全承诺可靠性的普遍担忧。地区安全架构正面临深度调整。",
+      "reason": "美韩同盟因伊战分歧出现裂痕，东北亚安全格局面临重塑。",
       "impact_areas": [
         "地缘",
         "政治"
@@ -87,95 +191,12 @@
           "url": "https://www.bbc.co.uk/news/articles/cx2lll7zvn0o?at_medium=RSS&at_campaign=rss"
         },
         {
-          "name": "凤凰网",
-          "url": "https://news.ifeng.com/c/8veqpxkCIxR"
-        }
-      ]
-    },
-    {
-      "title": "夏威夷飓风毁百栋房屋",
-      "summary": "飓风“拉拉”袭击夏威夷，约100栋房屋被冲毁，超过18万用户断电，随后减弱为热带风暴。搜索和恢复工作正在进行。这是夏威夷近年来遭遇的最严重飓风灾害之一，造成大规模基础设施破坏和居民流离失所，显示气候变化加剧极端天气风险的现实。",
-      "reason": "重大自然灾害，夏威夷大规模受灾，超18万人断电，影响民生与气候议题。",
-      "impact_areas": [
-        "生态",
-        "社会"
-      ],
-      "impact_level": "重大",
-      "sources": [
-        {
-          "name": "BBC",
-          "url": "https://www.bbc.co.uk/news/articles/crmrr7kjy9vo?at_medium=RSS&at_campaign=rss"
-        },
-        {
-          "name": "Reuters",
-          "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOVWp3QXBkLU5sd2piVkkwODRCOEpFZFV6MGY2OFZyUlM2TUcxcXVubEgzS2R5VlZVUFMzZEo3d0ZGS0FxS1BxVXgwQWdVdHZVbGpMaGJIRzFOOG50YUp2T2RXbl9wTEhPUlpvTmZZOGlVamdnQUlmUGxPaktaTElqN0dTS1lZLTR6NUtfZ3NOb1JUT1lUcGJZQmtBY1d0bkpxeWtfSnNjUUM3dXBEQTNoQl9BbmE0SjRBVjdveWhkTzdmREU?oc=5"
-        }
-      ]
-    },
-    {
-      "title": "哥伦比亚强震致289人遇难",
-      "summary": "哥伦比亚发生强震，已造成289人死亡，超过18万人受灾。救援工作正在紧张进行。此次地震破坏力巨大，对当地基础设施和民众生活造成严重冲击，暴露发展中国家抗震减灾薄弱环节。国际社会或将提供援助。",
-      "reason": "重大地震灾害，已致近300人死亡，18万人受灾，人道危机严重。",
-      "impact_areas": [
-        "社会",
-        "生态"
-      ],
-      "impact_level": "重大",
-      "sources": [
-        {
-          "name": "央视网",
-          "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPSkdFTEZ4UG1PSnY2dVN1WXpLWnB2blgtTW9QWGtzcVByZ3g5Z3Fhalo1SG44UER2LWpteTNHcHJIR2g3dXBvVm1pOV9SVE9LcnczUTFWN0pQc0FDb2ZpZ0xldEhxMzlYc0FQTGJpUlZYTjJIMHRBXzZRRkFGZmxOa05UME9OMV92M2M4czFIRlJXdUFPbUtrU3NVVlFQTl9SQ3lrMWxNTENHTlJfZFE?oc=5"
-        }
-      ]
-    },
-    {
-      "title": "DeepSeek调价最高涨1100%",
-      "summary": "DeepSeek API调价正式生效，涨幅最高达1100%，空闲时段价格仅为高峰期一半。这是国产大模型价格战以来首次大幅涨价，引发市场热议。此前DeepSeek以低价策略吸引开发者，如今提价可能标志AI模型商业化进入新阶段，对国内AI产业链和开发者成本产生直接影响。",
-      "reason": "国产大模型龙头大幅提价，AI商业化信号明确，对AI产业和开发者影响深远。",
-      "impact_areas": [
-        "科技",
-        "经济金融"
-      ],
-      "impact_level": "重大",
-      "sources": [
-        {
-          "name": "财新网",
-          "url": "https://mini.caixin.com/2026-08-17/102474718.html"
-        }
-      ]
-    },
-    {
-      "title": "阿里开源Qwen3.8智谱发新模型",
-      "summary": "阿里巴巴开源Qwen3.8系列模型，智谱AI发布新模型GLM-5.3，两大国产AI模型同日亮相。同时美商务部长表示不希望苹果从中国采购存储芯片，凸显中美科技博弈。中国AI模型密集迭代，加速追赶全球前沿水平，开源生态持续壮大。",
-      "reason": "国产大模型同日发布重要版本，AI技术竞争白热化，反映中国AI产业发展前沿。",
-      "impact_areas": [
-        "科技"
-      ],
-      "impact_level": "重大",
-      "sources": [
-        {
-          "name": "财新网",
-          "url": "https://www.caixin.com/2026-08-17/102474692.html"
-        }
-      ]
-    },
-    {
-      "title": "英伟达入局引爆AI债务担忧",
-      "summary": "英伟达入局引发市场对AI债务担忧，约700亿美元“表外幽灵”环伺科技金融体系。AI基础设施投资规模庞大，债务风险逐渐积累。美国AI“烧钱模式”面临边界，华尔街巨头罕见爆仓巨亏1000亿的报道加剧市场紧张。AI产业金融风险成为全球投资者关注焦点。",
-      "reason": "AI产业巨额投入引发债务风险，可能冲击金融市场，影响科技和金融双重领域。",
-      "impact_areas": [
-        "科技",
-        "经济金融"
-      ],
-      "impact_level": "重大",
-      "sources": [
-        {
-          "name": "虎嗅",
-          "url": "https://www.huxiu.com/article/4883607.html"
+          "name": "纽约时报",
+          "url": "https://www.nytimes.com/2026/08/17/world/asia/trump-korea-military-kim-jong-un.html"
         }
       ]
     }
   ],
-  "total_fetched": 264,
-  "generated_at": "2026-08-17T12:26:53.105405+08:00"
+  "total_fetched": 291,
+  "generated_at": "2026-08-17T19:26:56.806956+08:00"
 }
