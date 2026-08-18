@@ -1,0 +1,193 @@
+{
+  "date": "2026-08-19",
+  "news": [
+    {
+      "title": "美伊冲突升级，阿联酋断交金融",
+      "summary": "美伊紧张局势急剧升级。据美方官员透露，特朗普要求谈判团队暂停与伊朗的一切接触，意味着外交渠道关闭。阿联酋宣布暂停与伊朗的一切贸易和金融往来，进一步孤立伊朗。伊朗与法国相互驱逐两名外交人员，关系恶化。此前特朗普在霍尔木兹海峡画出军事圈，伊朗高官以图片回击；伊朗议长炮轰美财长防长。波斯湾美军出现撤离迹象。中东地缘风险骤增，国际油价和航运市场面临剧烈波动，全球关注美国可能对伊朗采取军事行动。",
+      "reason": "美伊冲突触及全球能源供应与地缘稳定，多条消息叠加显示局势急剧升级。",
+      "impact_areas": [
+        "地缘政治",
+        "经济金融"
+      ],
+      "impact_level": "现象级",
+      "sources": [
+        {
+          "name": "澎湃新闻",
+          "url": "https://m.thepaper.cn/detail/33807833"
+        },
+        {
+          "name": "凤凰网",
+          "url": "https://news.ifeng.com/c/8vhoCdYYUva"
+        }
+      ]
+    },
+    {
+      "title": "10万亿公积金松绑新规落地",
+      "summary": "全国住房公积金制度迎来重大升级。凤凰网报道称，总规模超10万亿元的住房公积金“松绑”：大修落地，修房、养房都能提取。央视网也专题解读《住房公积金制度升级 改了什么？》。这意味着缴存职工在房屋维修、养老住房等方面获得更大的资金提取权限，提升公积金使用效率。该政策将影响数亿缴存职工，促进住房消费和存量房屋维护更新，对房地产市场和相关产业链构成直接利好，是国家层面稳楼市、惠民生的重要举措。",
+      "reason": "涉及十万亿资金池的使用规则调整，直接影响数亿缴存人的民生权益。",
+      "impact_areas": [
+        "经济金融",
+        "社会"
+      ],
+      "impact_level": "重大",
+      "sources": [
+        {
+          "name": "凤凰网",
+          "url": "https://news.ifeng.com/c/8vhoCdYYUrF"
+        },
+        {
+          "name": "央视网",
+          "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5hN0k1QmdDRUJYdU5wT1o0dndyRlZ5LW1xdXQzQ2kyaXd4ZVN2X1p6M1BsamQxSU52bmVWR3dZeWJabGM5RVhKUlhubGw2OFFzUmtkemNFMlN5akd3b3N6UGJEZzFUbnVLZ2Z3ZkFlb0JqV1k5Q2Ztbg?oc=5"
+        }
+      ]
+    },
+    {
+      "title": "宇树科技今日上市",
+      "summary": "人形机器人明星公司宇树科技今日正式登陆资本市场。雪球热帖援引新浪财经报道称“宇树科技，今日上市”，虎嗅发布深度文章《宇树的悬念还在后面》，分析其上市后的挑战。宇树科技是四足机器人和人形机器人领域的头部企业，创始人王兴兴此前发布的“超人”机器人引发广泛关注。此次上市使人形机器人赛道迎来首个重要标的，标志人形机器人产业化进入新阶段，资本市场对具身智能的关注度将进一步提升，对机器人产业链上下游产生带动作用。",
+      "reason": "人形机器人第一股上市，科技与资本双重焦点，行业里程碑事件。",
+      "impact_areas": [
+        "科技",
+        "经济金融"
+      ],
+      "impact_level": "现象级",
+      "sources": [
+        {
+          "name": "雪球热帖-新浪财经",
+          "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFB5OVh0YTBpbjAwaUhxQm9VS0Q2NjlVV2RhczBYSmNQaDgxbWNwQTdRSGZidXcwM2kwbmxNbkxWOU1vSWRhNnRjTnpQWXFpT1pmZ3pUcEVUT2NaeVljS19NVFpNZ19lMmg2U09vT255RTR5MmswUUE?oc=5"
+        },
+        {
+          "name": "虎嗅",
+          "url": "https://www.huxiu.com/article/4884048.html"
+        }
+      ]
+    },
+    {
+      "title": "Anthropic筹备IPO",
+      "summary": "全球AI大模型竞争进入资本化关键期。据36氪报道，Anthropic正在筹备超级投票权机制，为IPO铺路，预计将在几周内正式进行IPO。与此同时，OpenAI公布第二季度营收达67亿美元，同比增长18%，显示AI商业化加速。两家头部AI公司的资本动作表明，大模型行业从烧钱阶段转向自我造血和融资退出阶段，AI赛道的估值体系、股权结构和监管框架将迎来新变化，也预示着未来AI竞争将更加依赖资本实力。",
+      "reason": "AI两大头部公司的IPO和营收数据标志AI产业进入资本化深水区。",
+      "impact_areas": [
+        "科技",
+        "经济金融"
+      ],
+      "impact_level": "重大",
+      "sources": [
+        {
+          "name": "36氪",
+          "url": "https://www.36kr.com/newsflashes/3945644154666369"
+        },
+        {
+          "name": "36氪",
+          "url": "https://www.36kr.com/newsflashes/3945642972331397"
+        }
+      ]
+    },
+    {
+      "title": "美国制裁国际刑事法院人员",
+      "summary": "美国政府宣布对国际刑事法院（ICC）人员实施新一轮制裁，对象包括ICC主席和一名高级律师，其中一名为日本籍。凤凰网、BBC、路透社等多家媒体报道了此事。这是美国对ICC调查美国及其盟友人员的报复性举措，进一步侵蚀国际刑事司法体系的权威。制裁将加剧美国与国际刑事司法机构之间的对立，并可能引发欧洲盟友不满，对国际法秩序和多边机制产生冲击。",
+      "reason": "美国制裁国际刑事法院最高层，国际法秩序雪上加霜。",
+      "impact_areas": [
+        "政治",
+        "国际"
+      ],
+      "impact_level": "重大",
+      "sources": [
+        {
+          "name": "凤凰网",
+          "url": "https://news.ifeng.com/c/8vhnHEG2Y4R"
+        },
+        {
+          "name": "BBC",
+          "url": "https://www.bbc.co.uk/news/articles/cnvnl0elz47o"
+        }
+      ]
+    },
+    {
+      "title": "债券ETF规模首超9000亿",
+      "summary": "国内固收被动投资加速扩容。36氪报道，债券ETF规模首次突破9000亿元大关，同时逾百家A股公司发布半年度利润分配方案，合计分红金额超1000亿元。这组数据反映市场对被动固收产品的需求旺盛，资金配置结构正在变化，同时也显示A股公司回报股东力度加大。债券ETF壮大将改变债市投资生态，吸引更多中长期资金入市；大额分红则有助于提振市场信心，对资本市场健康发展和投资者回报产生积极影响。",
+      "reason": "债券被动投资规模和A股分红数据同创里程碑，反映市场资金流向重大变化。",
+      "impact_areas": [
+        "经济金融"
+      ],
+      "impact_level": "重大",
+      "sources": [
+        {
+          "name": "36氪",
+          "url": "https://www.36kr.com/newsflashes/3945650109742216"
+        },
+        {
+          "name": "36氪",
+          "url": "https://www.36kr.com/newsflashes/3945647000796291"
+        }
+      ]
+    },
+    {
+      "title": "国泰海通净利破200亿创新高",
+      "summary": "上市券商半年报陆续出炉，头部券商业绩亮眼。澎湃新闻报道，国泰海通上半年净利润增长28.74%，突破200亿元创历史新高；中信建投上半年净利增长69%至76亿元，交易及机构业务扛起增长大旗。券商净利润大幅增长显示资本市场活跃度提升，交易量与机构业务扩张，也与市场行情回暖、IPO和再融资常态化相关。业绩高增长将进一步催化券商板块估值修复，对金融行业整体景气度有指标意义。",
+      "reason": "头部券商业绩创历史新高，反映资本市场景气度回升。",
+      "impact_areas": [
+        "经济金融"
+      ],
+      "impact_level": "重大",
+      "sources": [
+        {
+          "name": "澎湃新闻",
+          "url": "https://m.thepaper.cn/detail/33805705"
+        },
+        {
+          "name": "澎湃新闻",
+          "url": "https://m.thepaper.cn/detail/33805683"
+        }
+      ]
+    },
+    {
+      "title": "中国AI深度赋能制造业",
+      "summary": "央视网报道称，中国AI正在深度赋能制造业，形成实打实生产力。报道指出，人工智能技术已从概念走向车间，在质检、排产、预测性维护等环节广泛应用，帮助企业降本提质增效。这一趋势标志着AI与实体经济深度融合加速，制造业数字化转型进入新阶段。对提升中国制造业竞争力、推动新型工业化进程具有战略意义，也为AI企业提供了广阔的落地场景和商业空间。",
+      "reason": "AI在制造业规模化落地，是科技与实体经济融合的关键信号。",
+      "impact_areas": [
+        "科技",
+        "产业"
+      ],
+      "impact_level": "重大",
+      "sources": [
+        {
+          "name": "央视网",
+          "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5hSzlaYXpvUzJSOXRrdmtudHZpdFJXQkJsTE5Zdi0zbGV6MG9sNjUtT0Q1N2tyQ2hVV2dSemE4WVFCSkdRdFJFaXl5ZWhIUVZybWtuRHlURU5RMW56SUtPMUhnVnVYTUs1ckhvZkJMdEw1YlJScU03UQ?oc=5"
+        }
+      ]
+    },
+    {
+      "title": "百度二季度营收同比降4%",
+      "summary": "百度发布第二季度财报，财新网报道，其总收入同比下降4%，AI搜索持续拖累广告业务。这意味着百度核心搜索广告收入承压，而AI搜索的货币化尚未形成足够补充。作为国内AI投入最大的公司之一，百度的业绩表现反映了大模型时代传统搜索商业模式面临的转型阵痛。市场将关注百度能否通过AI云、智能驾驶等新业务弥补广告下滑，其财报也为观察中国互联网科技股AI商业化进展提供重要参考。",
+      "reason": "百度作为AI标杆企业业绩承压，反映传统搜索转型AI的商业化难度。",
+      "impact_areas": [
+        "科技",
+        "经济金融"
+      ],
+      "impact_level": "重大",
+      "sources": [
+        {
+          "name": "财新网",
+          "url": "https://www.caixin.com/2026-08-19/102475509.html"
+        }
+      ]
+    },
+    {
+      "title": "朝鲜谴责韩美联合军演",
+      "summary": "朝鲜官方发声，强烈谴责韩美联合军演。凤凰网报道了相关消息。韩美例行联合军演历来引发朝鲜强烈反应，此次谴责正值东北亚地缘敏感期，或加剧半岛紧张局势。朝方可能采取导弹试射等反制措施，影响区域安全格局，相关动向值得国际社会高度关注。",
+      "reason": "朝鲜对韩美军演做出激烈反应，东北亚局势不确定性上升。",
+      "impact_areas": [
+        "地缘政治",
+        "政治"
+      ],
+      "impact_level": "重大",
+      "sources": [
+        {
+          "name": "凤凰网",
+          "url": "https://news.ifeng.com/c/8vhoCdYYV4s"
+        }
+      ]
+    }
+  ],
+  "total_fetched": 211,
+  "generated_at": "2026-08-19T07:26:36.866861+08:00"
+}
