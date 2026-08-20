@@ -2,181 +2,164 @@
   "date": "2026-08-20",
   "news": [
     {
-      "title": "特朗普宣布对伊经济战",
-      "summary": "美国总统特朗普宣布对伊朗发动“史上最严厉的经济战”，警告任何国家不得向伊朗提供“生命线”，否则将面临“巨大的经济后果”。阿联酋已宣布暂停与伊朗的贸易往来。美国试图通过金融和贸易制裁全面孤立伊朗，切断其石油出口与外部资金渠道。此举可能导致全球能源市场波动加剧，伊朗经济进一步承压，海湾地区地缘紧张升级。分析认为，美伊对抗短期难以缓和，对国际油价、航运及中东格局将产生深远影响。",
-      "reason": "美国对伊朗实施空前经济制裁，阿联酋断贸，全球地缘与能源市场面临重大变数，多源密集报道。",
+      "title": "恒大许家印案一审宣判",
+      "summary": "8月20日，恒大集团、恒大地产及创始人许家印案一审宣判，许家印因八项罪名被判处无期徒刑，其长子、次子亦获刑。此前恒大债务危机波及购房者、金融机构与上下游企业，成为房地产行业风险出清的标志性事件。判决意味着‘欠债还钱’的刚性约束得到司法确认，短期或加速问题房企资产处置，长期将推动房地产融资模式与公司治理回归理性，对行业格局、金融风险化解均有深远影响。",
+      "reason": "房地产巨头创始人获重刑，标志行业风险出清进入法治化阶段，影响广泛。",
+      "impact_areas": [
+        "经济金融",
+        "社会"
+      ],
+      "impact_level": "现象级",
+      "sources": [
+        {
+          "name": "BBC",
+          "url": "https://www.bbc.co.uk/news/articles/cd0x9mjjmgjo?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "name": "纽约时报",
+          "url": "https://www.nytimes.com/2026/08/20/business/evergrande-founder-life-prison.html"
+        },
+        {
+          "name": "财新网",
+          "url": "https://www.caixin.com/2026-08-20/102475971.html"
+        }
+      ]
+    },
+    {
+      "title": "美对伊升级经济施压 油价走强",
+      "summary": "美国宣布对伊朗实施新一轮‘毁灭性经济行动’，特朗普警告任何支持伊朗的国家将面临经济后果；伊朗外长回应称此举是为转移自身财政问题。市场对中东供应中断担忧升温，国际油价升至三周高点，美国军方称已使65艘商船改变航线。此前美伊已陷入军事对峙，霍尔木兹海峡通行风险上升。中方呼吁通过政治外交途径解决。该冲突若持续，将推升能源价格与通胀预期，重塑全球航运和能源贸易格局。",
+      "reason": "美伊冲突升级直接影响全球能源价格与航运安全，市场影响即刻显现。",
       "impact_areas": [
         "地缘",
         "经济金融"
       ],
-      "impact_level": "重大",
+      "impact_level": "现象级",
       "sources": [
+        {
+          "name": "BBC",
+          "url": "https://www.bbc.co.uk/news/articles/c2k7e83ynj4o?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "name": "路透中文网",
+          "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOM1ZTcG5JRHQxeFFrOEd6Q0s4eWdFZGZwRmUyaFlPQkEwWEFLZ2xtLUJxMDFGRzZEZ1VEMjA5MjlMazgtZkJRM01FRXJ3Yk5wZUJSRW8yUEc5THM4VEZBd3V0LVhiRHBBWExnTElPMTRCX3d1ODhKR2lDdHVDVktTZS1BTUtuLXN2ZGRwUmpnNzhEdDJBZnp3cHExVndUYWlrenVEOXI0dVppdw?oc=5"
+        },
+        {
+          "name": "纽约时报",
+          "url": "https://www.nytimes.com/2026/08/20/world/middleeast/iran-us-war-standoff-hormuz.html"
+        },
         {
           "name": "央视网",
-          "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1ZM0RLN2RsNkZlX0RrbDBCYjBPOTV3alEyUVpaX2t5bnJwMW0xRnVOYmd5dEJwa0tnaGRRWW1MVHU4cTRqWHRtMlFfYnlFMFdybXRuRVprclUwUzlwd0RnT0JWRU1peVd6dEp2Yk1lTjJKbHZ6b2lzbQ?oc=5"
-        },
-        {
-          "name": "澎湃新闻",
-          "url": "https://m.thepaper.cn/detail/33815972"
-        },
-        {
-          "name": "财新网",
-          "url": "https://database.caixin.com/2026-08-20/102475911.html"
+          "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE04X2dlZGxiemdOQU5SN2FtVzFOUXNqMjdwNHpYQmRTb3R3dzV1cENuUlRMdjYtYURybnJrRHgzZGlpQUprSVRFdjkzelBLTDV3ZlBiU25mY3pFM3FaamlVa2t2SndfYi04MmpqZU16X1Bsa0hreEY1eQ?oc=5"
         }
       ]
     },
     {
-      "title": "宇树上市 机器人热潮再燃",
-      "summary": "国内具身智能独角兽宇树科技今日登陆科创板，开盘大涨，创始人王兴兴身家突破千亿，成为A股机器人板块最具标志性事件。同日，2026世界机器人大会开幕，参展企业同比增长36%，2056台机器人同台竞技，世界人形机器人运动会也即将开赛。宇树同步发布售价9900元起的仿生7轴灵巧机械臂，加速机器人商业化落地。业内认为，具身智能的“ChatGPT时刻”最快2到3年到来，有望开启万亿级市场。",
-      "reason": "宇树科技上市叠加世界机器人大会，标志着具身智能产业进入资本化与商业化加速阶段，科技产业格局面临重塑。",
+      "title": "俄军袭基辅致至少13死",
+      "summary": "8月20日，俄罗斯向乌克兰首都基辅发动大规模导弹袭击，造成至少13人死亡。乌方防空系统因弹药短缺拦截能力下降，居民生活物资供应也出现紧张，超市货架空置。乌克兰总统办公室副主任涉洗钱案被解职，前国防部长则呼吁举行总统选举，显示战事压力正向政治领域传导。袭击凸显乌克兰防空缺口在冬季前将更加严峻，俄乌战场可能进入新一轮消耗战，欧洲安全格局持续承压。",
+      "reason": "俄军对首都袭击暴露乌防空短板，战事与政治危机交织，地缘影响重大。",
       "impact_areas": [
-        "科技",
-        "产业"
-      ],
-      "impact_level": "现象级",
-      "sources": [
-        {
-          "name": "财新网",
-          "url": "https://mini.caixin.com/2026-08-20/102475915.html"
-        },
-        {
-          "name": "财新网",
-          "url": "https://photos.caixin.com/2026-08-20/102475962.html"
-        },
-        {
-          "name": "36氪",
-          "url": "https://www.36kr.com/newsflashes/3947333933497734"
-        }
-      ]
-    },
-    {
-      "title": "许家印被判无期徒刑",
-      "summary": "恒大集团创始人许家印被判处无期徒刑，恒大集团、恒大地产等案一审宣判。这标志着中国房地产行业最大债务危机的司法追责进入新阶段。案件涉及非法吸收公众存款、欺诈发行债券、违规披露等多项罪名。恒大爆雷累计引发超2万亿元债务风险，其处理结果对国内房企合规经营、债券市场秩序和金融风险化解具有标杆意义。",
-      "reason": "许家印案宣判是中国房地产史标志性事件，全网高度关注，对金融法治和行业生态影响深远。",
-      "impact_areas": [
-        "经济金融",
-        "法律"
-      ],
-      "impact_level": "现象级",
-      "sources": [
-        {
-          "name": "澎湃新闻",
-          "url": "https://m.thepaper.cn/detail/33816463"
-        },
-        {
-          "name": "36氪",
-          "url": "https://www.36kr.com/newsflashes/3947341896023174"
-        }
-      ]
-    },
-    {
-      "title": "朱雀三号一子级回收成功",
-      "summary": "民营航天企业蓝箭航天自主研发的朱雀三号运载火箭一子级首次实现陆地回收，中国商业航天在可重复使用火箭领域取得里程碑式突破。此前该技术仅被美国SpaceX等少数公司掌握。朱雀三号一子级回收成功将大幅降低发射成本，为后续高频次、低成本进入太空奠定基础。分析认为，中国商业航天已进入可回收时代，对卫星互联网、空间站运输等产业格局产生深远影响。",
-      "reason": "中国商业火箭首次实现陆地回收，突破可重复使用关键技术，对航天产业格局具有里程碑意义。",
-      "impact_areas": [
-        "科技"
+        "地缘",
+        "政治"
       ],
       "impact_level": "重大",
       "sources": [
         {
-          "name": "财新网",
-          "url": "https://www.caixin.com/2026-08-20/102475904.html"
+          "name": "BBC",
+          "url": "https://www.bbc.co.uk/news/articles/c98vzmden5yo?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "name": "纽约时报",
+          "url": "https://www.nytimes.com/2026/08/20/world/europe/ukraine-kyiv-missiles-russia-war.html"
         }
       ]
     },
     {
-      "title": "人民币汇率创三年半新高",
-      "summary": "8月20日，人民币对美元即期汇率盘中逼近6.72关口，再创逾三年半新高。近期美元走弱、国内经济预期改善及资本流入共同推动人民币持续走强。人民币升值有利于降低进口成本，但会对出口企业利润形成压力。市场关注央行是否容忍进一步升值，以及中美利差变化对跨境资本流动的影响。",
-      "reason": "人民币单边升值创三年半新高，属于关键汇率异动，对进出口、资本流动和货币政策具有重要信号意义。",
+      "title": "美财政部扩国债回购 金价大涨",
+      "summary": "美国财政部宣布将长期国债回购规模扩大一倍，以缓解美债市场深度不足和长端收益率压力，被视为‘挽救计划’升级。市场避险情绪升温，现货黄金价格大幅上涨。此举通过主动买入长期国债压低收益率，短期内利于稳定金融市场，但加大财政与央行资产负债表压力。若回购未能有效修复流动性，美债市场波动可能向全球风险资产传导，黄金等避险资产或延续强势。",
+      "reason": "美财政部主动扩量回购长债并推动金价大涨，是全球流动性预期的关键信号。",
       "impact_areas": [
         "经济金融"
       ],
       "impact_level": "重大",
       "sources": [
         {
-          "name": "澎湃新闻",
-          "url": "https://m.thepaper.cn/detail/33815968"
-        }
-      ]
-    },
-    {
-      "title": "美扩大国债回购 金价大涨",
-      "summary": "美国财政部宣布扩大长期国债回购规模，被市场视为直接入场“护盘”，美债收益率应声走低，黄金价格大幅拉升。此举令市场联想到美联储“扭转操作”，可能为后续财政融资铺路。同时美联储会议纪要显示鹰派情绪更浓，部分官员提及减少会议频率。美国财政与货币政策的组合拳正在重塑全球无风险利率定价，对股市、大宗商品和新兴市场汇率均产生连锁影响。",
-      "reason": "美国财政部直接扩大长债回购，叠加美联储鹰派纪要，全球利率与黄金定价出现重大变化，市场信号极强。",
-      "impact_areas": [
-        "经济金融"
-      ],
-      "impact_level": "重大",
-      "sources": [
+          "name": "财新网",
+          "url": "https://finance.caixin.com/2026-08-20/102476095.html"
+        },
         {
           "name": "央视网",
           "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5yb2ZxbnVPamlDdDBTM3JVVlNLdWNfTmZYRVFYTk1MeDdaYjNLZGdhLTI2ZVllRVk2Y2ZTOW5XVE8yM3g3MXF4QnFveEZkdnUtVkVLZXV2SEthRl9UNjdyWEJrREFvMWQ2TUpNaUt1RTFnRS05TzhzZw?oc=5"
         },
         {
-          "name": "36氪",
-          "url": "https://www.36kr.com/newsflashes/3947258628684930"
-        },
-        {
-          "name": "财新网",
-          "url": "https://database.caixin.com/2026-08-20/102475920.html"
+          "name": "虎嗅",
+          "url": "https://www.huxiu.com/article/4884637.html"
         }
       ]
     },
     {
-      "title": "财政部下场压制长端利率",
-      "summary": "中国财政部直接下场，在二级市场干预长端利率，压制收益率过快上行。这是国家层面对债券市场的重要干预信号，旨在稳定融资成本、防范利率风险。此前长端利率若持续上升，将推高政府和企业发债成本，冲击股市估值。此次操作释放出政策底信号，对债市、股市以及后续货币政策走向具有重要指引。",
-      "reason": "财政部直接干预债市属国家级市场行为，信号意义极强，直接影响金融市场定价与政策预期。",
+      "title": "上海二套房首付降至15%",
+      "summary": "上海正式落地‘沪八条’房地产新政：外环外区域二套房首付比例降至15%，并推出最高8万元补贴支持‘以旧换新’。政策旨在降低改善型需求门槛，激活二手房置换链条，带动新房销售。作为一线城市，上海松绑力度具有风向标意义，可能引导其他高能级城市跟进。短期或提振成交，但市场能否持续修复仍取决于居民收入预期和房价稳定性。",
+      "reason": "一线城市房地产政策显著松绑，对全国楼市和宏观预期具风向标意义。",
       "impact_areas": [
+        "经济金融",
+        "社会"
+      ],
+      "impact_level": "重大",
+      "sources": [
+        {
+          "name": "澎湃新闻",
+          "url": "https://m.thepaper.cn/detail/33817757"
+        }
+      ]
+    },
+    {
+      "title": "世界机器人大会北京开幕",
+      "summary": "2026世界机器人大会今天开幕，参展企业数量同比增长36%，2056台机器人同台竞技，人形机器人成为绝对热点；大会期间发布的产业发展报告显示行业规模持续扩张。家庭服务机器人、工厂作业机器人等应用场景集中亮相，人形机器人运动会即将开赛。与此同时，宇树科技王兴兴称机器人工厂大规模推广尚需时日，公司股价上市两日大幅震荡。机器人产业化预期与商业化现实之间的张力正在显现，行业进入技术验证与场景落地的关键期。",
+      "reason": "机器人产业年度盛会释放技术商用进程信号，兼具科技与产业变革意义。",
+      "impact_areas": [
+        "科技",
+        "产业"
+      ],
+      "impact_level": "重大",
+      "sources": [
+        {
+          "name": "财新网",
+          "url": "https://photos.caixin.com/2026-08-20/102475955.html"
+        },
+        {
+          "name": "财新网",
+          "url": "https://www.caixin.com/2026-08-20/102476008.html"
+        },
+        {
+          "name": "央视网",
+          "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE91M0tNd2pOUldxdEtJX2NXR0NCaGpCYjV6RW9xbU41UEx6aDRLYUVudi1rbnMwWlYxaEZjQzMyTnZuZFFfQWk1ZjVHTjFfdldhTTFaVElEZ3UyRE9xVDZBVXFyanJJZUQ3VVAydWNIY0VFak9mSmFSdA?oc=5"
+        }
+      ]
+    },
+    {
+      "title": "阿里腾讯单季AI投入近千亿",
+      "summary": "阿里巴巴发布第一财季财报，收入同比增长9%，云业务增速45%创22个季度新高，即时零售增长45%；腾讯与阿里单季AI相关资本开支合计接近1000亿元。两大互联网巨头竞相投入大模型算力与云基础设施，反映AI军备竞赛进入白热化。巨额资本开支短期压制利润率，但将带动AI芯片、数据中心、光模块等产业链景气上行，也强化了头部平台在AI时代的竞争壁垒。",
+      "reason": "两大科技巨头巨额AI投入显示产业资本转向，决定下一代算力格局。",
+      "impact_areas": [
+        "科技",
         "经济金融"
       ],
       "impact_level": "重大",
       "sources": [
         {
           "name": "虎嗅",
-          "url": "https://www.huxiu.com/article/4884443.html"
-        }
-      ]
-    },
-    {
-      "title": "中国反制欧盟不当域外管辖",
-      "summary": "中国司法部发布公告，认定欧盟对京东发起的跨境调查构成不当域外管辖，拒绝执行该调查，并采取反制措施。这是中国首次就欧盟数字市场调查作出明确反制，凸显中欧经贸摩擦升级。案件涉及数据跨境流动、数字经济监管话语权等核心议题，可能影响中国科技企业在欧洲的经营环境，以及中欧全面投资协定的推进前景。",
-      "reason": "中国首次对欧盟数字调查实施反制，中欧经贸博弈升级，影响跨境数据规则与中国科技企业出海。",
-      "impact_areas": [
-        "政治",
-        "经济金融"
-      ],
-      "impact_level": "重大",
-      "sources": [
-        {
-          "name": "财新网",
-          "url": "https://www.caixin.com/2026-08-20/102475885.html"
-        }
-      ]
-    },
-    {
-      "title": "俄导弹袭击基辅致5死23伤",
-      "summary": "俄罗斯导弹袭击乌克兰首都基辅，造成至少5人死亡、23人受伤，民众被迫前往地下停车场避难。这是近期俄军对基辅发动的又一轮夜间空袭。袭击加剧了乌克兰平民伤亡和国际社会对俄谴责，欧洲安全局势持续紧张。与此同时，乌克兰国内政治风波未平，被解职的国防部长呼吁举行总统选举，战事与政局交织。",
-      "reason": "俄军空袭基辅造成平民伤亡，欧洲地缘冲突持续恶化，国际关注度极高，影响安全格局。",
-      "impact_areas": [
-        "地缘",
-        "社会"
-      ],
-      "impact_level": "重大",
-      "sources": [
-        {
-          "name": "央视网",
-          "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9VdVozOWFLb1JQV3BSQjdqbzNkaUw4T3Z4Y2R5MU1EZWVQMXVwUlJKaXh6d2xFYmhaWmZyOXdkR1ozdGVWaFhsYlN1Ukgwc0gtemltUzF6NnYydkMzZWtDMUxVTDRBUzJ1Z2RwZmJCcTg3OWNIN0t0eg?oc=5"
+          "url": "https://www.huxiu.com/article/4884645.html"
         },
         {
-          "name": "凤凰网",
-          "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTFB6MElJb1B3Z0FnbFU5NVJyTTdBU3FZZmJzZndoNWhNWVNkM0J5Q3BWczkwYWhVX3JDeU94c0JGT3dKRUNVWVdPRjlaVVg?oc=5"
+          "name": "澎湃新闻",
+          "url": "https://m.thepaper.cn/detail/33818640"
         }
       ]
     },
     {
-      "title": "美加贸易协议接近达成",
-      "summary": "美国和加拿大表示即将敲定一项贸易协议，美方可能削减关键关税作为协议一部分。加拿大总理卡尼与特朗普的会谈取得进展，但具体条款仍待确认。若协议达成，将缓解北美贸易紧张，稳定全球供应链预期。不过美方贸易政策反复性仍存，市场对协议执行持谨慎态度。",
-      "reason": "美加贸易协议取得实质性突破，影响北美乃至全球贸易格局，多源外媒密集报道。",
+      "title": "长和再就巴拿马港口提仲裁",
+      "summary": "长和集团就巴拿马港口项目再次提起国际仲裁，索偿金额超过15亿美元。此前美国施压导致巴拿马港口运营权出现重大变数，长和多次寻求法律救济。此次仲裁涉及国际基础设施投资与地缘政治博弈，可能影响中资企业在拉美港口、运河等战略资产的布局。若败诉，长和将承受资产减记；若胜诉，则为中资海外基建投资提供权利保障范例，也对美国‘长臂管辖’形成法律层面的制约。",
+      "reason": "国际仲裁涉及中资海外战略资产与地缘博弈，法律和商业影响深远。",
       "impact_areas": [
         "经济金融",
         "地缘"
@@ -184,16 +167,43 @@
       "impact_level": "重大",
       "sources": [
         {
-          "name": "BBC",
-          "url": "https://www.bbc.co.uk/news/articles/c3ekl74jnk5o?at_medium=RSS&at_campaign=rss"
-        },
+          "name": "财新网",
+          "url": "https://companies.caixin.com/2026-08-20/102475934.html"
+        }
+      ]
+    },
+    {
+      "title": "中金换股合并东兴信达",
+      "summary": "中金公司换股吸收合并东兴证券、信达证券事项将于8月27日上会审核。若交易落地，三家券商将整合为总资产规模显著提升的大型投行，改变券业竞争格局。该案例被视为券商供给侧改革的重要步骤，通过并购重组打造一流投资银行，有助于提升直接融资服务能力；同时需关注整合中业务牌照、人员与文化的融合风险，以及行业集中度提高对中小券商的挤压效应。",
+      "reason": "券商大规模合并上会，是证券业供给侧改革和头部化进程的标志性事件。",
+      "impact_areas": [
+        "经济金融"
+      ],
+      "impact_level": "重大",
+      "sources": [
         {
-          "name": "Reuters",
-          "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPQnRyZExVRkFxVGJqQkpSZk83d1pCbkQ1elJqVURZSjl6TTEyZUZtdURWYWhMRldiTWpiRUFXWW1nSExxeE10cXJWMndsbl9QLXJwVDZqVTllUTNUV2s2M3pJZ3U5WExpbHh4MHpYNGE5OXpMeGU0cFlUVEdwM3IwdmtNbHRYOE5hSFRzWDF6ODBLczdqbDllaTRlamRySDlLREFqNi1UTnJuTk9uZFFmUQ?oc=5"
+          "name": "36氪",
+          "url": "https://www.36kr.com/newsflashes/3947774744083848"
+        }
+      ]
+    },
+    {
+      "title": "日本重稀土短缺或持续至2028",
+      "summary": "国际能源与金属咨询机构阿格斯预计，日本重稀土供应短缺可能持续至2027至2028年。全球重稀土供给高度集中于少数矿山，叠加出口管制与加工产能瓶颈，日本采购难度加大。该判断强化了稀土作为战略资源的价格上行预期，将推动日本及欧美加速构建替代供应链，也可能促使中国稀土产业进一步优化出口管理与深加工布局。相关企业及下游电机、军工产业成本将受到影响。",
+      "reason": "重稀土供给短缺预期升温，直接影响高科技与军工产业链成本和战略布局。",
+      "impact_areas": [
+        "产业",
+        "科技"
+      ],
+      "impact_level": "重大",
+      "sources": [
+        {
+          "name": "财新网",
+          "url": "https://www.caixin.com/2026-08-20/102475972.html"
         }
       ]
     }
   ],
-  "total_fetched": 275,
-  "generated_at": "2026-08-20T12:31:25.568063+08:00"
+  "total_fetched": 304,
+  "generated_at": "2026-08-20T19:27:30.375806+08:00"
 }
