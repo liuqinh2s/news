@@ -1,0 +1,169 @@
+{
+  "date": "2026-08-22",
+  "news": [
+    {
+      "title": "俄无人机袭乌购物中心",
+      "summary": "乌克兰官方表示，俄军无人机于22日袭击了乌克兰中部城市的一处购物中心，救援行动仍在持续。截至发稿，确认死亡人数已升至15人，另有超过100人受伤，且可能存在被困人员。多家媒体指出，此次袭击疑似使用了'双重打击'手法，即无人机首次攻击后等待救援人员到场再进行二次打击，致使伤亡数量大幅增加。联合国及多国政府对此予以谴责，并呼吁对袭击展开调查。事件进一步推高俄乌冲突的紧张烈度，可能影响西方国家对乌克兰的军事与经济援助政策，并对粮食及能源市场情绪产生额外扰动。",
+      "reason": "俄乌冲突再酿大规模平民死伤，多源报道热度极高，人道与安全影响重大。",
+      "impact_areas": [
+        "地缘",
+        "社会"
+      ],
+      "impact_level": "现象级",
+      "sources": [
+        {
+          "name": "澎湃新闻",
+          "url": "https://m.thepaper.cn/detail/33828593"
+        },
+        {
+          "name": "BBC",
+          "url": "https://www.bbc.co.uk/news/articles/c39egw7nmk2o?at_medium=RSS&at_campaign=rss"
+        }
+      ]
+    },
+    {
+      "title": "恒大人寿执照被吊销",
+      "summary": "中国金融监管总局宣布吊销恒大人寿保险有限公司业务许可证。这是恒大集团风险处置链条上的里程碑式监管动作，意味着恒大人寿的保险业务资质被正式撤销，后续将进入保单处置、资产清算或转让程序。此前恒大人寿已因母公司财务危机受到严格监管，此次吊销牌照显示出监管部门对问题险企'零容忍'态度，预计将加速保险行业风险出清，并对恒大债权人及保单持有人权益安排产生直接影响。",
+      "reason": "金融监管层对恒大系机构出重拳，标志问题金融机构处置进入新阶段。",
+      "impact_areas": [
+        "经济金融"
+      ],
+      "impact_level": "重大",
+      "sources": [
+        {
+          "name": "新浪财经",
+          "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1jXzY5Q3pQU2xmdjc0UjJNVEpsdWlidGhyZl9tSkhDeUZ5X0VybDJLNW9iUVVobTVkcV9MWnNtczJQM3NLcWdXdGljYmwyNEEyTXZDaV9sOGNBVXBSU1dPaVBfa1JRalBjcjJLcmxjMXUxcEZ4YUtIZw?oc=5"
+        }
+      ]
+    },
+    {
+      "title": "特朗普否认主导债市干预",
+      "summary": "美国总统特朗普就近期债券市场干预行动的表态引发关注，他明确表示干预债市是财政部长贝森特自己拿的主意，而非由他主导。此前市场普遍认为白宫在通过舆论和操作影响美债收益率，为政府融资和降息环境铺路。特朗普此番回应意在切割责任，却暴露出白宫内部在债务管理与货币宽松路径上的分歧。受此影响，美债市场波动或加剧，全球资金流向与利率预期可能出现阶段性调整。",
+      "reason": "美国政府干预债市且内部意见不一，对全球利率与市场预期有重大影响。",
+      "impact_areas": [
+        "经济金融",
+        "政治"
+      ],
+      "impact_level": "重大",
+      "sources": [
+        {
+          "name": "新浪财经",
+          "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOX2VodllZbmw4cTlEM1lha1NiWDJXUmR0NjAxWmE2Um5iZVAwMC1CZGszVHpGaGRrS295dFVVSHk5R0VZRmp6Tl9GVDNXUWR0Q1B4RGhGMzlyNFAwTHFxbUd2emxpTTZ2WlR0MkloODZ3d0pyc21rN1lKbDRnUFJGdA?oc=5"
+        }
+      ]
+    },
+    {
+      "title": "美拟偿还联合国8.5亿欠款",
+      "summary": "据美国媒体报道，美国政府计划偿还拖欠联合国的8.5亿美元会费。这笔欠款长期影响联合国的预算运行，也是美国与多边机构关系紧张的标志之一。美方宣布还款可能是在修复国际形象、为其在联合国框架内争取更大话语权作铺垫。不过美方能否如期兑付、是否附带政治条件，仍存变数。若顺利执行，将部分缓解联合国财政压力，并改善多边外交氛围。",
+      "reason": "美国偿还联合国欠款释放修复多边关系信号，影响国际外交格局。",
+      "impact_areas": [
+        "地缘",
+        "政治"
+      ],
+      "impact_level": "重大",
+      "sources": [
+        {
+          "name": "澎湃新闻",
+          "url": "https://m.thepaper.cn/detail/33830888"
+        }
+      ]
+    },
+    {
+      "title": "德国查获疑似俄方武器库",
+      "summary": "德国调查人员在该国一处林地中发现藏匿的武器及军用物资，据报道正在核实这批武器是否与俄罗斯有关联。案件细节尚未公开，但已有媒体援引调查圈人士称，相关线索指向境外势力可能策划混合式破坏活动。德国政府尚未点名任何责任方，但安全部门已提高警惕。事件加剧欧洲对俄'混合战争'威胁的担忧，可能推动北约国家加强关键基础设施保护和反间谍行动。",
+      "reason": "欧洲发现疑似俄方武器藏匿点，加剧对混合战争的担忧，地缘风险升温。",
+      "impact_areas": [
+        "地缘",
+        "政治"
+      ],
+      "impact_level": "重大",
+      "sources": [
+        {
+          "name": "BBC",
+          "url": "https://www.bbc.co.uk/news/articles/cp9edjpvplpo?at_medium=RSS&at_campaign=rss"
+        }
+      ]
+    },
+    {
+      "title": "高市删反省遭石破茂批",
+      "summary": "日本政治人物高市早苗在相关表述中主动删除了'反省'一词，引发前首相石破茂公开炮轰，称'不反省，何来教训？'。两人的交锋围绕历史认识问题展开，折射出日本政坛在对待侵略历史问题上的路线分裂。高市被视为保守派代表人物，石破茂则试图以警告姿态巩固中间选民支持。这一争议不仅影响自民党内部竞争，也可能引发中韩等邻国对日本历史态度的关注。",
+      "reason": "日本政坛围绕历史认识出现公开分裂，牵动东亚外交与自民党内部态势。",
+      "impact_areas": [
+        "政治"
+      ],
+      "impact_level": "重大",
+      "sources": [
+        {
+          "name": "凤凰网",
+          "url": "https://news.ifeng.com/c/8vmcpvgTNkK"
+        }
+      ]
+    },
+    {
+      "title": "京东百亿投资机器人战略",
+      "summary": "京东在世界机器人大会（WRC）上宣布将投资百亿元推进机器人战略，围绕供应链、服务与技术平台搭建产业生态。这一投资规模表明京东正在加速从电商公司向智能物流与机器人服务商转型，将机器人深度嵌入仓储、配送、客服等环节。该战略落地后，有望带动上下游零部件、算法与运营服务产业链发展，并对物流机器人行业竞争格局产生重要影响。",
+      "reason": "电商巨头重金押注机器人，或将推动物流服务行业格局重塑。",
+      "impact_areas": [
+        "科技",
+        "产业"
+      ],
+      "impact_level": "重大",
+      "sources": [
+        {
+          "name": "新浪财经",
+          "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9fVnZ0bHJkaDdiZ2ZfZ0FiSFhkTWlpSTJzM3VVb1o4RmdUMnFGVGNuYmRFVjhmU1hreWEyY1FuN0trb2R1a1JxeHNmV0dDVXhTN2VseXdVYzc5QmdqTFhTejVHNGNXckdzb3hwRHJROTM3dmJsUjQxakhoZTI?oc=5"
+        }
+      ]
+    },
+    {
+      "title": "安理会举行秘书长第二轮投票",
+      "summary": "联合国安理会举行新一任秘书长遴选第二轮意向性投票。本轮投票不具有约束力，但将清晰展示各候选人的支持度，为后续正式推荐提供依据。联合国秘书长是国际多边体系中的关键角色，其人选变动关系到全球治理方向。尽管目前结果未公布，但投票过程中的共识与分歧已开始影响各区域集团与常任理事国的谈判态势，预计后续还将经过多轮磋商才能确定最终候选人。",
+      "reason": "联合国秘书长遴选关键节点，结果将影响未来全球治理方向。",
+      "impact_areas": [
+        "政治",
+        "地缘"
+      ],
+      "impact_level": "重大",
+      "sources": [
+        {
+          "name": "澎湃新闻",
+          "url": "https://m.thepaper.cn/detail/33827572"
+        }
+      ]
+    },
+    {
+      "title": "美制裁国际刑法官",
+      "summary": "美国总统特朗普对国际刑事法院（ICC）一名日籍法官实施制裁，引发国际法律界强烈关注。日本首相高市早苗对此事保持沉默，媒体评论称其面临美日关系与国际司法原则的两难选择。美方制裁延续了其反对ICC针对美国军人及盟友调查的立场，但直接制裁外国法官罕见，可能冲击国际刑事司法体系的独立性，并影响日美之间的信任与沟通。",
+      "reason": "美国制裁国际刑事法院法官，冲击国际司法体系与日美关系。",
+      "impact_areas": [
+        "地缘",
+        "政治"
+      ],
+      "impact_level": "重大",
+      "sources": [
+        {
+          "name": "凤凰网",
+          "url": "https://news.ifeng.com/c/8vmYzhMK3OY"
+        }
+      ]
+    },
+    {
+      "title": "以色列推进定居点扩建",
+      "summary": "英国广播公司（BBC）报道，以色列正加速在西岸地区扩建定居点，企图通过改变人口结构和空间布局重塑约旦河西岸版图。相关扩建活动已引发巴勒斯坦方面和国际社会的强烈抗议，认为此举将彻底摧毁'两国方案'的基础。美国等西方大国尚未采取强力反制措施，但若以方扩张持续，中东和平进程可能陷入更深僵局，并进一步加剧地区武装冲突风险。",
+      "reason": "以色列扩建定居点改变西岸版图，中东和平进程遭受新挑战。",
+      "impact_areas": [
+        "地缘",
+        "政治"
+      ],
+      "impact_level": "重大",
+      "sources": [
+        {
+          "name": "BBC",
+          "url": "https://www.bbc.co.uk/news/articles/c2lq5g4dedpo?at_medium=RSS&at_campaign=rss"
+        }
+      ]
+    }
+  ],
+  "total_fetched": 176,
+  "generated_at": "2026-08-22T07:27:55.506482+08:00"
+}
