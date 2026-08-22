@@ -1,4 +1,4 @@
-# 2026-08-22 原始新闻标题 (176 条)
+# 2026-08-22 原始新闻标题 (240 条)
 
 ## 新华社 (20 条)
 - Education, health fees among key concerns
@@ -22,46 +22,78 @@
 - Former Chongqing political official facing corruption investigation
 - Former Chongqing political official facing corruption investigation
 
-## 澎湃新闻 (11 条)
-- 医生疏忽致孕妇误服有毒液体，光明网：反思不能止于医生“停职”
-- 因存在严重安全隐患等问题，河南确山县霸王台景区被取消3A等级
-- 上海申花官方声明：完全接受中足联处理决定，呼吁球迷坚守观赛行为底线
-- 美媒：美计划偿还联合国8.5亿美元欠款
-- 经济日报经世言：炮制“转运骗局”难掩贸易霸权本质
-- 美国最高法院暂时允许白宫宴会厅项目继续进行
-- 纽约股市三大股指21日上涨
-- 国际油价21日微涨
-- 美元指数21日下跌
-- 乌称一购物中心遭俄无人机袭击，已致超百人死伤
-- 安理会举行联合国秘书长遴选第二轮意向性投票
+## 澎湃新闻 (1 条)
+- 黎曼猜想之后，Claude再破百年猜想纪录！ - thepaper.cn
 
-## 凤凰网 (3 条)
-- 高市早苗删掉“反省”一词，石破茂炮轰：不反省，何来教训？
-- 特朗普制裁ICC日籍法官，高市早苗默不作声，日媒的评论亮了
-- 凤凰女记者德黑兰日志丨“现在看到的消息，已经不是‘可怕’两个字能形容的了”
+## 凤凰网 (20 条)
+- 杨震率队，全国政协委员视察团赴广西
+- 美媒称朝鲜援俄军队中含无人机操作员
+- 饭店将低价饮料盛装高脚杯后，以398元一杯出售？警方辟谣
+- 水利部对广东、广西、海南启动洪水防御Ⅳ级应急响应
+- 四川马边县暴雨引发严重内涝，沿街多辆汽车被冲走
+- 马场教练以同骑为由猥亵游客，被拘留后仍在岗？官方通报
+- 河南周口堤坝溃口致农田鱼塘被淹，消防昼夜排涝28万立方米
+- 八国外长发表联合声明，谴责以色列非法定居点政策
+- 这一类人，不让进医院？
+- “不得以本会文化顾问对外宣传”，又一商会与假总编张龙切割
+- 伊朗正在密谋经济战打击特朗普？凤凰记者：可以打击两个地方
+- 男子吃了眼镜蛇后举报商家卖野味，与商家双双被罚，不服上诉：为了取证才吃的
+- 乌总统办公室主任卷入巨额洗钱案，被曝受泽连斯基指示
+- 世界机器人大会惊现牛来
+- 特朗普宣布霍尔木兹海峡为美国领土
+- 这两个强国，真到了战争的边缘
+- 战火烧到“购物车”，乌改变打法，直击俄经济大后方，张弘：军民界限彻底消失
+- 美媒爆料：美国陆军部长与防长关系紧张，或在年底前离职
+- 张丹丹不需要道歉
+- 荷兰顶级超模被雪藏25年，长期遭下药侵犯，却被家人送去精神病院
+
+## 财新网 (13 条)
+- 国产闪存龙头长存控股科创板IPO获受理 拟募资330亿元
+- 国际足联重罚阿根廷队 中场球员帕雷德斯被禁赛10场
+- 【周刊提前读】沈联涛专栏：警惕连锁债务陷阱
+- 末代皇帝，人民的皇帝｜猎读
+- 财新闻｜第二届世界人形机器人运动会今日开幕
+- 【周刊提前读】婚外冷冻胚胎制造人伦困局 社会如何调整
+- 【周刊提前读】自动驾驶冲刺L3 头部企业出啥招？
+- 【周刊提前读】高铁与飞机竞争？ 空铁联运有空间
+- 【周刊提前读】徐小庆专栏：AI股反弹，抄底机会还是离场窗口？
+- 【周刊提前读】AI股票7月剧烈震荡 机构调仓显示市场分歧
+- 【周刊提前读】破产重整怎么选投资人？ 多起实务看效率与公平
+- 【周刊提前读】全球数据中心聚焦东南亚 中企出海有何机会？
+- 【商圈】樊澄：国航资本运作操盘手，缘何身陷囹圄
 
 ## 央视网 (4 条)
 - 精心准备迎开学 - 央视网
 - AI漫剧观察｜从“能看”到“好看” 传统影视功底助力AI漫剧提质 - 央视网
 - 上海：深化先行先试 多项制度创新经验推向全国 - 央视网
-- 暑期自驾出行 这5条安全要点请牢记 - 央视网
+- “七月流火”这四个字藏着古人的星空密码 - 央视网
 
-## BBC (8 条)
-- Russian double-tap drone strike kills 15 in Ukrainian mall, officials say
+## BBC (12 条)
+- 'We have more work to do', says Canada negotiator as US trade deadline looms
+- TikTok to pay $400m to US in one of largest child privacy settlements
+- Russian strikes on Ukraine kill two, officials say, a day after deadly attack on mall
 - One killed in sword attack at Swedish school
 - Two injured in stabbing attack at Canada Sikh temple
 - Tupac murder accused told police in 2008 his nephew fired fatal shots
 - Germany investigates Russia links to weapons cache discovered in woods, reports say
 - Meghan in talks for role in Netflix series The Gentlemen, BBC understands
 - Ethiopia's Virgin Mary festival in Tigray cancelled over drone strike fears
+- These bookshops let Chinese readers question their country - now the doors are closing
 - How Israel is expanding settlements in drive to reshape West Bank
+- Modi spent years building his strong image - why is he making Gen Z reels now?
 
-## NYTimes (14 条)
+## Reuters (1 条)
+- US judge strikes down policy suspending immigrant visa processing for 75 nations - Reuters
+
+## NYTimes (18 条)
 - Canada-U.S. Tariff Talks Continue as Trump’s Midnight Deadline Looms
 - Palestinian Teenager Killed After Israeli Settlers Enter West Bank Village
 - Germany Identifies a Plot After Finding a Weapons Cache, but Names No Culprit
 - Prince Harry, Elton John and Others Told to Pay Daily Mail Publisher $13 Million
 - Rare South American Diseases Offer Clues on the Next Pandemic
+- Cities Compete in Dizzying ‘Gold Rush’ to Be Japan’s Backup Capital
+- Close and Loving, or Oppressive? A Novelist Takes Aim at Italian Families.
+- Canada-U.S. Trade Talks Collapse; Washington Imposes New Tariffs
 - Mexican Governor, Accused by U.S. of Helping Cartel, Returns to His Job
 - Turkey Requests Netanyahu’s Arrest, Saying Israel Abused Flotilla Activists
 - 5 Deportees Are Flown by US to Equatorial Guinea After they Resist Deplaning in Liberia
@@ -69,6 +101,7 @@
 - Swiss Tourist Sentenced to Prison After Violating ‘Day of Silence’ in Bali
 - Mark Zuckerberg Buys an Irish Castle
 - In China’s Biggest Car Recall, Tesla and 8 Others Will Address Door Safety
+- Cameroon’s Aging President Returns From Monthslong Stay Abroad
 - What to Know About Prince Harry and Meghan’s Move Back to the U.K.
 - The A.I.-Robotics Job Only a Human Can Do
 
@@ -81,26 +114,26 @@
 - Want Cash Out of Your Home? Here Are Your Best Options
 
 ## 微博热搜 (20 条)
-- 官方通报旅客买票占座放零食事件
-- 世界杯决赛禁赛处罚出炉
-- 多元消费场景激发经济澎湃活力
+- 55元捡漏1.41万项链女子获5元补偿
 - 外国网友怀疑中国农村是AI
-- 张丹丹 灵活就业本身就是一种福利
-- 张雅琪路人缘
-- MG07发布10.59万起
-- 购票后未上车视为放弃席位使用权
-- 网红峰哥自曝100万港元抄底锂电池
-- 警方通报男子KTV厕所殴打女子
-- 欢子 摆烂
-- 河北老人养老金月领212元
-- 青岛顺风车司机接单后威胁乘客加价
-- 开台灯遭邻居投诉影响孩子学习
-- 第一次当妈妈的真实感受
-- 丈夫拍妻子出轨却因妨害隐私获刑
-- 张彬彬曹骏李光洁吃了演员身份的亏
-- 小林栋哲中戏报到
-- 未检票上车第三方不能处置该席位
-- 虞书欣娜扎撞衫
+- 1个视频看懂公积金提取新规
+- 艾滋病 配偶知情权
+- 妻子未提供精卵不享有胚胎处置权
+- 一斤鸭脖能买一斤牛肉一斤排骨
+- 30万内终于等到带quattro的智能SUV
+- 第一次见外国人出来打假北欧硬面包
+- 无法对小时候的杯子祛魅
+- 厚本新剧美成这样了
+- 九门只死了一只鸟
+- 女星穿香奈儿无底鞋脚掌变黑
+- 欢子 退赛
+- 董璇让粉丝不要总是给小酒窝买盲盒了
+- 诱导粉丝打赏2500万女主播父亲发声
+- 曾辉手机壳是跟韩雨彤的合照
+- 陈柏霖当庭认罪
+- 榜一大哥称逼急了让我老婆告我
+- 王橹杰成都外出弟弟同行
+- 探秘统一老坛酸菜的诞生
 
 ## 知乎热榜 (20 条)
 - 关于辽、金、西夏有哪些有趣的冷知识？
@@ -126,64 +159,103 @@
 
 ## B站热门 (20 条)
 - "复活吧！我的（ ）"
-- 《下一个是谁》第七季（3）
-- 我这一生最大的罪，是把人写成了妖……
 - 我收容了100位粉丝到我的一辈子存档里！
-- 举手之劳 亦是人间微光
-- 《崩坏：星穹铁道》千星纪游PV——「众声之外」
-- 《黑神话：钟馗》15分钟实机演示
-- 时隔一年！久违的整合包生存，缆车末日惊变 100 天！绝不烂尾！！！
-- 唐王随手捐闲钱，竟将阿萨拉扶成王！
-- 《 黑 神 话 咕 嘎 》终极典藏版
 - 人族少女混入兽人国，还引发了一场猫猫二当家和黄狗侠客的绝世大战
-- 吃蜘蛛眼就可以飞去末地外岛？！这个bug简直是艺术品！
-- 《你咋开的车》
-- 停更7年，我又以经典的方式玩MC
+- 【独家】《凡人修仙传之慕兰之战》第12集【总第188集】
+- 我这一生最大的罪，是把人写成了妖……
 - 《明日方舟：终末地》「雪凇幽梦」版本前瞻预告
-- 【万字硬核考据】全方位拆解《黑钟馗》-主角/怪物/战斗/剧情/符箓
-- 菜谱：洋葱炒蛋，家庭红烧鱼，蒜炒西兰花，辣椒炒猪腰，绿豆汤，从买菜开始，你在家随时可以复刻
-- 【绍宋：还我河山】这一次，岳飞活下来！
-- 顺直大改造-反畸形审美，棒打高街帝少萝cp！
-- 房主反杀非法上门强拆者，陕西判了，无罪
+- 《下一个是谁》第七季（3）
+- 《晒足一百ber天3.0》
+- 吃蜘蛛眼就可以飞去末地外岛？！这个bug简直是艺术品！
+- 【纪录片】守护解放西·探案季 第十集  难以“置信”
+- 全球十大餐厅！为吃这顿饭！我们在欧洲被偷5万！到底值不值？
+- 《影之刃零》专场 State of Play 全程回顾
+- 父母给我8k去内蒙，我看向自行车
+- 《你咋开的车》
+- 【二维动画】画二渲三，但是渲出来一堆BUG
+- 加缪：如果正义必须伤害无辜，它还是正义吗？
+- 混子哥边走边画边讲：神秘的核电站
+- 时隔一年！久违的整合包生存，缆车末日惊变 100 天！绝不烂尾！！！
+- 渣渣辉没更新在干嘛：结婚！生小孩！
+- 举手之劳 亦是人间微光
 
 ## 抖音热搜 (20 条)
-- 中国U18男篮亚洲杯挺进半决赛
-- 认识一座城从老字号招牌开始
-- 一组数据看数智赋能电商经济
 - 运油20A歼16等已全部抵达埃及
-- 总有人在付出为什么不能是我呢
-- 2026成都车展正式开幕
-- 国际金价重回4600美元
-- 相声名家田立禾去世
-- 手指的方向是自由
-- 真正的少女心事是环游世界
+- 中国U18男篮亚洲杯挺进半决赛
+- 夏粮产量首次突破3000亿斤
 - 多家车企启动召回
-- 塞尔维亚90:87险胜法国
+- 2026成都车展正式开幕
 - EDG官宣选手stew正式加盟
-- 制服持刀男子的外卖小哥找到了
-- 说唱巅峰嘉宾帮唱赛抢先看
-- 我要生气啦
+- 手指的方向是自由
+- 警方通报女子在KTV厕所遭殴打
+- 汪苏泷莫文蔚合唱阴天
+- 本周谣言鉴赏
+- 铁路通报“旅客买票占座放零食”
 - 白泽杯S3开赛
-- 一架载有8人的飞机在阿拉斯加坠毁
+- 制服持刀男子的外卖小哥找到了
+- 余文乐艾热王以太哀人好听
+- 用一天记录皮影人的一辈子
+- 阿森纳3:0大胜考文垂
 - 披荆斩棘一公舞台
-- 朱一龙谈空枪连开五枪片段
+- 花小龙带许君聪自律的一天
+- BLG战胜TES
+- 说唱巅峰嘉宾帮唱赛抢先看
 
-## 雪球热帖 (10 条)
-- 国能乌海能源黄白茨矿业有限责任公司寻找失联股东的公告 - 新浪财经_金融信息服务商
-- 金融监管总局：对恒大人寿保险有限公司吊销业务许可证 - 新浪财经_金融信息服务商
-- 纽约股市三大股指21日上涨 - 新浪财经_金融信息服务商
-- 特朗普称干预债市是贝森特自己拿的主意 - 新浪财经_金融信息服务商
-- 内部人交易｜MPLX LP披露一笔股票增持 - 新浪财经_金融信息服务商
-- 内部人交易｜汉尼汾披露一笔股票减持 - 新浪财经_金融信息服务商
-- 内部人交易｜雪佛龙披露一笔股票增持 - 新浪财经_金融信息服务商
-- 投资百亿！京东WRC甩出机器人战略：用供应链、服务、技术为产业搭台 - 新浪财经_金融信息服务商
-- 熹年商贸获其他工时制度许可 黄浦人社局助力优化门店用工 - 新浪财经_金融信息服务商
-- 上海保安服务集团获黄浦人社局特殊工时许可 运营合规性再获保障 - 新浪财经_金融信息服务商
+## 雪球热帖 (7 条)
+- 摩尔线程(688795)：全功能GPU领军迈入规模化增长阶段 - 手机新浪网
+- 鱼跃医疗(002223)公司点评：血糖及国际业务高增 呼吸板块承压 - 手机新浪网
+- 固定收益专题报告：信用策略微观视角：从异常成交看行情演变 - 手机新浪网
+- 迪安诊断(300244)：业绩实现快速修复 高价值业务与AI落地驱动长期成长 - 手机新浪网
+- 济南哲鑫绿塑再生资源有限公司完成商务部绿色流通服务企业备案公示注册资本100万、参保0人 - 新浪财经
+- 淄博洲驰再生资源有限公司完成商务部绿色流通服务企业备案公示 注册资本20万、参保0人 - 新浪财经
+- 中足联：通报批评申花主场和国安俱乐部 - 新浪财经
 
-## 虎嗅 (3 条)
+## 36氪 (20 条)
+- 苹果拟在Siri和Vision Pro团队裁员超200人
+- 金饰克价逼近1400元
+- 东山精密加码AI光芯片光模块扩产，项目总投资上调至17亿美元
+- 科大讯飞与中国药科大学签署战略合作协议
+- 国民信托获批增加注册资本30亿元
+- 中信证券：建议优先关注电池组件、胶膜、光伏玻璃、浆料等环节的结构性机会
+- 美对部分加拿大商品加征50%关税
+- 钱大妈递表港交所，全国门店超3000家
+- 21家公募中报放榜：南方基金15亿净利暂领跑，永赢反超银华、大成
+- 东方财富上半年净利润增45%至80.64亿元，披露两项处罚已完成整改
+- OpenAI将GPT-5.6 Sol模型API定价下调两成以上
+- 美元指数21日下跌
+- 美国将向联合国支付7.25亿美元拖欠会费
+- 章建平二季度大调仓：退出两只资源股前十大股东，新进中际旭创第九大股东
+- 下半年以来千亿元级资金借道股票型ETF布局A股
+- 高端铜箔供不应求，头部公司加码扩产
+- 从CPO到OCS，光通信上游材料迎来价值重构
+- 稀土永磁上下游企业半年度业绩亮眼
+- Anthropic计划开展超大规模IPO，拟募资1000亿美元
+- 订单排到第四季度，国产叉车全球爆单
+
+## 虎嗅 (20 条)
+- 半年净利暴增700倍，江波龙红利期会持续多久？
+- 又见定存利率倒挂，上海一银行存3年跟1年一个样，河南有银行存5年不如存3年
+- 越会用AI 的人，学习能力退化得越快
+- 100万像素的摄像头，为什么是苹果AI 最重要的零件？
+- 日本新增5项对华出口管制，中国产业界这次不怕了
+- 牛来，一场心照不宣的共谋
+- Mirendil、INT21、rekursiv.ai ……最热门RSI 公司都在“自我改进”什么
+- 旺旺让所有员工反思，除了最高主管
+- 第一个被AI 报警抓进去的人
+- 东方甄选打了个翻身仗，但二次创业刚刚开始
+- 一个纸杯的生意
+- 沃尔玛：业绩没毛病，高估值是原罪
+- 健身房才隐藏着高潜的“户外大神”
+- 重庆啤酒在传统旺季折戟
+- 北大张丹丹教授能不能主动去享受一下灵活就业的“福利”？
+- 1000万美元，可以买走破产航司最值钱的东西？
+- 当LABUBU不再稀缺
+- 盘点全球具身智能30强：谁能让机器人真正工作？
+- 中国人为什么要拼命还钱
 - 三年不结婚退款的AI红娘，凭什么让徐新投1500万？
-- Stripe 为什么盯上模型路由：AI 进入“智能采购”时代
-- 你的颠沛流离，成了张丹丹教授囗中的“特殊福利”
+
+## 少数派 (1 条)
+- 线下活动｜Echoes Remain：迈克尔杰克逊 68 周年诞辰唱片展
 
 ## GitHub Trending (17 条)
 - mattpocock/skills
