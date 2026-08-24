@@ -2,116 +2,73 @@
   "date": "2026-08-24",
   "news": [
     {
-      "title": "加美贸易谈判破裂 特朗普再威胁",
-      "summary": "美国与加拿大贸易谈判正式破裂，特朗普在社交媒体上称加拿大想要“成为美国一个州的好处”，并威胁对加拿大商品征收50%关税。加拿大驻美大使表示，谈判破裂原因涉及多项议题。此举加剧北美贸易紧张局势，直接影响两国汽车、能源、农产品等关键贸易领域，并可能引发全球供应链连锁反应。市场对北美经济前景的担忧上升，美股期货与加元汇率出现波动。",
-      "reason": "加美贸易谈判破裂关乎全球最大双边贸易关系之一，特朗普关税威胁直接扰动市场预期，地缘经济风险显著上升。",
+      "title": "俄军挺进乌东重镇 黑海停火遭拒",
+      "summary": "俄军已控制乌克兰东部重镇近四分之一面积，战斗正向镇中心推进。乌克兰总统泽连斯基表示，俄罗斯总统普京拒绝了黑海航运停火提议。英国官员伯纳姆上任后首访基辅，重申英国对乌克兰的支持。此外，俄军被曝穿着缴获的乌军制服秘密渗透对方阵地。战场态势显示俄罗斯推进意愿增强，同时谈判渠道趋于收窄。冲突持续升级将进一步冲击全球能源和粮食市场，并加剧欧洲安全格局的不确定性。",
+      "reason": "俄军在乌东关键城镇推进，黑海停火提议被拒，俄乌战局再度紧张，全球能源粮食市场承压。",
       "impact_areas": [
-        "经济金融",
-        "地缘"
-      ],
-      "impact_level": "重大",
-      "sources": [
-        {
-          "name": "BBC",
-          "url": "https://www.bbc.co.uk/news/articles/cx272np7vgyo?at_medium=RSS&at_campaign=rss"
-        },
-        {
-          "name": "央视网",
-          "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBDNW9yWk5uTXBXZ29tX2MwcmFTT3lQTnZvZ1pXdGpUVzhjU3dKaGp1aG9SdDNwQUFfb3htRnpWUlMtTklIM2dxVzc3VFdCdllGTW5JaWo2aVFpRno3Z0dFTW9kNXlFeUtWY0s5U1pYTGNsY2JwejBWMQ?oc=5"
-        },
-        {
-          "name": "澎湃新闻",
-          "url": "https://m.thepaper.cn/detail/33837875"
-        }
-      ]
-    },
-    {
-      "title": "伊朗议会批准涉霍尔木兹海峡议案",
-      "summary": "伊朗议会批准一项涉霍尔木兹海峡的议案，伊朗总统佩泽希齐扬称国家应摆脱“非战非和”状态。此前伊朗已警告海湾国家不要加入美国对伊经济战。霍尔木兹海峡承载全球约五分之一石油贸易，此举使美伊冲突风险显著升级，国际原油价格应声上涨，全球能源供应安全面临严峻考验。各方正密切关注伊朗是否采取实际军事行动。",
-      "reason": "霍尔木兹海峡是全球能源咽喉，伊朗议会批准相关议案直接提升美伊军事冲突概率，对全球能源市场有重大冲击。",
-      "impact_areas": [
-        "地缘",
+        "地缘政治",
         "经济金融"
       ],
       "impact_level": "重大",
       "sources": [
         {
-          "name": "凤凰网",
-          "url": "https://news.ifeng.com/c/8vppqybHzH7"
+          "name": "BBC",
+          "url": "https://www.bbc.co.uk/news/articles/clyqypkrzq5o?at_medium=RSS&at_campaign=rss"
         },
         {
           "name": "凤凰网",
-          "url": "https://news.ifeng.com/c/8vptq1ipQh6"
+          "url": "https://news.ifeng.com/c/8vqRNsOUngC"
         },
         {
-          "name": "NYTimes",
-          "url": "https://www.nytimes.com/2026/08/23/world/europe/iran-economy-war-united-states.html"
+          "name": "财新网",
+          "url": "https://database.caixin.com/2026-08-24/102477282.html"
         }
       ]
     },
     {
-      "title": "甲醛白菜风波持续发酵",
-      "summary": "近期“甲醛白菜”事件引发广泛关注。南京众彩市场对场内大白菜开展地毯式抽检，未检出甲醛等有害物质；中农批宿迁市场自河北康保运来大白菜检测结果也显示合格。凤凰网评论指出，此事凸显食品安全全链条监管中的短板；虎嗅则从源头康保白菜运输乱象入手，剖析甲醛疑云背后的利益链。监管部门回应与舆情发酵交织，公众对蔬菜安全的信任度面临考验。",
-      "reason": "食品安全话题具有极高社会敏感度，多地抽检结果与舆论质疑并存，直接影响消费者信心和市场监管公信力。",
+      "title": "美加贸易谈崩 特朗普加征50%关税",
+      "summary": "美国总统特朗普与加拿大的贸易谈判宣告破裂，特朗普指责加拿大仍想获得作为美国一个州的‘好处’，并宣布对加拿大商品征收50%关税。这是特朗普关税施压首次被盟友正面顶回，意味着北美贸易伙伴关系出现重大裂痕。加拿大可能采取报复性关税措施，两国间的贸易战将扰乱供应链、推高消费品价格，并对全球贸易秩序产生连锁影响。",
+      "reason": "美加贸易谈判破裂并加征50%关税，首现美国关税施压被盟友顶回，全球贸易格局面临新变数。",
       "impact_areas": [
-        "社会",
-        "公共卫生"
+        "经济金融",
+        "政治"
       ],
       "impact_level": "重大",
       "sources": [
         {
           "name": "澎湃新闻",
-          "url": "https://m.thepaper.cn/detail/33837913"
+          "url": "https://m.thepaper.cn/detail/33838251"
         },
         {
-          "name": "澎湃新闻",
-          "url": "https://m.thepaper.cn/detail/33837902"
-        },
-        {
-          "name": "凤凰网",
-          "url": "https://news.ifeng.com/c/8vppVwvvZ60"
-        },
-        {
-          "name": "虎嗅",
-          "url": "https://www.huxiu.com/article/4885320.html"
+          "name": "BBC",
+          "url": "https://www.bbc.co.uk/news/articles/cx272np7vgyo?at_medium=RSS&at_campaign=rss"
         }
       ]
     },
     {
-      "title": "泽连斯基再拒大选 称风险巨大",
-      "summary": "乌克兰总统泽连斯基再次拒绝在战时举行大选，称“选举意味着巨大风险”。这一表态是在俄乌冲突持续、国际社会关注乌克兰国内政治走向的背景下作出的。西方盟友对乌克兰民主进程态度复杂，泽连斯基的立场可能影响未来和谈进程及西方军事援助的可持续性。乌克兰反对派则批评其拖延民主程序。",
-      "reason": "乌克兰大选问题与俄乌冲突走向直接挂钩，影响西方援助和地缘政治平衡，是当前国际政治焦点。",
+      "title": "特斯拉在华召回近300万辆汽车",
+      "summary": "因隐藏式车门把手存在安全隐患，特斯拉在中国召回近300万辆汽车，涉及多个热门在售车型。这是特斯拉在中国市场规模最大的召回之一，也反映出电动车创新设计与安全法规之间的冲突。与此同时，另有九家车企联合召回430万辆不易识别应急拉手汽车，汽车应急安全设计正在整个行业被重新审视。此次大规模召回将影响数百万车主，并可能推高车企合规成本。",
+      "reason": "近300万辆特斯拉因安全隐患在华召回，规模罕见，直接冲击数百万车主并引发对电动车设计安全反思。",
       "impact_areas": [
-        "政治",
-        "地缘"
+        "科技",
+        "社会"
       ],
       "impact_level": "重大",
       "sources": [
         {
-          "name": "凤凰网",
-          "url": "https://news.ifeng.com/c/8vpcs0VkT4z"
-        }
-      ]
-    },
-    {
-      "title": "朱雀三号八个月实现成功回收",
-      "summary": "中国商业航天企业蓝箭航天自主研发的朱雀三号可重复使用运载火箭，在经历八个月前首飞失利后，成功实现火箭回收。此前火箭曾因故障“归零”，团队通过技术攻关完成逆袭。朱雀三号的成功回收标志着中国商业航天在可回收火箭领域取得重大突破，验证了发动机深度变推力、着陆控制等关键技术，为降低发射成本、实现高频次太空运输奠定基础，对我国航天产业格局具有深远影响。",
-      "reason": "可重复使用火箭是航天技术核心竞争力，朱雀三号成功回收是中国商业航天里程碑，具备国家战略和产业双重价值。",
-      "impact_areas": [
-        "科技"
-      ],
-      "impact_level": "重大",
-      "sources": [
+          "name": "BBC",
+          "url": "https://www.bbc.co.uk/news/articles/c4g6ggdg030o?at_medium=RSS&at_campaign=rss"
+        },
         {
-          "name": "澎湃新闻",
-          "url": "https://m.thepaper.cn/detail/33837650"
+          "name": "少数派",
+          "url": "https://sspai.com/post/113767"
         }
       ]
     },
     {
-      "title": "国常会部署整治拖欠中小企业账款",
-      "summary": "国务院常务会议提出要大力整治大企业拖欠中小企业账款问题，要求健全长效机制，强化拖欠源头治理，加大违法失信惩戒力度。此举直击中小企业资金链痛点，有助于缓解企业现金流压力，改善营商环境。政策释放出稳增长、保就业的明确信号，对中小企业的经营预期和实体经济复苏具有积极带动作用。",
-      "reason": "国务院高层会议专门部署整治拖欠账款，政策力度大、影响面广，直接关系中小企业生存和发展。",
+      "title": "阿里巴巴创纪录配售筹资800亿港元",
+      "summary": "阿里巴巴实施创纪录的股份配售，筹资约800亿港元，成为近年来全球规模最大的科技公司股权再融资之一。知名空头投资者伯里对该交易提出批评。配售将增强阿里巴巴的现金流，用于战略投入，但短期内可能稀释股东权益并对股价形成压力。此举也将影响港股流动性，并引发市场对大型科技公司资本运作方式的重新评估。",
+      "reason": "阿里巴巴创纪录配售募资800亿港元，为近年来全球最大规模科技股再融资之一，影响港股与科技板块。",
       "impact_areas": [
         "经济金融"
       ],
@@ -119,72 +76,118 @@
       "sources": [
         {
           "name": "财新网",
-          "url": "https://finance.caixin.com/2026-08-24/102477209.html"
+          "url": "https://database.caixin.com/2026-08-24/102477265.html"
         }
       ]
     },
     {
-      "title": "阿里拟配售八百亿港元新股",
-      "summary": "阿里巴巴公告称，根据一般授权拟配售800亿港元新股份，定价已确定。这是阿里巴巴近年来罕有的大规模股权融资，募资规模在港股市场名列前茅。市场正在关注资金用途是否与回购、云计算投入或AI领域扩张有关。此举可能摊薄现有股东权益，短期对股价构成压力，但长期或为战略布局提供资金弹药，对港股科技板块资金面和估值体系都将产生传导效应。",
-      "reason": "阿里巴巴作为中国科技龙头进行巨额配售，是重大资本市场事件，影响港股整体资金面和科技股估值。",
+      "title": "阿里发布视频大模型Wan3.0",
+      "summary": "阿里巴巴正式上线视频大模型Wan3.0，这是其在多模态AI领域的重大产品升级。Wan3.0预计将带来更高画质、更强的语义理解与更丰富的视频生成能力，有望在内容创作、影视制作、广告营销等场景加速应用落地。此次发布将加剧国内外AI视频生成模型的竞争，推动AI内容生产工具向更成熟、更易用的方向演进，并可能重塑创意产业的生产流程。",
+      "reason": "阿里视频大模型Wan3.0上线，显示AI视频生成竞争加剧，将加速内容产业智能化变革。",
       "impact_areas": [
-        "经济金融",
         "科技"
       ],
       "impact_level": "重大",
       "sources": [
         {
-          "name": "雪球热帖",
-          "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNS0NyaENIdEZDSmFGU1Ewc21GOEEwYnpXMVRUUHNWaVMzVE5kSHlWakg1TDZEbWNPRHZDVlNyalVCa1pZSHFmckduSDlhTDhPZDM2dlVIV0V4LUxYODZFakx4MVp3bHZUbTJWVlg1OGtNaDhVM01PQmVZcmZrSEt5TGQwWS13eDg?oc=5"
+          "name": "36氪",
+          "url": "https://www.36kr.com/newsflashes/3952946621906312"
         }
       ]
     },
     {
-      "title": "希音香港IPO定价区间公布",
-      "summary": "快时尚跨境电商巨头希音（Shein）公布香港IPO定价区间为47.6至49.5港元，正式启动发行程序。按此估算，希音市值将跻身港股前列，有望成为今年全球最大规模IPO之一。此次上市将显著增强香港资本市场吸引力，同时为希音全球扩张和供应链布局募集资金。跨境电商业态竞争格局和香港新股市场活跃度都将因此受到深刻影响。",
-      "reason": "希音是现象级跨境电商独角兽，IPO定价出炉标志全球资本市场重大事件临近，影响香港金融生态和电商格局。",
+      "title": "国资委推进“聚变+AI”融合创新",
+      "summary": "国务院国资委明确表示，将加快培养可控核聚变人才，深入推进“聚变+AI”融合创新。这一政策信号表明中国正将可控核聚变升级为国家重点布局的未来能源赛道。核聚变被视为清洁能源的终极方案，结合AI进行等离子体控制、材料筛选与工程设计，有望显著缩短技术突破周期。政策将带动相关科研投入、产业链培育以及资本市场对核聚变概念股的关注。",
+      "reason": "国资委明确加快核聚变人才培养、推进“聚变+AI”融合，释放国家押注未来能源赛道的强力信号。",
       "impact_areas": [
+        "科技",
+        "能源"
+      ],
+      "impact_level": "重大",
+      "sources": [
+        {
+          "name": "36氪",
+          "url": "https://www.36kr.com/newsflashes/3952983110778241"
+        }
+      ]
+    },
+    {
+      "title": "台风“紫檀”引发广西严重洪涝",
+      "summary": "台风“紫檀”袭击广西，多地出现严重洪涝灾害，宁明县发布紧急公告，横州72所受灾学校已具备开学条件。国家两部门针对广西启动国家四级救灾应急响应。台风造成基础设施损毁、农田被淹和群众转移，直接影响当地生产生活秩序。目前救援和灾后重建工作正在展开，气象部门提醒继续防范次生灾害。",
+      "reason": "台风“紫檀”致广西严重洪涝，国家启动四级救灾应急响应，多地学校、基础设施受损，民生影响直接。",
+      "impact_areas": [
+        "社会",
+        "经济"
+      ],
+      "impact_level": "重大",
+      "sources": [
+        {
+          "name": "澎湃新闻",
+          "url": "https://m.thepaper.cn/detail/33838799"
+        },
+        {
+          "name": "央视网",
+          "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1iMDFMUU9vVnI3UHh5RkhVSEFzd3hBa1FmM1BIQmxVTHhtSDk0U3hNM1k0Y2tkeE9kY0QxZ1hRUEhZejBEUmNRbXlucVVpLUxxWjJFTndVUEVmcWE3OXE0TFVZT2JrNFIxVEtXcmFpaWRObFhsbkhnbg?oc=5"
+        }
+      ]
+    },
+    {
+      "title": "伊朗警告海湾国家勿参与美经济战",
+      "summary": "伊朗代国防部长表示，将让侵略者付出难以承受的代价；伊朗官方称已针对美国各种敌对行动制定应对方案。此前伊朗警告海湾国家不要加入特朗普的孤立伊朗经济计划，否则可能面临新一轮袭击。美伊对抗升级使霍尔木兹海峡航运安全和全球油价面临更大不确定性，中东地缘政治风险显著抬升。",
+      "reason": "伊朗警告海湾国家勿参与美国经济战，并称已制定应对方案，美伊对抗升级将威胁中东油路安全。",
+      "impact_areas": [
+        "地缘政治",
         "经济金融"
       ],
       "impact_level": "重大",
       "sources": [
         {
-          "name": "36氪",
-          "url": "https://www.36kr.com/newsflashes/3952720541564036"
+          "name": "凤凰网",
+          "url": "https://news.ifeng.com/c/8vqXtobt9il"
+        },
+        {
+          "name": "央视网",
+          "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBQZ09yRkVTQ1J4RHQ0NWhLbU4xdDRMczdFR2c3UlM1VDZiVDYwT1pOX3RCR29oX1hvMXF2VXlJZzB5Uk01TUJTQlFRNzI5VzBwNTVpV2NXTW1OT2s3aDZHTHFCNm0tbmtsQTRiUm9tdHRRQjBFQjhOMw?oc=5"
         }
       ]
     },
     {
-      "title": "AI智能体自主生成量子代码",
-      "summary": "最新研究显示，AI智能体已能自主生成并运行量子计算代码，标志着人工智能与量子计算两大前沿技术开始深度融合。该系统能够理解量子算法逻辑，自动编写并执行量子程序，大幅降低量子计算的使用门槛。这一突破有望加速量子计算在药物研发、材料模拟、优化问题等领域的实际应用，对未来科研范式和数据处理方式产生深远影响。",
-      "reason": "AI驱动量子计算是硬科技前沿突破，具备改变科研范式与产业应用的潜力，是科技领域重要里程碑。",
+      "title": "24家文学刊物联合抵制AI伪作者",
+      "summary": "澎湃新闻消息，24家文学刊物联合发表声明，指出AI技术催生大量伪造作者和作品，扰乱文学出版秩序，一经查实将永不采用。该声明反映了生成式AI对创意写作领域的巨大冲击，版权归属、原创性和作者身份面临信任危机。此举可能推动出版行业建立AI内容检测机制和伦理规范，也意味着AI对文化生产的影响正从辅助工具演变为需要制度应对的挑战。",
+      "reason": "24家文学刊物联合抵制AI伪作者，反映生成式AI对创意行业的版权和原创性冲击，推动行业规范建立。",
       "impact_areas": [
-        "科技"
+        "科技",
+        "社会",
+        "文化"
       ],
       "impact_level": "重大",
       "sources": [
         {
-          "name": "36氪",
-          "url": "https://www.36kr.com/newsflashes/3952708603362433"
+          "name": "澎湃新闻",
+          "url": "https://m.thepaper.cn/detail/33838730"
         }
       ]
     },
     {
-      "title": "几内亚垃圾填埋场坍塌致30死",
-      "summary": "几内亚一处大型垃圾填埋场发生坍塌事故，已造成至少30人死亡，多人失踪。救援工作正在紧张进行，但现场条件恶劣，伤亡数字可能进一步上升。事故暴露了该国城市废弃物管理基础设施的严重隐患，以及快速城市化进程中环保与安全治理的缺位。国际社会已有人道主义组织准备提供援助。此类灾难也再次敲响全球发展中国家垃圾处理安全警钟。",
-      "reason": "重大人员伤亡事故，反映城市安全治理缺陷，属于国际重大灾难新闻，具有人道主义关注度。",
+      "title": "四川长宁发生4.7级地震",
+      "summary": "四川宜宾市长宁县发生4.7级地震，震源深度5千米。中国地震局启动四级应急响应，四川省地震局已派人赴现场开展应急处置和灾情核查。目前暂无重大伤亡报告，但当地震感明显。地震再次提示西南地区地震灾害风险，后续监测、隐患排查和防震减灾工作仍需持续加强。",
+      "reason": "四川长宁发生4.7级地震，官方启动四级应急响应，提醒西南地区地震风险与防震减灾工作重点。",
       "impact_areas": [
         "社会"
       ],
       "impact_level": "重大",
       "sources": [
         {
-          "name": "BBC",
-          "url": "https://www.bbc.co.uk/news/articles/c4g3g36z7p6o?at_medium=RSS&at_campaign=rss"
+          "name": "澎湃新闻",
+          "url": "https://m.thepaper.cn/detail/33838769"
+        },
+        {
+          "name": "央视网",
+          "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBvS2I3WkpnWjQwVHRVc3hsNm5xcFF2TlZHTElpZ2N5MndrNUVxeVJuY0ZJakY5ZEtkU3UyZURMZXpyMmdmc0VKZTBfazZsTy1fSDlRMHJVdmItTG1hVVlteW1HRS1aUTl6cXU3cHAwV1JNVkdLTEdFSw?oc=5"
         }
       ]
     }
   ],
-  "total_fetched": 166,
-  "generated_at": "2026-08-24T07:26:37.820189+08:00"
+  "total_fetched": 253,
+  "generated_at": "2026-08-24T12:26:54.046993+08:00"
 }
