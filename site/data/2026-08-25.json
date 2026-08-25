@@ -2,92 +2,197 @@
   "date": "2026-08-25",
   "news": [
     {
-      "title": "美伊冲突升级 美发起金融攻势",
-      "summary": "美国财长宣布对伊朗发起“有史以来最大金融攻势”，任何为伊朗洗钱的实体将被移出美元体系。美国同时宣布对伊朗实施“经济孤立”新措施，并已就制裁方案致电各国领导人。伊朗方面强硬回应，最高领袖顾问称将比以往更加坚决，总统批评美国恃强凌弱无助于解决问题，经济部长表示已做好充分准备。以色列总理称伊朗企图暗杀其子。美伊对抗进一步加剧，中东局势面临更大不确定性。",
-      "reason": "美伊冲突升级，美国发起史无前例金融制裁，直接影响全球能源与地缘格局。",
+      "title": "美伊制裁升级，伊朗准备反击",
+      "summary": "美国财长贝森特宣布要求相关国家切断与伊朗商业往来，否则将面临美国单方面制裁，并将此行动称为'有史以来最大的金融攻势'。伊朗方面回应已做好准备，誓言打破制裁。美国财政部还考虑动用现金储备购债以支撑财政，专家警告此举恐加速美元体系崩溃。霍尔木兹海峡通行商船数量降至3个多月以来新低，反映地缘风险升级。制裁对全球能源供应和金融市场影响深远，国际油价和黄金价格出现波动。",
+      "reason": "美伊对抗升级影响全球能源与金融稳定，多源密集报道，热度极高。",
       "impact_areas": [
-        "地缘",
-        "经济金融"
+        "地缘政治",
+        "经济金融",
+        "能源"
       ],
       "impact_level": "现象级",
       "sources": [
         {
-          "name": "凤凰网",
-          "url": "https://news.ifeng.com/c/8vrg68ilR1j"
+          "name": "BBC",
+          "url": "https://www.bbc.co.uk/news/articles/c0qxew81y83o"
         },
         {
-          "name": "BBC",
-          "url": "https://www.bbc.co.uk/news/articles/c0qxew81y83o?at_medium=RSS&at_campaign=rss"
+          "name": "NYTimes",
+          "url": "https://www.nytimes.com/2026/08/24/world/middleeast/iran-sanctions-economy-us-trump.html"
+        },
+        {
+          "name": "财新网",
+          "url": "https://database.caixin.com/2026-08-25/102477599.html"
+        },
+        {
+          "name": "凤凰网",
+          "url": "https://news.ifeng.com/c/8vsCC08eTTT"
         }
       ]
     },
     {
-      "title": "美威胁对加汽车加征50%关税",
-      "summary": "美国总统特朗普在贸易战中威胁对加拿大所有汽车和卡车加征50%关税，此举将严重打击加拿大汽车产业，并进一步加剧美加贸易紧张关系。此前美国已对加拿大商品加征广泛关税，加拿大采取反制措施。新威胁可能影响全球汽车供应链及北美经济，两国谈判陷入僵局。",
-      "reason": "美加贸易战升级，50%汽车关税将冲击北美产业链和全球市场。",
+      "title": "美加贸易战升级，威胁50%汽车关税",
+      "summary": "特朗普在美加贸易谈判破裂后，威胁对加拿大所有汽车和卡车征收50%关税。加拿大已采取对等反制措施，两国关税战全面爆发。分析认为，美国关税可能使加拿大企业失去美国市场，威胁数万工作岗位，并推高美国国内物价。贝森特干预债市效果不明，市场担忧贸易战拖累全球经济。加拿大正在研究反制措施，可能涉及能源出口。",
+      "reason": "全球两大经济体贸易战升级，影响北美产业链和全球贸易秩序。",
       "impact_areas": [
-        "经济金融"
+        "经济金融",
+        "地缘政治"
       ],
-      "impact_level": "重大",
+      "impact_level": "现象级",
       "sources": [
         {
           "name": "Reuters",
-          "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPeHRsVm1PblBZVy1Kb0lNOVdrZ3E1dVItdjNHazBSVWFOc25tWHluRU81c3ZRNzB0Y2c4eUlmX2dzWE0yY2FNV0xqaG4zcDVRWVhvVGhleTFIVExKYVRqeVUxazBGNzBuSVBabzczRFpxdi1lVF9GdDZiQk55ZDJzMThwMEJIcGxrSTNncDg1aUU0TkxUTEc1a19rN0lnNFVFQ3F3V3g1UFlGcE1lNm9pOW84MVpDd3Y3VEFvYk9LOXVUUTN3Z2ZvX1FQR0RoemtwRUlvdWVoSQ?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPeHRsVm1PblBZVy1Kb0lNOVdrZ3E1dVItdjNHazBSVWFOc25tWHluRU81c3ZRNzB0Y2c4eUlmX2dzWE0yY2FNV0xqaG4zcDVRWVhvVGhleTFIVExKYVRqeVUxazBGNzBuSVBabzczRFpxdi1lVF9GdDZiQk55ZDJzMThwMEJIcGxrSTNncDg1aUU0TkxUTEc1a19rN0lnNFVFQ3F3V3g1UFlGcE1lNm9pOW84MVpDd3Y3VEFvYk9LOXVUUTN3Z2ZvX1FQR0RoemtwRUlvdWVoSQ"
+        },
+        {
+          "name": "NYTimes",
+          "url": "https://www.nytimes.com/2026/08/25/world/canada/trump-carney-trade-war-tariffs.html"
+        },
+        {
+          "name": "凤凰网",
+          "url": "https://news.ifeng.com/c/8vsG4UnSQvI"
         }
       ]
     },
     {
-      "title": "英国首相访乌承诺持续支持",
-      "summary": "英国首相伯纳姆在乌克兰独立日期间访问基辅，承诺尽管俄罗斯发出“蛮横威胁”，仍将坚定支持乌克兰。法国也宣布加强支持。乌克兰独立日之际，俄罗斯加大警告力度，西方与俄罗斯对抗进一步升级。此次访问显示欧洲主要国家在援乌问题上的立场持续强化。",
-      "reason": "英国首相在俄乌冲突关键节点访乌，欧洲援乌立场再获确认，影响俄乌战局走向。",
+      "title": "英国首相访乌，俄方威胁",
+      "summary": "英国新任首相伯纳姆抵达乌克兰访问，承诺继续支持乌克兰，尽管俄方发出'无礼威胁'。英国同时宣布向乌克兰提供'风暴之影'导弹生产技术。俄方则加强警告，称此举将导致冲突升级。国际社会关注俄乌战局走向及北约与俄罗斯直接对抗风险。乌克兰方面对英国的支持表示感谢，并呼吁更多军事援助。",
+      "reason": "俄乌冲突关键节点，英国新首相首次访乌并加大军事支持，局势再度紧张。",
       "impact_areas": [
-        "地缘",
-        "政治"
+        "地缘政治",
+        "国际关系"
+      ],
+      "impact_level": "现象级",
+      "sources": [
+        {
+          "name": "BBC",
+          "url": "https://www.bbc.co.uk/news/articles/clyqypkrzq5o"
+        },
+        {
+          "name": "NYTimes",
+          "url": "https://www.nytimes.com/2026/08/24/world/europe/uk-andy-burnham-ukraine-russia.html"
+        },
+        {
+          "name": "央视网",
+          "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5ZOC0wVURYdE9iR3dfSXJXV2ZtRUN2Sm1yU011YWxPUXgwV1ptdWdDbElCSGZKTzM5TXBQelduMnlnVVlzMUF3NE51S1NoVktiaFJGOWpFMWNROVVnRTM3OFN4RXZEUWNxQ0xOalA5R3RKRjJHMy1sTw"
+        }
+      ]
+    },
+    {
+      "title": "美国撤销叙利亚支恐认定",
+      "summary": "美国政府正式宣布撤销叙利亚'支持恐怖主义国家'的认定。此举是中东外交格局的重大转变，为叙利亚重返国际社会铺路。以色列与叙利亚在美国斡旋下举行会谈，试图缓解边境紧张。分析认为，此举可能重塑中东地缘平衡，影响美国与地区盟友的关系。叙利亚政府对此表示欢迎，而部分反对派则担忧美国让步过大。",
+      "reason": "美国中东政策重大转向，影响叙利亚局势及地区力量平衡。",
+      "impact_areas": [
+        "地缘政治",
+        "国际关系"
       ],
       "impact_level": "重大",
       "sources": [
         {
           "name": "BBC",
-          "url": "https://www.bbc.co.uk/news/articles/clyqypkrzq5o?at_medium=RSS&at_campaign=rss"
+          "url": "https://www.bbc.co.uk/news/articles/c33knmyl0y5o"
+        },
+        {
+          "name": "央视网",
+          "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5pTzlOQWlRVER3S2hydmt1Y2Zab0lmM1JzNkpzUjA0Q2hhOVE0WjdaLTNCRmFzLWZiUHJ6dENsRGFLUTk5VjdJRWRYbnpMS0R4bkh6WkhYUDYtVEpIWVpNN2MycjZMR0d0RWxwWWNEUnFzVG5IYU4wQQ"
         }
       ]
     },
     {
-      "title": "美国撤销叙利亚支恐国家认定",
-      "summary": "美国政府宣布正式撤销叙利亚“支持恐怖主义国家”认定。此举被视为美国调整中东政策的重要信号，可能为叙利亚外交关系正常化铺路。但叙利亚问题复杂，美国内部及盟友对此存在争议。撤销认定后，美国对叙制裁可能部分解除，影响地区力量平衡。",
-      "reason": "美国撤销叙利亚支恐认定，中东地缘格局出现重大调整信号。",
+      "title": "长征六号丙一箭七星发射成功",
+      "summary": "8月25日，长征六号丙遥一运载火箭在太原卫星发射中心成功发射，将七颗卫星送入预定轨道。这是中国新一代运载火箭的又一次成功飞行，展示了快速发射能力。此次任务包含多颗商业卫星，标志中国商业航天进入密集发射阶段。此次发射成功进一步巩固了中国在商业航天领域的竞争力。",
+      "reason": "中国航天重大进展，提升商业发射竞争力，多源报道。",
       "impact_areas": [
-        "地缘",
-        "政治"
+        "科技",
+        "航天"
       ],
       "impact_level": "重大",
       "sources": [
         {
           "name": "澎湃新闻",
-          "url": "https://m.thepaper.cn/detail/33844126"
+          "url": "https://m.thepaper.cn/detail/33845238"
+        },
+        {
+          "name": "36氪",
+          "url": "https://www.36kr.com/newsflashes/3954405054463362"
+        },
+        {
+          "name": "新浪财经",
+          "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1RWlNUdDZpSmNScFF3NDV0clhoV2l6akd6LVZmMVlFR29vVWRicmNyNTZZWlc5NmloczRPVmRTa29uV0o4VXI4YVhVdGczQXV6YzBLVW5PVXZzTWtSVGVzUzJ6MVpoQ2l3UnVVaWFnRzQtbFU4OUhSck9SSnU"
         }
       ]
     },
     {
-      "title": "国管公积金新政 首套最高贷340万",
-      "summary": "据财新网报道，国管公积金发布新政，首套房最高可贷款340万元。该政策将显著降低刚需购房者压力，尤其利好北京等房价较高地区。调整后贷款额度和条件可能有所放宽，预计将提振住房消费，对房地产市场产生积极影响。具体政策细节有待官方发布。",
-      "reason": "公积金贷款额度大幅上调，直接关系居民购房能力和房地产市场走势。",
+      "title": "特斯拉在华召回近300万辆汽车",
+      "summary": "因隐藏式车门把手存在安全隐患，特斯拉在中国召回近300万辆汽车。这是特斯拉在中国规模最大的召回之一，涉及多个车型。国家市场监管总局公告称，车辆在碰撞后车门可能无法打开，增加救援风险。特斯拉将通过OTA升级修复。此次召回影响范围广泛，引发对新能源汽车安全性的关注。",
+      "reason": "大规模召回影响数百万车主，凸显车辆安全与监管关注。",
       "impact_areas": [
-        "经济金融",
-        "社会"
+        "科技",
+        "产业",
+        "公共安全"
+      ],
+      "impact_level": "重大",
+      "sources": [
+        {
+          "name": "BBC",
+          "url": "https://www.bbc.co.uk/news/articles/c4g6ggdg030o"
+        }
+      ]
+    },
+    {
+      "title": "全球平均海温创历史新高",
+      "summary": "最新数据显示，全球平均海温达到历史新高，可能是上一个间冰期以来最暖海温。科学家警告，海洋热含量增加将加剧极端天气、珊瑚白化、海平面上升，并影响全球渔业和气候系统。这是气候危机的又一严峻信号。研究指出，海洋吸收了大量温室气体热量，其变暖趋势对地球生态系统的威胁不容忽视。",
+      "reason": "气候变化的里程碑数据，对全球生态和人类未来影响深远。",
+      "impact_areas": [
+        "生态环境",
+        "气候",
+        "公共卫生"
+      ],
+      "impact_level": "现象级",
+      "sources": [
+        {
+          "name": "澎湃新闻",
+          "url": "https://m.thepaper.cn/detail/33844778"
+        }
+      ]
+    },
+    {
+      "title": "高盛预测中国芯片供需缺口缩小",
+      "summary": "高盛报告预测，未来10年中国先进制程芯片供需缺口将缩小至34%。随着国产替代加速和产能扩张，中国芯片自给率有望显著提升。但美国出口管制和先进设备获取仍构成挑战。这一预测影响全球半导体产业格局和投资方向。中国芯片产业在成熟制程方面已取得进展，但在尖端领域仍需突破。",
+      "reason": "半导体产业关键预测，影响科技自主和全球芯片市场。",
+      "impact_areas": [
+        "科技",
+        "经济金融"
       ],
       "impact_level": "重大",
       "sources": [
         {
           "name": "财新网",
-          "url": "https://finance.caixin.com/2026-08-25/102477565.html"
+          "url": "https://www.caixin.com/2026-08-25/102477605.html"
         }
       ]
     },
     {
-      "title": "人形机器人运动会考实操",
-      "summary": "第二届世界人形机器人运动会举行，本届赛事重点考察人形机器人在真实工业场景中的灵巧操作能力。比赛项目更贴近实际应用，许多机器人已“上岗”进行焊接、装配等任务。专家认为，人形机器人正加速从实验室走向工业应用，但全面普及仍需解决成本与可靠性问题。",
-      "reason": "人形机器人技术进展显著，工业落地加速，代表未来产业方向。",
+      "title": "基因编辑患儿死亡引美方关注",
+      "summary": "一名儿童在中国接受基因编辑治疗后死亡，引发美国两名众议员关注，提议加强对中国临床试验数据的审查。该事件涉及基因编辑技术的安全性和伦理问题，可能影响中美在生物医药领域的合作和监管政策。中国监管机构已介入调查，但具体细节尚未公开。此事件再次引发对基因编辑技术临床应用边界的讨论。",
+      "reason": "基因编辑安全事件引发国际关注，关乎生命伦理和监管。",
+      "impact_areas": [
+        "科技",
+        "医疗卫生",
+        "国际关系"
+      ],
+      "impact_level": "重大",
+      "sources": [
+        {
+          "name": "财新网",
+          "url": "https://www.caixin.com/2026-08-25/102477576.html"
+        }
+      ]
+    },
+    {
+      "title": "人形机器人运动会走向工业场景",
+      "summary": "第二届世界人形机器人生运动会上，人形机器人展示了400米障碍赛、灵巧操作等能力，加速走向工业场景。北京、上海等地已开始部署人形机器人进入工厂实训。专家认为，机器人运动会是技术验证平台，推动人形机器人从实验室走向产业化。多家企业展示了在汽车制造、物流等领域的最新应用。",
+      "reason": "人形机器人产业进展，预示未来劳动力结构变革。",
       "impact_areas": [
         "科技",
         "产业"
@@ -96,74 +201,11 @@
       "sources": [
         {
           "name": "央视网",
-          "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBLOEpBVlg0dzBudFpZejY4Q3NhSFRfbjN5eDlUdnhFVnc3VnZuc1ZsVnhJbTZ5MXVoOF9UZ19CblZSdm1VRExPUDNqaGZNQWNyeENYUGFNQzJkdWRGajFfcktnTlBpY2tMQ01tTURBeGhvMjRTb2hiUQ?oc=5"
-        }
-      ]
-    },
-    {
-      "title": "英伟达Groq机架年内上线",
-      "summary": "英伟达表示，此前以200亿美元收购的AI芯片初创公司Groq的机架产品将在今年内上线。Groq以高性能推理芯片著称，此次整合将加强英伟达在AI推理市场的竞争力。该产品有望为大规模AI应用提供更强算力支撑，并改变AI芯片市场格局。",
-      "reason": "英伟达完成200亿美元收购并推出新产品，巩固其AI算力主导地位。",
-      "impact_areas": [
-        "科技",
-        "产业"
-      ],
-      "impact_level": "重大",
-      "sources": [
-        {
-          "name": "36氪",
-          "url": "https://www.36kr.com/newsflashes/3954139267890566"
-        }
-      ]
-    },
-    {
-      "title": "Meta将推AI代理新平台",
-      "summary": "Meta计划在未来几周内推出名为“HATCH”的AI代理平台。该平台将允许开发者创建和部署AI代理，进一步扩展Meta在人工智能领域的布局。此举将与OpenAI、谷歌等巨头展开直接竞争，推动AI代理生态发展。具体功能和定价尚未公布。",
-      "reason": "Meta入局AI代理平台，可能重塑AI应用生态，科技行业竞争加剧。",
-      "impact_areas": [
-        "科技"
-      ],
-      "impact_level": "重大",
-      "sources": [
-        {
-          "name": "36氪",
-          "url": "https://www.36kr.com/newsflashes/3954130545147009"
-        }
-      ]
-    },
-    {
-      "title": "美拟撤销20万商务旅游签证",
-      "summary": "美国官员表示，政府正准备撤销多达20万个商务和旅游签证。这是美国收紧移民和签证政策的最新举措，可能影响大量计划赴美的外国商务人士和游客。此举或将对美国旅游业、国际商务往来和外交关系产生负面影响，并引发相关国家不满。",
-      "reason": "大规模撤销签证影响人员往来与经济交流，显示美国政策急剧收紧。",
-      "impact_areas": [
-        "政治",
-        "经济金融",
-        "社会"
-      ],
-      "impact_level": "重大",
-      "sources": [
-        {
-          "name": "36氪",
-          "url": "https://www.36kr.com/newsflashes/3954143740066948"
-        }
-      ]
-    },
-    {
-      "title": "委内瑞拉强震遇难超6500人",
-      "summary": "委内瑞拉发生强震，遇难人数已上升至6509人。救援工作仍在进行，伤亡数字可能继续增加。此次地震对该国基础设施和民生造成毁灭性打击，国际社会已开始提供援助。抗震救灾和灾后重建将成为委内瑞拉政府的严峻考验。",
-      "reason": "重大自然灾害造成重大人员伤亡，人道主义危机引发国际关注。",
-      "impact_areas": [
-        "社会"
-      ],
-      "impact_level": "重大",
-      "sources": [
-        {
-          "name": "新浪财经",
-          "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPV2ttbHlnSGExay1VM0xZQjFaUjZkQ19BUmx5Wl9VRHJhTUwwR052NnVjaGg2dXRsMVJEZE1ZUUcwYlh5OGVpUlIybEE0UVVRWkJTRl82a2syNXJxdE5tWXZRVXlCYXBIaWtMV1dUS191dVZPdHgwZ3VwN3BZSW56Qg?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBLOEpBVlg0dzBudFpZejY4Q3NhSFRfbjN5eDlUdnhFVnc3VnZuc1ZsVnhJbTZ5MXVoOF9UZ19CblZSdm1VRExPUDNqaGZNQWNyeENYUGFNQzJkdWRGajFfcktnTlBpY2tMQ01tTURBeGhvMjRTb2hiUQ"
         }
       ]
     }
   ],
-  "total_fetched": 180,
-  "generated_at": "2026-08-25T07:26:46.500976+08:00"
+  "total_fetched": 266,
+  "generated_at": "2026-08-25T12:26:17.591510+08:00"
 }
