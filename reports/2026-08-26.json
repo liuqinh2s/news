@@ -2,12 +2,44 @@
   "date": "2026-08-26",
   "news": [
     {
-      "title": "美加贸易战 加拿大反制50%",
-      "summary": "加拿大宣布对美国商品实施“对等反制”关税，税率最高达50%，涉及商品价值约200亿美元。特朗普此前威胁将安大略湖更名“美国湖”，加方斥为闹剧。这标志着传统盟友间贸易摩擦全面升级为贸易战，汽车、乳制品、木材等行业首当其冲，北美供应链面临重构。加拿大各省态度分化，工业大省担忧受损，资源省支持强硬回应。市场分析认为，贸易战将推高两国物价，削弱北美企业竞争力，并影响全球贸易秩序。目前双方均未让步，谈判僵局短期难破。",
-      "reason": "美加贸易战全面升级，加拿大反制关税高达50%，影响北美与全球供应链，多家媒体头条关注。",
+      "title": "中尼边境洪灾致重大伤亡",
+      "summary": "2026年8月26日，西藏日喀则市吉隆县发生大规模泥石流灾害，造成重大人员伤亡和失联。国家主席习近平作出重要指示，要求全力救援。国家减灾委启动自然灾害救助一级应急响应，三部门调拨3万件中央救灾物资，两部门紧急拨付1.2亿元救灾资金。西藏军区派出应急救援兵力赶赴现场。与此同时，尼泊尔北部同源山洪已造成17人死亡，数百游客失联。气象部门预计吉隆未来4天有持续性降水，救援难度加大。此次灾害发生于中尼边境地区，跨境影响显著，灾后重建和跨境协调将面临长期挑战。",
+      "reason": "西藏吉隆泥石流致重大伤亡，中央专项部署，跨境灾害引发多国关注，舆论热度极高。",
+      "impact_areas": [
+        "社会",
+        "应急管理"
+      ],
+      "impact_level": "现象级",
+      "sources": [
+        {
+          "name": "澎湃新闻",
+          "url": "https://m.thepaper.cn/detail/33853124"
+        },
+        {
+          "name": "凤凰网",
+          "url": "https://news.ifeng.com/c/8vuRO9vNzxb"
+        },
+        {
+          "name": "财新网",
+          "url": "https://photos.caixin.com/2026-08-26/102478231.html"
+        },
+        {
+          "name": "BBC",
+          "url": "https://www.bbc.co.uk/news/articles/cx2zyerv2lmo?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "name": "Reuters",
+          "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQOTR0bUtpUHhsbWhHTTdiWFRWbnZFQk5GcEdFUXhVNWliYUVHOFdpNzdRaEN4ZmMxVE5UdGtDZnViV0dtOEJydjNROC14UE5KT09pVTg1QjdaajlvZzVsMGFiNk5HT2NodkpONnVYMThRNG1La0dBaW4zbnZFVzJUdVZoWXl5My1HSHh3UG1fWmtISDRBbDdVNkdwVk5DWmJOQUVzZ2JkYXlVbzV3M011RFlReWI5bFRlS2pzZ0h2RWszMXhka3c?oc=5"
+        }
+      ]
+    },
+    {
+      "title": "加拿大对美加征50%报复性关税",
+      "summary": "加拿大总理卡尼政府8月26日宣布，将对价值200亿美元的美国商品加征报复性关税，税率最高达50%，以回应特朗普政府此前对加拿大商品实施的新关税。这是美加贸易战的重要升级。民调显示逾七成加拿大人支持退出对美谈判，加拿大政坛罕见团结。分析认为，加拿大作为美国最紧密盟友的强力反制，将冲击北美供应链，推高两国消费者成本，同时检验特朗普关税政策的政治承受力。美加贸易战走向对全球贸易格局具有示范效应。",
+      "reason": "加拿大以高达50%关税反制美国，美加贸易战全面升级，将冲击全球供应链与市场预期。",
       "impact_areas": [
         "经济金融",
-        "政治"
+        "地缘"
       ],
       "impact_level": "现象级",
       "sources": [
@@ -18,158 +50,114 @@
         {
           "name": "Reuters",
           "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQYnllQWZiMlB2MERDOUJLLWZUdGs0SjFhaDVKcVJwNWVGb0FhZ2pramhtQVJlT2l0eUlBREV1YUgzTEgxZzliNjVQR1hRTWdOdGJXSFhlamF3LXl0dGRmZjg0c1NwWEZKNDRiRkgyZG5QUmw1UlZ3dDA2ZlNtMTNabUVxc0UzdDRsNTM1b2hPWHlTZjVadWxJUTRLWGVuM1A3eFQxU21lQm1RY3hpMS1URUcxX1lGQktwZnR6SFhkOA?oc=5"
-        },
-        {
-          "name": "凤凰网",
-          "url": "https://news.ifeng.com/c/8vtumOaZQ1V"
         }
       ]
     },
     {
-      "title": "美中情局局长访俄 情报接触",
-      "summary": "据多家媒体报道，美国中央情报局局长已抵达莫斯科进行未事先宣布的会谈，俄方证实此次访问涉及情报部门间接触。这是美俄在乌克兰危机后罕见的高层直接对话，讨论内容可能包括核风险管控、囚犯交换和地区安全等敏感议题。访问的保密性凸显两国关系的紧张程度，但即使有限接触也被视为降低误判风险的积极信号。分析人士指出，此次会谈未必能改变美俄对抗格局，但可能为后续更高级别沟通铺路。",
-      "reason": "美俄情报高层罕见直接接触，地缘敏感，多源密集报道，可能影响大国博弈走向。",
+      "title": "CIA局长秘访莫斯科与俄接触",
+      "summary": "美国中情局局长据报于未宣布的情况下访问莫斯科，俄方证实此次访问涉及情报部门间接触。这是近年美俄高层罕见直接会晤，外界猜测可能围绕乌克兰局势、核风险管控及情报交换展开。与此同时，乌方预警俄将扩大动员规模。此次秘密访问表明，即便在公开对抗背景下，美俄仍有沟通渠道，或为新一轮外交博弈拉开序幕。对全球地缘格局影响重大。",
+      "reason": "美中情局长秘访莫斯科，美俄罕见高层接触，或影响乌克兰战局与核风险管控，地缘信号极强。",
       "impact_areas": [
-        "政治",
-        "地缘"
+        "地缘",
+        "政治"
       ],
       "impact_level": "重大",
       "sources": [
-        {
-          "name": "央视网",
-          "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1hLUJ3VFVZdWhpQ2pkejJyNG1yTjVyT3dHYTFkLWZJYU1jQmxXMFRteWFfdmZqMmgxREFpcnRVX3BfLVZIbE90Skk1Zi00VUFnRGI0b2ttc2hmVGxfYkJCQnFDWkcta0Vzc0FiQ1RNOUpmWUNIRlczNQ?oc=5"
-        },
         {
           "name": "BBC",
           "url": "https://www.bbc.co.uk/news/articles/c87vg9x5d7do?at_medium=RSS&at_campaign=rss"
         },
         {
-          "name": "澎湃新闻",
-          "url": "https://m.thepaper.cn/detail/33851866"
-        }
-      ]
-    },
-    {
-      "title": "美国暂停全球签证预约",
-      "summary": "特朗普政府已暂停全球范围内美国签证申请人的预约安排。此举影响几乎所有希望赴美的移民、学生、工人和游客，具体恢复时间未公布。批评者认为这将是移民政策的进一步收紧，并可能冲击美国高等教育、科技企业用工和家庭团聚。由于缺乏提前通知，多国申请人面临行程中断，美国驻外使领馆的签证业务陷入停滞。这是特朗普政府移民政策的最新重大动作，预计将引发法律挑战和国际反弹。",
-      "reason": "美国全球签证停发，影响跨国人员流动，对教育、科技、旅游等产业冲击巨大。",
-      "impact_areas": [
-        "政治",
-        "社会",
-        "经济金融"
-      ],
-      "impact_level": "重大",
-      "sources": [
-        {
-          "name": "Reuters",
-          "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQajVoZFpjTldUZ2dwRVlDSWdVZWplLWhwYVg4b0ZfVUtYM3doUnZ4eE95OHdYSVFIOUM1OGJKODdqcXBIdndpaDJMRS12M21QaG92cDVJTVFsMk1FUXVtV1pkTVBmdWNpMUdzdUtnWEdOc1hYam9GNWxKd3lzNDFSdzdvN0NuTmNLbjV0LUxXdmltR1B6Q3BrdnlMVFhrSUJPWU1aUlFnR1ZibkdfeEVsTDFrbUR5d0JQMVBZazhhSk5OMXM?oc=5"
-        }
-      ]
-    },
-    {
-      "title": "台风紫檀再登广东吴川",
-      "summary": "台风“紫檀”在广东吴川沿海再次登陆，中心附近最大风力维持台风级，广东、海南、广西等地迎来强风暴雨。多地中小学停课，部分航班、列车取消，渔船全部回港避风。此前“紫檀”已给菲律宾和华南沿海带来严重灾害，此次二次登陆可能引发城市内涝、山洪和地质灾害。应急管理部门已调派救援力量前置，提醒公众减少外出，防范次生灾害。",
-      "reason": "强台风二次登陆人口密集的广东沿海，直接威胁生命财产安全，社会关注度高。",
-      "impact_areas": [
-        "社会",
-        "生态"
-      ],
-      "impact_level": "重大",
-      "sources": [
-        {
-          "name": "澎湃新闻",
-          "url": "https://m.thepaper.cn/detail/33851806"
-        },
-        {
-          "name": "凤凰网",
-          "url": "https://news.ifeng.com/c/8vtwItgHczx"
-        }
-      ]
-    },
-    {
-      "title": "霍尔木兹拟设临时航道",
-      "summary": "伊朗与阿曼持续磋商霍尔木兹海峡航运安全安排，拟设立“临时联合海上走廊”，阿曼外交大臣表示有望很快公布细节，伊朗方面强调该临时航线仅限商船通行。此举正值美国加大对伊朗“经济D-Day”制裁，试图切断伊朗石油出口。霍尔木兹海峡承载全球约三分之一海运石油贸易，任何通航规则变化都可能引发油价剧烈波动。目前局势尚不明朗，国际能源市场保持高度敏感。",
-      "reason": "霍尔木兹海峡临时航道关乎全球石油运输命脉，油价敏感，属重大地缘与能源信号。",
-      "impact_areas": [
-        "经济金融",
-        "地缘"
-      ],
-      "impact_level": "重大",
-      "sources": [
-        {
           "name": "财新网",
-          "url": "https://database.caixin.com/2026-08-26/102477890.html"
+          "url": "https://international.caixin.com/2026-08-26/102478058.html"
         },
         {
           "name": "央视网",
-          "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9Idkh4M0ZfbzBucUxRNGt3M3lMVmpnUFVTX2xKTFAweFpDU3VxcWRyMDFZaHNnbWZiNkZnOG82eWpDZGNkcjYtdHAxZmItZk1SR3V0V191S2h1ZVU0TWE0Qm5sY0VfN2p4U1FCS3pYVTlhRko3dWNSZA?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1hLUJ3VFVZdWhpQ2pkejJyNG1yTjVyT3dHYTFkLWZJYU1jQmxXMFRteWFfdmZqMmgxREFpcnRVX3BfLVZIbE90Skk1Zi00VUFnRGI0b2ttc2hmVGxfYkJCQnFDWkcta0Vzc0FiQ1RNOUpmWUNIRlczNQ?oc=5"
         }
       ]
     },
     {
-      "title": "人形机器人百米8.86秒破纪录",
-      "summary": "国产人形机器人以8.86秒完成百米赛跑，刷新世界纪录。这一成绩已超越人类男子百米世界纪录（9.58秒），标志着人形机器人在运动控制、轻量化设计和能量管理上取得飞跃。测试在受控条件下进行，但展示出的速度与稳定性让业界对具身智能在工业、物流、救援等场景的应用预期升温。专家提醒，实验室成绩与复杂真实环境仍有距离，但技术迭代速度超出多数人预期。",
-      "reason": "人形机器人百米速度超越人类纪录，具身智能里程碑，引发科技与产业广泛讨论。",
+      "title": "OpenAI展示自研推理芯片",
+      "summary": "OpenAI 8月26日首次公开展示自研AI推理芯片成果，显示其正式进入AI芯片领域，与英伟达展开正面竞争。该芯片针对大模型推理场景优化，有望显著降低推理成本和能耗。OpenAI此举旨在减少对英伟达高性能GPU的依赖，并构建自主算力基础设施。若芯片量产，可能打破英伟达在AI算力市场的垄断地位，重塑全球AI产业链分工。对科技产业影响深远。",
+      "reason": "OpenAI自研芯片直接挑战英伟达，AI算力格局可能重塑，对全球科技产业影响深远。",
       "impact_areas": [
-        "科技",
-        "产业"
-      ],
-      "impact_level": "现象级",
-      "sources": [
-        {
-          "name": "财新网",
-          "url": "https://mini.caixin.com/2026-08-26/102477894.html"
-        }
-      ]
-    },
-    {
-      "title": "地震预警误报 官方回应",
-      "summary": "成都高新减灾研究所预警系统误报“四川长宁7.7级地震”，多地民众收到预警。中国地震局回应称系技术故障，并解释误报原因、预警信息审核流程和改进措施。事件暴露出民营地震预警系统与官方地震台网数据衔接的漏洞，引发公众对预警可靠性的质疑。官方承诺加强数据校验，避免类似事件重演。此次误报虽未造成直接伤亡，但对应急预警体系公信力的影响值得警惕。",
-      "reason": "地震预警系统误报冲击公共安全信任，官方回应引爆舆论，暴露防灾体系短板。",
-      "impact_areas": [
-        "社会",
         "科技"
       ],
       "impact_level": "重大",
       "sources": [
         {
-          "name": "澎湃新闻",
-          "url": "https://m.thepaper.cn/detail/33851172"
-        },
-        {
-          "name": "凤凰网",
-          "url": "https://news.ifeng.com/c/8vtolI904zz"
+          "name": "财新网",
+          "url": "https://www.caixin.com/2026-08-26/102478175.html"
         }
       ]
     },
     {
-      "title": "工信部推动力电池数字身份证",
-      "summary": "工信部表示，将研究起草动力电池退役相关行政法规，推行动力电池数字身份证管理制度。随着新能源汽车保有量突破千万辆级，动力电池“退役潮”临近，回收利用体系亟待规范。数字身份证将记录电池生产、使用、回收全生命周期信息，有助于提升退役电池梯次利用和再生利用效率，防范环保与安全隐患。新规预计影响电池企业、车企、回收商及金融机构，推动产业向循环经济转型。",
-      "reason": "动力电池退役立法与数字身份证将规范新能源回收产业，影响深远。",
+      "title": "特朗普称霍尔木兹水雷已清除",
+      "summary": "美国总统特朗普8月26日宣布，霍尔木兹海峡所有水雷已被清除。此前伊朗与阿曼也就海峡通行问题开启谈判并取得进展。霍尔木兹海峡承载全球约20%石油运输，此前美伊对峙一度引发供应中断担忧。水雷清除与谈判进展显著降低地区冲突风险，国际油价随之回落。但美国对伊朗的全面经济施压仍在持续，海峡长期的航道安全与地缘博弈风险尚未完全解除。",
+      "reason": "霍尔木兹海峡水雷清除及美伊谈判进展，直接关系全球石油运输安全，地缘风险释放。",
       "impact_areas": [
-        "科技",
-        "产业",
+        "地缘",
         "经济金融"
       ],
       "impact_level": "重大",
       "sources": [
         {
-          "name": "澎湃新闻",
-          "url": "https://m.thepaper.cn/detail/33851922"
+          "name": "BBC",
+          "url": "https://www.bbc.co.uk/news/articles/cwyzw836d05o?at_medium=RSS&at_campaign=rss"
         },
         {
-          "name": "36氪",
-          "url": "https://www.36kr.com/newsflashes/3955766838361478"
+          "name": "NYTimes",
+          "url": "https://www.nytimes.com/2026/08/26/world/middleeast/iran-oman-strait-hormuz.html"
         }
       ]
     },
     {
-      "title": "道交法拟上调电动自行车限速",
-      "summary": "道路交通安全法修订草案首次提请审议，拟将电动自行车限速由15公里/小时上调至20公里/小时。这是该法实施以来的首次大修，另有非机动车道规划、外卖车辆管理、行人保护等条款。全国电动自行车保有量已超3亿辆，限速调整直接影响日常通勤和外卖配送效率。支持者认为符合实际通行需求，反对者担忧事故风险上升。修法还需经过多次审议，最终版本仍可能调整。",
-      "reason": "道交法首次大修关系数亿电动自行车用户出行规则，社会影响面广。",
+      "title": "巴基斯坦医院火灾14名婴儿遇难",
+      "summary": "巴基斯坦首都伊斯兰堡一家医院8月26日发生火灾，造成至少14名新生儿死亡。大火发生在医院新生儿病房，多数婴儿因窒息或烧伤死亡。当地政府已展开调查，医院负责人被停职。事故发生后，救援人员紧急转移其他患者，起火原因初步判断为电线短路。此次事故暴露巴基斯坦医疗设施安全管理的严重漏洞，引发公众愤怒。国际社会对此表示哀悼。类似火灾在巴基斯坦时有发生，医疗安全体系亟待全面整改。",
+      "reason": "医院火灾致14名婴儿死亡，重大公共安全事故，引发国际社会广泛关注。",
+      "impact_areas": [
+        "社会"
+      ],
+      "impact_level": "重大",
+      "sources": [
+        {
+          "name": "央视网",
+          "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE42Qy1jNjJKLTlmMHY4dWFXQVBIV0NpVnFaUjRPZFB6V2s2cF9jbi1MNGVIaU95blo5ZktLRlRyT2l4Zk8wUnZkX3FCU1hLOWozb1V2WkN3RDFfQTFXcVRYamxvTm5ad0JjcEktRF93UE5PMmNZX2xmMw?oc=5"
+        },
+        {
+          "name": "NYTimes",
+          "url": "https://www.nytimes.com/2026/08/26/world/asia/pakistan-islamabad-hospital-fire.html"
+        }
+      ]
+    },
+    {
+      "title": "俄化工厂爆炸致7名中国公民遇难",
+      "summary": "俄罗斯远东地区一化工综合体8月26日发生爆炸，已造成7名中国公民遇难，另有9名中国公民失联。中国驻俄使领馆已启动应急机制，协助善后。俄方表示事故原因正在调查，可能涉及安全生产违规。该综合体主要生产化肥及化工原料，爆炸冲击波导致厂区建筑坍塌。这是近期涉及中国公民的海外严重安全事故之一，对外派人员安全和海外中资企业安全生产敲响警钟。",
+      "reason": "俄罗斯化工厂爆炸导致多名中国公民遇难，涉及海外中国公民安全，具有高新闻价值。",
       "impact_areas": [
         "社会",
-        "法律"
+        "国际"
+      ],
+      "impact_level": "重大",
+      "sources": [
+        {
+          "name": "澎湃新闻",
+          "url": "https://m.thepaper.cn/detail/33953695"
+        },
+        {
+          "name": "财新网",
+          "url": "https://international.caixin.com/2026-08-26/102478146.html"
+        }
+      ]
+    },
+    {
+      "title": "道交法大修拟上调电动车限速",
+      "summary": "《道路交通安全法》修正案草案8月26日提请审议，这是该法实施以来首次大修。草案拟将电动自行车最高限速由每小时15公里上调至20公里，同时强化对机动车辆和非机动车的安全监管。目前中国电动自行车保有量超3亿辆，新规将影响数亿人的日常出行，也为外卖、快递等依赖电动自行车的行业设定新标准。车速调整背后的安全与效率平衡，将成为社会讨论焦点。",
+      "reason": "道交法实施以来首次大修，调整电动自行车限速，关乎数亿人出行与相关行业。",
+      "impact_areas": [
+        "社会",
+        "交通"
       ],
       "impact_level": "重大",
       "sources": [
@@ -180,22 +168,41 @@
       ]
     },
     {
-      "title": "锂电池消费税前多家厂商涨价",
-      "summary": "国内锂电池消费税正式开征前夕，多家电池厂商宣布涨价。消费税将增加电池生产成本，涨价幅度预计覆盖成本增量并影响下游电动汽车、储能系统价格。同时，伊朗证实霍尔木兹海峡临时航线仅限商船通行，引发锂资源海运成本波动担忧。短期看，电池涨价可能削弱新能源车终端促销力度；长期看，将推动高能量密度电池研发和回收产业加快发展。",
-      "reason": "锂电池消费税开征引发行业涨价潮，直接影响新能源车与储能成本，市场信号明确。",
+      "title": "特斯拉在华遭遇大规模召回",
+      "summary": "特斯拉在中国正经历多事之秋：一方面，因车辆安全隐患面临大规模召回，涉及在华销售的多款车型；另一方面，特斯拉中国已辟谣关于数据中心关停和FSD入华无望的传闻，表示辅助驾驶招聘在加速。此次召回具体原因尚待公布，但可能涉及制动或自动驾驶系统。作为电动车标杆品牌，特斯拉在华接连遭遇监管、舆论和市场竞争压力，其市场份额与经营策略面临考验。",
+      "reason": "特斯拉在华大规模召回，叠加辟谣风波，反映其中国业务面临严峻挑战，影响新能源汽车格局。",
       "impact_areas": [
-        "经济金融",
+        "科技",
         "产业"
       ],
       "impact_level": "重大",
       "sources": [
         {
-          "name": "财新网",
-          "url": "https://www.caixin.com/2026-08-26/102478045.html"
+          "name": "BBC",
+          "url": "https://www.bbc.co.uk/news/articles/c9w4jx2rvgro?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "name": "澎湃新闻",
+          "url": "https://m.thepaper.cn/detail/33953809"
+        }
+      ]
+    },
+    {
+      "title": "智谱AI模型使用量超DeepSeek两倍",
+      "summary": "8月26日，神秘AI模型Ox Alpha被证实出自智谱，其使用量已超过DeepSeek两倍以上。此前Ox Alpha因能力出众引发社区热议，如今身份公开，显示智谱在大模型竞争中的技术野心。国产大模型市场格局可能随之生变：智谱通过新模型抢占用户和开发者生态，DeepSeek面临强劲挑战。这也反映了中国AI企业间竞争白热化的趋势，以及开源社区对大模型潜在力量的敏锐反应。",
+      "reason": "智谱大模型使用量超越DeepSeek，国产AI竞争格局生变，凸显中国大模型产业加速洗牌。",
+      "impact_areas": [
+        "科技"
+      ],
+      "impact_level": "重大",
+      "sources": [
+        {
+          "name": "36氪",
+          "url": "https://www.36kr.com/newsflashes/3956240168598661"
         }
       ]
     }
   ],
-  "total_fetched": 269,
-  "generated_at": "2026-08-26T12:27:41.572521+08:00"
+  "total_fetched": 304,
+  "generated_at": "2026-08-26T19:29:13.937872+08:00"
 }
