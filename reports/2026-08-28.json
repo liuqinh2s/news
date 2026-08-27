@@ -1,0 +1,173 @@
+{
+  "date": "2026-08-28",
+  "news": [
+    {
+      "title": "尼泊尔西藏山洪死亡359人",
+      "summary": "尼泊尔北部与西藏边境地区突发山洪，死亡人数已升至359人，另有大量人员失踪，道路桥梁被毁，数千人被困。救援人员正在恶劣条件下搜寻生还者。专家指出，气候变化导致的冰川湖溃决风险上升，本次洪水发生速度极快，预警系统未能有效应对。灾害对当地交通、电力和通信造成严重破坏，尼泊尔政府已宣布紧急救援。",
+      "reason": "重大跨境自然灾害，多国媒体连续报道，死亡数字持续上升，引发国际关注和气候风险讨论。",
+      "impact_areas": [
+        "社会",
+        "生态",
+        "地缘"
+      ],
+      "impact_level": "现象级",
+      "sources": [
+        {
+          "name": "凤凰网",
+          "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE1UcXVzX3Z2T3VSQk5oeWhKS0JCN1JoNTBST1l6MTNsNnhXeWlQcDBrQTZrMGlTQlkzaGFEZEpPQ19mbk51Mm01Yg?oc=5"
+        },
+        {
+          "name": "BBC",
+          "url": "https://www.bbc.co.uk/news/articles/cd948kn02e5o?at_medium=RSS&at_campaign=rss"
+        }
+      ]
+    },
+    {
+      "title": "4万亿算力网开建",
+      "summary": "央视网报道，国家4万亿算力网项目正式开建，国产算力生态加速成型。该工程将打通全国算力资源，构建一体化算力网络，对AI大模型训练、东数西算等战略有直接支撑作用。此举意味着中国在算力基础设施领域迈出关键一步，有望带动芯片、服务器、光模块等产业链发展。",
+      "reason": "国家级算力基础设施建设，规模达4万亿，对科技产业和数字经济发展具有深远影响。",
+      "impact_areas": [
+        "科技",
+        "经济金融"
+      ],
+      "impact_level": "重大",
+      "sources": [
+        {
+          "name": "央视网",
+          "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5wN29oYkQzRFpReUp6c09OYW9hQ1owVnlOTzJMYmcybWZaY1VaSWFzMVUxU0hPX3ptYllDU3VLcS1DQU9qZm1wVXg4dWkxaVJHOHZMQmZvT0x1Rjlia2Fwb2lZV0ZkYXhtM1U1MkVOUENyM3Z3QWUxUg?oc=5"
+        }
+      ]
+    },
+    {
+      "title": "英伟达暂停AI分成协议",
+      "summary": "据36氪报道，英伟达据悉暂停与多家人工智能企业的收益分成协议。此前英伟达通过投资和绑定协议支持AI公司发展，如今暂停可能反映其战略调整。该变化可能影响相关AI企业的算力成本和商业模式，同时引发市场对AI算力竞争格局的重新评估。",
+      "reason": "英伟达作为AI算力核心供应商，战略调整直接影响全球AI产业链格局，市场影响广泛。",
+      "impact_areas": [
+        "科技",
+        "经济金融"
+      ],
+      "impact_level": "重大",
+      "sources": [
+        {
+          "name": "36氪",
+          "url": "https://www.36kr.com/newsflashes/3958379848039561"
+        }
+      ]
+    },
+    {
+      "title": "卡塔尔总理访伊斡旋",
+      "summary": "伊朗战争临近六个月之际，卡塔尔首相访问德黑兰，试图斡旋局势。伊朗官员同时表示，已准备好一份对美条件清单，表明伊朗愿意通过外交途径解决冲突，但附带条件。国际社会关注此访能否为停火谈判打开窗口。同日有报道称CIA局长秘密访问莫斯科，中东局势复杂化。",
+      "reason": "中东战争进入关键节点，卡塔尔斡旋和伊朗表态释放外交信号，直接影响全球地缘稳定。",
+      "impact_areas": [
+        "地缘",
+        "政治"
+      ],
+      "impact_level": "重大",
+      "sources": [
+        {
+          "name": "凤凰网",
+          "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE5xanQtMmxEajhXT2hZRGJjaVdJcWpDUmhzTEdOSkI0T2FuS0c5YVdoZWY2SFFSdWJIbUxySUNDOWdXbmY0bmJCRzhaT2I?oc=5"
+        }
+      ]
+    },
+    {
+      "title": "特朗普更名安大略湖",
+      "summary": "美国总统特朗普签署行政命令，将五大湖之一的安大略湖更名为“美国湖”（Lake America），此举立即引发加拿大及国际社会强烈反应。安大略湖为美加共有，更名缺乏加拿大同意，被批评为单边主义行为。事件可能导致美加关系进一步紧张，并引发关于地理命名主权的争议。",
+      "reason": "美国单方面对共有地理实体更名，冲击美加关系和国际法理，引发全球舆论哗然。",
+      "impact_areas": [
+        "政治",
+        "地缘"
+      ],
+      "impact_level": "现象级",
+      "sources": [
+        {
+          "name": "BBC",
+          "url": "https://www.bbc.co.uk/news/articles/ckgwdn1g58yo?at_medium=RSS&at_campaign=rss"
+        }
+      ]
+    },
+    {
+      "title": "王毅会美驻华大使",
+      "summary": "中国外交部长王毅会见美国驻华大使，表示中美应加强沟通、为两国高层交往排除干扰。此举被视为中美关系企稳的又一信号，也为未来可能的元首会晤铺路。当前两国在贸易、科技、台湾等问题上仍存在分歧，本次会见能否落实具体成果有待观察。",
+      "reason": "中美外交高层互动，对双边关系和全球局势具有风向标意义，备受国际关注。",
+      "impact_areas": [
+        "政治",
+        "外交"
+      ],
+      "impact_level": "重大",
+      "sources": [
+        {
+          "name": "财新网",
+          "url": "https://international.caixin.com/2026-08-28/102478774.html"
+        }
+      ]
+    },
+    {
+      "title": "多城稳楼市蓄势金九银十",
+      "summary": "据财新《财经早知道》报道，中国多地近期密集出台稳楼市政策，旨在为传统“金九银十”销售旺季蓄势。政策包括降低首付比例、放松限购、发放购房补贴等。在房地产销售持续低迷的背景下，政府加大政策托底力度，以稳定市场预期，支撑经济复苏。",
+      "reason": "房地产是经济支柱，多地政策密集出台释放明确托底信号，对宏观经济和金融市场影响重大。",
+      "impact_areas": [
+        "经济金融",
+        "社会"
+      ],
+      "impact_level": "重大",
+      "sources": [
+        {
+          "name": "财新网",
+          "url": "https://finance.caixin.com/2026-08-28/102478769.html"
+        }
+      ]
+    },
+    {
+      "title": "AI芯片曦望融资20亿",
+      "summary": "AI芯片企业曦望宣布完成20亿元人民币融资，投后估值达200亿元。本轮融资将用于新一代AI芯片研发和量产。在中国算力需求爆发和国产替代背景下，AI芯片创业公司受到资本热捧，曦望的估值水平反映市场对国产AI算力前景的高度看好。",
+      "reason": "国产AI芯片重要融资事件，资本持续加码，反映科技自主和算力产业链高景气度。",
+      "impact_areas": [
+        "科技",
+        "经济金融"
+      ],
+      "impact_level": "重大",
+      "sources": [
+        {
+          "name": "财新网",
+          "url": "https://www.caixin.com/2026-08-28/102478786.html"
+        }
+      ]
+    },
+    {
+      "title": "中韩外交升温朝美接触",
+      "summary": "中韩建交34周年之际，两国外交沟通升温，同时美国与朝鲜酝酿接触，韩国试图强化存在感。东北亚外交格局出现新动态，中韩关系改善有助于区域经济合作，而朝美接触可能影响半岛无核化进程。各方互动频繁，区域安全架构面临重新调整。",
+      "reason": "东北亚地缘格局生变，中韩、朝美互动牵动区域安全与大国平衡，影响外溢明显。",
+      "impact_areas": [
+        "地缘",
+        "政治"
+      ],
+      "impact_level": "重大",
+      "sources": [
+        {
+          "name": "财新网",
+          "url": "https://international.caixin.com/2026-08-28/102478771.html"
+        }
+      ]
+    },
+    {
+      "title": "自动驾驶L3入法",
+      "summary": "中国将自动驾驶写入法律，标志着汽车行业正式进入“L3时刻”。法规明确了L3级自动驾驶的事故责任、上路规范和准入条件，为车企大规模部署高级辅助驾驶扫清制度障碍。此举将加速智能网联汽车商业化进程，并带动传感器、算法、高精地图等产业链发展。",
+      "reason": "自动驾驶法律空白被填补，为智能汽车产业确立规则，具有里程碑式的制度意义。",
+      "impact_areas": [
+        "科技",
+        "法律",
+        "产业"
+      ],
+      "impact_level": "重大",
+      "sources": [
+        {
+          "name": "雪球热帖",
+          "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1fb09uQW4yQU56VVFocTZsTkZ6dXlFc0c5MFM2czRuY1RSb0ZRYUJ3eE5KOS1UZ25HbmNpRU5wYnppVURWeFJzZER3d3hjVzM5NjhSSUVIMi00NnhaQ3N2R05TUUF5d3FqX1VGWGFPUzdjNHhiZDZGTA?oc=5"
+        }
+      ]
+    }
+  ],
+  "total_fetched": 158,
+  "generated_at": "2026-08-28T07:26:31.393057+08:00"
+}
