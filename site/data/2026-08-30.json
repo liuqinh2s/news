@@ -2,18 +2,47 @@
   "date": "2026-08-30",
   "news": [
     {
-      "title": "习近平出访上合峰会和吉、埃及",
-      "summary": "国家主席习近平离京出席2026年上海合作组织峰会，并对吉尔吉斯斯坦、埃及进行国事访问。此访将聚焦深化上合组织合作、推动共建'一带一路'与各国发展战略对接，并就中亚、中东等地区热点问题协调立场。上合组织正处于扩员关键期，峰会预计讨论新成员加入、安全合作与经贸便利化等议题。访问埃及将推动中埃在基础设施、能源、贸易投资等领域的合作。这是中国今年最重要的元首外交活动之一，对区域合作格局产生深远影响。",
-      "reason": "中国最高领导人出访上合峰会和两国，影响中亚中东外交格局，政治经济意义重大。",
+      "title": "中尼边境特大泥石流灾害",
+      "summary": "8月30日，中尼边境特大泥石流灾情持续升级。西藏吉隆县已确认16人遇难、546人失联，其中包括来自23个国家的261名外国人；尼泊尔方面遇难人数升至768人，仍有约2400人失踪。救援人员正通过隧道钻孔尝试接近尼泊尔被困的约900名水电站工人。中国已向尼泊尔运送首批救灾物资，并启动吉隆灾区风险隐患排查。此次灾害暴露喜马拉雅山区极端天气监测预警盲区，跨境灾害应急协作与预警能力亟待加强。",
+      "reason": "特大跨境自然灾害，多源密集报道，伤亡失联规模巨大，持续发酵备受国际关注。",
+      "impact_areas": [
+        "社会",
+        "地缘"
+      ],
+      "impact_level": "现象级",
+      "sources": [
+        {
+          "name": "央视网",
+          "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9Lb0hQV3BHZG5MSXhJbHltQnpWYnpSUU9iX0ZFdVVjYnJ3X1lsV3pNTTBnR1JvQmpVWmp4ckk0dGtSSkhJN2lpTWZSeWp6SEFHUHpNb2loYVFDM3M1M1hWM1JUNEtaT2RFRzBScTRRSnE2VG0ybkdVMA?oc=5"
+        },
+        {
+          "name": "澎湃新闻",
+          "url": "https://m.thepaper.cn/detail/33975636"
+        },
+        {
+          "name": "财新网",
+          "url": "https://international.caixin.com/2026-08-30/102479873.html"
+        },
+        {
+          "name": "NYTimes",
+          "url": "https://www.nytimes.com/2026/08/30/world/asia/tibet-nepal-flood-death-toll-china.html"
+        }
+      ]
+    },
+    {
+      "title": "习近平出席上合峰会并访两国",
+      "summary": "国家主席习近平8月30日抵达比什凯克，出席2026年上海合作组织峰会，并对吉尔吉斯斯坦、埃及进行国事访问。中国驻吉大使就中吉经贸合作前景答记者问。此次出访聚焦深化上合组织框架下安全与经济合作，推进中吉乌铁路等项目建设，并拓展与埃及的全面战略伙伴关系。这是中国在欧亚大陆新一轮高层外交，将影响区域合作格局。",
+      "reason": "中国最高领导人重大外交行动，涉及上合组织和多边关系，地缘影响深远。",
       "impact_areas": [
         "政治",
-        "经济金融"
+        "经济金融",
+        "地缘"
       ],
-      "impact_level": "重大",
+      "impact_level": "现象级",
       "sources": [
         {
           "name": "澎湃新闻",
-          "url": "https://m.thepaper.cn/detail/33974849"
+          "url": "https://m.thepaper.cn/detail/33975418"
         },
         {
           "name": "央视网",
@@ -22,113 +51,127 @@
       ]
     },
     {
-      "title": "尼泊尔泥石流致734人遇难2498人失联",
-      "summary": "尼泊尔近日遭遇严重洪水和泥石流灾害，目前已造成至少734人遇难，2498人失联，救援工作仍在紧张进行。中国驻尼泊尔大使馆已协调尼方搜救转运中方人员94人。救援人员通过隧道试图接近约900名被困的水电站工人。尼泊尔政府已宣布紧急状态，国际社会提供援助。此次灾害暴露了山区基础设施的脆弱性和气候变化加剧的极端天气风险。",
-      "reason": "重大人道灾难，死亡失踪超三千人，国际关注度高，中国公民受影响。",
+      "title": "俄乌战线：基辅37死核电站告急",
+      "summary": "俄乌冲突8月30日出现新的严重事态。俄罗斯对基辅一处武器库的袭击造成至少37人死亡、数百人疏散；乌克兰方面指责失误。同时，国际原子能机构警告扎波罗热核电站可能全面停电，核安全风险骤增。俄乌冲突外溢效应持续，欧洲安全格局进一步紧张。",
+      "reason": "俄乌战争重大伤亡叠加核电站停电风险，地缘安全影响巨大。",
       "impact_areas": [
-        "社会",
-        "公共卫生"
+        "政治",
+        "地缘",
+        "能源"
       ],
-      "impact_level": "现象级",
+      "impact_level": "重大",
       "sources": [
+        {
+          "name": "BBC",
+          "url": "https://www.bbc.co.uk/news/articles/c86xwqez4npo?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "name": "NYTimes",
+          "url": "https://www.nytimes.com/2026/08/29/world/europe/russia-ukraine-strike-kyiv-drones.html"
+        },
         {
           "name": "澎湃新闻",
-          "url": "https://m.thepaper.cn/detail/33975006"
-        },
-        {
-          "name": "凤凰网",
-          "url": "https://news.ifeng.com/c/8w0UH0m0hQJ"
+          "url": "https://m.thepaper.cn/detail/33975608"
         }
       ]
     },
     {
-      "title": "西藏吉隆泥石流致16死546失联",
-      "summary": "西藏吉隆发生特大山洪泥石流灾害，已造成16人遇难，546人失联，其中包括外籍人员261人，来自23个国家。发布会通报，冰岩崩从发生到冲击吉隆口岸仅约6至7分钟，目前堰塞体已溢流泄洪，整体溃决可能性较小。已动员2141名救援力量投入搜救，未来三天吉隆降雨持续，救援难度较大。国务院工作组已赴现场，国家防总等启动应急响应。",
-      "reason": "国内重大自然灾害，失联人数多，救援复杂，国家启动应急响应，公众高度关注。",
+      "title": "美委达成650亿桶石油协议",
+      "summary": "美国总统特朗普宣布与委内瑞拉达成“历史性”协议，美国将控制其650亿桶石油储量。消息引发委内瑞拉国内强烈不满，批评者称之为“美国殖民主义新形式”。该协议将深刻影响全球石油供应格局和拉美地缘政治，并对OPEC+产油国关系产生连锁反应。",
+      "reason": "全球重要产油国储量控制权易手，改变能源地缘格局。",
       "impact_areas": [
-        "社会",
-        "公共卫生"
-      ],
-      "impact_level": "现象级",
-      "sources": [
-        {
-          "name": "凤凰网",
-          "url": "https://news.ifeng.com/c/8w0Is1nCxhb"
-        },
-        {
-          "name": "凤凰网",
-          "url": "https://news.ifeng.com/c/8w0LKYvOmHz"
-        }
-      ]
-    },
-    {
-      "title": "特朗普宣布美控制委650亿桶石油",
-      "summary": "美国总统特朗普宣布达成一项'历史性'协议，美国将控制委内瑞拉约650亿桶石油资源。委内瑞拉国内反应强烈，批评者称这是'美国殖民主义的新形式'。该协议将重塑全球能源市场格局，直接影响OPEC产量、国际油价以及美国对拉美政策。分析人士认为，此举是美国确保能源主导权、施压委内瑞拉政府的重大举措，但也可能加剧委政局不稳和地区反美情绪。",
-      "reason": "全球能源格局重大变化，美国控制委内瑞拉石油储备，直接影响油价和地缘政治。",
-      "impact_areas": [
+        "经济金融",
         "地缘",
-        "经济金融"
+        "能源"
       ],
       "impact_level": "现象级",
       "sources": [
         {
           "name": "BBC",
           "url": "https://www.bbc.co.uk/news/articles/cx2zlwe7qj1o?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "name": "NYTimes",
+          "url": "https://www.nytimes.com/2026/08/29/world/americas/venezuela-oil-us-takeover.html"
         }
       ]
     },
     {
-      "title": "伊朗称未经协调不可通过霍尔木兹海峡",
-      "summary": "伊朗副外长表示，未经协调，任何船只都无法通过霍尔木兹海峡。这一言论加剧了全球能源供应担忧。霍尔木兹海峡是全球最重要的石油运输通道，全球约20%的石油贸易经由该海峡。此前美伊冲突持续，美国攻打伊朗已半年，伊朗多次威胁封锁海峡。此番表态被市场解读为伊朗可能采取实际行动。国际油价应声走高，航运保险费用可能上升。若海峡通行受阻，将冲击全球能源供应链和经济稳定。",
-      "reason": "全球能源咽喉要道紧张升级，直接威胁石油供应，影响油价和全球经济。",
+      "title": "伊朗燃料危机与最高领袖声明",
+      "summary": "伊朗最高领袖最新声明称美以为地区团结之敌；与此同时，伊朗多地加油站排起长队，战争和美国封锁导致燃料供应紧张。伊朗还宣布捣毁一个美以相关的“恐怖分子团伙”。美国与伊朗对抗升级，霍尔木兹海峡能源运输风险和地区冲突外溢可能性上升。",
+      "reason": "中东核心冲突国出现燃料短缺和最高领袖强硬表态，地缘风险加剧。",
       "impact_areas": [
         "地缘",
+        "能源",
         "经济金融"
-      ],
-      "impact_level": "现象级",
-      "sources": [
-        {
-          "name": "雪球热帖-新浪财经",
-          "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9GOWZfZXJISzhnWWM0Qmw4d3lIU1V4SDl4NkhlRG1lS2JJQXNXMWVqampSMkd2SXllWFFGcWpkanAwN0NkUlRJNktmQ1l5VDlmUXBMMGVtTllsRzJKam9IdHRNWWppSlNmVlM2aVR0SGZHM2xmbFRkbQ?oc=5"
-        }
-      ]
-    },
-    {
-      "title": "俄袭基辅武器库致37死",
-      "summary": "俄罗斯对乌克兰基辅一处武器库发动打击，造成至少37人死亡，数百人被疏散。乌克兰方面指责武器库管理存在疏忽。此次袭击是俄乌冲突中又一次针对基辅的重大打击，显示俄军持续打击乌克兰后方基础设施。事件可能引发国际社会对乌克兰防空能力的担忧，也影响乌克兰的反攻计划和西方军援决策。",
-      "reason": "俄乌冲突重大升级，基辅遇袭伤亡惨重，影响战局和国际局势。",
-      "impact_areas": [
-        "地缘",
-        "政治"
-      ],
-      "impact_level": "现象级",
-      "sources": [
-        {
-          "name": "BBC",
-          "url": "https://www.bbc.co.uk/news/articles/c86xwqez4npo?at_medium=RSS&at_campaign=rss"
-        }
-      ]
-    },
-    {
-      "title": "索尼华纳起诉Anthropic窃取知识产权",
-      "summary": "索尼和华纳共同起诉AI公司Anthropic，指控其公然窃取知识产权。原告称Anthropic未经授权使用大量音乐作品、歌词等版权内容训练AI模型。这是继多家媒体和作家起诉AI公司后，大型娱乐公司对AI版权问题的又一次重大法律行动。案件结果可能确立AI训练数据版权规则，对生成式AI行业影响深远。",
-      "reason": "娱乐巨头起诉AI公司侵权，可能改变AI训练数据的合法边界，科技与法律交叉重大事件。",
-      "impact_areas": [
-        "科技",
-        "法律"
       ],
       "impact_level": "重大",
       "sources": [
         {
-          "name": "36氪",
-          "url": "https://www.36kr.com/newsflashes/3961338120273281"
+          "name": "澎湃新闻",
+          "url": "https://m.thepaper.cn/detail/33975606"
+        },
+        {
+          "name": "NYTimes",
+          "url": "https://www.nytimes.com/2026/08/30/world/middleeast/iran-fuel-supplies-blockade.html"
+        },
+        {
+          "name": "央视网",
+          "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBTY1Jfa2hTekhHeGZaSmcyejYzN3lMWW04WHNvMXJmUkdTYTN3SDRTczZzMEplRlBkSEc4a1YybHB6U0JkSkRnbHprSmVaX054WW5lZnphVXJIdG5lbG4yM2hmZGRUZVVuM3JOTkUtXzFjeGptU2RBZg?oc=5"
         }
       ]
     },
     {
-      "title": "华为Mate XT 2三折叠手机将发布",
-      "summary": "华为终端BG董事长余承东宣布，华为Mate XT 2非凡大师即将发布，采用展翼三折叠形态，是业界最薄、尺寸最大的折叠屏手机。华为持续引领折叠屏创新，三折叠设计或成为高端手机新趋势。在中国高端手机市场竞争激烈的背景下，该产品被视为华为巩固高端市场的关键一步，也将带动相关供应链发展。",
-      "reason": "华为发布革命性三折叠手机，科技产品重大发布，影响消费电子产业格局。",
+      "title": "个人房贷最长延至40年",
+      "summary": "建设银行表示已开放房贷延期申请，个人房贷最长可延至40年。这一政策大幅降低月供门槛，但总利息支出增加。在房地产市场需求疲弱背景下，延长贷款期限成为银行提振购房意愿的手段，或引发其他银行跟进。对楼市、居民负债和银行资产端均产生深远影响。",
+      "reason": "房贷期限结构性调整，直接影响居民购房能力与银行信贷，重大民生金融政策。",
+      "impact_areas": [
+        "经济金融",
+        "房地产"
+      ],
+      "impact_level": "重大",
+      "sources": [
+        {
+          "name": "凤凰网",
+          "url": "https://news.ifeng.com/c/8w139yODrVi"
+        }
+      ]
+    },
+    {
+      "title": "房地产信托新规设非标准入门槛",
+      "summary": "监管部门发布房地产信托新规，进一步规范非标投资，设置展业准入门槛。新规将约束信托资金违规流入房地产，压降非标融资规模，推动行业回归本源。对信托公司业务结构、房企融资渠道和金融风险防控产生重要影响。",
+      "reason": "房地产融资监管收紧，影响信托业和房地产行业的资金链与风险格局。",
+      "impact_areas": [
+        "经济金融"
+      ],
+      "impact_level": "重大",
+      "sources": [
+        {
+          "name": "财新网",
+          "url": "https://finance.caixin.com/2026-08-30/102479852.html"
+        }
+      ]
+    },
+    {
+      "title": "德国极右翼有望赢得州选举",
+      "summary": "最新选举预测显示，德国极右翼政党在萨克森-安哈尔特州有望获胜，但组阁权争夺仍不明朗。这是德国政治风向的重要信号，反映移民和经济问题加剧社会分裂。若极右翼上台，将影响德国联邦层面政策走向和欧洲一体化进程。",
+      "reason": "德国极右翼可能首次赢得州选举，动摇德国政局，影响欧洲未来。",
+      "impact_areas": [
+        "政治",
+        "社会"
+      ],
+      "impact_level": "重大",
+      "sources": [
+        {
+          "name": "NYTimes",
+          "url": "https://www.nytimes.com/2026/08/30/world/europe/germany-afd-saxony-anhalt.html"
+        }
+      ]
+    },
+    {
+      "title": "液冷散热成算力必选项",
+      "summary": "随着AI算力需求爆发，液冷散热从“可选项”升级为“必选项”。多家配套企业订单排到年底，产能持续释放，千亿液冷赛道加速升温。2026数博会上“词元经济”需求爆发式增长，也带动数据中心基础设施升级。液冷产业进入高速增长期。",
+      "reason": "AI算力带动的产业升级趋势，液冷需求爆发，科技产业重大机遇。",
       "impact_areas": [
         "科技",
         "产业"
@@ -136,47 +179,32 @@
       "impact_level": "重大",
       "sources": [
         {
+          "name": "央视网",
+          "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE0xcU04bllMS3BzWUZ1d2VrOUNIX19kQkZxQ3ZMX2NyRkppY1V2eFZCV3R4d2xfMkNlellObWVRQUtQX2lDU1FocjA5SFZIMWtRVDYxLXZ5bnI4VEk4czZCckFsSWIzNU5DTVF0Zjlac2cyMW1qdjVBSA?oc=5"
+        },
+        {
           "name": "36氪",
-          "url": "https://www.36kr.com/newsflashes/3961402738343305"
+          "url": "https://www.36kr.com/newsflashes/3961745130126720"
         }
       ]
     },
     {
-      "title": "五部门组合拳重构房地产基础制度",
-      "summary": "地产行业周报显示，五部门联合出台'组合拳'政策，房地产基础性制度进入重构阶段。政策涵盖土地、金融、税收、监管等多方面，旨在推动房地产发展新模式落地。此次制度重构被视为继房改以来最深刻的变革，将影响未来数十年房地产市场格局。市场预期房价短期仍承压，但长效机制建设将利好行业长期健康发展。",
-      "reason": "房地产基础性制度重构，五部门组合拳出台，影响经济和民生，政策信号强烈。",
+      "title": "中国交建成立铁道集团",
+      "summary": "中国交建宣布成立铁道集团，铁路基建市场从“双寡头”向“三巨头”演变。这意味着中国铁建、中国中铁之外，中国交建正式大规模进入铁路建设领域，将重塑铁路基建竞争格局，并可能对相关招投标、产业链分包和区域基建投资产生深远影响。",
+      "reason": "央企进军铁路基建，行业竞争格局重大变化。",
       "impact_areas": [
+        "产业",
         "经济金融"
       ],
       "impact_level": "重大",
       "sources": [
         {
-          "name": "雪球热帖-手机新浪网",
-          "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQbTM1MkNVVHdSYUFNWW13Y1N3YUlFSUFOMk1aMTR2ZFg5NDAxdnY2aHNLa3NSemN5WS1oRTFoYTFpSE1hdzVESjB1ZFJFekwxaGwzU0tvbmwtM3pIWVdkNkMzb0NkMExpY000NmVod2g1VE5OZ1o3MmZkREZHVWQzWk5PVGdRLVQ1V1NxRWlGci1MOVNsdE1lZkplc2x3c2tCYnRtRQ?oc=5"
-        }
-      ]
-    },
-    {
-      "title": "以色列定居者袭巴勒斯坦遭内氏谴责",
-      "summary": "以色列定居者在约旦河西岸袭击巴勒斯坦人，美媒报道团队也遭蒙面袭击。以色列总理内塔尼亚胡罕见发表谴责。这一事件加剧约旦河西岸紧张局势，暴露极右翼定居者暴力问题，国际社会可能加大施压。美国、欧盟等或重新评估对以政策，影响中东和平进程。",
-      "reason": "以巴冲突热点升级，关联美国媒体，内塔尼亚胡罕见谴责，地缘风险上升。",
-      "impact_areas": [
-        "地缘",
-        "政治"
-      ],
-      "impact_level": "重大",
-      "sources": [
-        {
-          "name": "凤凰网",
-          "url": "https://news.ifeng.com/c/8w0UByOS3dw"
-        },
-        {
-          "name": "NYTimes",
-          "url": "https://www.nytimes.com/2026/08/29/world/middleeast/israel-settlers-west-bank-attacks-netanyahu-rebuke.html"
+          "name": "财新网",
+          "url": "https://companies.caixin.com/2026-08-30/102479837.html"
         }
       ]
     }
   ],
-  "total_fetched": 237,
-  "generated_at": "2026-08-30T12:26:30.413531+08:00"
+  "total_fetched": 222,
+  "generated_at": "2026-08-30T19:26:43.460644+08:00"
 }

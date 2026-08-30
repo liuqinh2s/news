@@ -1,4 +1,4 @@
-# 2026-08-30 原始新闻标题 (237 条)
+# 2026-08-30 原始新闻标题 (222 条)
 
 ## 新华社 (20 条)
 - Education, health fees among key concerns
@@ -22,45 +22,51 @@
 - Former Chongqing political official facing corruption investigation
 - Former Chongqing political official facing corruption investigation
 
-## 澎湃新闻 (14 条)
-- 泉州一园区疑似发生溴泄漏，区应急局：此前已安排专家和执法人员前往现场处置
-- 尼泊尔泥石流已致734人遇难，2498人失联
-- 国家自然基金会通报31起科研不端行为，多笔已拨资金被追回
-- 沈洁｜“完成你伟大的人生”
-- 狄奥尼索斯的双重附身：诺兰《奥德赛》中的神话哲学蕴含
-- 中国海警位中国黄岩岛领海及周边区域执法巡查
-- 习近平离京出席2026年上海合作组织峰会并对吉尔吉斯斯坦、埃及进行国事访问
-- 习近平离京出席2026年上海合作组织峰会并对吉尔吉斯斯坦、埃及进行国事访问
-- 我驻尼泊尔大使馆：已协调尼方搜救转运中方人员94人
-- 东艺秋冬演出季开幕：许忠自弹自指莫扎特，郎朗也来了
-- 来论｜教师“耻辱合影”事件：当成年人被幼稚化管教
-- 上海书评周刊丨陈尚君谈治乱之间的诗歌与世情
-- 澎湃早晚报｜早餐湃·长鑫起诉美国国防部
-- 西藏吉隆泥石流搜救尚未再发现幸存者
+## 澎湃新闻 (15 条)
+- 开学在即，《公共安全教育开学第一课》将于8月31日播出
+- 中足联官方：国安英博两队被通报批评，达万被禁赛6场
+- 自然资源部：全面启动吉隆泥石流灾害区域风险隐患排查
+- 搜救难度大、突发状况多，前突小组队员讲述吉隆泥石流核心受灾区搜救进展
+- 尼泊尔泥石流遇难人数升至768人
+- 国际原子能机构：扎波罗热核电站或全面停电
+- 伊朗最高领袖最新声明：美以是地区团结之敌
+- 优酷《这是我的岛》 节目遗留道具两年后成海滩垃圾，节目组称已赴现场排查
+- 2026年8月30日《新闻联播》
+- 马上评｜作文何必印刷体？“预制娃”之忧
+- 厦门通报“使用敌敌畏为餐饮门店消杀问题”：6人被刑拘
+- 始料未及的致命山洪，尼泊尔专家谈预警盲区：我们连监测卫星都缺
+- 习近平抵达比什凯克出席2026年上海合作组织峰会并对吉尔吉斯斯坦进行国事访问
+- 父亲在沪打工20年，儿子圆梦考入复旦：“离爸爸近一点”
+- 网警依法查处2起涉吉隆泥石流网络谣言案件
 
 ## 凤凰网 (20 条)
-- 北京市纪委监委通报
-- 云南盐塘水库存在溃坝风险，镇政府：水库正在泄洪，已撤离8000余人
-- 上合组织扩员进展如何？副秘书长答凤凰
-- 尼泊尔“楼坚强”挺住了，女主人亲述惊魂经历：死神一直盯着我们
-- 美媒报道团队遭以定居者蒙面袭击，内塔尼亚胡罕见谴责
-- 女子偷自行车被老公批评后归还，隔天带着孩子再次去偷，卖了不到100块钱被拘
-- 中使馆：已协调尼方搜救转运中方人员94人
-- 动画演示：西藏吉隆泥石流灾害救援为啥这么难
-- 罕见！“沙德尔”登陆后路径奇特，警惕山洪灾害
-- 日媒：攻击伊朗半年，美国正推倒自己的霸权
-- 吉隆泥石流搜救尚未再发现幸存者
-- 吉隆泥石流新闻发布会现场默哀
-- 西藏泥石流灾害原因现已查明
-- 吉隆泥石流灾害失联外籍人员：261人，来自23个国家，其中美国18人
-- 西藏吉隆发布会：堰塞体已溢流泄洪，发生整体溃决的可能性较小
-- 西藏吉隆发布会：冰岩崩从发生到冲击吉隆口岸仅约6至7分钟
-- 西藏吉隆发布会：目前已动员各类救援力量2141人投入一线搜救
-- 西藏吉隆泥石流灾害已致16人遇难，546人失联
-- 现场视频：洪灾2天后尼泊尔警方挖出6岁幸存女童，孩子全身埋进泥土
-- 云南磨憨镇发生洪涝灾害后，省委书记立即连线前线直接指挥调度
+- 中吉经贸合作前景如何？中国驻吉大使答凤凰
+- 个人房贷最长延至40年，建行：已开放房贷延期申请
+- 常州女首富，逼走应届生，惹众怒
+- “六公主”对景甜事件贴脸开大：播放其主演的电影《新妈妈再爱我一次》
+- 韩警再寻获遇害中国女留学生部分遗体，押送嫌疑人指认抛尸地点：案件或下周移交检方
+- 男子在海南划桨板坠海失联，应急局回应
+- 优酷《这是我的岛》节目遗留道具两年后成海滩垃圾，节目组称已赴现场排查
+- 尼泊尔泥石流遇难人数升至768人
+- 作文何必印刷体？“预制娃”之忧
+- 00后“黑马”击败世界第一
+- 外籍女子跨境骗婚获刑3年半
+- 人命关天的时刻，不需要BBC制造“次生灾害”
+- 女子景区乱扔垃圾，游客劝阻反遭辱骂，文旅局回应
+- 厦门通报“敌敌畏消杀事件”：6人被刑拘
+- 当事乘客回应“厦航飞北京航班上遭邻座扇耳光”
+- 中超比赛两队爆发冲突，官方通报
+- 为修高尔夫球场，特朗普把日本送的樱花树砍了
+- 战争开打半年，美军自己的家先崩了
+- 清华2026级本科生通宵行军20公里
+- 尼泊尔6岁女童泥浆中被救
 
-## 财新网 (6 条)
+## 财新网 (11 条)
+- BioNTech一项mRNA肿瘤疫苗II期试验折戟｜医药股周报
+- 销量回升未能改善盈利 广汽集团上半年亏损44.7亿元
+- 特稿｜中尼边境特大泥石流洪灾：预警和救援难在哪？
+- 美联储政策范式转换与中国货币金融的战略应对
+- 【商圈】微软掌舵者纳德拉：从云到AI两次关键决断自我“刷新”
 - 房地产信托新规再规范非标投资 设置展业准入门槛
 - 对话｜程晓陶：水库溃坝的风险永远不可能为零
 - 财新闻｜交通运输部回应“建议取消ETC设备使用”
@@ -68,36 +74,65 @@
 - 人事观察｜接替任振鹤 中办副主任孔绍逊任甘肃政府一把手
 - 北京“百队杯”：我家两代人的足球梦｜亲历
 
-## 央视网 (5 条)
+## 央视网 (19 条)
 - AI可以替代导游吗？ - 央视网
-- 习近平将出席2026年上海合作组织峰会并对吉尔吉斯斯坦、埃及进行国事访问 - 央视网
+- 算力产业观察 | 液冷散热从“可选项”升级为“必选项” 配套企业订单充足、产能释放 - 央视网
+- 24小时内直达餐桌 解码我国生鲜类农产品进出口新亮点 - 央视网
+- 镜观中国丨机器人加速“跑”进千行百业 - 央视网
+- 习近平出席2026年上海合作组织峰会并对吉尔吉斯斯坦、埃及进行国事访问 - 央视网
+- “2026中国文学盛典·上海鲁迅文学周”在上海开启 - 央视网
+- 国家防总、应急管理部针对海南启动防汛四级应急响应 - 央视网
+- 西藏吉隆泥石流灾害已致16人遇难 546人失联 - 央视网
+- 中国援助尼泊尔首批救灾物资运抵加德满都 - 央视网
+- 2026数博会｜需求爆发式增长催热“词元经济” 前沿成果集中亮相 - 央视网
+- 以国家安全总局证实以总理长子在美国曾遭安全威胁 - 央视网
+- 山洪灾害气象预警：江西湖南海南等部分地区发生山洪灾害可能性大 - 央视网
+- 云南下达1000万元支持磨憨镇水库险情处置和救灾 - 央视网
+- 改名风波再起 加拿大官员在安大略湖畔设立标牌 - 央视网
+- 财政科学管理试点启动已一年 成效如何？ - 央视网
+- 韩国总统府公布新任内阁人选 多名部长级官员将更换 - 央视网
+- 星火成炬｜ 中国青年说 - 央视网
 - 伊朗称在其境内捣毁一美以相关“恐怖分子团伙” - 央视网
-- 南京住房公积金异地贷款范围扩展至全国 9月1日起施行 - 央视网
-- 新疆阿克苏地区沙雅县发生3.1级地震，震源深度21千米 - 央视网
+- 航行警告：渤海海峡黄海北部执行军事任务 - 央视网
 
-## BBC (8 条)
-- Iceland EU referendum on a knife edge as counting continues
+## BBC (12 条)
+- Manhunt after shooting at Swiss rave kills woman, 22, and injures five
+- Iceland votes against restarting talks on joining EU
 - At least 37 dead and hundreds evacuated after strike on Kyiv weapons depot
+- Large Lake Ontario sign installed in Canada in latest jab at US
+- WhatsApp chat used to send cash for crime and extremism
 - Right-wing commentator Milo Yiannopoulos deported from US to UK
-- Canada installs large Lake Ontario sign in latest jab at US
+- Zambian opposition leader charged with treason
 - Norway's new king remembers 'my dear father' in first speech
 - Former Ecuadorian president imprisoned for corruption
 - Trump hails 'historic' deal for US to control 65bn barrels of Venezuela's oil
+- They fell in love - then had to check they weren't brother and sister
 - Australia usually hosts the world's biggest cuttlefish mating event - not this year
 
-## NYTimes (12 条)
-- Search Continues for 2,400 Missing in Nepal Floods Amid ‘Immense’ Devastation
-- 37 Killed After Russian Strike on Weapons Depot as Ukraine Blames Negligence
-- Nepal Rescuers Bore Through Tunnels to Try to Reach 900 Workers Missing After Floods
-- Carney Has Canadians’ Support on Trump. Now Comes the Hard Part.
-- Thieves Smash Museum Case for Diamond Necklace Worth Millions in Vienna
-- In Scotland, Luxury Hotel Gleneagles Offers a Posh Summer Camp for Grown-Ups
-- Expedia Faces Off With Cuban Families Over Land Seized Decades Ago
-- The 10 p.m. Dinner Is a Spanish Tradition. Are People Giving It Up?
-- Nepal Flood Survivors Return to Devastated Towns
-- Soldiers in Niger Attack Presidential Palace and Airport, Shaking Junta
+## Reuters (2 条)
+- India's HDFC Bank weighing deputy MD Bharucha, outsider for CEO, sources say - Reuters
+- Nationals look to avenge last weekend's series sweep by Marlins - Reuters
+
+## NYTimes (19 条)
+- China Says 261 Foreigners From 23 Countries Are Missing in Tibet Flood
+- The People of Hirosaki, Japan, Try to Move a Castle by Hand
+- Far Right Is Poised to Win in a German State, but Fight Over Power Won’t End There
+- Long Lines for Gas in Iran Show War and U.S. Blockade Squeezing Supply
 - Israeli Settlers Attack Palestinians, Drawing Sharp Rebukes
 - ‘A New Form of U.S. Colonialism’: Venezuelans Bristle at U.S. Oil Takeover
+- 37 Killed After Russian Strike on Weapons Depot as Ukraine Blames Negligence
+- Nepal Rescuers Bore Through Tunnels to Try to Reach 900 Workers Missing After Floods
+- Expedia Faces Off With Cuban Families Over Land Seized Decades Ago
+- Carney Has Canadians’ Support on Trump. Now Comes the Hard Part.
+- Thieves Smash Museum Case for Diamond Necklace Worth Millions in Vienna
+- Iceland Votes to Steer Clear of European Union Talks
+- Pilgrims to Flood-Stricken Nepal Sought the Divine at Sacred Mountain
+- Deportees Sent to Liberia Recount Harrowing Details of U.S. Expulsion and Treatment by ICE
+- In Scotland, Luxury Hotel Gleneagles Offers a Posh Summer Camp for Grown-Ups
+- The 10 P.M. Dinner Is a Spanish Tradition. Are People Giving It Up?
+- Nepal Flood Survivors Return to Devastated Towns
+- Soldiers in Niger Attack Presidential Palace and Airport, Shaking Junta
+- Search Continues for 2,400 Missing in Nepal Floods Amid ‘Immense’ Devastation
 
 ## CNN (6 条)
 - 0% intro APR until 2024 is 100% insane
@@ -108,163 +143,113 @@
 - Want Cash Out of Your Home? Here Are Your Best Options
 
 ## 微博热搜 (20 条)
-- 尼泊尔山洪已致675遇难2498失联
-- 青春芒果夜节目单
-- 西藏吉隆泥石流新闻发布会
-- 金牌幼师嫁给了二级厨师
-- 井柏然包上恩 京洛再无佳人
-- 有钱的家庭该如何富养孩子
-- 风云T7犀牛电池600km续航超能跑
-- 吴敬平回应樊振东输户上隼辅
-- 初中孩子更需要父母接送上下学
-- 杜塞主帅曝樊振东恢复过程异常艰难
-- 邓为在百妖谱跳舞了
-- 男子被冤摸女子臀部妻子气愤
-- 白鹿顶级高定首穿
-- 冉莹颖爸爸再婚三次为生儿子
-- 国家动物博物馆强烈谴责
-- 青春芒果夜
-- 15岁少年因大面积文身无法入学
-- 金价暴跌之前有人直接清仓
-- 华为新三折叠
-- 女孩车祸离世后遗失手机遭刷机
-
-## 知乎热榜 (20 条)
-- 为什么年轻人虽然不喜欢「孤独」但越来越喜欢「独处」？这种现象背后反映了什么？
-- 有哪些结构格外特殊的细菌？
-- 篆书到底有多少种字体？
-- 为什么动物很难驷马倒攒蹄地捆绑，而人可以做到？
-- 天坛保洁雨中用海绵吸水打扫地面，工作人员回复称保护古代金砖，金砖为啥如此特殊？有什么更好的办法清洁吗？
-- 为什么NH3三角锥翻转得比PH3快?
-- 概率（Probability）的本质是什么？
-- 上帝究竟叫什么名字啊？
-- 在选择和使用止痛药时，普通人有哪些常见误区？
-- 亚里士多德提出的「物体下落速度和重量成正比」的理论是怎么存在了一千多年的？
-- 古代偷偷晒海水难道不可以少量自制盐吗？
-- 瞎扯 · 如何正确地吐槽
-- 有哪些十分令人惋惜的已灭绝动物？
-- 为什么甲骨文这么难辨认？
-- 我们看天上的太阳是8分钟前的太阳，还是此时的太阳？如果是8分钟前的，那么是否代表我们可以亲眼看到历史？
-- 瞎扯 · 如何正确地吐槽
-- 为什么高端狼人杀已经公式化了？
-- 黑洞的内部是什么样子的？
-- 夏朝真的存在吗？河南二里头遗址，能否将谜团解开?
-- 瞎扯 · 如何正确地吐槽
+- 开学三件套齐涨价家长直呼吃不消
+- 中国女排vs泰国女排
+- 本周这些数据值得关注
+- 便利店事件不能一句误会就结束
+- 便利店店主回应把视频发网上
+- 早春晴朗
+- 当代年轻人的做饭现状belike
+- 这三天请假难度堪比美国签证
+- 网易云音乐 鸿蒙
+- 曝刺棠主演定妆
+- 网传中国女生被骗入缅电诈园区
+- 陈妍希首谈离婚
+- 旺仔小乔解封
+- 泥石流失联女警父亲说我好心痛
+- 邓凯给孔雪儿挡裙子
+- 唐嫣资助的女孩 放弃上大学
+- 便利店事件男子和妻子第二天又到店里
+- Angelababy第一套高定是祖海
+- 梅艳芳母亲去世
+- 金饰销量暴跌34%
 
 ## B站热门 (20 条)
-- 华强见宋老虎 但是唱跳RAP 【多梦综合征】【AI音乐宇宙】
-- 当你的资产缩水到A0层级，挑选优质桥洞的六大方案！
-- 【英雄联盟】我们的十五年征途，就是英雄之路
+- 《古神: 风里希》科隆游戏展最新预告片 | 世界观前瞻
+- ⚡ 舞 立 方 . m p 4 ⚡
+- 《龙族：卡塞尔之门》x《新世纪福音战士》全新联动 | 世界余响
 - 【独家】牧神记 第98集 杀新皇
-- 您叫的骑手正忙 请稍后再拨
-- 立志成为恶兽第一集
+- FALSITY…（完整版电影 / 官方正版)
+- 二游做载具没一个能打的，《无限大》也不例外【NFSLYY】
+- 去了一趟西班牙2.0（荒岛四兄弟篇）
 - 吃自助餐的九大神队友！你属于哪一种？
-- 火柴人 VS 我的世界 第四十集 苦力怕部族（Creeper Clan）
-- 新三国up锐评老三国15：此新娘非彼新娘也！
-- 一个人，耗时18个月，2万元成本，手搓94分钟以刘慈欣小说《山》为故事原型的AI仿真人科幻电影
+- 【大学生就业指导】麦当当薯条N重奏！200块买两斤土豆？不能够了！
+- 【独家/完结】《记忆管理局》第7集 记忆这样脆弱的东西【8月国创】
+- 当你的资产缩水到A0层级，挑选优质桥洞的六大方案！
 - 世界破破烂烂，总有人缝缝补补
-- 给它加上屏幕后，我好像玩大了…
-- “为什么，我们一生都在等待？”
-- 道士也怕鬼（第一集）个人原创剧情
-- 全世界最爱开学之人
+- 一个人，耗时18个月，2万元成本，手搓94分钟以刘慈欣小说《山》为故事原型的AI仿真人科幻电影
+- 如果让专业厨师推荐私藏小店他们会怎么推荐？
+- 牢达一生都在找一面可以托付的墙
+- 武德充沛！在美国当牛仔到底有多刺激！
+- 您叫的骑手正忙 请稍后再拨
+- 华强见宋老虎 但是唱跳RAP 【多梦综合征】【AI音乐宇宙】
+- 立瓶子挑战，相亲相爱~
 - 【剧情】暗影蜘蛛侠（2026）01【尼古拉斯·凯奇 / 拉蒙尼·莫里斯】
-- “门迎四季流年改，义重千钧故友来”【爱人错过-降调】【兄弟情义の小曲】
-- 开学补作业现状
-- 《小杨有约29#》：陈泽
-- 挑战共享单车100km去台湾
 
 ## 抖音热搜 (20 条)
 - 西藏泥石流已致16死546失联
-- 中国女排晋级亚锦赛决赛
-- 千方百计保障核心受灾区救援工作
-- 中国男篮世预赛出线形势解析
-- 台风沙德尔抵达广西
+- 中国女排vs泰国女排
+- 我国首次实现地月激光通信
+- 军训结束回家的我belike
+- 当我执意报考省外大学
+- 幸福和快乐是结局
 - 西藏泥石流灾害原因查明
-- 中国驻尼日尔大使馆发布安全提醒
-- 追觅汽车团队进行最后一轮裁员
-- 人民网三评王计兵获鲁奖
-- 泥石流为何破坏力如此之强
-- 西藏泥石流失联外籍人员261人
-- 常冰玉击败赵心童获首冠
+- 三只松鼠终止在港交所上市
+- 直击钱塘江“鬼王潮”
+- 切尔西官宣签下马丁内斯
+- 早安舞台艺术必须看不懂吗
 - 中国足协辟谣不与安东尼奥续约
-- 吉隆口岸工作的小邬警官确认平安
-- 刘策一回合重拳KO罗德里格斯
-- 刘国梁参加国际乒联会议
-- 当代人真把瓜吃明白了
-- 早春晴朗进入隐秘恋时代
+- 常冰玉谈首次夺冠感受
+- Crisp接受不了带队掉涅槃
+- 人民网三评王计兵获鲁奖
+- 用绿色告别我的假期
+- 栾念追妻主打一个笨拙
+- 幼儿园第一天vs最后一天
 - 万物皆可燕麦系
-- 教师与“耻辱”合影 官方致歉
+- 常冰玉击败赵心童获首冠
 
-## 雪球热帖 (20 条)
-- Anthropic考虑允许股东在IPO中出售股份，摒弃SpaceX模式 - 新浪财经
-- 地产行业周报：五部门“组合拳”出台 房地产基础性制度重构 - 手机新浪网
-- 伊朗副外长：未经协调任何船只无法通过霍尔木兹海峡 - 新浪财经
-- 伊朗副外长：未经协调任何船只无法通过霍尔木兹海峡 - 新浪财经
-- 西藏吉隆发布会：冰岩崩从发生到冲击我国吉隆口岸仅约6至7分钟 - 新浪财经
-- 老板电器(002508)：Q2业绩承压 核心品类份额领先 - 手机新浪网
-- 阳光电源回应美国业务！ - 新浪财经
-- 辛贝特：内塔尼亚胡长子在美国曾遭“重大”安全威胁 - 新浪财经
-- 尼日尔军方称逮捕多名企图发动兵变的士兵 - 新浪财经
-- 盈贝昇科技（深圳）有限公司完成商务部绿色流通服务企业备案公示 注册资本100万、参保0人 - 新浪财经
-- 一地发布公积金新政，异地贷款范围扩展至全国 - 新浪财经
-- 内部人交易｜Shopify披露一笔股票增持，金额约26.21万美元 - 新浪财经
-- 内部人交易｜汉尼汾披露一笔股票增持 - 新浪财经
-- 北京市纪委监委最新通报 - 新浪财经
-- 未来三天西藏吉隆降雨持续 昼夜温差较大 - 新浪财经
-- 视频丨未来三天西藏吉隆降雨持续 昼夜温差较大 - 新浪财经
-- 视频丨亲历泥石流灾害的尼泊尔警察：地理环境恶劣 搜救难度很大 - 新浪财经
-- 青岛和胜和电子商务有限公司完成商务部绿色流通服务企业备案公示 注册资本100万、参保0人 - 新浪财经
+## 丁香园 (1 条)
+- 笑一下也漏尿？盆底肌这张“吊床”需要你多看一眼 - y.dxy.cn
+
+## 雪球热帖 (16 条)
+- 宏观定期报告：政府债流动性跟踪 - 手机新浪网
+- AI服务如何按需取用？探访24小时运转的“词元工厂” - 新浪财经
+- 华泰证券(601688)2026年中报点评：各项业务稳定增长 国际业务收入占比明显提升 - 手机新浪网
+- 巨人网络(002558)2026年半年报点评：中报业绩出色 发布三年分红规划 高比例回馈股东 - 手机新浪网
+- 中远海能(600026)：暗航绕行改善供需 轻装上阵弹性可期 - 手机新浪网
+- 恒帅股份(300969)：Q2营收同环比增长 新兴业务打开增量空间 - 手机新浪网
+- 中材国际(600970)：业务结构持续优化 海外订单提速有望支撑经营修复 - 手机新浪网
+- 招商银行(600036)：息差企稳 业绩增速持续提升 - 手机新浪网
+- 三棵树(603737)：26H1建涂复价进程偏缓 - 手机新浪网
+- 电新行业周报：英伟达业绩超预期 奥地利光伏补贴向储能转移 - 手机新浪网
+- 新墨西哥州起诉特朗普政府“偷水” - 新浪财经
+- 浙江黎明：关于公司高级管理人员辞职的公告 - 新浪财经
 - 内部人交易｜RKLB披露一笔股票减持，金额约236.84万美元 - 新浪财经
-- 安徽坤盛达再生资源有限公司完成商务部绿色流通服务企业备案公示 注册资本500万、参保0人 - 新浪财经
+- 河北雄安旭江再生资源销售有限公司完成商务部绿色流通服务企业备案公示注册资本200万、参保0人 - 新浪财经
+- 25次提及通胀却避谈“美债风暴”，沃什意在守住美联储独立性底线｜每经热评 - 新浪财经
+- 视频丨国家数据局：探索适配产业实际的词元商业模式 - 新浪财经
 
-## 36氪 (11 条)
-- 谷歌、OpenAI、Meta正与日本官方机构和本土企业联手，打击激增的网络诈骗案件
-- a16z旗下机器时代基金筹集11亿美元，将投向芯片、机器人等硬件领域
-- 蜜雪冰城会员总量达5亿
-- 北京高端科学仪器与传感器大会举办，发布采购额约4亿元机遇清单
-- 华为Mate XT 2非凡大师即将发布，余承东：展翼三折叠形态，业界最薄、尺寸最大
-- NASA与SpaceX调整“Crew-13”载人任务发射日期
-- 洋河股份与京东旗下欧洲线上零售业务Joybuy达成战略合作
-- 索尼、华纳起诉Anthropic，指控其公然窃取知识产权
-- 券商中期拟派现金额超273亿元，利润大涨成为分红底气
-- SpaceX猎鹰重型火箭已在肯尼迪航天中心39A发射工位完成垂直竖立
-- OpenAI将终止向Cursor提供模型服务，马斯克回应
+## 36氪 (20 条)
+- 正泰电器递表港交所，开启国际化新征程
+- 沐曦股份：上半年营收超过13亿元并实现扭亏，GPU产品出货量提升带动业绩持续增长
+- 中国国航：2026年半年度净亏损22.86亿元
+- 东航物流：上半年净利润14.18亿元 同比增长10.05%
+- 三一重工：上半年净利润56.9亿元 同比增长9.13%
+- 中国动力：2026年半年度净利润同比增长42.74%
+- 上海电气：上半年归母净利润9.7亿元，同比增长18.2%
+- 赤峰黄金：2026年半年度净利润17.32亿元，同比增长56.5%
+- 中信证券：AI在Q2集中体现，而能化接下来可能逐步升温
+- 中国石油：聘任龚真直为副总裁
+- 订单排到年底，千亿液冷赛道加速升温
+- 天风证券：2026年半年度净利润同比增长549%
+- 中国石油：上半年净利润同比增长22%
+- 招商轮船：上半年归母净利润69.6亿元，同比增长227.57%
+- 山西汾酒：2026年上半年营收209.35亿元 同比降12.32%
+- 中国黄金：上半年归母净利润2.79亿元，同比下降12.35%
+- 京沪高铁：上半年归母净利润67.71亿元，同比增长7.21%
+- 光明乳业：上半年归母净利润2.51亿元，同比增长15.34%
+- 隆基绿能：上半年净亏损36.84亿元
+- 中国船舶：上半年归母净利润99.54亿元，同比增长163.51%
 
-## 虎嗅 (16 条)
-- 孙宇晨这一次为什么错判了舆论？
-- 知乎正在成为一家内容资产公司
-- 房贷延长到40年，房地产为什么回不到十年前？
-- 同样卖超10亿元，优必选和宇树的财务曲线为何反着来？
-- “模型公司每赚100美元，云厂商拿走近40美元”
-- 机器人真正的分水岭：每单位新增真机数据，能换来多少泛化能力
-- 德芙文案翻车，是故意的，还是不小心的？
-- 智驾黑马，百万交付悬了
-- 深度对话：AI for Science 爆发了，但真正的天花板还没到
-- 日本顶住石油危机的代价
-- 暴力催收只是症状，过度授信才是病根
-- 五大六小之“中广核”战略分析
-- 腾讯的战略是混元4？WorkBuddy？AI token 工厂？
-- 大众印度20年困局
-- 上班几年攒下的怨气，终于成精了
-- 关停五年后，虾米被阿里用AI“复活”了
-
-## GitHub Trending (19 条)
-- tt-a1i/archify
-- bilawalsidhu/gods-eye-view
-- K-Dense-AI/scientific-agent-skills
-- tailscale/tailcat
-- THU-MAIC/OpenMAIC
-- p-e-w/heretic
-- bigskysoftware/htmx
-- JetBrains/go-modern-guidelines
-- ComposioHQ/awesome-claude-skills
-- calesthio/OpenMontage
-- every-app/open-seo
-- Osmantic/ODS
-- abi/screenshot-to-code
-- anthropics/claude-plugins-official
-- google/googletest
-- actions/checkout
-- kaifcodec/user-scanner
-- addyosmani/agent-skills
-- workweave/router
+## 少数派 (1 条)
+- 城市漫步指南 | 佛罗伦萨：来自六月的梦幻艺术夏令营
