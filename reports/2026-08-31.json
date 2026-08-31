@@ -2,19 +2,15 @@
   "date": "2026-08-31",
   "news": [
     {
-      "title": "美军打击伊朗两处武器装置",
-      "summary": "美国官员称，美军对伊朗拉腊克岛两处导弹发射装置发动打击，这是数周来美军首次对伊已知军事打击。此前美伊冲突持续，伊朗多次发动导弹攻击，此次打击标志着冲突再度升级。直接影响：霍尔木兹海峡航运风险和全球油价可能再次剧烈波动，中东安全局势进一步恶化。深层意义：美伊对抗从海上拦截转入对岛屿打击阶段，各方外交斡旋空间收窄，地区战争风险上升。",
-      "reason": "美伊冲突最直接军事升级，多源交叉报道，直接影响全球能源安全和地缘格局。",
+      "title": "美伊冲突再升级 伊朗击落美无人机",
+      "summary": "8月31日，美国军方对伊朗拉拉克岛上的导弹发射装置实施打击，这是数周来美军首次对伊朗境内目标发动攻击。同日，伊朗伊斯兰革命卫队宣布在霍尔木兹海峡上空击落一架美军MQ-9无人机。此前，美国总统特朗普发布AI生成的视频，威胁轰炸伊朗哈尔克岛。伊朗最高领袖哈梅内伊向海湾国家元首致信，呼吁共同对抗“真正的敌人”。美伊紧张局势持续升级，霍尔木兹海峡是全球最重要的石油运输通道，冲突扩大将直接影响国际油价和全球供应链稳定。各方对冲突失控的担忧加剧，中东地缘政治风险显著上升。",
+      "reason": "美伊双方直接军事交锋，霍尔木兹海峡咽喉要地风险陡增，影响全球能源和地缘格局。",
       "impact_areas": [
-        "地缘",
+        "地缘政治",
         "经济金融"
       ],
       "impact_level": "现象级",
       "sources": [
-        {
-          "name": "凤凰网",
-          "url": "https://news.ifeng.com/c/8w0QiSUDObC"
-        },
         {
           "name": "BBC",
           "url": "https://www.bbc.co.uk/news/articles/cx2z72x5z1po?at_medium=RSS&at_campaign=rss"
@@ -22,60 +18,53 @@
         {
           "name": "Reuters",
           "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQTkpiVXljY0dfaG41QTlsRW1PXzVEMU9UUGRWYk41QzQ4UERCRnJ5TlVUSUloZXFTUF9ieVBhaGFxQi1iZ3NSOVRPODFnR3NQbnZxdWFJMnl6TmRwYnZqT3pOZFhWUEo5MzRVY2YtdEppVmNMSVQ2UVB0WW5zLThXNjIwdU9ZLUUyQVhWTENEQ3k0bGo2QUdNQVVHdWxSak91RkU5dGNlUFBOZjNqTDRuRGJRZHJHNWRuQTRiaDBSZFpjOTNGcGRV?oc=5"
+        },
+        {
+          "name": "凤凰网",
+          "url": "https://news.ifeng.com/c/8w2DjWsOABO"
+        },
+        {
+          "name": "央视网",
+          "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5RdkNFekNiZHZTSzQ5TlN5VGRtdDFlaE4zV0o1eXc0R0pFQWYzZmhsQ3VLaWk1LWhwMmlXeG1nQXhRNDRZWmx0eG13UDlyZDZIM0NocXRpMkdvTjdpYTB1MG9kLWZjMng3aXpmMExtdnVucFZHbldfSA?oc=5"
         }
       ]
     },
     {
-      "title": "尼泊尔洪灾救援持续展开",
-      "summary": "尼泊尔近期遭遇严重洪灾和泥石流，数千人失踪，政府已启动大规模埋葬。救援工作仍在进行：中方专家与尼泊尔合作开展灾区隧道探查和搜救，消防救援队伍在吉隆泥石流核心区持续排查搜寻，救援车辆因暴雨泥泞受阻，无人机正在测试用于投放援助物资。喜马拉雅冰川融化加剧洪水风险。直接影响：灾害已造成重大人员伤亡和财产损失，基础设施瘫痪。深层意义：气候变化引发高山灾害愈发频繁，南亚多国防灾救灾体系和跨境合作面临长期考验。",
-      "reason": "重大人道灾难，多国关注，气候变化与冰川灾害警示意义强。",
+      "title": "尼泊尔洪水灾难 数千人失踪遗体难寻",
+      "summary": "尼泊尔持续暴雨引发的洪水和山体滑坡已造成严重伤亡，据《纽约时报》报道，随着数千人仍处于失踪状态，尼泊尔政府开始采用大规模埋葬方式处理遇难者遗体。BBC报道称，一位校长在洪水淹没学校前数分钟紧急疏散了900名儿童；救援车队因道路泥泞受阻，无人机被用于试验投放救援物资。尼泊尔当局警告可能出现更多洪水，救援工作面临严峻挑战。这场灾害已对尼泊尔造成毁灭性打击，反映出喜马拉雅山区在极端气候下的脆弱性，也引发国际社会对气候移民和地区救灾能力的关注。",
+      "reason": "尼泊尔遭遇严重洪灾，数千人失踪，人道主义危机深重，凸显气候变化下山区灾害风险。",
       "impact_areas": [
         "社会",
-        "生态"
+        "生态环境"
       ],
       "impact_level": "重大",
       "sources": [
         {
-          "name": "凤凰网",
-          "url": "https://news.ifeng.com/c/8w0QiSUDOb9"
+          "name": "NYTimes",
+          "url": "https://www.nytimes.com/2026/08/30/world/asia/nepal-floods-mass-burials-missing.html"
         },
         {
-          "name": "凤凰网",
-          "url": "https://news.ifeng.com/c/8w0QiSUDOb8"
+          "name": "BBC",
+          "url": "https://www.bbc.co.uk/news/articles/c5ymvdm5520o?at_medium=RSS&at_campaign=rss"
         },
         {
           "name": "BBC",
           "url": "https://www.bbc.co.uk/news/videos/c5ydwy004v0o?at_medium=RSS&at_campaign=rss"
         },
         {
-          "name": "澎湃新闻",
-          "url": "https://m.thepaper.cn/detail/33976624"
-        }
-      ]
-    },
-    {
-      "title": "房地产重磅新政出台",
-      "summary": "财新《财经早知道》报道，房地产领域重磅新政出台，涉及销售、信贷、融资全链条。这意味着政策对房地产市场的支持力度进一步加大，旨在打通从销售端到融资端的堵点，缓解房企资金压力，稳定市场预期。直接影响：房企融资环境有望改善，购房信贷条件可能放松，短期销售与投资数据或企稳回升。深层意义：房地产政策进入新一轮系统性调整，对宏观经济、金融稳定和产业链修复具有关键指向意义。",
-      "reason": "中国经济核心领域重大政策调整，直接影响金融稳定、地产产业链和宏观预期。",
-      "impact_areas": [
-        "经济金融"
-      ],
-      "impact_level": "重大",
-      "sources": [
-        {
           "name": "财新网",
-          "url": "https://finance.caixin.com/2026-08-31/102479924.html"
+          "url": "https://database.caixin.com/2026-08-31/102479946.html"
         }
       ]
     },
     {
-      "title": "NASA发射新型太空望远镜",
-      "summary": "美国国家航空航天局（NASA）发射了一款强大的新型太空望远镜，被专家称为“巨大飞跃”。该望远镜将接替现有观测设备，具备更强的深空探测能力，有望在系外行星、暗能量和早期宇宙等方向带来突破性发现。直接影响：全球天文研究获得关键观测平台，后续数据发布将重塑基础科学图谱。深层意义：空间科学竞争加剧，各国在深空探测领域的投入和合作格局可能随之变化。",
-      "reason": "科技领域重大突破，拓展人类认知边界，全球影响力广泛。",
+      "title": "NASA发射新型强大太空望远镜",
+      "summary": "美国国家航空航天局（NASA）于8月31日成功发射一款新型强大太空望远镜，被评价为“巨大的飞跃”。该望远镜将接替此前的观测任务，显著提升对系外行星、暗物质和早期宇宙的探测能力。此次发射是天文观测领域的重要里程碑，预示着未来数年将获得大量突破性数据，可能彻底改变人类对宇宙起源和演化的理解。国际科学界普遍给予高度期待，认为这将开启太空探索的新纪元。",
+      "reason": "新一代太空望远镜发射成功，将极大拓展人类天文观测能力，属于重大科技突破。",
       "impact_areas": [
         "科技"
       ],
-      "impact_level": "重大",
+      "impact_level": "现象级",
       "sources": [
         {
           "name": "BBC",
@@ -84,32 +73,78 @@
       ]
     },
     {
-      "title": "俄美乌三方会晤待协议敲定",
-      "summary": "俄罗斯总统新闻秘书佩斯科夫表示，俄美乌三方会晤需待协议最终敲定后方可举行。此前各方就乌克兰和平方案展开密集磋商，但关键条款仍存分歧。直接影响：三方首脑会晤时间表后移，和谈进程仍具不确定性，前线军事压力可能持续。深层意义：谈判僵局反映各方战略诉求难以调和，俄乌冲突走向仍将深刻影响欧洲安全格局和全球能源、粮食市场。",
-      "reason": "俄乌和谈关键进程，关系欧洲安全与全球地缘稳定，多源报道。",
+      "title": "8月制造业PMI升至49.8 供需重回扩张",
+      "summary": "国家统计局8月31日发布数据显示，8月制造业采购经理指数（PMI）为49.8，较上月明显回升，且供需两端均转为扩张区间，显示经济景气度阶段性改善。尽管指数仍略低于荣枯线，但生产和新订单指数均有所反弹，中小企业信心回暖。分析人士认为，前期稳增长政策效果开始显现，内需修复动能增强，但外需仍面临不确定性。这一数据为判断下半年中国经济走势提供了重要参考，市场对政策持续发力的预期有所加强。",
+      "reason": "PMI是经济先行指标，8月数据显著回升，反映中国经济景气度边际改善，对投资决策有重要指引。",
       "impact_areas": [
-        "地缘",
-        "政治"
+        "经济金融"
+      ],
+      "impact_level": "重大",
+      "sources": [
+        {
+          "name": "财新网",
+          "url": "https://economy.caixin.com/2026-08-31/102479964.html"
+        }
+      ]
+    },
+    {
+      "title": "中石油上半年净利首破千亿",
+      "summary": "中国石油发布2026年半年报，上半年净利润首次突破一千亿元人民币，创下历史同期新高。这一业绩主要受益于国际油价维持高位、天然气销量增长以及上游成本控制。中石油作为国内最大油气生产商，其业绩表现直接影响能源板块和央企利润格局。巨额盈利也引发市场对资源税、特别收益金以及央企分红力度的关注。分析认为，在能源安全战略下，中石油将持续加大上游勘探开发投入，对国内能源自主和产业链稳定具有重要支撑作用。",
+      "reason": "中石油净利润首破千亿，是能源行业重大经营信号，对央企利润与能源政策具有标杆意义。",
+      "impact_areas": [
+        "经济金融",
+        "产业"
+      ],
+      "impact_level": "重大",
+      "sources": [
+        {
+          "name": "财新网",
+          "url": "https://www.caixin.com/2026-08-31/102479978.html"
+        }
+      ]
+    },
+    {
+      "title": "全球首个太空算力在轨试验常态化",
+      "summary": "据凤凰网8月31日报道，全球首个太空算力在轨试验已实现常态化运行。该项目通过在卫星上部署高性能计算设施，利用太空环境实现数据在轨处理，大幅减少对地面站的依赖，提升卫星响应速度和数据利用效率。该技术突破对遥感、通信、人工智能在轨部署等应用具有重大意义，有望催生新兴太空计算产业。中国在太空算力领域的率先突破，标志着卫星应用从“数据传输”向“数据计算”转型的关键一步。",
+      "reason": "太空算力在轨常态化是全球首创，为未来太空计算与AI结合奠定基础，科技战略价值极高。",
+      "impact_areas": [
+        "科技",
+        "产业"
       ],
       "impact_level": "重大",
       "sources": [
         {
           "name": "凤凰网",
-          "url": "https://news.ifeng.com/c/8w0UKBPCmNq"
-        },
-        {
-          "name": "央视网",
-          "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFByRHpJeVl2S0J4MEhmM2hJeWd5bzNQRi1aS0FRTlF2S21QUnhYZzhHalB0Wm1MeUREckRXLXExVlBpU1R2QTRWZWM2NDY2VlJUY0txbDVGTmhYbmdrWG5YOW5YdXFUNmhxQzZaM0ZzaWpKcTdLWnVFSg?oc=5"
+          "url": "https://news.ifeng.com/c/8w2EkKoGsDJ"
         }
       ]
     },
     {
-      "title": "冰岛放弃重启入盟谈判",
-      "summary": "冰岛总理表示，本届政府任期内不再推进入盟谈判。此前冰岛举行投票，多数民众反对重启加入欧盟的谈判。这意味着冰岛将继续保持与欧盟的现有经贸安排，不寻求成为正式成员国。直接影响：欧盟东扩受阻，冰岛国内政治议程将转向其他议题。深层意义：欧洲一体化面临来自非成员国的信心挑战，相关贸易协定谈判路径更趋复杂。",
-      "reason": "欧洲一体化进程重要信号，影响欧盟与北欧国家关系及区域合作。",
+      "title": "美国大峡谷山洪暴发 15名徒步者失踪",
+      "summary": "美国亚利桑那州大峡谷国家公园8月31日突发山洪，据BBC报道，15名徒步者被洪水冲走后失踪。凤凰网报道称超过20人失联。当地已展开大规模搜救行动，但因地形复杂和天气恶劣进展缓慢。大峡谷地区夏季突发洪水曾多次造成游客伤亡，此次事件再次引发对户外安全管理和极端天气预警的讨论。国家公园管理部门被质疑未及时封锁危险区域。搜救工作仍在继续，失踪人数可能进一步上升。",
+      "reason": "美国大峡谷突发山洪致多人失踪，属于重大自然灾害事件，引发对极端天气与景区安全的广泛关注。",
       "impact_areas": [
-        "政治",
-        "地缘"
+        "社会",
+        "生态"
+      ],
+      "impact_level": "重大",
+      "sources": [
+        {
+          "name": "BBC",
+          "url": "https://www.bbc.co.uk/news/articles/clylkjyez1do?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "name": "凤凰网",
+          "url": "https://original.ifeng.com/c/8w2BcpB2Uge"
+        }
+      ]
+    },
+    {
+      "title": "冰岛公投拒绝重启入欧谈判",
+      "summary": "冰岛8月31日举行全民公投，以多数票反对重启加入欧盟的谈判，意味着该国将继续保持与欧盟的现有双边关系，不寻求成为正式成员国。这一结果反映出冰岛民众对欧盟共同渔业政策、农业补贴和货币主权的长期疑虑。此前英国脱欧后，欧洲一体化进程出现波折，冰岛的立场可能影响北欧国家和欧盟未来关系走向。分析人士指出，冰岛更重视北极理事会等区域合作机制，入欧意愿持续低迷。",
+      "reason": "冰岛公投明确否决入欧路线，影响欧洲一体化进程与北欧地缘政治格局，具有政治象征意义。",
+      "impact_areas": [
+        "地缘政治"
       ],
       "impact_level": "重大",
       "sources": [
@@ -118,78 +153,44 @@
           "url": "https://www.bbc.co.uk/news/articles/c70le8ed1plo?at_medium=RSS&at_campaign=rss"
         },
         {
-          "name": "澎湃新闻",
-          "url": "https://m.thepaper.cn/detail/33976848"
+          "name": "NYTimes",
+          "url": "https://www.nytimes.com/2026/08/30/world/europe/iceland-eu-referendum-talks.html"
         }
       ]
     },
     {
-      "title": "特朗普承诺对加企免征关税",
-      "summary": "美国前总统特朗普承诺对加拿大公司免征关税，但附加一个前提条件。这表明美国贸易政策仍将关税作为施压工具，并试图在关税问题上换取加方在其他议题上的让步。直接影响：加美贸易关系不确定性上升，企业投资和供应链布局可能调整。深层意义：北美自贸框架面临持续博弈，关税政策走向将影响全球贸易与制造业分工。",
-      "reason": "国际贸易政策重要变动，直接影响北美供应链和全球贸易预期。",
+      "title": "现货黄金跌破4400美元关口",
+      "summary": "8月31日，现货黄金价格跌破4400美元/盎司整数关口。在美伊冲突升级、全球避险情绪升温的背景下，黄金走势出现异动，引发市场关注。此前金价受地缘政治和通胀预期支撑一度走高，此次回调可能与美元走强、部分资金获利了结以及市场对中东局势边际缓和的预期有关。黄金是全球最重要的避险资产和通胀指示器，其价格剧烈波动对贵金属产业链、各国央行储备策略以及全球资产配置都具有重要参考意义。",
+      "reason": "现货黄金跌破整数关口，属于重要价格异动，对全球避险资产和央行政策预期有显著指引作用。",
+      "impact_areas": [
+        "经济金融"
+      ],
+      "impact_level": "重大",
+      "sources": [
+        {
+          "name": "36氪",
+          "url": "https://www.36kr.com/newsflashes/3962841490930820"
+        }
+      ]
+    },
+    {
+      "title": "超级厄尔尼诺冲击全球粮食与航运",
+      "summary": "凤凰网8月31日深度报道称，超级厄尔尼诺现象正在对全球粮食、航运和民生造成系统性冲击。从法国农田到巴拿马运河，异常气候导致干旱、洪水等极端天气频发，农作物减产预期上升，国际粮价承压；巴拿马运河因缺水限制通航，全球航运供应链受阻。厄尔尼诺的影响范围横跨美洲、亚洲和欧洲，可能持续至2027年。各国政府和企业需提前调整农业种植、能源储备和物流计划，以应对气候冲击带来的连锁反应。",
+      "reason": "超级厄尔尼诺是全球性气候事件，对粮食安全和航运物流产生广泛而深远的影响，必须高度关注。",
       "impact_areas": [
         "经济金融",
-        "政治"
+        "生态环境",
+        "产业"
       ],
       "impact_level": "重大",
       "sources": [
         {
           "name": "凤凰网",
-          "url": "https://original.ifeng.com/c/8w1WddkrnJB"
-        }
-      ]
-    },
-    {
-      "title": "我国首版全国几何基准影像发布",
-      "summary": "中国发布首版全国几何基准影像，标志着国家基础测绘水平取得重要进展。该影像可作为全国地面几何定位的统一基准，服务于遥感监测、国土规划、灾害应急和工程建设等领域。直接影响：各行业空间数据精度将得到统一提升，地理信息产业应用更加规范。深层意义：完善国家空间基础设施，为智慧城市、数字经济和防灾减灾提供高精度底图支撑。",
-      "reason": "国家级科技与测绘基础设施突破，支撑数字经济与公共服务。",
-      "impact_areas": [
-        "科技",
-        "社会"
-      ],
-      "impact_level": "重大",
-      "sources": [
-        {
-          "name": "央视网",
-          "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFA0d1JKdG9Jc1hzQXpPN3dtMEJvNE1peUhOajlGV0s1T2hQNDBFT3pRNHQteWlEMXRFbzNuUkJKT21RMFJBNUp3amdibUlqVWdyZzJJVmlwc2VMeEIyeGxRdnlFZ2ZWSGw5czRMWlhxVDJTbHhNa2VZSw?oc=5"
-        }
-      ]
-    },
-    {
-      "title": "塞浦路斯渡轮倾覆8死18失踪",
-      "summary": "一艘载有数百名乘客的渡轮在北塞浦路斯附近海域倾覆，已造成至少8人死亡、18人失踪。救援和搜救工作正在进行，事故原因尚在调查。直接影响：重大人员伤亡，地区海运安全和应急管理引发关注。深层意义：该事件再度敲响海上交通安全警钟，或推动区域性渡轮安全监管标准提升。",
-      "reason": "重大人员伤亡事故，涉及国际海域安全，多家国际媒体报道。",
-      "impact_areas": [
-        "社会"
-      ],
-      "impact_level": "重大",
-      "sources": [
-        {
-          "name": "BBC",
-          "url": "https://www.bbc.co.uk/news/articles/c770jyd4l7lo?at_medium=RSS&at_campaign=rss"
-        },
-        {
-          "name": "Reuters",
-          "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPNVlzWG1uLXVQZXVpTWtnajhCNzhhQV85eGNBTWc5V0NDYm91bWZHMFVSX2xUY19EU3RDRXF5d005RE8xUFZObEJsR2VqdUxGTWV3eUdVVm5ZLWxGLUtvMVNjWDFydlQxYUNudU5nOGMzNFo2SVVOZElxUk9OWDBWblNHMzloNEN6bnZJb3QzZU1wQXhET3BYeGQ4NERmT0VsYnQwQzVJVGc5SXk3YzJvWllBbw?oc=5"
-        }
-      ]
-    },
-    {
-      "title": "10名正省部级高官今年被查",
-      "summary": "财新《反腐记》栏目统计，2026年已有10名正省部级及以上高官被查，延续了当前强力反腐的态势。涉及省份和领域广泛，释放出持续从严的信号。直接影响：相关领域人事调整和监管强化将加速，对地方政商生态产生震慑效应。深层意义：反腐制度化、常态化趋势明显，影响中国政治治理与政商关系重塑。",
-      "reason": "中国政治领域重要反腐动态，反映治理方向并影响地方政经生态。",
-      "impact_areas": [
-        "政治"
-      ],
-      "impact_level": "重大",
-      "sources": [
-        {
-          "name": "财新网",
-          "url": "https://china.caixin.com/2026-08-31/102479928.html"
+          "url": "https://news.ifeng.com/c/8w28QTbC1Oe"
         }
       ]
     }
   ],
-  "total_fetched": 186,
-  "generated_at": "2026-08-31T07:26:39.144997+08:00"
+  "total_fetched": 256,
+  "generated_at": "2026-08-31T12:26:31.291048+08:00"
 }
