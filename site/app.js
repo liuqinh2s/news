@@ -73,10 +73,9 @@
     }).join(", ");
   }
 
-  function renderNewsCard(news, date) {
+  function renderNewsCard(news, date, meta) {
     const card = document.createElement("div");
     card.className = "news-card";
-    card.addEventListener("click", () => showModal(news, date));
     const levelClass = news.impact_level === "现象级" ? "level-phenomenal" : "";
     const tags = (news.impact_areas || []).map((a) => `<span class="tag">${a}</span>`).join("");
     card.innerHTML = `
@@ -91,12 +90,35 @@
         ${tags}
       </div>
       ${news.sources && news.sources.length ? `<div class="card-sources">来源: ${renderSources(news.sources)}</div>` : ""}
+      <div class="card-actions">
+        <button class="btn-poster" type="button">🖼 生成小红书图</button>
+      </div>
     `;
+    // 卡片主体点击看详情，导出按钮独立响应
+    card.addEventListener("click", () => showModal(news, date));
+    const btn = card.querySelector(".btn-poster");
+    btn.addEventListener("click", (e) => {
+      e.stopPropagation();
+      openPosterForNews(news, date, meta);
+    });
     return card;
   }
 
   function renderEmpty(msg) {
     return `<div class="empty-state"><p>${msg}</p></div>`;
+  }
+
+  /** 某一天的分组标题，右侧是整天打包导出按钮 */
+  function renderDayGroupHead(date, count) {
+    const head = document.createElement("div");
+    head.className = "day-group-head";
+    head.innerHTML = `
+      <span class="day-group-date">${date}</span>
+      <span class="day-group-count">${count} 条</span>
+      <button class="btn-poster" type="button">🖼 整天打包</button>
+    `;
+    head.querySelector(".btn-poster").addEventListener("click", () => openPosterForDay(date));
+    return head;
   }
 
   // ── 弹窗 ──────────────────────────────────────
@@ -121,6 +143,165 @@
   });
   document.addEventListener("keydown", (e) => {
     if (e.key === "Escape") modalOverlay.classList.remove("active");
+  });
+
+  // ── 小红书图片导出 ────────────────────────────
+  // 按日期缓存当天全部新闻，用于计算页码和整天打包
+  const newsByDate = {};
+
+  const posterOverlay = document.getElementById("posterOverlay");
+  const posterWrap = document.getElementById("posterCanvasWrap");
+  const posterDots = document.getElementById("posterDots");
+  const posterSub = document.getElementById("posterSub");
+  const posterPrev = document.getElementById("posterPrev");
+  const posterNext = document.getElementById("posterNext");
+  const posterSaveOne = document.getElementById("posterSaveOne");
+  const posterSaveAll = document.getElementById("posterSaveAll");
+  const posterClose = document.getElementById("posterClose");
+
+  // 当前预览状态
+  let pState = { canvases: [], names: [], idx: 0, date: "", mode: "single" };
+
+  function renderPosterStage() {
+    posterWrap.innerHTML = "";
+    const cv = pState.canvases[pState.idx];
+    if (cv) posterWrap.appendChild(cv);
+
+    posterDots.innerHTML = "";
+    if (pState.canvases.length > 1) {
+      pState.canvases.forEach((_, i) => {
+        const dot = document.createElement("button");
+        dot.className = "poster-dot" + (i === pState.idx ? " active" : "");
+        dot.type = "button";
+        dot.setAttribute("aria-label", `第 ${i + 1} 张`);
+        dot.addEventListener("click", () => { pState.idx = i; renderPosterStage(); });
+        posterDots.appendChild(dot);
+      });
+    }
+
+    const multi = pState.canvases.length > 1;
+    posterPrev.style.display = multi ? "" : "none";
+    posterNext.style.display = multi ? "" : "none";
+    posterPrev.disabled = pState.idx === 0;
+    posterNext.disabled = pState.idx === pState.canvases.length - 1;
+    posterSaveAll.style.display = multi ? "" : "none";
+    posterSub.textContent = `${pState.date} · 第 ${pState.idx + 1}/${pState.canvases.length} 张` +
+      (pState.mode === "day" ? "（含封面与结尾卡）" : "");
+  }
+
+  function openPosterModal() {
+    posterOverlay.classList.add("active");
+    renderPosterStage();
+  }
+
+  function closePosterModal() {
+    posterOverlay.classList.remove("active");
+    pState = { canvases: [], names: [], idx: 0, date: "", mode: "single" };
+    posterWrap.innerHTML = "";
+  }
+
+  /** 从当天缓存里反查某条新闻的页码信息 */
+  function metaOf(news, date) {
+    const dayNews = newsByDate[date] || [];
+    const i = dayNews.indexOf(news);
+    if (i < 0) return null;
+    return { index: i + 1, total: dayNews.length };
+  }
+
+  /** 单条新闻：只出一张内容图 */
+  function openPosterForNews(news, date, meta) {
+    if (!window.Poster) { showToast("图片模块未加载"); return; }
+    const dayNews = newsByDate[date] || [news];
+    const index = meta && meta.index ? meta.index : Math.max(1, dayNews.indexOf(news) + 1);
+    try {
+      const cv = Poster.renderCard(news, { index, total: dayNews.length, date });
+      pState = {
+        canvases: [cv],
+        names: [`拾闻_${date}_${String(index).padStart(2, "0")}.png`],
+        idx: 0, date, mode: "single",
+      };
+      openPosterModal();
+    } catch (err) {
+      console.error("生成图片失败:", err);
+      showToast("生成图片失败");
+    }
+  }
+
+  /** 整天：封面 + N 张内容 + 结尾卡 */
+  function openPosterForDay(date) {
+    if (!window.Poster) { showToast("图片模块未加载"); return; }
+    const dayNews = newsByDate[date] || [];
+    if (!dayNews.length) { showToast("这一天没有新闻数据"); return; }
+    try {
+      const canvases = Poster.renderDay(dayNews, date);
+      pState = {
+        canvases,
+        names: canvases.map((_, i) => `拾闻_${date}_${String(i + 1).padStart(2, "0")}.png`),
+        idx: 0, date, mode: "day",
+      };
+      openPosterModal();
+    } catch (err) {
+      console.error("生成图片失败:", err);
+      showToast("生成图片失败");
+    }
+  }
+
+  posterPrev.addEventListener("click", () => {
+    if (pState.idx > 0) { pState.idx--; renderPosterStage(); }
+  });
+  posterNext.addEventListener("click", () => {
+    if (pState.idx < pState.canvases.length - 1) { pState.idx++; renderPosterStage(); }
+  });
+  posterClose.addEventListener("click", closePosterModal);
+  posterOverlay.addEventListener("click", (e) => {
+    if (e.target === posterOverlay) closePosterModal();
+  });
+  document.addEventListener("keydown", (e) => {
+    if (!posterOverlay.classList.contains("active")) return;
+    if (e.key === "Escape") closePosterModal();
+    if (e.key === "ArrowLeft") posterPrev.click();
+    if (e.key === "ArrowRight") posterNext.click();
+  });
+
+  posterSaveOne.addEventListener("click", async () => {
+    const cv = pState.canvases[pState.idx];
+    if (!cv) return;
+    posterSaveOne.disabled = true;
+    try {
+      const blob = await Poster.canvasToBlob(cv);
+      const url = URL.createObjectURL(blob);
+      const a = document.createElement("a");
+      a.href = url;
+      a.download = pState.names[pState.idx];
+      document.body.appendChild(a);
+      a.click();
+      a.remove();
+      setTimeout(() => URL.revokeObjectURL(url), 1000);
+      showToast("图片已保存");
+    } catch (err) {
+      console.error(err);
+      showToast("保存失败");
+    } finally {
+      posterSaveOne.disabled = false;
+    }
+  });
+
+  posterSaveAll.addEventListener("click", async () => {
+    if (pState.canvases.length < 2) return;
+    posterSaveAll.disabled = true;
+    const original = posterSaveAll.textContent;
+    try {
+      await Poster.downloadDay(newsByDate[pState.date] || [], pState.date, (done, total) => {
+        posterSaveAll.textContent = `打包中 ${done}/${total}`;
+      });
+      showToast("已打包下载");
+    } catch (err) {
+      console.error(err);
+      showToast("打包失败");
+    } finally {
+      posterSaveAll.textContent = original;
+      posterSaveAll.disabled = false;
+    }
   });
 
   // ── 归档树 ────────────────────────────────────
@@ -163,14 +344,24 @@
     node.appendChild(toggle);
     const list = document.createElement("div");
     list.className = "tree-news-list";
-    newsArr.forEach((n) => {
+    newsArr.forEach((n, i) => {
       const item = document.createElement("div");
       item.className = "tree-news-item";
       const isPhenomenal = n.impact_level === "现象级";
-      item.innerHTML = `<span class="item-title">${n.title}</span><span class="item-level${isPhenomenal ? " phenomenal" : ""}">${n.impact_level || "重大"}</span>`;
+      item.innerHTML = `<span class="item-title">${n.title}</span><span class="item-level${isPhenomenal ? " phenomenal" : ""}">${n.impact_level || "重大"}</span><button class="item-poster" type="button" title="生成小红书图">🖼</button>`;
       item.addEventListener("click", () => showModal(n, date));
+      item.querySelector(".item-poster").addEventListener("click", (e) => {
+        e.stopPropagation();
+        openPosterForNews(n, date, { index: i + 1, total: newsArr.length });
+      });
       list.appendChild(item);
     });
+    // 这一天整体打包
+    const foot = document.createElement("div");
+    foot.className = "tree-day-actions";
+    foot.innerHTML = `<button class="btn-poster" type="button">🖼 整天打包（${newsArr.length + 2} 张）</button>`;
+    foot.querySelector(".btn-poster").addEventListener("click", () => openPosterForDay(date));
+    list.appendChild(foot);
     node.appendChild(list);
     return node;
   }
@@ -236,7 +427,7 @@
         return;
       }
 
-      const recentItems = [];
+      const recentDays = [];
       const archiveData = [];
 
       for (const report of index) {
@@ -245,21 +436,28 @@
         const news = detail.news || [];
         if (!news.length) continue;
 
+        // 缓存当天全量新闻，导出图片时用来算页码和整天打包
+        newsByDate[report.date] = news;
         news.forEach((n) => allNewsItems.push({ news: n, date: report.date }));
 
         if (isWithinDays(report.date, RECENT_DAYS)) {
-          news.forEach((n) => recentItems.push({ news: n, date: report.date }));
+          recentDays.push({ date: report.date, news });
         } else {
           archiveData.push({ date: report.date, news });
         }
       }
 
-      // 渲染近三天
-      if (recentItems.length) {
+      // 渲染近三天：按天分组，每组带整天导出入口
+      if (recentDays.length) {
         recentNewsEl.innerHTML = "";
-        recentItems.forEach((item) =>
-          recentNewsEl.appendChild(renderNewsCard(item.news, item.date))
-        );
+        recentDays.forEach(({ date, news }) => {
+          recentNewsEl.appendChild(renderDayGroupHead(date, news.length));
+          news.forEach((n, i) =>
+            recentNewsEl.appendChild(
+              renderNewsCard(n, date, { index: i + 1, total: news.length })
+            )
+          );
+        });
       } else {
         recentNewsEl.innerHTML = renderEmpty("近三天暂无新入选的大新闻");
       }
@@ -304,7 +502,7 @@
     }
     searchResults.innerHTML = "";
     matched.forEach((item) =>
-      searchResults.appendChild(renderNewsCard(item.news, item.date))
+      searchResults.appendChild(renderNewsCard(item.news, item.date, metaOf(item.news, item.date)))
     );
   }
 
@@ -339,6 +537,7 @@
       if (lastIndexHash !== null && hash !== lastIndexHash) {
         console.log("[auto-refresh] 检测到数据更新，刷新中...");
         allNewsItems = [];
+        Object.keys(newsByDate).forEach((k) => delete newsByDate[k]);
         await loadData(true);
         showToast("数据已自动更新");
       }

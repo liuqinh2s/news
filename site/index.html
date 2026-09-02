@@ -81,12 +81,37 @@
                 <div class="modal-content" id="modalContent"></div>
             </div>
         </div>
+
+        <!-- 小红书图片预览弹窗 -->
+        <div class="modal-overlay poster-overlay" id="posterOverlay">
+            <div class="poster-modal">
+                <div class="poster-head">
+                    <div>
+                        <h3 class="poster-title">小红书图片</h3>
+                        <p class="poster-sub" id="posterSub"></p>
+                    </div>
+                    <button class="modal-close" id="posterClose" aria-label="关闭">✕</button>
+                </div>
+                <div class="poster-stage">
+                    <button class="poster-nav prev" id="posterPrev" aria-label="上一张">‹</button>
+                    <div class="poster-canvas-wrap" id="posterCanvasWrap"></div>
+                    <button class="poster-nav next" id="posterNext" aria-label="下一张">›</button>
+                </div>
+                <div class="poster-dots" id="posterDots"></div>
+                <div class="poster-actions">
+                    <button class="btn-primary" id="posterSaveOne">保存当前图</button>
+                    <button class="btn-ghost" id="posterSaveAll">打包下载全部</button>
+                </div>
+                <p class="poster-hint">长按或右键图片可直接保存 · 1080×1440，适配小红书 3:4</p>
+            </div>
+        </div>
     </div>
 
     <!-- Toast 提示 -->
     <div id="toast" class="toast hidden"></div>
 
     <script src="data/all-data.js"></script>
+    <script src="poster.js"></script>
     <script src="app.js"></script>
 </body>
 

@@ -400,8 +400,9 @@ def _load_history_titles(days: int = 3) -> str:
 
 def _call_ai_once(client, model_name: str, system_prompt: str, user_prompt: str,
                   attempt_label: str, temperature: float = 0.3,
-                  max_tokens: int = 16000) -> "list[dict] | None | str":
-    """单次 AI 调用，返回解析后的列表，失败返回 None，429 过载返回 'rate_limited'"""
+                  max_tokens: int = 16000, parser=None) -> "list[dict] | None | str":
+    """单次 AI 调用，返回解析后的列表，失败返回 None，429 过载返回 'rate_limited'。
+    parser 可传入自定义解析函数（默认 parse_json_response），用于复用本函数做其他任务。"""
     try:
         response = client.chat.completions.create(
             model=model_name,
@@ -431,8 +432,9 @@ def _call_ai_once(client, model_name: str, system_prompt: str, user_prompt: str,
             )
         logger.info(f"AI 原始返回已保存: {ai_dump_path} (finish_reason={finish_reason}, {len(content)} 字符)")
 
-        # 保存到 reports/
-        ai_raw_path = REPORTS_DIR / f"{TODAY}-ai-raw.json"
+        # 保存到 reports/（卡片改写单独存一份，避免覆盖筛选阶段的调试产物）
+        raw_suffix = "-cards-ai-raw.json" if attempt_label.startswith("card_rewrite") else "-ai-raw.json"
+        ai_raw_path = REPORTS_DIR / f"{TODAY}{raw_suffix}"
         ai_raw_data = {
             "date": TODAY,
             "model": model_name,
@@ -449,9 +451,9 @@ def _call_ai_once(client, model_name: str, system_prompt: str, user_prompt: str,
         ai_raw_path.write_text(json.dumps(ai_raw_data, ensure_ascii=False, indent=2), encoding="utf-8")
         logger.info(f"📦 AI 原始返回 JSON 已保存: {ai_raw_path}")
 
-        result = parse_json_response(content)
+        result = (parser or parse_json_response)(content)
         if result is not None:
-            logger.info(f"✅ AI 返回 {len(result)} 条新闻")
+            logger.info(f"✅ AI 返回 {len(result)} 条记录")
             return result
         else:
             logger.warning(f"AI 返回内容无法解析为 JSON (finish_reason={finish_reason}, 长度={len(content)})")
@@ -692,6 +694,243 @@ def ai_filter_news(news_items: list[dict]) -> list[dict]:
     return []
 
 
+# ── 小红书卡片文案改写 ───────────────────────────────
+
+_CARD_FIELDS = ("category", "headline", "what", "question", "means", "note")
+
+
+def _build_card_input_text(filtered_news: list[dict]) -> str:
+    """把筛选后的新闻整理成卡片改写用的输入文本"""
+    blocks = []
+    for i, news in enumerate(filtered_news, 1):
+        sources = news.get("sources", []) or []
+        source_name = ""
+        for s in sources:
+            if isinstance(s, dict) and s.get("name"):
+                source_name = s["name"]
+                break
+            if isinstance(s, str) and s:
+                source_name = s
+                break
+        blocks.append(
+            f"【{i}】\n"
+            f"标题: {_sanitize_text(news.get('title', ''))}\n"
+            f"摘要: {_sanitize_text(news.get('summary', ''))}\n"
+            f"入选理由: {_sanitize_text(news.get('reason', ''))}\n"
+            f"影响领域: {' / '.join(news.get('impact_areas', []) or [])}\n"
+            f"影响等级: {news.get('impact_level', '重大')}\n"
+            f"主要来源: {source_name}"
+        )
+    return "\n\n".join(blocks)
+
+
+def _parse_cards_response(content: str) -> "list[dict] | None":
+    """解析卡片改写的 AI 返回，容忍 {"cards": [...]} 与裸数组两种形式"""
+    content = re.sub(r"[\x00-\x08\x0b\x0c\x0e-\x1f\x7f]", "", content).strip()
+    content = re.sub(r"^```(?:json)?\s*", "", content)
+    content = re.sub(r"\s*```$", "", content)
+
+    candidates = []
+    obj_match = re.search(r"\{.*\}", content, re.DOTALL)
+    if obj_match:
+        candidates.append(obj_match.group())
+    arr_match = re.search(r"\[.*\]", content, re.DOTALL)
+    if arr_match:
+        candidates.append(arr_match.group())
+
+    for raw in candidates:
+        for attempt in (raw, repair_json(raw), _fix_unescaped_quotes_in_json(raw)):
+            try:
+                parsed = json.loads(attempt)
+            except json.JSONDecodeError:
+                continue
+            if isinstance(parsed, dict):
+                for key in ("cards", "news", "data", "result"):
+                    if isinstance(parsed.get(key), list):
+                        return parsed[key]
+                continue
+            if isinstance(parsed, list):
+                return parsed
+    return None
+
+
+def _normalize_card(card: dict) -> "dict | None":
+    """校验并规整单张卡片的字段，缺关键字段返回 None"""
+    if not isinstance(card, dict):
+        return None
+
+    def _txt(key: str) -> str:
+        val = card.get(key, "")
+        return _sanitize_text(str(val)).strip() if val is not None else ""
+
+    means_raw = card.get("means", [])
+    if isinstance(means_raw, str):
+        means_raw = [m for m in re.split(r"[\n；;]", means_raw) if m.strip()]
+    means = []
+    if isinstance(means_raw, list):
+        for m in means_raw:
+            text = _sanitize_text(str(m)).strip()
+            text = re.sub(r"^[①②③④⑤\d]+[、.．)\s]*", "", text).strip()
+            if text:
+                means.append(text)
+
+    normalized = {
+        "category": _txt("category"),
+        "headline": _txt("headline"),
+        "what": _txt("what"),
+        "question": _txt("question"),
+        "means": means[:2],
+        "note": _txt("note"),
+    }
+
+    # headline / what 是卡片主体，means 是卡片的核心价值，缺任一项都判定不可用，
+    # 交给上层回落到降级推导，而不是渲染出一个空的「意味着什么」框
+    if not normalized["headline"] or not normalized["what"] or not normalized["means"]:
+        return None
+    return normalized
+
+
+def _derive_card(news: dict) -> dict:
+    """AI 改写不可用时，从现有字段降级推导卡片文案（保证前端总有内容可渲染）"""
+    areas = news.get("impact_areas", []) or ["综合"]
+    category = "·".join(areas[:2]) if len(areas) >= 2 else str(areas[0])
+
+    summary = _sanitize_text(news.get("summary", ""))
+    # 取摘要前一到两句作为「发生了什么」
+    sentences = re.split(r"(?<=[。！？])", summary)
+    what = ""
+    for s in sentences:
+        if not s.strip():
+            continue
+        if len(what) + len(s) > 60 and what:
+            break
+        what += s
+        if len(what) >= 30:
+            break
+    what = what or summary
+    # 单句就超长时按标点截断，避免卡片正文溢出三行
+    if len(what) > 60:
+        cut = max(what.rfind("，", 0, 60), what.rfind("、", 0, 60))
+        what = (what[:cut] + "…") if cut >= 30 else (what[:58] + "…")
+
+    reason = _sanitize_text(news.get("reason", ""))
+    means = []
+    if reason:
+        for part in re.split(r"[，,。；;]", reason):
+            part = part.strip()
+            if len(part) >= 6:
+                means.append(part[:18])
+            if len(means) == 2:
+                break
+    while len(means) < 2:
+        means.append(f"关注{category.replace('·', '、')}领域的后续变化")
+
+    return {
+        "category": category,
+        "headline": _sanitize_text(news.get("title", ""))[:14],
+        "what": what,
+        "question": "这件事会怎么影响你？",
+        "means": means[:2],
+        "note": "信息整理自公开报道，具体以官方发布为准。",
+        "derived": True,
+    }
+
+
+def _try_rewrite_with_provider(provider_name: str, filtered_news: list[dict],
+                               system_prompt: str, user_template: str) -> "list[dict] | None":
+    """用指定提供商做一次卡片改写，返回按输入顺序对齐的卡片列表"""
+    setup = _get_ai_client_and_model(provider_name)
+    if not setup:
+        return None
+    client, model_name, max_tokens, temperature = setup
+
+    user_prompt = (user_template
+                   .replace("{date}", TODAY)
+                   .replace("{count}", str(len(filtered_news)))
+                   .replace("{news_text}", _build_card_input_text(filtered_news)))
+
+    result = _call_ai_once(
+        client, model_name, system_prompt, user_prompt,
+        attempt_label=f"card_rewrite/{provider_name}",
+        temperature=temperature if temperature is not None else 0.6,
+        max_tokens=max_tokens,
+        parser=_parse_cards_response,
+    )
+    if result in (None, "rate_limited") or not isinstance(result, list):
+        return None
+
+    # 按 index 对齐；index 缺失或异常时退回顺序对齐
+    by_index: dict[int, dict] = {}
+    for pos, raw_card in enumerate(result, 1):
+        card = _normalize_card(raw_card)
+        if not card:
+            continue
+        idx = raw_card.get("index") if isinstance(raw_card, dict) else None
+        try:
+            idx = int(idx)
+        except (TypeError, ValueError):
+            idx = pos
+        if 1 <= idx <= len(filtered_news):
+            by_index.setdefault(idx, card)
+
+    if not by_index:
+        logger.warning(f"⚠️ {provider_name} 返回的卡片全部校验失败")
+        return None
+
+    cards = [by_index.get(i) for i in range(1, len(filtered_news) + 1)]
+    filled = sum(1 for c in cards if c)
+    logger.info(f"🎴 {provider_name} 卡片改写: {filled}/{len(filtered_news)} 条有效")
+    return cards
+
+
+def generate_cards(filtered_news: list[dict]) -> list[dict]:
+    """为每条新闻生成小红书卡片文案，写入 news['card']。缺失的用降级推导补齐。"""
+    if not filtered_news:
+        return filtered_news
+
+    try:
+        system_prompt = load_prompt("card_rewrite.md")
+        user_template = load_prompt("card_rewrite_user.md")
+    except FileNotFoundError as e:
+        logger.warning(f"⚠️ 卡片改写提示词缺失，全部降级推导: {e}")
+        for news in filtered_news:
+            news["card"] = _derive_card(news)
+        return filtered_news
+
+    cards: list[dict | None] = [None] * len(filtered_news)
+    for provider_name in _get_fallback_providers():
+        logger.info(f"🔄 卡片改写尝试提供商: {provider_name}")
+        try:
+            result = _try_rewrite_with_provider(
+                provider_name, filtered_news, system_prompt, user_template
+            )
+        except Exception as e:
+            logger.warning(f"⚠️ {provider_name} 卡片改写异常: {e}")
+            result = None
+        if not result:
+            continue
+        # 合并：只填补当前还空缺的位置
+        for i, card in enumerate(result):
+            if cards[i] is None and card:
+                cards[i] = card
+        if all(cards):
+            break
+        logger.info(f"⚠️ 仍有 {sum(1 for c in cards if c is None)} 条卡片缺失，尝试下一个提供商")
+
+    derived_count = 0
+    for i, news in enumerate(filtered_news):
+        if cards[i]:
+            news["card"] = cards[i]
+        else:
+            news["card"] = _derive_card(news)
+            derived_count += 1
+
+    if derived_count:
+        logger.warning(f"⚠️ {derived_count} 条卡片使用降级推导文案")
+    logger.info(f"✅ 卡片文案生成完成（AI {len(filtered_news) - derived_count} 条 / 降级 {derived_count} 条）")
+    return filtered_news
+
+
 # ── 生成 Markdown 日报 ───────────────────────────────
 
 
@@ -757,6 +996,15 @@ def main():
 
     # 2. AI 筛选
     filtered = ai_filter_news(news_items)
+
+    # 2.5 生成小红书卡片文案（失败不阻塞主流程，降级推导兜底）
+    if filtered:
+        try:
+            filtered = generate_cards(filtered)
+        except Exception as e:
+            logger.error(f"⚠️ 卡片文案生成失败，改用降级推导: {e}")
+            for news in filtered:
+                news.setdefault("card", _derive_card(news))
 
     # 3. 生成 Markdown
     md_content = generate_markdown(filtered)

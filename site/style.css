@@ -419,6 +419,42 @@ body {
     font-weight: 500;
 }
 
+/* 归档条目的单张导出按钮：默认隐形，hover 才浮现，避免干扰阅读 */
+.tree-news-item .item-poster {
+    background: none;
+    border: none;
+    padding: 2px 4px;
+    font-size: 0.85rem;
+    line-height: 1;
+    cursor: pointer;
+    border-radius: 6px;
+    flex-shrink: 0;
+    opacity: 0;
+    transition: opacity 0.15s, background 0.15s;
+}
+
+.tree-news-item:hover .item-poster,
+.tree-news-item .item-poster:focus-visible {
+    opacity: 0.75;
+}
+
+.tree-news-item .item-poster:hover {
+    opacity: 1;
+    background: var(--bg-secondary);
+}
+
+/* 触屏设备没有 hover，直接常显 */
+@media (hover: none) {
+    .tree-news-item .item-poster { opacity: 0.7; }
+}
+
+/* 归档某一天末尾的整天打包入口 */
+.tree-day-actions {
+    display: flex;
+    justify-content: flex-end;
+    padding: 8px 14px 4px;
+}
+
 /* ── Search ────────────────────────────────────── */
 .search-box {
     position: sticky;
@@ -578,4 +614,214 @@ body {
 
 .toast.hidden {
     display: none;
+}
+
+/* ── 小红书图片导出 ────────────────────────────── */
+
+/* 卡片上的导出按钮 */
+.card-actions {
+    display: flex;
+    gap: 8px;
+    margin-top: 12px;
+    padding-top: 12px;
+    border-top: 1px solid var(--border);
+}
+
+.btn-poster {
+    background: none;
+    border: 1px solid var(--border);
+    color: var(--text-secondary);
+    font-size: 0.8rem;
+    font-family: inherit;
+    padding: 6px 12px;
+    border-radius: 8px;
+    cursor: pointer;
+    transition: all 0.2s;
+}
+
+.btn-poster:hover {
+    border-color: var(--accent);
+    color: var(--accent);
+    background: var(--bg-hover);
+}
+
+/* 日期分组标题栏（含整天导出） */
+.day-group-head {
+    display: flex;
+    align-items: center;
+    gap: 4px;
+    margin: 20px 0 12px;
+    padding-bottom: 8px;
+    border-bottom: 1px solid var(--border);
+}
+
+.day-group-head:first-child { margin-top: 4px; }
+
+/* 日期与条数靠左，导出按钮推到右侧 */
+.day-group-head .btn-poster { margin-left: auto; }
+
+.day-group-date {
+    font-size: 0.95rem;
+    font-weight: 600;
+    color: var(--text-primary);
+}
+
+.day-group-count {
+    font-size: 0.78rem;
+    color: var(--text-muted);
+    font-weight: 400;
+    margin-left: 6px;
+}
+
+/* 预览弹窗 */
+.poster-overlay { z-index: 150; }
+
+.poster-modal {
+    background: var(--bg-card);
+    border-radius: 16px;
+    width: 100%;
+    max-width: 460px;
+    max-height: 92vh;
+    display: flex;
+    flex-direction: column;
+    padding: 18px;
+    box-shadow: 0 20px 60px rgba(0, 0, 0, 0.35);
+}
+
+.poster-head {
+    display: flex;
+    align-items: flex-start;
+    justify-content: space-between;
+    gap: 12px;
+    margin-bottom: 12px;
+}
+
+.poster-title {
+    font-size: 1.05rem;
+    color: var(--text-primary);
+    margin-bottom: 2px;
+}
+
+.poster-sub {
+    font-size: 0.78rem;
+    color: var(--text-muted);
+}
+
+.poster-head .modal-close { position: static; }
+
+.poster-stage {
+    position: relative;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    min-height: 0;
+}
+
+.poster-canvas-wrap {
+    flex: 1;
+    min-height: 0;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.poster-canvas-wrap canvas {
+    max-width: 100%;
+    max-height: 58vh;
+    border-radius: 10px;
+    border: 1px solid var(--border);
+    box-shadow: var(--shadow);
+}
+
+.poster-nav {
+    position: absolute;
+    top: 50%;
+    transform: translateY(-50%);
+    width: 34px;
+    height: 34px;
+    border-radius: 50%;
+    border: 1px solid var(--border);
+    background: var(--bg-card);
+    color: var(--text-secondary);
+    font-size: 1.3rem;
+    line-height: 1;
+    cursor: pointer;
+    z-index: 2;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.poster-nav:hover { color: var(--accent); border-color: var(--accent); }
+.poster-nav:disabled { opacity: 0.3; cursor: default; }
+.poster-nav.prev { left: -6px; }
+.poster-nav.next { right: -6px; }
+
+.poster-dots {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 6px;
+    justify-content: center;
+    margin: 12px 0 4px;
+}
+
+.poster-dot {
+    width: 7px;
+    height: 7px;
+    border-radius: 50%;
+    background: var(--border);
+    border: none;
+    padding: 0;
+    cursor: pointer;
+}
+
+.poster-dot.active { background: var(--accent); transform: scale(1.3); }
+
+.poster-actions {
+    display: flex;
+    gap: 10px;
+    margin-top: 12px;
+}
+
+.btn-primary, .btn-ghost {
+    flex: 1;
+    font-family: inherit;
+    font-size: 0.86rem;
+    padding: 10px 14px;
+    border-radius: 10px;
+    cursor: pointer;
+    transition: all 0.2s;
+}
+
+.btn-primary {
+    background: var(--accent);
+    border: 1px solid var(--accent);
+    color: #fff;
+    font-weight: 500;
+}
+
+.btn-primary:hover { background: var(--accent-hover); border-color: var(--accent-hover); }
+
+.btn-ghost {
+    background: none;
+    border: 1px solid var(--border);
+    color: var(--text-secondary);
+}
+
+.btn-ghost:hover { border-color: var(--accent); color: var(--accent); }
+.btn-primary:disabled, .btn-ghost:disabled { opacity: 0.5; cursor: default; }
+
+.poster-hint {
+    font-size: 0.72rem;
+    color: var(--text-muted);
+    text-align: center;
+    margin-top: 10px;
+    line-height: 1.5;
+}
+
+@media (max-width: 480px) {
+    .poster-modal { padding: 14px; max-width: 100%; }
+    .poster-canvas-wrap canvas { max-height: 52vh; }
+    .poster-nav.prev { left: 0; }
+    .poster-nav.next { right: 0; }
 }
