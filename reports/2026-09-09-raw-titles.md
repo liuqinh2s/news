@@ -1,123 +1,112 @@
-# 2026-09-09 原始新闻标题 (268 条)
+# 2026-09-09 原始新闻标题 (249 条)
 
-## 澎湃新闻 (19 条)
-- 当黄金大搬家与地缘碎片化共振，美元霸权开始“静水流深”式的坍塌
-- 马上评｜1公里内近20家，黑加油点不能总靠媒体曝光
-- 2026年上海旅游节大巡游本周六举行，相关道路将临时交通管制
-- 民进党当局声称台商在大陆投资要慎重，国台办驳斥
-- 1万个AI智能体88小时攻破90年难题？OpenAI宣布重大突破，数学界尚未认定
-- 姚明回忆人生首场比赛：作业没写完导致迟到，好在最后赢了
-- 李开复：不少企业把AI“大材小用”，AI不是用来“摆盆景”的
-- 多名邻居描述“梅姨”长相和网传肖像不一样：头发发白稀疏，有点驼背，瓜子脸
-- 李开复：我们中国的AI企业必须出海，现在是最好的时机
-- 从《霹雳菩萨》到《密档》，演员邵峰的这些年
-- 演员邵峰：看以前的表演呵呵一笑，谁没年轻过啊
-- 见微知沪｜个人“无自付”，上海生育友好建设又迈出一步
-- 董建华先生逝世
-- 民进党当局大肆鼓噪台湾民众赴大陆有所谓“风险”，国台办回应
-- “1890年美国就想用关税吞并我们”，加拿大总理发表全国动员应战讲话
-- “梅姨”称呼拐卖儿童的合伙人为“靓仔”“靓女”
-- 起底“神药”直播间②｜假洋品牌在国外注册转国内销：上架小网店，带货靠主播
-- 习近平就朝鲜国庆78周年向朝鲜最高领导人金正恩致贺电
-- 起底“神药”直播间①｜年售3.9亿的“养生局”：假专家、假神药，卖货全靠演
-
-## 南方周末 (1 条)
-- 第六次搬迁，义乌如何定义未来商贸市场
+## 澎湃新闻 (20 条)
+- 止步八强无缘卫冕美网，从伤病中走出阿尔卡拉斯的依然骄傲
+- 聚焦合成毒品治理难题，全球公共安全合作论坛国际禁毒分论坛举行
+- 澎湃漫评｜AI再先进，也代替不了实地调研
+- 武契奇宣布解散国民议会并确认提前选举日期
+- 国新办发布会丨介绍金融领域贯彻落实“十五五”规划、推动金融强国建设有关情况
+- 上海市政府发布会丨介绍《美丽上海建设“十五五”规划》有关情况
+- 2026武汉网球公开赛今日开票，世界排名前十球员悉数登场
+- 上海市现代农业投资发展集团有限公司原党委书记、董事长张国坤严重违纪违法被双开
+- 武汉长江大桥桥头堡长期封闭市民盼开放，文旅部门：维修未完毕，将统一公布开放时间
+- 苏州科技大学一学生被指骗养小猫后虐杀：警方以诈骗行政立案，学校对其留校察看
+- “梅姨”社交账号显示其曾以“谢某珍”进行防疫登记，相熟邻居称她多选择现金支付
+- 湖南长沙一非法代孕场所被查封，6名涉案人员被控制
+- 上交所向星宇股份下发监管工作函
+- 谭案说法 | 女子要把触臀的男童送上被告席维权？ 她可能赢不了
+- 【社论】礼敬师者，致敬教育家精神
+- 在第四十二个教师节到来之际，习近平向全国广大教师和教育工作者致以节日祝贺和诚挚问候
+- 专访邵峰：白衣飘飘是过往，布衣小人物是归途
+- 早高峰一路口红灯要等8分钟？记者实测发现时间更久
+- 特朗普家族度假区项目惹起怒火：阿尔巴尼亚“火烈鸟革命”已逾百日
+- 美国指责中国AI公司蒸馏美企，外交部：中国AI发展是高水平科技自立自强的成果
 
 ## 凤凰网 (20 条)
-- 黎家盈太空卧室首公开，她带去了这些最爱的物品
-- 德国政坛地震，特朗普发声：他们终于不忍了！
-- 董建华先生遗像
-- 上海“免费生娃”新政，这些注意事项不可不知
-- 拼科技拼渗透！俄官员解读乌方求谈判：只为熬过寒冬
-- 控诉男童性骚扰女子的罪与罚
-- “天宫课堂”从一个特殊的陀螺开始
-- 老师的“不快乐”，如何化解
-- 深圳200斤男子抠脚不洗手染上丹毒
-- 胡锡进谈4岁男童摸臀事件：警方不要怕女子胡搅蛮缠
-- 国台办：祖国统一对于台湾同胞而言不是选答题，而是必答题
-- 董建华先生逝世
-- 选战倒计时！特朗普支持率跌至33%创任期新低
-- 以色列宣布4项举措反制英国涉以制裁
-- 清华大学杨振宁高等研究院揭牌，翁帆出席仪式并发言
-- 英语当然要成为主科，但需要加强实用性
-- 4岁男童“骚扰”闹剧：拿弱者当流量垫脚石，不配做人
-- 国台办：民进党当局为阻挠两岸交流交往不断歪曲事实，令人不齿
-- “梅姨”在广州白云区约10平米的出租屋落网，月租550元左右
-- 女子偷拍亲密视频要挟局长，意外牵出受贿案
+- 媒体原创宁夏中卫五小附近儿童被拐？别转，是谣言！#媒体精选计划#媒体辟谣团近日，一则“寻人启事” 在宁夏中卫市部分微信群里传播，内容十分令人揪心：“帮忙转发，本人：马永军今天上午5 岁 - 凤凰网
+- 桑切斯：我就算是条狗，也没有主人 - 凤凰网
+- 七岁女孩收到学校奖励的小猪，取名“猪妞”并亲手做猪食喂养，“希望以后能养得很大” - 凤凰网
+- “好好读书奖励小猪”发起人谈小猪去向：一般是留着自己吃，少有人卖出去 - 凤凰网
+- 水下机器人如何在恶劣海况稳定工作？ - 凤凰网
+- 来服贸会 看AI如何为教育赋能 - 凤凰网
+- 习语丨“为中华民族的复兴贡献你们的聪明才智” - 凤凰网
+- 视频丨天地同框的浪漫！航天员和地面课堂学生合影 - 凤凰网
+- 泰国内阁原则批准初创企业促进法案草案 - 凤凰视频
+- 出门一趟成“武林高手”了！男子旅游发现“武功秘籍”，跟练招式，网友：真经练倒了 - 凤凰网
+- 00后青岛女生高位瘫痪用双手挑战登顶五岳 完成与父亲的约定 - 凤凰视频
+- 太平洋岛国帕劳涉台小动作不断，高志凯建议外交部发言人下次再被问到相关问题时直接回：帕劳在哪啊？ - 凤凰视频
+- 宝宝被惊雷吓哭，爸爸着急安抚连摔两跤，网友：这是有责任心的好父亲 - 凤凰网
+- “中华美食说”多语种Talk参赛指南来了！ - 凤凰视频
+- 全国人大常委会答红星新闻：制定托育服务法、修改道交法等 已推进或列入今年立法工作计划 - 凤凰视频
+- 宁德时代回应“车间员工过激行为”：不是本公司，已报警 - 凤凰视频
+- 秦俑护财 识破AI亲情骗局 - 凤凰视频
+- 苹果折叠屏手机命名被曝光：iPhone Duo，售价或2000美元起最早将于10月上市配色包括白色和深蓝色 - 凤凰视频
+- 首位香港“天空人”口中的“神器”有多神｜凤凰聚焦 - 凤凰网
+- 巴基斯坦亮出中国红旗-17AE防空系统，补齐中近程防空短板 - 凤凰网
 
-## 财新网 (19 条)
-- 贝森特警告市场勿与其作对：“我现在就是庄家”
-- 图集｜香港首任特首董建华逝世 享年89岁
-- 赛车起火救援缺位 China GT暴露重大安全漏洞
-- 专访HIZERO李开玖：一个中国清洁品牌如何走向海外高端市场
-- 1100万人口来自200余个国家 美团Keeta如何在阿联酋做外卖？｜出海·消费
-- 8月CPI、PPI同比涨幅扩大、环比由降转涨 由何拉动？
-- 从“征信第一案”看数据要素市场演进：打破数据围栏，迈向可信流通
-- 【市场动态】欧盟与加拿大筹划全面合作协议 深化伙伴关系
-- 【家庭财富】百年房市：地产在“深度老龄化+城镇化见顶”时代并不落寞
-- 今日开盘：小幅高开 沪指涨幅0.09%
-- T早报｜DeepSeek扩招150人；Meta发布个人AI智能体Muse；华为“韬定律”芯片麒麟9050 Pro首现身
-- 【市场动态】苹果十年磨一剑 折叠屏iPhone项目提速缘起库克亚洲之行
-- 【市场动态】布伦特原油升向100美元关口 袭击导致沙特暂停部分能源设施运行
-- 财新闻｜曾举报多人学术不端问题的“耿同学”已落户杭州，获聘高校特聘讲师
-- 【市场动态】贝森特债市抛售潮“退烧”计划即将揭晓 华尔街如坐针毡
-- 8月出口的“三条主线”
-- 醴陵观瓷散记｜纪行
-- 8月出口增速进一步上升：“新新三样”崭露头角
-- 川航连续三任“一把手”落马 原董事长李海鹰退休三年后被查
+## 财新网 (1 条)
+- 谷歌 - deepview.caixin.com
 
-## 央视网 (8 条)
+## 央视网 (10 条)
 - 惹祸的婚车 - 央视网
 - 北京：相约京城 邂逅大戏 - 央视网
 - 大山里的教书人 - 央视网
-- 中国服务贸易如何转型升级？ - 央视网
+- 今年以来全国政协委员3214人次参加各类协商会议 - 央视网
+- 上海徐汇警方通报“男子在某商场内故意推翻展陈商品”：已依法刑事立案 - 央视网
 - 伊朗称成功打击两艘美军驱逐舰 - 央视网
-- 加拿大总理动员全民“上场”应对加美贸易战 - 央视网
+- 伊朗军方警告：将袭击科威特及巴林港口油轮 船员需立即撤离 - 央视网
 - 进一步规范儿童座椅电子功能 这一国家标准将于10月起实施 - 央视网
-- 第九个中国农民丰收节总体安排公布 将举办47项重点活动 - 央视网
+- 医保“组合拳”惠及更多劳动者 为新就业群体托起“稳稳的幸福” - 央视网
+- 一度电看江西 万亿级产业集群追“新”逐“绿”加速“奔跑” - 央视网
 
-## BBC (13 条)
-- UK announces sanctions on West Bank settlements prompting furious Israeli response
-- Paul Adams: British-Israeli relations at lowest ebb in decades
-- US slaps import ban on Canadian alcohol, motorbikes and other goods
-- 'Constantly on my mind' - 9/11 agony goes on for bereaved, 25 years on
+## BBC (16 条)
+- Oil hits $100 a barrel for first time since July after US and Houthi strikes
+- US to ban imports of some Canadian alcohol, dairy goods and motorbikes
+- Tycoon to pay ex-wife $1.87bn in record South Korea divorce settlement
 - Meta continues to run ads promoting child sexual abuse material in India - report
-- Ukrainian TV channel building hit by Russian drone as five killed in Kyiv
+- Baby orangutans found in Indian forest spark trafficking inquiry
+- 'You're not alone in the darkness': Gambia president urges calm after violent blackout protests
 - Hong Kong's first leader after British handover dies
 - British widow faces deportation from Sweden after 22 years
+- South Park creators rename show 'South America' in apparent dig at Trump
+- Ukrainian TV channel building hit by Russian drone as five killed in Kyiv
 - Fourteen go on trial over deadliest Channel small boats disaster
-- New Yorkers were 'lied' to about toxic air after 9/11 attacks, says Mamdani
 - LIV files for bankruptcy protection with over $45m owed to players
+- 'Constantly on my mind' - 9/11 agony endures for bereaved, 25 years on
+- British-Israeli relations at lowest ebb in decades
 - Hegseth is shaking up the Pentagon as the US wages war - but at what cost?
 - Where is Israel's proposed West Bank settlement the UK opposes?
 
-## Reuters (6 条)
-- UK publishes legislation for tougher sanctions on Iran over nuclear programme - Reuters
-- Brazil court crisis deepens as justice orders federal police chief suspended - Reuters
-- US judge dismisses suit by British anti-disinformation activist against deporting him - Reuters
-- Thieves steal Renoir paintings from French Riviera museum - Reuters
-- Trump administration cuts criticism of Confederate statue that stood at Arlington Cemetery - Reuters
-- Vessels in the Strait of Hormuz near the beach of Bandar Abbas - The Lufkin Daily News
+## Reuters (7 条)
+- US treasury chief Bessent backs using US financial power as foreign policy tool - reuters.com
+- UK publishes legislation for tougher sanctions on Iran over nuclear programme - reuters.com
+- Iran retaliates against US allies after its oil tankers destroyed - reuters.com
+- EXCLUSIVE: Singapore Airlines to seek tougher terms for any fresh Air India funding, sources say - reuters.com
+- Brazil court crisis deepens as justice orders federal police chief suspended - reuters.com
+- US judge dismisses suit by British anti-disinformation activist against deporting him - reuters.com
+- How two Israeli brothers are driving a West Bank settler land grab - reuters.com
 
-## NYTimes (17 条)
-- Israeli Allies Ban Trade With Settlements as U.K. Cites ‘Ethnic Cleansing’
+## NYTimes (20 条)
+- How a Driver’s Sudden Death Triggered Ebola Panic in Congo
+- Europe Unites to Pressure Israel, Breaking With U.S.
+- Iran Signals Readiness to Escalate War With U.S. Amid Rising Economic Pressure
+- Ukraine’s Unexpected $27 Billion Budget Gap Rattles Europe
+- This Tiny Anti-Establishment Party May Put Germany’s Far Right in Power
+- The Theme Park at the Heart of France’s Culture War
+- Israel’s Election Campaign Is Heating Up. Here’s Who’s Running.
+- Nepal’s Flood Relief Workers Feel the Pain of Trump’s Cuts to U.S.A.I.D.
+- In England — Yes, England — Tea and Cantaloupe Grow as the Climate Warms
+- Why This Small Dutch Town Is Teaching ‘Adolescence’ in School
 - Saudi Arabia and Yemen’s Houthis Edge Back to the Brink of War
 - Carney Says Retaliation Against U.S. Tariffs Was Unavoidable
-- Hungary Expels 10 Russian Diplomats, Signaling a Shift
-- Iceland Summons U.S. Ambassador Over Provocative Trump Map
-- Australian Social Media Users Could Get Power to Switch Off Algorithms
-- Rubio Meets Colombia’s Leader, Cites Progress on Security and Tariffs
-- Russia Bombards Kyiv Soon After Witkoff, Kushner Leave
-- The Theme Park at the Heart of France’s Culture War
-- Iran Signals Readiness to Escalate War With U.S. Amid Rising Economic Pressure
+- Singapore’s Prime Minister Gets a Big Raise
+- Making Coffins in Ebola’s Epicenter
+- Travelers Face More Flight Delays After Major Air Traffic Disruption at UK Airports
 - Tung Chee-hwa, Who Led Hong Kong After Its Return to China, Dies at 89
 - U.S. Hits 5 Iranian Oil Tankers, Citing Attempted Strikes on Warship
 - Canada’s Carney Doubles Down on Pivot Away from the United States
 - Before Oct. 7 Attack, Netanyahu Was Warned, Report Says. He Denies It.
 - Impunity in the West Bank
-- Bombardier Shares Down as Trump’s Trade War Targets Canadian Jet Maker
-- Eiffel Tower Workers Strike, Saying Women Were Excluded From Hindu Group’s Visit
 
 ## CNN (6 条)
 - 0% intro APR until 2024 is 100% insane
@@ -128,26 +117,26 @@
 - Want Cash Out of Your Home? Here Are Your Best Options
 
 ## 微博热搜 (20 条)
-- 早春晴朗大结局
-- 西电学生回应数学开学考
+- 宁德时代已报警
+- 河南地震
 - 服贸会今日开幕
-- 女孩去邻居家吃饭惨遭夫妻分尸
-- 复方甘草片 低钾血
-- 一只羊脱衣全过程
-- 硬座出差 软裁员
-- 这段话杀死了内耗型人格
-- 女子向大雁塔景区雨水井塞不明物
-- 栾念尚之桃结局
-- 高考数学132分 开学考只考了12分
-- 被台湾省人点赞10万的简中文豪
-- 刘雯全球收入第三的超模
-- 女子与局长亲密勒索不成告强奸未遂
-- 安静公主宣布暂时退网
-- 给阿嬷的情书从潮汕走到威尼斯
-- 荣耀Magic9ProMax苔青色
-- 美伊以冲突
-- 猥亵女生教官所在公司不具备军训资质
-- 伊朗革命卫队打击约旦美军基地
+- 微博出金条了
+- 苹果Duo怎么读
+- 人民日报锐评一边高消费一边领低保
+- 栾念尚之桃穿得太少了
+- 迪丽热巴老式脸盆帽子
+- 司美格鲁肽有5大副作用
+- 梅姨微信朋友圈曝光
+- 王者万象棋首支职业战队成立
+- 赖冠霖疑似结婚了
+- 宁德时代宜宾基地回应
+- 宁德时代
+- 尼古拉斯凯奇房塌了
+- 高圆圆说在结婚后的几年是痛苦的
+- 18岁男生熬夜猝死账号取名早些睡
+- 赖冠霖退圈的原因
+- 曾辉录披哥胖了11斤
+- A股市场正在经历一场深刻的风格重塑
 
 ## 知乎热榜 (20 条)
 - 猫的性格是由颜色决定的吗？
@@ -162,146 +151,134 @@
 - 我发现很多农村教堂并没有发鸡蛋，那为什么还有那么多老头老太太去信？
 - 为什么牧羊犬能指挥羊群进退？
 - 瞎扯 · 如何正确地吐槽
+- 熊猫吃竹子是刻在基因中的习性吗？可以通过从小喂养其他食物改变吗？
 - 古代士兵中箭后没有消炎药，伤口感染了还能扛过去吗？
 - 英语「China」是来自「秦」、「晋」，还是别的来源？
 - 为什么几千年作为蔬菜的甜菜，没有被发现能产糖？
 - 古代士兵的伙食如何？
 - 祈雨等仪式活动为什么在古代社会中备受重视，如果不成功为何还会继续?
 - 为什么科学已经证实天空上没有天堂，但信宗教的人依旧相信有神的存在？
-- 世界上有俄罗斯、白俄罗斯，什么时候会出现赤、橙、黄、绿、青、蓝、紫俄罗斯？
-- 有哪些长相比较逆天的植物？
+- 你觉得什么品种的蛇最吓人？
 
 ## B站热门 (20 条)
-- 【招笑版】新植物8:嘴巴很大花
 - 《未眠野》首曝PV | 万物都在回应，世界没有答案
-- OpenAI官宣攻克千禧年七大难题的NS方程问题
-- 新三国up锐评楚汉传奇17：丞相，我太想进步了！
+- 花200000买个金丝楠树瘤，放家里藏了10年，锯开一看震惊全场
+- 中国制造的电动 MG, 英国人怎么看？
+- 【招笑版】新植物8:嘴巴很大花
+- 想让车连续弹射，你得先冷下来。。。【X.PIN】
+- 混动的大脑被上汽造出来了，MG 07 上的 ECU 到底有多少技术含量？
+- 给老外算卦｜科罗拉多
+- 老大！这么犯规的打法，我们真的能打赢吗！！？
+- 挑战0元城市生存（1.2）
+- 不是哥们儿，咱宿舍还有正常人嘛？
+- 也算是太岁头上动了把土！
+- 小样，我这不直接拿下你~
+- 这个全球最大的游戏展上，国产游戏已经彻底疯狂了！
 - 《阴阳师》石长姬CG丨拾光永恒（CV：小清水亚美）
-- 凡人不凡，执剑为侠！剑网3x凡人修仙传联动PV今日上映！
-- 2026战场直击 · 吼吼吼
-- 《鸣潮》共鸣者「景燃」PV | “问神”
-- 商业鬼才
-- 【独家】《百日成王》第23集 龙傲【7月国创】
-- 昭和金曲《友の酒》《朋友的酒》日语男声完整版（空城计の小曲）
-- 跑完沈阳马拉松挑战“全家福肘子饭”，一小时吃完奖金888元，能吃饱吗
-- 【IGN】《塞尔达传说 时之笛》发售日预告 | 任天堂直面会
-- 《你往里面加了什么》
-- 25万开的饭店，今天正式倒闭了，总结出了三条失败原因！
-- 芭提雅放松现场照，暴露美军内部多少门道？
-- RTX 5060首发：人人“骂” 现在：大学生⚡️概念神⚡️
-- <“世界顶级杀手”正在带妹>第一集
-- 对话汉斯·季默！如何用一段旋律创造一个电影宇宙？
-- 爆肝六个月！40万字详解对越自卫反击战秘闻，我们对越南都做了什么？
+- 《我是自愿开学的》复旦大学随机采访！
+- 癌症转移的第一站，为啥总是「肝」？
+- 《物业费最贵の一集》
+- 零食店开始集体"动手脚"，网友：不要把我们当傻子，好吗？
+- 资本弃子包贝尔，彻底塌房
+- S4前瞻特别节目精彩回顾 | 速览！看看S4到底有什么
 
 ## 抖音热搜 (20 条)
-- 皇马2:1击败国米
-- 写给老师的教师节贺卡
+- 燕麦系秋天的神
+- 在太空拧湿毛巾有多神奇
 - 青春华章
+- 伊朗打击美军基地和战舰
+- 写给老师的教师节贺卡
 - 小米回应澎程试驾事故
-- 龙版传媒停牌核查
-- 国足公布新一期集训名单
-- IG 3:0战胜LGD
-- 毛泽东逝世50周年
-- 觉醒吧我的厨艺天赋
-- 华屋村的十七棵松与长征精神
-- 香港首任特首董建华逝世
 - 郑钦文今晚对阵莱巴金娜
-- 我的世界出现一位姑娘
-- 人类对运动的开发不足百分之一
-- 国庆出游日常不费力穿搭
-- 鼎叔魔性化妆模仿挑战
-- 兰香如故所有人都在尽全力活着
+- 女高音歌唱家龚爽告别仪式举行
+- OpenAI宣布AI给出千禧难题证明
+- 这群十号线搞科创的年轻人太飒了
+- 人在异乡胃在故乡
+- 孙绍骋被双开
+- 杜兰特在抖音潜水被发现了
+- 今日人设是可可美人
+- 妙鼻生花好浪漫
+- 香港首任特首董建华逝世
 - 我和毛孩天下第一好
-- 伊朗罕见用韩语警告韩国
-- 陈赫澄清腰伤不影响工作
+- 被自己的戏曲扮相惊艳到了
+- 解析苹果华为小米折叠屏三国杀
+- 苹果折叠屏叫iPhone Duo
 
-## 丁香园 (1 条)
+## 丁香园 (5 条)
+- 明州节日 | 8・19 中国医师节，致敬每一位明州医者 - y.dxy.cn
+- 配眼镜，千万别只盯着“度数”！医院验光VS普通验光，差别到底有多大？ - y.dxy.cn
 - 【科室动态】发挥名医工作室引领作用，宫腔镜技术惠泽边疆——我院举办宫内疾病诊疗培训班 - y.dxy.cn
+- 瑞金海南医院完成中国首例Vutrisiran临床使用，为ATTR患者带来创新治疗新希望 - y.dxy.cn
+- 【母婴健康】2026年9月健康教育——孕期情绪管理与心理调适 - y.dxy.cn
 
 ## 雪球热帖 (20 条)
-- 大摩：比亚迪股份重申“增持”评级 目标价121港元 - 新浪网
-- 曹姓股民向联创光电发起索赔 宋一欣律师接受咨询 - 新浪网
-- ST得润索赔时效剩三个月 受损股民仍可起诉 - 新浪网
-- 广州垣标再生资源回收部完成商务部绿色流通服务企业备案公示 注册资本300万、参保0人 - 新浪网
-- 湖北烁闵金属制品有限公司完成商务部绿色流通服务企业备案公示，注册资本30万人民币、参保0人 - 新浪网
-- 万宁兴隆洪宇盛再生资源门市部完成商务部绿色流通服务企业备案公示注册资本5万人民币、参保0人 - 新浪网
-- 杭州美钰环保科技有限公司完成商务部绿色流通服务企业备案公示注册资本100万人民币、参保0人 - 新浪网
-- 国足召入四位U19球员，其中还有一位高中生，邵佳一的这次冒险值得肯定 - 新浪网
-- 天津市鑫院丽废旧物资回收有限公司完成商务部绿色流通服务企业备案公示，注册资本10万人民币、参保0人 - 新浪网
-- 上饶森融再生资源有限公司完成商务部绿色流通服务企业备案公示 注册资本100万、参保0人 - 新浪网
-- 富国新活力灵活配置混合过去一年盈利投资者数量占比92.74%，持有人户数21019户 - 新浪网
-- 云南穗格农业科技有限公司完成商务部绿色流通服务企业备案公示注册资本500万人民币、参保0人 - 新浪网
-- 数智监管要平衡好风控与创新 - 新浪网
-- 绿色电力ETF国泰（159669）涨0.54%，半日成交额75.78万元 - 新浪网
-- A50ETF鹏华（512240）跌0.09%，半日成交额65.88万元 - 新浪网
-- 基建ETF广发（516970）涨0.18%，半日成交额1603.93万元 - 新浪网
-- ESG300ETF国联安（159653）涨0.25%，半日成交额5087.00元 - 新浪网
-- 沪深300ESGETF富国（516830）涨0.29%，半日成交额286.23万元 - 新浪网
-- 房地产ETF华夏（515060）跌1.49%，半日成交额2143.22万元 - 新浪网
-- 沪深300ETF鹏华（159673）涨0.16%，半日成交额6789.90万元 - 新浪网
+- 大摩：比亚迪股份重申“增持”评级 目标价121港元 - 新浪财经
+- 黄姓股民向康欣新材发起索赔 刘鹏律师接受咨询 - 新浪财经
+- l姓股民向联创光电发起索赔 刘鹏律师接受咨询 - 新浪财经
+- 李姓股民向ST佳缘发起索赔 厉健律师接受咨询 - 新浪财经
+- ST得润索赔时效剩三个月 受损股民仍可起诉 - 新浪财经
+- 家用电器行业2026年中报总结：汇兑和原材料导致Q2承压 把握龙头经营韧性 - 新浪网
+- 金元晨报 - 新浪网
+- 研报掘金丨华源证券：维持小商品城“买入”评级，数贸中心交付增厚收入 - 新浪财经
+- 天地科技：股东诚通金控拟增持3亿至6亿元股份 - 新浪财经
+- 普洛药业(000739.SZ)：头孢托仑匹酯获得化学原料药上市申请批准 - 新浪财经
+- 国足召入四位U19球员，其中还有一位高中生，邵佳一的这次冒险值得肯定 - 新浪财经
+- 【机构持仓】ClearBridge Investments, LLC增持SK海力士 - 新浪财经
+- 药物受理最新动态：北京亚东生物制药有限公司小儿咽扁颗粒补充申请获受理 - 新浪财经
+- 主力榜丨同类流出金额最大！黄金ETF华安（518880）流出1.05亿元 - 新浪财经
+- 药物受理最新动态：长春海悦药业股份有限公司地塞米松磷酸钠注射液补充申请获受理 - 新浪财经
+- 药物受理最新动态：山西天生制药有限责任公司阿胶补充申请获受理 - 新浪财经
+- 当出境追星撞上低保红线，保生存与容过错如何同框？ - 新浪财经
+- 药物受理最新动态：山东诺禾康药业有限公司西格列汀二甲双胍缓释片仿制申请获受理 - 新浪财经
+- Anthropic研究员称人工智能“灭绝全人类”概率超10% - 新浪财经
+- 河北陆星铜冶炼科技有限公司完成商务部绿色流通服务企业备案公示注册资本60000万人民币、参保8人 - 新浪财经
 
 ## 36氪 (20 条)
-- Cerberus即将收购Goodwin防务业务，估值约10亿英镑
-- 恒指午间休盘收平，恒生科技指数跌0.58%
-- 半日主力资金加仓机械设备、国防军工板块，抛售传媒股
-- 三星入股帕西尼？CEO许晋诚回应万亿巨头股东传闻
-- A股三大指数午间休盘涨跌不一，三人行跌停
-- 海光信息推出“面向词元（Token）经营的双芯加速解决方案”
-- 铠侠反驳与SK海力士建立更深度合作关系的说法，承诺缓解芯片价格涨势
-- 京东云与摩尔线程达成深度合作，拟建十万卡国产智算集群
-- 我国特色锂矿石伴生铷铯资源高效绿色分离技术取得新突破
-- 三星显示和iQOO将首次在海外联合发布新屏幕技术
-- 小马智行推出多哈首个全无人驾驶Robotaxi体验项目
-- 韩国选定220亿美元天然气项目，作为该贸易协定下首个投资项目
-- 创业板指回落翻绿，开盘一度涨超1%
-- 沪深两市成交额突破1万亿元
-- 海底捞跌超8%，创四年半来盘中新低
-- 小米汽车：澎程N90 Max探索版属小型专用客车，私家车用户新车上牌前需上线检测
-- 灵巧手相关国标预计年底对外公示
-- 美国财长贝森特暗示正推动新法案以削减财政赤字
-- 红日药业：血必净注射液被纳入国际脓毒症指南属实，暂无海外销售
-- 我国研发投入前1000家民企持续加强创新
+- 迅捷兴：目前光模块非公司主要收入来源
+- 瑞萨电子再发涨价函
+- 深华发A：目前经营情况正常，不存在未披露重大事项
+- 东诚药业：贝米肝素钠注射液上市申请获受理
+- 机构今日买入崇达技术等22股，卖出敦煌种业2.13亿元
+- 燧原科技：股票将于9月11日在科创板上市
+- 2连板云煤能源：本周国内煤焦价格偏强运行，市场环境未发生重大调整
+- 联影医疗：上半年国内5T及以上磁共振产品收入同比增超50%
+- 阿里称无招回归千问办公消息不实
+- 2连板黑猫股份：炭黑产品价格上调仅为成本传导举措
+- 2连板精艺股份：铜价上涨对公司经营不存在利好
+- SK海力士再度回应：尚未就重庆工厂股权出售事宜做出决定
+- ST龙元：法院决定对公司进行预重整
+- 阿里巴巴与顺丰达成战略合作
+- 城地香江：前期已披露数据中心工程项目合同终止
+- 上交所向星宇股份下发监管工作函
+- 亚振家居：亚振投资拟减持公司不超3%股份
+- 市场消息：银湖资本将合并CEGID与SILAE，组建规模超100亿欧元的集团
+- 2连板众泰汽车：全新A0级车型已进入批量试制阶段，尚未形成销售
+- OpenAI拟拓展芯片设计等垂直行业，并下调部分模型价格
 
 ## 虎嗅 (20 条)
-- 她觉得自己也是4岁
-- 美国正试图将加拿大变为“经济附庸国”
-- 松岛泰胜：军事化正“杀死”关岛未来
-- 24家国产模拟芯片业绩PK：行情复苏，钱都被谁赚走了？
-- “崩老头”屹立在AI 风口之上
-- 主动吃苦：选择学农的年轻人
-- 我用AI当了半个月老板，被我自己的Agent开了
-- 牛奶生意为啥这么难？
-- 霸王茶姬，开卖茶叶蛋
-- 把话说透一点
-- 大基建，又一个“4万亿”来了
-- 预约单贵20%：网约车实时单的便宜，是有人替你垫了
-- 离开元戎启行三个月，刘念邱拿下近亿美元
-- 从上海裸辞，花2万环球旅居两年，重启人生了吗？
-- 她为什么敢向四岁孩子发起“性骚扰”舆论战？
-- Mary的“坠落”：美国新生儿取名逻辑一百多年里发生了哪些变化？
-- 卧底东南亚黑灰产社群：明码标价的人口、查档和洗钱一条龙
-- 4岁男童"骚扰"闹剧：拿弱者当流量垫脚石，不配做人
-- 市值最高跌八成，利润跌四成，洋河股份为何突然“喝不动”了？
-- 国家为什么突然给八家金融央企增资3600亿？
+- 抱上亚马逊大腿，高通AI第二曲线“稳了”？
+- 全球第一的梅卡曼德，遇上一道无解的“估值题”
+- 从朋友那里听到关于婚姻的震撼洞见。
+- 留给科技赛道发挥的时间不多了
+- “避坑专家”勇哥开快餐店，全网吐槽“割韭菜”
+- 60+只产业基金，游戏厂商集体转身做"AI金主"
+- 哈啰失守的账户，支付宝不能隐身
+- 牛，太牛了，难，太难了
+- 美国网红飞到深圳，和中国工厂做起新生意
+- 仅次于美国，印度是全世界第二大英语使用国，英语为何没能让印度变强大
+- 手机建起的入口城池，正在被Agent拆解？
+- 星宇股份的麻烦才刚开始
+- 重奢商场加速清空，谁来补位？
+- 汤家凤：普通人用不上英语，普通人：语文数学我们也用不上
+- 旧地图服务于欧洲水手，非洲被“小看”457年，专访新世界地图推动者：全球资本低估了非洲大陆，希望学校、出版社和科技企业更改地图
+- 半年时间，我做垮了一家AI影视公司
+- 这回，AI真的打过来了
+- 全球能源供应链重构对中国绿色转型的挑战、机遇与对策研究
+- 那只旅行的青蛙，揭开了游戏IP生意最残酷的一面
+- 半年净赚1713亿，股价却跌近12%：“牛市旗手”为什么不灵了？
 
-## 少数派 (2 条)
+## 少数派 (4 条)
+- 我一定会回来……吗？小手用户与 iPhone 17 Pro Max 的一年
+- 华人世界被忽视的游戏主机：扩写中国家用游戏主机的时间线
 - Velastar：喜欢仰望星空的你，有了一个探索异星的新选择
 - 派早报：LG 电视被曝存在后门、《塞尔达传说：时之笛》重制版公布等
-
-## GitHub Trending (16 条)
-- ayghri/i-have-adhd
-- cathrynlavery/diagram-design
-- openai/skills
-- affaan-m/ECC
-- heygen-com/hyperframes
-- coreyhaines31/marketingskills
-- obra/superpowers
-- multica-ai/andrej-karpathy-skills
-- microsoft/markitdown
-- jo-inc/camofox-browser
-- MoonTechLab/LunaTV
-- browser-use/browser-use
-- mksglu/context-mode
-- The-Swarm-Corporation/AutoHedge
-- viarotel-org/escrcpy
-- openai/plugins
