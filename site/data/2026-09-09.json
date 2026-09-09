@@ -2,318 +2,322 @@
   "date": "2026-09-09",
   "news": [
     {
-      "title": "美摧毁伊朗油船 伊朗警告弃船",
-      "summary": "美军中央司令部称在阿拉伯海摧毁5艘试图发动导弹攻击的伊朗油轮。伊朗革命卫队随后宣布在霍尔木兹海峡捕获一架美国潜艇无人潜航器，并警告科威特和巴林附近油轮船员立即弃船，地区紧张明显升级。此次冲突发生在美伊就核问题与航道安全博弈加剧的背景下。直接影响是中东原油运输通道面临中断风险，国际油价波动加大；同时伊朗展示不对称对抗能力，霍尔木兹海峡这一全球能源咽喉的安全形势受到严重威胁。若冲突延续，全球能源供应、航运保险和地区国家外交选择都将受到长期扰动。",
-      "reason": "美军与伊朗直接交火并波及油轮航道安全，霍尔木兹海峡是全球能源大动脉，冲突升级直接影响油价与地缘稳定。",
+      "title": "董建华逝世享年89岁",
+      "summary": "香港特别行政区首任行政长官董建华于2026年9月9日逝世，享年89岁。董建华1997年7月出任香港特区首任行政长官，2005年因健康原因请辞，任内推动“一国两制”落实，是香港回归历程的关键人物。多家中外媒体当日集中报道并刊发纪念内容。其逝世引发对香港历史与现状的回顾，也牵动对“一国两制”香港实践的讨论。",
+      "reason": "香港回归后首任特首逝世，标志性政治人物，中外主流媒体高度关注。",
       "impact_areas": [
-        "地缘",
+        "政治",
+        "社会"
+      ],
+      "impact_level": "现象级",
+      "sources": [
+        {
+          "name": "澎湃新闻",
+          "url": "https://m.thepaper.cn/detail/34036672"
+        },
+        {
+          "name": "凤凰网",
+          "url": "https://news.ifeng.com/c/8wH6lxEEp3Q"
+        },
+        {
+          "name": "财新网",
+          "url": "https://photos.caixin.com/2026-09-09/102483105.html"
+        },
+        {
+          "name": "BBC News",
+          "url": "https://www.bbc.co.uk/news/articles/cn457lq938jo"
+        }
+      ],
+      "card": {
+        "category": "政治·港澳",
+        "headline": "港首任特首董建华逝世",
+        "what": "2026年9月9日，香港特区首任行政长官董建华逝世，享年89岁，任内推动一国两制落实",
+        "question": "香港民生政策会有调整吗？",
+        "means": [
+          "香港社会短期或出现舆论波动",
+          "一国两制实践讨论将升温"
+        ],
+        "note": "后续需关注官方纪念活动及政策信号"
+      }
+    },
+    {
+      "title": "中东局势升级油价逼近100美元",
+      "summary": "中东地区冲突显著升级。伊朗方面声称成功打击两艘美军驱逐舰；沙特部分能源设施因袭击暂停运行，推动布伦特原油价格升向每桶100美元关口。此前美国已对5艘伊朗油轮实施打击，伊朗释放进一步升级对美对抗的信号。霍尔木兹海峡附近局势高度紧张，能源市场与地缘政治风险同步升温，全球通胀预期和经济前景面临新的不确定性。",
+      "reason": "美伊军事摩擦直接冲击全球原油供应，布伦特逼近百元，影响世界经济和能源安全。",
+      "impact_areas": [
         "经济金融",
+        "地缘",
         "能源"
       ],
       "impact_level": "现象级",
       "sources": [
         {
-          "name": "Reuters",
-          "url": "https://www.reuters.com/business/energy/us-military-says-it-destroyed-five-iranian-oil-carriers-after-attempted-missile-2026-09-08/"
+          "name": "央视网",
+          "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5fakZsZVBiTkZRRG01VFhyR3hwQ1dvU0kzdFFub1pLM3dSU3JrMnRlMmsta3d2d0NGR1RFNmVldXlHVUlXY29HWEQxa3Y2dUNWZ2xVN3RBendoYk92NzVJWlVwZnp3enAxcXl5SjNPVTFBWlRsQTVDRQ?oc=5"
         },
         {
-          "name": "Reuters",
-          "url": "https://www.reuters.com/world/middle-east/iran-says-it-captured-us-submarine-drone-strait-hormuz-2026-09-08/"
+          "name": "财新网",
+          "url": "https://database.caixin.com/2026-09-09/102483018.html"
         },
         {
-          "name": "雪球热帖",
-          "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNR0R2aEpIV2QydGVWSlBDZFQ1M2prMWtXbXFVQ21Lb1AyeXVDbWFnM3hOV1VGQ1ptREVMY2lWYWQwcWpTZldmWk16d0ZkT1FpOVVLUzBfQ3Fnc0pHa1BFbW8zalE4YWp2aTNQeWNZS2FCaWxkRHlNRWZKNVJtY2lQMEZmYnh4SXc?oc=5"
+          "name": "NYTimes",
+          "url": "https://www.nytimes.com/2026/09/09/world/middleeast/iran-war-us-aggression-hormuz.html"
         }
       ],
       "card": {
         "category": "地缘·能源",
-        "headline": "美伊海上冲突，油轮风险升高",
-        "what": "美军中央司令部称在阿拉伯海摧毁5艘伊朗油轮，伊朗革命卫队称捕获美潜航器并警告船员弃船。",
-        "question": "我的加油成本会涨多少？",
+        "headline": "中东冲突升级油价逼近百元",
+        "what": "近期美伊军事摩擦升级，沙特部分能源设施暂停运行，布伦特原油价格逼近每桶100美元",
+        "question": "我的出行成本会涨多少？",
         "means": [
-          "油价和物流运费或受影响",
-          "航运保险费和进口成本可能抬升"
+          "打车加油成本或将小幅上涨",
+          "全球通胀压力可能持续加大"
         ],
-        "note": "冲突是否延续仍取决于美伊下一步行动，关注霍尔木兹海峡状态。"
+        "note": "油价走势仍取决于中东局势后续发展"
       }
     },
     {
-      "title": "英国制裁以色列定居点以色列怒",
-      "summary": "英国政府宣布对以色列约旦河西岸定居点实施制裁，成为首个采取此类措施的欧洲主要国家，英方官员在解释决定时使用“种族清洗”措辞，引发以色列强烈反应。法国、加拿大随后发表联合声明谴责以色列，呼吁落实“两国方案”。英国与以色列关系陷入数十年来最低点。制裁可能包括限制部分以色列定居者入境和资产冻结，影响以英双边贸易与外交合作。该事件反映国际社会对以色列定居点政策的压力正从口头谴责转向实际措施，或推动其他西方国家跟进，加大以色列外交孤立。也令中东和平进程谈判面临新的变量。",
-      "reason": "英国率先对以色列定居点实施制裁并定性种族清洗，西方对以政策出现标志性转变，冲击中东格局。",
-      "impact_areas": [
-        "地缘",
-        "政治"
-      ],
-      "impact_level": "重大",
-      "sources": [
-        {
-          "name": "BBC",
-          "url": "https://www.bbc.co.uk/news/articles/c4g7zen0vveo?at_medium=RSS&at_campaign=rss"
-        },
-        {
-          "name": "NYTimes",
-          "url": "https://www.nytimes.com/2026/09/08/world/europe/uk-sanctions-israel-west-bank-settlements.html"
-        },
-        {
-          "name": "雪球热帖",
-          "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFAzbldMMGhFSnVlNVRJT1dEX1RFcHRCMUpQZENGQmtucjBndlJXQlV6Qnk4aU92bkNyS3JLdElQSW84bnhzaEdyaXk1akVTanlORm5rNWxNTEtsX1pJWUp5aC10WDBfa2IzZFplZ0dseGdyZlhUMGNWbg?oc=5"
-        }
-      ],
-      "card": {
-        "category": "地缘·外交",
-        "headline": "英国制裁以色列定居点",
-        "what": "英国成为首个制裁以色列约旦河西岸定居点的欧洲主要国家，并罕见使用种族清洗措辞，以方强烈抗议。",
-        "question": "中东局势会进一步升级吗？",
-        "means": [
-          "以色列相关旅游和航班或受影响",
-          "欧洲与以色列经贸往来面临调整"
-        ],
-        "note": "制裁具体范围和执行时间尚未完全公布，需跟踪后续细则。"
-      }
-    },
-    {
-      "title": "俄袭基辅致5死乌增购导弹",
-      "summary": "俄罗斯无人机袭击乌克兰基辅，一栋电视大楼建筑被击中，造成5人死亡，袭击发生在美国特使威特科夫和库什纳离开基辅后不久。与此同时，乌克兰国防部长表示，乌方正与盟国签约采购约1000枚“爱国者”防空导弹，以增强对俄导弹和无人机的拦截能力。俄方空袭试图在西方外交高官到访后展示攻击能力并削弱乌克兰防空体系；乌方扩大爱国者系统弹药储备则显示西方防空武器已成为乌克兰防御支柱。此轮空袭和军购表明俄乌冲突在导弹攻防层面继续升级，战争长期化风险并未缓解，欧洲安全格局进一步紧绷。",
-      "reason": "俄军在美国特使离开后空袭基辅并造成伤亡，乌克兰大规模增购爱国者导弹，显示冲突升级长期化。",
-      "impact_areas": [
-        "地缘",
-        "军事"
-      ],
-      "impact_level": "重大",
-      "sources": [
-        {
-          "name": "BBC",
-          "url": "https://www.bbc.co.uk/news/articles/cn8m1k7p3v7o?at_medium=RSS&at_campaign=rss"
-        },
-        {
-          "name": "Reuters",
-          "url": "https://www.reuters.com/business/aerospace-defense/ukraine-contracting-around-1000-patriot-missiles-allies-defence-chief-says-2026-09-08/"
-        },
-        {
-          "name": "NYTimes",
-          "url": "https://www.nytimes.com/2026/09/08/world/europe/russia-ukraine-kyiv-attacks.html"
-        }
-      ],
-      "card": {
-        "category": "地缘·军事",
-        "headline": "俄袭基辅致5死，乌增购导弹",
-        "what": "俄罗斯无人机袭击基辅一栋电视大楼，造成5人死亡；乌克兰宣布签约采购约1000枚爱国者防空导弹。",
-        "question": "天然气价格还会再涨吗？",
-        "means": [
-          "欧洲能源价格将继续波动",
-          "冲突持续或推高全球物流成本"
-        ],
-        "note": "战事走向难以预料，进一步军援和谈判信号需持续关注。"
-      }
-    },
-    {
-      "title": "特朗普再限加拿大 加方反制",
-      "summary": "美国总统特朗普宣布将加拿大产品排除出美国政府采购计划，进一步升级对加贸易施压。加拿大总理卡尼回应称，对美国关税的报复“不可避免”，并强调美国已不再是加拿大最可靠伙伴，加拿大将加快减少对美依赖，推动贸易多元化。此前新一轮关税已波及加拿大庞巴迪公司，导致其股价下跌。美加这两个长期盟友间的贸易摩擦正从商品关税扩大到政府采购与航空航天领域，对双边供应链、制造业成本和地区经济一体化造成冲击。卡尼政府的强硬姿态表明加拿大转向“去美国化”经济战略，北美贸易格局面临重塑，或对其他依赖美国市场的经济体形成示范效应。",
-      "reason": "美国将加拿大排除出政府采购叠加加方强硬反制，美加贸易战扩大至产业政策，影响北美供应链和全球贸易。",
+      "title": "加拿大动员全民应对美关税",
+      "summary": "针对美国对加拿大实施的进口禁令，加拿大总理卡尼发表全国动员讲话，称反制措施不可避免，号召全民“上场”应战。美国已宣布对加拿大酒精、摩托车及其他商品加征进口禁令，并试图将加拿大变成“经济附庸”。加拿大各界将此视为本国经济主权挑战，正加速推动市场多元化，减少对美依赖。美加贸易战进一步升级，对两国供应链、制造业和双边关系产生深层次冲击。",
+      "reason": "美加贸易战骤然激化，美国对加拿大实施进口禁令，牵动北美产业链和全球经济格局。",
       "impact_areas": [
         "经济金融",
-        "地缘"
+        "地缘",
+        "产业"
       ],
       "impact_level": "重大",
       "sources": [
         {
-          "name": "36氪",
-          "url": "https://www.36kr.com/newsflashes/3975377903857924"
+          "name": "央视网",
+          "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBMN1NDeEJTZHFRYngxWnRwaDF4U2tfdWRGWUNzSDFCQTJnbDk5c05EMnZnMnFvWURtWkJ6MHpXZWxRcGNuQ0FaRW1NMGhENTE0Zno4VFFvYkQ1aGFMRk9uQnAtblR6VEt3NzBUajlfVEFiT2FObVU5eQ?oc=5"
         },
         {
-          "name": "NYTimes",
-          "url": "https://www.nytimes.com/2026/09/08/world/canada/carney-tariffs-trade.html"
+          "name": "BBC News",
+          "url": "https://www.bbc.co.uk/news/articles/c99dm1000p7o"
         },
         {
-          "name": "NYTimes",
-          "url": "https://www.nytimes.com/2026/09/08/world/canada/carney-trump-canada-us-trade-war.html"
+          "name": "虎嗅",
+          "url": "https://www.huxiu.com/article/4889751.html"
         }
       ],
       "card": {
         "category": "经济·贸易",
-        "headline": "美加贸易摩擦再升级",
-        "what": "美国总统宣布将加拿大产品排除出政府采购计划，加总理称报复不可避免，并要加快减少对美依赖。",
-        "question": "加拿大代购和留学成本会涨吗？",
+        "headline": "美加贸易战升级全民动员",
+        "what": "美国对加拿大实施进口禁令，加总理卡尼发表全国讲话，号召全民应战反制",
+        "question": "北美进口商品会涨价吗？",
         "means": [
-          "留意加拿大进口商品价格变化",
-          "北美留学就业市场或受波及"
+          "北美进口商品或出现价格上涨",
+          "全球供应链格局可能逐步调整"
         ],
-        "note": "加拿大反制清单和生效时间待公布，短期波动难免。"
+        "note": "后续需关注两国反制措施具体内容"
       }
     },
     {
-      "title": "香港首任特首董建华逝世",
-      "summary": "香港首任行政长官董建华逝世，享年89岁。董建华是香港回归后首位特别行政区行政长官，1997年至2005年在任，其任内经历亚洲金融危机、SARS疫情等重大考验，推动香港经济复苏和内地与香港更紧密经贸关系。中央政府及香港社会各界表示哀悼。董建华离世标志着一个时代的落幕，使外界重新审视“一国两制”在港实践历程。他的去世也可能引发对香港政治生态历史和现状的讨论，短期内对香港社会情绪和舆论场有一定影响，但不会改变香港现行治理架构。作为香港重要政治人物，其身后悼念活动及历史评价将在未来数日持续受到关注。",
-      "reason": "香港首任特首逝世是重大政治历史人物新闻，多源广泛报道，具有历史节点意义。",
+      "title": "8月物价与出口数据同日发布",
+      "summary": "国家统计局和海关总署公布8月经济数据。CPI、PPI同比涨幅扩大、环比由降转涨，显示内需边际改善；8月出口增速进一步提升，“新新三样”崭露头角，出口结构持续优化。数据组合释放出国内物价企稳、外需韧性仍存的信号，对判断下半年经济走势和宏观政策空间具有重要参考价值。",
+      "reason": "核心宏观数据同步揭晓，反映内需物价与出口状况，直接影响政策预期和市场判断。",
       "impact_areas": [
-        "政治",
-        "社会"
-      ],
-      "impact_level": "重大",
-      "sources": [
-        {
-          "name": "凤凰网",
-          "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE5nUi1rMThTaXRHbzVNOG5wQmFJdEFVZmpZRHNvaDZhcFVIbUl6SWFybzg5ZFA4NG8waTVPcWpLRlJSTy1MSnhRVg?oc=5"
-        },
-        {
-          "name": "Reuters",
-          "url": "https://www.reuters.com/world/china/tung-chee-hwa-hong-kongs-first-leader-under-chinese-rule-dies-89-2026-09-08/"
-        }
-      ],
-      "card": {
-        "category": "政治·香港",
-        "headline": "香港首任特首董建华逝世",
-        "what": "香港首任行政长官董建华逝世，享年89岁，1997至2005年在任，曾经历亚洲金融危机和SARS疫情。",
-        "question": "香港政策会迎来变化吗？",
-        "means": [
-          "香港短期社会秩序保持平稳",
-          "关注后续悼念与历史定调"
-        ],
-        "note": "官方治丧安排尚未公布，各界评价可能持续见诸报道。"
-      }
-    },
-    {
-      "title": "OpenAI年底部署自研AI芯片",
-      "summary": "OpenAI首席财务官透露企业业务势头强劲，同时公司计划在今年年底前开始部署与博通合作开发的AI芯片“Jalapeño”。该芯片将用于训练和推理自研大模型，以减少对英伟达GPU的依赖。目前AI算力需求爆发导致GPU供应紧张和成本高企，OpenAI自研芯片若能按期落地，将改善其算力成本结构，增强模型训练灵活性和议价能力。此举也反映头部AI公司正加速芯片自主化，可能重塑AI算力供应链格局，对英伟达、AMD及定制芯片生态产生深远影响。若部署顺利，OpenAI将具备更强的模型迭代速度和组织壁垒，行业竞争将进入“模型+芯片”双重较量阶段。",
-      "reason": "OpenAI自研AI芯片年底部署，标志AI巨头向算力底层延伸，将改变AI芯片市场格局。",
-      "impact_areas": [
-        "科技"
-      ],
-      "impact_level": "重大",
-      "sources": [
-        {
-          "name": "36氪",
-          "url": "https://www.36kr.com/newsflashes/3975360004895236"
-        },
-        {
-          "name": "雪球热帖",
-          "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9xZmlYZVU3eTZTcjNKUkpiZldlMUNpRGJ0YlF5ZkNwS2JZSGJfdHlBOUxmRDVxTGJPWEJwZmpYNG1tcW55MXhnTTF1SDBVNlYzb1VYSUpGTjZDOWZpNUc5ZEJRZ25wQ3FNQ2o0aWozd3Bqa1FLV0o2RjRB?oc=5"
-        }
-      ],
-      "card": {
-        "category": "科技·AI",
-        "headline": "OpenAI自研芯片年底部署",
-        "what": "OpenAI计划年底前部署自研AI芯片，用于训练和推理自有模型，以减少对英伟达GPU的依赖。",
-        "question": "AI会员费会更便宜吗？",
-        "means": [
-          "大模型服务成本有望降低",
-          "英伟达一家独大格局或松动"
-        ],
-        "note": "年底部署是目标节点，量产进度与实际效果仍需验证。"
-      }
-    },
-    {
-      "title": "SpaceX市值重返2万亿美元",
-      "summary": "SpaceX总市值时隔多日重回2万亿美元，股价创7月7日以来新高。此前该公司通过星舰试飞、星链业务扩展及政府合同推动估值上升。市值突破2万亿美元使SpaceX成为全球最具价值的私营科技公司之一，同时反映市场对商业航天、低轨卫星互联网和深空运输商业化的乐观预期。对二级市场而言，SpaceX虽未上市，但其估值变化直接影响一级市场航天企业融资和产业链相关公司估值水平；星链卫星互联网商业化提速也可能对通信运营商和设备商形成长期竞争压力。这一市值里程碑强化了商业航天作为新兴投资主线的地位，可能带动更多资金涌入太空经济赛道。",
-      "reason": "SpaceX市值重上2万亿美元，商业航天景气信号强烈，影响全球科技投资风向。",
-      "impact_areas": [
-        "科技",
         "经济金融"
       ],
       "impact_level": "重大",
       "sources": [
         {
-          "name": "36氪",
-          "url": "https://www.36kr.com/newsflashes/3975352228606472"
+          "name": "财新网",
+          "url": "https://economy.caixin.com/2026-09-09/102483042.html"
+        },
+        {
+          "name": "财新网",
+          "url": "https://opinion.caixin.com/2026-09-09/102482976.html"
         }
       ],
       "card": {
-        "category": "科技·航天",
-        "headline": "SpaceX市值重返2万亿",
-        "what": "SpaceX总市值重返2万亿美元，股价创7月7日以来新高，市场对星链和商业航天前景持续乐观。",
-        "question": "星链服务离普通人还有多远？",
+        "category": "经济·宏观",
+        "headline": "8月物价出口数据同步公布",
+        "what": "国家统计局及海关总署公布8月数据，CPI、PPI涨幅扩大，出口增速提升结构优化",
+        "question": "我的生活成本会继续涨吗？",
         "means": [
-          "低轨卫星互联网商业化将提速",
-          "商业航天产业链岗位和订单或增加"
+          "日常消费品价格或小幅上涨",
+          "宏观政策调整预期有所增强"
         ],
-        "note": "SpaceX未上市，市值来自私募市场交易，非公开股价。"
+        "note": "后续需关注央行及发改委政策动向"
       }
     },
     {
-      "title": "多地推高校租购商品房去库存",
-      "summary": "据澎湃新闻报道，全国多地出台政策鼓励高校租购市场存量商品房，以补齐高校学生宿舍和教师住房短板，同时为房地产去库存提供新路径。由于近年来高校扩招令宿舍床位紧张，部分高校尝试通过市场化方式盘活周边空置楼盘，“以购代建”“以租代建”模式逐步增多。该政策既缓解高校基建资金压力，又能消化三四线城市存量住房，具有一定的民生和产业双重意义。对普通家庭而言，可能影响高校住宿成本、周边学区房租售格局；对地方财政和开发商来说，则可以带来资金回笼。但这种模式需要防范项目烂尾、区位错配、后续运营成本等问题，政策效果仍有待观察。",
-      "reason": "高校租购存量商品房将教育与房地产去库存挂钩，直接影响学生住宿与住房市场。",
+      "title": "八家金融央企获增资3600亿",
+      "summary": "国家向八家金融央企增资3600亿元，以补充资本实力。本轮增资涉及国有大型金融机构，有助于增强其稳健经营和服务实体经济能力，也是对金融体系化解风险、支持重大战略的资本支撑。市场分析认为，此举释放出国家强化金融稳定、提升国有金融资本效率的政策信号，对银行、保险等板块及整体金融体系风险偏好产生积极影响。",
+      "reason": "千亿级国有金融资本补充，体现国家层面对金融稳定的强力支持，是重要政策信号。",
       "impact_areas": [
-        "教育",
-        "房地产",
-        "社会"
+        "经济金融"
+      ],
+      "impact_level": "重大",
+      "sources": [
+        {
+          "name": "虎嗅",
+          "url": "https://www.huxiu.com/article/4889712.html"
+        }
+      ],
+      "card": {
+        "category": "经济·金融",
+        "headline": "八家金融央企获增资3600亿",
+        "what": "国家向八家金融央企增资3600亿元，补充资本实力，增强服务实体经济能力",
+        "question": "我的存款理财会更安全吗？",
+        "means": [
+          "银行理财等金融产品安全性提升",
+          "实体经济融资环境将逐步改善"
+        ],
+        "note": "后续需关注金融板块市场表现及政策"
+      }
+    },
+    {
+      "title": "OpenAI智能体破90年数学难题",
+      "summary": "OpenAI宣布重大突破：1万个AI智能体在88小时内协同攻破了一道困扰数学界90年的难题。该成果引发科技界广泛关注，但数学界尚未正式认定其证明有效性。若最终通过验证，将意味着AI在科学发现与复杂推理领域迈出跨时代一步，同时也对数学研究范式、科研协作方式和AI能力边界产生深远影响。",
+      "reason": "AI智能体攻克长期数学难题，若获验证将开创科研智能体时代，科技权重高。",
+      "impact_areas": [
+        "科技",
+        "学术"
       ],
       "impact_level": "重大",
       "sources": [
         {
           "name": "澎湃新闻",
-          "url": "https://m.thepaper.cn/detail/34030852"
+          "url": "https://m.thepaper.cn/detail/34036814"
         }
       ],
       "card": {
-        "category": "教育·住房",
-        "headline": "高校租购商品房补宿舍",
-        "what": "多地出台政策鼓励高校租购存量商品房，用于学生宿舍和教师住房，并借此去化楼市库存。",
-        "question": "宿舍条件会明显改善吗？",
+        "category": "科技·AI",
+        "headline": "OpenAI智能体破90年数学难题",
+        "what": "OpenAI宣布1万个AI智能体在88小时内，协同攻破一道困扰数学界90年的难题",
+        "question": "AI能帮我解决工作难题吗？",
         "means": [
-          "学生住宿选择会更灵活",
-          "三四线地产去库存迎来新买家"
+          "AI科研协作能力获突破性验证",
+          "未来AI或替代部分科研工作"
         ],
-        "note": "各区落地进度不同，需要防范项目烂尾和区位错配风险。"
+        "note": "成果有效性尚未获数学界正式认定"
       }
     },
     {
-      "title": "全球癌症2050年或增67%",
-      "summary": "一项最新研究报告显示，到2050年全球癌症病例数量可能激增67%，主要驱动因素包括人口老龄化、生活方式改变以及空气污染和肥胖等风险因素上升。报告预测中低收入国家增幅将更为显著，医疗资源匮乏地区将承受更大压力。若预测成真，癌症治疗、药品研发、医保支出和社会护理将成为各国公共卫生系统的沉重负担。肿瘤早筛、疫苗和治疗创新需求将加速释放，跨国药企、诊断设备和医保行业面临长期结构性机会。但如果不加强控烟、疫苗接种、环境污染治理等一级预防措施，仅靠医疗体系扩容难以遏制发病趋势，公共政策需提前统筹应对。",
-      "reason": "癌症病例未来25年或增67%是全球重大健康预警，影响公共卫生和医药产业方向。",
-      "impact_areas": [
-        "公共卫生",
-        "社会"
-      ],
-      "impact_level": "重大",
-      "sources": [
-        {
-          "name": "澎湃新闻",
-          "url": "https://m.thepaper.cn/detail/34036027"
-        }
-      ],
-      "card": {
-        "category": "公共卫生",
-        "headline": "全球癌症病例或增67%",
-        "what": "最新研究预计到2050年全球癌症病例将增加67%，老龄化、不健康生活方式、空气污染和肥胖是主要推力。",
-        "question": "我该怎么降低患癌风险？",
-        "means": [
-          "早筛和体检项目会更受重视",
-          "医保药品支出压力可能加大"
-        ],
-        "note": "这是模型预测，效果取决于癌症预防措施是否真正落地。"
-      }
-    },
-    {
-      "title": "中央气象台发布暴雨蓝色预警",
-      "summary": "中央气象台9月9日6时继续发布暴雨蓝色预警，预计未来24小时多地有暴雨或大暴雨。此次降雨过程影响范围广，部分地区累计雨量大，可能引发城市内涝、山洪、地质灾害及中小河流洪水。气象部门提醒相关地区加强防范和交通管制，公众需关注临近预报预警信息避免前往山区河谷等危险区域。暴雨不仅直接影响居民出行安全，还可能对农业生产、基础设施运行和交通运输造成损失。同时，强降雨可能对局部地区秋收和蔬菜供应产生干扰，相关政府部门需提前部署排水防涝和应急抢险，降低对生产生活的冲击。",
-      "reason": "全国性暴雨预警直接影响公众出行安全和农业防灾，是当日重要民生提示。",
+      "title": "“梅姨”在广州落网",
+      "summary": "长期被舆论关注的拐卖儿童案相关嫌疑人“梅姨”在广州白云区一处约10平方米的出租屋落网，月租约550元。多名邻居描述其实际长相与网传模拟画像存在差异：头发花白稀疏、驼背、瓜子脸。该案源于多年前广东系列拐卖儿童案件，社会关注度极高。嫌疑人落网使多年悬案有望迎来关键进展，也让受害者和公众期待案件真相进一步查明。",
+      "reason": "著名拐卖案关键人物落网，牵动公众对儿童安全的长期关切，社会热度极高。",
       "impact_areas": [
         "社会",
-        "农业",
-        "交通"
+        "法律"
       ],
       "impact_level": "重大",
       "sources": [
         {
-          "name": "雪球热帖",
-          "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBkVE56bFkyQTVJWWVUM29ubk1RREMzc1c1aGwtal9xRXRzakxvM0VRQ3R5LXBFaVYyYnM1d2VTNDZ4SWJQb0pucWIzZDFBWkF2RFhJV0JJQ2MycXBUMTl1dTlIbktabEdlVmhsOXBVTmE4Nlk2UGEySw?oc=5"
+          "name": "澎湃新闻",
+          "url": "https://m.thepaper.cn/detail/34036789"
+        },
+        {
+          "name": "凤凰网",
+          "url": "https://news.ifeng.com/c/8wH3OWHIrmF"
         }
       ],
       "card": {
-        "category": "气象·民生",
-        "headline": "中央气象台发暴雨蓝色预警",
-        "what": "中央气象台9月9日6时继续发布暴雨蓝色预警，预计未来24小时多地有暴雨或大暴雨。",
-        "question": "要不要取消明天的出行？",
+        "category": "社会·民生",
+        "headline": "拐卖案嫌疑人梅姨在广州落网",
+        "what": "长期被关注的拐卖儿童案嫌疑人“梅姨”，近日在广州白云区出租屋落网",
+        "question": "被拐儿童能顺利回家吗？",
         "means": [
-          "出门前先查最新降雨和积水预警",
-          "农业生产和短途物流或受干扰"
+          "部分被拐家庭或将迎来团圆希望",
+          "拐卖儿童犯罪打击力度将加强"
         ],
-        "note": "降雨落区可能调整，关注当地滚动预警和交通管制信息。"
+        "note": "后续需关注案件审理及被拐儿童信息"
+      }
+    },
+    {
+      "title": "英国制裁以色列定居点 以方反制",
+      "summary": "英国宣布对以色列约旦河西岸定居点实施贸易制裁，理由指定居点政策严重违反国际法。以色列随即宣布四项反制措施。媒体报道称英以关系可能处于数十年来最低点。此次制裁将定居点贸易与国际法直接挂钩，为欧洲国家处理以色列定居点问题提供了新范式，可能进一步影响中东地缘政治格局和西方与以色列的外交关系。",
+      "reason": "英以因约旦河西岸定居点发生重大外交摩擦，制裁措施直接触及地缘与国际法争议。",
+      "impact_areas": [
+        "政治",
+        "地缘"
+      ],
+      "impact_level": "重大",
+      "sources": [
+        {
+          "name": "BBC News",
+          "url": "https://www.bbc.co.uk/news/articles/c4g7zen0vveo"
+        },
+        {
+          "name": "凤凰网",
+          "url": "https://news.ifeng.com/c/8wH7y9tL1yT"
+        }
+      ],
+      "card": {
+        "category": "地缘·外交",
+        "headline": "英以因定居点爆发外交摩擦",
+        "what": "英国宣布对以色列约旦河西岸定居点实施贸易制裁，以方随即出台反制措施",
+        "question": "中东油价会因此继续上涨吗？",
+        "means": [
+          "中东地缘政治风险进一步升温",
+          "全球能源供应稳定性或受影响"
+        ],
+        "note": "后续需关注欧盟是否跟进制裁措施"
+      }
+    },
+    {
+      "title": "儿童座椅电子功能国标将实施",
+      "summary": "国家标准化管理部门发布规范儿童座椅电子功能的国家标准，并将于10月1日起实施。新国标针对儿童安全座椅的电子智能功能提出明确技术要求和检测规范，涉及防遗忘提醒、安装状态监测等与家长日常使用直接相关的环节。随着儿童乘车安全日益受重视，新国标有助于规范当前快速增长的智能儿童座椅市场，减少产品安全风险。",
+      "reason": "直接涉及儿童乘车安全的国家标准落地，影响全国有儿童的家庭和婴童用品产业。",
+      "impact_areas": [
+        "社会",
+        "产业",
+        "公共卫生"
+      ],
+      "impact_level": "重大",
+      "sources": [
+        {
+          "name": "央视网",
+          "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5JMUxSZHJieTJUNmVVVW5XM3NfaHF0UGJyTEp2S0NhZnhvY21hZUVSUXVwR1dhZHVNTl9nSDdZTVpiWXdHMHhvd05YODhoRE1tR2FSdnhoWWIyVUczTjVYU1FnOGhneGY1ZzNaTUY2elRsMlFTTWpyWg?oc=5"
+        }
+      ],
+      "card": {
+        "category": "社会·育儿",
+        "headline": "儿童座椅电子功能国标将实施",
+        "what": "国家标准化管理部门发布儿童座椅电子功能国标，将于10月1日起正式实施",
+        "question": "我家的儿童座椅还能用吗？",
+        "means": [
+          "智能儿童座椅市场将更趋规范",
+          "儿童乘车安全保障将逐步提升"
+        ],
+        "note": "购买时需查看产品是否符合新国标"
+      }
+    },
+    {
+      "title": "起底年售3.9亿“神药”直播间",
+      "summary": "澎湃新闻调查发现，直播间以“养生局”为包装，年销售额高达3.9亿元，背后存在假专家、假“神药”以及虚假宣传链条。部分假洋品牌在海外注册、转型国内销售，实际由小网店或主播带货，产品安全与功效缺乏保障。调查揭示当前大健康直播带货乱象，严重侵害中老年消费者权益，也暴露平台审核和市场监管漏洞，将推动行业整改与监管收紧。",
+      "reason": "媒体起底数亿元“神药”直播骗局，事关中老年消费者健康与财产安全，民生影响大。",
+      "impact_areas": [
+        "社会",
+        "公共卫生",
+        "经济金融"
+      ],
+      "impact_level": "重大",
+      "sources": [
+        {
+          "name": "澎湃新闻",
+          "url": "https://m.thepaper.cn/detail/34024472"
+        },
+        {
+          "name": "澎湃新闻",
+          "url": "https://m.thepaper.cn/detail/34024535"
+        }
+      ],
+      "card": {
+        "category": "社会·消费",
+        "headline": "年售3.9亿神药直播间被起底",
+        "what": "澎湃新闻调查发现，部分直播间以养生为幌子售假神药，年销售额达3.9亿元",
+        "question": "爸妈买的养生药是真的吗？",
+        "means": [
+          "家中长辈养生消费需警惕虚假宣传",
+          "直播带货养生类监管将收紧"
+        ],
+        "note": "发现虚假宣传可向市场监管部门举报"
       }
     }
   ],
-  "total_fetched": 205,
-  "generated_at": "2026-09-09T07:33:52.167598+08:00"
+  "total_fetched": 268,
+  "generated_at": "2026-09-09T12:30:36.392929+08:00"
 }
