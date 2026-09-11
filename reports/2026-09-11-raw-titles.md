@@ -1,93 +1,127 @@
-# 2026-09-11 原始新闻标题 (162 条)
+# 2026-09-11 原始新闻标题 (257 条)
 
-## 澎湃新闻 (20 条)
-- 专访｜张屏瑾：城市文学对人的生存状态有一种“抄底的表达”
-- 廊坊三位视障老人外出迷路，民警悉心护送到家
-- 何以中国·黄河你好
-- 体彩“体育力量 中国精神” 即开票申城上市
-- 媒体评“鲜花饼吐痰”事件：要查处造谣，也要看到校企合作真问题
-- 把学开电动车纳入军训，华南农业大学军训创新受好评说明了什么？
-- 韩国遭校园暴力学生比例连续六年上升，“夜叉规则”式强迫决斗成新型暴力
-- 学术聊天室丨这波智能体风口，主流媒体能抓住吗？
-- “‘支联会’煽动颠覆国家政权”案宣判，李卓人等获刑
-- 广东省文物考古研究院：有职工进行不实投诉及造谣诽谤，将保留追究法律责任的权利
-- 宋剑仁煽动民族仇恨、民族歧视案一审宣判
-- 马上评｜开学季别成学生宿舍“问题暴露季”
-- 《三体》20年，它给中国科幻留下了什么
-- 视频丨探访青岛失火货轮核心现场，消防员讲述救援过程
-- 国家体育总局发亚运观赛提示：场上的拼搏需要场下的守护
-- Anthropic更多人员就AI危害发出警告，马斯克：阴谋局、心理战
-- 江西台记者采访遭殴打，中国记协：坚决支持记者履职，呼吁严惩肇事者
-- 燧原科技上市，照见怎样的上海科创版图？
-- 江苏省副省长赵岩调任哈尔滨工业大学党委书记
-- 工信部：到2030年，国内市场新能源乘用车在其领域新车总销量占比将达70%
+## 澎湃新闻 (18 条)
+- 招商局集团总经理石岱调任香港中旅（集团）董事长
+- 商务部就美国中情局高官公开表示对中国开展间谍活动答记者问
+- “你的钱掉了” ！男子用硬币“调虎离山”，在网吧盗窃手机
+- 新生军训跳火圈被绊倒引争议，校方：该项目已开展多年，安全有保障
+- 山东诸城偷排危废致4死案续：主犯王辉已被执行死刑
+- 活力中国调研行｜“流量”如何变收入，一个煤炭资源村转型文旅的背后
+- “9·11”25周年后，美国为何又陷入战争泥潭？
+- 庄重揭牌的校名题字被证实为赝品，安徽一高中向艺术家韩美林致歉
+- 甘肃省委原常委、原副省长雷思维，被开除党籍和公职
+- 半年内第三次！国家调控再出手，油价涨幅被“砍”四成
+- “有小朋友在河里游泳！”两名女孩跑进派出所求助，警方火速到河边劝离
+- 石岱任香港中旅（集团）有限公司董事长
+- 甘肃省委原常委、省政府原副省长雷思维被“双开”
+- “网络助学”事件现反转男子被采取刑事强制措施？嘉峪关市公安局：已成立调查组，事件仍在调查中
+- 金砖时间｜中印关系：改善势头+1，问题是印度的“战略犹豫症”会不会复发
+- 见微知沪丨闲置楼宇改建养老机构只是第一步，管好、用好更值得期待
+- 联播+｜“全球南方”第一方阵
+- 长篇奖空缺，新人独获三奖，本届银河奖为中国科幻出了一份“体检报告”
+
+## 南方周末 (4 条)
+- 国际打击电信网络诈骗联盟成立：给动荡世界注入稳定力量
+- 春秋假实施一年来：数地老师不放假，北上广深未推广
+- 押注电池材料，万华化学能赢吗？
+- 大侦探经济学丨为什么经济增长了，我的工资却没怎么涨？
 
 ## 凤凰网 (20 条)
-- 中国机遇2.0：服务贸易乘势而上 - 凤凰网
-- “毒气岛”的罪恶不能被掩盖——探访日本大久野岛 - 凤凰网
-- “落脚点”的振兴答卷：（一）红色传承 - 凤凰网
-- 视频丨扩范围、细管理……麻精药品管理新规将带来这些改变 - 凤凰网
-- 壹视界·知行记｜宁夏“菇爷”林占熺，为何被总书记专门提起？ - 凤凰网
-- 我们为什么要纪念长征 - 凤凰网
-- 近镜头丨大国风范 时代担当 - 凤凰网
-- 吉尔吉斯斯坦-中国新疆商品展览会在比什凯克开幕 - 凤凰网
-- 视频｜2026武陵酒下沙大典圆满礼成 - 凤凰网
-- 开车半路前挡风玻璃突现一条蛇，当事人：吓出一身冷汗，万幸蛇自行爬出窗外掉落 - 凤凰网
-- 美国民主党：若赢得中期选举 或弹劾赫格塞思 - 凤凰网
-- 西安翻译学院隆重举行2026年教师节庆祝大会！ - 凤凰网
-- 俄乌夏秋战役结束前两军兵员缺口达30% - 凤凰网
-- 凤对话|万泽实业股份董事总经理陈岚：女人真正的花期是45岁以后 - 凤凰视频
-- 秋天警惕！遇到隐翅虫千万别拍，拍了会遭罪 - 凤凰网
-- 新对话｜朱亚明：每一次起跳，都在突破 - 凤凰视频
-- 寒地沙棘迎丰收 红果映秋富乡野 - 凤凰视频
-- 泰国柬埔寨将举行海洋划界调解首次会议 - 凤凰视频
-- 阿尔及利亚宣布对阿联酋关闭领空 此前已宣布断交 - 凤凰网
-- APEC中国年丨中行智汇第三期精彩继续！💫本期聚焦📢：企业“出海”亚太第一步——海外开户 - 凤凰视频
+- 风直播：新修订的《江西省突发事件应对条例》新闻发布会 - 凤凰网江西
+- 8月份南昌市居民消费价格同比、环比均上涨0.5% - 凤凰网江西
+- 向警予波澜壮阔的一生 - 凤凰网
+- 益阳明清古巷凭什么拿下最美小巷名号？ - 凤凰网
+- 男子发布“聊天记录”称被催捐？竟然是自导自演编造！已被采取刑事强制措施账号显示被禁止关注 - 凤凰网
+- 营收68亿、净利6.6亿，却拿应届生当“缓冲垫”？黄日涵：看一家公司，别只看报表 - 凤凰网
+- 被火辣照片吸引3名俄男子被乌女特工“招募” 主动传送防空导弹阵地等敏感信息被捕后有人称为其倾倒 - 凤凰视频
+- 山西一景区公厕关闭私厕收费引争议，当地回应景区公厕关闭私厕收费：公厕水泵故障，老人私厕处理困难才收费 - 凤凰视频
+- 青岛货轮火灾救援结束，消防人员谈细节 - 凤凰视频
+- 美育润心 礼赞师恩！金川区庆祝第42个教师节文艺汇演圆满落幕 - 凤凰视频
+- 日本外相：暂不召回驻俄大使 - 凤凰视频
+- 服贸恰恰｜服贸会“老外”向你发送了表情包 - 凤凰网
+- 万象长安 潮起三秦丨古调新弹 人人都是“秦腔主角” - 凤凰视频
+- 驻美记者如何兼顾工作和自媒体？#全球创作者计划 #AI新星计划 - 凤凰视频
+- 中国欧盟商会主席：全球贸易增量，中国贡献凸显 - 凤凰网
+- “你必须是我的女人我要让你爱上我”55岁老板“霸总表白”失败长期性骚扰90后女员工致其抑郁老板被判赔礼道歉，赔偿4万余元 - 凤凰网
+- 华为Mate XT 2深度体验：三折叠的新答案 - 凤凰网科技
+- 甘肃临夏市委书记马占才被查 - 凤凰网
+- “中国石窟鼻祖”缘起北凉 记录丝绸之路文化交融 - 凤凰网
+- 2025年度江西省“赣字号”劳务品牌、劳务品牌领军人才名单公布 - 凤凰网江西
 
-## 财新网 (2 条)
+## 财新网 (5 条)
+- 香港推出最新烟盒设计规定：外包装不得有纹理，统一采用暗啡色，删除焦油、尼古丁标志，更新12款健康忠告图像 - 财新
+- AI芯片公司燧原上市开盘涨188% 市值约1700亿元_公司频道_财新网 - 财新
+- 图集｜青岛一外籍货轮检修时起火 25人遇难 - 财新
 - 今日开盘：两市双双低开 沪指跌幅0.60% - 财新
 - 财经早知道｜一艘利比里亚籍货轮青岛检修中起火致25死 - 财新
 
-## 央视网 (8 条)
-- 太行山里的“冠军”教师 - 央视网
-- “天宫课堂”体现中央重视关爱 点燃港澳青少年逐梦报国热情 - 央视网
-- 赓续长征精神 奋进复兴征程——纪念中国工农红军长征胜利90周年 - 央视网
-- 地缘政治算计不利于全球南方实现技术发展 - 央视网
-- 我国稀土、钨、锡等14种矿产储量居世界第一 - 央视网
-- “抬眼即知” 智能眼镜边界何在？ - 央视网
-- 联合国称古巴电力危机持续影响基本服务 呼吁增加人道援助 - 央视网
-- 工信部印发《“人工智能+软件”专项行动实施方案》 - 央视网
+## 央视网 (12 条)
+- 太行山里的“冠军”教师 - news.cctv.com
+- 赓续长征精神 奋进复兴征程——纪念中国工农红军长征胜利90周年 - news.cctv.com
+- 联播+｜“全球南方”第一方阵 - news.cctv.com
+- 官方通报“山西一饭店设阴阳菜单”：对涉事饭店罚款20万元 已执行到位 - news.cctv.com
+- 中方上调日本公民赴华签证费用 外交部：根据对等原则作出的安排 - news.cctv.com
+- 意大利米兰一客机滑行时发生火情 146人紧急撤离 - news.cctv.com
+- 我国稀土、钨、锡等14种矿产储量居世界第一 - news.cctv.com
+- 阿尔及利亚宣布对阿联酋关闭领空 - news.cctv.com
+- 工信部印发《“人工智能+软件”专项行动实施方案》 - news.cctv.com
+- 俄总统助理：日本不应对俄设立二战纪念碑指手画脚 - news.cctv.com
+- 地缘政治算计不利于全球南方实现技术发展 - news.cctv.com
+- 日本民众抗议政府推进“反击能力”建设 - news.cctv.com
 
-## BBC (7 条)
-- Yemen's Houthis reportedly seize strategic Red Sea port of Mokha
-- Can Trump really pay $5,000 to every American adult?
-- Pilot warned Amazon cargo plane going too fast before deadly crash, data shows
+## BBC (20 条)
+- Anthropic blocks possible attempt to use AI to make biological weapons
+- Hong Kong's Tiananmen activists sentenced to up to seven years in prison
+- Five dead and dozens injured in coach crash in Swiss Alps
+- Buddhist monk arrested in suspected $3m embezzlement scandal
+- Princess Diana's 'revenge dress' goes up for auction
+- Philippine rescuers board ferry 40 hours after blaze began
+- Six Nigerians accused of romance scams to be extradited to the US
+- Man jailed after threatening to behead son's teacher in French village
+- Man loses case to claw back $369,000 he spent on lavish gifts for ex-girlfriend
 - More than 20 children killed in DR Congo school fire
-- Man jailed after threatening to kill son's teacher in French village
-- Coach crash kills several people in Swiss Alps
-- 'We never recovered him': Quest to identify remains from Ground Zero continues
+- Pilot warned Amazon cargo plane going too fast before deadly crash, data shows
+- The student behind 'cockroach' protests that forced an Indian minister to quit
+- Spies, strategies and missed opportunities: How the lessons of 9/11 are still being learnt
+- Trump shadow looms large over Brics as Modi hosts Putin and Xi in Delhi
+- Civilians told to flee Ukraine's fortress cities as Russia bids to control Donbas
+- Can Trump really pay $5,000 to every American adult?
+- Has Trump won over voters with his midterm convention?
+- Watch: Americans remember what they were doing on 9/11
+- Brother of Muslim policeman killed in 9/11 'disappointed' by calls for Mamdani to sit out memorial
+- Bernie Sanders speaks to the BBC about proposal to ban AI superintelligence
 
-## Reuters (2 条)
+## Reuters (8 条)
 - Trump says he does not regret Iran war despite impact it may have on midterm elections - Reuters
+- Trump administration to sanction unnamed 'large' bank on Monday, Bessent says - Reuters
+- Yemen's Houthis reach strategic island at mouth of vital shipping lane - Reuters
+- US slaps new sanctions on networks aiding Iran's proxies in Middle East - Reuters
+- Iranian arms and advice helped Yemen's Houthis seize key Red Sea city, sources say - Reuters
+- Kim Jong Un wants North Koreans to have more (state-sanctioned) fun - Reuters
+- Algeria cuts diplomatic ties with the UAE - Reuters
 - Macy's lifts forecasts as luxury banners thrive, but turnaround costs hit shares - Reuters
 
-## NYTimes (16 条)
+## NYTimes (20 条)
+- Inside an Ancient Lebanese City Engulfed by War
+- As Russia Again Draws Near, a Frontline City Fears Obliteration This Time
+- At BRICS Summit, China and India Vie for Influence
+- For China, a Mock A.I. Attack on WeChat Signals a Dangerous New Era
+- Why Emerging Powers Keep Joining BRICS, Even When They Disagree
+- Organizers of Hong Kong Vigils for Tiananmen Massacre Sentenced to Prison
+- Dopamine Sites Sell Nothing, and People Cannot Get Enough
 - Houthis Seize Strategic Red Sea Port, a Major Victory for Iranian Ally
-- After a Difficult Loss, Nigeria Has Become a Source of Pain for Chimamanda Ngozi Adichie
 - Moscow Claims Ukraine Planned to Start a War Between Russia and the U.K.
+- After a Difficult Loss, Nigeria Has Become a Source of Pain for Chimamanda Ngozi Adichie
 - Ancient Tombs, Untouched by Looters, Are Found Under Peru’s Sands
 - Why Yemen Is Back on the Brink of War
-- UK Sanctions Against Israeli Settlers Divide British Rabbis
-- Gander Welcomed Americans in 2001. Now, U.S.-Canada Tensions Hit Home.
-- Carney, at a Cabinet Retreat, Considers Further Trade Strikes Against the U.S.
-- Why Emerging Powers Keep Joining BRICS, Even When They Disagree
-- At BRICS Summit, China and India Vie for Influence
+- Consider Normandy for the Perfect Fall Weekend Biking Destination
 - A Succession Battle Erupts Over a Late Ugandan Monarch
 - Toyohiro Akiyama, Japan’s Chain-Smoking ‘Space Antihero,’ Dies at 84
 - Bayeux Mania
 - Hobbyist Archaeologist Uncovers Finland’s Largest Viking-Age Coin Hoard
 - Trump Administration Says U.S. Will Work With Peru on Crime Crackdown
 - Choking Global Trade
+- UK Sanctions Against Israeli Settlers Divide British Rabbis
 
 ## CNN (6 条)
 - 0% intro APR until 2024 is 100% insane
@@ -98,92 +132,167 @@
 - Want Cash Out of Your Home? Here Are Your Best Options
 
 ## 微博热搜 (20 条)
-- 车主称坠楼砸车小孩家长态度转变
-- 苹果价格把我的购物欲治好了
-- 服贸会带你解锁消费服务新图景
-- 景德镇学院通报宿舍调整事件
-- 洪水中被蛇咬身亡女子家属起诉养殖户
-- 邻居表示梅姨儿子20多岁是个傻儿子
-- 开学季两类病毒防范常见误区
-- iPhone17Pro史上最低价
-- 萨巴伦卡莱巴金娜美网争冠
-- 李现李一桐剧宣
-- 花少8钱多不累还有手机
-- 月薪1w是月薪5K的六倍
-- 章若楠说大家卸了妆都长一样
-- 范丞丞ins发抽烟照
-- 跨省抓女儿父母 处罚
-- 小S大女儿二女儿创立品牌
-- 江西台记者采访遭殴打
-- 刘雯纽约时装周开场
-- A股又调整
-- 许绍雄去世近一年代言商仍用其头像
+- 男子编造停捐遭威胁事件被抓
+- 打假网红铁头一审获刑8年
+- 服贸会上一眼未来
+- iPhoneDuo图标三合一引争议
+- 小米澎程汽车
+- 民政局回应男子停助学资助遭威胁
+- 资助女生被威胁系男子自导自演
+- 7岁半性早熟女童家里是开炸鸡店的
+- 男子停止助学资助反被威胁事件反转
+- 雷宇扬去世
+- 货拉拉跳车案
+- 国乒崇明封训结束回京
+- 曝TF四代出道必须成年
+- 偶遇倪妮考科目二
+- 劳务派遣乱象重灾区
+- 时代峰峻也逃不过Prada魔咒
+- 艾特孙千结果井柏然回复了
+- A股午后深V反弹
+- 邓为说我屁股已经爆炸了
+- 兰香如故
+
+## 知乎热榜 (1 条)
+- 吃瓜！“摸臀姐”的麻烦要来了！ - 知乎
 
 ## B站热门 (20 条)
+- 差一天就能看到糖花の“监狱vlog”了
+- 换一种心跳，感受世界的奇妙——《伊莫》联结玩法实机
 - 当我把“大地”穿在身上｜结合自然元素还原绝美大地女神
-- 【招笑版】新植物9:力竭豌豆【bilibilionly同人扶持计划】
-- 新三国up锐评老三国17：往日种种……皆作云烟！
 - 【独家】时光代理人 第三季 PartOne 第6集 试探【8月国创】
-- 三年之期已到，恭迎世一上归位！【第8集】
-- 【英雄联盟】打了 15 年， 对决还在继续。
-- 一根铅笔300块？如今的文具让我大开眼界...
+- 【月行水上】SR-EX-1至SR-EX-8突袭 摆完挂机 简单好抄
+- 《对三骗王炸》
 - 【糖果】人类就要冲出太阳系了！然后被宇宙嫌弃了
+- 「突围吧·少年」 —— 这一次，“突围”不是带出物资
+- 【招笑版】新植物9:力竭豌豆【bilibilionly同人扶持计划】
 - 刘慈欣原著授权 |《流浪地球：望日》首支预告片
-- 众望所归，今天带孙艺洲自律！
-- 打出王牌，全员暴C｜《王者万象棋》王牌英雄企划现已开启！
-- 传奇历史人物志——达尔文
-- 只不过是学会了化妆，对象非说我整容了……
-- 《崩坏：星穹铁道》砂金•戏浪角色PV——「独家爆料」
-- 大美王朝2026：党争、测谎，挪用军饷，美国真有大明那味了！
-- 性格好到无语的猫（第二弹）
-- 热烈欢迎欧阳娜娜！我们的第二位00后嘉宾～看看喜欢搞婚庆的娜娜带了什么可爱（但没用）的小东西呢？
+- 【西西里 | 官方MV 】周杰伦 MV从画面、运镜到剧情铺陈，都以电影规格打造，宛如一部浓缩版的动作电影。
+- 三年之期已到，恭迎世一上归位！【第8集】
+- 行业top3厂二代，出生就在罗马，毕业后却还是得每天上班，压力山大
+- 【warma/怒九】出国！去逛全球最大的游戏展吧！
+- 内个奥特曼折磨护航怪兽一整局！
+- 《阴阳师》十周年庆典现已开启丨送你这样好的「石莲金」
+- 【IGN】Switch 2版《艾尔登法环 褪色者版》 59分钟实机演示02
 - 每说一个杰字，文明倒退一次
-- 管理员: 哭？哭也算时间哦？
-- 下一个是谁幕后公开！（偶像来啦）
+- 麒麟9050 Pro性能解析：GPU提升很大！华为Mate XT 2 非凡大师 展翼三折叠
+- ⚡️ 嘉 豪 の 小 曲 ⚡️
 
 ## 抖音热搜 (20 条)
-- 9月11日24时国内油价将调整
-- A股跳水三大指数均跌超2%
-- 我国继续保持双向投资大国地位
-- 莱巴金娜首进美网决赛
-- 中国女篮不敌法国无缘世界杯四强
+- 国家对成品油价格实施调控
 - 中国男篮大胜哈萨克斯坦
+- 一组数据感受服务出海加速度
+- 莱巴金娜首进美网决赛
+- 美联储9月加息概率升至70%
 - 当中式审美回到下颌角时代
 - 歌舞里的中华情
-- 曼联4:0大胜沙巴巴库
 - 入秋第一口肉太野了
-- 这是我送给爱师的花花呀
-- 孟博龙战胜前NBA球员特雷伯克
-- 全面收紧出境系误读出入境新规
-- 李瑞100:83战胜大N
-- 美联储9月加息概率升至70%
-- 证监会：加快建设世界一流交易所
-- 丁俊晖晋级英格兰公开赛8强
-- 萨巴伦卡连续4年晋级美网决赛
-- 食神百厨大战收官后劲太大
-- iPhone Duo遭爆炒溢价超4000元
+- 我本来想给你买手机的
+- “实习生往鲜花饼里吐痰”系造谣
+- 一条小团团人脉这一块
+- 可爱颂歌词太魔性啦
+- 烤十个烤鱼总是擦肩而过
+- 飞到我心上大结局
+- 兰香如故开播
+- 48小时看完燕麦系穿搭
+- 网红铁头涉敲诈勒索一审获刑8年
+- 香港演员雷宇扬去世
+- 薛甄珠今天到哪个国家了
+- 刘耀文 你总说时间还很多
+
+## 豆瓣讨论 (1 条)
+- 现在不是出轨的问题的女主是真惨。。。 - douban
+
+## 丁香园 (1 条)
+- 【第三届 ICC】干眼多学科交叉论坛：做白内障、青光眼、近视手术……为什么要先评估干眼？ - y.dxy.cn
 
 ## 雪球热帖 (20 条)
-- 9月10日科创50ETF华夏（588000）份额增加5.13亿份，最新份额547.59亿份，最新规模907.95亿元 - 新浪财经
-- 当AI开始“真干活” 机器人接单能干些啥？ - 新浪财经
-- 9月10日中证现金流ETF大成（159235）份额减少200.00万份，最新份额19.08亿份，最新规模23.34亿元 - 新浪财经
-- 9月10日稀有金属ETF华富（561800）份额增加50.00万份，最新份额2.09亿份，最新规模2.03亿元 - 新浪财经
-- 9月10日港股通科技ETF海富通（513860）份额减少200.00万份，最新份额25.91亿份，最新规模15.09亿元 - 新浪财经
-- 9月10日创新100ETF申万菱信（515200）份额增加100.00万份，最新份额3894.32万份，最新规模9341.69万元 - 新浪财经
-- A50ETF博时（561750）跌1.47%，半日成交额1026.00元 - 新浪财经
-- 价值ETF嘉实（158001）跌0.50%，半日成交额208.56万元 - 新浪财经
-- 黄仁勋看好网络安全市场：AI带来的“新问题”正在创造新需求 - 新浪财经
-- A50ETF广发（159136）跌1.49%，半日成交额53.51万元 - 新浪财经
-- 医疗ETF建信（159891）跌2.13%，半日成交额378.90万元 - 新浪财经
-- 上证50ETF工银（510850）跌1.93%，半日成交额469.77万元 - 新浪财经
-- 沪深300增强ETF华安（561000）跌1.62%，半日成交额300.36万元 - 新浪财经
-- 创业板新能源ETF工银（159149）跌3.23%，半日成交额293.87万元 - 新浪财经
-- 银行ETF博时（159253）跌0.29%，半日成交额538.86万元 - 新浪财经
-- 养殖ETF汇添富（159172）跌1.16%，半日成交额765.18万元 - 新浪财经
-- 家电ETF华夏（515640）跌1.36%，半日成交额23.79万元 - 新浪财经
-- 食品ETF华夏（159151）跌2.25%，半日成交额780.63万元 - 新浪财经
-- 科创200ETF工银（589200）跌4.88%，半日成交额274.36万元 - 新浪财经
-- 科创增强ETF银华（588690）跌3.45%，半日成交额166.75万元 - 新浪财经
+- *ST数源涉信批违法面临证监会的处罚，适格股民可索赔损失！ - 新浪财经
+- 南威软件遭立案，受损股民索赔开启 - 新浪财经
+- *ST赛为临时股东会审议续聘2026年度审计机构议案 同意比例97.56% - 新浪财经
+- A股收评：沪指跌1.18%，深成指跌1.08%，证券、铁矿石、多元金融等概念走弱 - 新浪财经
+- 市场点评 | 沪指、深成指放量跌超1% 全市场超4800只个股下挫 - 新浪财经
+- 【营收拆解】戴尔 最新营收结构：Product贡献87.53%收入 - 新浪财经
+- 华统股份：8月生猪销售收入2.2亿元 同比下降34.75% - 新浪财经
+- 超智能控股公布于9月11日上午起复牌 - 新浪财经
+- 摩根大通：美债回购数据或表明投标质量略低 - 新浪财经
+- 用数据说话丨洞悉ETF背后的趋势 - 新浪财经
+- 9月11日涨停分析 - 新浪财经
+- 金融教育宣传周 | 警惕刷单骗局，拒绝高额返现诱惑 - 新浪财经
+- 沪指收跌1.18% AI硬件板块局部走强 - 新浪财经
+- 券商收紧个人程序化交易接入 - 新浪财经
+- 美国AI公司发布有关报告，外交部：反对歪曲事实、对中国进行攻击抹黑 - 新浪财经
+- 德适-B与安诊儿签署合作协议 聚焦医学影像人工智能等领域 - 新浪财经
+- 成品油价，临时调控 - 新浪财经
+- ETF洞察|银华日利ETF规模1138.79亿位居榜首，货币、宽基、商品及债券类ETF占据榜单前列 - 新浪财经
+- 【机构持仓】HSBC Global Asset Management (UK) Limited增持FER - 新浪财经
+- 中国汽研(601965)：L2强制国标打开增量 全国产能+海外认证拓宽增长天花板 - 新浪网
 
-## 少数派 (1 条)
+## 36氪 (20 条)
+- 2连板中新赛克：AI应用产品营收占公司整体营收不超过公司上半年营收的2%
+- 宁德时代：今日首次回购公司A股股份60.43万股
+- 国常会：进一步完善算力基础设施，积极推进关键技术和装备研发应用
+- 宏昌电子：拟定增募资不超18亿元投建高端覆铜板等项目
+- 机构今日买入金安国纪等14股，抛售逸豪新材1.3亿元
+- 我国正式推行数据产权登记制度
+- 百万粉丝财经博主陈某传播虚假信息扰乱证券市场，证监会对其处以20万元罚款
+- 慈文传媒：全资子公司签订微短剧《合作协议》
+- 园林股份：筹划发行股份及支付现金购买资产并停牌
+- 龙版传媒：停牌核查工作已完成，9月14日开市起复牌
+- 证监会批复中金公司吸收合并东兴证券、信达证券
+- 证券从业人员马星瑞编造、传播虚假信息，证监会对其处以30万元罚款
+- 天赐材料港股上市获中国证监会备案
+- 证券从业人员宗某编造、传播虚假信息，证监会对其采取5年市场禁入等处罚措施
+- 启元机器人亮相外滩大会，探索个人机器人健康服务新场景
+- 大族激光在东莞成立科技公司，含激光打标加工等业务
+- 上交所：本周对龙版传媒等波动幅度较大的股票进行重点监控
+- 经济学家预计美联储将按兵不动
+- 特斯拉Cybercab首次在日本展出，暂无在日销售计划
+- 南方恒生科技获南向资金净买入9.37亿港元
+
+## 虎嗅 (20 条)
+- 严艺家：童年缺爱的普通人，如何重新学习“社会化”？
+- 霍尔木兹海峡通航量，降至个位数
+- 微信不是支持RSS，只是在用RSS进货
+- AI剧，真香了
+- 智谱和MiniMax，进入“低价增长”时代
+- 刚“复活”就下架，为“人人影视”花25元月费果然不值？
+- 15克卖399元，健乐达的牛初乳贵在哪里？
+- 内娱拍宅斗，为什么最后都成了古偶？
+- 4岁男童被指“摸臀”上热搜，14岁自闭症男孩爸爸却说：越是这样，越要带他出门
+- AI正在批量制造海景房
+- 蚂蚁阿福：1.5亿用户背后，健康AI的烧钱与造血
+- 晋江陈埭镇往事：黄子懿谈改开进程中的中国运动品牌
+- 3元饮料，正在从货架上消失
+- 曹远征：灵活就业不是新问题，社会保障需要新答案
+- 苹果入局折叠屏之后，生态红利会流向谁？
+- Anthropic最新报告：AI开始批量“崩老头”了？
+- 联合国前驻华协调员：两千年伙伴、两百年疏远，金砖峰会或成中印关系破局时刻
+- 千亿县断档、省会增速放缓：一个中部省份的增长焦虑
+- 餐饮老板出镜做IP，图的到底是什么？
+- 优必选机器人收入暴涨14倍，谁能赚到钱？
+
+## 少数派 (5 条)
+- 本周看什么 | 最近值得一看的 7 部作品
+- iPhone 18 和 Duo 发布会上，Apple 没告诉你的那些事
+- 「正常」已是不易：聊聊不那么标新立异的理想 i6
+- 新 iPhone 配件精选：多种组合一次配齐
 - 派早报：商务部回应美国 AI 蒸馏指控
+
+## GitHub Trending (16 条)
+- ayghri/i-have-adhd
+- bilawalsidhu/gods-eye-view
+- nab138/iloader
+- melgarafael/DeskcommCRM
+- vastsa/PI-Desktop
+- armory3d/armorpaint
+- alsk1992/CloddsBot
+- nashsu/llm_wiki
+- obra/superpowers
+- Sonarr/Sonarr
+- jihe520/MathModelAgent
+- p1neappleXpress/OpenFlux
+- jordan-gibbs/hyperresearch
+- alphaXiv/OpenResearch
+- github/spec-kit
+- pascalorg/editor
