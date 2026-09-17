@@ -1,0 +1,316 @@
+{
+  "date": "2026-09-18",
+  "news": [
+    {
+      "title": "联合国报告指美军或犯战争罪",
+      "summary": "联合国调查报告指出，有理由相信美军对伊朗的军事打击构成战争罪，其中涉及对一所学校的打击。与此同时，美伊冲突已满半年，美方同意伊朗代表团赴纽约出席联合国会议，特朗普将就伊朗问题作出重大决定。报告若被安理会或国际刑事司法机构采信，可能推动对相关责任人的追责程序，并进一步加剧美伊对立。冲突长期化正持续冲击中东地缘格局与全球能源市场，霍尔木兹海峡航运与油价风险溢价维持在较高水平，地区盟友的外交立场也面临重新调整。",
+      "reason": "联合国正式指控美军在伊朗行动涉战争罪，叠加冲突满半年进入外交关键期，全球高度关注。",
+      "impact_areas": [
+        "地缘",
+        "政治"
+      ],
+      "impact_level": "现象级",
+      "sources": [
+        {
+          "name": "BBC",
+          "url": "https://www.bbc.co.uk/news/articles/cm9w4n5nverdo?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "name": "NYTimes",
+          "url": "https://www.nytimes.com/2026/09/17/world/asia/us-iran-school-strike-report.html"
+        },
+        {
+          "name": "BBC",
+          "url": "https://www.bbc.co.uk/news/articles/c6n8m72r13ngo?at_medium=RSS&at_campaign=rss"
+        }
+      ],
+      "card": {
+        "category": "地缘·冲突",
+        "headline": "联合国指美军或涉战争罪",
+        "what": "联合国调查报告称，有理由相信美军对伊朗的军事打击构成战争罪，其中包括打击一所学校。美伊冲突已满半年，美方同意伊朗代表团赴纽约参会。",
+        "question": "这会不会推高我的油价成本？",
+        "means": [
+          "霍尔木兹航运风险溢价仍在高位",
+          "中东航线机票与货运价格或波动"
+        ],
+        "note": "报告是否被安理会或国际刑事机构采信尚不确定。"
+      }
+    },
+    {
+      "title": "中俄否决美涉伊核决议",
+      "summary": "联合国安理会就美国起草的决议草案进行表决，该草案旨在延长对伊朗核计划的国际监督，俄罗斯与中国投下反对票，草案未获通过。此举意味着伊核问题的多边核查机制面临中断风险，伊朗核活动的透明度将下降。中俄与美方在中东安全议题上的分歧进一步公开化，安理会围绕伊核的协调机制趋于失灵，未来相关议题可能更多转向双边或地区渠道博弈，并牵动能源贸易与制裁格局。",
+      "reason": "安理会涉伊核核查决议被中俄否决，多边核查机制濒临中断，大国中东博弈公开化。",
+      "impact_areas": [
+        "地缘",
+        "政治"
+      ],
+      "impact_level": "重大",
+      "sources": [
+        {
+          "name": "NYTimes",
+          "url": "https://www.nytimes.com/2026/09/17/world/middleeast/un-iran-resolution-russia-china-veto.html"
+        },
+        {
+          "name": "凤凰网",
+          "url": "https://news.ifeng.com/c/8wVQDEKND2E"
+        },
+        {
+          "name": "澎湃新闻",
+          "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9pbjBuX2RwZkRyTFkxYVduZnVJVFZrYmNsQmpXUTA4T2JRbG5rNFY5dHdxbm1aUVZma0hFSmx2VHdOU2NSU1hXdTNaUmYtcEJJQUtYYUZrX3AtYjg4akE?oc=5"
+        }
+      ],
+      "card": {
+        "category": "地缘·核问题",
+        "headline": "中俄否决美涉伊核决议",
+        "what": "联合国安理会就美国起草的涉伊核决议草案表决，草案旨在延长对伊朗核计划的国际监督，俄罗斯与中国投下反对票，草案未获通过。",
+        "question": "以后还有谁能盯着伊朗核计划？",
+        "means": [
+          "伊核透明度下降可能推高原油价格",
+          "能源贸易与制裁格局或再起变化"
+        ],
+        "note": "后续议题可能转向双边或地区渠道博弈。"
+      }
+    },
+    {
+      "title": "也门战事升级胡塞逼近马里布",
+      "summary": "也门战争显著升级，胡塞武装向政府军控制的重镇马里布推进，多条战线交火加剧。同期有媒体曝出美方曾与胡塞武装高层秘密接触。马里布是也门主要油气产区，战事扩大可能影响当地能源生产与红海航运安全，进一步抬升地区风险。沙特等海湾国家面临新的安全压力，也门人道主义形势预计恶化，联合国斡旋空间被进一步压缩。",
+      "reason": "也门战事升级叠加美方密会胡塞武装，牵动红海航运与中东能源安全格局。",
+      "impact_areas": [
+        "地缘",
+        "政治"
+      ],
+      "impact_level": "重大",
+      "sources": [
+        {
+          "name": "NYTimes",
+          "url": "https://www.nytimes.com/2026/09/17/world/middleeast/yemen-houthis-marib.html"
+        },
+        {
+          "name": "澎湃新闻",
+          "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBWa1Q4ZmVpclAwOU0zRFVacmt2NXN2NGo3Q3Y2dXF6cjJXZGNwcU93M0JNYy1OUFQ4ejJDNDdnYkJ1TGRWV2NPeGhXZklYLS1qNjd3RkFPMkNiQ0Y1a2c?oc=5"
+        }
+      ],
+      "card": {
+        "category": "地缘·能源",
+        "headline": "也门战事升级，胡塞逼近马里布",
+        "what": "也门战争显著升级，胡塞武装向政府军控制的重镇马里布推进，多条战线交火加剧。同期有媒体曝出美方曾与胡塞武装高层秘密接触。",
+        "question": "红海运费会再涨一轮吗？",
+        "means": [
+          "经红海的货物运输成本可能上升",
+          "国内油价与进口商品价格或受牵动"
+        ],
+        "note": "马里布是多也门主要油气产区，局势走向仍待观察。"
+      }
+    },
+    {
+      "title": "美国向中国返还58件文物",
+      "summary": "美方向中国返还两批次文物艺术品和古生物化石，共计58件，返还仪式现场完成交接。此次返还包括流失海外多年的文物，是中美在文化遗产保护领域合作的具体成果。文物回流有助于相关历史与考古研究，也表明两国在人文领域仍保持一定合作渠道。近年来中国持续加大流失文物追索力度，与多国开展返还合作，此次交付是这一进程的延续。",
+      "reason": "中美完成58件流失文物与古生物化石返还，是文化遗产追索的重要进展与人文合作信号。",
+      "impact_areas": [
+        "社会",
+        "政治"
+      ],
+      "impact_level": "重大",
+      "sources": [
+        {
+          "name": "凤凰网",
+          "url": "https://news.ifeng.com/c/8wVZELeQbYL"
+        },
+        {
+          "name": "凤凰网",
+          "url": "https://news.ifeng.com/c/8wVJRBivE1G"
+        }
+      ],
+      "card": {
+        "category": "社会·文保",
+        "headline": "美国向中国返还58件文物",
+        "what": "美方向中国返还两批次文物艺术品和古生物化石，共计58件，返还仪式现场完成交接。此次返还包括流失海外多年的文物。",
+        "question": "这些文物以后会在哪展出？",
+        "means": [
+          "部分回流文物或将进入博物馆展出",
+          "追索合作渠道仍在延续推进"
+        ],
+        "note": "具体展出安排以文物接收单位公告为准。"
+      }
+    },
+    {
+      "title": "加拿大寻求欧盟准成员身份",
+      "summary": "加拿大与欧盟就加方获得欧盟准成员地位展开讨论，双方释放积极信号，但欧方未给出明确保证。民调显示，随着加美关系紧张，加拿大人对与欧洲建立更紧密关系持欢迎态度。若相关安排推进，将是欧盟伙伴关系机制的一次重大突破，可能重塑北美与欧洲的经济与安全联结，并对加美贸易、能源与供应链布局产生中长期影响。",
+      "reason": "加拿大谋求欧盟准成员身份，或重塑北美与欧洲经济安全联结，是跨大西洋关系重要变量。",
+      "impact_areas": [
+        "地缘",
+        "经济金融"
+      ],
+      "impact_level": "重大",
+      "sources": [
+        {
+          "name": "BBC",
+          "url": "https://www.bbc.co.uk/news/articles/crlyqg1ekj4po?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "name": "BBC",
+          "url": "https://www.bbc.co.uk/news/articles/cx980qj57r89o?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "name": "BBC",
+          "url": "https://www.bbc.co.uk/news/videos/c6wyz8kk2nepo?at_medium=RSS&at_campaign=rss"
+        }
+      ],
+      "card": {
+        "category": "地缘·经贸",
+        "headline": "加拿大想拿欧盟准成员身份",
+        "what": "加拿大与欧盟就加方获得欧盟准成员地位展开讨论，双方释放积极信号，但欧方未给出明确保证。民调显示加拿大人对与欧洲建立更紧密关系持欢迎态度。",
+        "question": "这会影响我买加拿大货的价格吗？",
+        "means": [
+          "加美贸易摩擦或改变相关商品价格",
+          "跨境能源与供应链布局可能调整"
+        ],
+        "note": "欧方尚未给出明确保证，进展存在不确定性。"
+      }
+    },
+    {
+      "title": "OpenAI接近攻克霍奇猜想",
+      "summary": "有报道称OpenAI接近解决又一千禧年大奖难题——霍奇猜想，若获数学界验证，将是人工智能在基础数学领域取得的标志性突破。千禧年难题此前长期依赖人类数学家的直觉与证明，AI介入并取得实质进展，意味着机器推理能力正延伸至原创性数学发现。这可能改变基础科研的组织方式，加速数学、物理与密码学等领域进展，同时引发关于AI科研能力边界与安全治理的新讨论。",
+      "reason": "AI若破解千禧年数学难题，将是机器推理进入原创科学发现的标志性突破。",
+      "impact_areas": [
+        "科技"
+      ],
+      "impact_level": "重大",
+      "sources": [
+        {
+          "name": "36氪",
+          "url": "https://www.36kr.com/newsflashes/3988100744215302"
+        }
+      ],
+      "card": {
+        "category": "科技·AI",
+        "headline": "OpenAI被传接近攻克霍奇猜想",
+        "what": "有报道称OpenAI接近解决千禧年大奖难题霍奇猜想，若获数学界验证，将是人工智能在基础数学领域取得的标志性突破。",
+        "question": "AI真能自己做数学研究了？",
+        "means": [
+          "基础科研的组织方式可能被改写",
+          "密码学等应用领域或受间接影响"
+        ],
+        "note": "结论尚需数学界验证，勿提前当作定论。"
+      }
+    },
+    {
+      "title": "Claude参与九成日常工作",
+      "summary": "Anthropic披露内部AI发展指标，显示Claude模型主导公司26%的研发工作，并参与约90%的日常工作。这是头部AI公司首次较为具体地公开模型对自身生产流程的渗透程度。数据表明AI已从辅助工具演变为研发主力，可能显著压缩产品迭代周期并改变工程师岗位结构。伴随亚马逊等企业加入AI安全讨论、呼吁模型发布前严格测试，行业在效率提升与风险管控之间的平衡成为新焦点。",
+      "reason": "头部AI公司自曝模型渗透约九成工作，揭示AI对生产流程与岗位结构的实质重塑。",
+      "impact_areas": [
+        "科技",
+        "产业"
+      ],
+      "impact_level": "重大",
+      "sources": [
+        {
+          "name": "36氪",
+          "url": "https://www.36kr.com/newsflashes/3988109758249736"
+        },
+        {
+          "name": "36氪",
+          "url": "https://www.36kr.com/newsflashes/3988108637862658"
+        }
+      ],
+      "card": {
+        "category": "科技·产业",
+        "headline": "Claude接手九成日常工作",
+        "what": "Anthropic披露内部AI发展指标，显示Claude模型主导公司26%的研发工作，并参与约90%的日常工作，这是头部AI公司首次较具体公开模型对自身流程的渗透程度。",
+        "question": "我的岗位会被AI顶掉多少？",
+        "means": [
+          "研发与运营岗位分工或加速重组",
+          "产品迭代周期可能被明显压缩"
+        ],
+        "note": "数据来自企业自述，行业普遍性仍需观察。"
+      }
+    },
+    {
+      "title": "Lucid获2.5万辆自动驾驶订单",
+      "summary": "Lucid与欧洲出行平台Bolt达成协议，获得2.5万辆自动驾驶出租车订单，消息推动其股价大幅上涨。此举被视为Lucid在电动车主业承压后押注自动驾驶实现翻身的关键一步，也标志欧洲Robotaxi市场规模化的提速。订单若如期落地，将带动自动驾驶芯片、传感器与运营网络的产业链需求，并加剧欧洲与美国、中国自动驾驶企业在出行市场的竞争。",
+      "reason": "2.5万辆Robotaxi大单落地，标志欧洲自动驾驶出行规模化提速，带动产业链需求。",
+      "impact_areas": [
+        "科技",
+        "产业"
+      ],
+      "impact_level": "重大",
+      "sources": [
+        {
+          "name": "雪球热帖",
+          "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPcWdmUUY5MWJnZ1B5Q1RscXlYVkE0NkNCRFBnTzg0dkY3MnpXSEtBUDdka3ZpOGRJNVh6YUoyeDFzcUN4NFdpMXhKckE5UGZ1aHRYOEN2d0t4LWJOQURiU05lZkxmQ2pPcDRNMjNqbUc5bjFWRmpxNjU3V0t5LU1JcHpIM2ZjVE0?oc=5"
+        },
+        {
+          "name": "雪球热帖",
+          "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9XVkpxb0JtYm9xcHplWXA5RFVQQ01xemd3c09KRFRNNmRnMGMwdURaU3psSDRNYkIwM0xXdENyNjNxd0l0MWNnV1Z1NGdYRVJkRFNuMEhBQU1ycC1mbGxaUE1TbHRjMExiN0VCbWZwRlpSVHp4U1gtNA?oc=5"
+        }
+      ],
+      "card": {
+        "category": "科技·出行",
+        "headline": "Lucid拿下2.5万辆Robotaxi订单",
+        "what": "Lucid与欧洲出行平台Bolt达成协议，获得2.5万辆自动驾驶出租车订单，消息推动其股价大幅上涨，被视为其押注自动驾驶翻身的关键一步。",
+        "question": "国内什么时候能坐上无人出租车？",
+        "means": [
+          "自动驾驶芯片与传感器需求被带动",
+          "欧洲Robotaxi竞争将更加激烈"
+        ],
+        "note": "订单能否如期落地仍取决于交付与运营进展。"
+      }
+    },
+    {
+      "title": "经营贷利率传10月上调",
+      "summary": "记者走访上海、深圳两地银行发现，经营贷实际利率暂未上调，但有客户经理称10月可能调高。经营贷是中小企业与个体工商户的重要融资渠道，也是部分资金违规流入楼市、股市的敏感环节。若利率上调，将直接抬高小微经营主体的资金成本，并对以经营贷置换房贷的操作形成抑制。在监管持续规范资金用途的背景下，这一变化被视为信贷政策微调的信号，值得关注后续落地情况。",
+      "reason": "经营贷利率或于10月上调，直接关系小微融资成本与楼市资金流向，是信贷政策微调信号。",
+      "impact_areas": [
+        "经济金融",
+        "社会"
+      ],
+      "impact_level": "重大",
+      "sources": [
+        {
+          "name": "虎嗅",
+          "url": "https://www.huxiu.com/article/4892142.html"
+        }
+      ],
+      "card": {
+        "category": "经济·信贷",
+        "headline": "经营贷利率传10月上调",
+        "what": "记者走访上海、深圳两地银行发现，经营贷实际利率暂未上调，但有客户经理称10月可能调高。经营贷是中小企业与个体工商户的重要融资渠道。",
+        "question": "我开店贷款要多还多少利息？",
+        "means": [
+          "小微主体融资成本可能抬高",
+          "用经营贷置换房贷的操作将更难"
+        ],
+        "note": "目前仅客户经理口头说法，以银行实际执行为准。"
+      }
+    },
+    {
+      "title": "赴日中国游客连续9个月下滑",
+      "summary": "日本方面数据显示，8月访日外国人同比下滑9.6%，其中赴日中国游客人数已连续9个月下降。中国游客长期是日本入境消费的主力，持续下滑直接影响日本百货、免税、酒店与航空等相关行业收入。这一趋势与中日关系氛围、航班运力及消费偏好变化相关，也反映中国出境游目的地结构正在调整，周边国家与国内旅游市场承接了部分分流需求。",
+      "reason": "赴日中国游客连续9个月下滑，直接冲击日本入境消费，也反映出境游目的地结构变化。",
+      "impact_areas": [
+        "经济金融",
+        "社会"
+      ],
+      "impact_level": "重大",
+      "sources": [
+        {
+          "name": "澎湃新闻",
+          "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5CU09NcmRzZU96NU84QmlOZnZkX2RMaXlhN0k3MldfNURNaXV0T0dwaXhIRERpTzdtS3NOSVBGalA2R3k5VFdRZU9NbVNOQlpyRVh2dFJJcHF4YUtURWc?oc=5"
+        }
+      ],
+      "card": {
+        "category": "经济·旅游",
+        "headline": "赴日中国游客连降9个月",
+        "what": "日本方面数据显示，8月访日外国人同比下滑9.6%，其中赴日中国游客人数已连续9个月下降。中国游客长期是日本入境消费的主力。",
+        "question": "去日本旅游现在更划算了吗？",
+        "means": [
+          "日本百货免税店收入持续承压",
+          "出境游更多转向周边其他国家"
+        ],
+        "note": "航班运力与消费偏好变化仍会影响后续走势。"
+      }
+    }
+  ],
+  "total_fetched": 152,
+  "generated_at": "2026-09-18T07:26:31.196251+08:00"
+}
