@@ -779,13 +779,13 @@ def _normalize_card(card: dict) -> "dict | None":
         "headline": _txt("headline"),
         "what": _txt("what"),
         "question": _txt("question"),
-        "means": means[:2],
+        "means": means[:3],
         "note": _txt("note"),
     }
 
-    # headline / what 是卡片主体，means 是卡片的核心价值，缺任一项都判定不可用，
+    # headline / what 是卡片主体，means 必须完整提供三条；缺任一项都判定不可用，
     # 交给上层回落到降级推导，而不是渲染出一个空的「意味着什么」框
-    if not normalized["headline"] or not normalized["what"] or not normalized["means"]:
+    if not normalized["headline"] or not normalized["what"] or len(normalized["means"]) != 3:
         return None
     return normalized
 
@@ -820,9 +820,9 @@ def _derive_card(news: dict) -> dict:
             part = part.strip()
             if len(part) >= 6:
                 means.append(part[:18])
-            if len(means) == 2:
+            if len(means) == 3:
                 break
-    while len(means) < 2:
+    while len(means) < 3:
         means.append(f"关注{category.replace('·', '、')}领域的后续变化")
 
     return {
@@ -830,7 +830,7 @@ def _derive_card(news: dict) -> dict:
         "headline": _sanitize_text(news.get("title", ""))[:14],
         "what": what,
         "question": "这件事会怎么影响你？",
-        "means": means[:2],
+        "means": means[:3],
         "note": "信息整理自公开报道，具体以官方发布为准。",
         "derived": True,
     }
