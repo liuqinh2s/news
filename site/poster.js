@@ -232,9 +232,6 @@ window.Poster = (function () {
     const chipW = Math.max(132, ctx.measureText(category).width + 40);
     const chipX = W - PAD - chipW;
     ctx.fillStyle = C.accent;
-    roundRect(ctx, chipX, 47, chipW, 50, 25);
-    ctx.fill();
-    ctx.fillStyle = C.white;
     ctx.textAlign = "center";
     ctx.fillText(category, chipX + chipW / 2, 80);
 
@@ -325,16 +322,8 @@ window.Poster = (function () {
 
     // 一句话总结
     drawPanel(ctx, PAD, 357, maxW, 78, 17);
-    ctx.save();
-    ctx.shadowColor = "rgba(255, 75, 36, 0.14)";
-    ctx.shadowBlur = 18;
-    ctx.shadowOffsetX = 7;
-    ctx.fillStyle = C.accent;
-    roundRect(ctx, PAD, 357, 230, 78, 17);
-    ctx.fill();
-    ctx.restore();
     ctx.font = f(700, 28);
-    ctx.fillStyle = C.white;
+    ctx.fillStyle = C.accent;
     ctx.textAlign = "center";
     ctx.fillText("一句话总结", PAD + 115, 407);
     const oneLine = clippedSentence(card.what || news.summary, 31);
@@ -406,11 +395,8 @@ window.Poster = (function () {
 
     // 注意提示
     drawPanel(ctx, PAD, 1247, maxW, 108, 17);
-    ctx.fillStyle = C.accent;
-    roundRect(ctx, PAD, 1247, 196, 108, 17);
-    ctx.fill();
     ctx.font = f(700, 27);
-    ctx.fillStyle = C.white;
+    ctx.fillStyle = C.accent;
     ctx.textAlign = "center";
     ctx.fillText("注意提示：", PAD + 98, 1314);
     const note = card.note || "具体信息以官方发布及后续落地情况为准。";
