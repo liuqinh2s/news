@@ -8,9 +8,9 @@ window.Poster = (function () {
   // ── 画布与品牌配置 ────────────────────────────
   const W = 1080;
   const H = 1440;
-  const PAD = 56; // 与原型一致的左右安全边距
+  const PAD = 56; // 保持封面边距；详情页取消侧栏，让正文横向展开
 
-  // 编辑部纸张感 + 高对比黑字 + 朱橙文字强调
+  // 大字简报：暖白纸底、黑色正文、少量橙色文字强调
   const C = {
     bg: "#fbfaf7",
     panel: "#f4f3f0",
@@ -184,66 +184,49 @@ window.Poster = (function () {
     ctx.fillText(String(number).padStart(2, "0"), x, y);
   }
 
-  function clippedSentence(text, maxChars = 31) {
-    const clean = String(text || "").trim();
-    if (clean.length <= maxChars) return clean;
-    const slice = clean.slice(0, maxChars);
-    const cut = Math.max(slice.lastIndexOf("，"), slice.lastIndexOf("。"), slice.lastIndexOf("；"));
-    return (cut >= 16 ? slice.slice(0, cut) : slice.replace(/[，。；、]$/, "")) + "…";
-  }
-
-  /** 内容页页脚：来源 + 页码 */
-  function drawFooter(ctx, opts) {
-    const lineY = H - 58;
-    ctx.fillStyle = "#8d8c8e";
-    ctx.fillRect(PAD, lineY, W - PAD * 2, 1.5);
-
-    const y = H - 18;
-    ctx.textAlign = "left";
-    ctx.textBaseline = "alphabetic";
-    ctx.font = f(400, 20);
-    ctx.fillStyle = C.muted;
-    if (opts.left) ctx.fillText(opts.left, PAD, y);
-    if (opts.right) {
-      ctx.textAlign = "right";
-      ctx.fillText(opts.right, W - PAD, y);
+  /** 测宽后省略，长历史字段也不挤出边界；正文不靠缩小字号塞进版面。 */
+  function boundedLines(ctx, text, width, maxLines) {
+    const lines = wrapText(ctx, text, width);
+    if (lines.length <= maxLines) return lines;
+    const visible = lines.slice(0, maxLines);
+    let last = visible[maxLines - 1].replace(/[，。、；：]$/, "");
+    while (last && ctx.measureText(last + "…").width > width) {
+      last = Array.from(last).slice(0, -1).join("");
     }
+    visible[maxLines - 1] = last + "…";
+    return visible;
+  }
+
+  /** 页脚是辅助信息，正文和来源各用独立的空间。 */
+  function drawFooter(ctx, opts) {
+    ctx.textAlign = "left";
+    ctx.font = f(400, 24);
+    ctx.fillStyle = C.hair;
+    ctx.fillRect(PAD, 1352, W - PAD * 2, 1);
+    ctx.fillStyle = C.muted;
+    if (opts.left) ctx.fillText(boundedLines(ctx, opts.left, 720, 1)[0], PAD, 1400);
+    ctx.textAlign = "right";
+    if (opts.right) ctx.fillText(opts.right, W - PAD, 1400);
     ctx.textAlign = "left";
   }
 
-  /** 内容页顶部品牌栏 */
   function drawContentHeader(ctx, card, date) {
     ctx.textAlign = "left";
-    ctx.textBaseline = "alphabetic";
-    ctx.font = f(800, 46);
+    ctx.font = f(800, 48);
     ctx.fillStyle = C.ink;
-    ctx.fillText("拾闻", PAD, 70);
-    const logoW = ctx.measureText("拾闻").width;
-    ctx.beginPath();
-    ctx.arc(PAD + logoW + 12, 65, 5, 0, Math.PI * 2);
+    ctx.fillText("拾闻", PAD, 87);
     ctx.fillStyle = C.accent;
+    ctx.beginPath();
+    ctx.arc(PAD + ctx.measureText("拾闻").width + 12, 80, 5, 0, Math.PI * 2);
     ctx.fill();
-
-    ctx.font = f(400, 18);
+    ctx.font = f(400, 28);
     ctx.fillStyle = C.muted;
-    drawSpacedText(ctx, "每天十条值得关注的新闻", PAD, 103, 6);
-
-    const category = card.category || "综合";
-    ctx.font = f(500, 22);
-    const categorySpacing = 1;
-    const categoryW = ctx.measureText(category).width + (Array.from(category).length - 1) * categorySpacing;
-    const categoryX = W - PAD - categoryW;
+    ctx.fillText(fmtDate(date), PAD + 140, 84);
     ctx.fillStyle = C.accentText;
-    drawSpacedText(ctx, category, categoryX, 80, categorySpacing);
-
     ctx.textAlign = "right";
-    ctx.font = f(400, 22);
-    ctx.fillStyle = C.muted;
-    ctx.fillText(fmtDate(date), categoryX - 40, 80);
-    drawDivider(ctx, categoryX - 20, 60, 24);
-
-    ctx.fillStyle = "#a9a8a6";
-    ctx.fillRect(PAD, 125, W - PAD * 2, 1.5);
+    ctx.fillText(boundedLines(ctx, card.category || "综合", 420, 1)[0], W - PAD, 84);
+    ctx.fillStyle = C.hair;
+    ctx.fillRect(PAD, 130, W - PAD * 2, 1);
     ctx.textAlign = "left";
   }
   // ── 卡片绘制 ──────────────────────────────────
@@ -285,15 +268,15 @@ window.Poster = (function () {
     const means = [];
     (news.reason || "").split(/[，,。；;]/).forEach((p) => {
       p = p.trim();
-      if (p.length >= 6 && means.length < 3) means.push(p.slice(0, 18));
+      if (p.length >= 6 && means.length < 2) means.push(p.slice(0, 18));
     });
-    while (means.length < 3) means.push("关注后续进展与官方口径");
+    while (means.length < 2) means.push(means.length ? "后续进展以官方发布为准" : "关注后续进展与官方口径");
 
     return {
       category: areas.slice(0, 2).join("·") || "综合",
       headline: (news.title || "").slice(0, 14),
       what: what,
-      question: "这件事会怎么影响你？",
+      question: "", // 兼容旧数据字段，大字版不再单独展示提问
       means,
       note: "信息整理自公开报道，具体以官方发布为准。",
       // 兜底推导的文案质量弱于 AI 改写，标记出来供渲染层区分
@@ -301,122 +284,64 @@ window.Poster = (function () {
     };
   }
 
-  /** 内容卡：严格对应原型的标题、摘要条与 01/02/03 信息区 */
+  /** 大字内容卡：标题 + 一段事实 + 两条影响 + 必要提示。 */
   function drawContentCard(news, meta) {
     const { cv, ctx } = newCanvas();
     const card = getCard(news);
     const maxW = W - PAD * 2;
-
     drawContentHeader(ctx, card, meta.date);
 
-    // 主标题与解释性副标题
-    const headFit = fitFont(ctx, card.headline, maxW, 1, 800, 76, 54);
+    // 标题允许两行，避免旧版为塞进一行而不断缩字。
+    const headline = card.headline || news.title || "今日新闻";
+    const headFit = fitFont(ctx, headline, maxW, 2, 800, 86, 68);
     ctx.font = f(800, headFit.size);
     ctx.fillStyle = C.ink;
-    ctx.fillText(headFit.lines[0], PAD, 241);
+    const headLines = boundedLines(ctx, headline, maxW, 2);
+    const titleLines = headFit.lines.length <= 2 ? headFit.lines : headLines;
+    const titleEnd = drawLines(ctx, titleLines, PAD, 245, 106);
 
-    const deck = news.reason || card.question || card.what;
-    const deckFit = fitFont(ctx, deck, maxW, 1, 400, 31, 21);
-    ctx.font = f(400, deckFit.size);
-    ctx.fillStyle = C.inkSoft;
-    ctx.fillText(deckFit.lines[0], PAD, 313);
-
-    // 总结与提示共用标签列：24px 中等字重、1px 字距，正文起点一致。
-    const labelX = PAD + 28;
-    const bodyX = PAD + 190;
-    const bodyW = maxW - 218;
-
-    // 一句话总结：整条沿用面板底色，不单独绘制标签底块。
-    drawPanel(ctx, PAD, 357, maxW, 78, 17);
-    ctx.font = f(500, 24);
+    // 去掉重复的 reason、副标题、总结条、提问区；事实只出现一次。
+    const labelY = titleEnd + 34 + (2 - titleLines.length) * 32;
+    ctx.font = f(600, 30);
     ctx.fillStyle = C.accentText;
-    ctx.textAlign = "left";
-    drawSpacedText(ctx, "一句话总结", labelX, 406, 1);
-    const oneLine = clippedSentence(card.what || news.summary, 31);
-    const oneFit = fitFont(ctx, oneLine, bodyW, 1, 400, 24, 20);
-    ctx.font = f(400, oneFit.size);
+    ctx.fillText("发生了什么", PAD, labelY);
+    ctx.font = f(400, 42);
     ctx.fillStyle = C.inkSoft;
-    ctx.textAlign = "left";
-    ctx.fillText(oneFit.lines[0], bodyX, 406);
+    const facts = boundedLines(ctx, card.what || news.summary, maxW, 4);
+    const factsEnd = drawLines(ctx, facts, PAD, labelY + 66, 62);
 
-    // 01 发生了什么？
-    drawPanel(ctx, PAD, 460, maxW, 220, 17);
-    drawNumber(ctx, 1, PAD + 25, 528);
-    drawDivider(ctx, PAD + 122, 484, 55);
-    ctx.font = f(800, 38);
+    // 旧版三条影响仍可读取；只呈现前两条，整句保留，不拆成新的判断。
+    const means = (card.means || []).filter(Boolean).slice(0, 2);
+    const impactY = Math.max(factsEnd + 22, 760);
+    ctx.fillStyle = C.hair;
+    ctx.fillRect(PAD, impactY, maxW, 1);
+    ctx.font = f(700, 36);
     ctx.fillStyle = C.ink;
-    ctx.fillText("发生了什么？", PAD + 158, 526);
-    ctx.font = f(400, 29);
-    ctx.fillStyle = C.inkSoft;
-    const whatLines = wrapText(ctx, card.what, maxW - 198);
-    drawLines(ctx, whatLines, PAD + 158, 574, 43, 3);
-
-    // 02 这意味着什么？
-    drawPanel(ctx, PAD, 705, maxW, 143, 17);
-    drawNumber(ctx, 2, PAD + 25, 785);
-    drawDivider(ctx, PAD + 122, 729, 55);
-    ctx.font = f(800, 36);
-    ctx.fillStyle = C.ink;
-    ctx.fillText("这意味着什么？", PAD + 158, 768);
-    const question = card.question || "这件事会怎么影响你？";
-    const questionFit = fitFont(ctx, question, maxW - 198, 1, 400, 28, 21);
-    ctx.font = f(400, questionFit.size);
-    ctx.fillStyle = C.inkSoft;
-    ctx.fillText(questionFit.lines[0], PAD + 158, 816);
-
-    // 03 这对你意味着什么
-    drawPanel(ctx, PAD, 872, maxW, 351, 17);
-    drawNumber(ctx, 3, PAD + 25, 951);
-    drawDivider(ctx, PAD + 122, 896, 55);
-    ctx.font = f(800, 36);
-    ctx.fillStyle = C.ink;
-    ctx.fillText(card.derived ? "为什么值得关注" : "这对你意味着什么", PAD + 158, 934);
-
-    const means = (card.means || []).slice(0, 3);
-    const itemX = PAD + 156;
-    const itemW = maxW - 178;
-    const itemH = 67;
-    const itemGap = 14;
-    const startY = means.length >= 3 ? 964 : 986;
+    ctx.fillText(card.derived ? "为什么值得关注" : "与你有什么关系", PAD, impactY + 62);
+    let iy = impactY + 136;
     means.forEach((mean, i) => {
-      const iy = startY + i * (itemH + itemGap);
-      ctx.fillStyle = C.white;
-      roundRect(ctx, itemX, iy, itemW, itemH, 26);
-      ctx.fill();
-
-      ctx.fillStyle = C.accentTint;
-      roundRect(ctx, itemX + 13, iy + 9, 64, 49, 24);
-      ctx.fill();
-      ctx.font = `700 25px ${SERIF}`;
-      ctx.fillStyle = C.accent;
-      ctx.textAlign = "center";
-      ctx.fillText(String(i + 1).padStart(2, "0"), itemX + 45, iy + 43);
-
-      const meanFit = fitFont(ctx, mean, itemW - 108, 1, 400, 27, 20);
-      ctx.font = f(400, meanFit.size);
+      ctx.font = f(600, 30);
+      ctx.fillStyle = C.accentText;
+      ctx.fillText(String(i + 1).padStart(2, "0"), PAD, iy - 3);
+      ctx.font = f(500, 42);
       ctx.fillStyle = C.inkSoft;
-      ctx.textAlign = "left";
-      ctx.fillText(meanFit.lines[0], itemX + 102, iy + 43);
+      const lines = boundedLines(ctx, mean, maxW - 82, 2);
+      iy = drawLines(ctx, lines, PAD + 82, iy, 60) + 24;
     });
 
-    // 注意提示
-    drawPanel(ctx, PAD, 1247, maxW, 108, 17);
-    ctx.font = f(500, 24);
-    ctx.fillStyle = C.accentText;
-    ctx.textAlign = "left";
-    drawSpacedText(ctx, "注意提示", labelX, 1311, 1);
+    // 不确定性与生效条件保留；两行提示独立于正文，取消色块。
     const note = card.note || "具体信息以官方发布及后续落地情况为准。";
-    ctx.font = f(400, 23);
-    ctx.fillStyle = C.inkSoft;
-    ctx.textAlign = "left";
-    const noteLines = wrapText(ctx, note, bodyW);
-    const noteStartY = noteLines.length > 1 ? 1297 : 1311;
-    drawLines(ctx, noteLines, bodyX, noteStartY, 34, 2);
+    ctx.font = f(500, 28);
+    ctx.fillStyle = C.accentText;
+    ctx.fillText("留意", PAD, 1230);
+    ctx.font = f(400, 30);
+    ctx.fillStyle = C.muted;
+    drawLines(ctx, boundedLines(ctx, note, maxW - 100, 2), PAD + 100, 1230, 44);
 
     const srcName = (news.sources || []).map((s) => (typeof s === "object" ? s.name : s)).filter(Boolean)[0];
     drawFooter(ctx, {
       left: srcName ? `来源：${srcName}` : "来源：公开报道",
-      right: `${String(meta.index).padStart(2, "0")}/${String(meta.total).padStart(2, "0")}`,
+      right: `${String(meta.index).padStart(2, "0")} / ${String(meta.total).padStart(2, "0")}`,
     });
     return cv;
   }
