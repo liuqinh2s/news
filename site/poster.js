@@ -10,7 +10,7 @@ window.Poster = (function () {
   const H = 1440;
   const PAD = 56; // 与原型一致的左右安全边距
 
-  // 2026.10 模板：编辑部纸张感 + 高对比黑字 + 朱橙强调
+  // 编辑部纸张感 + 高对比黑字 + 朱橙文字强调
   const C = {
     bg: "#fbfaf7",
     panel: "#f4f3f0",
@@ -21,6 +21,7 @@ window.Poster = (function () {
     hair: "#c8c7c4",
     accent: "#ff4b24",
     accentDeep: "#f04420",
+    accentText: "#c94b2b", // 小字号标签用沉稳的橙色，保持浅底上的可读性
     accentTint: "#fff0e9",
     chipBg: "#efeeeb",
     white: "#ffffff",
@@ -228,18 +229,18 @@ window.Poster = (function () {
     drawSpacedText(ctx, "每天十条值得关注的新闻", PAD, 103, 6);
 
     const category = card.category || "综合";
-    ctx.font = f(600, 22);
-    const chipW = Math.max(132, ctx.measureText(category).width + 40);
-    const chipX = W - PAD - chipW;
-    ctx.fillStyle = C.accent;
-    ctx.textAlign = "center";
-    ctx.fillText(category, chipX + chipW / 2, 80);
+    ctx.font = f(500, 22);
+    const categorySpacing = 1;
+    const categoryW = ctx.measureText(category).width + (Array.from(category).length - 1) * categorySpacing;
+    const categoryX = W - PAD - categoryW;
+    ctx.fillStyle = C.accentText;
+    drawSpacedText(ctx, category, categoryX, 80, categorySpacing);
 
     ctx.textAlign = "right";
-    ctx.font = f(500, 24);
-    ctx.fillStyle = C.inkSoft;
-    ctx.fillText(fmtDate(date), chipX - 28, 80);
-    drawDivider(ctx, chipX - 16, 55, 31);
+    ctx.font = f(400, 22);
+    ctx.fillStyle = C.muted;
+    ctx.fillText(fmtDate(date), categoryX - 40, 80);
+    drawDivider(ctx, categoryX - 20, 60, 24);
 
     ctx.fillStyle = "#a9a8a6";
     ctx.fillRect(PAD, 125, W - PAD * 2, 1.5);
@@ -320,18 +321,23 @@ window.Poster = (function () {
     ctx.fillStyle = C.inkSoft;
     ctx.fillText(deckFit.lines[0], PAD, 313);
 
-    // 一句话总结
+    // 总结与提示共用标签列：24px 中等字重、1px 字距，正文起点一致。
+    const labelX = PAD + 28;
+    const bodyX = PAD + 190;
+    const bodyW = maxW - 218;
+
+    // 一句话总结：整条沿用面板底色，不单独绘制标签底块。
     drawPanel(ctx, PAD, 357, maxW, 78, 17);
-    ctx.font = f(700, 28);
-    ctx.fillStyle = C.accent;
-    ctx.textAlign = "center";
-    ctx.fillText("一句话总结", PAD + 115, 407);
+    ctx.font = f(500, 24);
+    ctx.fillStyle = C.accentText;
+    ctx.textAlign = "left";
+    drawSpacedText(ctx, "一句话总结", labelX, 406, 1);
     const oneLine = clippedSentence(card.what || news.summary, 31);
-    const oneFit = fitFont(ctx, oneLine, maxW - 270, 1, 400, 28, 20);
+    const oneFit = fitFont(ctx, oneLine, bodyW, 1, 400, 24, 20);
     ctx.font = f(400, oneFit.size);
     ctx.fillStyle = C.inkSoft;
     ctx.textAlign = "left";
-    ctx.fillText(oneFit.lines[0], PAD + 262, 407);
+    ctx.fillText(oneFit.lines[0], bodyX, 406);
 
     // 01 发生了什么？
     drawPanel(ctx, PAD, 460, maxW, 220, 17);
@@ -395,17 +401,17 @@ window.Poster = (function () {
 
     // 注意提示
     drawPanel(ctx, PAD, 1247, maxW, 108, 17);
-    ctx.font = f(700, 27);
-    ctx.fillStyle = C.accent;
-    ctx.textAlign = "center";
-    ctx.fillText("注意提示：", PAD + 98, 1314);
+    ctx.font = f(500, 24);
+    ctx.fillStyle = C.accentText;
+    ctx.textAlign = "left";
+    drawSpacedText(ctx, "注意提示", labelX, 1311, 1);
     const note = card.note || "具体信息以官方发布及后续落地情况为准。";
     ctx.font = f(400, 23);
     ctx.fillStyle = C.inkSoft;
     ctx.textAlign = "left";
-    const noteLines = wrapText(ctx, note, maxW - 236);
+    const noteLines = wrapText(ctx, note, bodyW);
     const noteStartY = noteLines.length > 1 ? 1297 : 1311;
-    drawLines(ctx, noteLines, PAD + 224, noteStartY, 34, 2);
+    drawLines(ctx, noteLines, bodyX, noteStartY, 34, 2);
 
     const srcName = (news.sources || []).map((s) => (typeof s === "object" ? s.name : s)).filter(Boolean)[0];
     drawFooter(ctx, {
