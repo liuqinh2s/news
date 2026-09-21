@@ -1,105 +1,152 @@
-# 2026-09-21 原始新闻标题 (234 条)
+# 2026-09-21 原始新闻标题 (273 条)
 
-## 澎湃新闻 (19 条)
-- 亚运一帧记｜惊喜、纪录、青春，中国游泳健儿用真诚走进人心
-- “一江一河”滨水夜经济：烟火气来一点，潜力街区风格强一点
-- 成功卫冕！盛李豪夺得亚运会男子10米气步枪金牌
-- 王心富任广西壮族自治区党委副书记
-- “一江一河”夜间活力评估：31个特色地标，7个活力街区
-- 王心富任广西壮族自治区党委副书记
-- 从街区出发：上海“一江一河”滨水空间活力评价体系
-- 赛迪研究院｜原材料供需错配矛盾加剧，需尽快完善防风险机制
-- 00后“黄鞋侠”徒手攀岩救回遇险老人：以前是体育生，比较有把握
-- 新闻蒸馏器｜德国选择党再赢州选举，魏德尔吁默茨下台，或影响欧洲政局
-- 清朗浦江｜服务保障世界技能大赛，上海重点平台积极参与网络环境专项治理
-- 云南镇雄两名男子17年前合谋拐卖两名3岁儿童，案件将于9月23日开庭
-- 闲鱼回应平台出现色情引流情况：成立专项小组，呼吁各平台联合行动
-- 厄尔尼诺、地缘冲突影响国际粮食市场，国家粮食和物资储备局：我国粮食安全有可靠保障
-- 广东顺德一纺织公司厂房发生火灾事故，造成8人死亡
-- 五部门联合出手：严惩生态环境技术服务机构弄虚作假
-- 中美经贸磋商在美国纽约举行
-- 独家｜产业链人士：特斯拉机器人团队在长三角审厂，多家企业已获订单
-- 为了共同繁荣的梦想——习近平主席引领全球发展倡议造福世界
-
-## 南方周末 (1 条)
-- 36张罚单之谜：基金高管的匿名惩戒
+## 澎湃新闻 (20 条)
+- 澎湃漫评｜井盖扎堆，道路怎能不“犯颠”
+- 提前探营世界技能大赛：贴瓷砖、铺电路，这些“手艺活”怎么比？
+- 国内首部胃癌患者生存质量白皮书发布，超半数患者确诊时是中晚期
+- 俄乌冲突后俄首次杜马选举：执政党无悬念领先，投票率创纪录
+- 每日看盘｜风险偏好回暖，A股或将补量
+- 伊朗总统22日赴美出席联合国大会
+- 5天4板会稽山：生产经营活动正常，所处市场环境、行业政策未发生重大调整
+- 青海辟谣“前文旅厅厅长开网约车”：不实，实际是网约车司机
+- 甘肃启动“银龄讲学计划”：7市州面向全国招募退休教师130名
+- 第169次中老缅泰湄公河联合巡逻执法行动启动
+- 市场监管总局开展月饼专项抽检：个别产品超范围超限量使用防腐剂、着色剂
+- AI短剧征集倒计时：申报者想讲钟馗、科幻、历史，更想“定义标准”
+- 张又侠、刘振立严重违纪违法被开除党籍军籍
+- 【社论】学生信息泄露，谨防“内鬼”作案
+- 于子迪获亚运会女子200米个人混合泳金牌
+- 人民币对美元即期汇率日间收盘价创2022年7月以来新高
+- 广东省人大常委会党组成员覃伟中接受审查调查
+- 中秋前一周成低价错峰出行窗口，阿勒泰地区酒店预订热度同比增长48%
+- 经纬度：香港发布首个五年规划，沪港合作迎来新机遇
+- 贾国龙：结合西贝惨痛的教训，恳请进一步厘清高流量网络账号的言论边界
 
 ## 凤凰网 (20 条)
-- 彭泽县黄花绕城公路连接线正式通车（图） - jx.ifeng.com
-- 当外国小姐姐第一次看寻梦龙虎山 - 凤凰网
-- 【视频】兰州新区高校学子集结 军训高燃画面来袭 - 凤凰网
-- 闲鱼涉黄或存在滥用避风港原则，律师解读 - 凤凰网
-- 完美公司携新产品亮相2026香妆年会 - 凤凰网
-- “我要是先走了，她怎么办？”87岁爷爷照护老年痴呆的妻子：她必须24小时都看见我 - 凤凰网
-- “秋韵龙虎 山水新境”媒体采风团走进龙虎山 - 凤凰网
-- 600克黄金停车场遗失价值近60万，停车场遗失600克黄金失主发声 - 凤凰网
-- 对话自费支教乡村教师坚持20年不挣钱还倒贴钱曾被人说是“傻子”“异类” “曾后悔退缩却因被需要而坚持” - 凤凰网
-- 9岁女孩独自去看张韶涵演唱会，家长回应9岁女孩独自去看演唱会 - 凤凰网
-- 新华社消息｜广东顺德一纺织公司厂房起火 有人员伤亡 - 凤凰网
-- 饮水过量反而可能加重身体负担 - 凤凰网
-- 两兄妹被胡蜂蜇亡案今日开庭 - 凤凰网
-- 电影《迟爱》 - 凤凰网
-- 秋染栾川，菊韵飘香！鸡冠洞今秋菊花展盛放栾川 - 凤凰视频
-- 闲鱼涉黄或存在滥用避风港原则，律师解读 - 凤凰视频
-- 憾负湘潭结束四连客，永州队主教练黄楚儒：看好湘潭今年夺冠，本场球员、教练都已尽力 - 凤凰视频
-- 应对蒿草过敏新方式，从 “人工拔蒿” 到 “以草抑草”，生态种子包用乡土草替代蒿草，变 “除草” 为 “种草。 - 凤凰视频
-- 男子称住酒店被床上针头扎入手臂，保安直接徒手拔针！酒店回应床上有针扎入顾客手臂：针不一定是酒店的 - 凤凰视频
-- 日本经济低迷还到处惹事，台军老将：高市早苗玩火自焚深陷内忧外患 - 凤凰视频
+- 德国左翼党赢下柏林州，高层答凤凰：选民并非只能“向右转”
+- 伊朗总统22日赴美出席联合国大会
+- 张又侠、刘振立严重违纪违法被开除党籍军籍
+- 8人遇难！中国牛仔服装名镇，“大量直筒黑烟冲向空中”
+- 38岁清华毕业生又考上北大，当年的同学已成下学期老师
+- 日本引入“堤丰”中导系统，中方回应
+- 韩朝边境非军事区疑似地雷爆炸，3名韩国军人受伤
+- 佛罗里达州钓鱼船捕获美军无人机
+- 日本前防卫大臣喊话高市：尽快改善日中关系，别固执了
+- 伊朗革命卫队：新型武器将“令世界震惊”
+- 兽爷丨第一中餐馆的轰然死亡
+- 国产AUDI德国奥迪总部不认？上汽奥迪高管发文：系误解
+- 秦始皇陵水银来源被找到？专业人士：现有证据还无法一锤定音
+- 覃伟中被查，曾任深圳市长
+- 伊朗女摩托骑手增多，宗教保守力量仍阻止女性获得驾照
+- 印度对华出口涨近40%，电子产品为主
+- 李在明：将进一步放低姿态
+- 俄罗斯执政党在国家杜马选举中领先
+- 郑丽文是票房毒药不想跟她同台？蓝营青年候选人驳斥相关说法
+- 巴基斯坦一警察营地遭恐袭，外交部回应
 
 ## 财新网 (20 条)
+- 智谱被指未经用户允许上传数据 随后致歉并开源ZCode
+- 履新广东省人大不足一个月 深圳原市长覃伟中被查
+- 香港名媛蔡天凤碎尸案开审 前夫一家三口同堂受审
+- 图集｜金正恩连续三日视察军工厂 无人机生产车间首次曝光
+- 人事观察｜“大换血” 换届前广西党委四名常委同日履新
+- 《我的答案之城》导演手记：我们只是用尽全力，活成了答案本身|影视
+- 外交部：习近平将于9月23日至25日对美国进行国事访问
+- 个贷明示综合融资成本统一格式公布 方便贷款人横向比较和选择
+- 从《诺曼底72小时》到AI可信度
+- 香港27岁女子骑单车遭恶狗追咬而死 一个月内两宗狗咬人惨剧
+- 贝森特称美方提议建立中美AI安全通报机制 将提请峰会考虑
+- 日本的移民难题：经济依赖与社会接纳的落差
+- 投资降幅持续扩大 扩大有效投资重点何在？
+- 视线｜特斯拉Cybercab巡展北京：无人出租车的十年赛局
+- 学生坠楼舆情中的谣言爆发机理
 - 【霍尔木兹周报】美伊释放谈判信号 “双海峡锁喉”风险升温
 - 不应被遗忘的物理学泰斗｜燕南园往事③
 - 【权益周观察】美加息落地A股反弹 机构提醒节前震荡风险
 - 票房｜《复仇者联盟4》中秋节重映 陈思诚、小沈阳新片定档国庆假期
 - 2026年，民营医院穿越火线（四）
-- 中美经贸磋商在纽约举行 并就人工智能问题举行对话
-- 加息落地，美债利率还有多少上行空间
-- 朱学东：黄豆的江南吃法｜饮食
-- 人事观察｜陕西省委高层增员 57岁副省长李九红“入常”
-- 今日开盘：两市双双高开 沪指涨幅0.21%
-- 从亚当·斯密诅咒看中国银行业范式转换
-- 财新闻｜事关“幽灵外卖” 市场监管总局出手整治
-- 【市场动态】卡塔尔能源大臣称贝森特对霍尔木兹海峡未来的看法“错误”
-- 能源内参｜8月份全社会用电量再破万亿 负荷创历史新高；首个钙钛矿光伏领域国家标准发布
-- 【商圈】郑钦文逆风翻盘 Queen Wen不止在球场
-- 草间弥生：有多孤独就有多强大｜纪念
-- T早报｜长鑫科技第五代技术平台量产；黄仁勋称需警惕AI“末日叙事” ；智谱上线“数据内容不留存”功能
-- 一则延迟曝光的幼儿园集体呕吐事件：厨房拖把洗锅疑云
-- 反腐记｜今年已有50名落马中管干部被点名
-- 财经早知道｜住建部：住房和房地产迎来“两个转变”
 
-## 央视网 (6 条)
-- 美伊双方传递谈判意愿 新一轮谈判或将重启？ - 央视网
-- 广东顺德一纺织公司厂房起火 有人员伤亡 - 央视网
+## 央视网 (17 条)
+- 国新办请航天领域代表与中外记者见面交流 - 央视网
+- 超300家企业参与 东博会国际供采专场成果丰硕 - 央视网
+- 甘肃省武威市政协原党组书记、主席鞠毅接受审查调查 - 央视网
+- 如何端稳端牢“中国饭碗”？“十五五”这样干 - 央视网
+- 胡塞武装警告他国不要参战 - 央视网
+- 受台风“杜鹃”影响 日本超200架次航班取消 - 央视网
+- 我国首批数据产权“身份证”发放 支持数据资源确认为企业资产 - 央视网
 - 伊朗军方称在霍尔木兹海峡上空击落一“轨道飞行器”无人机 - 央视网
-- “一带一路”电影产业发展对话在陕西西安举行 - 央视网
-- 马克龙：支持加拿大和欧盟相互靠拢 - 央视网
+- 加沙地带多地遭以军袭击 多名巴勒斯坦人受伤 - 央视网
+- @求职者，这些行业人才需求旺盛 线上线下的招聘活动别错过 - 央视网
+- 广东顺德一纺织公司厂房起火 有人员伤亡 - 央视网
+- 中国、马达加斯加警方首次联合开展打击电信网络诈骗行动 - 央视网
+- 出口民调：统一俄罗斯党在俄国家杜马选举中得票领先 - 央视网
+- 开播！大型纪录片《石榴花开——铸牢中华民族共同体意识》描摹中华民族共同体壮阔画卷 - 央视网
 - “数”看消费新亮点 今年前8个月电子商务向好向新发展 - 央视网
+- 知情人士称美国拟制裁国际刑事法院 - 央视网
+- 从海上捕鱼到船里养鱼 “耕海牧渔”有了“新”模样 - 央视网
 
-## BBC (4 条)
+## BBC (20 条)
 - German Chancellor Merz calls state election a 'disaster' for his party but vows to stay on
-- Trump says triumphal arch will be military complex with drones and snipers
-- Man, 82, dies after beach fight with 76-year-old over sunlounger in Greece
+- Russia's elections had few surprises - but how the Kremlin uses the results will be crucial
+- Seven Ethiopian rebel groups form new alliance
+- CNN, MS NOW and Politico to file lawsuit against Trump's White House ban
+- Three arrested in South Africa over one of nine women's bodies
+- Jailed teacher convicted of sexual abuse secretly released early in Indonesia, BBC finds
+- US and China discuss AI safety plan ahead of Trump-Xi summit
+- Lindsay Clancy's ex-husband says he forgave her so he would not be 'eaten up inside forever'
+- UK should 'team up' with Canada in new Europe alliance, Canadian minister tells BBC
+- Presley Gerber, Cindy Crawford's son, dies aged 27
+- Sydney policeman allegedly disguised himself as Uber Eats rider before murders
+- Burnham hails Greenland deal ahead of expected first Trump meeting
 - Sister of Pakistan's ex-PM Imran Khan arrested
+- Trump says triumphal arch will be military complex with drones and snipers
+- Inside Djibouti refugee camp for thousands fleeing Houthi advance in Yemen
+- Workers came across human remains – and unearthed a mass grave of 572 people
+- 'Far from their best' to 'a joy to watch' -  ranking Premier League teams' start to season
+- Inside a camp for Yemeni refugees who have fled to Djibouti
+- 'No surprises' as results emerge in Russian parliamentary election
+- Watch: Dramatic moment a cargo ship crashes into another vessel
 
-## Reuters (3 条)
-- Jake Cronenworth homers twice as red-hot Padres defeat Marlins - Reuters
-- ICE agent wounds man in Austin, Texas, shooting, city officials say - Reuters
-- Scene of alleged ICE shooting in Austin - The Lufkin Daily News
+## Reuters (18 条)
+- Houthis push for control of Yemen highlands
+- Gaza students return to in-person schooling for first time in three years
+- Southport girls' killer 'threw boiling water mixed with sugar' at prison guard, prosecutors say
+- Kremlin rejects Le Pen/Bardella rebuke, says Russia is no threat to France
+- Seven Ethiopian armed groups announce anti-government alliance
+- Brazil's Lula would beat Bolsonaro by 1 point in runoff, suggests BTG/Nexus poll
+- UK's Burnham heads to US with pragmatism in mind for Trump meeting
+- Pro-Putin party keeps grip on parliament, anti-war party gains tiny regional foothold
+- Trump's favorite 2026 campaign target is Biden: nearly 900 mentions and counting
+- Syrian ammunition depot explodes in fourth such blast this month
+- Italy's Salvini calls congress seeking to tighten grip on League party
+- Pakistan says 28 killed in airstrikes on three targets in Afghanistan
+- Merz clings on after German election 'disaster'
+- US watching Chinese marine presence off Alaska, Arctic Coast Guard chief says
+- Russia's ruling pro-Putin party wins wartime election with over 57% of vote, near complete results show
+- New Zealand naval ships transit contested Taiwan Strait
+- Xi rolls into Trump summit with China's trade engine roaring
+- Vessels trickle through Strait of Hormuz as Middle East conflict persists
 
-## NYTimes (12 条)
+## NYTimes (19 条)
+- Challenges to Identity, Real and Imagined, Drive Europe’s Far Right
+- At 92, the Bard of Bollywood Is Still Writing About Love
+- U.N. General Assembly to Confront Familiar Crises, New Conflicts and A.I.
+- One Issue That Could Upend Fragile U.S.-China Ties: Taiwan Arms
+- ‘Way Too Hot’: Britain’s Hospitals Were Not Built for 96-Degree Summers
+- Putin Reignited a Dispute With Japan. This Town Is Stuck in the Middle.
+- Why a Law to Help Prisoners Became a New Sectarian Flashpoint in Lebanon
+- Flight Delays Disrupt UK Airports Once Again
 - A Diplomat From Myanmar Refuses to Give Up New York City Post
 - Thirty More Arrested in Jovenel Moïse Assassination
 - Germany’s Merz Vows to Stay After Another State Election ‘Disaster’
 - On a Dot of France Off Canada, Carney and Macron Talk Partnership
 - Houthis Push to Expand Territory as Tensions With Saudi Arabia Rise
+- Police Officer Is Injured in Shooting Near Ontario Synagogue
+- Chulpan Khamatova Stars in the Dark, Absurdist Play “Delirium”
+- Let’s Talk Climate
 - Hundreds of Drones Target Moscow on Final Day of Russian Elections
 - They Have Almost No Chance in Russia’s Elections. Why Are They Running?
 - Inside the Breakdown of U.K.-Israel Relations Over West Bank Settlements
-- Putin Reignited a Dispute With Japan. This Town Is Stuck in the Middle.
-- ‘Way Too Hot’: Britain’s Hospitals Were Not Built for 96-Degree Summers
-- One Issue That Could Upend Fragile U.S.-China Ties: Taiwan Arms
-- Let’s Talk Climate
 
 ## CNN (6 条)
 - 0% intro APR until 2024 is 100% insane
@@ -110,26 +157,26 @@
 - Want Cash Out of Your Home? Here Are Your Best Options
 
 ## 微博热搜 (20 条)
-- 闲鱼回应涉黄
-- 把配料表中的白砂糖还给我们
-- 万千气象看吉林
-- vivo X500系列
-- 闲鱼封了9.8万个涉黄账号
-- 自己做饭成本其实很高
-- 盛李豪亚运会破世界纪录夺金
-- 买聚能环致妻儿死亡男子发声
-- 你支持艾滋病纳入婚检并告知配偶吗
-- 突然理解了小允子对甄嬛的忠心
-- 王楚钦赢了赢了这下输了
-- 吸烟 取消学费减免
-- 闲鱼 暗网
-- 闲鱼 暗语
-- 张佳宁感情时间线
-- 肖战中国品牌人物500强第27名
-- 许嵩 冯禧
-- 王俊凯一张图晒出14个王俊凯
-- 张家齐经纪人把冰冷的母爱转化成温暖的流量
-- 有西贝门店已没有能够搓莜面员工
+- 第一学历歧视
+- 张又侠刘振立被开除党籍军籍
+- 确保大国粮仓稳如泰山
+- 一汽大众T6上市12.99万元起
+- 刘国梁 亚运会
+- 钟南山团队发现肺结节发病新趋势
+- 曝第33届金鹰奖获奖名单
+- 阿尔茨海默病的5个误区
+- 张展硕最后时刻反超
+- 张博恒绝杀两名日本奥运冠军
+- 中国女排晋级本届亚运决赛
+- 亚运会
+- 华为月饼 腹泻
+- Lisa疑似与blue谈恋爱了
+- 灭霸500
+- 许嵩粉丝发文
+- 张家齐的父母也是挺有意思
+- stayc 解散
+- 中国队男子4X200米自接金牌
+- 湾区升明月 观众替晚会筛选答案
 
 ## 知乎热榜 (20 条)
 - 为什么美国外星人UFO报道那么多，中国却几乎没有？
@@ -154,120 +201,110 @@
 - 瞎扯 · 如何正确地吐槽
 
 ## B站热门 (20 条)
-- KPL十周年宣传片：《保持纯粹的热爱》
-- 这牌咋样？
 - 师徒PK最后一舞，谁输了谁改名！我将拿出我最伟大的作品。
-- 新三国up锐评楚汉传奇19：腿上的毛～～～都磨光啦！
-- 【杀死比赛】真人演唱殿堂级宏大交响重构版《琵琶曲》
-- 评分9.3！长大能有多苦涩？重温野比大雄的人生！咋和童年看着不一样？【瓶子君152】
-- “乡土凝存温情，善念永续流年.”【Blue Dragon-Inst】【乡土の小曲】
-- 正视
+- 最小的蝶翼，也能掀起风暴 | 守护生命，幸好有你！
+- 坐上“东方列车”前往马丘比丘，打开课本上的印加文明
+- 《曾经的梦想》
+- 【第四十五赛季·精华2】故事视频公开：——“驼铃迤逦，幸存者向沙洲月告解：我有罪……”
+- 我修改了Minecraft的船：
+- 后续就是还有高手
+- 《原神》角色预告-「薇斯纳：春之晨舞」
+- 谁不想上《琵琶行》的时候急头白脸听语文老师弹个琵琶呢？
+- 小 时 候 害 怕 的 事
 - 当那一天真的来临，我们不会孤军奋战 | 元素战争：破晓 【原神HoYoFair x bilibilionly】
+- 我的妈妈是魔女
+- 【杀死比赛】真人演唱殿堂级宏大交响重构版《琵琶曲》
 - 那个满眼满心都是我的小猫，去世了！
-- 千校千问，和每一个你共赴新的课堂
-- 【逐影集趣】DP全关卡攻略 摆完挂机 简单好抄
+- 他罗斯有步坦协同，但我金朝有超位魔法！【帝国时代4】
+- KPL十周年宣传片：《保持纯粹的热爱》
 - 「白鸽归乡」哥伦比娅花样滑冰短片【HoYoFair x bilibilionly】
-- 循环歌单|【Star Crossing Night】|“【校规の小曲】”
-- 电动车钥匙丢了？锁坐桶里了？别急
-- 小米是造了个房？N90 Max探索版重新定义移动空间【阿Test正经比比】
-- 【三国杀×猪猪侠联动】新武将！新皮肤！新玩法！新场景！版本内容抢先看！
+- “乡土凝存温情，善念永续流年.”【Blue Dragon-Inst】【乡土の小曲】
+- 《异环》黑羽角色PV丨「魔女」的工作
 - 让村民们自己发展6个小时，回来后我竟然被架空了
-- 炎拳天使目前只卖了一千份，感觉皮特儿他们工作室要无了
-- 第36集|外卖小哥穿越修仙世界，徒手斗恶龙
 
 ## 抖音热搜 (20 条)
-- 加入慢充旅行倡议慢慢开逛
-- 一口中秋蟹味鲜
-- 1条视频看懂平陆运河
-- 皇马不敌马竞 穆里尼奥炮轰裁判
-- 你们公司发月饼了吗
+- 中国队男子4x200自接力亚运夺冠
+- 挑战N种方式到创大
+- 新质生产力助力端牢中国饭碗
+- 张又侠刘振立被开除党籍军籍
+- 中国女排战胜泰国挺进决赛
+- 超长蛋挞爆火出圈
+- 张博恒夺金
+- 于子迪夺亚运会第2金
+- 亚运会中国女足5:1菲律宾女足
+- 抖音电商作者来创大团建了
 - 桂花香飘散在风里
-- 首届糯门零食大赛
+- 男子造谣宁德时代员工裸奔被拘
 - 把平凡的一天拍出名场面
-- 广东顺德纺织公司厂房火灾致8死
-- 王楚钦回应亚运会官网标错比分
-- 中美经贸磋商在美国纽约举行
-- 中国队女子4×100米自接力夺冠
-- 萨鲁基安获评最佳表现奖
-- 曼城5:3战胜桑德兰
-- 沙特罕见向以色列求援
-- 亚运男篮决赛韩国击败日本摘金
+- 深圳原市长覃伟中被查
+- 谁教山西这么当仙界的
 - 也门胡塞武装称袭击沙特首都
-- 沈佳润全开麦演绎新歌就骗我一次
-- 周深湾区升明月全开麦现场
 - 吕孟洋西班牙人青年队首秀进球
+- 2026湾区升明月晚会
+- 一口中秋蟹味鲜
+- emoji动物摇
 
 ## 豆瓣讨论 (1 条)
-- 张家齐她妈念念不忘的金项链 - douban
+- douban的个人主页 - douban
 
-## 丁香园 (1 条)
+## 丁香园 (5 条)
+- 亮相国家级学术盛会！绵阳市医院神经外科团队斩获多项全国学术成果 - y.dxy.cn
+- 赋能医工融合创新助推产教协同发展｜我院成功入选国家级医学中心医工成果转化产教融合共同体共建单位 - y.dxy.cn
+- 硬核护航，突破心脏手术禁区——ECMO 辅助攻克复杂高危 PCI 术难题 - y.dxy.cn
+- 我院开展机器人辅助低位直肠癌适形保肛技术解决临床保肛难题 - y.dxy.cn
 - 抱对了是“良药”，抱错了是风险？『抱娃』实操来了 - y.dxy.cn
 
 ## 雪球热帖 (20 条)
-- 吴姓股民向中铁装配发起索赔 刘鹏律师接受咨询 - 新浪财经
-- 读取中,请稍候 - vip.stock.finance.sina.com.cn
-- 读取中,请稍候 - vip.stock.finance.sina.com.cn
-- 药物受理最新动态：江苏德源药业股份有限公司琥珀酸曲格列汀片仿制申请获受理 - 新浪财经
-- 胡塞武装称沙特空袭也门北部通信塔致4人死亡 - 新浪财经
-- 机构：2026年上半年全球四足机器人出货量近3.5万台 - 新浪财经
-- 苹果新机发售，华强北批发遇冷，商家称“今年没有很火爆” - 新浪财经
-- C信诺维盘中涨超19%触发临停 - 新浪财经
-- 国防军工行业周报：本周分化明显 继续看好高端元器件龙头和传统白马 - 手机新浪网
-- 药物受理最新动态：济川（上海）医学科技有限公司FH001片补充申请获受理 - 新浪财经
-- 美国零售柴油价格已正式突破每加仑 6.50 美元大关 刷新历史名义最高纪录 - 新浪财经
-- 央企回报ETF招商（561960）涨0.70%，半日成交额1.55万元 - 新浪财经
-- 药物受理最新动态：上海长征富民金山制药有限公司中性腹膜透析液（碳酸氢盐-G4.25%）仿制申请获受理 - 新浪财经
-- 拓宽中转出游市场空间 - 新浪财经
-- 入局插混！零跑确认申请燃油车资质 - 新浪财经
-- 公司公告_富祥股份：投资者关系管理信息20260921新浪财经 - vip.stock.finance.sina.com.cn
-- 药物受理最新动态：郑州韩都药业集团有限公司甲钴胺片仿制申请获受理 - 新浪财经
-- 药物受理最新动态：长春百克生物科技股份公司重组人源抗呼吸道合胞病毒单克隆抗体注射液组合制剂新药申请获受理 - 新浪财经
-- 海口龙华思益商贸商行被海关列为失信企业 进出口通关资质审核将受直接影响 - 新浪财经
-- 陶某诉曹某王某瑞雁控股案2026年10月21日开庭 涉执行主体资格认定 - 新浪财经
+- 宋姓股民向盛达资源发起索赔 刘冰华律师接受咨询 - 新浪财经
+- 北京瑞强律师事务所关于陕西盘龙药业集团股份有限公司2026年股票期权激励计划调整事项之法律意见书新浪财经 - vip.stock.finance.sina.com.cn
+- 华阳集团：北京市通商(深圳)律师事务所关于惠州市华阳集团股份有限公司2026年第三次临时股东会的法律意见书 下载公告 - vip.stock.finance.sina.com.cn
+- 农产品：北京国枫律师事务所关于深圳市农产品集团股份有限公司2026年第三次临时股东会的法律意见书 下载公告 - vip.stock.finance.sina.com.cn
+- 中英科技：上海市锦天城律师事务所关于常州中英科技股份有限公司重大资产购买暨关联交易之补充法律意见书 下载公告 - vip.stock.finance.sina.com.cn
+- 陕西旅游(603402)_公司公告_陕西旅游：投资者关系活动记录表(2026.9.18)新浪财经_新浪网 - vip.stock.finance.sina.com.cn
+- XD昊海生物科技 - vip.stock.finance.sina.com.cn
+- 隆源股份：浙江天册律师事务所关于宁波隆源股份有限公司2026年第四次临时股东会的法律意见书 下载公告 - vip.stock.finance.sina.com.cn
+- 金博碳素股份 - vip.stock.finance.sina.com.cn
+- 众生药业 - vip.stock.finance.sina.com.cn
+- 极米科技：上海君澜律师事务所关于极米科技2026年股票期权激励计划(草案)之法律意见书 下载公告 - vip.stock.finance.sina.com.cn
+- 恒通股份：上海泽昌律师事务所关于恒通物流股份有限公司差异化分红事项的法律意见书 下载公告 - vip.stock.finance.sina.com.cn
+- 法拉电子 - vip.stock.finance.sina.com.cn
+- 江苏索普：国浩律师(南京)事务所关于江苏索普化工股份有限公司向特定对象发行股票之补充法律意见书(二) 下载公告 - vip.stock.finance.sina.com.cn
+- 中盐化工：内蒙古加度律师事务所关于中盐化工2026年第三次临时股东会法律意见书 下载公告 - vip.stock.finance.sina.com.cn
+- 彤程新材：关于刊发H股招股说明书、H股发行价格区间及H股香港公开发售等事宜的公告 下载公告 - vip.stock.finance.sina.com.cn
+- 永泰运(001228)_公司公告_永泰运：北京海润天睿律师事务所关于永泰运化工物流股份有限公司向特定对象发行股票发行过程和认购对象合规性的法律意见书新浪财经 - vip.stock.finance.sina.com.cn
+- 禾川科技：关于2026年度以简易程序向特定对象发行股票预案(二次修订稿)披露的提示性公告 下载公告 - vip.stock.finance.sina.com.cn
+- 永泰运：关于向特定对象发行股票发行情况报告书披露的提示性公告 下载公告 - vip.stock.finance.sina.com.cn
+- 财通证券(601108)_公司公告_财通证券：2025年度第七期短期融资券兑付完成公告新浪财经_新浪网 - vip.stock.finance.sina.com.cn
 
-## 36氪 (20 条)
-- 酒鬼酒：内参酒挺价政策达到预期
-- 新易盛：1.6T光模块产品已进入持续放量阶段，预计出货节奏将持续加速
-- 卓锦股份：三、四季度盈利情况将会较一、二季度有所修复
-- 恒指午间休盘涨0.56%，恒生科技指数跌0.13%
-- 两部门：在北京口岸开展进口药品通关电子化试点工作
-- 半日主力资金加仓医药、化工股
-- 闲鱼回应：成立专项小组严打色情引流，呼吁各平台联合行动
-- 璇玑动力全球首发中型智能四足新品
-- A股三大指数午间休盘集体上涨，医药股大涨
-- IMF总裁：世界经济面临多重风险
-- 五部门联合出手：严惩生态环境技术服务机构弄虚作假
-- 中国电影：《流浪地球3》（上部）计划于春节档登陆院线
-- 上纬新材在上海成立科技服务公司
-- 市场监管总局：深入整治检验检测行业乱象 严打报告造假等行为
-- 国家粮食和物资储备局回应厄尔尼诺影响：我国粮食生产稳定性比较强
-- 国资委：指导推动中央企业加速人工智能在制造业各领域普及应用
-- 机构：2026年上半年全球四足机器人出货3.5万台 行业场景撑起长期增长空间
-- 厦门港务注册资本增至15.4亿，增幅约108%
-- 澳大利亚电商集体降温，速卖通逆势增长5.37%
-- 马斯克称旗下The Boring Company正在美得州建城际隧道，时速将超200英里
+## 36氪 (11 条)
+- 请完成下列验证后继续 - 36kr.com
+- 请完成下列验证后继续 - 36kr.com
+- 预约直播 - 36kr.com
+- 36氪项目推荐周榜第19期｜这10个创新项目正在被更多人看见 - 36kr.com
+- 36氪_让一部分人先看到未来 - 36kr.com
+- 36氪出海·中东｜卡塔尔开发银行：多元服务助力中国企业开拓卡塔尔市场 - 36kr.com
+- 中美AI模型开发周期大缩水 平均44天仅为原时长1/3 - eu.36kr.com
+- 智谱ZCode将开源并接受第三方审计 遭指偷传代码企业发函追责事件最新回应 - eu.36kr.com
+- GPT-6 Astra安全性引争议 马斯克瘫坐事件背后风险解析 - eu.36kr.com
+- 从道歉到"用完即焚" 智谱推出"数据不留存" ZCode信任窟窿能否补上 - eu.36kr.com
+- 不是识图工具也非商品搜索 一照打造AI时代买方电商：先辨商品再做选择最终完成购买 - eu.36kr.com
 
-## 虎嗅 (20 条)
-- 海外营收纷纷过半，中国汽车驶入大航海时代
-- 坐公交，广州不爱排队，香港不爱让座？
-- 问界，重新划界
-- AI正在“吃掉”游戏显卡：英伟达、AMD下一代GPU为何集体推迟到2028？
-- 中国，又一批三四线“地铁城市”来了
-- 四家酒旅平台被立案：51.79亿之后，“全网最低价”换了被告
-- 光伏与锂电退税退坡：补贴退场之后，成交价跌破了成本线
-- 职场版“奇迹暖暖”：年轻人开始做起AI模特搭配师
-- “金融男都开始穿运动鞋上班了，谁还买皮鞋啊?”
-- AI能救电视台吗？
-- 厄尔尼诺行情，走到哪了？
-- 三大巨头接连翻车，大模型的安全防线怎么总绷不住？
-- 首次覆盖 | 华住：酒店业周期收割者
-- 融过8轮的千叶珠宝爆雷了
-- 《第一性思考》13｜AI最前沿的未来，为什么正在复活一批30年前的老公司？
-- 为什么在商K上班，必须得买手环？
-- 那26分钟归谁
-- 这届体育迷，在电影院看比赛
-- 争夺人口从婴儿开始
-- 汉化组，可能是世界上最不怕AI冲击的一群人。
+## 虎嗅 (11 条)
+- vivo双线押注AI，但两手都能硬吗？ - 虎嗅
+- 华为瞄准英伟达：昇腾960提前亮相，系统级打法挑战GPU霸主 - 虎嗅
+- 虎嗅网 - 虎嗅
+- 虎嗅作·嗅之星发布第331期与第332期周榜获奖文章 - 虎嗅
+- 啥鱼跟中国人对掏了几十年？ - 虎嗅
+- 70万英亩土地，680亿身家， 陈天桥藏不住了 - 虎嗅
+- iPhone 18 Pro拆机实测：三倍均热板， 游戏终于不掉帧 - 虎嗅
+- 衰落的鞋王：耐克是如何失去中国市场的？ - 虎嗅
+- 人口流动背景下，如何看待小县城的生活机遇？ - 虎嗅
+- 日本亚运会的阴间审美， 问题其实是出在文化的底子上 - 虎嗅
+- 啥鱼跟中国人对掏了几十年？ - 虎嗅
 
-## 少数派 (1 条)
+## 少数派 (5 条)
+- 派评 | 近期值得关注的 App
+- 以人为本还是脱离实际？GNOME 桌面环境的演进及争议
+- 体验过华为 Pura X View 后，他们最想留下的「阔体验」是……
+- 当 AI 让执行力变得廉价，我们该拿什么脱颖而出？
 - 派早报：微软高管称 AI 爬取是人类历史上最大的劳动成果盗窃
