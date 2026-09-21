@@ -783,9 +783,9 @@ def _normalize_card(card: dict) -> "dict | None":
         "note": _txt("note"),
     }
 
-    # headline / what 是卡片主体，means 必须完整提供两条（兼容旧版三条输入）；缺任一项都判定不可用，
+    # headline / what 是卡片主体，means 是卡片的核心价值，缺任一项都判定不可用，
     # 交给上层回落到降级推导，而不是渲染出一个空的「意味着什么」框
-    if not normalized["headline"] or not normalized["what"] or len(normalized["means"]) != 2:
+    if not normalized["headline"] or not normalized["what"] or not normalized["means"]:
         return None
     return normalized
 
@@ -808,7 +808,7 @@ def _derive_card(news: dict) -> dict:
         if len(what) >= 30:
             break
     what = what or summary
-    # 单句就超长时按标点截断，避免卡片正文过长
+    # 单句就超长时按标点截断，避免卡片正文溢出三行
     if len(what) > 60:
         cut = max(what.rfind("，", 0, 60), what.rfind("、", 0, 60))
         what = (what[:cut] + "…") if cut >= 30 else (what[:58] + "…")
@@ -823,13 +823,13 @@ def _derive_card(news: dict) -> dict:
             if len(means) == 2:
                 break
     while len(means) < 2:
-        means.append("后续进展以官方发布为准" if means else "关注后续进展与官方口径")
+        means.append(f"关注{category.replace('·', '、')}领域的后续变化")
 
     return {
         "category": category,
         "headline": _sanitize_text(news.get("title", ""))[:14],
         "what": what,
-        "question": "",  # 保留历史字段兼容性，大字版不再展示提问
+        "question": "这件事会怎么影响你？",
         "means": means[:2],
         "note": "信息整理自公开报道，具体以官方发布为准。",
         "derived": True,

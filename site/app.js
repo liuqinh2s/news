@@ -186,7 +186,7 @@
     posterNext.disabled = pState.idx === pState.canvases.length - 1;
     posterSaveAll.style.display = multi ? "" : "none";
     posterSub.textContent = `${pState.date} · 第 ${pState.idx + 1}/${pState.canvases.length} 张` +
-      (pState.mode === "day" ? "（含封面）" : "");
+      (pState.mode === "day" ? "（含封面与结尾卡）" : "");
   }
 
   function openPosterModal() {
@@ -227,7 +227,7 @@
     }
   }
 
-  /** 整天：封面 + N 张内容 */
+  /** 整天：封面 + N 张内容 + 结尾卡 */
   function openPosterForDay(date) {
     if (!window.Poster) { showToast("图片模块未加载"); return; }
     const dayNews = newsByDate[date] || [];
@@ -359,7 +359,7 @@
     // 这一天整体打包
     const foot = document.createElement("div");
     foot.className = "tree-day-actions";
-    foot.innerHTML = `<button class="btn-poster" type="button">🖼 整天打包（${newsArr.length + 1} 张）</button>`;
+    foot.innerHTML = `<button class="btn-poster" type="button">🖼 整天打包（${newsArr.length + 2} 张）</button>`;
     foot.querySelector(".btn-poster").addEventListener("click", () => openPosterForDay(date));
     list.appendChild(foot);
     node.appendChild(list);

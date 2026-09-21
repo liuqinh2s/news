@@ -8,27 +8,24 @@ window.Poster = (function () {
   // ── 画布与品牌配置 ────────────────────────────
   const W = 1080;
   const H = 1440;
-  const PAD = 56; // 保持封面边距；详情页取消侧栏，让正文横向展开
+  const PAD = 84; // 左右安全边距
 
-  // 大字简报：暖白纸底、黑色正文、少量橙色文字强调
+  // 拾闻自有风格：暖纸底 + 墨黑字 + 沙棕点缀
   const C = {
-    bg: "#fbfaf7",
-    panel: "#f4f3f0",
-    panelLight: "#faf9f7",
-    ink: "#0d0d0c",
-    inkSoft: "#242429",
-    muted: "#6e6d70",
-    hair: "#c8c7c4",
-    accent: "#ff4b24",
-    accentDeep: "#f04420",
-    accentText: "#c94b2b", // 小字号标签用沉稳的橙色，保持浅底上的可读性
-    accentTint: "#fff0e9",
-    chipBg: "#efeeeb",
-    white: "#ffffff",
+    bg: "#faf9f7",
+    bgTint: "#f3f0ea",
+    ink: "#1a1a1a",
+    inkSoft: "#4a4a4a",
+    muted: "#8c8880",
+    hair: "#e2ded6",
+    accent: "#c08a3e",
+    accentDeep: "#9a6a24",
+    accentTint: "#f7efe1",
+    chipBg: "#efece5",
+    seal: "#b4463c",
   };
 
-  const FONT = '"Noto Sans CJK SC", "Source Han Sans SC", "PingFang SC", "Microsoft YaHei", sans-serif';
-  const SERIF = '"Noto Serif CJK SC", "Source Han Serif SC", "Songti SC", serif';
+  const FONT = '"PingFang SC", "Hiragino Sans GB", "Microsoft YaHei", "Source Han Sans SC", "Noto Sans CJK SC", sans-serif';
 
   const f = (weight, size) => `${weight} ${size}px ${FONT}`;
 
@@ -154,79 +151,31 @@ window.Poster = (function () {
     ctx.closePath();
   }
 
-  function drawSpacedText(ctx, text, x, y, spacing) {
-    let cx = x;
-    Array.from(String(text || "")).forEach((char) => {
-      ctx.fillText(char, cx, y);
-      cx += ctx.measureText(char).width + spacing;
-    });
-    return cx;
-  }
-
-  function drawPanel(ctx, x, y, w, h, r = 16) {
-    const gradient = ctx.createLinearGradient(x, y, x + w, y);
-    gradient.addColorStop(0, "#f7f6f3");
-    gradient.addColorStop(1, "#f1f0ed");
-    ctx.fillStyle = gradient;
-    roundRect(ctx, x, y, w, h, r);
-    ctx.fill();
-  }
-
-  function drawDivider(ctx, x, y, h) {
-    ctx.fillStyle = C.hair;
-    ctx.fillRect(x, y, 1.5, h);
-  }
-
-  function drawNumber(ctx, number, x, y, size = 55) {
-    ctx.font = `700 ${size}px ${SERIF}`;
-    ctx.fillStyle = C.accent;
-    ctx.textAlign = "left";
-    ctx.fillText(String(number).padStart(2, "0"), x, y);
-  }
-
-  /** 测宽后省略，长历史字段也不挤出边界；正文不靠缩小字号塞进版面。 */
-  function boundedLines(ctx, text, width, maxLines) {
-    const lines = wrapText(ctx, text, width);
-    if (lines.length <= maxLines) return lines;
-    const visible = lines.slice(0, maxLines);
-    let last = visible[maxLines - 1].replace(/[，。、；：]$/, "");
-    while (last && ctx.measureText(last + "…").width > width) {
-      last = Array.from(last).slice(0, -1).join("");
-    }
-    visible[maxLines - 1] = last + "…";
-    return visible;
-  }
-
-  /** 页脚是辅助信息，正文和来源各用独立的空间。 */
+  /** 页脚：来源 + 页码，所有卡片统一 */
   function drawFooter(ctx, opts) {
+    const y = H - 74;
     ctx.textAlign = "left";
-    ctx.font = f(400, 24);
-    ctx.fillStyle = C.hair;
-    ctx.fillRect(PAD, 1352, W - PAD * 2, 1);
+    ctx.textBaseline = "alphabetic";
+    ctx.font = f(400, 25);
     ctx.fillStyle = C.muted;
-    if (opts.left) ctx.fillText(boundedLines(ctx, opts.left, 720, 1)[0], PAD, 1400);
-    ctx.textAlign = "right";
-    if (opts.right) ctx.fillText(opts.right, W - PAD, 1400);
+    if (opts.left) ctx.fillText(opts.left, PAD, y);
+    if (opts.right) {
+      ctx.textAlign = "right";
+      ctx.fillText(opts.right, W - PAD, y);
+    }
     ctx.textAlign = "left";
   }
 
-  function drawContentHeader(ctx, card, date) {
-    ctx.textAlign = "left";
-    ctx.font = f(800, 48);
-    ctx.fillStyle = C.ink;
-    ctx.fillText("拾闻", PAD, 87);
-    ctx.fillStyle = C.accent;
-    ctx.beginPath();
-    ctx.arc(PAD + ctx.measureText("拾闻").width + 12, 80, 5, 0, Math.PI * 2);
-    ctx.fill();
-    ctx.font = f(400, 28);
-    ctx.fillStyle = C.muted;
-    ctx.fillText(fmtDate(date), PAD + 140, 84);
-    ctx.fillStyle = C.accentText;
+  /** 品牌标识：右上角 */
+  function drawBrand(ctx) {
     ctx.textAlign = "right";
-    ctx.fillText(boundedLines(ctx, card.category || "综合", 420, 1)[0], W - PAD, 84);
-    ctx.fillStyle = C.hair;
-    ctx.fillRect(PAD, 130, W - PAD * 2, 1);
+    ctx.textBaseline = "middle";
+    ctx.font = f(700, 30);
+    ctx.fillStyle = C.accentDeep;
+    ctx.fillText("拾闻", W - PAD, 92);
+    ctx.font = f(400, 20);
+    ctx.fillStyle = C.muted;
+    ctx.fillText("每天十条大新闻", W - PAD, 128);
     ctx.textAlign = "left";
   }
   // ── 卡片绘制 ──────────────────────────────────
@@ -270,13 +219,13 @@ window.Poster = (function () {
       p = p.trim();
       if (p.length >= 6 && means.length < 2) means.push(p.slice(0, 18));
     });
-    while (means.length < 2) means.push(means.length ? "后续进展以官方发布为准" : "关注后续进展与官方口径");
+    while (means.length < 2) means.push("关注后续进展与官方口径");
 
     return {
       category: areas.slice(0, 2).join("·") || "综合",
       headline: (news.title || "").slice(0, 14),
       what: what,
-      question: "", // 兼容旧数据字段，大字版不再单独展示提问
+      question: "这件事会怎么影响你？",
       means,
       note: "信息整理自公开报道，具体以官方发布为准。",
       // 兜底推导的文案质量弱于 AI 改写，标记出来供渲染层区分
@@ -284,181 +233,239 @@ window.Poster = (function () {
     };
   }
 
-  /** 大字内容卡：标题 + 一段事实 + 两条影响 + 必要提示。 */
+  /** 内容卡：分类 → 标题 → 发生了什么 → 提问 → 意味着什么 → 提示 → 页脚 */
   function drawContentCard(news, meta) {
     const { cv, ctx } = newCanvas();
     const card = getCard(news);
     const maxW = W - PAD * 2;
-    drawContentHeader(ctx, card, meta.date);
+    let y = 96;
 
-    // 标题允许两行，避免旧版为塞进一行而不断缩字。
-    const headline = card.headline || news.title || "今日新闻";
-    const headFit = fitFont(ctx, headline, maxW, 2, 800, 86, 68);
-    ctx.font = f(800, headFit.size);
+    // 顶部装饰细线
+    ctx.fillStyle = C.accent;
+    ctx.fillRect(0, 0, W, 8);
+
+    // 分类 chip
+    ctx.font = f(600, 26);
+    const chipText = card.category || "综合";
+    const chipW = ctx.measureText(chipText).width + 44;
+    ctx.fillStyle = C.chipBg;
+    roundRect(ctx, PAD, y - 4, chipW, 52, 26);
+    ctx.fill();
+    ctx.fillStyle = C.accentDeep;
+    ctx.textBaseline = "middle";
+    ctx.fillText(chipText, PAD + 22, y + 23);
+
+    // 影响等级（现象级才标）：紧跟分类右侧，避免与右上角品牌标识重叠
+    if (news.impact_level === "现象级") {
+      const badgeX = PAD + chipW + 16;
+      ctx.font = f(600, 24);
+      const badgeW = ctx.measureText("现象级").width + 32;
+      ctx.fillStyle = "#f6e4e2";
+      roundRect(ctx, badgeX, y - 4, badgeW, 52, 26);
+      ctx.fill();
+      ctx.fillStyle = C.seal;
+      ctx.fillText("现象级", badgeX + 16, y + 23);
+    }
+    ctx.textBaseline = "alphabetic";
+    y += 100;
+
+    // ── 先测量各区块高度，再把剩余空间均摊到区块间距 ──
+    const headFit = fitFont(ctx, card.headline, maxW, 2, 700, 76, 52);
+    const headH = headFit.lines.length * headFit.size * 1.32;
+
+    ctx.font = f(400, 33);
+    const whatLines = wrapText(ctx, card.what, maxW).slice(0, 3);
+    const whatH = 46 + whatLines.length * 52;
+
+    // 兜底推导时的提问是通用套话，直接省略，把版面留给正文
+    const qFit = card.question && !card.derived
+      ? fitFont(ctx, card.question, maxW - 76, 2, 700, 36, 28)
+      : null;
+    const qH = qFit ? 40 + qFit.lines.length * (qFit.size * 1.4) : 0;
+
+    ctx.font = f(400, 33);
+    const wrapped = (card.means || []).slice(0, 2).map((m) => wrapText(ctx, m, maxW - 130).slice(0, 2));
+    const itemsH = wrapped.reduce((s, w) => s + w.length * 50 + 30, 0);
+    const boxH = 84 + 30 + itemsH;
+
+    const noteY = H - 188;
+    const blocksH = headH + whatH + qH + boxH;
+    // 4 段间距：标题→发生了什么→提问→影响框→注意提示
+    const gapCount = qFit ? 4 : 3;
+    const slack = noteY - 46 - y - blocksH;
+    const gap = Math.min(88, Math.max(34, slack / gapCount));
+    // 间距封顶后仍有余量时，整组下移一半，让版面上下平衡而不是底部空一块
+    const leftover = slack - gap * gapCount;
+    if (leftover > 0) y += leftover / 2;
+
+    // 主标题
+    ctx.font = f(700, headFit.size);
     ctx.fillStyle = C.ink;
-    const headLines = boundedLines(ctx, headline, maxW, 2);
-    const titleLines = headFit.lines.length <= 2 ? headFit.lines : headLines;
-    const titleEnd = drawLines(ctx, titleLines, PAD, 245, 106);
+    y = drawLines(ctx, headFit.lines, PAD, y + headFit.size * 0.5, headFit.size * 1.32, 2);
+    y += gap;
 
-    // 去掉重复的 reason、副标题、总结条、提问区；事实只出现一次。
-    const labelY = titleEnd + 34 + (2 - titleLines.length) * 32;
-    ctx.font = f(600, 30);
-    ctx.fillStyle = C.accentText;
-    ctx.fillText("发生了什么", PAD, labelY);
-    ctx.font = f(400, 42);
+    // 发生了什么
+    ctx.font = f(700, 27);
+    ctx.fillStyle = C.accentDeep;
+    ctx.fillText("发生了什么", PAD, y);
+    y += 46;
+    ctx.font = f(400, 33);
     ctx.fillStyle = C.inkSoft;
-    const facts = boundedLines(ctx, card.what || news.summary, maxW, 4);
-    const factsEnd = drawLines(ctx, facts, PAD, labelY + 66, 62);
+    y = drawLines(ctx, whatLines, PAD, y, 52, 3);
+    y += gap;
 
-    // 旧版三条影响仍可读取；只呈现前两条，整句保留，不拆成新的判断。
-    const means = (card.means || []).filter(Boolean).slice(0, 2);
-    const impactY = Math.max(factsEnd + 22, 760);
-    ctx.fillStyle = C.hair;
-    ctx.fillRect(PAD, impactY, maxW, 1);
-    ctx.font = f(700, 36);
+    // 一句提问
+    if (qFit) {
+      ctx.fillStyle = C.accentTint;
+      roundRect(ctx, PAD, y, maxW, qH, 20);
+      ctx.fill();
+      ctx.fillStyle = C.accentDeep;
+      ctx.font = f(700, qFit.size);
+      drawLines(ctx, qFit.lines, PAD + 38, y + 26 + qFit.size * 0.8, qFit.size * 1.4, 2);
+      y += qH + gap;
+    }
+
+    // 这对你意味着什么
+    ctx.fillStyle = C.bgTint;
+    roundRect(ctx, PAD, y, maxW, boxH, 24);
+    ctx.fill();
+
+    let my = y + 56;
+    ctx.font = f(700, 34);
     ctx.fillStyle = C.ink;
-    ctx.fillText(card.derived ? "为什么值得关注" : "与你有什么关系", PAD, impactY + 62);
-    let iy = impactY + 136;
-    means.forEach((mean, i) => {
-      ctx.font = f(600, 30);
-      ctx.fillStyle = C.accentText;
-      ctx.fillText(String(i + 1).padStart(2, "0"), PAD, iy - 3);
-      ctx.font = f(500, 42);
+    // 兜底推导时内容其实是「为何重要」，不宜标成「对你意味着什么」
+    ctx.fillText(card.derived ? "为什么值得关注" : "这对你意味着什么", PAD + 38, my);
+    my += 24;
+    ctx.fillStyle = C.hair;
+    ctx.fillRect(PAD + 38, my, maxW - 76, 2);
+    my += 48;
+
+    wrapped.forEach((lines, i) => {
+      // 序号圆点
+      ctx.beginPath();
+      ctx.arc(PAD + 56, my - 11, 19, 0, Math.PI * 2);
+      ctx.fillStyle = C.accent;
+      ctx.fill();
+      ctx.font = f(700, 24);
+      ctx.fillStyle = "#ffffff";
+      ctx.textAlign = "center";
+      ctx.fillText(String(i + 1), PAD + 56, my - 3);
+      ctx.textAlign = "left";
+
+      ctx.font = f(400, 33);
       ctx.fillStyle = C.inkSoft;
-      const lines = boundedLines(ctx, mean, maxW - 82, 2);
-      iy = drawLines(ctx, lines, PAD + 82, iy, 60) + 24;
+      my = drawLines(ctx, lines, PAD + 96, my, 50, 2) + 30;
     });
 
-    // 不确定性与生效条件保留；两行提示独立于正文，取消色块。
-    const note = card.note || "具体信息以官方发布及后续落地情况为准。";
-    ctx.font = f(500, 28);
-    ctx.fillStyle = C.accentText;
-    ctx.fillText("留意", PAD, 1230);
-    ctx.font = f(400, 30);
-    ctx.fillStyle = C.muted;
-    drawLines(ctx, boundedLines(ctx, note, maxW - 100, 2), PAD + 100, 1230, 44);
+    // 注意提示（固定位置，紧邻页脚上方）
+    if (card.note) {
+      ctx.font = f(700, 25);
+      ctx.fillStyle = C.seal;
+      ctx.fillText("注意提示", PAD, noteY);
+      ctx.font = f(400, 25);
+      ctx.fillStyle = C.muted;
+      const noteX = PAD + ctx.measureText("注意提示").width + 46;
+      drawLines(ctx, wrapText(ctx, card.note, W - PAD - noteX), noteX, noteY, 38, 2);
+    }
 
+    // 页脚
     const srcName = (news.sources || []).map((s) => (typeof s === "object" ? s.name : s)).filter(Boolean)[0];
     drawFooter(ctx, {
       left: srcName ? `来源：${srcName}` : "来源：公开报道",
-      right: `${String(meta.index).padStart(2, "0")} / ${String(meta.total).padStart(2, "0")}`,
+      right: `${meta.index}/${meta.total} · ${fmtDate(meta.date)}`,
     });
+    drawBrand(ctx);
     return cv;
   }
 
-  /** 封面卡：大字刊头 + 日期 + 重点新闻目录 */
+  /** 封面卡：大数字 + 主标题 + 日期 */
   function drawCoverCard(newsList, date) {
     const { cv, ctx } = newCanvas();
     const maxW = W - PAD * 2;
-    const parts = String(date || "").split("-");
-    const monthNames = ["JAN.", "FEB.", "MAR.", "APR.", "MAY.", "JUN.", "JUL.", "AUG.", "SEP.", "OCT.", "NOV.", "DEC."];
-    const year = parts[0] || "";
-    const month = Math.max(1, Math.min(12, Number(parts[1]) || 1));
-    const day = parts[2] || "";
 
-    // 刊头
-    ctx.textAlign = "left";
-    ctx.font = f(900, 210);
-    ctx.fillStyle = C.ink;
-    ctx.fillText("拾闻", PAD, 286);
-    const logoW = ctx.measureText("拾闻").width;
-    ctx.beginPath();
-    ctx.arc(PAD + logoW + 25, 276, 23, 0, Math.PI * 2);
     ctx.fillStyle = C.accent;
-    ctx.fill();
+    ctx.fillRect(0, 0, W, 8);
 
-    ctx.font = f(400, 28);
+    // 大数字
+    ctx.textAlign = "center";
+    ctx.font = f(800, 300);
+    ctx.fillStyle = C.accent;
+    ctx.fillText(String(newsList.length), W / 2, 520);
+
+    // 主标题
+    ctx.font = f(800, 82);
+    ctx.fillStyle = C.ink;
+    const title = `今天${newsList.length}条，值得你知道的大事`;
+    const lines = wrapText(ctx, title, maxW);
+    let y = 660;
+    lines.slice(0, 2).forEach((l, i) => ctx.fillText(l, W / 2, y + i * 108));
+    y += Math.min(lines.length, 2) * 108;
+
+    // 分隔线
+    ctx.fillStyle = C.seal;
+    ctx.fillRect(W / 2 - 44, y + 6, 88, 6);
+
+    // 日期与副标题
+    ctx.font = f(400, 36);
     ctx.fillStyle = C.inkSoft;
-    drawSpacedText(ctx, "每天十条值得关注的新闻", PAD, 361, 13);
+    ctx.fillText(`${fmtDate(date)} ｜ AI 从 20+ 信息源筛选`, W / 2, y + 92);
 
-    // 右上日期
-    ctx.textAlign = "right";
-    ctx.font = f(500, 31);
-    ctx.fillStyle = C.ink;
-    ctx.fillText(`${monthNames[month - 1]} ${year}`, W - PAD, 86);
-    ctx.font = `700 132px ${SERIF}`;
-    ctx.fillStyle = C.accent;
-    ctx.fillText(String(month).padStart(2, "0"), W - PAD, 219);
-    ctx.font = f(300, 70);
-    ctx.fillStyle = C.ink;
-    ctx.fillText("/", W - PAD - 18, 307);
-    ctx.font = `500 40px ${SERIF}`;
-    ctx.fillText(String(day).padStart(2, "0"), W - PAD, 362);
-
-    ctx.fillStyle = C.ink;
-    ctx.fillRect(PAD, 412, maxW, 1.5);
-
-    // 主命题
-    ctx.textAlign = "left";
-    ctx.font = f(800, 65);
-    ctx.fillStyle = C.ink;
-    ctx.fillText("今日最值得关注的", PAD, 525);
-    ctx.font = `700 85px ${SERIF}`;
-    ctx.fillStyle = C.accent;
-    const countText = String(newsList.length);
-    ctx.fillText(countText, PAD, 627);
-    const countW = ctx.measureText(countText).width;
-    ctx.font = f(800, 65);
-    ctx.fillStyle = C.ink;
-    ctx.fillText("条新闻", PAD + countW + 14, 623);
-
-    drawDivider(ctx, 742, 462, 164);
-    ctx.font = f(400, 31);
+    // 标题清单预览
+    ctx.font = f(400, 27);
     ctx.fillStyle = C.muted;
-    ["从中国到世界", "在复杂的变化中", "看见更大的趋势"].forEach((line, i) => {
-      ctx.fillText(line, 783, 505 + i * 49);
-    });
-
-    // 领域标签
-    const categories = ["科技", "产业", "经济", "AI", "社会", "世界"];
-    const chipGap = 16;
-    const chipW = (maxW - chipGap * (categories.length - 1)) / categories.length;
-    categories.forEach((label, i) => {
-      const x = PAD + i * (chipW + chipGap);
-      ctx.fillStyle = C.chipBg;
-      roundRect(ctx, x, 674, chipW, 66, 33);
-      ctx.fill();
-      ctx.font = f(500, 28);
-      ctx.fillStyle = C.ink;
-      ctx.textAlign = "center";
-      ctx.fillText(label, x + chipW / 2, 716);
-    });
-
-    // 前五条重点新闻
-    newsList.slice(0, 5).forEach((news, i) => {
-      const y = 772 + i * 107;
-      drawPanel(ctx, PAD, y, maxW, 92, 15);
-      drawNumber(ctx, i + 1, PAD + 25, y + 63, 50);
-      drawDivider(ctx, PAD + 114, y + 20, 54);
-
-      const headline = getCard(news).headline || news.title || "";
-      const titleFit = fitFont(ctx, headline, maxW - 220, 1, 500, 32, 23);
-      ctx.font = f(500, titleFit.size);
-      ctx.fillStyle = C.ink;
-      ctx.textAlign = "left";
-      ctx.fillText(titleFit.lines[0], PAD + 160, y + 59);
-
-      ctx.strokeStyle = "#78787a";
-      ctx.lineWidth = 2;
-      ctx.beginPath();
-      ctx.moveTo(W - PAD - 49, y + 34);
-      ctx.lineTo(W - PAD - 36, y + 46);
-      ctx.lineTo(W - PAD - 49, y + 59);
-      ctx.stroke();
-    });
-
-    // 封面页脚
-    ctx.fillStyle = C.ink;
-    ctx.fillRect(PAD, 1333, maxW, 1.5);
     ctx.textAlign = "left";
-    ctx.font = f(400, 17);
+    let ly = y + 176;
+    newsList.slice(0, 5).forEach((n, i) => {
+      const t = `${i + 1}  ${(getCard(n).headline || n.title || "").slice(0, 18)}`;
+      ctx.fillText(t, PAD + 20, ly);
+      ly += 46;
+    });
+    if (newsList.length > 5) {
+      ctx.fillStyle = C.accentDeep;
+      ctx.fillText(`…… 还有 ${newsList.length - 5} 条，右滑查看`, PAD + 20, ly + 6);
+    }
+
+    drawFooter(ctx, { left: "拾闻 · 信息过载的时代，少即是多", right: `1/${newsList.length + 2}` });
+    drawBrand(ctx);
+    return cv;
+  }
+
+  /** 尾卡：互动引导 */
+  function drawClosingCard(newsList, date) {
+    const { cv, ctx } = newCanvas();
+    const maxW = W - PAD * 2;
+
+    ctx.fillStyle = C.accent;
+    ctx.fillRect(0, 0, W, 8);
+
+    ctx.textAlign = "center";
+    ctx.font = f(800, 76);
+    ctx.fillStyle = C.ink;
+    const q = "今天哪条和你最有关？";
+    wrapText(ctx, q, maxW).slice(0, 2).forEach((l, i) => ctx.fillText(l, W / 2, 620 + i * 100));
+
+    ctx.font = f(400, 38);
+    ctx.fillStyle = C.inkSoft;
+    ctx.fillText("评论区说说你的答案。", W / 2, 760);
+    ctx.fillText("想看哪条单独深讲，也可以留言。", W / 2, 822);
+
+    ctx.fillStyle = C.seal;
+    ctx.fillRect(W / 2 - 44, 886, 88, 6);
+
+    ctx.font = f(400, 30);
     ctx.fillStyle = C.muted;
-    ctx.fillText("SHIWEN · DAILY BRIEF", PAD, 1380);
-    ctx.font = f(400, 18);
-    ctx.fillText("拾起更大的视野", PAD, 1411);
-    ctx.textAlign = "right";
-    ctx.font = f(400, 19);
-    ctx.fillText("更快   |   更深   |   更有用", W - PAD, 1394);
+    ctx.fillText("每天 10 条大新闻 · 拾闻", W / 2, 964);
+
+    ctx.font = f(400, 24);
+    const disclaimer = "信息整理自公开权威来源，具体以官方发布及当地执行政策为准。";
+    ctx.fillStyle = C.muted;
+    wrapText(ctx, disclaimer, maxW - 100).forEach((l, i) =>
+      ctx.fillText(l, W / 2, 1240 + i * 36)
+    );
+
+    ctx.textAlign = "left";
+    drawFooter(ctx, { left: `${fmtDate(date)}`, right: `${newsList.length + 2}/${newsList.length + 2}` });
+    drawBrand(ctx);
     return cv;
   }
   // ── ZIP 打包（store 模式，无压缩，零依赖）────
@@ -558,13 +565,14 @@ window.Poster = (function () {
     return drawContentCard(news, meta);
   }
 
-  /** 渲染一整天：封面 + N 张内容 */
+  /** 渲染一整天：封面 + N 张内容 + 尾卡 */
   function renderDay(newsList, date) {
     const total = newsList.length;
     const out = [drawCoverCard(newsList, date)];
     newsList.forEach((n, i) => {
       out.push(drawContentCard(n, { index: i + 1, total, date }));
     });
+    out.push(drawClosingCard(newsList, date));
     return out;
   }
 
@@ -594,6 +602,7 @@ window.Poster = (function () {
     renderCard,
     renderDay,
     drawCoverCard,
+    drawClosingCard,
     downloadOne,
     downloadDay,
     canvasToBlob,
