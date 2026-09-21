@@ -1,0 +1,315 @@
+{
+  "date": "2026-09-22",
+  "news": [
+    {
+      "title": "习近平将对美国进行国事访问",
+      "summary": "2026年9月22日，中方宣布国家主席习近平即将对美国进行国事访问。中美元首外交在两国关系承压背景下重启高层互动，此行将聚焦经贸、科技与地区安全等议题，旨在推动建设性战略稳定关系，为两国关系确定新的定位。市场高度关注关税、出口管制、台海等敏感议题的走向。分析认为，元首外交有助于为紧张的中美关系建立护栏，但在科技竞争与地缘博弈持续的背景下，实质突破仍取决于双方后续磋商。作为全球最大两个经济体的互动，访问成果将牵动全球市场、产业链与地区安全格局。",
+      "reason": "中美元首外交重启，事关全球最大两个经济体关系走向与地缘格局。",
+      "impact_areas": [
+        "政治",
+        "地缘",
+        "经济金融"
+      ],
+      "impact_level": "现象级",
+      "sources": [
+        {
+          "name": "澎湃新闻",
+          "url": "https://m.thepaper.cn/detail/34121479"
+        },
+        {
+          "name": "澎湃新闻",
+          "url": "https://m.thepaper.cn/detail/34118868"
+        },
+        {
+          "name": "财新网",
+          "url": "https://finance.caixin.com/2026-09-22/102487286.html"
+        }
+      ],
+      "card": {
+        "category": "地缘·外交",
+        "headline": "中美元首将会面，聚焦经贸科技",
+        "what": "9月22日中方宣布，习近平即将对美国进行国事访问，此行聚焦经贸、科技与地区安全等议题。",
+        "question": "关税会降吗，跟我钱包有关吗？",
+        "means": [
+          "进口商品和电子产品价格或有变化",
+          "做外贸和芯片的留意订单变化"
+        ],
+        "note": "访问成果取决于后续磋商，具体安排以官方发布为准。"
+      }
+    },
+    {
+      "title": "美媒集体起诉白宫采访禁令",
+      "summary": "CNN、MS NOW与Politico三家美国主流媒体于9月22日对特朗普政府提起诉讼，挑战白宫限制其记者进入白宫采访的相关禁令。此前美国五大电视新闻网集体抵制白宫采访安排，拒绝拍摄，抗议政府限制媒体准入。媒体方认为该禁令违反宪法第一修正案保障的新闻自由。此举标志着美国媒体与白宫之间围绕报道准入与信息透明的冲突公开化、法律化，可能影响后续白宫记者团运作规则以及总统与媒体的互动模式，也为行政权力与新闻自由的边界之争提供新的司法判例。",
+      "reason": "美国主流媒体联合起诉白宫，媒体自由与行政权力冲突升级。",
+      "impact_areas": [
+        "政治",
+        "社会"
+      ],
+      "impact_level": "重大",
+      "sources": [
+        {
+          "name": "BBC",
+          "url": "https://www.bbc.co.uk/news/articles/cm0e32rwvrryo?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "name": "Reuters",
+          "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNN3FsUG96RnAzaEhYRG9WdFdhckY0NFFOT0hYWF9TSWx1XzlCTHJidFN5d3VvcHh0MUZmTjctZXl0QlA3M3dlbmRTaGR1WlZOUktIdVRGYXNTemczVFhnNExmSV9OOFRQdlRYU0xJYmMtWVhUU09vNTE0Nmc2Nm45MzIwa3ZtOVo5cHl6YWZXanNwallBQXhoalJ6Q2czRVVrRzZVbW84a09OdmhVdzRad3pyQnR5Z3NkeXdMXw?oc=5"
+        },
+        {
+          "name": "凤凰网",
+          "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE1wT0lfbmpnak8tc1pTY2l6QURXeXlEd1J3S01uSVRPRGZMbjVOamxma1k0SUJMa09ORy1sV1BockZZeGRRWkFsZA?oc=5"
+        }
+      ],
+      "card": {
+        "category": "政治·媒体",
+        "headline": "三家美媒起诉白宫限制采访",
+        "what": "9月22日，CNN、MS NOW与Politico三家美国主流媒体起诉特朗普政府，挑战白宫限制记者采访的禁令。",
+        "question": "这事会影响我看到的信息吗？",
+        "means": [
+          "你看到的美国新闻可能更单一",
+          "后续白宫采访规则可能被改写"
+        ],
+        "note": "案件审理周期较长，结果以法院裁定为准。"
+      }
+    },
+    {
+      "title": "欧盟延长对俄制裁三年",
+      "summary": "欧盟9月22日通过延长对俄罗斯制裁的方案，期限长达36个月。此举将此前需定期续期的制裁机制一次性延长，意在锁定对俄施压政策的长期性，减少成员国之间围绕续期的博弈。制裁涵盖金融、能源、技术与个人实体等领域。延长制裁将对俄罗斯经济、能源出口以及欧洲自身能源成本产生持续影响，也令俄乌冲突相关的外交斡旋空间进一步收窄。制裁长期化意味着欧洲与俄罗斯在能源、金融和产业链上的脱钩将进一步固化，相关企业需重新评估长期合规与市场布局。",
+      "reason": "欧盟将对俄制裁制度化延长至三年，锁定长期对俄施压格局。",
+      "impact_areas": [
+        "地缘",
+        "经济金融",
+        "政治"
+      ],
+      "impact_level": "重大",
+      "sources": [
+        {
+          "name": "澎湃新闻",
+          "url": "https://m.thepaper.cn/detail/34120957"
+        },
+        {
+          "name": "新浪财经",
+          "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9BaFJfUUF6T044TF9fWU1MMkpHUG5aVjFnTXp0UVFEV0tpTHhOV0YtWEMxYnlZanRsWjA1YmhtXzloWE00azljdFpKRzctNkxLMm1tSFphZnphbmd6LVdGelVaanVHUHhyNzdZcnhvRWFMaUlrbF9uZA?oc=5"
+        }
+      ],
+      "card": {
+        "category": "地缘·制裁",
+        "headline": "欧盟对俄制裁一口气延长三年",
+        "what": "欧盟9月22日通过方案，将对俄罗斯的制裁延长36个月，涵盖金融、能源、技术与个人实体等领域。",
+        "question": "欧洲的油气价格会再涨吗？",
+        "means": [
+          "欧洲能源成本或继续高位运行",
+          "涉俄业务的企业要重新算合规账"
+        ],
+        "note": "制裁长期化的具体执行细则仍待公布。"
+      }
+    },
+    {
+      "title": "德国两州选举极左极右得势",
+      "summary": "德国两州选举结果显示，极左与极右政党分别得势，执政的基民盟遭遇重挫，总理默茨承诺维持执政联盟团结，以确保德国民主未来。选举结果反映德国选民对传统主流政党的不满加剧，政治光谱两端力量同步上升，移民、能源与经济议题成为主要驱动力。若联盟内部裂痕扩大，默茨政府的稳定性与欧洲政策协调能力或受冲击。此番结果也为欧洲整体政治右转与碎片化趋势再添注脚，可能影响欧盟在财政、移民与气候政策上的决策效率。",
+      "reason": "德国执政联盟受挫，极左极右同时崛起，欧洲政治版图生变。",
+      "impact_areas": [
+        "政治",
+        "地缘"
+      ],
+      "impact_level": "重大",
+      "sources": [
+        {
+          "name": "财新网",
+          "url": "https://international.caixin.com/2026-09-22/102487288.html"
+        },
+        {
+          "name": "BBC",
+          "url": "https://www.bbc.co.uk/news/articles/cqm27p8enwmko?at_medium=RSS&at_campaign=rss"
+        }
+      ],
+      "card": {
+        "category": "政治·欧洲",
+        "headline": "德国两州选举，执政党吃了败仗",
+        "what": "德国两州选举结果显示，极左与极右政党分别得势，执政的基民盟遭遇重挫，总理默茨承诺维持联盟团结。",
+        "question": "欧洲政策摇摆会波及我的生意吗？",
+        "means": [
+          "欧元区政策变动或影响出口订单",
+          "移民与能源政策可能继续收紧"
+        ],
+        "note": "政府稳定性仍取决于联盟内部协调结果。"
+      }
+    },
+    {
+      "title": "强台风杜鹃袭击日本",
+      "summary": "强台风杜鹃9月22日袭击日本，当局敦促数百万人撤离，航班、铁路等交通大面积中断，部分地区发布最高级别警报。气象部门警告强风、暴雨及可能引发的地质灾害，日本多地停工停课，居民被要求前往避难所。台风路径与强度变化将影响日本主要城市圈及沿岸地区，对交通、供应链和人身安全构成直接威胁。作为全球制造业与航运关键节点，日本运行中断或对区域供应链与物流产生外溢影响，相关损失评估仍在进行中。",
+      "reason": "强台风直击日本，数百万人被要求撤离，交通与安全受严重冲击。",
+      "impact_areas": [
+        "生态",
+        "社会"
+      ],
+      "impact_level": "重大",
+      "sources": [
+        {
+          "name": "BBC",
+          "url": "https://www.bbc.co.uk/news/articles/cm3wj2lexl97o?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "name": "BBC",
+          "url": "https://www.bbc.co.uk/news/videos/cm0j3224p6j8o?at_medium=RSS&at_campaign=rss"
+        }
+      ],
+      "card": {
+        "category": "生态·灾害",
+        "headline": "强台风杜鹃袭日，数百万人撤离",
+        "what": "9月22日强台风杜鹃袭击日本，当局敦促数百万人撤离，航班与铁路大面积中断，多地发布最高级别警报。",
+        "question": "我海淘的日本货会晚到吗？",
+        "means": [
+          "赴日航班与物流近期大概率延误",
+          "汽车电子等日系供应链或受扰动"
+        ],
+        "note": "台风路径与损失评估仍在更新，出行前先查航班。"
+      }
+    },
+    {
+      "title": "乌克兰10州基础设施遭袭",
+      "summary": "乌克兰方面9月22日称，10个州的关键基础设施遭到袭击，扎波罗热一购物中心和大学受损，泽连斯基批评袭击非常残酷且有针对性。俄方则称单日击落1951架无人机。双方围绕无人机与远程打击的攻防强度持续升级，能源与民用设施反复成为目标。基础设施受损将加剧乌克兰冬季供电供暖压力，也令停火与谈判前景更趋复杂。无人机大规模运用已成为现代战争的重要特征，防空拦截成本与产能消耗成为双方比拼的新维度，战事外溢风险持续存在。",
+      "reason": "俄乌无人机战升级，乌多州基础设施遇袭，冲突强度居高不下。",
+      "impact_areas": [
+        "地缘",
+        "政治"
+      ],
+      "impact_level": "重大",
+      "sources": [
+        {
+          "name": "凤凰网",
+          "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTFBXeXd1T2NZM2hBeTJZbzYyTUgtdmFhR2EyMjJzS2R0V21XZk1sTjVCbWdWOXBFaktoa3pWUURwNTJXNkxpQnFPYw?oc=5"
+        }
+      ],
+      "card": {
+        "category": "地缘·冲突",
+        "headline": "乌多州设施遇袭，无人机战升级",
+        "what": "9月22日乌方称10个州关键基础设施遭袭，扎波罗热一购物中心和大学受损，俄方称单日击落1951架无人机。",
+        "question": "这仗会不会继续推高油价？",
+        "means": [
+          "欧洲天然气与电价恐再起波动",
+          "无人机相关产业订单或持续增长"
+        ],
+        "note": "双方战报数据存在差异，需交叉核实。"
+      }
+    },
+    {
+      "title": "AMD市值突破万亿美元",
+      "summary": "受Meta智能体产品火爆带动，芯片股9月22日大幅上涨，AMD市值突破1万亿美元，跻身万亿美元俱乐部，英特尔同日涨超12%。市场对AI智能体带来的算力需求预期升温，资金加速流入芯片与算力产业链。AMD凭借AI加速器业务估值快速抬升，反映AI基础设施投资周期仍在扩张。芯片股走强亦推动美股三大指数集体收涨。这一里程碑显示AI算力竞赛对资本市场与半导体产业格局的影响进一步深化，龙头厂商的估值分化正随AI订单流向而重塑。",
+      "reason": "AI算力需求带动芯片股大涨，AMD市值破万亿，产业与资本市场共振。",
+      "impact_areas": [
+        "科技",
+        "经济金融"
+      ],
+      "impact_level": "重大",
+      "sources": [
+        {
+          "name": "新浪财经",
+          "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5rRDQyN0UxbXU1TDFaeXo4VkhlQUpNVXFsYTl0NDRDNzQ0di1tcVBMZFVPamVydW93ZnJGRDJhNkdZY2lkVDhPNHhkdUNSQ1VFZUU3V1ZWdHJ3VVk3VFhZYmREOTFpX3E3N0hwYXhBSVVPdWNDSUl3cjdR?oc=5"
+        }
+      ],
+      "card": {
+        "category": "科技·芯片",
+        "headline": "芯片股大涨，AMD市值破万亿",
+        "what": "9月22日受Meta智能体产品带动，芯片股大幅上涨，AMD市值突破1万亿美元，英特尔同日涨超12%。",
+        "question": "这波算力热跟我的工作有关吗？",
+        "means": [
+          "AI相关岗位与招聘需求仍在扩张",
+          "买基金的人短期波动可能加大"
+        ],
+        "note": "股价波动较大，估值变化以市场实际情况为准。"
+      }
+    },
+    {
+      "title": "OpenAI呼吁美牵头AI标准",
+      "summary": "OpenAI于9月22日敦促美国牵头为人工智能制定全球标准，同期OpenAI与Anthropic讨论对彼此AI模型进行压力测试，OpenAI还成立了独立的数学顾问团队。随着联合国大会将AI治理列为议题，美国与中国在AI领域的竞争与规则制定博弈升温。业内担忧失控AI风险，呼吁建立跨境安全与评测机制。AI全球标准的制定权正成为大国科技竞争的新焦点，将影响未来AI产业的合规成本、数据流动与市场准入，各国监管路径的分歧也可能催生区域化的技术壁垒。",
+      "reason": "AI全球标准制定权之争升温，OpenAI推动美国主导规则。",
+      "impact_areas": [
+        "科技",
+        "政治"
+      ],
+      "impact_level": "重大",
+      "sources": [
+        {
+          "name": "36氪",
+          "url": "https://www.36kr.com/newsflashes/3993781620898823"
+        },
+        {
+          "name": "新浪财经",
+          "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOREVvMnJ6eUc0WS1ndWN2NkhVamNIU1hHSmxxOEpNVjQ1WWJwTlB5S3JOTmhvYUZoZFBWME1hTDg2R0FCVXh3RzhScVVleEIxY0psMUVDYTlCMmtFYm00d0lwcHdFM1ZYeWRiUHJ0bDZqb0d1cC1FeEJ5MEJ0YVBvT0V5eFNtLV9DWG5BRVJ6SGhPNWI2bVNYT0FkMU96QVphMlQ4UUJfQ0xGVU42b3pBdVItRVRnb1M5NzB0RmNxX0lqUDQzTlQ2VER2N3BINHBxY0E?oc=5"
+        }
+      ],
+      "card": {
+        "category": "科技·治理",
+        "headline": "AI全球标准，美国想抢先定规则",
+        "what": "9月22日OpenAI敦促美国牵头制定AI全球标准，并与Anthropic讨论对彼此模型进行压力测试。",
+        "question": "我用AI的门槛会变高吗？",
+        "means": [
+          "AI产品合规成本或转嫁到用户",
+          "数据跨境使用可能面临更多限制"
+        ],
+        "note": "标准制定仍在讨论阶段，落地时间尚不明确。"
+      }
+    },
+    {
+      "title": "央视曝光社保挂靠乱象",
+      "summary": "央视曝光社保挂靠问题后，多地分别展开调查与整改。社保挂靠指通过虚构劳动关系挂靠单位缴纳社保，可能影响参保人待遇资格与基金安全，也关系灵活就业人员的合规参保渠道。此次曝光与地方整改将推动相关部门收紧审核、完善灵活就业社保政策。对以挂靠方式缴纳社保的人群而言，其参保连续性与未来待遇或面临重新核查，相关合规风险上升。事件也再度凸显新就业形态下社保制度衔接的空白，后续政策如何为灵活就业者提供合规参保路径值得关注。",
+      "reason": "央视曝光社保挂靠乱象，多地整改，直接影响参保人权益与合规。",
+      "impact_areas": [
+        "社会",
+        "经济金融"
+      ],
+      "impact_level": "重大",
+      "sources": [
+        {
+          "name": "澎湃新闻",
+          "url": "https://m.thepaper.cn/detail/34120751"
+        }
+      ],
+      "card": {
+        "category": "社会·社保",
+        "headline": "央视曝光社保挂靠，多地开始整改",
+        "what": "央视曝光社保挂靠后，多地展开调查与整改。社保挂靠指虚构劳动关系挂靠单位缴社保，涉及参保资格与基金安全。",
+        "question": "我挂靠交的社保还算数吗？",
+        "means": [
+          "挂靠参保的连续性可能被重新核查",
+          "灵活就业者需找合规参保渠道"
+        ],
+        "note": "各地整改口径不同，具体以当地社保部门通知为准。"
+      }
+    },
+    {
+      "title": "FAA故障致美国航班大面积延误",
+      "summary": "美国联邦航空管理局（FAA）因电信故障一度对飞往纽约肯尼迪机场的航班实施地面停飞，随后解除，但全美数千架次航班因此延误或取消。这是美国航空系统短期内再次因技术故障出现大面积运行中断，航空公司批评空管系统脆弱。故障凸显美国空管基础设施老化与更新滞后的问题，对旅客出行、航空货运与相关经济活动产生连锁影响，监管机构面临加快空管现代化的压力。事件与近日英国空管故障相呼应，全球航空业对关键基础设施韧性的担忧上升。",
+      "reason": "FAA技术故障致数千航班延误，暴露美国空管系统脆弱，影响出行。",
+      "impact_areas": [
+        "社会",
+        "科技"
+      ],
+      "impact_level": "重大",
+      "sources": [
+        {
+          "name": "新浪财经",
+          "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5YaFpWQ2NQT3E1Z1BWaTlva2czR2w4TjlyWWVYRUZERnM0OGJSbGF0Vm5sTEltZDJ4MlpOTGFmZjBZSXNMVW1zb2RnUXlFdTVsZjhiVEF3dzdfOEM1Vy1ISFFOZEVkQXBEcmE4WUZYZFVZR0RPMEw1VE5R?oc=5"
+        },
+        {
+          "name": "Reuters",
+          "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxNZjN4OE9EdHJieU9qcm1fQ0paNnM4V0Q0VVhic3UtdF94eEtKRXhxeDdoZDdzWmRpVlN2ZmJRY3dUcGpVX2pyZy1sd3RQQWd3X08za2JSdU1HZmpLcmdkY2VCMjU3Mm91RS0wdV9OT3VROVQ3blh4TEg0ZFRqdDdtLU5NY0dQcWlkNGg5QnNOOFJ4VkFvVTVTV1FZXzBvUnNNd09sYVVFMk9waW5KX2REa2ZPbWtrelg1VXJnaXFqeXBqY2taRkczSWZXalpQRktUblhndEg3WTNMbnVLVzFMLXVudkg4dGQzM3QwdjlIaw?oc=5"
+        }
+      ],
+      "card": {
+        "category": "社会·出行",
+        "headline": "美国空管故障，数千航班延误",
+        "what": "9月22日美国联邦航空管理局因电信故障一度停飞飞往纽约肯尼迪机场的航班，全美数千架次航班延误或取消。",
+        "question": "下次坐飞机还会遇到这种事吗？",
+        "means": [
+          "赴美转机行程最好留足缓冲时间",
+          "空管老化或推高航空出行成本"
+        ],
+        "note": "故障已解除，但航班恢复与赔付安排仍待跟进。"
+      }
+    }
+  ],
+  "total_fetched": 191,
+  "generated_at": "2026-09-22T07:27:08.783290+08:00"
+}
