@@ -2,9 +2,9 @@
   "date": "2026-09-22",
   "news": [
     {
-      "title": "习近平将对美国进行国事访问",
-      "summary": "2026年9月22日，中方宣布国家主席习近平即将对美国进行国事访问。中美元首外交在两国关系承压背景下重启高层互动，此行将聚焦经贸、科技与地区安全等议题，旨在推动建设性战略稳定关系，为两国关系确定新的定位。市场高度关注关税、出口管制、台海等敏感议题的走向。分析认为，元首外交有助于为紧张的中美关系建立护栏，但在科技竞争与地缘博弈持续的背景下，实质突破仍取决于双方后续磋商。作为全球最大两个经济体的互动，访问成果将牵动全球市场、产业链与地区安全格局。",
-      "reason": "中美元首外交重启，事关全球最大两个经济体关系走向与地缘格局。",
+      "title": "习近平对美国进行国事访问",
+      "summary": "应美方邀请，中国国家主席习近平对美国进行国事访问。访问期间，习近平将会见美国总统特朗普，就中美关系及共同关心的重大国际地区问题深入交换意见。此访旨在巩固两国此前达成的贸易休战共识，延长关税暂停安排，并在台湾军售、科技管制等敏感议题上管控分歧。中美作为全球前两大经济体，元首会晤结果将直接影响全球贸易流向、供应链稳定与市场风险偏好。外界普遍关注双方能否在经贸、气候、人工智能治理等领域达成可交付成果，为动荡的国际局势注入确定性。",
+      "reason": "中美两国元首会晤，关系全球贸易与地缘格局走向，为当日最高热度事件。",
       "impact_areas": [
         "政治",
         "地缘",
@@ -14,11 +14,7 @@
       "sources": [
         {
           "name": "澎湃新闻",
-          "url": "https://m.thepaper.cn/detail/34121479"
-        },
-        {
-          "name": "澎湃新闻",
-          "url": "https://m.thepaper.cn/detail/34118868"
+          "url": "https://h.xinhuaxmt.com/vh512/share/13297381?newstype=1001&homeshow=1"
         },
         {
           "name": "财新网",
@@ -26,58 +22,98 @@
         }
       ],
       "card": {
-        "category": "地缘·外交",
-        "headline": "中美元首将会面，聚焦经贸科技",
-        "what": "9月22日中方宣布，习近平即将对美国进行国事访问，此行聚焦经贸、科技与地区安全等议题。",
-        "question": "关税会降吗，跟我钱包有关吗？",
+        "category": "地缘·中美",
+        "headline": "中美元首会晤，关税暂停有望延长",
+        "what": "应美方邀请，中国国家主席习近平对美国进行国事访问，将会见美国总统特朗普，就中美关系及重大国际地区问题交换意见，旨在巩固贸易休战共识、延长关税暂停安排。",
+        "question": "我买的进口货会便宜点吗？",
         "means": [
-          "进口商品和电子产品价格或有变化",
-          "做外贸和芯片的留意订单变化"
+          "部分进口商品价格可能松动",
+          "相关外贸行业订单或趋于稳定"
         ],
-        "note": "访问成果取决于后续磋商，具体安排以官方发布为准。"
+        "note": "会晤成果以官方通稿为准，别急着据此调整消费。"
       }
     },
     {
-      "title": "美媒集体起诉白宫采访禁令",
-      "summary": "CNN、MS NOW与Politico三家美国主流媒体于9月22日对特朗普政府提起诉讼，挑战白宫限制其记者进入白宫采访的相关禁令。此前美国五大电视新闻网集体抵制白宫采访安排，拒绝拍摄，抗议政府限制媒体准入。媒体方认为该禁令违反宪法第一修正案保障的新闻自由。此举标志着美国媒体与白宫之间围绕报道准入与信息透明的冲突公开化、法律化，可能影响后续白宫记者团运作规则以及总统与媒体的互动模式，也为行政权力与新闻自由的边界之争提供新的司法判例。",
-      "reason": "美国主流媒体联合起诉白宫，媒体自由与行政权力冲突升级。",
+      "title": "中东冲突升级推高油价粮价",
+      "summary": "也门胡塞武装与沙特战事重燃，胡塞武装称美国正考虑与沙特联手行动，英国已同意支援沙特军方抵御胡塞武装。伊朗战争持续扰动石油运输，机构Energy Aspects预计扰动或持续至年底。美国柴油价格突破每加仑6.50美元，战争加剧全球燃料短缺。与此同时，黑海因冲突沦为另一个霍尔木兹，乌克兰粮食出口受阻，全球粮食供应拉响警报。能源与粮食两大宗商品同步受冲击，通胀压力正加速向全球传导，稀缺与价格风险上升。",
+      "reason": "中东冲突同时冲击石油与粮食两大宗商品，全球通胀与供应链风险上升。",
       "impact_areas": [
-        "政治",
+        "地缘",
+        "经济金融",
+        "生态"
+      ],
+      "impact_level": "现象级",
+      "sources": [
+        {
+          "name": "财新网",
+          "url": "https://database.caixin.com/2026-09-22/102487371.html"
+        },
+        {
+          "name": "财新网",
+          "url": "https://database.caixin.com/2026-09-22/102487323.html"
+        },
+        {
+          "name": "财新网",
+          "url": "https://database.caixin.com/2026-09-22/102487310.html"
+        },
+        {
+          "name": "财新网",
+          "url": "https://database.caixin.com/2026-09-22/102487315.html"
+        },
+        {
+          "name": "凤凰网",
+          "url": "https://original.ifeng.com/c/8wcixexnjpO"
+        },
+        {
+          "name": "NYTimes",
+          "url": "https://www.nytimes.com/2026/09/21/world/middleeast/yemen-houthis-saudi-war.html"
+        }
+      ],
+      "card": {
+        "category": "地缘·能源",
+        "headline": "中东冲突再起，油价粮价一起涨",
+        "what": "也门胡塞武装与沙特战事重燃，英国已同意支援沙特，伊朗战争持续扰动石油运输，机构预计扰动或持续至年底。美国柴油价格突破每加仑6.50美元，黑海粮食出口受阻。",
+        "question": "加油和买菜会贵多少？",
+        "means": [
+          "国内成品油调价压力继续加大",
+          "进口粮油食品价格可能跟涨"
+        ],
+        "note": "涨幅取决于冲突时长，具体以调价公告为准。"
+      }
+    },
+    {
+      "title": "超强台风杜娟袭击日本",
+      "summary": "超强台风杜娟于9月22日袭击日本，气象部门敦促数百万人紧急疏散。台风带来狂风暴雨，可能引发洪涝、山体滑坡及大范围交通中断，日本多地已发布避难指示。作为今年影响日本最强的台风之一，其路径与强度将考验日本防灾体系，并可能冲击关东、关西等经济核心区的生产与物流，对区域制造业供应链和居民出行造成阶段性扰动。",
+      "reason": "超强台风登陆日本，数百万人疏散，牵动区域经济与全球供应链。",
+      "impact_areas": [
+        "生态",
         "社会"
       ],
       "impact_level": "重大",
       "sources": [
         {
           "name": "BBC",
-          "url": "https://www.bbc.co.uk/news/articles/cm0e32rwvrryo?at_medium=RSS&at_campaign=rss"
-        },
-        {
-          "name": "Reuters",
-          "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNN3FsUG96RnAzaEhYRG9WdFdhckY0NFFOT0hYWF9TSWx1XzlCTHJidFN5d3VvcHh0MUZmTjctZXl0QlA3M3dlbmRTaGR1WlZOUktIdVRGYXNTemczVFhnNExmSV9OOFRQdlRYU0xJYmMtWVhUU09vNTE0Nmc2Nm45MzIwa3ZtOVo5cHl6YWZXanNwallBQXhoalJ6Q2czRVVrRzZVbW84a09OdmhVdzRad3pyQnR5Z3NkeXdMXw?oc=5"
-        },
-        {
-          "name": "凤凰网",
-          "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE1wT0lfbmpnak8tc1pTY2l6QURXeXlEd1J3S01uSVRPRGZMbjVOamxma1k0SUJMa09ORy1sV1BockZZeGRRWkFsZA?oc=5"
+          "url": "https://www.bbc.co.uk/news/articles/cm3wj2lexl97o?at_medium=RSS&at_campaign=rss"
         }
       ],
       "card": {
-        "category": "政治·媒体",
-        "headline": "三家美媒起诉白宫限制采访",
-        "what": "9月22日，CNN、MS NOW与Politico三家美国主流媒体起诉特朗普政府，挑战白宫限制记者采访的禁令。",
-        "question": "这事会影响我看到的信息吗？",
+        "category": "生态·台风",
+        "headline": "超强台风杜娟登陆日本",
+        "what": "9月22日超强台风杜娟袭击日本，气象部门敦促数百万人紧急疏散，多地发布避难指示，可能引发洪涝、山体滑坡及大范围交通中断。",
+        "question": "会影响我买的日货发货吗？",
         "means": [
-          "你看到的美国新闻可能更单一",
-          "后续白宫采访规则可能被改写"
+          "日本方向航班快递或临时延误",
+          "日系车和电子产品供货可能变慢"
         ],
-        "note": "案件审理周期较长，结果以法院裁定为准。"
+        "note": "物流恢复时间以航空公司与快递公告为准。"
       }
     },
     {
-      "title": "欧盟延长对俄制裁三年",
-      "summary": "欧盟9月22日通过延长对俄罗斯制裁的方案，期限长达36个月。此举将此前需定期续期的制裁机制一次性延长，意在锁定对俄施压政策的长期性，减少成员国之间围绕续期的博弈。制裁涵盖金融、能源、技术与个人实体等领域。延长制裁将对俄罗斯经济、能源出口以及欧洲自身能源成本产生持续影响，也令俄乌冲突相关的外交斡旋空间进一步收窄。制裁长期化意味着欧洲与俄罗斯在能源、金融和产业链上的脱钩将进一步固化，相关企业需重新评估长期合规与市场布局。",
-      "reason": "欧盟将对俄制裁制度化延长至三年，锁定长期对俄施压格局。",
+      "title": "德国17.5万汽车工人抗议裁员",
+      "summary": "德国17.5万名汽车业员工在全国多地集会，抗议企业大规模裁员，呼吁政府加码产业政策。与此同时，德国两州选举中极左与极右势力分别得势，执政的基民盟重挫，总理默茨去留引发党内争论。产业外迁、电动化转型冲击与政治极化相互叠加，欧洲最大经济体的工业根基与政治稳定同时承压。汽车业是德国经济支柱，裁员潮若持续，将波及上下游就业与欧盟产业政策走向。",
+      "reason": "德国汽车业大规模抗议叠加政治右转，欧洲经济与产业格局承压。",
       "impact_areas": [
-        "地缘",
+        "产业",
         "经济金融",
         "政治"
       ],
@@ -85,35 +121,8 @@
       "sources": [
         {
           "name": "澎湃新闻",
-          "url": "https://m.thepaper.cn/detail/34120957"
+          "url": "https://m.thepaper.cn/detail/34122484"
         },
-        {
-          "name": "新浪财经",
-          "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9BaFJfUUF6T044TF9fWU1MMkpHUG5aVjFnTXp0UVFEV0tpTHhOV0YtWEMxYnlZanRsWjA1YmhtXzloWE00azljdFpKRzctNkxLMm1tSFphZnphbmd6LVdGelVaanVHUHhyNzdZcnhvRWFMaUlrbF9uZA?oc=5"
-        }
-      ],
-      "card": {
-        "category": "地缘·制裁",
-        "headline": "欧盟对俄制裁一口气延长三年",
-        "what": "欧盟9月22日通过方案，将对俄罗斯的制裁延长36个月，涵盖金融、能源、技术与个人实体等领域。",
-        "question": "欧洲的油气价格会再涨吗？",
-        "means": [
-          "欧洲能源成本或继续高位运行",
-          "涉俄业务的企业要重新算合规账"
-        ],
-        "note": "制裁长期化的具体执行细则仍待公布。"
-      }
-    },
-    {
-      "title": "德国两州选举极左极右得势",
-      "summary": "德国两州选举结果显示，极左与极右政党分别得势，执政的基民盟遭遇重挫，总理默茨承诺维持执政联盟团结，以确保德国民主未来。选举结果反映德国选民对传统主流政党的不满加剧，政治光谱两端力量同步上升，移民、能源与经济议题成为主要驱动力。若联盟内部裂痕扩大，默茨政府的稳定性与欧洲政策协调能力或受冲击。此番结果也为欧洲整体政治右转与碎片化趋势再添注脚，可能影响欧盟在财政、移民与气候政策上的决策效率。",
-      "reason": "德国执政联盟受挫，极左极右同时崛起，欧洲政治版图生变。",
-      "impact_areas": [
-        "政治",
-        "地缘"
-      ],
-      "impact_level": "重大",
-      "sources": [
         {
           "name": "财新网",
           "url": "https://international.caixin.com/2026-09-22/102487288.html"
@@ -124,137 +133,176 @@
         }
       ],
       "card": {
-        "category": "政治·欧洲",
-        "headline": "德国两州选举，执政党吃了败仗",
-        "what": "德国两州选举结果显示，极左与极右政党分别得势，执政的基民盟遭遇重挫，总理默茨承诺维持联盟团结。",
-        "question": "欧洲政策摇摆会波及我的生意吗？",
+        "category": "产业·就业",
+        "headline": "德国17.5万汽车工人抗议裁员",
+        "what": "德国17.5万名汽车业员工在全国多地集会，抗议企业大规模裁员，呼吁政府加码产业政策。同期两州选举中极左与极右势力得势，执政的基民盟重挫。",
+        "question": "德国车会不会更便宜甩卖？",
         "means": [
-          "欧元区政策变动或影响出口订单",
-          "移民与能源政策可能继续收紧"
+          "德系车在华促销力度可能加大",
+          "汽车零部件出口订单面临波动"
         ],
-        "note": "政府稳定性仍取决于联盟内部协调结果。"
+        "note": "裁员方案仍在博弈，最终以企业公告为准。"
       }
     },
     {
-      "title": "强台风杜鹃袭击日本",
-      "summary": "强台风杜鹃9月22日袭击日本，当局敦促数百万人撤离，航班、铁路等交通大面积中断，部分地区发布最高级别警报。气象部门警告强风、暴雨及可能引发的地质灾害，日本多地停工停课，居民被要求前往避难所。台风路径与强度变化将影响日本主要城市圈及沿岸地区，对交通、供应链和人身安全构成直接威胁。作为全球制造业与航运关键节点，日本运行中断或对区域供应链与物流产生外溢影响，相关损失评估仍在进行中。",
-      "reason": "强台风直击日本，数百万人被要求撤离，交通与安全受严重冲击。",
+      "title": "长生生物疫苗案二审宣判",
+      "summary": "长生生物疫苗案二审判决，原董事长高俊芳获无期徒刑。该案源于2018年长春长生狂犬病疫苗生产记录造假事件，曾引发全国对疫苗安全的强烈关注，公司随后退市。二审维持重判，彰显对公共卫生安全领域违法行为的严惩立场。此案的终审结果对疫苗行业合规经营具有强烈警示意义，也再度引发公众对药品监管长效机制的关注。",
+      "reason": "疫苗安全标志性案件终审重判，对公共卫生监管与行业合规影响深远。",
       "impact_areas": [
-        "生态",
-        "社会"
+        "公共卫生",
+        "法律"
       ],
       "impact_level": "重大",
       "sources": [
         {
-          "name": "BBC",
-          "url": "https://www.bbc.co.uk/news/articles/cm3wj2lexl97o?at_medium=RSS&at_campaign=rss"
+          "name": "财新网",
+          "url": "https://www.caixin.com/2026-09-22/102487302.html"
+        }
+      ],
+      "card": {
+        "category": "社会·法治",
+        "headline": "长生疫苗案终审，原董事长无期",
+        "what": "长生生物疫苗案二审判决，原董事长高俊芳获无期徒刑。该案源于2018年长春长生狂犬病疫苗生产记录造假事件，公司随后退市，二审维持重判。",
+        "question": "以后打疫苗能更放心吗？",
+        "means": [
+          "疫苗生产记录监管预计更严格",
+          "接种可查批号，留意正规渠道"
+        ],
+        "note": "个案判决不直接等于监管全面到位。"
+      }
+    },
+    {
+      "title": "特朗普支持率跌至32%新低",
+      "summary": "路透社与益普索最新民调显示，美国总统特朗普的支持率跌至32%的纪录低点，高物价成为拖累其民意的首要因素。支持率下滑可能削弱其在国会推进议程的能力，并影响中期选举前的政治格局。同一时期，CNN、MS NOW与Politico就白宫对媒体的采访限制提起诉讼，媒体与白宫关系趋紧。内政民意承压与对外政策不确定性叠加，构成全球市场需持续跟踪的政治变量。",
+      "reason": "美国总统支持率创纪录新低，牵动美国政治走向与全球政策预期。",
+      "impact_areas": [
+        "政治"
+      ],
+      "impact_level": "重大",
+      "sources": [
+        {
+          "name": "Reuters",
+          "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOa2xXN3ZZR05LSzJLYVpOTFZTVlJkLWhnZUxnRDVlckVJT0pDN3RDRFJoTnJObVJGY0RYMGJLYUpGT0pNVUlrUFlBTVlzS0hNbUhWNk1lYzBNUEdRYmQwNy04X3ZHQzAzY1NGZDZxVEhsOTl3LWFrcjFDMEJhaUxPS2hlbnlUMkRsYml0bnBkSVBUR3F0YUtXbWxDdnVScmE4dGw1LUhXelhOVVNyVm9YbWRJMXI1R2wybnNz?oc=5"
         },
         {
           "name": "BBC",
-          "url": "https://www.bbc.co.uk/news/videos/cm0j3224p6j8o?at_medium=RSS&at_campaign=rss"
+          "url": "https://www.bbc.co.uk/news/articles/cm0e32rwvrryo?at_medium=RSS&at_campaign=rss"
         }
       ],
       "card": {
-        "category": "生态·灾害",
-        "headline": "强台风杜鹃袭日，数百万人撤离",
-        "what": "9月22日强台风杜鹃袭击日本，当局敦促数百万人撤离，航班与铁路大面积中断，多地发布最高级别警报。",
-        "question": "我海淘的日本货会晚到吗？",
+        "category": "政治·美国",
+        "headline": "特朗普支持率跌至32%新低",
+        "what": "路透社与益普索最新民调显示，美国总统特朗普支持率跌至32%的纪录低点，高物价是拖累民意的首要因素。同期CNN等媒体就白宫采访限制作出诉讼。",
+        "question": "这会影响我的投资吗？",
         "means": [
-          "赴日航班与物流近期大概率延误",
-          "汽车电子等日系供应链或受扰动"
+          "美股和政策预期波动可能加大",
+          "美元资产短期风险偏好受影响"
         ],
-        "note": "台风路径与损失评估仍在更新，出行前先查航班。"
+        "note": "民调为阶段性数据，政策走向仍待观察。"
       }
     },
     {
-      "title": "乌克兰10州基础设施遭袭",
-      "summary": "乌克兰方面9月22日称，10个州的关键基础设施遭到袭击，扎波罗热一购物中心和大学受损，泽连斯基批评袭击非常残酷且有针对性。俄方则称单日击落1951架无人机。双方围绕无人机与远程打击的攻防强度持续升级，能源与民用设施反复成为目标。基础设施受损将加剧乌克兰冬季供电供暖压力，也令停火与谈判前景更趋复杂。无人机大规模运用已成为现代战争的重要特征，防空拦截成本与产能消耗成为双方比拼的新维度，战事外溢风险持续存在。",
-      "reason": "俄乌无人机战升级，乌多州基础设施遇袭，冲突强度居高不下。",
-      "impact_areas": [
-        "地缘",
-        "政治"
-      ],
-      "impact_level": "重大",
-      "sources": [
-        {
-          "name": "凤凰网",
-          "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTFBXeXd1T2NZM2hBeTJZbzYyTUgtdmFhR2EyMjJzS2R0V21XZk1sTjVCbWdWOXBFaktoa3pWUURwNTJXNkxpQnFPYw?oc=5"
-        }
-      ],
-      "card": {
-        "category": "地缘·冲突",
-        "headline": "乌多州设施遇袭，无人机战升级",
-        "what": "9月22日乌方称10个州关键基础设施遭袭，扎波罗热一购物中心和大学受损，俄方称单日击落1951架无人机。",
-        "question": "这仗会不会继续推高油价？",
-        "means": [
-          "欧洲天然气与电价恐再起波动",
-          "无人机相关产业订单或持续增长"
-        ],
-        "note": "双方战报数据存在差异，需交叉核实。"
-      }
-    },
-    {
-      "title": "AMD市值突破万亿美元",
-      "summary": "受Meta智能体产品火爆带动，芯片股9月22日大幅上涨，AMD市值突破1万亿美元，跻身万亿美元俱乐部，英特尔同日涨超12%。市场对AI智能体带来的算力需求预期升温，资金加速流入芯片与算力产业链。AMD凭借AI加速器业务估值快速抬升，反映AI基础设施投资周期仍在扩张。芯片股走强亦推动美股三大指数集体收涨。这一里程碑显示AI算力竞赛对资本市场与半导体产业格局的影响进一步深化，龙头厂商的估值分化正随AI订单流向而重塑。",
-      "reason": "AI算力需求带动芯片股大涨，AMD市值破万亿，产业与资本市场共振。",
+      "title": "阿里发布AI芯片真武V900",
+      "summary": "阿里巴巴发布AI芯片真武V900，进一步加码国产算力自研。同期科技进展密集：SpaceXAI发布Grok 4.7模型，Meta智能体Muse迅速走红，OpenAI被曝加紧备战AI智能体，英特尔18A-P进入风险试产阶段、14A进展顺利，龙芯自研通用GPU加速计算平台首个软件版本面世。AI芯片与模型迭代加速，算力自主与智能体商业化成为全球科技竞争焦点，产业链上游价值持续凸显。",
+      "reason": "国产AI芯片与大模型密集迭代，关乎算力自主与AI产业竞争格局。",
       "impact_areas": [
         "科技",
-        "经济金融"
-      ],
-      "impact_level": "重大",
-      "sources": [
-        {
-          "name": "新浪财经",
-          "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5rRDQyN0UxbXU1TDFaeXo4VkhlQUpNVXFsYTl0NDRDNzQ0di1tcVBMZFVPamVydW93ZnJGRDJhNkdZY2lkVDhPNHhkdUNSQ1VFZUU3V1ZWdHJ3VVk3VFhZYmREOTFpX3E3N0hwYXhBSVVPdWNDSUl3cjdR?oc=5"
-        }
-      ],
-      "card": {
-        "category": "科技·芯片",
-        "headline": "芯片股大涨，AMD市值破万亿",
-        "what": "9月22日受Meta智能体产品带动，芯片股大幅上涨，AMD市值突破1万亿美元，英特尔同日涨超12%。",
-        "question": "这波算力热跟我的工作有关吗？",
-        "means": [
-          "AI相关岗位与招聘需求仍在扩张",
-          "买基金的人短期波动可能加大"
-        ],
-        "note": "股价波动较大，估值变化以市场实际情况为准。"
-      }
-    },
-    {
-      "title": "OpenAI呼吁美牵头AI标准",
-      "summary": "OpenAI于9月22日敦促美国牵头为人工智能制定全球标准，同期OpenAI与Anthropic讨论对彼此AI模型进行压力测试，OpenAI还成立了独立的数学顾问团队。随着联合国大会将AI治理列为议题，美国与中国在AI领域的竞争与规则制定博弈升温。业内担忧失控AI风险，呼吁建立跨境安全与评测机制。AI全球标准的制定权正成为大国科技竞争的新焦点，将影响未来AI产业的合规成本、数据流动与市场准入，各国监管路径的分歧也可能催生区域化的技术壁垒。",
-      "reason": "AI全球标准制定权之争升温，OpenAI推动美国主导规则。",
-      "impact_areas": [
-        "科技",
-        "政治"
+        "产业"
       ],
       "impact_level": "重大",
       "sources": [
         {
           "name": "36氪",
-          "url": "https://www.36kr.com/newsflashes/3993781620898823"
+          "url": "https://www.36kr.com/newsflashes/3993996603783940"
         },
         {
-          "name": "新浪财经",
-          "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOREVvMnJ6eUc0WS1ndWN2NkhVamNIU1hHSmxxOEpNVjQ1WWJwTlB5S3JOTmhvYUZoZFBWME1hTDg2R0FCVXh3RzhScVVleEIxY0psMUVDYTlCMmtFYm00d0lwcHdFM1ZYeWRiUHJ0bDZqb0d1cC1FeEJ5MEJ0YVBvT0V5eFNtLV9DWG5BRVJ6SGhPNWI2bVNYT0FkMU96QVphMlQ4UUJfQ0xGVU42b3pBdVItRVRnb1M5NzB0RmNxX0lqUDQzTlQ2VER2N3BINHBxY0E?oc=5"
+          "name": "财新网",
+          "url": "https://www.caixin.com/2026-09-22/102487297.html"
+        },
+        {
+          "name": "36氪",
+          "url": "https://www.36kr.com/newsflashes/3994060775176965"
         }
       ],
       "card": {
-        "category": "科技·治理",
-        "headline": "AI全球标准，美国想抢先定规则",
-        "what": "9月22日OpenAI敦促美国牵头制定AI全球标准，并与Anthropic讨论对彼此模型进行压力测试。",
-        "question": "我用AI的门槛会变高吗？",
+        "category": "科技·AI",
+        "headline": "阿里发布AI芯片真武V900",
+        "what": "阿里巴巴发布AI芯片真武V900，加码国产算力自研。同期SpaceXAI发布Grok 4.7，Meta智能体Muse走红，英特尔18A-P进入风险试产，龙芯自研通用GPU平台首个软件版本面世。",
+        "question": "国产芯片股还能追吗？",
         "means": [
-          "AI产品合规成本或转嫁到用户",
-          "数据跨境使用可能面临更多限制"
+          "算力相关岗位和薪资需求上升",
+          "AI应用使用成本有望继续下降"
         ],
-        "note": "标准制定仍在讨论阶段，落地时间尚不明确。"
+        "note": "芯片从发布到量产仍有周期，勿盲目跟风。"
       }
     },
     {
-      "title": "央视曝光社保挂靠乱象",
-      "summary": "央视曝光社保挂靠问题后，多地分别展开调查与整改。社保挂靠指通过虚构劳动关系挂靠单位缴纳社保，可能影响参保人待遇资格与基金安全，也关系灵活就业人员的合规参保渠道。此次曝光与地方整改将推动相关部门收紧审核、完善灵活就业社保政策。对以挂靠方式缴纳社保的人群而言，其参保连续性与未来待遇或面临重新核查，相关合规风险上升。事件也再度凸显新就业形态下社保制度衔接的空白，后续政策如何为灵活就业者提供合规参保路径值得关注。",
-      "reason": "央视曝光社保挂靠乱象，多地整改，直接影响参保人权益与合规。",
+      "title": "美股纳指涨超2% 芯片股大涨",
+      "summary": "美股三大指数高开高走，纳指涨超2%，多只半导体芯片股大涨超10%，AMD成为美国第14家市值突破万亿美元的上市公司。芯片热潮再起，反映市场对AI算力需求的持续乐观。同期A股三大指数上涨，创业板指涨0.93%，港股恒指小幅收涨，主力资金加仓电子、医药生物板块。全球科技股情绪回暖，AI产业链成为资金主攻方向，估值与业绩匹配度或成后续关键变量。",
+      "reason": "美股半导体大涨、AMD市值破万亿，全球AI产业链资金情绪高涨。",
+      "impact_areas": [
+        "经济金融",
+        "科技"
+      ],
+      "impact_level": "重大",
+      "sources": [
+        {
+          "name": "雪球热帖",
+          "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE50Ujl1dmIyRjZOR1VQS3p6S0plbkVTRUd3UkM3UEJULWxTTmZuTUJySFV1WU5mNHBYWkZsYWx5UHlDZmVCbXdpYmd2TENYU2FoNzNKd1NtaEhYcl91aFctb004VjZiVWhXZzN4QlFudnJaZG5pRmYxNQ?oc=5"
+        },
+        {
+          "name": "雪球热帖",
+          "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1wTC1tUHlsa2ExenY0c294RUdPZElkSEc0S0htN1lsUG1mVEswbGJHZkFMVWxJM0lXMW01UWQxOW5qMUx4ZEx2Z194Z0VkMDBUcGNjNlMxcXQzTTVwVlNGUmxEdDQ4eVlzOHhma0M0VGNHUWNQZ3NHUA?oc=5"
+        },
+        {
+          "name": "36氪",
+          "url": "https://www.36kr.com/newsflashes/3994025886301187"
+        }
+      ],
+      "card": {
+        "category": "经济·股市",
+        "headline": "纳指涨超2%，芯片股集体大涨",
+        "what": "美股三大指数高开高走，纳指涨超2%，多只半导体芯片股大涨超10%，AMD成为美国第14家市值突破万亿美元的上市公司。同期A股三大指数上涨，创业板指涨0.93%。",
+        "question": "现在上车还来得及吗？",
+        "means": [
+          "电子医药板块基金净值或回升",
+          "追高买入的短期回撤风险变大"
+        ],
+        "note": "估值与业绩是否匹配是后续关键变量。"
+      }
+    },
+    {
+      "title": "五大国产手机接入地震预警网",
+      "summary": "五大国产主流手机全部接入中国地震预警网，用户在震前可通过手机收到预警信息，为避险争取数秒至数十秒的宝贵时间。地震预警利用地震波传播的时间差提前发出警报，是减少人员伤亡的重要手段。此次主流手机品牌全面接入，意味着地震预警服务的覆盖范围与使用门槛大幅降低，数亿用户将直接受益，是我国防灾减灾体系的重要升级，也体现了手机厂商与公共安全基础设施的深度协同。",
+      "reason": "地震预警接入主流手机，数亿用户直接受益，防灾减灾覆盖大幅提升。",
+      "impact_areas": [
+        "科技",
+        "社会",
+        "公共卫生"
+      ],
+      "impact_level": "重大",
+      "sources": [
+        {
+          "name": "财新网",
+          "url": "https://mini.caixin.com/2026-09-22/102487296.html"
+        }
+      ],
+      "card": {
+        "category": "科技·民生",
+        "headline": "五大国产手机接入地震预警",
+        "what": "五大国产主流手机全部接入中国地震预警网，用户在震前可通过手机收到预警信息，为避险争取数秒至数十秒时间，数亿用户将直接受益。",
+        "question": "我的手机怎么打开预警？",
+        "means": [
+          "震前多出几秒到几十秒避险时间",
+          "需在设置里开启并保持联网定位"
+        ],
+        "note": "预警有盲区，近距离震中可能来不及提示。"
+      }
+    },
+    {
+      "title": "民政部提示防范养老APP诈骗",
+      "summary": "民政部发布关于防范非法养老APP诈骗的提示，明确从未设立民惠通等项目，也未推出相关App。近期有不法分子冒用民政部门名义，以养老服务、补贴发放为幌子，诱导老年人下载非法APP、充值或提供个人信息，实施诈骗。官方提示提醒公众特别是老年群体提高警惕，通过正规渠道核实信息，避免财产损失。随着人口老龄化加深，针对老年人的金融与网络诈骗风险上升，监管与科普需求同步增加。",
+      "reason": "民政部警示冒名养老APP诈骗，直接关系老年群体财产安全。",
       "impact_areas": [
         "社会",
         "经济金融"
@@ -262,54 +310,27 @@
       "impact_level": "重大",
       "sources": [
         {
-          "name": "澎湃新闻",
-          "url": "https://m.thepaper.cn/detail/34120751"
-        }
-      ],
-      "card": {
-        "category": "社会·社保",
-        "headline": "央视曝光社保挂靠，多地开始整改",
-        "what": "央视曝光社保挂靠后，多地展开调查与整改。社保挂靠指虚构劳动关系挂靠单位缴社保，涉及参保资格与基金安全。",
-        "question": "我挂靠交的社保还算数吗？",
-        "means": [
-          "挂靠参保的连续性可能被重新核查",
-          "灵活就业者需找合规参保渠道"
-        ],
-        "note": "各地整改口径不同，具体以当地社保部门通知为准。"
-      }
-    },
-    {
-      "title": "FAA故障致美国航班大面积延误",
-      "summary": "美国联邦航空管理局（FAA）因电信故障一度对飞往纽约肯尼迪机场的航班实施地面停飞，随后解除，但全美数千架次航班因此延误或取消。这是美国航空系统短期内再次因技术故障出现大面积运行中断，航空公司批评空管系统脆弱。故障凸显美国空管基础设施老化与更新滞后的问题，对旅客出行、航空货运与相关经济活动产生连锁影响，监管机构面临加快空管现代化的压力。事件与近日英国空管故障相呼应，全球航空业对关键基础设施韧性的担忧上升。",
-      "reason": "FAA技术故障致数千航班延误，暴露美国空管系统脆弱，影响出行。",
-      "impact_areas": [
-        "社会",
-        "科技"
-      ],
-      "impact_level": "重大",
-      "sources": [
-        {
-          "name": "新浪财经",
-          "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5YaFpWQ2NQT3E1Z1BWaTlva2czR2w4TjlyWWVYRUZERnM0OGJSbGF0Vm5sTEltZDJ4MlpOTGFmZjBZSXNMVW1zb2RnUXlFdTVsZjhiVEF3dzdfOEM1Vy1ISFFOZEVkQXBEcmE4WUZYZFVZR0RPMEw1VE5R?oc=5"
+          "name": "36氪",
+          "url": "https://www.36kr.com/newsflashes/3994040835980295"
         },
         {
-          "name": "Reuters",
-          "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxNZjN4OE9EdHJieU9qcm1fQ0paNnM4V0Q0VVhic3UtdF94eEtKRXhxeDdoZDdzWmRpVlN2ZmJRY3dUcGpVX2pyZy1sd3RQQWd3X08za2JSdU1HZmpLcmdkY2VCMjU3Mm91RS0wdV9OT3VROVQ3blh4TEg0ZFRqdDdtLU5NY0dQcWlkNGg5QnNOOFJ4VkFvVTVTV1FZXzBvUnNNd09sYVVFMk9waW5KX2REa2ZPbWtrelg1VXJnaXFqeXBqY2taRkczSWZXalpQRktUblhndEg3WTNMbnVLVzFMLXVudkg4dGQzM3QwdjlIaw?oc=5"
+          "name": "凤凰网",
+          "url": "https://news.ifeng.com/c/8wckyKKDBoS"
         }
       ],
       "card": {
-        "category": "社会·出行",
-        "headline": "美国空管故障，数千航班延误",
-        "what": "9月22日美国联邦航空管理局因电信故障一度停飞飞往纽约肯尼迪机场的航班，全美数千架次航班延误或取消。",
-        "question": "下次坐飞机还会遇到这种事吗？",
+        "category": "社会·反诈",
+        "headline": "民政部提醒：养老APP是骗局",
+        "what": "民政部发布防范非法养老APP诈骗提示，明确从未设立民惠通等项目，也未推出相关App。近期有人冒用民政部门名义，以养老服务、补贴发放为幌子诱导老年人下载充值。",
+        "question": "我爸妈的手机安全吗？",
         "means": [
-          "赴美转机行程最好留足缓冲时间",
-          "空管老化或推高航空出行成本"
+          "家里老人可能已收到这类链接",
+          "帮忙核对APP来源并关闭免密支付"
         ],
-        "note": "故障已解除，但航班恢复与赔付安排仍待跟进。"
+        "note": "涉及转账一律先向官方渠道核实。"
       }
     }
   ],
-  "total_fetched": 191,
-  "generated_at": "2026-09-22T07:27:08.783290+08:00"
+  "total_fetched": 253,
+  "generated_at": "2026-09-22T12:26:18.071117+08:00"
 }
