@@ -2,89 +2,273 @@
   "date": "2026-09-22",
   "news": [
     {
-      "title": "习近平对美国进行国事访问",
-      "summary": "应美方邀请，中国国家主席习近平对美国进行国事访问。访问期间，习近平将会见美国总统特朗普，就中美关系及共同关心的重大国际地区问题深入交换意见。此访旨在巩固两国此前达成的贸易休战共识，延长关税暂停安排，并在台湾军售、科技管制等敏感议题上管控分歧。中美作为全球前两大经济体，元首会晤结果将直接影响全球贸易流向、供应链稳定与市场风险偏好。外界普遍关注双方能否在经贸、气候、人工智能治理等领域达成可交付成果，为动荡的国际局势注入确定性。",
-      "reason": "中美两国元首会晤，关系全球贸易与地缘格局走向，为当日最高热度事件。",
+      "title": "美伊对峙：伊朗设定重开海峡条件",
+      "summary": "伊朗表示，若美国放松军事压力并解除封锁，伊朗准备重新开放霍尔木兹海峡；与此同时，美国以不允许降落、加油和售票等手段试图将伊朗航空公司逐出天空。能源咨询机构Energy Aspects指出，伊朗战争对石油运输的扰动可能持续至年底。霍尔木兹海峡承担全球约五分之一的石油海运量，其通行状况直接决定国际油价与航运成本，冲突长期化将推高全球能源价格与通胀压力。特朗普当日将会晤波斯湾盟友，中东战事有进一步扩大之势。",
+      "reason": "中东冲突外溢至全球能源命脉，霍尔木兹通行状况直接左右油价与通胀。",
       "impact_areas": [
-        "政治",
         "地缘",
         "经济金融"
       ],
       "impact_level": "现象级",
       "sources": [
         {
-          "name": "澎湃新闻",
-          "url": "https://h.xinhuaxmt.com/vh512/share/13297381?newstype=1001&homeshow=1"
+          "name": "Reuters",
+          "url": "https://www.reuters.com/world/middle-east/iran-ready-reopen-strait-hormuz-if-us-eases-military-pressure-lifts-blockade-2026-09-22/"
+        },
+        {
+          "name": "凤凰网",
+          "url": "https://news.ifeng.com/c/8wdCY0D1KIg"
         },
         {
           "name": "财新网",
-          "url": "https://finance.caixin.com/2026-09-22/102487286.html"
+          "url": "https://database.caixin.com/2026-09-22/102487371.html"
         }
       ],
       "card": {
-        "category": "地缘·中美",
-        "headline": "中美元首会晤，关税暂停有望延长",
-        "what": "应美方邀请，中国国家主席习近平对美国进行国事访问，将会见美国总统特朗普，就中美关系及重大国际地区问题交换意见，旨在巩固贸易休战共识、延长关税暂停安排。",
-        "question": "我买的进口货会便宜点吗？",
+        "category": "地缘·能源",
+        "headline": "伊朗设条件，海峡有望重开",
+        "what": "伊朗表示，若美国放松军事压力并解除封锁，愿重新开放霍尔木兹海峡；美方则设法将伊朗航空逐出天空。",
+        "question": "加油和机票价格会涨吗？",
         "means": [
-          "部分进口商品价格可能松动",
-          "相关外贸行业订单或趋于稳定"
+          "开车加油和物流成本都会变高",
+          "冲突拖到年底，进口商品可能更贵"
         ],
-        "note": "会晤成果以官方通稿为准，别急着据此调整消费。"
+        "note": "海峡能否重开取决于美伊后续谈判，尚未有定论。"
       }
     },
     {
-      "title": "中东冲突升级推高油价粮价",
-      "summary": "也门胡塞武装与沙特战事重燃，胡塞武装称美国正考虑与沙特联手行动，英国已同意支援沙特军方抵御胡塞武装。伊朗战争持续扰动石油运输，机构Energy Aspects预计扰动或持续至年底。美国柴油价格突破每加仑6.50美元，战争加剧全球燃料短缺。与此同时，黑海因冲突沦为另一个霍尔木兹，乌克兰粮食出口受阻，全球粮食供应拉响警报。能源与粮食两大宗商品同步受冲击，通胀压力正加速向全球传导，稀缺与价格风险上升。",
-      "reason": "中东冲突同时冲击石油与粮食两大宗商品，全球通胀与供应链风险上升。",
+      "title": "莫斯科遭450架无人机袭击",
+      "summary": "俄罗斯首都莫斯科遭到约450架乌克兰无人机袭击，为俄乌开战以来最大规模的一次，多座机场一度停运。俄方称对乌克兰工业设施实施打击，造成至少4人死亡。乌方防空体系还面临俄军喷气动力无人机的新压力，此类无人机速度更快、更难拦截，正在消耗乌方拦截弹药。袭击规模升级显示双方在远程打击能力上的博弈加剧，短期内停火谈判前景更加渺茫，欧洲安全格局与能源市场持续承压。",
+      "reason": "开战以来最大规模无人机袭击，俄乌冲突烈度升级，欧洲安全承压。",
       "impact_areas": [
         "地缘",
-        "经济金融",
-        "生态"
+        "政治"
       ],
       "impact_level": "现象级",
       "sources": [
         {
           "name": "财新网",
-          "url": "https://database.caixin.com/2026-09-22/102487371.html"
+          "url": "https://photos.caixin.com/2026-09-22/102487381.html"
         },
         {
-          "name": "财新网",
-          "url": "https://database.caixin.com/2026-09-22/102487323.html"
+          "name": "Reuters",
+          "url": "https://www.reuters.com/world/europe/russia-strikes-ukraine-industrial-sites-killing-three-officials-say-2026-09-22/"
         },
         {
-          "name": "财新网",
-          "url": "https://database.caixin.com/2026-09-22/102487310.html"
-        },
-        {
-          "name": "财新网",
-          "url": "https://database.caixin.com/2026-09-22/102487315.html"
-        },
-        {
-          "name": "凤凰网",
-          "url": "https://original.ifeng.com/c/8wcixexnjpO"
-        },
-        {
-          "name": "NYTimes",
-          "url": "https://www.nytimes.com/2026/09/21/world/middleeast/yemen-houthis-saudi-war.html"
+          "name": "Reuters",
+          "url": "https://www.reuters.com/business/aerospace-defense/jet-powered-russian-drones-strain-ukraines-air-defences-2026-09-22/"
         }
       ],
       "card": {
-        "category": "地缘·能源",
-        "headline": "中东冲突再起，油价粮价一起涨",
-        "what": "也门胡塞武装与沙特战事重燃，英国已同意支援沙特，伊朗战争持续扰动石油运输，机构预计扰动或持续至年底。美国柴油价格突破每加仑6.50美元，黑海粮食出口受阻。",
-        "question": "加油和买菜会贵多少？",
+        "category": "地缘·冲突",
+        "headline": "莫斯科遭450架无人机袭击",
+        "what": "莫斯科遭约450架乌克兰无人机袭击，为开战以来最大规模，多座机场一度停运；俄方称打击乌工业设施，致至少4人死亡。",
+        "question": "战事升级会推高物价吗？",
         "means": [
-          "国内成品油调价压力继续加大",
-          "进口粮油食品价格可能跟涨"
+          "欧洲能源和机票价格可能再波动",
+          "停火更难，相关外贸订单或受影响"
         ],
-        "note": "涨幅取决于冲突时长，具体以调价公告为准。"
+        "note": "袭击规模与伤亡数字以双方官方通报为准。"
       }
     },
     {
-      "title": "超强台风杜娟袭击日本",
-      "summary": "超强台风杜娟于9月22日袭击日本，气象部门敦促数百万人紧急疏散。台风带来狂风暴雨，可能引发洪涝、山体滑坡及大范围交通中断，日本多地已发布避难指示。作为今年影响日本最强的台风之一，其路径与强度将考验日本防灾体系，并可能冲击关东、关西等经济核心区的生产与物流，对区域制造业供应链和居民出行造成阶段性扰动。",
-      "reason": "超强台风登陆日本，数百万人疏散，牵动区域经济与全球供应链。",
+      "title": "特朗普联大聚焦中东乌克兰战事",
+      "summary": "美国总统特朗普在联合国大会期间展开密集外交，中东与乌克兰两场战争成为核心议题，他将会晤波斯湾盟友，并与英国领导人伯纳姆首次会面。同时，因白宫对部分媒体实施采访限制，美国多家主流媒体联合抵制共享特朗普的报道内容，围绕媒体准入的法律争议持续升温。此外，中方预计将要求特朗普依据1982年公报停止对台军售。联大成为各方就伊朗、乌克兰、台海等议题密集博弈的舞台。",
+      "reason": "联大成大国博弈焦点，中东、乌克兰、台海议题密集交锋。",
+      "impact_areas": [
+        "政治",
+        "地缘"
+      ],
+      "impact_level": "重大",
+      "sources": [
+        {
+          "name": "Reuters",
+          "url": "https://www.reuters.com/world/americas/trump-set-whirlwind-un-meetings-with-wars-iran-ukraine-agenda-2026-09-22/"
+        },
+        {
+          "name": "BBC",
+          "url": "https://www.bbc.co.uk/news/articles/cje3rezd92y3o"
+        },
+        {
+          "name": "NYTimes",
+          "url": "https://www.nytimes.com/live/2026/09/22/world/un-general-assembly-trump-speech-news/heres-the-latest"
+        },
+        {
+          "name": "凤凰网",
+          "url": "https://news.ifeng.com/c/8wdDLApkIbc"
+        }
+      ],
+      "card": {
+        "category": "政治·外交",
+        "headline": "联大成焦点，中东乌克兰交锋",
+        "what": "特朗普在联大期间密集外交，中东与乌克兰两场战争成为核心议题，他将会晤波斯湾盟友并与英国领导人首次会面。",
+        "question": "台海议题会有什么新变化？",
+        "means": [
+          "中美关系波动影响外贸和留学出行",
+          "媒体准入争议或改变你看到的信息"
+        ],
+        "note": "各方表态与军售动向以官方发布为准。"
+      }
+    },
+    {
+      "title": "20国联合声明呼吁管控AI风险",
+      "summary": "中国AI公司DeepSeek将于本周向联合国安理会就人工智能议题作简报，这是中国AI企业首次进入安理会政策讨论。德国等20国及欧盟发表联合声明，呼吁开展国际合作，以确保人工智能始终处于人类控制之下。微软创始人比尔·盖茨此前亦呼吁各方权衡AI利弊，防止其成为'坏人最强大的武器之一'。全球AI治理正从行业自律转向国际规则博弈，算力、模型与安全标准或成大国竞争新前沿。",
+      "reason": "AI治理进入安理会与多国规则层面，成为大国竞争新前沿。",
+      "impact_areas": [
+        "科技",
+        "政治"
+      ],
+      "impact_level": "重大",
+      "sources": [
+        {
+          "name": "Reuters",
+          "url": "https://www.reuters.com/world/asia-pacific/deepseek-brief-un-security-council-ai-this-week-sources-say-2026-09-22/"
+        },
+        {
+          "name": "36氪",
+          "url": "https://www.36kr.com/newsflashes/3994472157450117"
+        },
+        {
+          "name": "财新网",
+          "url": "https://international.caixin.com/2026-09-22/102487482.html"
+        }
+      ],
+      "card": {
+        "category": "科技·AI",
+        "headline": "20国发声明，要给AI立规矩",
+        "what": "德国等20国及欧盟发表联合声明，呼吁国际合作，确保AI始终处于人类控制之下；中国公司DeepSeek本周将向安理会作简报。",
+        "question": "AI立规矩后我的工作更稳吗？",
+        "means": [
+          "未来AI产品可能多一道安全审核",
+          "相关行业招人和创业门槛或提高"
+        ],
+        "note": "联合声明不具约束力，具体规则仍在讨论。"
+      }
+    },
+    {
+      "title": "美国柴油价格创6.53美元新高",
+      "summary": "美国柴油价格升至每加仑6.53美元，创下历史新高。柴油是货运、农业与工业生产的核心燃料，其价格上涨将直接推高物流与制造成本，并进一步传导至终端消费品价格，加大通胀压力。柴油价格高企也反映炼油产能紧张与原油供应受扰，在伊朗战争影响石油运输的背景下，能源成本上行风险短期难以缓解，对运输、农业和制造业利润构成挤压。",
+      "reason": "柴油价格创历史新高，能源成本上行加大通胀压力。",
+      "impact_areas": [
+        "经济金融",
+        "产业"
+      ],
+      "impact_level": "重大",
+      "sources": [
+        {
+          "name": "36氪",
+          "url": "https://www.36kr.com/newsflashes/3994465737772937"
+        }
+      ],
+      "card": {
+        "category": "经济·能源",
+        "headline": "美国柴油价格创历史新高",
+        "what": "美国柴油价格升至每加仑6.53美元，创历史新高；柴油是货运、农业与工业核心燃料，涨价将推高物流与制造成本。",
+        "question": "我买的东西会因此变贵吗？",
+        "means": [
+          "快递和生鲜的运费可能跟着上涨",
+          "制造业成本压力或传导到商品售价"
+        ],
+        "note": "价格受原油供应与炼油产能影响，走势仍不确定。"
+      }
+    },
+    {
+      "title": "沙特重启东西输油管道",
+      "summary": "沙特阿拉伯重启东西向输油管道，并预计最早于周二恢复从红海沿岸延布港的原油出口。该管道横贯沙特东西部，可绕开霍尔木兹海峡，将波斯湾原油输送至红海出口。在伊朗战争扰动中东石油运输的背景下，此举被视为沙特保障出口通道、稳定供应的关键举措，有助于缓解市场对霍尔木兹海峡通行受阻的担忧，并对国际油价形成一定抑制。",
+      "reason": "绕开霍尔木兹的关键出口通道恢复，牵动全球石油供应。",
+      "impact_areas": [
+        "经济金融",
+        "产业"
+      ],
+      "impact_level": "重大",
+      "sources": [
+        {
+          "name": "Reuters",
+          "url": "https://www.reuters.com/business/energy/saudi-arabia-restarts-east-west-oil-pipeline-resume-exports-yanbu-sources-say-2026-09-22/"
+        },
+        {
+          "name": "36氪",
+          "url": "https://www.36kr.com/newsflashes/3994428120715399"
+        }
+      ],
+      "card": {
+        "category": "经济·石油",
+        "headline": "沙特重启管道，绕开霍尔木兹",
+        "what": "沙特重启东西向输油管道，预计最早周二恢复从红海延布港出口原油；该管道可绕开霍尔木兹海峡，把波斯湾原油送到红海。",
+        "question": "国内油价能因此降一点吗？",
+        "means": [
+          "国际油价短期可能少涨一些",
+          "供应通道多一条，长期更抗风险"
+        ],
+        "note": "出口恢复的具体时间与运量以官方公告为准。"
+      }
+    },
+    {
+      "title": "AMD跻身美万亿市值公司",
+      "summary": "芯片热潮推动下，AMD成为美国第14家市值突破万亿美元的上市公司。美国银行报告指出，人工智能正驱动资本持续流入亚洲，万亿美元规模的存储芯片市场有望翻倍。与此同时，英伟达市盈率降至十多年来最低，市场对其盈利能力的持续性存疑。AI产业链估值出现分化，资金从算力龙头向存储、先进封装等环节扩散，反映市场正重新评估AI投资回报与周期风险。",
+      "reason": "AI产业链估值分化，万亿存储市场与算力资本流向受关注。",
+      "impact_areas": [
+        "科技",
+        "经济金融"
+      ],
+      "impact_level": "重大",
+      "sources": [
+        {
+          "name": "雪球热帖",
+          "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1wTC1tUHlsa2ExenY0c294RUdPZElkSEc0S0htN1lsUG1mVEswbGJHZkFMVWxJM0lXMW01UWQxOW5qMUx4ZEx2Y194Z0VkMDBUcGNjNlMxcXQzTTVwVlNGUmxEdDQ4eVlzOHhma0M0VGNHUWNQZ3NHUA?oc=5"
+        },
+        {
+          "name": "财新网",
+          "url": "https://finance.caixin.com/2026-09-22/102487503.html"
+        },
+        {
+          "name": "36氪",
+          "url": "https://www.36kr.com/newsflashes/3994464513249409"
+        }
+      ],
+      "card": {
+        "category": "科技·芯片",
+        "headline": "AMD市值破万亿，芯片热还在",
+        "what": "芯片热潮下，AMD成为美国第14家市值破万亿美元的上市公司；有报告称AI正推动资本流入亚洲，存储芯片市场有望翻倍。",
+        "question": "现在跟风买芯片股还来得及吗？",
+        "means": [
+          "相关基金和科技股波动会更明显",
+          "芯片存储行业招聘需求或继续扩大"
+        ],
+        "note": "机构对AI回报看法分化，行情仍有变数。"
+      }
+    },
+    {
+      "title": "上海产检费用实现个人无自付",
+      "summary": "上海市调整生育医疗费用报销算法，产前检查费用从原先'花费8000元、报销4500元'变为个人无需自付，直接降低孕产妇家庭的经济负担。作为生育支持政策的一部分，该举措与各地陆续推出的育儿补贴、托育服务等措施形成配套。在出生人口持续下滑背景下，降低生育、养育、教育成本成为政策发力重点，对母婴消费、医疗服务等相关行业亦有影响。",
+      "reason": "直接降低生育医疗负担，民生政策落地影响年轻家庭。",
+      "impact_areas": [
+        "社会",
+        "公共卫生"
+      ],
+      "impact_level": "重大",
+      "sources": [
+        {
+          "name": "南方周末",
+          "url": "https://www.infzm.com/contents/331359"
+        }
+      ],
+      "card": {
+        "category": "社会·生育",
+        "headline": "上海产检费用，个人不用自付了",
+        "what": "上海调整生育医疗费用报销算法，产前检查费用从原来花8000元报销4500元，变为个人无需自付，直接降低孕产妇家庭负担。",
+        "question": "其他城市什么时候能跟上？",
+        "means": [
+          "在上海产检能省下一笔实际支出",
+          "育儿补贴和托育服务或继续加码"
+        ],
+        "note": "具体报销范围和执行时间以当地医保部门为准。"
+      }
+    },
+    {
+      "title": "台风杜娟袭日本致5人死亡",
+      "summary": "台风'杜娟'袭击日本，带来创纪录降雨，已造成5人死亡，东京等地交通受阻。日本气象部门发布多项警报，部分地区出现内涝与山体滑坡风险。此次台风是近期影响日本的最强天气系统之一，凸显极端天气频率上升的趋势。灾害对居民出行、物流运输和电力供应造成冲击，也再度引发对城市防灾基础设施与气候变化应对的关注。",
+      "reason": "极端天气致灾，影响出行物流，凸显气候风险。",
       "impact_areas": [
         "生态",
         "社会"
@@ -93,216 +277,29 @@
       "sources": [
         {
           "name": "BBC",
-          "url": "https://www.bbc.co.uk/news/articles/cm3wj2lexl97o?at_medium=RSS&at_campaign=rss"
+          "url": "https://www.bbc.co.uk/news/articles/cm3wj2lexl97o"
+        },
+        {
+          "name": "NYTimes",
+          "url": "https://www.nytimes.com/2026/09/22/world/asia/japan-typhoon-dujuan-tokyo.html"
         }
       ],
       "card": {
-        "category": "生态·台风",
-        "headline": "超强台风杜娟登陆日本",
-        "what": "9月22日超强台风杜娟袭击日本，气象部门敦促数百万人紧急疏散，多地发布避难指示，可能引发洪涝、山体滑坡及大范围交通中断。",
-        "question": "会影响我买的日货发货吗？",
+        "category": "生态·气候",
+        "headline": "台风杜娟袭日，已致5人死亡",
+        "what": "台风杜娟袭击日本，带来创纪录降雨，已造成5人死亡，东京等地交通受阻；部分地区出现内涝与山体滑坡风险。",
+        "question": "近期去日本旅行还安全吗？",
         "means": [
-          "日本方向航班快递或临时延误",
-          "日系车和电子产品供货可能变慢"
+          "赴日航班和物流可能临时延误",
+          "极端天气变多，出行要多留预案"
         ],
-        "note": "物流恢复时间以航空公司与快递公告为准。"
+        "note": "灾害影响仍在变化，出行前请查看最新预警。"
       }
     },
     {
-      "title": "德国17.5万汽车工人抗议裁员",
-      "summary": "德国17.5万名汽车业员工在全国多地集会，抗议企业大规模裁员，呼吁政府加码产业政策。与此同时，德国两州选举中极左与极右势力分别得势，执政的基民盟重挫，总理默茨去留引发党内争论。产业外迁、电动化转型冲击与政治极化相互叠加，欧洲最大经济体的工业根基与政治稳定同时承压。汽车业是德国经济支柱，裁员潮若持续，将波及上下游就业与欧盟产业政策走向。",
-      "reason": "德国汽车业大规模抗议叠加政治右转，欧洲经济与产业格局承压。",
-      "impact_areas": [
-        "产业",
-        "经济金融",
-        "政治"
-      ],
-      "impact_level": "重大",
-      "sources": [
-        {
-          "name": "澎湃新闻",
-          "url": "https://m.thepaper.cn/detail/34122484"
-        },
-        {
-          "name": "财新网",
-          "url": "https://international.caixin.com/2026-09-22/102487288.html"
-        },
-        {
-          "name": "BBC",
-          "url": "https://www.bbc.co.uk/news/articles/cqm27p8enwmko?at_medium=RSS&at_campaign=rss"
-        }
-      ],
-      "card": {
-        "category": "产业·就业",
-        "headline": "德国17.5万汽车工人抗议裁员",
-        "what": "德国17.5万名汽车业员工在全国多地集会，抗议企业大规模裁员，呼吁政府加码产业政策。同期两州选举中极左与极右势力得势，执政的基民盟重挫。",
-        "question": "德国车会不会更便宜甩卖？",
-        "means": [
-          "德系车在华促销力度可能加大",
-          "汽车零部件出口订单面临波动"
-        ],
-        "note": "裁员方案仍在博弈，最终以企业公告为准。"
-      }
-    },
-    {
-      "title": "长生生物疫苗案二审宣判",
-      "summary": "长生生物疫苗案二审判决，原董事长高俊芳获无期徒刑。该案源于2018年长春长生狂犬病疫苗生产记录造假事件，曾引发全国对疫苗安全的强烈关注，公司随后退市。二审维持重判，彰显对公共卫生安全领域违法行为的严惩立场。此案的终审结果对疫苗行业合规经营具有强烈警示意义，也再度引发公众对药品监管长效机制的关注。",
-      "reason": "疫苗安全标志性案件终审重判，对公共卫生监管与行业合规影响深远。",
-      "impact_areas": [
-        "公共卫生",
-        "法律"
-      ],
-      "impact_level": "重大",
-      "sources": [
-        {
-          "name": "财新网",
-          "url": "https://www.caixin.com/2026-09-22/102487302.html"
-        }
-      ],
-      "card": {
-        "category": "社会·法治",
-        "headline": "长生疫苗案终审，原董事长无期",
-        "what": "长生生物疫苗案二审判决，原董事长高俊芳获无期徒刑。该案源于2018年长春长生狂犬病疫苗生产记录造假事件，公司随后退市，二审维持重判。",
-        "question": "以后打疫苗能更放心吗？",
-        "means": [
-          "疫苗生产记录监管预计更严格",
-          "接种可查批号，留意正规渠道"
-        ],
-        "note": "个案判决不直接等于监管全面到位。"
-      }
-    },
-    {
-      "title": "特朗普支持率跌至32%新低",
-      "summary": "路透社与益普索最新民调显示，美国总统特朗普的支持率跌至32%的纪录低点，高物价成为拖累其民意的首要因素。支持率下滑可能削弱其在国会推进议程的能力，并影响中期选举前的政治格局。同一时期，CNN、MS NOW与Politico就白宫对媒体的采访限制提起诉讼，媒体与白宫关系趋紧。内政民意承压与对外政策不确定性叠加，构成全球市场需持续跟踪的政治变量。",
-      "reason": "美国总统支持率创纪录新低，牵动美国政治走向与全球政策预期。",
-      "impact_areas": [
-        "政治"
-      ],
-      "impact_level": "重大",
-      "sources": [
-        {
-          "name": "Reuters",
-          "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOa2xXN3ZZR05LSzJLYVpOTFZTVlJkLWhnZUxnRDVlckVJT0pDN3RDRFJoTnJObVJGY0RYMGJLYUpGT0pNVUlrUFlBTVlzS0hNbUhWNk1lYzBNUEdRYmQwNy04X3ZHQzAzY1NGZDZxVEhsOTl3LWFrcjFDMEJhaUxPS2hlbnlUMkRsYml0bnBkSVBUR3F0YUtXbWxDdnVScmE4dGw1LUhXelhOVVNyVm9YbWRJMXI1R2wybnNz?oc=5"
-        },
-        {
-          "name": "BBC",
-          "url": "https://www.bbc.co.uk/news/articles/cm0e32rwvrryo?at_medium=RSS&at_campaign=rss"
-        }
-      ],
-      "card": {
-        "category": "政治·美国",
-        "headline": "特朗普支持率跌至32%新低",
-        "what": "路透社与益普索最新民调显示，美国总统特朗普支持率跌至32%的纪录低点，高物价是拖累民意的首要因素。同期CNN等媒体就白宫采访限制作出诉讼。",
-        "question": "这会影响我的投资吗？",
-        "means": [
-          "美股和政策预期波动可能加大",
-          "美元资产短期风险偏好受影响"
-        ],
-        "note": "民调为阶段性数据，政策走向仍待观察。"
-      }
-    },
-    {
-      "title": "阿里发布AI芯片真武V900",
-      "summary": "阿里巴巴发布AI芯片真武V900，进一步加码国产算力自研。同期科技进展密集：SpaceXAI发布Grok 4.7模型，Meta智能体Muse迅速走红，OpenAI被曝加紧备战AI智能体，英特尔18A-P进入风险试产阶段、14A进展顺利，龙芯自研通用GPU加速计算平台首个软件版本面世。AI芯片与模型迭代加速，算力自主与智能体商业化成为全球科技竞争焦点，产业链上游价值持续凸显。",
-      "reason": "国产AI芯片与大模型密集迭代，关乎算力自主与AI产业竞争格局。",
-      "impact_areas": [
-        "科技",
-        "产业"
-      ],
-      "impact_level": "重大",
-      "sources": [
-        {
-          "name": "36氪",
-          "url": "https://www.36kr.com/newsflashes/3993996603783940"
-        },
-        {
-          "name": "财新网",
-          "url": "https://www.caixin.com/2026-09-22/102487297.html"
-        },
-        {
-          "name": "36氪",
-          "url": "https://www.36kr.com/newsflashes/3994060775176965"
-        }
-      ],
-      "card": {
-        "category": "科技·AI",
-        "headline": "阿里发布AI芯片真武V900",
-        "what": "阿里巴巴发布AI芯片真武V900，加码国产算力自研。同期SpaceXAI发布Grok 4.7，Meta智能体Muse走红，英特尔18A-P进入风险试产，龙芯自研通用GPU平台首个软件版本面世。",
-        "question": "国产芯片股还能追吗？",
-        "means": [
-          "算力相关岗位和薪资需求上升",
-          "AI应用使用成本有望继续下降"
-        ],
-        "note": "芯片从发布到量产仍有周期，勿盲目跟风。"
-      }
-    },
-    {
-      "title": "美股纳指涨超2% 芯片股大涨",
-      "summary": "美股三大指数高开高走，纳指涨超2%，多只半导体芯片股大涨超10%，AMD成为美国第14家市值突破万亿美元的上市公司。芯片热潮再起，反映市场对AI算力需求的持续乐观。同期A股三大指数上涨，创业板指涨0.93%，港股恒指小幅收涨，主力资金加仓电子、医药生物板块。全球科技股情绪回暖，AI产业链成为资金主攻方向，估值与业绩匹配度或成后续关键变量。",
-      "reason": "美股半导体大涨、AMD市值破万亿，全球AI产业链资金情绪高涨。",
-      "impact_areas": [
-        "经济金融",
-        "科技"
-      ],
-      "impact_level": "重大",
-      "sources": [
-        {
-          "name": "雪球热帖",
-          "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE50Ujl1dmIyRjZOR1VQS3p6S0plbkVTRUd3UkM3UEJULWxTTmZuTUJySFV1WU5mNHBYWkZsYWx5UHlDZmVCbXdpYmd2TENYU2FoNzNKd1NtaEhYcl91aFctb004VjZiVWhXZzN4QlFudnJaZG5pRmYxNQ?oc=5"
-        },
-        {
-          "name": "雪球热帖",
-          "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1wTC1tUHlsa2ExenY0c294RUdPZElkSEc0S0htN1lsUG1mVEswbGJHZkFMVWxJM0lXMW01UWQxOW5qMUx4ZEx2Z194Z0VkMDBUcGNjNlMxcXQzTTVwVlNGUmxEdDQ4eVlzOHhma0M0VGNHUWNQZ3NHUA?oc=5"
-        },
-        {
-          "name": "36氪",
-          "url": "https://www.36kr.com/newsflashes/3994025886301187"
-        }
-      ],
-      "card": {
-        "category": "经济·股市",
-        "headline": "纳指涨超2%，芯片股集体大涨",
-        "what": "美股三大指数高开高走，纳指涨超2%，多只半导体芯片股大涨超10%，AMD成为美国第14家市值突破万亿美元的上市公司。同期A股三大指数上涨，创业板指涨0.93%。",
-        "question": "现在上车还来得及吗？",
-        "means": [
-          "电子医药板块基金净值或回升",
-          "追高买入的短期回撤风险变大"
-        ],
-        "note": "估值与业绩是否匹配是后续关键变量。"
-      }
-    },
-    {
-      "title": "五大国产手机接入地震预警网",
-      "summary": "五大国产主流手机全部接入中国地震预警网，用户在震前可通过手机收到预警信息，为避险争取数秒至数十秒的宝贵时间。地震预警利用地震波传播的时间差提前发出警报，是减少人员伤亡的重要手段。此次主流手机品牌全面接入，意味着地震预警服务的覆盖范围与使用门槛大幅降低，数亿用户将直接受益，是我国防灾减灾体系的重要升级，也体现了手机厂商与公共安全基础设施的深度协同。",
-      "reason": "地震预警接入主流手机，数亿用户直接受益，防灾减灾覆盖大幅提升。",
-      "impact_areas": [
-        "科技",
-        "社会",
-        "公共卫生"
-      ],
-      "impact_level": "重大",
-      "sources": [
-        {
-          "name": "财新网",
-          "url": "https://mini.caixin.com/2026-09-22/102487296.html"
-        }
-      ],
-      "card": {
-        "category": "科技·民生",
-        "headline": "五大国产手机接入地震预警",
-        "what": "五大国产主流手机全部接入中国地震预警网，用户在震前可通过手机收到预警信息，为避险争取数秒至数十秒时间，数亿用户将直接受益。",
-        "question": "我的手机怎么打开预警？",
-        "means": [
-          "震前多出几秒到几十秒避险时间",
-          "需在设置里开启并保持联网定位"
-        ],
-        "note": "预警有盲区，近距离震中可能来不及提示。"
-      }
-    },
-    {
-      "title": "民政部提示防范养老APP诈骗",
-      "summary": "民政部发布关于防范非法养老APP诈骗的提示，明确从未设立民惠通等项目，也未推出相关App。近期有不法分子冒用民政部门名义，以养老服务、补贴发放为幌子，诱导老年人下载非法APP、充值或提供个人信息，实施诈骗。官方提示提醒公众特别是老年群体提高警惕，通过正规渠道核实信息，避免财产损失。随着人口老龄化加深，针对老年人的金融与网络诈骗风险上升，监管与科普需求同步增加。",
-      "reason": "民政部警示冒名养老APP诈骗，直接关系老年群体财产安全。",
+      "title": "多地开展新一轮生育意愿调查",
+      "summary": "多地启动新一轮生育意愿调查，摸底育龄人群的生育计划、顾虑与政策期待，为下一步完善生育支持政策提供依据。调查聚焦经济负担、托育服务、女性就业等影响生育决策的关键因素。在出生人口持续下降、人口老龄化加速的背景下，此类调查通常预示后续政策调整方向，结果将影响育儿补贴、产假制度与公共服务资源配置，与年轻家庭的切身利益密切相关。",
+      "reason": "生育意愿调查预示政策方向，关系年轻家庭切身利益。",
       "impact_areas": [
         "社会",
         "经济金融"
@@ -310,27 +307,23 @@
       "impact_level": "重大",
       "sources": [
         {
-          "name": "36氪",
-          "url": "https://www.36kr.com/newsflashes/3994040835980295"
-        },
-        {
-          "name": "凤凰网",
-          "url": "https://news.ifeng.com/c/8wckyKKDBoS"
+          "name": "澎湃新闻",
+          "url": "https://m.thepaper.cn/detail/34123801"
         }
       ],
       "card": {
-        "category": "社会·反诈",
-        "headline": "民政部提醒：养老APP是骗局",
-        "what": "民政部发布防范非法养老APP诈骗提示，明确从未设立民惠通等项目，也未推出相关App。近期有人冒用民政部门名义，以养老服务、补贴发放为幌子诱导老年人下载充值。",
-        "question": "我爸妈的手机安全吗？",
+        "category": "社会·人口",
+        "headline": "多地启动调查，摸底生育意愿",
+        "what": "多地启动新一轮生育意愿调查，摸底育龄人群的生育计划、顾虑与政策期待，聚焦经济负担、托育服务和女性就业等因素。",
+        "question": "补贴和产假会因此变多吗？",
         "means": [
-          "家里老人可能已收到这类链接",
-          "帮忙核对APP来源并关闭免密支付"
+          "育儿补贴和产假制度或有新调整",
+          "托育和女性就业支持可能更受重视"
         ],
-        "note": "涉及转账一律先向官方渠道核实。"
+        "note": "调查只提供政策依据，落地时间尚未确定。"
       }
     }
   ],
-  "total_fetched": 253,
-  "generated_at": "2026-09-22T12:26:18.071117+08:00"
+  "total_fetched": 284,
+  "generated_at": "2026-09-22T19:26:44.576890+08:00"
 }
