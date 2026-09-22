@@ -606,5 +606,6 @@ window.Poster = (function () {
     downloadOne,
     downloadDay,
     canvasToBlob,
+    makeZip, saveBlob, // 供其他平台复用导出工具，不复用小红书排版
   };
 })();

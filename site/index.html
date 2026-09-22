@@ -6,7 +6,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>拾闻</title>
     <link rel="icon" type="image/svg+xml" href="favicon.svg">
-    <link rel="stylesheet" href="style.css">
+    <link rel="stylesheet" href="style.css?v=20260922-x">
 </head>
 
 <body>
@@ -82,12 +82,12 @@
             </div>
         </div>
 
-        <!-- 小红书图片预览弹窗 -->
+        <!-- 图片预览弹窗：小红书 / X -->
         <div class="modal-overlay poster-overlay" id="posterOverlay">
             <div class="poster-modal">
                 <div class="poster-head">
                     <div>
-                        <h3 class="poster-title">小红书图片</h3>
+                        <h3 class="poster-title" id="posterTitle">小红书图片</h3>
                         <p class="poster-sub" id="posterSub"></p>
                     </div>
                     <button class="modal-close" id="posterClose" aria-label="关闭">✕</button>
@@ -102,7 +102,7 @@
                     <button class="btn-primary" id="posterSaveOne">保存当前图</button>
                     <button class="btn-ghost" id="posterSaveAll">打包下载全部</button>
                 </div>
-                <p class="poster-hint">长按或右键图片可直接保存 · 1080×1440，适配小红书 3:4</p>
+                <p class="poster-hint" id="posterHint">长按或右键图片可直接保存 · 1080×1440，适配小红书 3:4</p>
             </div>
         </div>
     </div>
@@ -111,8 +111,9 @@
     <div id="toast" class="toast hidden"></div>
 
     <script src="data/all-data.js"></script>
-    <script src="poster.js?v=20260921-restore0917"></script>
-    <script src="app.js?v=20260921-restore0917"></script>
+    <script src="poster.js?v=20260922-x"></script>
+    <script src="poster-x.js?v=20260922-x"></script>
+    <script src="app.js?v=20260922-x"></script>
 </body>
 
 </html>

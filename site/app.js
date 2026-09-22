@@ -108,6 +108,15 @@
     return `<div class="empty-state"><p>${msg}</p></div>`;
   }
 
+  function makeXExportButton(date) {
+    const button = document.createElement("button");
+    button.type = "button";
+    button.className = "btn-poster btn-x-export";
+    button.textContent = "X 四图打包";
+    button.addEventListener("click", () => openXPosterForDay(date));
+    return button;
+  }
+
   /** 某一天的分组标题，右侧是整天打包导出按钮 */
   function renderDayGroupHead(date, count) {
     const head = document.createElement("div");
@@ -115,9 +124,10 @@
     head.innerHTML = `
       <span class="day-group-date">${date}</span>
       <span class="day-group-count">${count} 条</span>
-      <button class="btn-poster" type="button">🖼 整天打包</button>
+      <div class="day-export-actions"><button class="btn-poster" type="button">🖼 小红书打包</button></div>
     `;
     head.querySelector(".btn-poster").addEventListener("click", () => openPosterForDay(date));
+    head.querySelector(".day-export-actions").appendChild(makeXExportButton(date));
     return head;
   }
 
@@ -145,7 +155,7 @@
     if (e.key === "Escape") modalOverlay.classList.remove("active");
   });
 
-  // ── 小红书图片导出 ────────────────────────────
+  // ── 小红书 / X 图片导出 ────────────────────────────
   // 按日期缓存当天全部新闻，用于计算页码和整天打包
   const newsByDate = {};
 
@@ -158,6 +168,9 @@
   const posterSaveOne = document.getElementById("posterSaveOne");
   const posterSaveAll = document.getElementById("posterSaveAll");
   const posterClose = document.getElementById("posterClose");
+  const posterTitle = document.getElementById("posterTitle");
+  const posterHint = document.getElementById("posterHint");
+  let posterExportBusy = false;
 
   // 当前预览状态
   let pState = { canvases: [], names: [], idx: 0, date: "", mode: "single" };
@@ -184,9 +197,16 @@
     posterNext.style.display = multi ? "" : "none";
     posterPrev.disabled = pState.idx === 0;
     posterNext.disabled = pState.idx === pState.canvases.length - 1;
-    posterSaveAll.style.display = multi ? "" : "none";
+    const isX = pState.mode === "x";
+    posterSaveAll.style.display = multi || isX ? "" : "none";
+    posterTitle.textContent = isX ? "X 图片简报" : "小红书图片";
+    posterHint.textContent = isX
+      ? "下载 ZIP 后解压，将图片按编号上传到同一条 X 帖子 · 1200×1600"
+      : "长按或右键图片可直接保存 · 1080×1440，适配小红书 3:4";
+    posterSaveAll.disabled = posterSaveOne.disabled = posterExportBusy;
+    if (!posterExportBusy) posterSaveAll.textContent = isX ? `打包下载 ${pState.canvases.length} 张 X 图片` : "打包下载全部";
     posterSub.textContent = `${pState.date} · 第 ${pState.idx + 1}/${pState.canvases.length} 张` +
-      (pState.mode === "day" ? "（含封面与结尾卡）" : "");
+      (pState.mode === "day" ? "（含封面与结尾卡）" : isX ? ` · ${pState.totalNews} 条新闻，按 ${pState.distribution} 排版` : "");
   }
 
   function openPosterModal() {
@@ -246,6 +266,24 @@
     }
   }
 
+  /** X 独立排版：全量新闻均分至最多四张，不额外生成封面。 */
+  function openXPosterForDay(date) {
+    if (!window.XPoster || !window.Poster) { showToast("X 图片模块未加载，请刷新后重试"); return; }
+    const dayNews = newsByDate[date] || [];
+    try {
+      const canvases = XPoster.renderDay(dayNews, date);
+      pState = {
+        canvases, names: canvases.map((_, i) => XPoster.filename(date, i)),
+        idx: 0, date, mode: "x", totalNews: dayNews.length,
+        distribution: XPoster.groupNews(dayNews).map(p => p.items.length).join("＋"),
+      };
+      openPosterModal();
+    } catch (err) {
+      console.error("生成 X 图片失败:", err);
+      showToast(err.message || "生成 X 图片失败");
+    }
+  }
+
   posterPrev.addEventListener("click", () => {
     if (pState.idx > 0) { pState.idx--; renderPosterStage(); }
   });
@@ -265,14 +303,16 @@
 
   posterSaveOne.addEventListener("click", async () => {
     const cv = pState.canvases[pState.idx];
-    if (!cv) return;
-    posterSaveOne.disabled = true;
+    if (!cv || posterExportBusy) return;
+    const filename = pState.names[pState.idx];
+    posterExportBusy = true;
+    posterSaveAll.disabled = posterSaveOne.disabled = true;
     try {
       const blob = await Poster.canvasToBlob(cv);
       const url = URL.createObjectURL(blob);
       const a = document.createElement("a");
       a.href = url;
-      a.download = pState.names[pState.idx];
+      a.download = filename;
       document.body.appendChild(a);
       a.click();
       a.remove();
@@ -282,25 +322,30 @@
       console.error(err);
       showToast("保存失败");
     } finally {
-      posterSaveOne.disabled = false;
+      posterExportBusy = false;
+      if (posterOverlay.classList.contains("active")) renderPosterStage();
     }
   });
 
   posterSaveAll.addEventListener("click", async () => {
-    if (pState.canvases.length < 2) return;
-    posterSaveAll.disabled = true;
-    const original = posterSaveAll.textContent;
+    if (!pState.canvases.length || posterExportBusy) return;
+    // 下载绑定点击时的预览；切换日期或关闭弹窗不改变正在生成的文件。
+    const state = pState;
+    posterExportBusy = true;
+    posterSaveAll.disabled = posterSaveOne.disabled = true;
+    const progress = (done, total) => {
+      if (pState === state) posterSaveAll.textContent = `打包中 ${done}/${total}`;
+    };
     try {
-      await Poster.downloadDay(newsByDate[pState.date] || [], pState.date, (done, total) => {
-        posterSaveAll.textContent = `打包中 ${done}/${total}`;
-      });
+      if (state.mode === "x") await XPoster.downloadPages(state.canvases, state.date, progress);
+      else await Poster.downloadDay(newsByDate[state.date] || [], state.date, progress);
       showToast("已打包下载");
     } catch (err) {
       console.error(err);
-      showToast("打包失败");
+      showToast(err.message || "打包失败");
     } finally {
-      posterSaveAll.textContent = original;
-      posterSaveAll.disabled = false;
+      posterExportBusy = false;
+      if (posterOverlay.classList.contains("active")) renderPosterStage();
     }
   });
 
@@ -361,6 +406,7 @@
     foot.className = "tree-day-actions";
     foot.innerHTML = `<button class="btn-poster" type="button">🖼 整天打包（${newsArr.length + 2} 张）</button>`;
     foot.querySelector(".btn-poster").addEventListener("click", () => openPosterForDay(date));
+    foot.appendChild(makeXExportButton(date));
     list.appendChild(foot);
     node.appendChild(list);
     return node;

@@ -658,7 +658,14 @@ body {
 .day-group-head:first-child { margin-top: 4px; }
 
 /* 日期与条数靠左，导出按钮推到右侧 */
-.day-group-head .btn-poster { margin-left: auto; }
+.day-export-actions { margin-left: auto; display: flex; flex-wrap: wrap; gap: 8px; }
+.day-group-head { flex-wrap: wrap; row-gap: 10px; }
+.tree-day-actions { flex-wrap: wrap; gap: 8px; }
+.btn-x-export { color: var(--text-primary); font-weight: 600; }
+@media (max-width: 480px) {
+    .day-export-actions { width: 100%; margin-left: 0; }
+    .day-export-actions .btn-poster { flex: 1; }
+}
 
 .day-group-date {
     font-size: 0.95rem;
