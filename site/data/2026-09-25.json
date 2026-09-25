@@ -2,67 +2,51 @@
   "date": "2026-09-25",
   "news": [
     {
-      "title": "习近平同特朗普会谈",
-      "summary": "2026年9月25日，中国国家主席习近平在华盛顿同美国总统特朗普举行会谈，并出席特朗普举行的欢迎仪式与欢迎宴会。习近平表示，中美两国利益深度交融，合作空间十分广阔，中美一定能走出一条两个大国的正确相处之道。特朗普称这是一次具有历史意义的访问。双方同意相互支持举办APEC和G20峰会。习近平还宣布将向亚特兰大动物园派遣大熊猫，助力新一轮大熊猫保护国际合作。美国民主党批评此次峰会排场奢华却缺乏实质内容。此次会晤是中美关系的关键节点，涉及贸易、地缘、科技等多重议题，对全球政治经济格局具有深远影响。",
-      "reason": "中美元首会晤，多平台密集报道并跨天发酵，牵动全球政治经济格局。",
+      "title": "习近平访美 中美元首白宫会晤",
+      "summary": "9月25日，习近平主席出席特朗普在白宫举行的欢迎仪式，中美元首举行会晤。习近平表示，中美一定能走出一条两个大国的正确相处之道；特朗普称，今年到访北京感受到中国人民的热情好客，希望以同样热情款待中方，并祝愿美中两国人民拥有更和谐、和平与繁荣的未来。白宫方面称各界人士齐聚一堂欢迎习主席到访。此次会晤发生在中美贸易、关税与科技博弈持续的背景下，元首外交被视为管控分歧、稳定双边关系的关键窗口，对全球供应链、资本市场与地缘政治走向具有重要指引意义。",
+      "reason": "中美元首白宫会晤，多平台密集报道，牵动全球贸易、市场与地缘格局，属最高热度事件。",
       "impact_areas": [
         "政治",
-        "经济金融",
-        "地缘"
+        "地缘",
+        "经济金融"
       ],
       "impact_level": "现象级",
       "sources": [
         {
-          "name": "澎湃新闻",
-          "url": "https://m.thepaper.cn/detail/34147373"
+          "name": "央视网",
+          "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5EZzhXUXVDVlV5cGJTSmN3T3ZMdHpjYjdIb19wTFRhTVktUDQ2SGxBTk9BT2dqQVlzdm55b1E1dTU0YkRJaTNyMlBNZGd2NHd0WTd3bkExbHl1OWlzTnp1Z3dIalZ2NjllZ3VIV01FREplVFJaMExvUA?oc=5"
         },
         {
-          "name": "澎湃新闻",
-          "url": "https://m.thepaper.cn/detail/34147793"
-        },
-        {
-          "name": "Reuters",
-          "url": "https://www.reuters.com/world/china/trump-xi-agreed-support-each-other-hosting-apec-g20-summits-xinhua-reports-2026-09-24/"
-        },
-        {
-          "name": "Reuters",
-          "url": "https://www.reuters.com/legal/government/us-democrats-criticize-lavish-trump-xi-summit-lacking-substance-2026-09-24/"
-        },
-        {
-          "name": "NYTimes",
-          "url": "https://www.nytimes.com/2026/09/24/us/politics/xi-summit-pandas-atlanta-zoo.html"
+          "name": "BBC",
+          "url": "https://www.bbc.co.uk/news/articles/cr93e4x7kdjjo?at_medium=RSS&at_campaign=rss"
         },
         {
           "name": "凤凰网",
-          "url": "https://original.ifeng.com/c/8wgwsYAw52o"
+          "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE95YVljSzJwa1ZvV283MVpucS1DZHNrS3hxTGVBZ0l0SWNlc1pnbnVCNXhvbG1NbGx0MlRiTTZoNlFnUldaVEVqLXBLWkc?oc=5"
         }
       ],
       "card": {
         "category": "政治·外交",
-        "headline": "中美元首会晤，大熊猫将赴美",
-        "what": "9月25日，习近平在华盛顿同特朗普举行会谈，双方同意相互支持举办APEC和G20峰会。",
-        "question": "关系缓和后，海淘会便宜点吗？",
+        "headline": "中美元首白宫会晤，牵动市场",
+        "what": "9月25日，习近平主席出席特朗普在白宫举行的欢迎仪式，中美元首举行会晤，双方均表达改善关系的意愿。",
+        "question": "关税会跟着降下来吗？",
         "means": [
-          "进口商品和留学机票价格可能更稳",
-          "外贸和跨境电商岗位需求或回暖"
+          "进口商品和海淘价格可能更稳",
+          "外贸、航运的订单更好预期"
         ],
-        "note": "会谈成果多为方向性表态，具体落实待后续谈判。"
+        "note": "元首会晤多定方向，具体关税安排仍待后续磋商。"
       }
     },
     {
-      "title": "内塔尼亚胡联大演讲多国退场",
-      "summary": "2026年9月24日至25日，以色列总理内塔尼亚胡在联合国大会发表演讲，将批评以色列者称为'道德懦夫'，数十名各国代表在其演讲开始前集体退场以示抗议。演讲期间，场外有演员和政治人士因抗议被警方逮捕。纽约市长候选人马姆达尼指责内塔尼亚胡散布'毫无根据的谎言'。与此同时，巴勒斯坦总统阿巴斯因遭美国拒签，改以视频方式在联大控诉以色列。此次退场事件凸显以色列在国际社会日益孤立，加沙问题持续撕裂国际舆论，也令联合国这一多边平台的效力再受质疑。",
-      "reason": "联大现场多国代表集体退场，中英文媒体交叉报道，已成国际舆论焦点。",
+      "title": "内塔尼亚胡联大演讲 多国代表退场",
+      "summary": "9月25日，以色列总理内塔尼亚胡在联合国大会发表演讲，抨击以色列的批评者为道德懦夫，并强调以色列面临的安全威胁。演讲期间，多国代表集体退场以示抗议；美国纽约市长候选人曼达尼随后指责内塔尼亚胡散布毫无根据的谎言，内塔尼亚胡则在演讲中点名批评曼达尼。此番交锋发生在加沙冲突持续、国际社会对以压力上升之际，反映联合国框架下围绕巴以问题的严重分裂，对中东停火谈判与人道局势前景构成影响。",
+      "reason": "联大演讲现场多国代表退场，成为国际舆论焦点，凸显巴以问题上的深度分裂。",
       "impact_areas": [
-        "政治",
-        "地缘"
+        "地缘",
+        "政治"
       ],
-      "impact_level": "现象级",
+      "impact_level": "重大",
       "sources": [
-        {
-          "name": "凤凰网",
-          "url": "https://news.ifeng.com/c/8whLwDmSZ2P"
-        },
         {
           "name": "BBC",
           "url": "https://www.bbc.co.uk/news/articles/c3y0z7kxlegdo?at_medium=RSS&at_campaign=rss"
@@ -72,72 +56,102 @@
           "url": "https://www.bbc.co.uk/news/videos/cqwyzmpm3pgdo?at_medium=RSS&at_campaign=rss"
         },
         {
-          "name": "Reuters",
-          "url": "https://www.reuters.com/world/middle-east/dozens-delegates-walk-out-un-hall-start-netanyahu-speech-2026-09-24/"
-        },
-        {
           "name": "NYTimes",
           "url": "https://www.nytimes.com/2026/09/24/world/middleeast/netanyahu-israel-un.html"
         }
       ],
       "card": {
         "category": "地缘·中东",
-        "headline": "以总理联大演讲，多国代表退场",
-        "what": "9月24日至25日，以色列总理内塔尼亚胡在联大发表演讲，数十名各国代表集体退场抗议。",
-        "question": "中东局势会影响我的油价吗？",
+        "headline": "内塔尼亚胡联大演讲，多国退场",
+        "what": "9月25日，以色列总理内塔尼亚胡在联合国大会发表演讲，抨击批评者，多国代表集体退场表示抗议。",
+        "question": "加沙的仗还要打多久？",
         "means": [
-          "国际油价和机票价格可能继续波动",
-          "相关航线运费与保险成本或上涨"
+          "油价和飞中东的机票可能又波动",
+          "在该地区的务工出行要更谨慎"
         ],
-        "note": "以色列的国际处境仍在变化，局势存在反复。"
+        "note": "停火谈判仍在多方博弈，进展以官方消息为准。"
       }
     },
     {
-      "title": "美伊磋商重开霍尔木兹海峡",
-      "summary": "2026年9月24日，据消息人士透露，美国与伊朗正就一项分阶段协议展开磋商，内容包括重新开放霍尔木兹海峡并结束美国对伊朗的海上封锁。霍尔木兹海峡是全球最重要的石油运输通道，约五分之一的世界石油贸易经此通过。此前美伊冲突导致该海峡通行受阻，全球油价与航运成本受到严重冲击。伊朗总统同时喊话美国，希望在美中期选举前达成协议。若协议达成，将明显缓解全球能源供应紧张局面；若磋商破裂，海峡梗阻风险将持续推高油价，直接传导至各国成品油与运输成本。",
-      "reason": "霍尔木兹海峡重开谈判直接关系全球石油供应与油价，属重大消息面信号。",
+      "title": "伊朗提出七天结束战争方案",
+      "summary": "9月25日，伊朗总统表示，是否结束伊朗战争取决于美国的选择，并称已提出一项为期7天的结束战争方案。报道显示，该方案包含分阶段停火与后续谈判安排，目前美方尚未正式回应。伊朗战争已持续多日，对中东安全、全球能源供应与油价构成持续扰动。若停火取得进展，将缓解霍尔木兹海峡航运风险与原油供应担忧；若谈判破裂，冲突外溢可能进一步推高能源价格并加剧地区动荡，牵动全球通胀与资产定价。",
+      "reason": "伊朗抛出停战方案，中英文媒体交叉报道，直接关系中东局势与全球能源供应。",
       "impact_areas": [
         "地缘",
         "经济金融",
-        "产业"
+        "能源"
       ],
       "impact_level": "重大",
       "sources": [
         {
-          "name": "Reuters",
-          "url": "https://www.reuters.com/world/asia-pacific/us-iran-discuss-phased-deal-reopen-hormuz-end-us-blockade-sources-say-2026-09-24/"
+          "name": "NYTimes",
+          "url": "https://www.nytimes.com/2026/09/24/world/middleeast/iran-proposal.html"
         },
         {
-          "name": "凤凰网",
-          "url": "https://original.ifeng.com/c/8whDD6ZSENO"
+          "name": "Reuters",
+          "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOb21pSm1ydXhYbXJ1SFNldm9vNm5nS0t3bmhGczZBS1Vfd3QwMTRJcnExUUY5cXh1OEZ4aDVSbDE2eFAtYk03Y0RfS1VROXZSV21mWkNwRUdjYWxqa2dzNVpVbWVxNGxEalNZc01qa3JVa1FGd3JVbXY4Ujdtb1dQcWFFdlVEUngyZng4WTlMZjhEa2dJVGY5OHhqNXFpZGxxVlFWLWl5d3FtNGV4aXdpYWVYaWQtMFI0dmc?oc=5"
         }
       ],
       "card": {
         "category": "地缘·能源",
-        "headline": "美伊谈海峡重开，油价有望降温",
-        "what": "9月24日消息，美伊正磋商分阶段协议，拟重新开放霍尔木兹海峡并结束美方海上封锁。",
-        "question": "国内油价下周会降吗？",
+        "headline": "伊朗提出七天停战方案",
+        "what": "9月25日，伊朗总统称战争是否结束取决于美国的选择，已提出为期7天的结束战争方案，美方尚未正式回应。",
+        "question": "油价这次会涨还是会跌？",
         "means": [
-          "加油和物流成本有望回落一些",
-          "若油价再涨，快递和机票会跟涨"
+          "加油和物流成本可能跟着波动",
+          "机票与化工品价格也会受牵连"
         ],
-        "note": "磋商尚未达成协议，最终结果以官方消息为准。"
+        "note": "美方尚未回应，方案能否落地仍不确定。"
       }
     },
     {
-      "title": "胡塞武装袭击沙特阿美设施",
-      "summary": "2026年9月24日，也门胡塞武装宣称对沙特首都利雅得及红海沿岸城市延布的阿美石油设施发动袭击。沙特官员表示，沙特防空系统击落了针对王国的胡塞导弹。延布是沙特重要的炼油与原油出口枢纽，阿美设施此前多次成为袭击目标。此次袭击发生在美国与伊朗就霍尔木兹海峡问题磋商之际，令中东安全局势进一步复杂化。若袭击造成实质产能损失，将直接冲击国际油价与地区原油供应的稳定性，并抬升全球航运与保险费率。",
-      "reason": "沙特阿美关键设施遇袭叠加海峡谈判，直接牵动国际油价与能源供应。",
+      "title": "美债收益率创数十年新高",
+      "summary": "9月25日，美国长期国债收益率升至数十年高点，超过2008年金融危机时期水平，美元指数连续第五个交易日上涨。长端利率飙升反映市场对美国财政赤字扩张、通胀黏性与债务供给压力的担忧，同时推高全球融资成本。对新兴市场而言，美元走强与美债收益率上行将加大资本外流与货币贬值压力；对股票与债券市场，估值分母抬升压制风险资产表现，黄金等避险资产价格亦受牵动。这是全球资产定价的关键信号，值得投资者高度关注。",
+      "reason": "美债长端收益率突破金融危机时期高点，美元五连涨，属极端比价与资金流向信号。",
       "impact_areas": [
-        "地缘",
-        "经济金融",
-        "产业"
+        "经济金融"
       ],
       "impact_level": "重大",
       "sources": [
         {
-          "name": "Reuters",
-          "url": "https://www.reuters.com/world/middle-east/houthis-say-they-attacked-riyadh-aramco-facilities-yanbu-2026-09-24/"
+          "name": "雪球热帖/新浪财经",
+          "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQLXRyWFh1UkVVVGh3dTZjZWQyYnlOQ3FXNUlxV3dsNzFTQ3FvQUxBSGFfM1VSblpkeXFEalpUa2toOVo4MTFsUVFjVFFvVHp0ODFSSTlhYlJpUTRKTy1XMldKV2tOSS1SVVpmRmNxcGktc2pDWDJrWnlIaklQWGRmVHBnSGtIQXFfRThoeUJYRzRSZW53c0VLb2lOY3U?oc=5"
+        },
+        {
+          "name": "雪球热帖/新浪财经",
+          "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQcVlqbEttQ0MzajRhVFllRnJhS183WjFvNEFZbHZUOHRCMnY4QkFWYjRjd3RGNGZyWjVvUVJZMkR4aVhFTlFaZWhva0VxX3cwMThfTm1EMXJCTnJqZlhmbG12eFlWMy1uOEl4Um5QRml1Mm9Xb2xscVNLQXNPVXNXcEZkTllSNzRIeDEtYw?oc=5"
+        }
+      ],
+      "card": {
+        "category": "经济·债市",
+        "headline": "美债收益率创数十年新高",
+        "what": "9月25日，美国长期国债收益率升至数十年高点，超过2008年金融危机时期水平，美元指数连续第五个交易日上涨。",
+        "question": "我的存款和理财会受影响吗？",
+        "means": [
+          "手里有美元资产的人收益或变高",
+          "A股和海外基金短期可能承压"
+        ],
+        "note": "利率高位持续多久，取决于通胀与美联储操作。"
+      }
+    },
+    {
+      "title": "法国倡议G7释放战略石油储备",
+      "summary": "9月25日，法国拟召集七国集团成员国，商讨联合释放战略石油储备。此举旨在应对中东冲突升级导致的原油供应风险与价格波动，稳定国际油市。同期，法国宣布向沙特派遣士兵协助保护能源设施，沙特方面称击落针对其境内的胡塞武装导弹。释放战略储备属于国家级市场干预，若G7达成一致，将直接影响全球原油供需与油价走势，并对下游化工、运输及通胀预期产生传导效应，是重要的政策面信号。",
+      "reason": "G7拟联合释放战略储备属国家级市场干预，叠加中东能源设施受威胁，直接影响油价。",
+      "impact_areas": [
+        "经济金融",
+        "能源",
+        "地缘"
+      ],
+      "impact_level": "重大",
+      "sources": [
+        {
+          "name": "36氪",
+          "url": "https://www.36kr.com/newsflashes/3998150216765314"
+        },
+        {
+          "name": "NYTimes",
+          "url": "https://www.nytimes.com/2026/09/24/world/middleeast/france-saudi-arabia-red-sea-yemen-houthis.html"
         },
         {
           "name": "NYTimes",
@@ -145,51 +159,21 @@
         }
       ],
       "card": {
-        "category": "地缘·能源",
-        "headline": "沙特石油设施遇袭，油价又添变数",
-        "what": "9月24日，也门胡塞武装称袭击沙特利雅得与延布的阿美石油设施，沙特称已击落导弹。",
-        "question": "这次袭击会让油价涨多少？",
+        "category": "能源·油价",
+        "headline": "G7拟联手释放战略石油储备",
+        "what": "9月25日，法国拟召集七国集团商讨联合释放战略石油储备，以应对中东冲突引发的原油供应风险。",
+        "question": "国内油价会因此降下来吗？",
         "means": [
-          "成品油和化工原料价格可能走高",
-          "航运保险上涨会传导到进口商品"
+          "加油成本可能少涨一点",
+          "化工、运输行业成本压力或缓解"
         ],
-        "note": "袭击是否造成实质产能损失尚无定论。"
+        "note": "释放储备需G7达成一致，落地时间和规模待定。"
       }
     },
     {
-      "title": "美长期国债收益率创数十年新高",
-      "summary": "2026年9月24日纽约汇市，美元指数录得五连涨，美国长期国债收益率升至数十年来的高点。市场对美国财政赤字扩张、通胀韧性以及降息节奏的预期反复，推动长端利率持续上行。与此同时，美国财政部国债回购操作再次未达上限，仅购入约40.8亿美元国债，显示流动性操作力度受限。长端收益率飙升将抬高全球融资成本、压制风险资产估值，并通过汇率渠道对新兴市场货币形成压力，是当前全球金融市场最重要的定价信号之一。",
-      "reason": "美债长端收益率创数十年新高，是全球资产定价与融资成本的关键信号。",
-      "impact_areas": [
-        "经济金融"
-      ],
-      "impact_level": "重大",
-      "sources": [
-        {
-          "name": "新浪财经",
-          "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQLXRyWFh1UkVVVGh3dTZjZWQyYnlOQ3FXNUlxV3dsNzFTQ3FvQUxBSGFfM1VSblpkeXFEalpUa2toOVo4MTFsUVFjVFFvVHp0ODFSSTlhYlJpUTRKTy1XMldKV2tOSS1SVVpmRmNxcGktc2pDWDJrWnlIaklQWGRmVHBnSGtIQXFfRThoeUJYRzRSZW53c0VLb2lOY3U?oc=5"
-        },
-        {
-          "name": "新浪财经",
-          "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNdGlFTzVwTmdmOC12UURjeUQ4cWFCWWFSd3lTWXBIU1RYU3FvU2JmRzJuVmE2RFNXNVNPbFY4VlEyM2U3eEhsSVpjZUhiRHJjUFktSnM3TVdYOEJrUFduX0xtLVp0a0p1c182cUxrVTItazkwWk11dTFuZUFWQ19sMnJZc2hqNFVnUnJRN1BjZm9PMlVtUWIxbEs3bWw?oc=5"
-        }
-      ],
-      "card": {
-        "category": "经济·美债",
-        "headline": "美债收益率飙升，全球借钱更贵",
-        "what": "9月24日纽约汇市，美元指数录得五连涨，美国长期国债收益率升至数十年来高点。",
-        "question": "我的理财和房贷会受影响吗？",
-        "means": [
-          "美元理财收益走高，人民币承压",
-          "全球融资变贵，股市估值或被压制"
-        ],
-        "note": "收益率走势取决于通胀与降息节奏，仍有反复。"
-      }
-    },
-    {
-      "title": "澳联大披露OpenAI遭入侵",
-      "summary": "2026年9月24日，澳大利亚选择在联合国大会这一全球最大政治舞台披露OpenAI遭受黑客入侵的事件。此举被视为澳总理推动中等强国联合、加强人工智能治理的组成部分。事件凸显先进AI系统面临的安全漏洞风险，以及各国在AI监管上的分歧与博弈。随着AI能力快速提升，模型安全、数据主权与跨境监管成为国际议程焦点。澳大利亚意在借联大平台推动建立多边AI治理框架，对全球AI产业格局与监管走向具有指向意义，也可能推动各国加速出台AI安全立法。",
-      "reason": "AI安全重大事件在联大披露，叠加多边AI监管博弈，科技权重高。",
+      "title": "谷歌OpenAI等拟建AI标准机构",
+      "summary": "9月25日，有报道称谷歌、OpenAI与Anthropic拟联合组建前沿人工智能标准机构，以协调大模型安全与治理规则。同日另有消息称，OpenAI与Anthropic被要求在完成白宫相关测试前，不得向英国方面分享新模型。此外，特朗普将于9月29日与国会众议院议长及科技企业CEO会面讨论AI议题。多家头部企业推动自律标准、叠加政府审查收紧，显示AI治理进入规则制定关键期，将对模型跨境部署、产业竞争格局与监管立法产生深远影响。",
+      "reason": "头部AI企业拟建标准机构叠加白宫审查，标志AI治理进入规则制定关键期，科技权重高。",
       "impact_areas": [
         "科技",
         "政治"
@@ -197,154 +181,140 @@
       "impact_level": "重大",
       "sources": [
         {
-          "name": "BBC",
-          "url": "https://www.bbc.co.uk/news/articles/cr3eqk15ld14o?at_medium=RSS&at_campaign=rss"
+          "name": "36氪",
+          "url": "https://www.36kr.com/newsflashes/3998168560521345"
         },
         {
-          "name": "NYTimes",
-          "url": "https://www.nytimes.com/live/2026/09/24/world/un-general-assembly-news/australias-prime-minister-aims-to-rally-middle-powers-and-rein-in-ai"
+          "name": "36氪",
+          "url": "https://www.36kr.com/newsflashes/3998199026274437"
+        },
+        {
+          "name": "Reuters",
+          "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPSUNPVzNoNDJiWUNfY2hyZTNBT3pJS2kwUWk0Nk9UT0dTenZkTE5acXJaX0V4QXVMWXdwRVZEeVY3Y09HUTZqN2VPYUI0elhjY0RwRHFLTnFsSlNhdGgxUXJ2OE5pVHcyWUFBaWljNThLdUtqOFUzeHU2NjIyS3czT0hsVDdyQVFtemZIX0o2cTR5WGlTVXNnMUdOUUp0bm5PeFZQLXg5Uk81T3FJMmxn?oc=5"
         }
       ],
       "card": {
         "category": "科技·AI",
-        "headline": "AI模型遭入侵，澳洲通报联大",
-        "what": "9月24日，澳大利亚在联合国大会披露OpenAI遭黑客入侵，推动多边人工智能治理。",
-        "question": "我用的AI工具还安全吗？",
+        "headline": "多家AI巨头拟共建标准机构",
+        "what": "9月25日，有报道称谷歌、OpenAI与Anthropic拟联合组建前沿人工智能标准机构，协调大模型安全与治理规则。",
+        "question": "我用的AI会变贵还是更安全？",
         "means": [
-          "常用AI服务的隐私风险在上升",
-          "各国加快立法，行业门槛将提高"
+          "新模型上线和更新可能变慢",
+          "AI产品涨价或分区域开放"
         ],
-        "note": "入侵细节与影响范围尚未公开，待后续披露。"
+        "note": "企业标准与政府审查仍在博弈，细则尚未公布。"
       }
     },
     {
-      "title": "欧洲警告俄混合攻击升级",
-      "summary": "2026年9月24日，波兰称境内一处Starlink卫星通信站发生火灾，认定为蓄意破坏，丹麦亦警告俄罗斯威胁上升。欧盟机构发布报告称，欧洲需在防务投入上实现'决定性转变'，以应对俄罗斯威胁。北约最高指挥官表示，北约已加强针对俄罗斯威胁的情报共享。芬兰领导人呼吁马斯克协助乌克兰打击俄罗斯导弹发射装置。系列事件显示，俄罗斯针对欧洲的混合战（破坏、网络攻击、能源施压）持续升级，而欧洲在识别与反制手段上仍显不足，防务一体化进程面临考验。",
-      "reason": "欧洲多地遭疑似俄混合攻击，北约加强情报共享，地缘安全风险上升。",
+      "title": "北京出台住房销售改革细则",
+      "summary": "9月25日，北京出台商品住房销售制度改革细则，对商品住房销售环节的定价、备案、信息公示等作出新规定。细则旨在增强交易透明度、规范开发企业与中介行为，稳定市场预期。作为一线城市，北京住房销售制度调整具有风向标意义，可能影响新房定价机制、购房者权益保障与二手房市场联动，对房地产企业销售策略和居民购房决策产生直接影响，也被视为房地产调控向长效机制转型的探索，后续其他城市或跟进。",
+      "reason": "一线城市住房销售制度改革，直接关系居民购房与房价机制，民生影响明确。",
       "impact_areas": [
-        "地缘",
-        "政治"
-      ],
-      "impact_level": "重大",
-      "sources": [
-        {
-          "name": "BBC",
-          "url": "https://www.bbc.co.uk/news/articles/cmp30r1klk37o?at_medium=RSS&at_campaign=rss"
-        },
-        {
-          "name": "NYTimes",
-          "url": "https://www.nytimes.com/2026/09/24/world/europe/russia-europe-warning-ukraine-war.html"
-        },
-        {
-          "name": "Reuters",
-          "url": "https://www.reuters.com/world/nato-steps-up-intelligence-sharing-over-russia-threat-top-commander-says-2026-09-24/"
-        },
-        {
-          "name": "Reuters",
-          "url": "https://www.reuters.com/business/aerospace-defense/finnish-leader-pleads-with-musk-help-ukraine-hit-russian-missile-launchers-2026-09-24/"
-        }
-      ],
-      "card": {
-        "category": "地缘·欧洲",
-        "headline": "欧洲多地遭破坏，北约提高警戒",
-        "what": "9月24日，波兰称境内一处Starlink卫星通信站起火，认定为蓄意破坏，丹麦警告俄威胁上升。",
-        "question": "俄欧紧张会推高机票和物价吗？",
-        "means": [
-          "欧洲航线机票和能源价格或上涨",
-          "中欧班列和跨境物流成本需留意"
-        ],
-        "note": "更多事件仍在调查中，定性以官方结论为准。"
-      }
-    },
-    {
-      "title": "阿巴斯承诺巴勒斯坦议会选举",
-      "summary": "2026年9月24日，巴勒斯坦总统阿巴斯在联合国大会发表视频讲话，承诺举行20年来首次巴勒斯坦议会选举，并重申推动巴勒斯坦建国的诉求。由于遭美国拒签，阿巴斯无法亲临联大现场。外界对选举能否真正举行普遍存疑，因加沙战事未息、巴内部派别分裂、约旦河西岸局势紧张。此次表态被视为巴方争取国际支持、回应多国承认巴勒斯坦国浪潮的外交努力，但落实前景面临多重障碍，也关系到巴勒斯坦内部权力结构与未来政治走向。",
-      "reason": "巴方承诺20年来首次议会选举，牵动巴以局势与中东政治走向。",
-      "impact_areas": [
-        "政治",
-        "地缘"
-      ],
-      "impact_level": "重大",
-      "sources": [
-        {
-          "name": "Reuters",
-          "url": "https://www.reuters.com/world/europe/abbas-pledges-first-palestinian-parliamentary-vote-20-years-doubts-mount-2026-09-24/"
-        },
-        {
-          "name": "NYTimes",
-          "url": "https://www.nytimes.com/2026/09/24/world/middleeast/abbas-general-assembly-palestinians.html"
-        },
-        {
-          "name": "凤凰网",
-          "url": "https://news.ifeng.com/c/8whG4K4XrQL"
-        }
-      ],
-      "card": {
-        "category": "政治·中东",
-        "headline": "阿巴斯承诺重启巴议会选举",
-        "what": "9月24日，巴勒斯坦总统阿巴斯在联大视频讲话中承诺举行20年来首次议会选举。",
-        "question": "巴以局势会影响中东油价吗？",
-        "means": [
-          "中东局势反复，油价波动难避免",
-          "选举若落空，地区不确定性延续"
-        ],
-        "note": "选举能否举行取决于加沙战事与内部派别分歧。"
-      }
-    },
-    {
-      "title": "哥伦比亚宣布与伊朗断交",
-      "summary": "2026年9月25日，哥伦比亚宣布与伊朗断绝外交关系。此举发生在中东局势持续紧张、伊朗与多国摩擦加剧的背景下。断交将影响两国政治、经贸与人员往来，并可能带动拉美国家在中东问题上的立场分化。哥伦比亚此举被视为对伊朗相关行为的强烈回应，也为本已复杂的地缘格局增添新的变量，可能进一步影响地区外交结盟与能源合作走向。",
-      "reason": "又一个国家与伊朗断交，反映伊朗外交孤立加剧，地缘影响外溢至拉美。",
-      "impact_areas": [
-        "政治",
-        "地缘"
+        "经济金融",
+        "社会"
       ],
       "impact_level": "重大",
       "sources": [
         {
           "name": "澎湃新闻",
-          "url": "https://m.thepaper.cn/detail/34147804"
+          "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5ka3dzR2VVcm92UWFsWDNEMHFYSFdUSDZjYTltb01IQ1NzTXV4ZU9EQ0VoQzZXdDRzeDlhVkJWSzJ2OXUwUGJLSlpPNDlxaDdfMzZCaGxBb2RTX2RxQk9ESg?oc=5"
         }
       ],
       "card": {
-        "category": "地缘·外交",
-        "headline": "哥伦比亚宣布与伊朗断交",
-        "what": "9月25日，哥伦比亚宣布与伊朗断绝外交关系，此前中东局势持续紧张。",
-        "question": "伊朗被孤立会影响我的油费吗？",
+        "category": "政策·住房",
+        "headline": "北京住房销售制度出新细则",
+        "what": "9月25日，北京出台商品住房销售制度改革细则，对定价、备案、信息公示等作出新规定，意在增强交易透明度。",
+        "question": "我买房的价格会更透明吗？",
         "means": [
-          "中东原油供应不稳，油价易涨难跌",
-          "拉美方向的贸易和人员往来或受阻"
+          "新房报价和优惠更透明可查",
+          "二手房联动与城市跟进值得留意"
         ],
-        "note": "断交的具体原因与后续措施仍待官方说明。"
+        "note": "具体执行细则以北京市官方发布为准。"
       }
     },
     {
-      "title": "日元跌破159干预风险上升",
-      "summary": "2026年9月24日，花旗发布报告指出，日元兑美元若跌破159关口，将显著增加日本当局入市干预的风险。近期美元持续走强、美债长端收益率攀升，日元承压下行，逼近此前触发日本当局干预的关键水平。日元贬值推高日本进口成本与国内通胀压力，也加剧全球套息交易与跨境资本流动的波动。若日本当局再度入场干预，可能引发汇市剧烈震荡，并对全球风险资产、出口企业利润和跨境资金流向产生连锁影响，对赴日消费与外贸结算人群亦有直接牵动。",
-      "reason": "日元逼近干预红线，汇率异动关系全球资本流动与居民换汇消费成本。",
+      "title": "京港高铁雄商段28日开通",
+      "summary": "9月25日，京港高铁雄安至商丘段宣布将于9月28日开通运营，最快2小时27分可达。该段线路是京港（台）通道的重要组成部分，连接雄安新区与豫东地区，将显著缩短沿线城市间通行时间，便利通勤与商务出行。新线开通有助于完善华北高铁网络、带动沿线区域经济与人员流动，对雄安新区建设及中部地区融入京津冀协同发展具有支撑作用，沿线居民出行成本与时间将明显下降，是直接的出行民生利好。",
+      "reason": "新高铁线开通缩短通行时间，直接影响沿线居民出行与区域经济，民生属性突出。",
       "impact_areas": [
-        "经济金融"
+        "社会",
+        "产业"
       ],
       "impact_level": "重大",
       "sources": [
         {
-          "name": "新浪财经",
-          "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPOFpRd1cwQWxfMFltMVpnbm5XeTdUdDFXM3ZDRm9mc1doc0hmM1VabWtXVTltRFp3ckpyX1hRYVhnZ2NLTVdLOEJJYnVXTG03NERUbGczeEJQaFRFZDV2bVJQck5LRUJ3QWlLV0syUVZiWU9MWEhlWDAxRXYyXzVxb1hoT05fcEVkcWdOamdxUUdlRE5ab09FeTBTZks?oc=5"
+          "name": "36氪",
+          "url": "https://www.36kr.com/newsflashes/3998256935932035"
         }
       ],
       "card": {
-        "category": "经济·汇率",
-        "headline": "日元逼近159，日本或出手干预",
-        "what": "9月24日花旗报告指出，日元兑美元若跌破159关口，日本当局入市干预风险明显上升。",
-        "question": "现在换日元去日本划算吗？",
+        "category": "社会·交通",
+        "headline": "京港高铁雄商段28日开通",
+        "what": "9月25日，京港高铁雄安至商丘段宣布将于9月28日开通运营，最快2小时27分可达，是京港（台）通道重要组成部分。",
+        "question": "回老家能快多少、省多少钱？",
         "means": [
-          "赴日旅行的换汇成本暂时更低",
-          "若日本出手干预，日元可能反弹"
+          "沿线通勤和出差时间明显缩短",
+          "周边城市人流和房价或受影响"
         ],
-        "note": "是否干预取决于日本当局判断，汇市波动难测。"
+        "note": "具体车次和票价以铁路12306公布为准。"
+      }
+    },
+    {
+      "title": "金饰克价跌至1289元",
+      "summary": "9月25日，国内金饰克价跌至1289元。近期国际金价持续回调，受美债收益率升至数十年高点、美元连续走强影响，黄金作为无息资产的持有成本上升，价格承压。金价下跌直接影响消费者购金与婚庆需求，也影响黄金珠宝零售企业的销售与库存价值。对投资者而言，金价与美债收益率、美元走势的联动关系是判断贵金属中长期配置的重要参考，短期波动加大需关注避险情绪与各国央行购金动向，属重要价格信号。",
+      "reason": "金饰价格回落直接影响消费与投资，与美债、美元联动，属重要价格信号。",
+      "impact_areas": [
+        "经济金融",
+        "消费"
+      ],
+      "impact_level": "重大",
+      "sources": [
+        {
+          "name": "36氪",
+          "url": "https://www.36kr.com/newsflashes/3998188963336322"
+        }
+      ],
+      "card": {
+        "category": "消费·黄金",
+        "headline": "金饰克价跌至1289元",
+        "what": "9月25日，国内金饰克价跌至1289元。受美债收益率升至数十年高点、美元连续走强影响，黄金持有成本上升，价格承压。",
+        "question": "现在该买金还是再等等？",
+        "means": [
+          "结婚买三金能省下一些钱",
+          "囤金条的短期浮亏风险在变大"
+        ],
+        "note": "金价短期波动大，别把回调当趋势反转。"
+      }
+    },
+    {
+      "title": "AI芯片新锐估值近百亿美元",
+      "summary": "9月25日，AI芯片初创企业DensityAI正进入融资谈判后期，投后估值接近100亿美元。该公司聚焦AI算力芯片，估值快速攀升反映资本市场对AI基础设施的强烈押注。此前英伟达等算力龙头主导市场，新兴芯片企业获得高估值融资，显示AI芯片赛道竞争加剧、资本加速涌入。若融资落地，将推动AI算力供给多元化，影响芯片产业链格局与数据中心建设节奏，也意味着AI投资热潮正从模型层向硬件层持续扩散，是产业格局变化的重要信号。",
+      "reason": "AI芯片新锐估值近百亿美元，反映算力赛道资本涌入与产业格局变化，科技权重高。",
+      "impact_areas": [
+        "科技",
+        "经济金融",
+        "产业"
+      ],
+      "impact_level": "重大",
+      "sources": [
+        {
+          "name": "36氪",
+          "url": "https://www.36kr.com/newsflashes/3998246029070468"
+        }
+      ],
+      "card": {
+        "category": "科技·芯片",
+        "headline": "AI芯片新锐估值近百亿美元",
+        "what": "9月25日，AI芯片初创企业DensityAI进入融资谈判后期，投后估值接近100亿美元，公司聚焦AI算力芯片。",
+        "question": "这波算力热和我有什么关系？",
+        "means": [
+          "AI用起来可能更快也更便宜",
+          "芯片和算力岗位需求继续增加"
+        ],
+        "note": "融资尚未最终落地，估值以官宣为准。"
       }
     }
   ],
-  "total_fetched": 169,
-  "generated_at": "2026-09-25T07:26:47.102390+08:00"
+  "total_fetched": 189,
+  "generated_at": "2026-09-25T12:26:35.245902+08:00"
 }
