@@ -408,7 +408,7 @@ window.Poster = (function () {
     // 日期与副标题
     ctx.font = f(400, 36);
     ctx.fillStyle = C.inkSoft;
-    ctx.fillText(`${fmtDate(date)} ｜ AI 从 20+ 信息源筛选`, W / 2, y + 92);
+    ctx.fillText(`${fmtDate(date)} ｜ 从 20+ 信息源筛选`, W / 2, y + 92);
 
     // 标题清单预览
     ctx.font = f(400, 27);
