@@ -378,55 +378,213 @@ window.Poster = (function () {
     return cv;
   }
 
-  /** 封面卡：大数字 + 主标题 + 日期 */
+  /** 日报日期按日历日解析，不受浏览器时区和夏令时影响。 */
+  function coverCalendar(date) {
+    const match = /^(\d{4})-(\d{2})-(\d{2})$/.exec(String(date || ""));
+    if (!match) throw new Error("日报日期应为 YYYY-MM-DD");
+    const year = Number(match[1]), month = Number(match[2]), day = Number(match[3]);
+    const value = new Date(0);
+    value.setUTCFullYear(year, month - 1, day);
+    value.setUTCHours(0, 0, 0, 0);
+    if (value.getUTCFullYear() !== year || value.getUTCMonth() !== month - 1 || value.getUTCDate() !== day) {
+      throw new Error("日报日期无效");
+    }
+    const dayMs = 86400000;
+    const weekday = (value.getUTCDay() + 6) % 7;
+    const jan = new Date(value);
+    jan.setUTCMonth(0, 1);
+    const ordinal = Math.round((value - jan) / dayMs) + 1;
+    const seed = Math.round((value - Date.UTC(2026, 8, 28)) / dayMs);
+    const mod = (n, m) => ((n % m) + m) % m;
+    return {
+      year, month, day, weekday, ordinal,
+      layout: mod(seed, 3), motif: mod(seed, 4),
+      week: Array.from({ length: 7 }, (_, i) => new Date(value.getTime() + (i - weekday) * dayMs)),
+    };
+  }
+
+  /** 全部装饰以路径绘制；四种主题按日期轮换，不请求图片或模型。 */
+  function drawCalendarMotif(ctx, kind, x, y, radius) {
+    ctx.save();
+    ctx.translate(x, y);
+    ctx.scale(radius / 100, radius / 100);
+    ctx.fillStyle = C.accent;
+    ctx.strokeStyle = C.accent;
+    ctx.lineWidth = 3;
+    const stroke = (points) => {
+      ctx.beginPath();
+      points.forEach(([px, py], i) => i ? ctx.lineTo(px, py) : ctx.moveTo(px, py));
+      ctx.stroke();
+    };
+    const disc = (cx, cy, r) => {
+      ctx.beginPath(); ctx.arc(cx, cy, r, 0, Math.PI * 2); ctx.fill();
+    };
+    if (kind === 0) {
+      // 日出：剪裁后的条纹不会伸出太阳轮廓。
+      for (let a = 0; a < 12; a++) {
+        const angle = a * Math.PI / 6;
+        stroke([[111 * Math.cos(angle), 111 * Math.sin(angle)], [128 * Math.cos(angle), 128 * Math.sin(angle)]]);
+      }
+      disc(0, 0, 87);
+      ctx.save();
+      ctx.beginPath(); ctx.arc(0, 0, 87, 0, Math.PI * 2); ctx.clip();
+      ctx.strokeStyle = C.bg; ctx.lineWidth = 4;
+      for (let yy = 15; yy < 87; yy += 13) stroke([[-90, yy], [90, yy]]);
+      ctx.restore();
+    } else if (kind === 1) {
+      // 山峦：纸色、浅沙色与沙棕构成三层剪影。
+      ctx.fillStyle = C.accentTint; disc(0, 0, 112);
+      ctx.save(); ctx.beginPath(); ctx.arc(0, 0, 112, 0, Math.PI * 2); ctx.clip();
+      ctx.fillStyle = C.accent; disc(42, -46, 29);
+      ctx.fillStyle = C.hair;
+      ctx.beginPath(); ctx.moveTo(-140, 85); ctx.lineTo(-42, -45); ctx.lineTo(72, 85); ctx.fill();
+      ctx.fillStyle = C.accentDeep;
+      ctx.beginPath(); ctx.moveTo(-50, 115); ctx.lineTo(39, -6); ctx.lineTo(142, 115); ctx.fill();
+      ctx.strokeStyle = C.bg; ctx.lineWidth = 3;
+      for (let yy = 65; yy < 115; yy += 15) stroke([[-125, yy], [125, yy]]);
+      ctx.restore();
+    } else if (kind === 2) {
+      // 星轨：椭圆轨道与卫星，采用同一品牌色。
+      ctx.fillStyle = C.accentTint; disc(0, 0, 104);
+      for (const angle of [-0.65, 0.65]) {
+        ctx.beginPath(); ctx.ellipse(0, 0, 123, 51, angle, 0, Math.PI * 2); ctx.stroke();
+      }
+      ctx.fillStyle = C.accentDeep; disc(0, 0, 28);
+      ctx.fillStyle = C.accent; disc(93, -65, 11); disc(-87, -67, 7);
+    } else {
+      // 城市：窗格、屋顶和天际线均为几何形状。
+      ctx.fillStyle = C.accentTint; disc(0, 0, 112);
+      ctx.fillStyle = C.accent; disc(62, -61, 29);
+      const blocks = [[-88, -13, 40, 100], [-37, -78, 47, 165], [21, 7, 32, 80], [64, -24, 28, 111]];
+      blocks.forEach(([bx, by, bw, bh], i) => {
+        ctx.fillStyle = i % 2 ? C.accentDeep : C.accent;
+        ctx.fillRect(bx, by, bw, bh);
+        ctx.fillStyle = C.bg;
+        for (let wy = by + 12; wy < 70; wy += 21) {
+          for (let wx = bx + 9; wx < bx + bw - 6; wx += 15) ctx.fillRect(wx, wy, 5, 8);
+        }
+      });
+      stroke([[-112, 88], [112, 88]]);
+    }
+    ctx.restore();
+  }
+
+  /** 封面：纯代码日历，沿用新闻详情卡的暖纸白、墨黑和沙棕。 */
   function drawCoverCard(newsList, date) {
     const { cv, ctx } = newCanvas();
-    const maxW = W - PAD * 2;
+    const cal = coverCalendar(date);
+    const weekdays = ["一", "二", "三", "四", "五", "六", "日"];
+    const months = ["JANUARY", "FEBRUARY", "MARCH", "APRIL", "MAY", "JUNE", "JULY", "AUGUST", "SEPTEMBER", "OCTOBER", "NOVEMBER", "DECEMBER"];
+    const monthNames = ["一月", "二月", "三月", "四月", "五月", "六月", "七月", "八月", "九月", "十月", "十一月", "十二月"];
+    const englishWeek = ["MONDAY", "TUESDAY", "WEDNESDAY", "THURSDAY", "FRIDAY", "SATURDAY", "SUNDAY"];
+    const left = 66, right = W - left;
+    const text = (str, x, y, size, color = C.ink, weight = 400, align = "left", latin = false) => {
+      ctx.font = latin ? `${weight} ${size}px Arial, Helvetica, sans-serif` : f(weight, size);
+      ctx.textAlign = align; ctx.textBaseline = "top"; ctx.fillStyle = color;
+      ctx.fillText(String(str), x, y);
+    };
+    const rule = (y) => { ctx.fillStyle = C.hair; ctx.fillRect(left, y, right - left, 2); };
+    const dateNumber = (x, y, width, height) => {
+      const str = String(cal.day).padStart(2, "0");
+      let size = 500;
+      ctx.font = `900 ${size}px Arial, Helvetica, sans-serif`;
+      ctx.textBaseline = "alphabetic"; ctx.textAlign = "left";
+      let m = ctx.measureText(str);
+      const visibleWidth = m.actualBoundingBoxLeft + m.actualBoundingBoxRight;
+      const visibleHeight = m.actualBoundingBoxAscent + m.actualBoundingBoxDescent;
+      size *= Math.min(width / visibleWidth, height / visibleHeight);
+      ctx.font = `900 ${size}px Arial, Helvetica, sans-serif`;
+      m = ctx.measureText(str);
+      const w = m.actualBoundingBoxLeft + m.actualBoundingBoxRight;
+      ctx.fillStyle = C.ink;
+      ctx.fillText(str, x + (width - w) / 2 + m.actualBoundingBoxLeft, y + m.actualBoundingBoxAscent);
+    };
 
-    ctx.fillStyle = C.accent;
-    ctx.fillRect(0, 0, W, 8);
-
-    // 大数字
-    ctx.textAlign = "center";
-    ctx.font = f(800, 300);
-    ctx.fillStyle = C.accent;
-    ctx.fillText(String(newsList.length), W / 2, 520);
-
-    // 主标题
-    ctx.font = f(800, 82);
-    ctx.fillStyle = C.ink;
-    const title = `今天${newsList.length}条，值得你知道的大事`;
-    const lines = wrapText(ctx, title, maxW);
-    let y = 660;
-    lines.slice(0, 2).forEach((l, i) => ctx.fillText(l, W / 2, y + i * 108));
-    y += Math.min(lines.length, 2) * 108;
-
-    // 分隔线
-    ctx.fillStyle = C.seal;
-    ctx.fillRect(W / 2 - 44, y + 6, 88, 6);
-
-    // 日期与副标题
-    ctx.font = f(400, 36);
-    ctx.fillStyle = C.inkSoft;
-    ctx.fillText(`${fmtDate(date)} ｜ 从 20+ 信息源筛选`, W / 2, y + 92);
-
-    // 标题清单预览
-    ctx.font = f(400, 27);
-    ctx.fillStyle = C.muted;
-    ctx.textAlign = "left";
-    let ly = y + 176;
-    newsList.slice(0, 5).forEach((n, i) => {
-      const t = `${i + 1}  ${(getCard(n).headline || n.title || "").slice(0, 18)}`;
-      ctx.fillText(t, PAD + 20, ly);
-      ly += 46;
+    ctx.fillStyle = C.accent; ctx.fillRect(0, 0, W, 8);
+    [92, 988].forEach((x) => {
+      ctx.fillStyle = C.hair; ctx.beginPath(); ctx.arc(x, 53, 13, 0, Math.PI * 2); ctx.fill();
+      ctx.fillStyle = C.ink; ctx.beginPath(); ctx.arc(x, 51, 9, 0, Math.PI * 2); ctx.fill();
     });
-    if (newsList.length > 5) {
-      ctx.fillStyle = C.accentDeep;
-      ctx.fillText(`…… 还有 ${newsList.length - 5} 条，右滑查看`, PAD + 20, ly + 6);
-    }
+    ctx.strokeStyle = C.hair; ctx.lineWidth = 1; ctx.setLineDash([7, 11]);
+    ctx.beginPath(); ctx.moveTo(52, 89); ctx.lineTo(1028, 89); ctx.stroke(); ctx.setLineDash([]);
 
-    drawFooter(ctx, { left: "拾闻 · 信息过载的时代，少即是多", right: `1/${newsList.length + 2}` });
-    drawBrand(ctx);
+    // 品牌报纸图标，与卡片品牌共用 accentDeep。
+    ctx.fillStyle = C.accentDeep; roundRect(ctx, left, 131, 46, 54, 4); ctx.fill();
+    ctx.fillStyle = C.bg; ctx.fillRect(75, 141, 27, 4); ctx.fillRect(75, 153, 14, 20);
+    [154, 162, 170].forEach(y => ctx.fillRect(94, y, 10, 2));
+    text("拾闻", 129, 122, 64, C.accentDeep, 900);
+    text("每日新闻日历", right, 135, 25, C.ink, 700, "right");
+    text("SHIWEN / DAILY DIGEST", right, 176, 13, C.inkSoft, 400, "right", true);
+    rule(222);
+    text(`${cal.year}  /  ${months[cal.month - 1]}`, left, 250, 25, C.ink, 700, "left", true);
+    // 表示年内第几日，避免把它误标成尚未统计过的期数。
+    text(`DAY ${String(cal.ordinal).padStart(3, "0")}`, right, 252, 19, C.muted, 400, "right", true);
+
+    // 相邻日期轮换构图；2026-09-28 对应已确认的左日期、右太阳样稿。
+    if (cal.layout === 0) {
+      dateNumber(66, 337, 624, 360);
+      drawCalendarMotif(ctx, cal.motif, 865, 409, 100);
+      text(String(cal.month).padStart(2, "0"), 865, 574, 90, C.accentDeep, 700, "center", true);
+      text(`星期${weekdays[cal.weekday]}`, 865, 690, 35, C.ink, 700, "center");
+      text(monthNames[cal.month - 1], left, 744, 30, C.ink, 700);
+      text(englishWeek[cal.weekday], 200, 754, 16, C.muted, 400, "left", true);
+    } else if (cal.layout === 1) {
+      drawCalendarMotif(ctx, cal.motif, 205, 417, 103);
+      text(String(cal.month).padStart(2, "0"), 205, 580, 90, C.accentDeep, 700, "center", true);
+      text(`星期${weekdays[cal.weekday]}`, 205, 695, 35, C.ink, 700, "center");
+      dateNumber(393, 337, 621, 360);
+      text(monthNames[cal.month - 1], right, 744, 30, C.ink, 700, "right");
+      text(englishWeek[cal.weekday], 393, 754, 16, C.muted, 400, "left", true);
+    } else {
+      ctx.fillStyle = C.accentTint; roundRect(ctx, left, 308, right - left, 65, 10); ctx.fill();
+      text(`${monthNames[cal.month - 1]} / ${String(cal.month).padStart(2, "0")}`, 88, 326, 26, C.accentDeep, 700);
+      text(`星期${weekdays[cal.weekday]}`, right - 22, 326, 26, C.accentDeep, 700, "right");
+      dateNumber(260, 410, 560, 310);
+      drawCalendarMotif(ctx, cal.motif, 143, 562, 56);
+      drawCalendarMotif(ctx, (cal.motif + 2) % 4, 937, 562, 56);
+      text(englishWeek[cal.weekday], W / 2, 753, 18, C.muted, 400, "center", true);
+    }
+    rule(798);
+
+    // 周历从周一开始，跨月/跨年直接计算；高亮日报当天而非系统今天。
+    cal.week.forEach((value, i) => {
+      const x = left + i * 136;
+      const active = i === cal.weekday;
+      if (active) { ctx.fillStyle = C.accent; roundRect(ctx, x, 827, 130, 137, 10); ctx.fill(); }
+      const color = active ? C.bg : i >= 5 ? C.accentDeep : C.ink;
+      text(weekdays[i], x + 65, 845, 22, color, 400, "center");
+      text(value.getUTCDate(), x + 65, 890, 35, color, 700, "center", true);
+      if (value.getUTCDate() === 1) text(`${value.getUTCMonth() + 1}月`, x + 65, 940, 14, color, 400, "center");
+    });
+
+    text("今天", left, 1007, 48, C.ink, 700);
+    text(newsList.length, 181, 992, 72, C.accent, 700, "left", true);
+    const countWidth = ctx.measureText(String(newsList.length)).width;
+    text("条", 181 + countWidth + 14, 1007, 48, C.ink, 700);
+    ctx.strokeStyle = C.ink; ctx.lineWidth = 2;
+    ctx.beginPath(); ctx.arc(963, 1051, 42, 0, Math.PI * 2); ctx.stroke();
+    ctx.lineWidth = 3;
+    ctx.beginPath(); ctx.moveTo(943, 1051); ctx.lineTo(983, 1051);
+    ctx.moveTo(970, 1038); ctx.lineTo(983, 1051); ctx.lineTo(970, 1064); ctx.stroke();
+    // 适配各平台中文字体的实际宽度，不横向压扁标题。
+    let headlineSize = 91;
+    ctx.font = f(900, headlineSize);
+    while (ctx.measureText("值得你知道的大事").width > right - left && headlineSize > 60) {
+      ctx.font = f(900, --headlineSize);
+    }
+    text("值得你知道的大事", left, 1116, headlineSize, C.ink, 900);
+    rule(1259);
+    text("从 20+ 信息源筛选", left, 1290, 26, C.ink, 700);
+    text("信息过载的时代，少即是多", left, 1344, 21, C.muted);
+    ctx.strokeStyle = C.accent; ctx.lineWidth = 2;
+    for (let k = 0; k < 3; k++) {
+      ctx.beginPath();
+      for (let j = 0; j < 180; j++) {
+        const y = 1324 + k * 14 + 8 * Math.sin(j / 26 + cal.motif * 0.4);
+        if (j === 0) ctx.moveTo(834, y); else ctx.lineTo(834 + j, y);
+      }
+      ctx.stroke();
+    }
     return cv;
   }
 
@@ -609,3 +767,4 @@ window.Poster = (function () {
     makeZip, saveBlob, // 供其他平台复用导出工具，不复用小红书排版
   };
 })();
+
