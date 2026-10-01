@@ -2,186 +2,85 @@
   "date": "2026-10-01",
   "news": [
     {
-      "title": "迪拜航空客机遇袭",
-      "summary": "一架由迪拜飞往以色列特拉维夫的迪拜航空（FlyDubai）客机在飞行途中发生驾驶舱袭击事件。据披露，一名飞行员在飞行中袭击机长，试图劫持飞机使其坠毁，飞机随后剧烈俯冲。印度籍机长Smit Machchhar与机组及乘客合力将袭击者制伏，飞机紧急改道并安全降落，避免了一场空难。以色列总理内塔尼亚胡表示将彻查袭击者动机，称要追查至根源；英国方面则怀疑伊朗与近期英国皇家空军费尔福德基地事件有关。事件牵动中东安全、民航驾驶舱安保与地缘政治，被多国媒体持续跟踪报道，引发对航空安保机制的广泛讨论。",
-      "reason": "涉及中东安全与民航安保的重大突发事件，多国媒体密集报道、细节持续披露。",
+      "title": "赴以航班遭飞行员持刀袭击",
+      "summary": "2026年9月30日至10月1日，一架由迪拜飞往以色列特拉维夫的FlyDubai航班在飞行途中发生驾驶舱内冲突，副驾驶持刀袭击飞行员，客机紧急备降沙特塔布克，两名飞行员受伤，机上乘客协助制服袭击者。以色列总理内塔尼亚胡称事件成功避免一场“9·11式灾难”，表示将彻查副驾驶背景、追查至“根源”，并称伊朗是否参与尚难定论。美英媒体披露，航班曾在事发后出现剧烈下坠。事件叠加中东地缘紧张，引发对航空安保、机组心理健康筛查及地区安全局势的广泛关注。",
+      "reason": "多平台多语种密集报道的跨国劫机式袭击事件，牵动中东地缘与全球航空安全。",
       "impact_areas": [
         "地缘",
-        "社会"
+        "社会",
+        "政治"
       ],
       "impact_level": "现象级",
       "sources": [
         {
-          "name": "财新网",
-          "url": "https://international.caixin.com/2026-10-01/102490233.html"
+          "name": "虎嗅",
+          "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1nLXNzdENFUHJtWlVBSWdQX2xYQTNKZ0FkLVNzMzBXZ0hlRWN0VnVLN0JTd2RCU254dWFZQzJiMDZoMFAyWU1VZXByaHd0UktfM2Y2T3NUWEUwaVVHczhr?oc=5"
         },
         {
           "name": "BBC",
-          "url": "https://www.bbc.co.uk/news/articles/cqgmrm7xd8wyo?at_medium=RSS&at_campaign=rss"
+          "url": "https://www.bbc.co.uk/news/articles/cqjdv7pmj9dno?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "name": "NYTimes",
+          "url": "https://www.nytimes.com/live/2026/10/01/world/flydubai-flight-israel-plane-pilots"
         },
         {
           "name": "Reuters",
           "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPU2FsbDhfazlDOEhsVF9mZ0ZCMDdDdlNOYURfSWxTV2ZkVm8tckN0dmo1Q0QtUEtxQmJpQUZKTWVjNzBJZzdKSHkzWTVuaFJsY2U2a2xhWlRXbERyNXBkZms1VExTeEdDSFRuT0hJbmxTSE94bjN0dnRic1Jjd1BITXlRT0k4TnNpazlpOXVFY3pjM2tJNzZkT1BIXzBNU1lJbEJoZjdpdEgwQUZhLTNSS2FjN19CSENnWkRzVGZ0dmN5RmRIcmZhS0NjYw?oc=5"
         },
         {
-          "name": "纽约时报",
-          "url": "https://www.nytimes.com/2026/10/01/world/asia/israel-flight-flydubai-pilot-captain-smit-machchhar.html"
+          "name": "央视网",
+          "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBmRkFnNm9nbTRiNDR4M3FaNmVuMjZNUXpCRmVQYVVhTW9ZTmEyeS1FTkpyWnA5eGpveENBdUxNNUVvYm9ITDJBckZTS2NqTjFFcGNZYTM4RzB5cXNIamNVZEROY3hnVXQ1X2NxZjNpT1dKLTE1alhrbA?oc=5"
         }
       ],
       "card": {
         "category": "地缘·航空",
-        "headline": "迪拜客机遇袭，机组合力制伏",
-        "what": "一架由迪拜飞往特拉维夫的客机在飞行途中，一名飞行员袭击机长并试图劫持飞机，机长与机组乘客合力将其制伏，飞机改道后安全降落。",
-        "question": "坐飞机会不会变得更不安全？",
+        "headline": "赴以航班驾驶舱遇袭，紧急备降",
+        "what": "迪拜飞往特拉维夫的航班途中，副驾驶持刀袭击飞行员，客机紧急备降沙特，两名飞行员受伤，乘客协助制服袭击者。",
+        "question": "我以后坐国际航班会更严查吗？",
         "means": [
-          "中东航线机票价格可能短期上涨",
-          "飞机安检和驾驶舱管理或将更严"
+          "中东航线安检和绕飞或将增加",
+          "机票价格与航程时间可能波动"
         ],
-        "note": "袭击者动机仍在调查，最终结论以官方通报为准。"
+        "note": "副驾驶动机与背景仍在调查，伊朗是否参与尚无定论。"
       }
     },
     {
-      "title": "美军结束在伊拉克驻军任务",
-      "summary": "美军完成从伊拉克的撤离，结束自2003年入侵以来长达二十余年的军事存在，其中包括近12年的驻军任务。伊拉克总理称这是该国新阶段的开始。此次撤军标志着美国在中东军事存在的又一次收缩，可能改变地区力量平衡，伊朗影响力、极端组织活动及库尔德地区局势均面临新的不确定性。美国国内对撤军是否会造成安全真空存在争论。分析认为，撤军将影响伊拉克石油产能与地区稳定，并对全球能源市场的预期产生间接影响，后续伊拉克国内政治与安全走向值得持续关注。",
-      "reason": "美国结束二十余年对伊军事存在，牵动中东力量格局与全球能源预期。",
+      "title": "美军完成撤离伊拉克",
+      "summary": "美国总统特朗普10月1日宣布，最后一批美军正在撤离伊拉克，标志着自2003年入侵以来、历时约23年的美军驻伊行动基本结束。此前一天，主要部队已完成撤出。分析认为，美军撤离后伊拉克面临安全真空与政治不确定性，伊朗的地区影响力可能上升，中东力量格局面临重塑。此事对全球地缘政治、反恐合作与能源市场具有中长期影响，被视为美国中东战略收缩的重要节点。",
+      "reason": "美国结束23年驻伊军事存在，是重塑中东格局的重大地缘事件。",
       "impact_areas": [
         "地缘",
-        "政治"
+        "政治",
+        "经济金融"
       ],
-      "impact_level": "重大",
+      "impact_level": "现象级",
       "sources": [
         {
-          "name": "凤凰网",
-          "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTFBTbDFCdEdwLTdyWHFPYUhqcjFER2hKdmVVdldwVC1FbXo3V001TWhKSzIwX2Z4YzFfYTZmcklyMkhyTjJob2NGTw?oc=5"
+          "name": "央视网",
+          "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBTXzdHUFh4eHZKYjZkSDNCWTIyNE5Ud0szYnk4NmpWUVZ2R3kxNmhRZF9OT3Vnc1E2ekp1a2x0VWMzcU5jNkVrUWlvc2xfMFhYNHlKTFpxVV9GcU5ZSHpiNU5NUkZHTTRWS2FONUx1cEVoV0ZoVWc3Uw?oc=5"
         },
         {
-          "name": "纽约时报",
+          "name": "NYTimes",
           "url": "https://www.nytimes.com/2026/09/30/world/middleeast/iraq-us-troop-withdrawal.html"
         }
       ],
       "card": {
-        "category": "地缘·军事",
-        "headline": "美军撤离伊拉克，廿年驻军结束",
-        "what": "美军完成从伊拉克的撤离，结束自2003年以来二十余年的军事存在，其中包含近12年的驻军任务。",
-        "question": "中东局势会影响到油价吗？",
+        "category": "地缘·中东",
+        "headline": "美军撤出伊拉克，23年驻军终结",
+        "what": "特朗普10月1日宣布最后一批美军正在撤离伊拉克，主要部队前一天已撤出，驻伊行动基本结束。",
+        "question": "这会影响油价和机票吗？",
         "means": [
-          "国际油价可能因此出现波动",
-          "相关能源和外贸行业需留意风险"
+          "中东局势或推高油价与机票成本",
+          "当地中资项目与务工人员需留意"
         ],
-        "note": "伊拉克后续安全与政治走向仍待观察。"
+        "note": "后续安全局势存在不确定性，具体安排以官方发布为准。"
       }
     },
     {
-      "title": "谷歌发布Gemini4大模型",
-      "summary": "谷歌发布新一代AI大模型Gemini 4，重点强调安全防护能力，宣称可防止模型被越狱以规避安全限制。此次发布延续了大模型在能力提升与安全对齐之间的竞争主线，谷歌将安全作为核心卖点，回应监管机构对前沿AI风险的关切。Gemini 4的推出将进一步加剧与OpenAI、Anthropic等厂商的竞争，并可能推动企业级AI应用的更新换代。对开发者和云服务市场而言，模型快速迭代意味着迁移成本上升与应用生态的重新洗牌，安全合规能力正成为大模型商业化竞争的关键变量。",
-      "reason": "谷歌旗舰大模型迭代，安全对齐成核心卖点，牵动全球AI竞争格局。",
-      "impact_areas": [
-        "科技",
-        "人工智能"
-      ],
-      "impact_level": "重大",
-      "sources": [
-        {
-          "name": "财新网",
-          "url": "https://www.caixin.com/2026-10-01/102490222.html"
-        }
-      ],
-      "card": {
-        "category": "科技·人工智能",
-        "headline": "谷歌发布新模型，主打安全能力",
-        "what": "谷歌发布新一代AI大模型Gemini 4，主打安全防护，称可防止模型被越狱绕过安全限制，回应监管对前沿AI风险的关切。",
-        "question": "我用AI工具会变得更贵吗？",
-        "means": [
-          "常用的AI应用可能很快要更新",
-          "企业换模型的迁移成本会上升"
-        ],
-        "note": "模型实际安全效果还需第三方测试验证。"
-      }
-    },
-    {
-      "title": "白宫超级智能协定签署",
-      "summary": "英伟达CEO黄仁勋透露，美国AI行业的多位领导人于白宫共同签署《白宫超级智能协定》。其核心原则是：开发相关技术的公司负有首要责任，必须安全地开发和部署该技术，并在未达标时承担责任。黄仁勋表示，超级智能为推动科学发现、提升生产力、保障安全、改善健康和促进繁荣提供了非凡机遇。该协定确立了对前沿AI企业以首要责任为核心的治理框架，可能成为全球AI监管的重要参照，对AI企业的合规成本、研发节奏与部署方式产生深远影响。",
-      "reason": "美国确立超级智能治理的公司首要责任框架，或成全球AI监管参照。",
-      "impact_areas": [
-        "科技",
-        "政治"
-      ],
-      "impact_level": "重大",
-      "sources": [
-        {
-          "name": "雪球热帖",
-          "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFA1alNUZTZYQXBpMnRrZzlNbFpEbTFUQ1V5QkxoeHlhRGZPOVNfajZ1T0Y3a1pqNmIya1VQUWhwZUZiR19NOElCQVM3WUpRWVhQS2hmbnJlQjhTelhRVnlhLWdkX3ExZU5TMzhzeU1DcVk5eUg5aGhzcw?oc=5"
-        }
-      ],
-      "card": {
-        "category": "科技·监管",
-        "headline": "白宫签超级智能协定，企业担首责",
-        "what": "英伟达CEO黄仁勋透露，美国AI行业多位负责人近日在白宫共同签署《白宫超级智能协定》，确立企业安全开发与部署的首要责任。",
-        "question": "AI出事了该由谁来负责？",
-        "means": [
-          "AI公司合规成本可能转嫁到价格",
-          "相关岗位招聘或更看重安全合规"
-        ],
-        "note": "协定细则与执行方式尚未完全公开。"
-      }
-    },
-    {
-      "title": "美核心PCE回落 GDP上修",
-      "summary": "美国8月核心PCE物价指数大幅回落，同时二季度GDP增速由1.5%上修至2.2%。通胀降温与经济增速上修的组合，强化了市场对美联储政策转向的预期。核心PCE是美联储最关注的通胀指标，其回落意味着进一步加息的压力缓解；GDP上修则显示经济韧性超出预期，降低了硬着陆风险。数据公布后，市场对利率路径的重新定价将影响美元走势、美债收益率及新兴市场资金流向，对全球投资者的资产配置具有重要指引意义，也为各国央行政策制定提供新的参照。",
-      "reason": "美联储最看重的通胀指标大幅回落叠加GDP上修，直接影响全球利率预期。",
-      "impact_areas": [
-        "经济金融"
-      ],
-      "impact_level": "重大",
-      "sources": [
-        {
-          "name": "财新网",
-          "url": "https://international.caixin.com/2026-10-01/102490194.html"
-        }
-      ],
-      "card": {
-        "category": "经济·通胀",
-        "headline": "美国通胀降温，经济增速被上修",
-        "what": "美国8月核心PCE物价指数大幅回落，二季度GDP增速由1.5%上修至2.2%，市场对美联储政策转向的预期升温。",
-        "question": "我的存款和理财收益会变吗？",
-        "means": [
-          "留学换汇和海外购物成本或下降",
-          "全球资金流向变化影响基金收益"
-        ],
-        "note": "美联储是否降息仍要看后续数据。"
-      }
-    },
-    {
-      "title": "普京限令卢布现金外流",
-      "summary": "俄罗斯总统普京签署法令，禁止将超过100万卢布的现金带往相关国家。此举旨在遏制资本外流、稳定卢布汇率并强化外汇管制，反映俄罗斯在持续战争与制裁压力下对金融体系的管控进一步收紧。对普通民众而言，携带大额现金出境受到限制，跨境资金流动成本上升。该措施可能加剧外汇市场供需矛盾，并对与俄罗斯有贸易往来的企业和个人产生直接影响，也凸显俄经济在制裁环境下的结构性压力与资本外逃风险。",
-      "reason": "俄强化外汇管制以遏制资本外流，反映制裁与战争下的经济压力。",
-      "impact_areas": [
-        "经济金融",
-        "地缘"
-      ],
-      "impact_level": "重大",
-      "sources": [
-        {
-          "name": "凤凰网",
-          "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE1JeXduek5kREJUVzB0TGRiaHBhdy00T2dxdTM1eXV0c3puM1g2eVdBV0FUd3ZPUmFrLVR3dENtQUp6UGRVcW9EUUdreTc?oc=5"
-        }
-      ],
-      "card": {
-        "category": "经济·外汇",
-        "headline": "俄罗斯限制大额卢布现金出境",
-        "what": "俄罗斯总统普京签署法令，禁止将超过100万卢布的现金带往相关国家，以遏制资本外流、稳定卢布汇率。",
-        "question": "在俄做生意收钱会变难吗？",
-        "means": [
-          "对俄贸易回款流程可能更麻烦",
-          "卢布汇率波动影响相关订单利润"
-        ],
-        "note": "具体受限国家名单以俄方正式公布为准。"
-      }
-    },
-    {
-      "title": "AMD拟82亿美元收购AI公司",
-      "summary": "AMD宣布拟以82亿美元收购由李飞飞创办的公司，交易焦点在于世界模型技术的价值。世界模型被视为通向通用人工智能的重要路径，能够理解并预测物理世界，是自动驾驶、机器人等具身智能领域的关键能力。此次收购是芯片厂商向AI软件与模型层延伸的重要一步，与英伟达形成更直接的竞争。若交易完成，将重塑AI基础设施与模型层的竞争格局，并可能推高对世界模型类初创公司的估值预期，反映算力巨头围绕下一代AI入口的卡位战正在升级。",
-      "reason": "芯片巨头高价收购世界模型公司，AI软硬件竞争格局面临重塑。",
+      "title": "谷歌发布Gemini 4模型",
+      "summary": "谷歌发布新一代旗舰大模型Gemini 4 Argon，主打长上下文编程与网络安全能力，定价低于主要竞品，被形容为“做题家”屠榜。不过内部对其编程与实战任务表现评价不一，被认为“屠榜但干活差点意思”。同期，行业传出中国最强模型距美国前沿仅剩约4个月差距的对比测算。Gemini 4的发布进一步加剧全球大模型竞争，谷歌、OpenAI等厂商的迭代节奏加快，AI能力边界与定价战同步升温。",
+      "reason": "头部厂商新一代旗舰模型发布，直接影响全球AI竞争格局与产业节奏。",
       "impact_areas": [
         "科技",
         "产业"
@@ -190,103 +89,218 @@
       "sources": [
         {
           "name": "虎嗅",
-          "url": "https://www.huxiu.com/article/4895005.html"
+          "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9MTEpDdW5KZldxRVRnVlBCTV9sYmJUcDZzSGxIS0dRb2ZnMjlQVWNMNE9VNE84TjBoek9rUXA0bHNkbEYxZXBXSGZJVmZ4RHl3aFk2VQ?oc=5"
+        },
+        {
+          "name": "雪球",
+          "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNanVlNm41M3FQV25mVVpBOThMSnZsYWMtOGF1bjBoRDRtU3l5SW5xeDBFUk9keDQyaktSdFZaT2x0eWtpTDlYcjc2V0ItU2xMMkM0YlUyVXowOTBsbEVMVG9Wd3RURU1ld09XMzVpUGlhY2l1U0NFRWozdEVPZTNaenF3MTlxR3c?oc=5"
+        }
+      ],
+      "card": {
+        "category": "科技·大模型",
+        "headline": "谷歌新模型发布，价格战开打",
+        "what": "谷歌发布新一代旗舰大模型Gemini 4，主打长上下文编程与网络安全，定价低于主要竞品。",
+        "question": "AI工具会变得更便宜吗？",
+        "means": [
+          "写代码和做安全的工具可能更便宜",
+          "相关岗位的技能要求可能变化"
+        ],
+        "note": "内部评价称其实际任务表现仍有分歧，效果以实测为准。"
+      }
+    },
+    {
+      "title": "华为Mate 90系列发布",
+      "summary": "华为10月1日发布Mate 90系列手机，全系搭载“韬”芯片，麒麟9050 Pro亮相。新机延续华为自研芯片与自主生态路线，是国产高端芯片在制程与性能上持续推进的标志性产品。在当前全球半导体供应链博弈背景下，该系列被视为观察国产芯片能力与高端手机市场格局的重要窗口，对国内消费电子与半导体产业链具有直接带动效应。",
+      "reason": "头部国产厂商旗舰新品与自研芯片亮相，影响高端手机与芯片产业格局。",
+      "impact_areas": [
+        "科技",
+        "产业"
+      ],
+      "impact_level": "重大",
+      "sources": [
+        {
+          "name": "澎湃新闻",
+          "url": "https://m.thepaper.cn/detail/34186076"
         }
       ],
       "card": {
         "category": "科技·芯片",
-        "headline": "AMD拟花82亿美元收购AI公司",
-        "what": "AMD宣布拟以82亿美元收购李飞飞创办的公司，交易焦点是世界模型技术，被视为芯片厂商向AI模型层延伸。",
-        "question": "这笔钱最后会摊到显卡价格上吗？",
+        "headline": "华为新旗舰发布，全系自研芯片",
+        "what": "华为10月1日发布Mate 90系列手机，全系搭载「韬」芯片，麒麟9050 Pro同时亮相。",
+        "question": "国产芯片现在到什么水平了？",
         "means": [
-          "AI芯片和显卡价格短期难下降",
-          "做AI应用的小公司融资或更容易"
+          "换机时可以多一个国产选择",
+          "相关产业链的岗位和订单或增加"
         ],
-        "note": "该交易尚需监管审批，能否完成待定。"
+        "note": "具体性能与散热表现需以真机实测为准。"
       }
     },
     {
-      "title": "云南昆明盘龙区4.3级地震",
-      "summary": "云南省昆明市盘龙区发生4.3级地震，云南省地震局作出最新回应，目前暂无人员伤亡报告。昆明是云南省会、人口密集城市，城区有感地震容易引发公众关注。此次地震虽震级不高，但发生在国庆假期首日，可能对部分景区、交通运行及市民出行造成短暂影响。地震部门已启动监测与研判，后续需关注是否发生余震，以及对老旧建筑、公共设施安全的排查情况。这也提醒人口密集城市需持续完善地震预警与应急响应机制。",
-      "reason": "省会城市发生有感地震，涉及公共安全与假期出行，民生关注度高。",
+      "title": "美核心PCE回落GDP上修",
+      "summary": "美国8月核心PCE物价指数大幅回落，二季度GDP增速由1.5%上修至2.2%。通胀降温叠加经济增速上修，强化了市场对美联储后续降息路径的预期，直接影响全球资产定价与美元走势。数据公布后，市场对美元利率走向的押注相应调整，对新兴市场资本流动、汇率及大宗商品价格构成传导影响，是本周最重要的海外宏观数据之一。",
+      "reason": "美国关键通胀与经济数据双双改善，牵动美联储路径与全球资产定价。",
       "impact_areas": [
-        "社会",
-        "民生"
+        "经济金融"
+      ],
+      "impact_level": "重大",
+      "sources": [
+        {
+          "name": "财新网",
+          "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFA3RG1jZXBwSTNSZWx0amdQWFFWaFZPdzZOSTZpSlk3Sy02RE91MGcxTWNvWUc5VWpXc3U2MkFKVXVPc2I3V195OHRkZmE1d054c2JGTkZJQjVFX3JyTUxUaTQzbC1SWDI1ZGc?oc=5"
+        }
+      ],
+      "card": {
+        "category": "经济·美联储",
+        "headline": "美国通胀降温，经济增速上修",
+        "what": "美国8月核心PCE物价指数大幅回落，二季度GDP增速由1.5%上修至2.2%。",
+        "question": "美联储降息会影响我的钱吗？",
+        "means": [
+          "美元理财和外汇的收益可能变动",
+          "海外基金与黄金价格波动或加大"
+        ],
+        "note": "降息节奏取决于后续数据，市场预期不等于落地。"
+      }
+    },
+    {
+      "title": "人民币前三季升值超4%",
+      "summary": "2026年前三季度，人民币对美元即期汇率累计升值超过4%。升值受美元走弱、中国出口韧性及资本流入等多重因素推动。人民币走强有利于降低进口成本、提振出境消费与居民购买力，但也对出口企业利润形成压力，并影响跨境资金配置。后续走势取决于美联储政策路径与中美经济基本面差异，是观察四季度汇率与外贸形势的关键变量。",
+      "reason": "人民币汇率显著走强，直接关系进出口、居民购买力与跨境资金流向。",
+      "impact_areas": [
+        "经济金融"
       ],
       "impact_level": "重大",
       "sources": [
         {
           "name": "澎湃新闻",
-          "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1fd3pQUDNCUG1SLTVobG1UOGo0WmxZV2JoSzJVTDY0SDVXMmRUdUJuN1Z2WmZuZkZadGFzWmFKaHcyT01RX19ZLWMxV1ZSMFFibjREb3YzWXZPMHBQM1E?oc=5"
+          "url": "https://m.thepaper.cn/detail/34186345"
         }
       ],
       "card": {
-        "category": "社会·民生",
-        "headline": "昆明盘龙区4.3级地震，暂无伤亡",
-        "what": "云南省昆明市盘龙区发生4.3级地震，云南省地震局作出回应，目前暂无人员伤亡报告。",
-        "question": "在昆明旅游还安全吗？",
+        "category": "经济·汇率",
+        "headline": "人民币前三季升值超4%",
+        "what": "2026年前三季度人民币对美元即期汇率累计升值超4%，受美元走弱与出口韧性推动。",
+        "question": "现在换美元是不是不划算了？",
         "means": [
-          "假期在昆明出行要留意余震提示",
-          "老房子和景区设施排查会更严格"
+          "出国旅游和海淘的成本会降低",
+          "做出口生意的企业利润压力变大"
         ],
-        "note": "是否发生余震以地震部门通报为准。"
+        "note": "四季度走势取决于美联储路径，换汇请按自身需求安排。"
       }
     },
     {
-      "title": "胖东来推全员双休新工作制",
-      "summary": "胖东来宣布将推行新工作制，自明年3月起全员双休，每天工作7小时、每周工作35小时。作为中国零售业中以高薪酬、高福利著称的企业，胖东来此举再次引发对劳动时间与员工待遇的广泛讨论。新制度若落地，员工每周工时将显著低于法定标准，可能对零售行业用工模式形成示范效应，也呼应了社会对反内卷和改善劳动条件的期待。对广大劳动者而言，这一动态为讨论缩短工时、提升福利提供了现实样本，相关话题具备较强的公共关注度与民生指向。",
-      "reason": "知名企业推行全员双休与35小时工时，直接触及劳动者工时与福利议题。",
+      "title": "一汽广汽启动重组",
+      "summary": "中国汽车业迎来重大整合，一汽与广汽启动重组，被视为汽车行业“大整合时刻”的开端。在新能源转型加速与持续价格战压力下，国有车企通过整合优化产能布局、提升规模效应与研发协同。此举可能引发行业连锁反应，重塑中国汽车产业竞争格局，对供应链、经销商体系与就业结构产生中长期影响，也反映国资在制造业布局上的战略调整。",
+      "reason": "两大国有车企重组，标志汽车产业格局进入整合期，行业影响深远。",
       "impact_areas": [
-        "社会",
-        "就业"
+        "产业",
+        "经济金融"
       ],
       "impact_level": "重大",
       "sources": [
         {
-          "name": "澎湃新闻",
-          "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE4zRHlfYzdvcDJLdGI3UUtTZ0pJdS1pajVnZTE3OG9hUFRncXJ1Q0ItSjIzUmdScmNoVFlMV2ZVY2xmem5QVEk2Wi12bWliODRDSGNGTlR0bzFmbEN0cHc?oc=5"
+          "name": "虎嗅",
+          "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9DZVJNcHJSMFlUSWF2bnluVlpGcG1BVWN1QzlqbWhRMTVYTVdzQ2pydWJjc1ZtYUFwam82WlIwcmtjWEhMdWsyRVVnLU5xZ0xRYmI2Tg?oc=5"
         }
       ],
       "card": {
-        "category": "社会·就业",
-        "headline": "胖东来推行全员双休，每周35小时",
-        "what": "胖东来宣布新工作制，自明年3月起全员双休，每天工作7小时、每周35小时。",
-        "question": "我什么时候也能双休？",
+        "category": "产业·汽车",
+        "headline": "一汽广汽重组，车企整合开场",
+        "what": "一汽与广汽启动重组，被视为汽车行业大整合的开端，目标包括优化产能布局与研发协同。",
+        "question": "以后买车会更便宜吗？",
         "means": [
-          "零售等服务业的排班可能跟着改",
-          "找工作时工时或成新的比较项"
+          "经销商网点和服务可能合并调整",
+          "车企岗位与供应链订单面临变动"
         ],
-        "note": "新制度明年3月才落地，执行细节待公布。"
+        "note": "重组方案与时间表尚未完全公开，以官方公告为准。"
       }
     },
     {
-      "title": "瑞士冰川遭遇灾难性消融",
-      "summary": "瑞士冰川在2026年遭遇灾难性的冰量损失，持续消融正威胁当地及下游地区的供水安全。冰川作为固体水库，其退缩将改变河流径流的季节分布，进而影响饮用水供应、农业灌溉与水力发电。欧洲近年反复出现的高温与少雪天气进一步加速冰川消融，反映出全球气候变化带来的现实冲击。这一趋势对阿尔卑斯地区的生态、旅游与经济具有中长期影响，也为全球水资源管理、跨境河流治理与减排政策敲响警钟，凸显气候风险的紧迫性。",
-      "reason": "瑞士冰川遭遇灾难性消融，直接威胁下游供水，气候变化影响持续显现。",
+      "title": "中国锂矿找矿获突破",
+      "summary": "中国在锂矿找矿方面取得新突破，新增锂资源储量有望提升国内资源自给率。锂是新能源汽车动力电池与储能产业的关键原材料，此前中国锂资源对外依存度较高，价格波动曾剧烈冲击产业链。此次找矿突破对保障新能源供应链安全、平抑锂价波动、支撑电池与储能产业长期扩张具有战略意义，也是重要资源领域的供给侧信号。",
+      "reason": "锂资源找矿突破关系到新能源产业链供应安全，具战略与价格指引意义。",
       "impact_areas": [
+        "产业",
         "生态",
-        "气候"
+        "经济金融"
+      ],
+      "impact_level": "重大",
+      "sources": [
+        {
+          "name": "凤凰网",
+          "url": "https://news.ifeng.com/c/8ws4YEYGrN6"
+        }
+      ],
+      "card": {
+        "category": "产业·新能源",
+        "headline": "国内锂矿找矿突破，储量增加",
+        "what": "中国在锂矿找矿方面取得新突破，新增锂资源储量有望提升国内资源自给率。",
+        "question": "电动车和电池会降价吗？",
+        "means": [
+          "电池成本下降或带动车价松动",
+          "锂价长期波动可能比过去平缓"
+        ],
+        "note": "新增储量的实际开采进度尚需时间验证。"
+      }
+    },
+    {
+      "title": "日本永久居留费涨20倍",
+      "summary": "日本将永久居留许可费用提高约20倍（涨幅约2000%），BBC与《纽约时报》均报道称，此举反映日本社会对外国人数量增加的“焦虑”。新规将显著抬高外国人长期定居日本的成本，可能影响在日外国劳动者、留学生及移民规划，也折射出日本移民与居留政策的收紧趋势。相关变化对跨境人才流动与在日华人群体具有现实影响。",
+      "reason": "日本大幅上调居留费用，移民政策收紧，影响跨境人才与在日群体。",
+      "impact_areas": [
+        "社会",
+        "政治"
       ],
       "impact_level": "重大",
       "sources": [
         {
           "name": "BBC",
-          "url": "https://www.bbc.co.uk/news/articles/c6n9w0ypjwl9o?at_medium=RSS&at_campaign=rss"
+          "url": "https://www.bbc.co.uk/news/articles/c6y8z8xeg8j1o?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "name": "NYTimes",
+          "url": "https://www.nytimes.com/2026/10/01/world/asia/japan-raises-residency-fees-2000-percent-amid-anxiety-over-foreigners.html"
         }
       ],
       "card": {
-        "category": "生态·气候",
-        "headline": "瑞士冰川消融，下游供水受威胁",
-        "what": "瑞士冰川2026年遭遇灾难性冰量损失，持续消融威胁当地及下游供水安全，影响饮用水、农业灌溉与水力发电。",
-        "question": "这会推高我的水电和食品价格吗？",
+        "category": "社会·移民",
+        "headline": "日本永久居留费上涨约20倍",
+        "what": "日本将永久居留许可费用提高约20倍，英美媒体称此举反映社会对外国人增多的焦虑。",
+        "question": "在日工作和留学还值得吗？",
         "means": [
-          "欧洲水电和农产品价格或受波及",
-          "国内进口食品和能源成本需留意"
+          "长期定居日本的办理成本明显变高",
+          "在日华人的居留规划需要重算"
         ],
-        "note": "冰川消融是长期过程，具体影响仍待评估。"
+        "note": "新规生效时间与适用范围请以日本官方公告为准。"
+      }
+    },
+    {
+      "title": "国庆首日3.3亿人次出行",
+      "summary": "10月1日国庆假期首日，全社会跨区域人员流动量预计超过3.3亿人次，交通部门多举措保畅通，客流呈现错峰出行特征。庞大的出行规模带动旅游、餐饮、零售、住宿等假日消费，是观察国内消费复苏与假日经济热度的重要窗口，同时也对交通运输组织与安全管理提出考验。相关数据对判断四季度消费走势具有参考价值。",
+      "reason": "国庆首日出行规模创高位，是观察假日经济与消费复苏的关键指标。",
+      "impact_areas": [
+        "社会",
+        "经济金融"
+      ],
+      "impact_level": "重大",
+      "sources": [
+        {
+          "name": "澎湃新闻",
+          "url": "https://m.thepaper.cn/detail/34187011"
+        }
+      ],
+      "card": {
+        "category": "社会·消费",
+        "headline": "国庆首日出行超3.3亿人次",
+        "what": "10月1日国庆假期首日，全社会跨区域人员流动量预计超过3.3亿人次，客流错峰特征明显。",
+        "question": "今年假期消费真的回暖了吗？",
+        "means": [
+          "热门景区和交通会更挤，需提前规划",
+          "餐饮住宿零售的生意或好于去年"
+        ],
+        "note": "数据为预计值，最终以交通运输部门发布为准。"
       }
     }
   ],
-  "total_fetched": 174,
-  "generated_at": "2026-10-01T12:26:46.285681+08:00"
+  "total_fetched": 212,
+  "generated_at": "2026-10-01T19:26:44.740645+08:00"
 }
