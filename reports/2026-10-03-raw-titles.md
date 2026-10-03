@@ -1,103 +1,116 @@
-# 2026-10-03 原始新闻标题 (209 条)
+# 2026-10-03 原始新闻标题 (219 条)
 
 ## 澎湃新闻 (20 条)
-- 奔赴“县”场｜能“赚钱”的义乌也懂得“花钱”
-- 苏州阳澄半岛乐园攀爬项目设“无人监管风险自担” 提示，律师：无效力，属经营管理缺陷
-- 南岳衡山中心景区10月3日已接近最大承载量，暂停当日线上预约
-- 2032年布里斯班奥运会、残奥会会徽正式发布
-- 《青绿》导演韩真周莉亚又出新作：舞剧《栋梁》展现古建测绘中的林徽因
-- 十一黄金周，在上海虹口音乐谷参与一场“漫游音乐嘉年华”
-- 郑云龙主演《哈姆雷特》再登首都剧场，将南下巡演并亮相上海国际艺术节
-- “永恒”的丁托列托与他对马奈、塞尚的影响
-- “梦里家山”中，看一位医者画家的故园记忆
-- “防滑袜”“鞋套”要另外花钱，苏州阳澄半岛乐园被指消费提示缺位
-- 四川宜宾通报“小客车追尾他车逃逸后撞伤群众”：司机醉驾被控制
-- 新疆喀纳斯景区因承载量饱和，10月3日已暂停售票
-- 奔赴“县”场｜这座高速服务区，凭什么一天吸引近8万人
-- 老年旅客淡季火车票将享“折上折”相关优惠车票明起陆续发售
-- 商务部新闻发言人就对原产于欧盟的进口对硝基甲苯发起反倾销调查答记者问
-- 直播丨实测苏州阳澄半岛乐园：“冒险小径”无人监管，风险需自担
-- 追光的你｜我在
-- 特朗普：与伊朗的战事将“很快结束”
-- 体坛联播｜法国1比1战平意大利，中国女曲错失亚运金牌
-- 深度｜渴望中资的阿富汗塔利班，留不住曾想淘金的中国商人
+- 从传统评点看金庸｜《天龙八部》篇：虚竹的故事怎么这么“奇”？ - thepaper.cn
+- 马上评｜警惕“实名举报不放假”摆拍背后的流量剧本 - thepaper.cn
+- 国博馆刊｜水法危机：清代陵寝工程图所见福陵水患治理 - thepaper.cn
+- 永恒的丁托列托 - thepaper.cn
+- 奔赴“县”场｜这座高速服务区，凭什么一天吸引近8万人 - thepaper.cn
+- 与包乐史驾帆航行｜在狭窄海域搏击人生：希莱尔·贝洛克与他的航海沉思录 - thepaper.cn
+- 在这崭新的爱中颤抖 - thepaper.cn
+- 大风预警！中央气象台：今早至明早，新疆、甘肃、青海、内蒙古、宁夏、陕西、山西、河北、天津、北京等地部分地区有5~7级风，阵风7~9级。 - thepaper.cn
+- 寒武纪离职高管索赔278.32亿元 - thepaper.cn
+- “95后”姑娘当了12年空姐，辞职回家卖青蟹！中秋假期每天入账10万余元 - thepaper.cn
+- 最新 | 一周之内，马斯克女友被断崖式分手！ - thepaper.cn
+- 胖东来将推行双休和每天7小时工作制 - thepaper.cn
+- 名古屋亚运会，已现6例兴奋剂违规事件 - thepaper.cn
+- 英国柴油价格达近年来最高点 - thepaper.cn
+- 走！到日照赶海去（附十一赶海时刻表） - thepaper.cn
+- 2025年结婚登记数公布 - thepaper.cn
+- 老人天不亮就去晨练？这个时段最危险！ - thepaper.cn
+- 今夜只爱祖国，今夜挚爱张家界，2027年再会！ - thepaper.cn
+- 地下8345米，重大突破！ - thepaper.cn
+- 50万粉丝健身博主参加柏林马拉松，被拍到坐自行车作弊，本人凌晨发文道歉 - thepaper.cn
 
-## 南方周末 (1 条)
-- 理工强势、文科收缩，AI重塑全球大学权力版图
+## 凤凰网 (20 条)
+- 10万人签名严惩请愿书，韩国“警二代”杀高中女生案一审被判无期
+- 拿土豆当主食，可以减肥还更健康？
+- U23男足主帅：0-5输巴勒斯坦难以相信
+- 新一轮冷空气来袭：东北内蒙古将有雨雪，南方阴雨持续
+- 东航再通报“空姐下跪”事件：已报案
+- 法国多地爆发高中生骚乱：纵火、砸店、与警方对峙
+- 俄官员回应普京是否出席G20峰会
+- 美国各界热议“要不要对中国车开放”
+- 印度边防人员打死巴平民，巴基斯坦召见印临时代办
+- 中国男足亚运摘铜：乌兹别克斯坦队落后与中国队爆发冲突，李昊连续两扑点
+- 塑料袋套头“实名举报国庆不放假”，官方通报：摆拍
+- 本月起，广东外卖未封口可以拒收
+- 铁疙瘩守战壕，俄军人海战术撞墙了
+- 特朗普核心内阁闭门会：一些事已作出决定
+- 解放军现身俄罗斯军演，坦克冲锋画面曝光
+- 时隔28年！中国男足再夺亚运铜牌
+- 向中方释放某种信号？特朗普计划出席东盟峰会
+- 两千年前，罗马人这样发“朋友圈”
+- 69元让全机场分享你的幸福？大兴机场定制祝福走红
+- “女子驾驶摩托别车遭脚踹”，官方通报
 
-## 凤凰网 (19 条)
-- 迪拜航空袭击者信息披露：曾因安全隐患被阿曼航司停飞
-- 马克龙宣布G7释放石油储备：4个月内释放1亿桶石油储备，优先投放柴油
-- 俄外交部：日本参与的军演已非纯粹防御性质
-- OpenAI模型又闯祸，澳政府机构再遭入侵
-- 美军增兵中东有哪些考量？
-- 阿丘事件反转，谣言式声明背后是某些社会组织的“炎症”
-- 英国：这名28岁英国伞兵，在乌克兰死于爆炸
-- 朝鲜驳回韩国道歉要求后，向半岛东部海域发射一枚弹道导弹
-- 高市要拿AI当日本经济“加速器”
-- 四川绵阳越王楼将被拆除？假的
-- 韩国气炸了，要求乌克兰道歉
-- 特朗普：与伊朗的战事很快将结束
-- 3天抓12万条，被毛毛虫害苦的北漂开始反击了
-- 为庆祝中国国庆，伊朗首都地标自由塔点亮五星红旗
-- 沙特准备反攻胡塞，或动员10万也门军队进攻曼德海峡
-- 全世界都知道中国人放假了
-- 美国不禁运柴油了，特朗普：小小G7，轻松拿捏
-- 普京视察俄军演习
-- 特朗普拿下了格陵兰岛？
-
-## 财新网 (4 条)
+## 财新网 (10 条)
+- 图集｜美军结束23年驻军 伊拉克庆祝主权回归
+- 视线｜每天两列慢货车的百年火车站 每周一市集人潮熙攘
+- 欧洲市场复苏贡献增量 特斯拉第三季度交付超预期
+- 小红书加码二次元、游戏 RED LAND参展IP数量翻倍
+- 陈燕妮：把家换成RH｜故事
+- 恒大清盘人追讨许家印资产 向张松桥蒋大龙索偿191.5亿港元
 - 看不见的《交锋》｜影视
 - 分析｜巴西大选前瞻：拉美右翼浪潮会否席卷拉美第一大经济体？
 - 武汉全装修住宅可分阶段竣备 毛坯备案能否按揭放款仍待明确
 - 财新闻｜国庆假期首日全社会跨区域人员流动量超3.29亿人次
 
-## 央视网 (6 条)
-- 以中国视角，走进世界文明现场！纪录片《北纬三十度》CCTV-9明晚开播 - 央视网
-- 假期夜游红楼幻城 移步换景打开戏剧盲盒 - 央视网
+## 央视网 (5 条)
+- 以中国视角，探寻世界文明源流！大型纪录片《北纬三十度》CCTV-9明晚开播 - 央视网
 - 瓜果飘香、蟹肥鱼鲜，神州大地一派好“丰”光！ - 央视网
-- 透过镜头瞰金秋神州大地多锦绣 山河共贺盛世华章 - 央视网
 - 特色美食“一口鲜”擦亮地方名片 市井“烟火气”成为文旅消费增长新亮点 - 央视网
-- 星火成炬｜ 中国人才懂的浪漫 - 央视网
+- 国庆长假自驾出行 怎么开才安全？带好这份安全攻略→ - 央视网
+- 特朗普：与伊朗的战事将“很快结束” - 央视网
 
-## BBC (11 条)
-- G7 to release 100 million barrels of oil and diesel after Trump export ban threat
+## BBC (19 条)
+- Flydubai co-pilot attacked captain with axe, UAE official says
+- Russia strikes second major bridge in Kyiv, mayor says
+- G7 to release millions of barrels of oil and diesel after Trump threat
 - US murderer Christa Pike unconscious and on ventilator after failed execution, lawyers say
-- Cornell frat house rape accuser 'under siege' online, says lawyer
-- Riot police clash with students as education protests rage in France
-- US road rage killer's sentence quashed because AI video of victim was shown in court
+- UK-Iranian dual national bailed after RAF Fairford incident arrest
 - Women given shorts at Oktoberfest to prevent upskirting
+- Kim wins Asian Games gold to secure military exemption
+- Riot police clash with students as education protests rage in France
+- Cornell frat house rape accuser 'under siege' online, says lawyer
+- US road rage killer's sentence quashed because AI video of victim was shown in court
 - Hawaii's iconic 550-year-old Hōlei Sea Arch collapses
 - Ethiopia and Eritrea cut diplomatic ties as northern conflict escalates
-- The South African men trying to end violence against women: 'Every man needs to play a part'
 - Could El Niño mean there are no Atlantic hurricanes this year?
+- Joker persona helps Cong 'feel the fear' in opponents
+- EV drivers love their cars, but some passengers feel sick - this could be why
+- The South African men trying to end violence against women: 'Every man needs to play a part'
 - The vanishing world of India's street magicians
+- Newly released video shows Luigi Mangione’s arrest
+- How widely used is the death penalty in the US?
 
-## Reuters (3 条)
-- How Brazil's election winner could reshape its institutions as vacancies mount - Reuters
+## Reuters (4 条)
+- Saudis plan assault on Houthis to break Red Sea chokehold - Reuters
+- Trump says US to send one-time $90 payment to 20 million seniors enrolled in Medicare - Reuters
+- Ethiopia government forces retake airport in Tigray's capital, sources say - Reuters
 - EXCLUSIVE: Carney plans to visit Turkey this month, sources say - Reuters
-- Israeli officials to question co-pilot of flydubai flight, source says - Reuters
 
-## NYTimes (19 条)
+## NYTimes (20 条)
 - How FlyDubai Passengers and Crew Averted Disaster After Pilot Was Stabbed During Flight
+- Separatists Are Poised to Win Quebec’s Election. Independence Is Still a Hard Sell.
+- FlyDubai Co-Pilot Used Crash Ax in ‘Terrorist’ Cockpit Attack, Emirates Says
+- American High School Students Are Selling Guns Bound for Cartels
 - Argentina’s ‘Golden Passport’ Program Offers Citizenship in Exchange for Foreign Cash
-- Mass Shootings Surge in South Africa as Illegal Guns Flood Streets
-- Fighting Intensifies in Yemen, Raising Fresh Fears of All-Out War
-- Widdecombe Murder Suspect Charged With Preparing Acts of Terrorism, Including Against Farage
-- Coast Guard Says It Stopped Ships Carrying Fuel to Cuba
-- Student Protests Rattle France as Police Clashes Bring Blockades and Tear Gas
+- Iraq Wins U.S. Permission to Resume Iran Flights, Prime Minister Says
 - India Faces Fresh Protests, This Time Over Voter Rolls
-- Spanish Lawmakers Reject Eviction Freeze, Spurring Calls for Early Elections
+- What We Learned About American Teenagers Supplying Guns to Cartels
+- Student Protests Rattle France as Police Clashes Bring Blockades and Tear Gas
+- What to Know About Fighting Between Ethiopia and Rebels in Tigray
+- Understanding Canada’s Europe Pivot
+- These Birds Are Louder Than Elephants, Jackhammers and Chain Saws
+- In India, a Food Inspector Sparks Fear in Mumbai Restaurants
 - Iran Jails Hard-Line Lawmaker, Exposing Deep Rifts in Its Leadership
 - Bridal Shop Owner Who Put Child Onto a Coat Hook Cleared by Court
-- What to Know About Fighting Between Ethiopia and Rebels in Tigray
 - 2 Iranian Men Charged in U.K. Over Suspected Plot to Target Jews
 - Israel Lists 170 Killed in Gaza It Says Were Militants Posing as Media Workers
 - FlyDubai Attack Raises Questions About Pilot Background Checks
-- Why Were 4 Pilots Aboard FlyDubai Flight 1073?
-- U.S. and Allies Agree to Release Diesel Reserves as Prices Soar
-- Sales of Hulking Pickups and S.U.V.s Sag as Fuel Prices Soar
-- American University of Afghanistan at Risk of Closure Amid Funding Cuts
+- Widdecombe Murder Suspect Charged With Preparing Acts of Terrorism, Including Against Farage
+- Mass Shootings Surge in South Africa as Illegal Guns Flood Streets
 
 ## CNN (6 条)
 - 0% intro APR until 2024 is 100% insane
@@ -108,32 +121,32 @@
 - Want Cash Out of Your Home? Here Are Your Best Options
 
 ## 微博热搜 (20 条)
-- AI面试 恐怖谷
-- 纪梵希看秀待遇
-- 晚辈合力托举老人看升国旗
-- 谁撑起了国庆3.5亿票房
-- 深圳走应急车道被罚三千
-- 王楚钦说男团打掉了自己部分精力
-- 小沈阳夫妇逆袭成国庆档票房黑马
-- 张雪摩洛哥陷沙被当地孩子救了
-- 小伙毕业刚入职就弄丢10台苹果手机
-- 黄泽林夺亚运金牌
-- 田馥甄曾因立场争议作品下架
-- 张继科杯球迷大骂发球遮挡
-- 孙千衬衫开口Luke2.0
-- 包贝尔 冷处理
-- 德国教材里的中国引争议
-- 蒋欣为了吃碗面太不容易了
-- 国庆买金变了
-- 惠英红 妈你是不是在巴黎买了地
-- 江秋莲官司八年变公诉案件
-- 吴易昺银牌
+- 为什么现在退房时酒店不查房了
+- 巴勒斯坦球员向国足道歉
+- 国庆商圈大屏礼赞时代脊梁
+- U23国足铜牌
+- 女子别车遭脚踹被罚200元
+- 对手退赛郑钦文中网晋级
+- 郑钦文vs卡林斯卡娅
+- 孙心然vs布克沙
+- 郑钦文卡林斯卡娅决胜盘
+- 李昊两扑点球
+- 烟草局招聘体育特长生
+- 闲鱼 黑话
+- 田馥甄亲手毁掉了自己的演艺生涯
+- 鞠婧祎直播
+- JDG对战EDGM
+- 中国U23国足6比5乌兹别克斯坦U23
+- 一座商场挤停了一个地铁站
+- 白鹿给宋雨琦新歌打歌
+- 刘学义经纪人否认与刘学义恋情
+- LOEWE这季有点东西
 
 ## 知乎热榜 (20 条)
 - 大象产肉量是猪的20倍，为什么不养大象来吃？ - 祥昊的回答
+- 是什么削去了海底平顶山高耸的山顶？
 - 既然生物的目的是繁殖，为什么人类生孩子那么痛苦？
 - 有什么食物是「中国人吃，而外国人基本不怎么吃的」？
-- 是什么削去了海底平顶山高耸的山顶？
 - 人少一个肾还能生活、肝切掉一部分还能长回来，这两件事的原理一样吗？
 - 一个细胞最后能长成完整的人，它怎么知道哪里该是眼睛、哪里该是心脏？
 - 为什么 AI 写文章都特别爱用「不是……而是……」等刻意的句式，以及「推、硬、稳」等单调刻板的形容词？
@@ -146,99 +159,96 @@
 - 瓶装水在开封后，多久会变质？
 - 网购燃气灶防风罩一月后妻儿中毒死亡，该产品为何会导致如此严重的事故？是否该全面禁售？
 - 瞎扯 · 如何正确地吐槽
-- 平陆运河正式通航，广西从此江海直连，这条设想了近百年的运河建设难度有多大？它能「带飞」中国西南吗？
-- 西方历史上为什么弑父弑君的事情很少？
-- 为什么游戏画面越来越接近现实，我们反而越来越容易发现「假」？
+- 不懂书法的人怎么分辨一副作品的好坏？
+- 闰秒制度可能将被提前废除，什么是闰秒？为啥用了半个多世纪会被取消？对我们生活有影响吗？
+- 网友呼吁归还配料表中的白砂糖，它为啥重回白月光？食品饮料为何用果葡糖浆替代白砂糖？前者会影响健康吗？
 - 瞎扯 · 如何正确地吐槽
 
 ## B站热门 (20 条)
 - 4名枪匪闯入豪宅，中国男子4秒13枪疯狂反击！
-- 【水手】|“低山臭水遇知音 末法时代双子星”|【双子星の小曲】
-- 如何用5分钟让听日语歌的和唱中文歌的都沉默☝️
+- 《霸凌の意志》
+- 可恶的蚊子你也有今天
 - 【独家】《凡人修仙传之慕兰之战》第18集【总第194集】
-- 啥叫过度女性化啊申公豹版
-- 世上无灵丹妙药，谨防老年人诈骗
-- ピノキオピー - えねみぃ feat. 初音ミク・重音テト
-- 77年前的今天 新中国成立了
-- 《断枪》一把从没打响过的枪，却要了所有恶人的命
+- 【warma/怒九】我们俩第一次出国！
+- 中国同桌会飞（同桌请假就这么耍起
+- 狡猾3：最有魅力之人！！！
+- 人狐情未了！谁不想要一个狐仙女友啊！
+- 美国中期选举临近，懂王一根筋最多可以几头堵？丨中国坐标
 - 【纪录片】威尔史密斯的极地纵横 01 南极探险
-- 当你不小心进入了黑乌龟...
+- 我的老师竟然是二次元！！
+- ピノキオピー - えねみぃ feat. 初音ミク・重音テト
+- 【功夫女足】至尊无敌杯开赛！
+- 如何用5分钟让听日语歌的和唱中文歌的都沉默☝️
+- 《明日方舟》SideStory「昨日海」活动宣传PV
+- 从今往后，我只吃小孩菜
+- 浅谈iPhone 18 Pro：赶紧骂，骂完还得买！
 - 你敢信？我在太平洋赶海竟然发现上百斤重的巨型砗磲！这么大的家伙，吃起来什么味道？
-- 咱兄弟俩真是这个👍（国庆大合集）
-- 逻辑折叠深度解析！华为Mate 90系列韬定律芯片有多强？
-- 【10月电脑配置推荐】11张天梯图+实拍实测，教你怎么学会搭配电脑整机？小白装机必看指南，保姆级电脑攻略！
-- 危险！胃险？薇险！【手搓动画大赛】
-- 根本就没有这种军训
-- 24位博主为粉丝争夺30万元！
-- 你再看看你后面呢！!
 - 我的东京留学生活不可能那么二次元！【AI全民制作人】
+- 没看住对面牢玩家，又让他出去祸害我队友了
 
 ## 抖音热搜 (20 条)
-- 全世界都知道中国人放假了
+- 中国男足获亚运铜牌
+- 挑战0元搭车完成长途旅行
+- 铁路部门优化老年人购票优惠措施
+- 苏超泰州vs南通
 - 把秋天装进手帐里
-- 一组数据看咱们这77年
-- 中国游客生动诠释一呼百应
-- 一支舞庆祝国庆
+- 云南赏秋治愈之旅
+- 自己做饭虽然累但是吃了不烧心
+- 海上厨子休假回来秒变加班现场
+- 在南宁逛吃烟火气早市
 - 在拍一种很新的假期生活vlog
-- 中国功夫献礼祖国
-- 国庆献礼卷起来了
-- 一个人也可以看世界
-- 被澳门国庆烟花浪漫到了
-- 国庆宅家吃什么
 - EDG发文道歉
 - 喝无醇啤酒后开车也可能酒驾
-- 披荆斩棘2026四公舞台
-- EDG不敌GE止步无畏契约全球冠军赛
-- 这牦牛还怪有礼貌的
-- 国庆烟花极速省流版
-- JDG1:2不敌T1
-- 看什么意思夫妇全家都能乐
-- 情侣枕头大战开赛
+- 我打破了天我打破了地手势舞
+- 假期也不忘吃一碗白切鸭
+- 国庆长假我在朋友圈里看世界
+- 国庆档观影repo
+- 李昊两扑点球
+- 我在假期上大分
+- 男足球员发抖音：把奖牌带回家
+- 神探之痕迹片尾彩蛋信息量
 
 ## 丁香园 (3 条)
 - “敬老月”老年健康提醒丨老年人的假期出行安全指南 - y.dxy.cn
 - 国庆有种“堵”，不在高速，在脑子里！请留意身体的这三个“求救信号” - y.dxy.cn
 - 【杏坛薪火】杏林春暖育桃李，岐黄薪火传四方——记广西中医药大学第一临床医学院儿科学教研室的育人华章 - y.dxy.cn
 
-## 雪球热帖 (3 条)
-- 基本半导体(09971)月报表截至二零二六年九月三十日止股份发行人的证券变动月报表 - 新浪财经
-- 至源控股(00990)公告及通告 - [关连交易]与租赁协议有关的关连交易 - 新浪财经
-- 龙金资源：9月已发行股份无变动 符合公众持股要求 - 新浪财经
+## 雪球热帖 (10 条)
+- 特朗普威胁韩国要求其投资阿拉斯加LNG管道项目 - 新浪财经
+- 10月3日热门中概股多数下跌，网易跌2.82%，京东跌2.24% - 新浪财经
+- 大宗商品综述：燃料价格大跌 铜价微升 金价走低 - 新浪财经
+- 原油：燃料价格大跌 七国集团计划释放战略储备 - 新浪财经
+- 10月3日外盘头条：沙特计划对胡塞武装发动攻势科技公司推出萌系吉祥物道明证券推迟美联储加息时点预期 - 新浪财经
+- 10月3日收盘：美股周五收涨 就业数据走弱提振市场 - 新浪财经
+- 【机构持仓】贝莱德增持加拿大帝国商业银行 - 新浪财经
+- 【机构持仓】贝莱德顾问公司（英国）减持德意志银行 - 新浪财经
+- 内部人交易｜Revolution Medicines披露一笔股票减持，金额约4.09万美元 - 新浪财经
+- 美国第一夫人梅拉尼娅特朗普站台亚马逊： 亚马逊对“培育未来”的承诺将为数百万学生配备强大的人工智能（SI） 工具和数字技能。 全球132 所大学的学生现在可以免费激活亚马逊的Kiro，将他们置于塑造职业生涯的道路上。 我期待看到下一代软件工程师和创新者从这 - 新浪财经
 
-## 36氪 (14 条)
-- 台积电或与马斯克晶圆厂合作
-- 谷歌搭载AI芯片测试卫星发射升空
-- 2026年度电影总票房突破300亿
-- 长三角铁路今日预计发送旅客372万人次，增开列车105列
-- 老年人购买10月18日至12月30日铁路12306标注“敬”字车次的火车票将享受“折上折”票价优惠
-- OpenAI安全系统团队负责人David Robinson已从公司离职
-- 个人投资者在ETF投资中的占比仍在持续扩大，三类主题ETF受青睐
-- 曙光8000助力攻克火箭回收技术难题，国产异构计算平台再创纪录
-- 今天全国铁路预计发送旅客1890万人次
-- 华为乾崑智驾累计辅助驾驶里程突破160亿公里
-- 130余家公司国庆节后率先披露三季报，部分上半年盈利个股获融资客重点加仓
-- OpenAI披露澳大利亚又一政府机构遭入侵
-- 国庆假期第二天全社会跨区域人员流动量超3亿人次
-- 美股收盘三大指数集体收涨，纳指、英伟达盘中再创新高
+## 36氪 (1 条)
+- Karpathy新玩法 40年航空规范解决AI废话难题 大模型优化新思路 - 36Kr
 
 ## 虎嗅 (20 条)
+- 北大07级数学系校友：O/A两家做的事，在毁掉数学系的年轻人
+- 中网赞助商的更迭，比《甄嬛传》还好看
+- 外科医生突发心梗，麻醉科妻子救回来了
+- 美俄在联合国闭门删掉了AI武器的“人类刹车”，11月将迎关键一役
+- 中国科创的主要矛盾：能力在增长，体系为何跟不上？
+- 德国，一个没有合上的国家
+- 利润回来了，面板股为什么还在跌？
+- 为什么要房贷贴息？
+- 估值2万亿美元，美股史上最大IPO“抽水机”要来了，大批公司主动“让路”撤回上市申请
+- 前川：基因如何控制我们，我们就如何控制超级智能
+- “大厂三倍工资，原地加班”
+- 又一个00后造富神话
+- Hinton 联合20多位AI 大牛警告：“智能爆炸”时代要来了
+- 赶走留学生3年后，这个欧洲高冷富国后悔了
+- 外卖小哥投稿二则
+- 信托高净值客户转向：从“赚钱”到“守财”
+- 国庆开电车，车主们集体兼职“调度员”
 - 放假以后，我突然觉得世界有点假
 - 一个诺奖得主说，如果明天废除95% 的学术界，世界不会察觉
 - 杀猪盘用上了AI，骗局开始批量生产
-- 刚刚，AI 击穿了“视频图灵测试”，1700万网友在线围观
-- Agent 时代，最重要的新对象，可能不是Agent
-- 你信了多年的那句“古训”，其实连三年都不到
-- 广汽接手一汽丰田50%股权背后：一汽“退而不出”，“南北丰田”重新分工
-- 机器人“价格战”，快要打不动了
-- 马斯克“二进宫”与未来战争的“私有化”
-- 中国人玩命出片的十一，真要命
-- 国庆出游用AI，第一批人已经被坑惨了
-- 第一批用豆包“反向旅游”的人，被气笑了
-- 越南在美国发起“魅力攻势”
-- 3天抓12万条，被毛毛虫害苦的北漂开始反击了
-- 中国男足0：5不敌巴勒斯坦，最恶心的是伪球迷
-- 苏姿丰抬头，李飞飞低头
-- 车企无法再靠“嘴硬”撑下去了
-- 耐克大中华区，17年后并回亚太
-- 美军走了，波斯湾空了：中东的“后美国时代”来得比想象中更快
-- 我们对AI之后发生的事还一无所知
+
+## 少数派 (1 条)
+- TDS REVIEW | CMF Clip Pro 耳夹式无线耳机体验
