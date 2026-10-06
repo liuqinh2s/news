@@ -1,115 +1,122 @@
-# 2026-10-06 原始新闻标题 (244 条)
+# 2026-10-06 原始新闻标题 (251 条)
 
-## 澎湃新闻 (20 条)
-- 视频丨男子屡次被打、被逼到割腕，缅北电诈集团手段残忍！画面曝光
-- 国庆半程答卷：“奔县”与“进馆”外，小城热背后的供给难题｜一周文旅扫描
-- 国庆返程高峰将至！山西高速在重点服务区临时增设“充电宝”
-- 江河100·夜上海｜活力街区：长风地区
-- 浙江苍南：一条沿海景观路刷新“宝藏小城”文旅新版图
-- 视频丨白应苍临刑前自曝电诈敛财内幕，随口一个资金盘就20亿
-- 北疆七日：一路向东，石榴花开
-- 泰山景区辟谣“躲雨80元一小时”：国庆假期未出现有效降水
-- 视频丨中国人在缅北被杀害，专案组：获取证据办成铁案，血债血还！
-- 低龄儿童被纵容驾驶电动游览车，亲子乐园安全须知何以落实
-- 淮安西游乐园：过山车项目抓拍游客在线卖照片，存隐私暴露风险
-- 重庆酉阳盗矿案致7死：疑盗采废弃汞矿，事发当日当地乡镇有大暴雨
-- 60集电视剧《伟大的长征》10月9日央视一套黄金档开播
-- 柴思原｜不止一种村上春树：规律与迁徙中的写作人生
-- 英航赴美航班高空骤降八千余米后返航，安全降落希思罗机场
-- 实探｜国庆假期上海楼市热度不减：新房售楼处“9点不到就有客户来了”，二手房议价空间持续收窄
-- 视频丨缅北电诈主犯随机杀人祭天、有受害者头骨7个弹孔，案件细节曝光
-- 奔赴“县”场｜一座资源型城市是如何“由灰变绿”的
-- 长三角铁路今迎返程客流高峰：预计发送390万人次，动态调整票额分配
-- 时政微观察丨民生为大，把老百姓的事办实办好
+## 澎湃新闻 (14 条)
+- 建筑瞭望｜教堂的转型 - thepaper.cn
+- 缅北电诈武装用AK47扫射逃跑人员，更多细节公开→ - thepaper.cn
+- 2026年诺贝尔物理学奖揭晓，弗朗西斯・哈尔岑获奖，表彰其对冰立方中微子天文台作出的决定性贡献，以及对天体物理来源高能中微子的发现 - thepaper.cn
+- 女子报冰岛外国团，发现除了导游全是中国人，当事人：因为便宜一半就报了，北极圈地广人稀但“处处是乡音”，感到非常亲切 - thepaper.cn
+- 一汽丰田发布声明：不实！ - thepaper.cn
+- 10月7日计划停水通知 - thepaper.cn
+- 鸡胸肉别只会水煮，10 分钟做出椒盐鸡排，好吃到停不下来 - thepaper.cn
+- 最新 | 知名女歌手宣布喜讯 - thepaper.cn
+- 第四届《了不起的幼儿园》电视才艺展演10月7日重磅登场！ - thepaper.cn
+- 离谱 | 打球落后暴怒！球拍扔向看台！随后退赛…… - thepaper.cn
+- 重庆发生一起盗矿案件，7人在盗矿时因降雨引发矿洞突发涨水溺亡，21名盗矿人员被抓获 - thepaper.cn
+- 英航一客机7分钟急坠约8230米，并发出7700通用紧急代码，目前事故原因还不清楚 - thepaper.cn
+- 一彩民喜中1610万元大奖 - thepaper.cn
+- 露营农家乐，风景好但容易拉肚子，问题出在哪？ - thepaper.cn
 
-## 南方周末 (1 条)
+## 南方周末 (3 条)
+- 全国社保基金：25年赚了2.3万亿元
+- 金九落空，猪企深陷磨底：高负债下的“胆小鬼博弈”
 - AI不再是护城河，“AI制药四小龙”怎么办？
 
 ## 凤凰网 (20 条)
-- 泰山景区辟谣躲雨80元1小时
-- 缅北电诈被害人自杀，手机留存骗子录音
-- 红利曼失守，俄军否认乌军机器人纵深投放
-- 缅北电诈武装用AK47扫射逃跑人员
-- 台当局官员让儿子假冒“摄影官”随行参加活动，被要求即刻停职
-- 英国被曝警告以色列：若关闭领事馆，英方将对等驱逐27名以外交官
-- 24个百分点！中期选举前耐人寻味一幕：拉美裔选民重新倒向民主党
-- 用33年积蓄改写美国名校历史的中国人，后人找了他120年
-- 缅北电诈案件细节曝光：主犯随机杀人祭天、有受害者头骨7个弹孔
-- 阿雅发长文纪念大S冥诞：她一直维持直挺挺的样子，可是她的心，其实很柔软
-- 日本化工订单源源不断流向中国，日企担忧：这不是临时替代
-- “香港名媛蔡天凤碎尸案”最新披露：前夫家提前16天策划，导火索是6000万元豪宅
-- 日本维新会80岁议员参会时“性骚扰”女议员被直播镜头拍下
-- 驻日美军勒死冲绳女子，更多细节披露
-- 日媒：1名中国人在大阪遭抢劫并受伤
-- 中方驳斥部分西方国家：无权对中国人权说三道四
-- 国庆假期，世界发生了很大变化
-- 中国代表点名警告英澳日等国
-- 祁连县游客爆满，有人免费住进学生宿舍，教育局：游客素质高，离开还打扫卫生
-- 国庆21.3亿人次大迁徙，日媒关注：不再赴日的中国游客都去哪了
+- Manus重新独立，Agent之战换了打法 - tech.ifeng.com
+- 全国车牌挤进养马岛 - 凤凰视频
+- 听总书记谈“奋斗” - 凤凰网
+- 乌克兰研究出大杀器？俄军两年努力白费，普京突然把希望寄托印度 - 凤凰视频
+- 宜宾合江门江面漂满白花花的馒头有人一次买25个喂鱼居民：全是馒头鱼都快吃吐了当地：会规劝此类行为 - 凤凰视频
+- 科学老师用塑料桶手搓4米高水火箭，点燃孩子们的航空梦 - 凤凰视频
+- 乌军新司令太狠了，一口气制定了30年战略，要与俄罗斯不死不休？ - 凤凰视频
+- 律师解读陈楚生被人肉开盒 - 凤凰视频
+- 莫言说山东话，“山东”含量百分百 - 凤凰视频
+- 高市两次施政演说对比：涉华表态无新意，言辞缓和不等于政策转向 - 凤凰视频
+- 说杀就杀，说埋就埋，缅北电诈人员集体出逃遭AK47扫射 - 凤凰视频
+- 米莱的“工业奇迹”，还是又一次经济危机？#零基础看懂全球 - 凤凰视频
+- 69岁摄影师热爱摄影近40年，今年为画册筹备了百幅作品冲刺“画册梦” - 凤凰视频
+- 天龙山石窟佛首现身日本拍卖行，国家出手追索，华侨自掏腰包促成文物归国 - 凤凰视频
+- 江西一摩托车驶入收费站被人手持“电锯”阻拦当地管理中心：不是电锯他用绿篱机修剪树枝没及时放下去高速交警已介入 - 凤凰视频
+- 前员工实名举报多名高管，中国电信回应：已进行过内部专项核查，言论与事实不符，“郑季衍原为我部门员工，自2023年起无理由旷工635天” - 凤凰视频
+- 媒体评：极端粉丝开盒陈楚生是犯罪行为 - 凤凰视频
+- 人潮里 听窑火的回响 - 凤凰视频
+- 满满的人情味！小伙穿玩偶服西湖边拍照，遇保安大叔高情商劝导，网友：和傅园慧爸爸说话神情一模一样 - 凤凰视频
+- 罕见！陕西上空现绝美火流星划过夜空不断爆燃并坠落目击者：大约持续了5秒以为是烟花没来得及许愿 - 凤凰视频
 
-## 财新网 (4 条)
-- 财新闻｜贵州“村超”首个海外赛区签约，“村超”模式正式走出国门
-- 【商圈】无人出租车鹿死谁手 Waymo联席CEO多尔戈夫坚持安全优先
-- 清华经管学院顾问委员会扩容 黄仁勋、苏姿丰等成新增委员
-- 雕与塑的完美结合｜千年麦积山石窟⑤
+## 财新网 (2 条)
+- 知名科普博主洪广玉被刑拘 曾参与大连樱桃种植户维权活动 - china.caixin.com
+- 清华经管学院顾问委员会扩容 黄仁勋、苏姿丰等成新增委员 - 财新
 
-## 央视网 (9 条)
-- 退货疑云 - 央视网
+## 央视网 (12 条)
 - 总台出品《伟大的长征》10月9日CCTV-1黄金档首播！ - 央视网
-- 国庆假期 文旅市场活力涌动 - 央视网
-- 浙江德清：丝缕织新梦 华服立潮头 - 央视网
-- 10月5日全社会跨区域人员流动量超3亿人次 - 央视网
-- 红色薪火永传 团结花儿长开（赓续长征精神 奋进复兴征程） - 央视网
+- 退货疑云 - 央视网
+- 流动中国 蓬勃向上 - 央视网
+- 交通运输部：10月5日全社会跨区域人员流动量30333.7万人次 - 央视网
+- 高炉里“筑巢兴业”老工业遗存释放新活力 在钢铁森林中沉浸式体验“赛博漫游” - 央视网
 - 美国纽约州宣布针对麻疹疫情进入灾难紧急状态 - 央视网
-- 百日千万招聘专项行动推出四个线上招聘专场 - 央视网
+- 浙江德清：丝缕织新梦 华服立潮头 - 央视网
+- 假日服务台·出行 | “睡一觉到家”成常态 新线新站拓宽返程出行通道 - 央视网
+- “消费升级+定制化需求”释放广阔增长空间 外资品牌逆势“加码”深耕中国投资未来 - 央视网
+- 国庆假期 走近大国工程感受中国力量 - 央视网
 - 谨防秋燥 北方多地空气相对湿度不足30% - 央视网
+- 深圳盐田港单船装卸量刷新中国港口纪录 - 央视网
 
-## BBC (15 条)
+## BBC (20 条)
+- Former German spy chief arrested for espionage and treason
 - Trump says 'threat' led US to pull bombers from RAF Fairford
-- France braces for national day of school protests after injuries and mass arrests
+- Fort Hood shooter to be executed by firing squad - a first for US military since World War Two
+- 'Ghost particles' from space telescope wins physics Nobel
+- Ship sinks and crew missing after Black Sea drone attack
 - Saudi Arabia urged to spare man sentenced to death over Facebook post
-- Separatist party projected to win Quebec election, adding new test to Canada's unity
-- Europe is pouring billions into space. Can Glasgow's satellite industry keep up?
-- Trump says he will stop using taxpayer funds for ads after bipartisan pushback
-- Fort Hood shooter to be executed by firing squad, in first since World War Two
-- UK MPs call for investigation after Lutnick-Epstein whistleblower dies
-- Right-wing Flávio Bolsonaro wins first round of Brazil election
-- Spain PM pins hopes on housing crisis to help win snap election
-- Samoa leader apologises for Nazi salute after video from 2007 emerges
-- US 'watching closely' after plague researcher dies in Russia
+- Indian opposition MPs detained in protest against election chief
 - Yemeni military says it has 'secured' Red Sea waterway
-- A simple guide to the US midterms
-- Five reasons India's stock market is sinking even when its economy is growing
+- Kenya confirms its first Ebola death as outbreak spreads
+- Nigeria mourns 32 killed as military plane crashes into swamp
+- Separatist party projected to win Quebec election, adding new test to Canada's unity
+- OpenAI admits response to Australian government hacks 'not good enough'
+- Samoa leader apologises for Nazi salute after video from 2007 emerges
+- Watch: Moment Indonesian shoe shop is torn apart by explosion
+- Blue Planet and Gandhi composer George Fenton dies aged 76
+- US 'watching closely' after plague researcher dies in Russia
+- Fear and disruption for Ukraine's rail passengers as Russia escalates drone attacks
+- What are the US midterms? A simple guide
+- Owner, businessman & player: Messi has big plans as a golden era ends
+- Children brave snipers and mortars to go to school near Yemen front line
 
-## Reuters (6 条)
-- US says foreign financial institutions doing business with Iran may be sanctioned without notice - Reuters
+## Reuters (11 条)
 - EXCLUSIVE: Cuba and US maintain 'channels of communication' but no negotiations, diplomat says - Reuters
-- Brazil markets' Bolsonaro rally sends stock exchange to record high - Reuters
+- US says foreign financial institutions doing business with Iran may be sanctioned without notice - Reuters
+- Trump approval at record low; Hispanic voters sour on Republicans, Reuters/Ipsos poll finds - Reuters
+- Ethiopian Prime Minister Abiy Ahmed sworn in for second term - Reuters
+- India-US trade talks hit 'plateau', finance minister says, as tariffs narrow room for deal - Reuters
+- Tata trustees accuse two peers of breaking ranks over Tata Sons listing, sources say - Reuters
 - Trump expands access to tax-exempt diesel fuel - Reuters
-- US envoy meets Sudanese army chief in Egypt - Reuters
+- Brazil markets' Bolsonaro rally sends stock exchange to record high - Reuters
+- Bain, GIC explore IPO or sale of Japan's WHI at valuation of about $3.2 billion, sources say - Reuters
+- Nolan Wells' family seeks federal probe after grand jury declined to indict anyone for his death - Reuters
 - Catholic diocese sues US government seeking clergy access to detainees - Reuters
 
 ## NYTimes (20 条)
-- Russia Moves to Tamp Down Rumors About Plague Outbreak in Siberia
-- Brazil Election Could Give Bolsonaro a Key Role in Trump’s Latin America Map
-- Spain’s Leader Calls an Early Election
-- In a Major Boost for the Right, Another Bolsonaro Nears Brazil’s Presidency
-- How Congo’s Ebola Epidemic Got So Bad So Quickly
-- Turkey Banned a Book by a Jailed Presidential Hopeful. We Read It.
-- Voters in Quebec Election Go to Polls as Separatist Parti Québécois Leads
+- Kenya Records Ebola Case for First Time
+- U.S. Sends Reaper Drones to Colombia and Ecuador to Hunt Cartels
 - Strikes, Barricades and Fiscal Turmoil: An Autumn of Discontent Grips France
-- France Set for Nationwide Strikes, as School Protests Escalate
-- FIFA Found Congo Player Ineligible, Let Him Play in World Cup
+- German Officials Arrest Former Spy Chief on Espionage Charges
+- India Cut 130 Million From Voter Roll, Fueling Protests Against Modi
+- An 87-Year-Old’s Eviction Dragged Down Spain’s Leader. Will It Also Save Him?
 - As Japan’s Population Shrinks, a City Is Accused of Padding Census Numbers
+- Germany’s Far Right Claims Its First Statehouse Speaker Since 1945
+- FIFA Found Congo Player Ineligible but Let Him Play in World Cup
+- South Korea Investigates Possible Use of A.I. in Hackings on Its Banks
+- Demonstrators Rally Across France as School Protests Escalate
+- The Separatist Parti Québécois Wins Quebec Election, Reviving Sovereignty Push
+- Russia Moves to Tamp Down Rumors About Plague Outbreak in Siberia
+- Nigeria Military Helicopter Crashes With 32 Onboard
+- In Race With U.S., China Struggles to Recruit Foreign A.I. Researchers
+- Melting Swiss Glaciers Release Archaeological Treasures
+- Fury in California After Trump Suggests Iran Could ‘Take Out’ L.A. or San Diego
 - The Hidden Policies That Power China’s Export Boom
 - Cheikh Hamidou Kane, Author of Seminal Anticolonial Novel, Dies at 98
 - ‘A new kind of cyber incident’: OpenAI apologizes for the Australia Medicare hack.
-- OpenAI’s models have also meddled with U.S. government websites after going rogue.
-- The Separatist Parti Québécois Wins Quebec Election, Reviving Sovereignty Push
-- What to know about recent A.I. hacks.
-- Here’s the latest.
-- A.I. hacking in Australia prompts a concern: Can the law keep up?
-- Nigeria Military Helicopter Crashes With 32 Onboard
 
 ## CNN (6 条)
 - 0% intro APR until 2024 is 100% insane
@@ -120,26 +127,26 @@
 - Want Cash Out of Your Home? Here Are Your Best Options
 
 ## 微博热搜 (20 条)
-- 中方放弃谈判直接抓佤邦副总司令
-- 减肥针抑制食欲靠减慢胃排空
-- 流动的中国活力拉满
-- 明学昌畏罪自杀身亡照片曝光
-- 缅北电诈主犯杀陌生人祭天
-- 泰山景区回应躲雨80元一小时
-- 新疆英吉沙县花5000万元建景区不实
-- 缅北电诈头目赚1亿要分3成给明家
-- 缅北电诈用AK47射击逃跑人员
-- 缅方一直说没有中国人死
-- 高芙表示赛后已向孙心然道歉
-- 黄仁勋世界巡演
-- 宁都收费站人员持电锯拦截摩托
-- 黄子韬直播回应王鹤棣为人如何
-- 蒋欣让谭松韵别看兰香如故大结局
-- 赌博输几千万发朋友圈谈创业心酸
-- 徐艺洋第一次听代露娃名字是因为麻将
-- 王一博你到底怎么了开心成这样
-- 湖人vs国王
-- 陈楚生刑事民事重拳追责
+- 孩子打印作业开销家长直呼扛不住
+- 粤J2888T战绩全网可查
+- 国庆假期返程天气指南
+- 王婆说媒你选两个我不选
+- 中国人已经对星巴克祛魅
+- 小莲是第一个去世
+- 园区已停演60元卖活鸡让野兽撕咬
+- 兰香如故不是亲生终究不一样
+- 韩国博主在延边破大防
+- 中国电信回应前员工实名举报
+- 代露娃艺考老师发文
+- 缅北魏家接班人自曝布局军政15年
+- 邓紫棋已经明示了
+- 范玮琪陈建州去了大S墓地
+- 粤J2888T车主抵达景区喜提专属车位
+- 代露娃你没试上我进公司了
+- 左航穿越南国旗裤子引争议
+- 万斯妻子抱娃险摔倒身旁军人一动不动
+- Lisa关车门这下
+- 房车销量大涨
 
 ## 知乎热榜 (20 条)
 - 为啥白宫开始流行吃酸菜了？万斯自称吃酸菜减重成功，酸菜真能减肥吗？
@@ -151,6 +158,7 @@
 - 为什么美国私人汽车普及但公共轨道交通却十分落后？
 - 蘑菇的毒性是在「筛选」传播者吗？从蘑菇的视角看，爱吃蘑菇的人类是不是一个「失败」的传播者？
 - 海洋生物真的拿藤壶一点办法都没有吗？
+- 为什么符合人体工学的键盘抽屉现在不流行了?
 - 金星的表面重力加速度仅有0.9g，几乎不存在磁场，是如何维持如此浓密的大气层不逸散的？
 - 黑洞拍出来的照片，外面为什么一圈是有光圈的？
 - 大象产肉量是猪的20倍，为什么不养大象来吃？ - 祥昊的回答
@@ -161,119 +169,122 @@
 - 一个细胞最后能长成完整的人，它怎么知道哪里该是眼睛、哪里该是心脏？
 - 为什么 AI 写文章都特别爱用「不是……而是……」等刻意的句式，以及「推、硬、稳」等单调刻板的形容词？
 - 肠道里住着那么多细菌，免疫系统为什么不会一直攻击它们？
-- 天生失明的人复明后看到这个世界对精神的冲击会不会很大？
 
 ## B站热门 (20 条)
-- 《诡异的她》第一季全集·纯享
-- 《明日方舟》干员「克莱门莎」技能展示PV
+- 虽败犹荣
 - 你牛爷爷只是老了不是提不动刀了，胆敢绑架胡图图？一通电话十亿大军兵临城下！
 - 被 解 救 的 杰 戈
 - 夏果新片《山鸟》
-- 小孩菜实力排行
-- 《我上哪给你整假的》
-- 当我把verity变成双重人格！
-- 【哥布林故事总集篇】愿你也能像哥布林一样，开启逆袭翻盘的旅途
-- 这期有绷得住的风险吗？
-- 【抢先看】重回2002，永不空军的鱼竿被军方收编？军方进仓库一看：激光炮手电、隐身涂层、全球降雨弹……你管这叫鱼竿？
-- 大学生挑战国庆7天一个人爆改包浆宿舍
-- 真实事件不改编
-- 食人魔王、内战、石油，乌干达百年国运，怎么比小说还离谱【东非04｜乌干达】
-- 对不起，牢项劈瘾犯了
+- 朋友说我树屋像后室，各位评评理
+- 👊亿 拳 超 人👊
+- 当我让弟弟模仿我的假期日常（b站独家版）
+- 隧夜轮回（莫问来处）第一结局 动画 悬疑 微恐怖
+- 有用版新植物：情敌双发
 - 【完整版】纪录片《缅北电诈覆灭纪实》第一集《利剑出鞘》
-- 凡事尽力而为 最是圆满
-- 惊惊惊惊惊惊惊惊了
-- 二爷的弱点是叶腐?
-- 【春物语】我的婚后生活果然有问题 第1话：于是，结婚半年的两人还没叫过对方的名字。
+- 藏匿在方块世界下的神秘酒吧？！！「地下酒吧」
+- 终友的酒
+- 这期有绷得住的风险吗？
+- 四分钟看完华强买瓜【AI MV大赛】
+- 《明日方舟》干员「克莱门莎」技能展示PV
+- 【哥布林故事总集篇】愿你也能像哥布林一样，开启逆袭翻盘的旅途
+- 小孩菜实力排行
+- 《大回忆时代》战斗篇
+- 鉴定网传电脑事件，消磨看官吃饭时间5
+- 【梗百科】娘化马尔福是咋回事？爆火外网？！
 
 ## 抖音热搜 (20 条)
-- 国庆假期速度belike
-- 国庆假期余额不足
-- 六网协同激活我国发展新动能
-- WTT发文祝贺孙颖莎重回世界第一
 - 国足vs塔吉克斯坦
-- 假期打卡北京的秋天
-- 到香格里拉找到属于自己的自由
-- 南部战区警告驱离菲律宾侵空军机
+- 下次回来就是2027年了
+- 全国陆续迎来返程客流
+- 2026最后一个假期就要结束了
+- 国庆假期余额不足
+- 日本开始第24轮核污染水排海
+- 有告别才会有重逢
+- 沙特首都利雅得接连传出爆炸声
 - 明珍珍死刑前画面曝光
-- 川西旅行已渐入佳境
-- 敲一敲我的会玩假期
-- 常穿常新的秋日氛围感穿搭
-- 跑步真的伤膝盖吗
-- 徒步的意义在于出发
-- 心与心的朋友我不认识了
-- 央视独家拍摄电诈园区地下靶场
-- 央视披露缅北电诈头目晒钱防霉
-- 听潮阁启冬眠国庆打卡手势舞
-- 挑战看生化危机不被吓到惊跳
-- 不烧心的一周
+- 当美食判官回顾假期
+- 世界很大而我正在其中
+- 泰山景区辟谣躲雨80元一小时
+- 手帐人的假期战利品
+- 随机分配我的转方向盘变装
+- 下一个节点到来之前先别草草了事
+- 麻辣王者摇
+- 用说唱的方式打开世界黄金周
+- 剧版喜剧之王开播
+- 李荣浩临沂演唱会
+- 现在你再也推不开我了
 
-## 雪球热帖 (14 条)
-- 高盛上调台积电目标价至3300新台币 看好AI驱动强劲增长 - 新浪财经
-- 东建国际：通过一般授权配售新股份募资约3300万港元补充投资资金拓展饮品业务补充营运资金 - 新浪财经
-- 内部人交易｜美光披露一笔股票增持 - 新浪财经
-- 任某赵某诉德祐房地产中介合同纠纷案11月6日开庭将明确双方权责 - 新浪财经
-- 张某诉沈阳北方建设等民间借贷纠纷案11月6日开庭 涉权责认定 - 新浪财经
+## 丁香园 (1 条)
+- 十一宅家享假期，别忘了给眼睛也放个假 - y.dxy.cn
+
+## 雪球热帖 (20 条)
+- 今日期货市场重要快讯汇总｜2026年10月6日 - 新浪财经
+- 【机构持仓】吉奥德资本管理增持法拉利 - 新浪财经
+- 【机构持仓】Brandes Investment Partners, L.P.增持VYLR - 新浪财经
+- 【机构持仓】Franklin Templeton Investment Management Ltd.增持VYLR - 新浪财经
 - 今日国际国内财经新闻精华摘要｜2026年10月6日 - 新浪财经
-- AI重塑电子信息制造业 - 新浪财经
-- 上海未绀餐饮有限公司诉汪某劳动合同纠纷案11月9日开庭 涉用工合规认定 - 新浪财经
-- 高某诉江海证券等委托理财合同纠纷案11月6日开庭 涉合规经营评估 - 新浪财经
-- 刘某诉上海珵鸿物流确认劳动关系纠纷案11月9日开庭 厘清用工关系边界 - 新浪财经
-- 小山鲜火锅店诉汉涛公司等不正当竞争纠纷案11月6日开庭 明确经营权责边界 - 新浪财经
-- 南京宁信资管诉莫某融资租赁合同纠纷案11月9日开庭 涉债权追偿 - 新浪财经
+- A股20cm涨停后康希诺紧急发公告：港股四个交易日涨幅超30% - 新浪财经
+- 济南黄金回收进入“透明计价+实名留痕”时代：2026年10月新规落地，一秤一单一凭证，每笔交易可追溯 - 新浪财经
+- 大部分人还在用错误的方式复盘 - 新浪财经
+- A股市场：手中有20万本金，买海天味业等蓝筹股还是中石油等低价股，持有到牛市哪个更赚钱？ - 新浪财经
+- 最高涨超40% 多只银行股屡创新高 四季度银行股还有赚钱效应吗？ - 新浪财经
+- 海外紧缩预期再升温，节前交投降温约束仓位——银华投顾每日观点2026.9.24 - 新浪财经
+- 美联储官员鹰派言论扰动市场，但或不改市场方向——银华投顾每日观点2026.9.22 - 新浪财经
 - OpenAI首席执行官称马斯克是“霸凌者”：必要时反击才会让他尊重你 - 新浪财经
-- 赵某诉上海皆力投资管理有限公司等特许经营合同纠纷案11月9日开庭 厘清权责边界 - 新浪财经
+- 新加坡数据中心运营商DayOne(DODC.US)申请在美上市 估值或冲刺200亿美元 - 新浪财经
+- 微软将内部Claude使用支出削减三分之一 - 新浪财经
+- 铜价年内屡创新高！四季度最大变数来了 - 新浪财经
+- 印度电信巨头Jio据悉寻求约1140亿美元的IPO估值 - 新浪财经
+- 智通AH统计|10月6日 - 新浪财经
+- 保险索赔案将检验奥尔特曼与Amodei伊对 “失控 AI” 的法律责任 - 新浪财经
+- 世界银行上调东亚及太平洋地区增长预期至4.5%，警示人工智能行业集中风险 - 新浪财经
 
-## 36氪 (17 条)
+## 36氪 (20 条)
+- OpenAI在其智能体擅访澳数据后采取新防范措施
+- 国庆假期后首个交易日 20只基金将集中开启认购
+- 印度电信巨头Jio据悉寻求约1140亿美元IPO估值
+- 恒生指数、恒生科技指数均涨约1%，药品股、生物技术股上扬
+- 软银支持的DayOne数据中心拟在美国IPO募资至多50亿美元
+- AMD首席执行官：未来数年芯片需求将“非常高”
+- 国家税务总局发布全国统一的税务行政处罚裁量基准
+- 希捷和东芝据悉竞购TDK硬盘磁头业务，交易金额或达数十亿美元
+- 全球纯燃油车新车销量占比首次跌破50%
+- 三星电机获近2900亿韩元AI服务器MLCC订单
+- 一老板花90万买4条机器狗不满表现，具微科技：已通过协商妥善处理
+- 韩国计划明年启动35亿美元前沿AI模型开发项目
+- 长三角铁路迎来节中返程客流高峰 6日预计发送旅客390万人次
 - 月之暗面据悉完成IPO前融资 最新估值约500亿美元
-- 港股午间收盘：恒生指数涨0.78%，恒生科技指数涨0.87%
+- 港股午盘：恒生指数涨0.78%，恒生科技指数涨0.87%
 - 快手可灵AI计划最早明年赴港上市，至少融资10亿美元
 - 韩国9月外储为4405.6亿美元 环比减少17.2亿美元
 - 谷歌与Constellation接近达成十亿美元核电采购协议
 - 现货金银齐跌，白银跌幅扩大至1%
 - 劳斯莱斯CEO：中国市场对劳斯莱斯至关重要
-- 特斯拉连续八个月蝉联韩国进口车销量冠军
-- 高盛上调台积电12个月目标价至3300元台币 并提高资本支出预测
-- GLM-5.3上架Amazon 智谱打开海外收入分成通道
-- 多家阿联酋基金以及贝莱德据悉商谈参与OpenAI最新一轮300亿美元融资
-- 最新筹码大幅变动股名单出炉
-- 电影《生化危机：爆发夜》票房破9000万元
-- Lucid继续执行库存削减计划，第三季度交付3806辆汽车
-- 港股开盘：恒生指数开涨1%
-- SpaceX与特斯拉股价反弹 马斯克身家重返万亿美元
-- 美股三大指数集体收涨 纳指涨超1%创收盘新高
 
-## 虎嗅 (18 条)
-- 特朗普用“超级智能”取代“人工智能”, 难掩AI发展最尴尬的三个真相
-- 正在形成的一套agent行动许可系统
-- 法治看救助之六：沉睡十年的条款突然醒来
-- 这位临床医生，拿下今年诺贝尔奖
-- 一个非常万能的社交法则
-- 门票之外，景区还在靠什么赚钱？
-- 春熙路变迁，中国餐饮进入耐心时代
-- 聊聊A16Z这两份AI报告，以及一些反常识的真相。
-- 火箭发动机的“技术鄙视链”
-- 高铁多买的14站和等不起的人们
-- 马斯克沿着“子午线”，坐到黄仁勋前面
-- Peter Thiel专访：停滞五十年，AI是文明最后的自救吗？
-- 假期最火的景区NPC，让全网看到了自己
-- 善良，有实际的用途吗？
-- 想改造工厂的机器人，先被工厂改造了
-- 四箭齐发的7000亿到底流向谁？
-- 印度赚钱印度花，一分别想带回家
-- 为什么顶尖的AI研究员，开始纷纷叛逃自己所在的公司？
+## 虎嗅 (9 条)
+- 法治看救助之六： 沉睡十年的条款突然醒来 - 虎嗅网
+- 欧元汇率创17个月新低，法国债务危机威胁欧元区稳定 - 虎嗅网
+- 智能体越狱频发：OpenAI踩刹车取消GPT-6.1 Astra发布，Meta猛踩油门边开边修 - 虎嗅网
+- 高铁“买长乘短”现象：多买14站多付609.5元 - 虎嗅网
+- TypeSafe AI估值十天飙涨50倍，新模型Jev引发投资热潮 - 虎嗅网
+- AI提速个人效率后，团队交付为何依然缓慢？ - 虎嗅网
+- 全流量补燃成中国商业火箭热词，但复杂循环并非发动机先进性唯一标尺 - 虎嗅网
+- 春熙路变迁， 中国餐饮进入耐心时代 - 虎嗅网
+- 十一高速充电排队困局加剧：增程抢桩、800V降速、换电难普及 - 虎嗅网
 
-## GitHub Trending (14 条)
+## 少数派 (1 条)
+- 基于 Vaultwarden 和 Keyguard 的自托管密码管理实践
+
+## GitHub Trending (12 条)
 - tester-army/e2e
-- thedotmack/claude-mem
-- michael-denyer/pstack-claude
+- mattpocock/skills
 - earthtojake/text-to-cad
-- pingdotgg/t3code
 - boykopovar/AnyPS5
-- Panniantong/Agent-Reach
-- calesthio/OpenMontage
-- caddyserver/caddy
-- DuarteSantos8/openGym
-- cloudflare/cloudflare-os
-- Stremio/stremio-web
+- pbakaus/impeccable
+- thedotmack/claude-mem
+- ayghri/i-have-adhd
+- morluto/rea
+- deepseek-ai/DeepGEMM
 - msitarzewski/agency-agents
-- M-Abozaid/esp32-c3-adblock
+- DuarteSantos8/openGym
+- cathrynlavery/diagram-design
