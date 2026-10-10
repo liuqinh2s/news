@@ -1,84 +1,106 @@
-# 2026-10-10 原始新闻标题 (225 条)
+# 2026-10-10 原始新闻标题 (198 条)
 
-## 澎湃新闻 (5 条)
+## 澎湃新闻 (13 条)
+- 梁再冰｜八十多年前，中国营造学社的川康古建筑调查 - ThePaper.cn
+- 过度竞争社会中的草木皆兵：他人的努力为何会刺到我？ - ThePaper.cn
+- 专访｜知名篆刻家童衍方谈艺术求索与金石收藏之路 - ThePaper.cn
 - 专访｜黄鸿玺：十年“夜奔”，把武林搬进客栈 - ThePaper.cn
 - 独家专访｜“考古界法老”哈瓦斯：人类为何对金字塔着迷 - ThePaper.cn
 - 讲座｜古埃及考古的最新发现 - ThePaper.cn
 - 《三体》发表20年，人民日报对话刘慈欣：从《三体》到人类未来新变体 - ThePaper.cn
 - 《中国美术年鉴·2025》北京首发 - ThePaper.cn
+- 马上评｜食用银鳕鱼致汞中毒，“儿童装”为何没能更安全 - ThePaper.cn
+- 更年期综合征有什么表现？ - ThePaper.cn
+- 泽连斯基：感觉“被背叛” - ThePaper.cn
+- 检察院：串通投标，犯罪事实清楚！圣诺生物实控人及子公司被起诉 - ThePaper.cn
+- OpenAI甩出722份数学手稿，数学界也地震了！ - ThePaper.cn
+
+## 南方周末 (1 条)
+- 跳出“千校一面”，打破歧视链：高校改革有了新目标
 
 ## 凤凰网 (20 条)
-- 月近中秋，喜满湾区。9月21日，#茅台1935酒湾区美食之夜“金厨BEST30·2026金梧桐年度青年主厨/主理人颁奖盛典”现场，六位名厨联袂呈献十二手联弹，与茅台1935酒展开跨越地域的餐酒对话 - 凤凰视频
-- 联合国秘书长卸任前访问巴基斯坦 - 凤凰视频
-- AI生成内容不受版权约束？错！AI生成内容也有版权风险 - 凤凰网
-- 联播+｜总书记心中的头等大事 - 凤凰网
-- 纪录片｜永远的地球红飘带 - 凤凰网
-- 视频丨多国人士：日本谋求核潜艇 威胁亚太地区和平稳定 - 凤凰网
-- 视频丨日本民间团体提交请愿书 反对政府扩军备武 - 凤凰网
-- 何以中国·纹样里的中国｜第一集：《万象启纹·系列序章》 - 凤凰网
-- 全球减贫 中国答卷｜吉尼斯纪录认证！这匹“骏马”真的会发电 - 凤凰网
-- 也门政府军失守5400平方公里 胡塞武装9月攻占曼德海峡沿岸 - 凤凰网
-- 监控显示厨师把漱口水吐在灶台，商家回应厨师将喝过的水舀进锅里：视频掐头去尾，已报警 - 凤凰视频
-- 新人买回的礼炮拆开里面竟然是白花花的纸钱，还塞了纸条，上面字眼不堪入目 - 凤凰视频
-- 赤峰渣土车侧翻，殡仪馆：一名17岁女孩不幸身亡；交警：事发时是非禁行时段 - 凤凰视频
-- 在泰山景区躲雨每小时收费80元？景区辟谣#媒体辟谣团刚刚过去的国庆假期，山东泰山依旧是热门景区。但10月2日，有自媒体发文称：泰山景区存在游客躲雨每小时收费80元的情况，事实真的如此吗？据央视新闻 - 凤凰视频
-- 史无前例！美军要直播枪决据美国媒体报道，当地时间10月8日，五角大楼证实，将对2009年胡德堡枪击案的枪手、前美国陆军精神病医生尼达尔·哈桑的枪决过程进行现场直播。据报道，美国总统特朗普日前已经批准 - 凤凰视频
-- 全国各地最低工资标准公布 - 凤凰视频
-- 美股一周｜美股本周持续拉锯 投资者趋于谨慎 - 凤凰视频
-- 开车收到这种“罚单”，千万别缴费 - 凤凰视频
-- 永和大王助力“青春袋鼠杯”跳绳赛，以科学豆食营养守护少儿健康成长 - 凤凰视频
-- 大众8X陪你再少年 EA211加持提车即R7 丨汽势视频 - 凤凰视频
+- 火箭军部队的“区域拒止”指什么？有何意义？ - 凤凰网
+- 屡次遭拒！美韩同盟“裂痕论”在韩国政界发酵 - 凤凰网
+- 甘肃兰州专项整治随地吐痰 - 凤凰网
+- 痴迷小说自学盗墓，余某才被判12年 - 凤凰网
+- 凤凰热榜 - 凤凰网
+- 凤凰热榜 - 凤凰网
+- 【有理有句】啊，我亲历的中美“鼓岭缘”！ - 凤凰网
+- 数说经济 | 你的假期体验里，藏着服务业的哪些新变化？ - 凤凰网
+- 国产采棉机上场 白色花海秒变两吨棉包 - 凤凰网
+- 跨越84年的告白！杜立特行动，见证中美人民患难与共 - 凤凰网
+- 媒体原创商业街突发火灾险情，合肥两名小学生“教科书式”报警#合肥本地10月10日上午，合肥市永红路小学的操场上传来阵阵掌声。合肥市庐阳区消防救援大队监督员郑冰冰走进校园，为国庆假期期间发现火灾 - 凤凰视频
+- 轨航一隅，阅伴远行 —— 让旅途等候瞬间邂逅万卷风光 - 凤凰视频
+- 经济学家付鹏评尊界“脆脆鲨”：汽车不是快消品！千万不要把客户当小白鼠 - 凤凰视频
+- 泊驻停闲，阅伴归途 —— 让出行停歇光景感受墨韵微光 - 凤凰视频
+- 文化体验或将更懂你！“新艺中国”活动将在长沙进行，参会嘉宾邀约伙伴来湘发展 - 凤凰视频
+- 瞰中国｜湖北鹤峰：峡谷藏灵秀 泛舟品风情 - 凤凰视频
+- 西成铁路(甘青段)8标完成箱梁架设 - 凤凰视频
+- 第二十九届北京国际音乐节在京启幕 - 凤凰视频
+- 宜城寻古，翰墨留香 —— 让街巷歇坐之时品读皖江遗韵 - 凤凰视频
+- 瞰中国｜内蒙古：白桦染金色 山野秋意浓 - 凤凰视频
 
-## 财新网 (1 条)
+## 财新网 (4 条)
 - 【华尔街原声】达利欧：黄金配置不可忽视 欧洲投资吸引力下降 - 财新数据
+- 火线评论｜辱骂王皓三人被拘，饭圈何以至此？ - 财新
+- 大西洋观察│最老的一届国会退场：聚光灯下的制度审视 - 财新
+- 【周刊提前读】存储芯片逼手机涨价 高端化之路好走吗？ - 财新数据
 
-## 央视网 (6 条)
+## 央视网 (9 条)
+- 品秋味、赏秋景……沉浸式解锁“秋日限定” 文旅消费持续火热 - 央视网
 - 夯实技术基础 我国低空经济领域国际标准化建设提速 - 央视网
-- 【8点见】四川南部县成群野猪在城区道路出没，当地回应 - 央视网
+- 为什么粉丝能蒸能炒能煮能凉拌，却不能当主食吃？ - 央视网
 - 创新主导 改革为要 因地制宜发展新质生产力 - 央视网
-- 北京警方通报：3人为发泄情绪对国乒教练员辱骂被行拘 - 央视网
-- 假期红色旅游火热 一组数据看国庆文旅活力 - 央视网
-- 一艘船舶在阿联酋附近海域遭不明投射物击中起火 - 央视网
+- 美财长：美国国债已攀升至约41万亿美元规模 - 央视网
+- 国防部：中巴（基斯坦）将举行“喀喇昆仑－2026”陆军联合训练 - 央视网
+- 国庆期间全国涉旅游特种设备安全形势总体平稳 - 央视网
+- 国防部：中方将举办联合国维和参谋军官国际培训班 - 央视网
+- 中国驻南非使馆提醒中国公民加强安全防范 - 央视网
 
-## BBC (18 条)
+## BBC (20 条)
 - Trump announces deal for Russian diesel as Zelensky calls it a gift to Putin
 - Analysis: Trump's shock Russia deal highlights mounting pressure to curb fuel prices
-- US unveils sanctions on ICC in move court condemns as 'assault on rule of law'
-- Thousands of security personnel deployed as Delhi braces for ‘cockroach’ protest
-- Life-threatening Hurricane Isaias makes landfall in Florida
-- JD Vance casts doubt on firing squad execution and says he will not watch it
+- Three men found guilty of murdering Australian brothers and US friend in Mexico
+- Flydubai attacker began a 'drift towards extremism and terrorism' in Australia, UAE says
+- Hurricane Isaias downgraded after making landfall in Florida
+- Rogue Anthropic AI agent gave police fake tip in unsolved murder case
 - Powerful magnitude 7.7 earthquake hits Panama, damaging buildings
-- Navi Pillay, former UN human rights chief, wins Nobel Peace Prize
+- 'Stain on the country': Trump criticises Norway over Nobel Peace Prize
+- US country music star Ella Langley cancels show due to 'security threat'
+- JD Vance casts doubt on firing squad execution and says he would not watch it
+- US unveils sanctions on ICC in move court condemns as 'assault on rule of law'
 - Man named Hitler Mussolini elected mayor in Peru
-- Three men found guilty of murdering two Australian surfer brothers and US friend
 - Russian search engine Yandex struggles after Ukrainian strikes on data centres
 - Commentator Katie Zacharia picked as new White House press secretary
-- US immigration officials defend ICE agents who shot man in same car as child
+- Nord Stream trial: How German police followed the evidence - to Ukraine
+- Public executions in the US stopped nearly a century ago -  why are they resuming now?
 - 'Everyone hates the police' – what France's school protests reveal about a divided nation
 - Questions remain over Ebola patient who travelled across three nations undetected
-- Thai Queen makes first solo flight in fighter jet
-- Tornado rips through Sicilian town and city
-- Watch: 'I am Jane Doe' protests across US call for end to sexual violence
+- BBC breaks down video of the aftermath of New York City ICE shooting
+- How the trial of murdered Australian brothers and US friend unfolded
 
 ## Reuters (3 条)
 - EXCLUSIVE: Friend of suspected FBI data thief says he warned 'crazy' teen not to hack bureau - Reuters
 - US immigration chiefs defend shooting of New York man, attack 'sanctuary' policies - Reuters
 - Katie Zacharia Picked as White House Press Secretary, NYT Reports - GV Wire
 
-## NYTimes (13 条)
-- Human Rights Lawyer Navi Pillay Is Awarded Nobel Peace Prize
-- As Putin Wages Shadow War, Europe Looks for a Way to Hit Back
-- Attacker in FlyDubai Flight Meant to Crash Into Israeli Airport, Emiratis Say
-- Israel Denounces the Decision to Award the Nobel Peace Prize to Navi Pillay
-- India Cancels Trains, Floods Capital with Police to Block Protests
-- Here’s the latest.
+## NYTimes (16 条)
 - What to Know About the Delhi Protests
+- A Week Later, Russia Hasn’t Said What Pathogen Killed Plague Researcher
+- An International Career Forged by the Struggles of Apartheid
 - Inside Erik Prince’s Mercenary Deal in Congo
 - Ukrainian Drones Close Moscow Airports as Putin Flies Back to Russia
+- As Putin Wages Shadow War, Europe Looks for a Way to Hit Back
+- Attacker in FlyDubai Flight Meant to Crash Into Israeli Airport, Emiratis Say
+- Quebec Independence Is Unlikely, but Some Will Still Dream
+- Blocked by Police, India’s Youth Voice Their Fury
+- Here’s the latest.
 - 7.7-Magnitude Panama Earthquake Sets Off Series of Aftershocks
 - Navi Pillay, South African Jurist, Is Awarded the Nobel Peace Prize
 - 30,000 Bottles of Italian Red Wine Stolen in Brazen Tuscan Heist
+- Israel Denounces the Decision to Award the Nobel Peace Prize to Navi Pillay
 - Trump Administration Hits International Criminal Court With Severe Sanctions
+- India Cancels Trains, Floods Capital with Police to Block Protests
 
 ## CNN (6 条)
 - 0% intro APR until 2024 is 100% insane
@@ -89,174 +111,125 @@
 - Want Cash Out of Your Home? Here Are Your Best Options
 
 ## 微博热搜 (20 条)
-- 警方通报王皓被围堵辱骂处理结果
-- 两名内地女学生在澳门非法旅拍被捕
-- 卫星互联网低轨27组卫星成功发射
-- 买榴莲开出土豆太离谱
-- 女子仅退款9斤蜜薯称有本事来拿
-- 半个车圈都在劝峰哥少说两句
+- 雅思考试取消考生在考场外大哭
+- 自闭症男童被踹家长理论遭持刀威胁
+- 一双草鞋承载着家国信仰
+- 迪丽热巴阿道夫品牌全球代言人
+- 王曼昱vs张本美和
+- 鼓励灵活就业人员参加职工养老保险
+- 郑钦文vs梅尔滕斯
 - 有些痛一刻都忍不了
-- 公司离不开我是职场错觉
-- 王仁君获奖感言完全是教科书级别
-- 玉簟秋官宣OST阵容
-- 俄将向美及全球供应石油
-- 曝徐良恋情
-- 沐言爸爸隐婚生子女儿走红后才公开
-- 闫妮表情
-- 双汇
-- 71岁特斯拉司机高架变道被泄愤别车
-- 王仁君转发区
-- 沐言爸爸回应生二胎
-- 飞天官博评论区现状
-- 沐言爸爸曾说基因没有好到一直生娃
+- 人社部通过数据找人动员参保
+- 踹人男子辩称自闭症男童先触碰他
+- 中网女单将诞生新科冠军
+- 郑钦文武网对位萨巴伦卡
+- 黄磊二女儿和黄磊一模一样
+- 内娱的神之八秒
+- 中年破产三件套又多一个
+- 番茄小说下架被指缺乏实锤
+- 嫁金钗
+- 王楚然0米台跳水
+- 自闭症男童乘电梯遭陌生男子踹飞
+- 禁止全隐藏式门把手
 
-## 知乎热榜 (20 条)
-- 是否存在动物里雄性普遍比雌性漂亮，而人类却是女性普遍比男性好看的现象？为什么？
-- 拿破仑时代的炮兵究竟数学要多好？
-- 有哪些物种看起来像 AI 生成的，但在自然界真实存在？
-- 瞎扯 · 如何正确地吐槽
-- 人为什么没有进化成变温体质？
-- 研究发现早年多吃苦对大脑有害，与「吃得苦中苦方为人上人」的传统观念相悖，你认同「多吃苦才能成才」吗？
-- 鲸鱼会不会比人类更早知道地球是圆的这件事？
-- 瞎扯 · 如何正确地吐槽
-- 耗费巨资进行太空探索的意义究竟在哪里？
-- 什么东西被发明出来后，莫名其妙地违背了它的用途？
-- 「唐人街」的「唐」，是源自唐朝的「唐」，还是「China Town」 「Town」的音译？
-- 人类为什么没有驯服更为强壮的犀牛用来耕地？
-- 为什么唐朝之后，西安很难再成为首都？
-- 为什么鸡转头是「一下一下」「瞬移」，而不是像人一样有肉眼可见的转头过程？
-- 哪个国家的西餐被严重低估了，为什么？
-- 为啥白宫开始流行吃酸菜了？万斯自称吃酸菜减重成功，酸菜真能减肥吗？
-- 为什么王权的象征往往是大猫（狮子、老虎、美洲豹）和鹰，而非熊或者鳄鱼？
-- 明朝有哪些令人动容的小人物？
-- 人体扩张性那么强，为什么还会便秘？
-- 为什么巨唐没修长城却威服四方，明朝修了长城却丢了江山？
+## 知乎热榜 (1 条)
+- 知乎 - 知乎日报
 
 ## B站热门 (20 条)
-- 极极极极，极限战场👉🏻首曝极首测，所见极所玩
-- 螃蟹蒸出来的白色固体是螃蟹血？原来这些动物的血都不是红色的！【主播说三农】
-- 动态视频｜一根头发认亲？亲子鉴定是怎么做的？
 - 【独家】《凡人修仙传之慕兰之战》第19集【总第195集】
-- 五千多就有 CNC Unibody 全铝机身？华硕破晓 Air 详细评测
+- 《司机の噩梦》
 - 从什么时候开始，报喜不报忧成了本能？｜暗叫 - きくお
-- 【手术TV】先生！我知道这很荒诞，但人还得往前看......
-- 《柯洁围棋入门课2:切断和连接》
-- 老师你也不想是Coser的事情被同学知道吧！！
+- 超市里……未检测到人脸……
+- 巧克力中毒
+- 乐帮强势迎战碎瓶帮BOSS!!?「地下酒吧2」
+- 你循宝而来，此地也早已……等待你良久——【世界之外 | 寻至幽墟】
+- 对话孙宇晨：年轻人如何抓住AI时代的机会？
+- 喜欢是放肆，我选择克制。【生活大爆炸全解04】「S1E5-E6」
 - 【纪录片】威尔史密斯的极地纵横 02 深入亚马逊丛林
-- 爬完直上坡到林芝，心里只剩一句“想回家”
-- 四大家族覆灭后，纪录片之外的电诈如何了？
-- 【春物语】我的婚后生活果然有问题 第4话：小町的嫂子分数，加上前社长的经验。
-- 影视飓风的直升机？怪东西分享9.0
-- donk变态级英雄AK满血五杀猎鹰，下哭了。。。
-- 雨哥到处跑新车曝光！居然是……
-- 【大鸣王潮1566】岁主帮岁共
-- 【明日方舟】克莱门莎实战测评：实力为超大杯上！当之无愧的近卫第一！强烈推荐抽取！
-- 嘘声一片：委内瑞拉感谢美国，以色列送伊朗星链——联大一般性辩论02
-- 流动小厨“豪华火锅”造福老人！9斤猪肉7斤大骨炖出来全是淀粉丸子，尽情的偷拿吧！
+- 讨伐型人格大合集
+- deepseek 翻唱《人是猫》完整版，大肥鱼觉得人和猫一样可爱,所以人是猫
+- 小时候幻想过的事
+- 整蛊！假装砸碎女友一万块买的电视机…再用AI把她换头进恐怖电影！
+- 中国女孩美国买特斯拉惨遭逮捕，神秘背景牵出跨国惊天大案！
+- 【手术TV】先生！我知道这很荒诞，但人还得往前看......
+- 《甲乙丙丁》，但是昭和金曲（citypop日语版）【AI MV大赛】
+- 死因成谜讳莫如深 俄罗斯真的鼠疫泄露了吗？
+- 【纪录片】中国救护2 04 心是一座城
+- 大学讲GalGame这一块
 
 ## 抖音热搜 (20 条)
-- 苏州的秋天满城桂花香
-- 警方通报“王皓被围堵辱骂”
-- 六网交织托举起万家灯火
+- WTT中国大满贯国乒女双夺冠
+- 纯过日子人的另一面是有趣主义
+- 世界最大容量电力心脏就位了
+- 你那看啥都是审美的朋友
+- 林诗栋退出亚锦赛男单混双
 - 国庆特种兵结算画面
+- 张雪机车全力冲冠
+- 特朗普谈胡德堡枪手处决直播
+- 全抖音都在追Vibe知识大赏
+- 苏州的秋天满城桂花香
 - 秋冬摆脱路人感叠穿思路
-- 人为什么不能一辈子待在云南呢
-- 怀念国庆在老家悠闲的日子
-- 韩军试射5马赫导弹击中海上靶标
-- 王曼昱谈再战张本美和
-- CBA季前赛山东逆转广东
-- 第35届飞天奖获奖名单公布
-- 护航求职季
-- 宋佳获第35届飞天奖优秀女演员
-- NBA中国赛火箭战胜独行侠
-- 严肃品鉴生化危机爆发夜
-- 韩乌外交风波如何收场
-- 万物皆可低模人生
-- 分享假期时我拍的旅行转场
-- 鞠婧祎 猫塑
-- 幸福在蔓延 爱你永恒不孤单
+- 现在就出发4开播
+- 总结我的可可系长长长假
+- 分享一张你的极简主义
+- 国庆没回老家没旅游我很满意
+- 雨崩日照金山太美了
+- 想要旅行不烧心规矩不能坏
+- 把旅行做成电子手帐
+- 我有国庆假期戒断反应了
+- 存档一些假期吃的漂亮饭
 
 ## 豆瓣讨论 (1 条)
-- 🦆这上位路也太精彩了，居然有这么多人 - 豆瓣
+- 这是磕🏓那对cp的福利吗？国庆假期延长了 - 豆瓣
 
 ## 雪球热帖 (20 条)
-- 黄姓股民向*ST三房发起索赔 赵敬国律师接受咨询 - 新浪财经
-- 周姓股民向*ST实达发起索赔 赵敬国律师接受咨询 - 新浪财经
+- 10月10日美股成交额前20：微软涨2.38% 推出面向快速决策的Microsoft-Decision-1模型 - 新浪财经
+- 王姓股民向ST海王发起索赔 李鸿杰律师接受咨询 - 新浪财经
+- *ST九鼎涉信披违规被立案，受损股民可登记索赔 - 新浪财经
+- 双杰电气隐瞒国网“拉黑”利空，投资者索赔已递交立案 - 新浪财经
+- *ST岭南提前锁定退市，两类投资者仍有索赔机会 - 新浪财经
 - 积木集团 ：通过一般授权配售新股份募资约 资金用于业务扩张 及 补充运营资金 - 新浪财经
-- 嘉兴构建汽车及零部件产业 全链供应生态圈 - 新浪财经
-- 坐自动驾驶巴士，开启雄安观光之旅 - 新浪财经
+- 【机构持仓】CI Global Asset Management增持宏利金融 - 新浪财经
+- 药物受理最新动态：昆明中药厂有限公司郑氏女金丹补充申请获受理 - 新浪财经
+- 药物受理最新动态：Pfizer Inc.Tilrekimig注射液进口申请获受理 - 新浪财经
+- 药物受理最新动态：Novartis Manufacturing NV布林佐胺噻吗洛尔滴眼液进口申请获受理 - 新浪财经
+- 药物受理最新动态：四川太平洋药业有限责任公司益母草颗粒补充申请获受理 - 新浪财经
+- 药物受理最新动态：广西宝瑞坦制药有限公司化痔胶囊补充申请获受理 - 新浪财经
 - 小城故事多 文旅正当时 - 新浪财经
+- 药物受理最新动态：N. V. Organon依托考昔片进口再注册申请获受理 - 新浪财经
 - 内部人交易｜帝国石油披露一笔股票减持，金额约1941.02万美元 - 新浪财经
-- 药物受理最新动态：重庆誉颜制药有限公司注射用重组A型肉毒毒素补充申请获受理 - 新浪财经
-- 秦皇岛保兴再生资源回收有限公司完成商务部绿色流通服务企业备案公示注册资本200万、参保0人 - 新浪财经
-- 洛阳扩圻环保科技有限公司完成商务部绿色流通服务企业备案公示 注册资本100万、参保0人 - 新浪财经
-- 河南省瀚东再生资源回收有限公司完成商务部绿色流通服务企业备案公示注册资本500万、参保0人 - 新浪财经
-- 和县再生废品回收站完成商务部绿色流通服务企业备案公示 属微型个体工商户参保0人 - 新浪财经
-- 广西松柏华生物科技有限公司完成商务部绿色流通服务企业备案公示 注册资本200万、参保0人 - 新浪财经
-- 中小微担保基金诉翟何新能源等保证合同纠纷案11月10日开庭 结果将明确担保责任划分 - 新浪财经
-- 石家庄恩国二手车贸易有限公司完成商务部绿色流通服务企业备案公示注册资本200万、参保0人 - 新浪财经
-- 广东新广国际砂石资源开发有限公司完成商务部绿色流通服务企业备案公示注册资本1000万、参保0人 - 新浪财经
-- 武汉鸿顶再生资源回收有限公司完成商务部绿色流通服务企业备案公示注册资本1000万人民币、参保0人 - 新浪财经
-- 张某诉众安普惠等机动车交通事故责任纠纷案11月11日开庭 涉民生权责认定 - 新浪财经
-- 内部人交易｜Arista Networks披露一笔股票减持，金额约26.32万美元 - 新浪财经
-- 印某诉腾跃健身等服务合同纠纷案12月14日开庭 厘清服务合同权责边界 - 新浪财经
+- 药物受理最新动态：江西华太药业有限公司脑得生片补充申请获受理 - 新浪财经
+- 界首市豪浩再生资源有限公司完成商务部绿色流通服务企业备案公示注册资本10万人民币、参保0人 - 新浪财经
+- 湖南湘怡环达环保科技有限公司完成商务部绿色流通服务企业备案公示注册资本200万、参保0人 - 新浪财经
+- 药物受理最新动态：Chiesi SAS倍氯米松福莫特罗吸入粉雾剂进口申请获受理 - 新浪财经
+- 重磅利好，AI相关产业规模剑指10万亿！超跌+业绩高增长概念股揭晓 - 新浪财经
 
-## 36氪 (20 条)
-- 人社部：力争到2030年技能人才占就业人员比例升至35%
-- 超110台中国AR眼镜为WTTC全球峰会提供实时翻译服务
-- AI数据中心用电狂飙，美国密西西比州发出电力预警
-- 国旅文化投资集团增资至11.63亿元，增幅超130%
-- 泰国证交所修订卖空和高频交易规则
-- 人社部：将构建技能导向的薪酬分配制度，完善治理欠薪长效机制
-- 月之暗面增资至约1437万
-- 长三角铁路明日起实施新列车运行图
-- 中国人民银行行长潘功胜会见法国总统外事顾问博纳
-- 公司是否有提价计划？五粮液：不存在固定的价格比值关系
-- 前8个月我国软件业务收入超10万亿元
-- 人社部：“十五五”时期，每年将培养培训100万名高层次、急需紧缺技术人才
-- 外交部副部长马朝旭同澳大利亚外交贸易部秘书长安思捷举行中澳外交部政治磋商
-- 江淮汽车增资至约22.54亿
-- 三峡水运新通道葛洲坝航运扩能主体工程开工
-- “太一量生”完成新一轮融资
-- 国内金饰价格集体上涨
-- 格力电器：元器件公司主要从事第三代半导体碳化硅晶圆制造及功率器件封装测试业务
-- 《国家残疾预防行动计划（2026—2030年）》印发
-- 纳芯微推出小型化封装的数字隔离器和隔离接口
+## 36氪 (3 条)
+- 36Kr 直播 - 36kr.com
+- 苹果筑起的权限高墙，被Meta AI助手“借道”绕过 - eu.36kr.com
+- 衣流AI-垂直服装零售场景AI内容营销工具 助力千万线下门店降低内容获客门槛 - eu.36kr.com
 
 ## 虎嗅 (20 条)
-- 银行密集赎回优先股，算的是什么账
-- iPhone Duo 上手前你可能需要知道的事
-- 热门素人IP在手TOP TOY在等大结果
-- 暴涨的油轮运费，美以伊战争中最疯狂的行业
-- 模型还在加速，世界如何跟上？
-- 提前还贷潮又来了：有人在还，也有人在悄悄撤回
-- 把够用的智能做成一门生意
-- “返工第一场调休，我被“不烧心文学”拯救了”
-- 最会过日子的年轻人，开始让陌生网友审批花钱
-- 养得起父母，却担心没人养我
-- 2026年小天才崩投资人实操指南
-- “为什么我在职校拿了那么多技能证书，人们还是用学历评判我？”
-- 这个国庆，入境游增速第一，为什么是重庆？
-- 诺贝尔奖正在把科技带向哪里？
-- 新车拉高速，到底是毁车还是养车？
-- 西伯利亚的鼠疫疑云
-- 从FILA到彪马，安踏与那些买来的洋名字们
-- 5亿美元到账，肖弘和Manus的故事还不能散场
-- 硅谷大模型不装了：Claude卷价格，GPT学豆包
-- 安妮·卡森
+- 当黑客也开始“有问题问AI”
+- 护工不是人：机器人给我们养老还有多远？
+- 智元是时候看回启元了
+- 8000万亏损背后：日式快餐“效率神话”不再
+- 都市职场剧祛魅调查：北上不适合接吻，县城才有闲开房
+- 390亿美元，全球具身智能顶流Figure的三重泡沫
+- 仅退款不但不应该禁止，还应该进一步扩大
+- 安克创新前CTO吴文龙：再造一个重资产版安克？
+- 惨烈，日本爆发倒闭潮
+- 对话6位汽车工程师与行业专家：一个刹车踏板背后的标准盲区到底有多大？
+- 权力会异化大脑吗？
+- 尊界刹车风波未息，车企这些“卖点”拟受限
+- 江淮汽车，还禁得起折腾吗
+- 大厂混战持续：模型能力快速普及后，AI办公靠什么拉开差距？
+- 胖东来将建近100米酒店，65亿砸出来的是标杆还是豪赌？
+- 优衣库中国店少了，却赚更多了
+- 超强厄尔尼诺来了，有人怕天灾有人等发财
+- 深度｜1.65万亿暗雷与白菜价Token：一场AI资本游戏的终局推演
+- 月之暗面、智谱收入更少，为什么比OpenAI卖得更贵？
+- 十年期美债收益率逼近5.4%，AI光环难掩标普500"虚胖"隐忧
 
 ## 少数派 (1 条)
 - App+1｜专注星空：让「少刷手机」这件事更愉悦一点
-
-## GitHub Trending (11 条)
-- morluto/rea
-- boykopovar/AnyPS5
-- mattpocock/skills
-- cathrynlavery/diagram-design
-- alibaba/open-code-review
-- anthropics/knowledge-work-plugins
-- BerriAI/litellm
-- addyosmani/agent-skills
-- storytold/artcraft
-- Robbyant/lingbot-map
-- twostraws/SwiftUI-Agent-Skill
