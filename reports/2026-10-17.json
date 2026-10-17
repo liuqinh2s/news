@@ -2,285 +2,315 @@
   "date": "2026-10-17",
   "news": [
     {
-      "title": "乌军反攻推进 星链作用关键",
-      "summary": "乌克兰军队在前线发起进攻行动，将俄军推回，SpaceX的星链卫星网络在乌军通信与指挥中发挥关键作用。美国总统特朗普否认曾限制乌克兰使用星链网络。与此同时，美乌领导人关系持续恶化，泽连斯基在被问及是否成为特朗普中期选举前的替罪羊时沉默长达15秒。分析认为，美乌之间的裂痕可能削弱乌克兰及其欧洲盟友的战场与外交处境，而星链等商业卫星服务的可用性已成为左右战局与美乌博弈的关键变量。",
-      "reason": "乌军反攻、星链去留与美乌嫌隙交织，牵动俄乌战局与美欧关系走向",
+      "title": "油轮霍尔木兹海峡触雷爆炸",
+      "summary": "伊朗革命卫队通报，一艘载有超过200万桶原油的超级油轮在霍尔木兹海峡触雷爆炸起火。霍尔木兹海峡是全球最重要的石油运输咽喉，日均通过约2000万桶原油及成品油，占全球海运石油贸易约三分之一。此次事件直接威胁全球能源供应链，可能引发国际油价剧烈波动，并加剧美伊及地区紧张局势，对航运保险、能源化工、航空燃油成本等产业链形成连锁冲击。事故原因、责任归属及后续是否封锁海峡，将决定油价走势与地缘风险溢价。",
+      "reason": "全球石油运输咽喉发生油轮爆炸，直接冲击能源供应链与油价，地缘风险陡升",
       "impact_areas": [
         "地缘",
-        "政治",
-        "科技"
+        "能源",
+        "经济金融"
       ],
       "impact_level": "现象级",
       "sources": [
         {
+          "name": "凤凰网",
+          "url": "https://news.ifeng.com/c/8xIBG8yQhAE"
+        },
+        {
+          "name": "央视网",
+          "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBzTF9mR0toV0o4anBYSW1mSlFySDdiNG5namxHSTJCN2ZUVFJ5VDlJb1BJNl9Sa05icFNxT29pcTd4dkFPRVdVQU5YLTNZSlVHZElBRkx3cUtaX0hSMVFFY1p2bzRGV3ViMS1Xb0FVS2g2TFVqdHNjaA?oc=5"
+        }
+      ],
+      "card": {
+        "category": "地缘·能源",
+        "headline": "霍尔木兹海峡油轮爆炸，油价要抖",
+        "what": "伊朗革命卫队通报，一艘载有超200万桶原油的超级油轮在霍尔木兹海峡触雷爆炸起火，海峡日均通过约2000万桶原油。",
+        "question": "国内油价会跟着涨吗？",
+        "means": [
+          "加油和机票可能要多花钱",
+          "航运、化工类基金波动会变大"
+        ],
+        "note": "爆炸原因与是否封锁海峡尚无定论，以官方通报为准。"
+      }
+    },
+    {
+      "title": "特朗普签署豁免对俄制裁",
+      "summary": "美国政府在新一轮对俄制裁法律生效前，由特朗普签署豁免，暂时搁置多项俄罗斯相关制裁与关税措施。此举发生在美俄关系与乌克兰战事持续紧张之际，被视为华盛顿在对俄施压与外交谈判之间的策略调整。豁免可能削弱新法的执行力度，影响对俄能源、金融等领域的制裁效果，并向欧洲盟友释放复杂信号。对全球能源价格、俄罗斯资产及相关贸易流向具有直接指引意义。",
+      "reason": "美国在制裁生效前主动豁免对俄措施，改变对俄施压节奏，牵动能源与地缘格局",
+      "impact_areas": [
+        "地缘",
+        "经济金融"
+      ],
+      "impact_level": "重大",
+      "sources": [
+        {
           "name": "BBC",
-          "url": "https://www.bbc.co.uk/news/articles/cvx284w16z1po?at_medium=RSS&at_campaign=rss"
+          "url": "https://www.bbc.co.uk/news/articles/cxr5yvzv7rp0o?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "name": "Reuters",
+          "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQUWRsWXNvbUVMb01QdTFTbEhpSGhZLVZYVXZramJkQjg2RXUzbXRaZjZlcnY1QTNoeU1zQzhhOEhwOFZVSkRySFFZNWI3RjZtUHJLaDhybEhWVzFBTF9uVlZjWlNSQk5aX25iZ0EySjRQYjR5aVRiM1VERjVFWmpTOTR0Y1ZhNUtaTHpTaWdZZVRPUmppTUJtYl9IZlhGQnM3WkVSNmRreVBjaDF5anFfSHhqN1ZUc2p3cjRoU0pyUzRkZjlBM05B?oc=5"
+        }
+      ],
+      "card": {
+        "category": "地缘·制裁",
+        "headline": "特朗普签字，对俄制裁先按下暂停",
+        "what": "新一轮对俄制裁法律生效前，特朗普签署豁免，暂时搁置多项涉俄制裁与关税措施。",
+        "question": "俄罗斯的油会更便宜吗？",
+        "means": [
+          "进口能源和部分商品价格或松动",
+          "做对俄贸易的公司订单或有变化"
+        ],
+        "note": "豁免是暂时的，后续是否恢复制裁仍要看谈判进展。"
+      }
+    },
+    {
+      "title": "高市早苗再献靖国神社祭品",
+      "summary": "日本首相高市早苗向靖国神社供奉祭品，今年以来已四次参拜。靖国神社供奉有二战甲级战犯，日本政要参拜长期引发中韩等亚洲邻国强烈反对。此次献祭品发生在高市政府人事任命遭日本政界、法律界质疑的背景下，被视为其对内稳固保守派支持的动作。事件将进一步影响中日、韩日关系氛围，并为地区外交增添摩擦点，也可能拖累本已承压的区域内经贸与人文交流。",
+      "reason": "日本现任首相年内第四次向靖国神社献祭，直接冲击中日韩关系与地区外交氛围",
+      "impact_areas": [
+        "地缘",
+        "政治"
+      ],
+      "impact_level": "重大",
+      "sources": [
+        {
+          "name": "凤凰网",
+          "url": "https://news.ifeng.com/c/8xIB1SdzknO"
+        },
+        {
+          "name": "凤凰网",
+          "url": "https://news.ifeng.com/c/8xICqAvRO9F"
+        }
+      ],
+      "card": {
+        "category": "地缘·外交",
+        "headline": "高市早苗再献祭品，中日关系添堵",
+        "what": "日本首相高市早苗向靖国神社供奉祭品，今年以来已四次参拜，中韩等亚洲邻国长期表示反对。",
+        "question": "去日本旅游会受影响吗？",
+        "means": [
+          "赴日旅游和代购氛围可能变冷",
+          "日系品牌在华销量或受情绪影响"
+        ],
+        "note": "外交表态与后续反制措施仍需观察官方口径。"
+      }
+    },
+    {
+      "title": "美乌就星链与援助生隙",
+      "summary": "特朗普首次公开表态，否认限制乌军使用星盾（Starlink）服务，称此举并非其所为，也不认为出自马斯克。此前有报道称美方限制乌方对星链的访问，引发意大利等欧洲盟国批评。与此同时，泽连斯基要求欧盟明年额外提供700亿欧元援助，并称将继续打击俄罗斯炼油设施。美乌在军事支持与对俄策略上的分歧公开化，可能削弱乌克兰战场能力，并加重欧洲援乌的财政负担，对欧洲能源与安全格局形成溢出影响。",
+      "reason": "美乌在星链服务与对俄策略上分歧公开化，叠加欧盟巨额援乌要求，牵动战局走向",
+      "impact_areas": [
+        "地缘",
+        "政治"
+      ],
+      "impact_level": "重大",
+      "sources": [
+        {
+          "name": "凤凰网",
+          "url": "https://news.ifeng.com/c/8xICTy8fLKL"
         },
         {
           "name": "BBC",
           "url": "https://www.bbc.co.uk/news/articles/ckz65g34wyd8o?at_medium=RSS&at_campaign=rss"
         },
         {
-          "name": "凤凰网",
-          "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE42SVA5NW1ReGxlbUEyY3YzQ0NyV0xzNUQ5WEhsUzMxVEJyY3hOVmIxOFh2RFByNUJhMkJCV0k2WU50Smpqb0pnbg?oc=5"
+          "name": "央视网",
+          "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE93dkJUaGJzbFBMbXc3cHM4a1RQRGxkU3A4THVDUElvUGs1Tk1rU3dqWEVaa1MycVJPR0FkTkNxUHBXNVMxaDdJNS1zSUJpdk5VT3NtTDMza2x2M2RZTF9lV1gxVFR5ZTIxZ0ZZRW5WNWxjVDEyZnM0dQ?oc=5"
         }
       ],
       "card": {
-        "category": "地缘·科技",
-        "headline": "乌军反攻推进，星链成关键变量",
-        "what": "乌克兰军队在前线发起进攻，将俄军推回。星链卫星网络在乌军通信指挥中发挥关键作用，特朗普否认曾限制乌方使用。",
-        "question": "战事拖下去，油价会受影响吗",
+        "category": "地缘·冲突",
+        "headline": "美乌因星链闹僵，欧盟加码援助",
+        "what": "特朗普否认限制乌军使用星链，泽连斯基则要求欧盟明年额外提供700亿欧元援助，并称将继续打击俄炼油设施。",
+        "question": "这场分歧会让战争拖更久吗？",
         "means": [
-          "欧洲能源和粮价波动会传到国内",
-          "相关军工与卫星通信岗位需求或增加"
+          "欧洲能源和机票价格或再波动",
+          "援乌账单最终由欧洲纳税人分担"
         ],
-        "note": "星链能否继续供乌使用尚无定论，以官方表态为准。"
+        "note": "星链限制的说法各方口径不一，需等待官方确认。"
       }
     },
     {
-      "title": "胡塞武装导弹零部件来自多国",
-      "summary": "沙特媒体披露，也门胡塞武装所使用弹道导弹的制造细节被公开。报道称，胡塞武装以手工方式组装弹药，按颜色编码对零部件进行匹配，其供应来源遍布多个国家，零部件涉及美国、德国、日本、荷兰等国的厂商。这一披露凸显地区冲突背后的全球供应链扩散问题：民用与两用零部件经多重转手流入武装组织，给出口管制与地区安全带来挑战，也可能推动相关国家收紧敏感物项的出口审查。",
-      "reason": "揭示地区武装导弹供应链的全球化，对出口管制与中东安全格局有警示意义",
-      "impact_areas": [
-        "地缘",
-        "政治"
-      ],
-      "impact_level": "重大",
-      "sources": [
-        {
-          "name": "凤凰网",
-          "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE1STWV5bEVxYnA5cUFuUUFHZWFWdGNpUEVBTlAwdEF2NkJVRWdTX0EwTUhCNG1TeGVyaHVrb2d5MDFyVTlQczFoMw?oc=5"
-        }
-      ],
-      "card": {
-        "category": "地缘·供应链",
-        "headline": "胡塞导弹零件，来自多个国家",
-        "what": "沙特媒体披露，胡塞武装弹道导弹制造细节公开，弹药手工组装，零件按颜色编码匹配，来源涉及美、德、日、荷等国。",
-        "question": "出口管制收紧会影响我做外贸吗",
-        "means": [
-          "两用零件出口审查或变严，外贸更难做",
-          "相关行业合规成本会转嫁到产品价格"
-        ],
-        "note": "零部件流向尚无官方定论，具体来源仍待核实。"
-      }
-    },
-    {
-      "title": "德国名媛间谍案开庭",
-      "summary": "BBC报道，德国一名牛排馆女继承人所涉案件开庭审理，该案此前引爆了一场大规模间谍丑闻，成为德国社会与情报界关注的焦点。庭审启动意味着相关案情细节将陆续公开，牵涉人员与情报活动范围可能进一步扩大。案件反映出欧洲国家在反间谍与敏感信息保护方面面临的挑战，或将推动德国收紧对关键领域人员的背景审查与情报安全立法。",
-      "reason": "德国重大间谍丑闻进入庭审阶段，牵动欧洲情报安全与立法动向",
-      "impact_areas": [
-        "政治",
-        "社会"
-      ],
-      "impact_level": "重大",
-      "sources": [
-        {
-          "name": "BBC",
-          "url": "https://www.bbc.co.uk/news/articles/cwvgdn3d656vo?at_medium=RSS&at_campaign=rss"
-        }
-      ],
-      "card": {
-        "category": "政治·社会",
-        "headline": "德国名媛涉间谍案，庭审开启",
-        "what": "据BBC报道，德国一名牛排馆女继承人涉间谍案开庭审理，该案曾引爆大规模间谍丑闻，引发社会与情报界关注。",
-        "question": "欧洲收紧审查会影响我留学吗",
-        "means": [
-          "赴欧留学与商务签证审查可能更细",
-          "关键岗位的涉外背景调查或收紧"
-        ],
-        "note": "案情细节将陆续公开，以法院披露为准。"
-      }
-    },
-    {
-      "title": "教皇术后首度露面",
-      "summary": "BBC报道，教皇在经历手术并确诊癌症后首次被拍到照片，这是其健康状况公开以来首次露面。教皇的健康一直牵动全球天主教徒与多国政要的关注，外界此前对其能否继续履职存在诸多猜测。此次露面在一定程度上缓解了对其健康急剧恶化的担忧，但后续治疗与康复安排，以及教务与外交事务的处理方式，仍将影响梵蒂冈在乌克兰等国际议题上的斡旋节奏。",
-      "reason": "教皇术后及癌症确诊后首次露面，全球关注其健康与梵蒂冈教务走向",
-      "impact_areas": [
-        "公共卫生",
-        "社会"
-      ],
-      "impact_level": "重大",
-      "sources": [
-        {
-          "name": "BBC",
-          "url": "https://www.bbc.co.uk/news/articles/cw146ej00yn7o?at_medium=RSS&at_campaign=rss"
-        }
-      ],
-      "card": {
-        "category": "社会·健康",
-        "headline": "教皇术后首次露面，健康受关注",
-        "what": "据BBC报道，教皇在经历手术并确诊癌症后首次被拍到照片，这是其健康状况公开以来首次露面。",
-        "question": "这会影响梵蒂冈的调停角色吗",
-        "means": [
-          "天主教国家的政策节奏可能受影响",
-          "梵蒂冈在国际斡旋中的角色待观察"
-        ],
-        "note": "后续治疗与履职安排未公布，以官方消息为准。"
-      }
-    },
-    {
-      "title": "澳拟为社交算法设关闭开关",
-      "summary": "BBC报道，针对被批评为有毒的推荐算法让用户难以自拔的问题，澳大利亚计划推出算法关闭开关，允许用户关闭个性化推荐。此举是澳大利亚近期加强社交媒体与未成年人保护监管的延续，旨在降低算法成瘾与信息茧房对青少年心理健康的负面影响。若落地，将成为全球范围内对平台推荐机制最直接的干预之一，可能引发其他国家效仿，并促使科技公司调整产品设计。",
-      "reason": "澳大利亚拟强制平台提供算法关闭选项，或成全球算法监管风向标",
-      "impact_areas": [
-        "科技",
-        "社会",
-        "公共卫生"
-      ],
-      "impact_level": "重大",
-      "sources": [
-        {
-          "name": "BBC",
-          "url": "https://www.bbc.co.uk/news/articles/cwr7y8er1n8vo?at_medium=RSS&at_campaign=rss"
-        }
-      ],
-      "card": {
-        "category": "科技·监管",
-        "headline": "澳洲拟给算法装开关，用户可关闭",
-        "what": "据BBC报道，针对推荐算法让用户难以自拔的批评，澳大利亚计划推出算法关闭开关，允许用户关闭个性化推荐。",
-        "question": "我刷手机停不下来会变好吗",
-        "means": [
-          "以后刷短视频可能不那么上瘾了",
-          "国内平台或跟进调整推荐机制"
-        ],
-        "note": "该计划是否落地及生效时间尚未确定。"
-      }
-    },
-    {
-      "title": "白宫新闻秘书一周内被解职",
-      "summary": "路透社报道，白宫新闻秘书Zacharia在上任不到一周后即被解职，此前其工作表现受到批评。这一罕见的人事变动发生在特朗普政府任内，反映出白宫新闻与公关团队面临的高压与内部摩擦。短期内白宫对外信息发布节奏可能受到影响，也再度引发外界对政府沟通机制稳定性与人事任免标准的讨论。",
-      "reason": "白宫新闻秘书上任不足一周即被解职，罕见人事变动折射政府沟通机制动荡",
+      "title": "白宫发言人上任数日遭解职",
+      "summary": "白宫新任发言人Katie Zacharia上任不到一周即遭解职，成为美国政坛罕见的短命任命。多家媒体披露，其在记者会表现及内部沟通引发争议，特朗普劝其重新考虑职业方向。事件反映白宫新闻团队人事动荡与对外沟通机制的不稳定，也凸显新政府运作的磨合问题。作为全球关注度最高的政府喉舌岗位频繁更替，将影响美国政策信息发布的可预期性与盟友、市场对美国政策信号的解读。",
+      "reason": "白宫发言人一周内被解职，多源密集报道，凸显美国新政府沟通机制动荡",
       "impact_areas": [
         "政治"
       ],
       "impact_level": "重大",
       "sources": [
+        {
+          "name": "BBC",
+          "url": "https://www.bbc.co.uk/news/articles/c32l4ekpvzl8o?at_medium=RSS&at_campaign=rss"
+        },
         {
           "name": "Reuters",
           "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPOEYwN214QVdKVU9iMHZiY2YxWTBnSndMc0tycE5xSDItUXJJQ0Nja01Ld2trdjdtaldWVXh5QnhKT3JjWkdzNDNIRWN1a0hHZ2h3SUdjNDVGRXlkc243dE5vRUo0QTBmRzZtUG9Hc2Nnc2NFaW5RalJEbjRPaE1MMTQtRHVXVVNmWUJYZTYzX0ZIdkJTSGJEQms4NWc5YWlNQVZjYmhfVlVCeHQ2?oc=5"
+        },
+        {
+          "name": "财新网",
+          "url": "https://international.caixin.com/2026-10-17/102494186.html"
+        },
+        {
+          "name": "凤凰网",
+          "url": "https://news.ifeng.com/c/8xI55fTgVyD"
         }
       ],
       "card": {
         "category": "政治·人事",
-        "headline": "白宫新闻秘书一周内被解职",
-        "what": "据路透社报道，白宫新闻秘书在上任不到一周后即被解职，此前其工作表现受到批评，变动发生在特朗普政府任内。",
-        "question": "白宫换人会影响中美谈判吗",
+        "headline": "白宫发言人上任一周就被解职",
+        "what": "白宫新任发言人上任不到一周即遭解职，多家媒体称其记者会表现和内部沟通引发争议。",
+        "question": "这会影响我的美股持仓吗？",
         "means": [
-          "美国对外表态节奏可能短期变乱",
-          "中美经贸沟通的连续性需再观察"
+          "美股和政策消息的波动会更频繁",
+          "关注美元资产的人要多留个心眼"
         ],
-        "note": "继任者与外交团队安排尚未明确。"
+        "note": "人事变动细节多为媒体披露，官方说法尚未完整公布。"
       }
     },
     {
-      "title": "CoreWeave股债遭抛售",
-      "summary": "路透社报道，人工智能基础设施公司CoreWeave的股票与债券本周料将大幅下挫，市场对加息的担忧正冲击围绕AI的押注。作为AI算力租赁的代表性企业，其股债价格剧烈波动，被视为AI投资热潮对利率环境高度敏感的又一信号。若融资成本持续上升，算力扩张与数据中心建设的资金链条可能承压，进而影响整个AI产业链的资本开支节奏与估值逻辑。",
-      "reason": "加息担忧冲击AI算力龙头股债，释放AI投资对利率高度敏感的市场信号",
+      "title": "天水幼儿园铅中毒案宣判",
+      "summary": "甘肃天水幼儿园铅中毒案一审宣判，幼儿园实际负责人被判处无期徒刑。案件此前因多名幼儿血铅异常引发全国关注，暴露出民办幼教机构在食品安全、办学资质与监管环节的漏洞。判决对相关责任人形成法律震慑，也推动社会对儿童健康防护与校园食品安全监管的讨论。后续民事赔偿、患儿长期健康追踪及地方监管问责仍是关注焦点，对全国幼教与校园食品安全治理具有示范意义。",
+      "reason": "引发全国关注的幼儿园铅中毒案一审宣判，涉及儿童健康与校园食品安全治理",
       "impact_areas": [
-        "经济金融",
-        "科技"
+        "社会",
+        "公共卫生",
+        "法治"
       ],
       "impact_level": "重大",
       "sources": [
         {
-          "name": "Reuters",
-          "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOQ2NPeFhDRXRadVpwTmIwYlN0MlBfU2tLdWJfcHRKRHFvU3NuXzY1WW5RVEgyZThFbmdVajVEZnpQUklNbjFlbmRDcUVQNTZJWDJOZ253eHVHeGlNMkk0Vm9VQk1xZGVJNEs0cFV2WUxTei1FNW5oNGZOZXBxWWhZcDh2T25EQl9OUDYtM0dEdEFFa1ZkZ2hHcGtveVRKeEFrd0tDeHB4eXEzeEFxLUw1VWo1RHQ2WUs0ODBITVJvZw?oc=5"
+          "name": "央视网",
+          "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9VY3ZvZVc4NVFrV1Atd0ZqS1UzM1lnQTNYVW5GWGZRLTVLTE8tcW1ELTZXOVNtYmEtZDNxMEg5XzUxOFNER29FY3JvWEtYY0R0T3Z6NlZjYjUtemJMMjV1NGN3Ym5Wdm85X3lOUmxkLUYyYjYwbUZfcw?oc=5"
         }
       ],
       "card": {
-        "category": "经济·科技",
-        "headline": "加息担忧升温，算力股债遭抛售",
-        "what": "据路透社报道，美国一家AI基础设施公司的股票与债券本周料将大幅下挫，市场对加息的担忧正冲击AI相关押注。",
-        "question": "AI股票大跌会波及我的基金吗",
+        "category": "社会·法治",
+        "headline": "天水铅中毒案宣判，负责人获无期",
+        "what": "甘肃天水幼儿园铅中毒案一审宣判，幼儿园实际负责人被判处无期徒刑，案件暴露出食品安全与办学监管漏洞。",
+        "question": "孩子的后续治疗谁来管？",
         "means": [
-          "重仓科技股的基金净值可能回调",
-          "算力扩张放缓或影响相关岗位招聘"
+          "民办幼儿园食品安全检查会更严",
+          "家长选园可先查资质和食堂记录"
         ],
-        "note": "股债跌幅为市场预期，最终数据以收盘为准。"
+        "note": "民事赔偿与患儿长期健康追踪仍在推进中。"
       }
     },
     {
-      "title": "阿尔巴尼亚反政府抗议蔓延",
-      "summary": "路透社报道，数千人聚集在阿尔巴尼亚首都地拉那游行，反政府抗议活动持续蔓延。抗议者诉求集中指向政府腐败与治理问题，示威规模与范围扩大，显示社会不满情绪升温。若局势延续，可能影响该国政治稳定与加入欧盟的进程，也给西巴尔干地区的政治生态带来不确定性。",
-      "reason": "阿尔巴尼亚反政府抗议蔓延，牵动西巴尔干政治稳定与入盟进程",
+      "title": "Anthropic冲刺IPO估值下调",
+      "summary": "AI公司Anthropic据报第三季度营收达168亿美元，但估值下调至1.5万亿美元，并推进IPO进程。其算力承诺与安全叙事正面临市场审视，公司还在芯片融资交易中向黑石提供两位数收益率以锁定算力。作为OpenAI的主要竞争对手，Anthropic的上市进程与估值变化是观察AI行业资本泡沫、算力投入回报与监管风险的关键窗口，对全球科技股估值体系与AI投资情绪具有风向标意义。",
+      "reason": "头部AI公司IPO与估值下调同步发生，是观察AI资本泡沫与算力回报的关键风向标",
       "impact_areas": [
-        "地缘",
-        "政治",
-        "社会"
+        "科技",
+        "经济金融"
       ],
       "impact_level": "重大",
       "sources": [
         {
-          "name": "Reuters",
-          "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQd21PeVpqQ0xHTVI0dkNaWTIwYWxBNzhJUXVsRVZQa0t4NDNuczNHLTJzWkRlLUZ6ZTFKdjBoazdsSjl5Y0M1QUR6d1FlZWRRM3paZWxZZWRtZFRiMjRyc3kwQVpIQWZvSGVoaXBUQm55XzJpS2loWGNvZTBRTzdsaDJNalRKNTZMUk4xelhBZ3c3TEwwcjhhSEF2YTl6RzNLMGF0N2NCT0VLTTJ1SFVyZzg2ZVphU1E?oc=5"
-        }
-      ],
-      "card": {
-        "category": "地缘·政治",
-        "headline": "阿尔巴尼亚数千人上街抗议",
-        "what": "据路透社报道，数千人聚集在阿尔巴尼亚首都地拉那游行，反政府抗议持续蔓延，诉求集中指向政府腐败与治理问题。",
-        "question": "这会影响我去欧洲的行程吗",
-        "means": [
-          "巴尔干局势若乱，赴欧机票或波动",
-          "该国入盟进程放慢，影响区域投资"
-        ],
-        "note": "抗议规模与走向仍在变化，出行前查安全提醒。"
-      }
-    },
-    {
-      "title": "美中期选举参议院辩论激辩",
-      "summary": "BBC梳理美国中期选举参议院辩论的要点，多场辩论火药味十足，候选人围绕经济、移民、外交与民生议题激烈交锋。辩论暴露出两党在关键议题上的深度分歧，也折射出选情胶着。随着投票日临近，参议院控制权归属将直接影响美国未来两年的立法议程、财政与对外政策走向，因而受到全球市场与盟友的高度关注。",
-      "reason": "美国中期选举参议院辩论揭示选情与政策走向，牵动全球市场与外交",
-      "impact_areas": [
-        "政治"
-      ],
-      "impact_level": "重大",
-      "sources": [
-        {
-          "name": "BBC",
-          "url": "https://www.bbc.co.uk/news/articles/cqly03y3zg7lo?at_medium=RSS&at_campaign=rss"
-        }
-      ],
-      "card": {
-        "category": "政治·选举",
-        "headline": "美中期选举辩论火药味十足",
-        "what": "据BBC报道，美国中期选举多场参议院辩论火药味十足，候选人围绕经济、移民、外交与民生议题激烈交锋，选情胶着。",
-        "question": "选举结果会改变美国对华关税吗",
-        "means": [
-          "关税与出口政策可能随选情反复",
-          "汇率和跨境生意成本波动会加大"
-        ],
-        "note": "投票日临近，政策主张仍以最终立法为准。"
-      }
-    },
-    {
-      "title": "虎嗅质疑Anthropic高估值",
-      "summary": "虎嗅刊文对人工智能公司Anthropic传闻中的2万亿美元预期估值提出质疑，认为其估值与商业模式、营收兑现能力之间存在明显落差。文章剖析了当前AI头部公司在一级市场的估值逻辑，指出在算力投入高企、盈利路径尚不清晰的背景下，超高估值可能透支未来预期。该讨论折射出AI热潮中资本定价与实际商业落地之间的张力，值得关注后续融资与市场情绪变化。",
-      "reason": "对AI头部公司超高估值提出质疑，反映AI热潮中资本定价与商业落地的张力",
-      "impact_areas": [
-        "经济金融",
-        "科技"
-      ],
-      "impact_level": "重大",
-      "sources": [
-        {
-          "name": "虎嗅",
+          "name": "虎嗅网",
           "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1jSzNiNUdWU0hjQWhLajBVTUg5eU9RY2FSckQ5b1JYRnJuV0l1UTBaNldaOXpLbG83RTNZNkl3WUNaQUxteTMzUmRibjZtcTlyOEtSQg?oc=5"
+        },
+        {
+          "name": "36氪",
+          "url": "https://www.36kr.com/newsflashes/4029274536317576"
         }
       ],
       "card": {
-        "category": "经济·AI",
-        "headline": "AI公司超高估值遭质疑",
-        "what": "虎嗅刊文质疑人工智能公司Anthropic传闻中的2万亿美元预期估值，认为与商业模式和营收兑现能力存在明显落差。",
-        "question": "AI泡沫要是破了，会砸到谁",
+        "category": "科技·AI",
+        "headline": "AI公司冲刺上市，估值反被下调",
+        "what": "AI公司Anthropic据报第三季度营收达168亿美元，估值下调至1.5万亿美元，并推进IPO进程。",
+        "question": "这波AI热潮要降温了吗？",
         "means": [
-          "相关基金和科技股波动可能加大",
-          "AI岗位招聘与薪资预期或降温"
+          "AI概念股波动会比以前更大",
+          "算力租赁和云服务价格或调整"
         ],
-        "note": "估值为市场传闻，未获公司确认，需谨慎看待。"
+        "note": "上市进程与估值均为媒体报道，最终以公开文件为准。"
+      }
+    },
+    {
+      "title": "国家数据集团将挂牌成立",
+      "summary": "国家数据集团或将于近日挂牌成立，标志中国数据要素市场化改革进入实体化运营阶段。该集团有望统筹公共数据资源开发、数据交易基础设施与确权流通机制，推动数据作为生产要素的规模化配置。此举将影响数据产业链、云计算与AI企业的数据获取成本与合规路径，也为地方政府数据平台整合提供参照。数据资产入表、交易定价与安全监管等配套制度值得持续跟踪。",
+      "reason": "国家级数据集团落地标志数据要素市场化提速，影响数据产业链与AI企业成本",
+      "impact_areas": [
+        "科技",
+        "政策",
+        "经济金融"
+      ],
+      "impact_level": "重大",
+      "sources": [
+        {
+          "name": "36氪",
+          "url": "https://www.36kr.com/newsflashes/4029454854099590"
+        }
+      ],
+      "card": {
+        "category": "科技·数据",
+        "headline": "国家数据集团将挂牌，数据要定价",
+        "what": "国家数据集团或将于近日挂牌成立，有望统筹公共数据资源开发、数据交易基础设施与确权流通机制。",
+        "question": "我的个人信息会被拿去卖吗？",
+        "means": [
+          "企业买数据可能更贵也更规范",
+          "数据相关岗位与创业机会增多"
+        ],
+        "note": "挂牌时间与具体职能范围仍待官方公告确认。"
+      }
+    },
+    {
+      "title": "金饰消费额逼近历史新高",
+      "summary": "我国金饰消费额逼近历史最高水平，反映在金价高位运行背景下，居民对黄金的消费与保值需求依然强劲。高金价推高单克售价，消费额增长部分来自价格因素，但也显示婚庆、投资与悦己需求的结构性支撑。金饰消费是观察居民消费信心与避险情绪的重要指标，对黄金珠宝零售、上游金矿及黄金进口贸易具有指引意义，同时需警惕高金价对实际销量的抑制效应。",
+      "reason": "金饰消费额逼近历史峰值，是观察居民消费信心、避险情绪与黄金产业链的关键信号",
+      "impact_areas": [
+        "经济金融",
+        "消费"
+      ],
+      "impact_level": "重大",
+      "sources": [
+        {
+          "name": "36氪",
+          "url": "https://www.36kr.com/newsflashes/4029286869389959"
+        }
+      ],
+      "card": {
+        "category": "消费·黄金",
+        "headline": "金价高企，金饰消费仍逼近新高",
+        "what": "我国金饰消费额逼近历史最高水平，高金价推高单克售价，婚庆、保值与悦己需求仍有支撑。",
+        "question": "现在买金饰会买在高点吗？",
+        "means": [
+          "按克买金饰，工费占比要算清",
+          "想保值的人更该看金条而非首饰"
+        ],
+        "note": "消费额含价格上涨因素，实际销量可能并未同步增长。"
+      }
+    },
+    {
+      "title": "六部门推城镇供热大改造",
+      "summary": "住建部等六部门发布行动方案，启动城镇供热三年大改造，聚焦老旧管网更新、热源清洁化与供热系统节能提效。方案直接关系北方城镇居民冬季供暖质量与用热成本，也将带动管网改造、热泵、智能计量等设备投资。在能源价格波动与双碳目标背景下，供热改造是民生保障与能源结构转型的交汇点，对相关设备制造与市政投资形成增量需求，具体资金来源与价格机制仍待明确。",
+      "reason": "六部门部署城镇供热三年改造，直接关系北方居民供暖质量与用热成本",
+      "impact_areas": [
+        "民生",
+        "能源",
+        "产业"
+      ],
+      "impact_level": "重大",
+      "sources": [
+        {
+          "name": "央视网",
+          "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9tRHpXeDB4WXJaVmRqVTlkdmg1a3NpdWlVVkJzZXpkSTc0VGlGT1h5WlhwQWFzczAtOHV0OVh3S2ZMaDVaNHpIZEdwSVlfZ2FETm8wQVgzdUUwV1Qxc05sNkF1SDIySWZpNzBQQTFnaXU1WlJ5T3FfNg?oc=5"
+        }
+      ],
+      "card": {
+        "category": "民生·供暖",
+        "headline": "六部门出手，北方供热三年大改造",
+        "what": "住建部等六部门发布行动方案，启动城镇供热三年改造，聚焦老旧管网更新、热源清洁化与节能提效。",
+        "question": "今年我家暖气费会降吗？",
+        "means": [
+          "北方老小区冬天室温有望更稳",
+          "管网改造期间可能临时停暖"
+        ],
+        "note": "改造资金来源与供热价格机制尚未明确，各地细则待出。"
       }
     }
   ],
-  "total_fetched": 115,
-  "generated_at": "2026-10-17T07:27:17.050326+08:00"
+  "total_fetched": 177,
+  "generated_at": "2026-10-17T12:26:49.488741+08:00"
 }
