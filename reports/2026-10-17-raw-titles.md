@@ -1,110 +1,100 @@
-# 2026-10-17 原始新闻标题 (177 条)
+# 2026-10-17 原始新闻标题 (207 条)
 
-## 澎湃新闻 (1 条)
+## 澎湃新闻 (3 条)
+- 马上评｜欣赏特斯拉的想象力，更要读懂中国新能源汽车硬实力 - ThePaper.cn
+- 宓淑贤｜从“生活空间”到“后台权力”——重读李霞《娘家与婆家》 - ThePaper.cn
 - 爱因斯坦曾到访过的上海住宅：梓园今昔 - ThePaper.cn
 
-## 南方周末 (3 条)
+## 南方周末 (5 条)
+- 诺和：中国如何从创新目的地变启航地｜外资在华研发中心
+- “烈火烧进泥炭地”：跨境烟霾笼罩东南亚多国
 - 特斯拉腾空，飞行汽车要来了？
 - 去“低空泡沫”：多地政府踩刹车
 - 青少年休学：入手点首先在学校丨休学之后
 
 ## 凤凰网 (20 条)
-- 美媒记者遭以色列定居者袭击，美国务院、内塔尼亚胡发声
-- 日本“拜鬼”的地方不止一处
-- 日本成长战略担当大臣拜鬼
-- 日本政界法律界人士质疑高市政府人事任命
-- 构设逼真战场环境，直击海上实战化训练现场
-- 豆包手机想替你管钱包，多家银行说“不”
-- 伊朗革命卫队：一艘超级油轮触雷爆炸起火，载有超过200万桶原油
-- 特朗普首次表态：限制乌军使用星盾服务不是我干的，应该也不是马斯克
-- 高市早苗向靖国神社献祭品，今年已4次“拜鬼”
-- 教师耻辱合影风波后，县政府领导调整
-- 没有妈妈，被同学欺负，“AI小海”卖惨带货，有运营者称“一天赚两三千都是少的”
-- 受伊朗相关组织招募在英国策划谋杀，挪威少年被判20年
-- 中国技能人才新增劳动力平均受教育年限超14年
-- 古树被警方扣押又遭转赠：时任林业局长被处理，赔偿申请已受理
-- 白宫新发言人遭特朗普闪电解职后发声
-- 卢卡申科展示可躲避刀袭的徒手格斗招式
-- 集安组织在白俄罗斯举行联合演习
-- 视频流出！女篮热身赛爆发大规模冲突，高校队员事后在电梯内兴奋复盘打人细节：我上去就给她三拳
-- 独生女离世，男友为其母亲养老送终后，老人外甥女诉请继承500万元遗产，法院判了
-- 特朗普：我不知道普京来不来，我当然希望他来
+- 但丁爷爷亮相开封万岁山 - 凤凰视频
+- 深圳举行APEC倒计时30天主题活动 - 凤凰视频
+- 媒体原创安徽省第十二次党代会代表任萍萍：让人工智能技术带来更多“民生温度”大皖新闻讯安徽省第十二次党代会即将召开，省第十二次党代会代表，科大讯飞党委副书记、副总裁任萍萍在接受大皖新闻记者采访 - 凤凰视频
+- 拾光纪·跟着总书记的足迹，寻找内蒙古的中国传统色 - 凤凰网
+- 捷克教练采访全程没看美女记者，女记者：出门穿好看的衣服是很自然的事 - 凤凰网
+- “三老板”突然离世，年仅38岁，此前照顾患尿毒症妻子多年，妻子：我的天塌了 - 凤凰网
+- 微纪录片《长征二十夜》第十三集|翻过雪山的夜 - 凤凰网
+- 活力中国调研行丨通航满月！探寻平陆运河向海图强的活力密码 - 凤凰网
+- 27杀4助攻，一枪锁定胜局，王俊凯打瓦战胜世界冠军！打完表演赛分享上海美食：小笼包和生煎 - 凤凰网
+- 南京铁路开展专项问卷 摸排肖战演唱会客流情况 针对23至26日出行旅客 精准优化客运保障 - 凤凰网
+- 小孩被狗追哭女子一脚踩住狗绳制止，女子回应踩住狗绳救下被狗追哭小孩：不知道谁家的狗小朋友没事，事后将狗绑在树上以防再次追人 - 凤凰视频
+- 大陆专家：两岸始终都是一家人 和平融合发展有巨大贡献和意义 - 凤凰视频
+- 男子下车忘关电源，电动车开始“自转”#电动车安全驾驶 - 凤凰视频
+- 美国电视台聚焦甘肃代表团访美：越洋友谊情更“农” - 凤凰视频
+- “三老板”突然离世，年仅38岁，此前照顾患尿毒症妻子多年，妻子：我的天塌了 - 凤凰视频
+- 贵州从江：糯稻飘香 禾晾如画 - 凤凰视频
+- 海面竟漂着大量全新iPhone？货轮在霍尔木兹沉没渔民打捞手机香水现场叫卖新加坡：21名船员均安全 - 凤凰视频
+- 云南这所乡村小学把成长种在大地上 - 凤凰视频
+- “都很有血性，很有杀气！”湖南警察学院新生军训成果展示，定腿练习最久一次20分钟 - 凤凰视频
+- 东北虎粪便啥味儿？记者“亲闻”：形容不出来，终身难忘！#东北虎粪便啥味儿？ - 凤凰视频
 
-## 财新网 (20 条)
-- 朱学东：秋风起，忆起故乡的菱｜饮食
-- 霍克尼的贝弗利山缪斯｜猎读
-- 人事观察｜历任两省份纪委书记 56岁刘爽转岗退役军人事务部
-- 《伟大的长征》：历史转折中的毛泽东和于和伟｜影视
-- 大西洋观察｜尾大不掉的英国福利开支
-- 【周刊提前读】雾锁狮城：厄尔尼诺恶化印尼山火 跨境治理困难重重
-- 【周刊提前读】险企减持权益投资 股票配置如何平衡？
-- 【周刊提前读】银行股修复分化 股份行缘何承压？
-- 【周刊提前读】巴西选情焦灼 极右翼势能从何而来？
-- 【周刊提前读】户外运动险情频出 地方政府该做什么？
-- 【周刊提前读】“陪聊”智能体离别难 孤独产业真空待填补
-- 【周刊提前读】商业项目土地使用权开启续期 定价方式与制度安排影响深远
-- 【周刊提前读】“反内卷”调节锂电投资 行业整合悄然加速
-- 白宫新任发言人上任一周遭解雇 特朗普劝其重新考虑职业
-- 【周刊提前读】中欧汽车贸易达成谅解 贸易保护或倒逼中企出清产能
-- 【周刊提前读】黑天鹅频发售电企业巨亏 价格信号传导关乎电改成败
-- 火车新增“X”字头 “K”、“T”字头从“绿皮车”变高铁
-- 财新闻｜老人独自看病难？陪诊服务首项国标即将正式实施
-- 世卫首份儿童青少年肥胖管理指南：倡导综合干预
-- 新能源投资格局重塑 资产金融化属性有望增强
+## 财新网 (5 条)
+- 【周刊提前读】险企减持权益投资 股票配置如何平衡？ - 财新数据
+- 【周刊提前读】银行股修复分化 股份行缘何承压？ - 财新数据
+- 【周刊提前读】商业项目土地使用权开启续期 定价方式与制度安排影响深远 - 财新数据
+- 大西洋观察｜尾大不掉的英国福利开支 - 财新
+- 【周刊提前读】巴西选情焦灼 极右翼势能从何而来？ - 财新数据
 
-## 央视网 (10 条)
-- 伊朗革命卫队：一艘油轮在霍尔木兹海峡触雷爆炸 - 央视网
+## 央视网 (4 条)
 - “大国粮仓”如何智慧储粮？ - 央视网
-- 《世界职业技术教育标准框架》发布 - 央视网
-- 泽连斯基要求欧盟明年额外提供700亿欧元援助 - 央视网
 - 认识现代麻醉学科｜麻醉不只是“打一针 睡一觉” - 央视网
-- 首次突破、历史新高！一组数据感受中国经济澎湃动能 - 央视网
-- 风暴潮黄色、海浪蓝色 国家海洋预报台发布警报 - 央视网
-- 甘肃天水幼儿园铅中毒案一审宣判：幼儿园实际负责人被判无期 - 央视网
-- 雅万高铁开通运营三周年 累计发送旅客超1800万人次 - 央视网
-- 六部门发布行动方案 城镇供热迎来三年“大改造” - 央视网
+- 《世界职业技术教育标准框架》发布 - 央视网
+- 上海徐浦大桥主桥发生交通事故 多车碰撞致1死2伤 - 央视网
 
-## BBC (14 条)
-- Brazil sees record fall in Amazon deforestation as key election looms
+## BBC (17 条)
+- Trump waives several Russia sanctions as row with Zelensky intensifies
 - Oregon teacher fought school attacker before armed dad shot suspect 'multiple times'
-- Trump waives several Russia sanctions as new US law takes effect
 - Three men jailed for 158 years each for murdering Australian and US surfers in Mexico
-- Inside Ukrainian offensive pushing Russia back - with Starlink playing a key role
-- Katie Zacharia leaving her White House role less than five days on the job
+- Brazil sees record fall in Amazon deforestation as key election looms
+- Katie Zacharia leaving White House role less than five days into job
+- Rare pink diamond goes on display in France 100 years after amateur heist
+- Actress Selma Blair says she 'did not intend to harm anyone' in plane altercation
+- Pope's health should not be taken 'for granted', says top Vatican diplomat
 - Trump 'completely wrong' to restrict support for Ukraine, Italian minister tells BBC
-- Trial of German steakhouse heiress that sparked a huge spy scandal
-- Pope pictured for first time since surgery and cancer diagnosis
+- Judge throws out child sex abuse charges against actor Timothy Busfield
 - Trump denies limiting Ukraine access to Starlink network
 - The uncertain future of Canada's 30 rescued belugas
 - Toxic algorithms wouldn't let them go - now Australia wants an off switch
 - A thousand slogans echoed here - but it could be the end for iconic Delhi protest site
+- Trial of German steakhouse heiress that sparked a huge spy scandal
+- Inside Ukrainian offensive pushing Russia back - with Starlink playing a key role
 - What we learned from heated US midterm Senate debates
 
 ## Reuters (6 条)
 - Trump waives key Russia-related sanctions, tariffs before they take effect under new law - Reuters
-- White House press secretary Zacharia fired in less than a week after facing criticism - Reuters
 - Trump mocks popularity of the name Mohammad, common among Muslims - Reuters
-- Data centers may benefit from massive rural utility loan, US official says - Reuters
-- Thousands march in Albanian capital as anti-government protests spread - Reuters
+- White House press secretary Zacharia fired in less than a week after facing criticism - Reuters
+- India's 'cockroach' movement founder arrested after detention, media reports say - Reuters
 - CoreWeave stock, bond set for weekly plunge as rate-hike fears hit AI bet - Reuters
+- PODCAST: Zacharia out, Zelenskiy slams diesel deal, Oregon shooting (Updated) - Reuters
 
-## NYTimes (16 条)
+## NYTimes (20 条)
+- How Bally Bagayoko, a 53-Year-Old Mayor, Became the Face of France’s Youth Protests
+- Vatican Says Pope Leo Will Leave Hospital on Saturday, Days After Lung Surgery
+- A Wayward Shark Becomes a Celebrity in South Korea
+- Why Are France’s Students Protesting?
+- Uncertainty Over Pope’s Health Fuels Familiar Debate Over Vatican’s Candor
+- Japan’s ‘Dancing Salaryman’ Can’t Stop Grooving
 - The Rupturing Trump-Zelensky Relationship Stands to Hurt Ukraine and Its European Allies
 - Israeli Settlers Attack Palestinians and Washington Post Journalist in West Bank
 - Pope Asks Putin for a Cease-Fire for a Ukrainian City Under Siege
 - Deadly School Roof Collapse in Pakistan Raises Questions Over Regulation
 - Caracas Is Eerily Safe After Deadly Police Raids in Venezuela Killed Thousands
-- What Life Is Like in Kyiv as Russia Tries to Make It Unlivable
-- Dublin Hotel Accused of Revoking Bookings for an Event to Combat Antisemitism
-- Meet Neha Bora, Activist and Face of India’s Young Protesters
-- Uncertainty Over Pope’s Health Fuels Familiar Debate Over Vatican’s Candor
-- Japan’s ‘Dancing Salaryman’ Can’t Stop Grooving
+- A Calgary Crowd Rallies for Canada as Alberta’s Vote on Succession Nears
+- He Was a Top Voice on Palestinian Liberation. Filmgoers Are Listening.
 - Dancing Salaryman Pokes Fun at Japan’s Buttoned-Down Culture
-- A Wayward Shark Becomes a Celebrity in South Korea
 - The World’s Oldest Shipwreck? Maybe, but ‘We’re All Excited by Maybe.’
 - 16 People Rescued in Pacific Ocean Off Mexico, U.S. Coast Guard Says
+- What Life Is Like in Kyiv as Russia Tries to Make It Unlivable
 - Venezuela’s Opposition Leader Calls Trump’s New Oil Partner Corrupt
-- Zelensky Says Ukraine Will Resume Russian Refinery Strikes, Defying Trump
+- Dublin Hotel Accused of Revoking Bookings for an Event to Combat Antisemitism
+- Meet Neha Bora, Activist and Face of India’s Young Protesters
 
 ## CNN (6 条)
 - 0% intro APR until 2024 is 100% insane
@@ -115,92 +105,136 @@
 - Want Cash Out of Your Home? Here Are Your Best Options
 
 ## 微博热搜 (20 条)
-- 拿打工人血汗钱给女儿铺星路
-- 刘丁硕说国乒大家庭总有个别人不团结
-- 这届广交会含新量拉满了
-- 刘丁硕指责张继科长期倚老卖老
-- 奔跑吧
-- 杨幂三生三世这段仿佛请神上身
-- 皮肤科医生建议住酒店自带4样东西
-- 网友演示特斯拉roadster吸在路上
-- 于正希望白鹿朝玉阶救古装长剧
-- 尚公主定档
-- 徐艺洋喝酒视频有奶瓶清洁剂
-- 沈月好友翁小雯离婚
-- 中国留学生就身披旭日旗道歉
-- 孙颖莎站错位了
-- 曝尚公主剧宣内幕
-- 徐艺洋太瘦了穿宽松的衣服完全不显怀
-- 徐志胜预言家
-- 网友质疑刘丁硕身份
-- 新郎回应与新娘深情对视摆拍质疑
-- 李蠕蠕模仿AI短剧
+- 欠薪345万却砸钱送孩子韩国出道
+- 二十年后发现老师早知道自己撒谎
+- 广交会70年热卖单品大盘点
+- 夫妻花67.3万买劳力士店员报警
+- 男子为女友母亲养老送终获500万遗产
+- 嫁金钗真敢拍
+- 闽超一家亲谁赢都开心
+- 单位欠缴社保处罚新规将施行
+- 陪患癌哥哥化疗弟弟查出直肠癌
+- 刘丁硕称王楚钦排名掉第四反倒松了口气
+- 外交部回应中国没有像样厕所言论
+- 徐艺洋怀孕下楼梯那英扶了她一把
+- 黄子韬直接包场免费请你们吃肥姨妈
+- 客服回应大量iPhone漂浮海面
+- 郑合惠子任宥纶挽手遛狗路透
+- 刘丁硕说别提现役运动员
+- 李晨郑恺看到王祖蓝回归的反应
+- 沈腾说王楚然录一期顶他三期
+- 胡先煦搓澡让人认出来了
+- 101岁奶奶每天找100岁闺蜜唠家常
+
+## 知乎热榜 (20 条)
+- 与中国汉族基因最接近的外国其他民族是什么？
+- 我国有哪些成功控制外来入侵生物物种的案例和经验？
+- 动物它们平时在休息，或者在发呆的时候，它们都在想什么问题？会像我们人类一样为了生存思考各种问题吗？
+- 既然国人嫌弃月饼高油高糖，为啥不把月饼出口到喜爱糖油混合物的美国呢？
+- 历史上谁曾经成功潜入过皇宫？
+- 「国之大者，在祀与戎」，为什么祭祀能和战争并列成为国家大事？
+- 我小的时候一直在想一个问题，是不是物质体积越小，感受到的物体时间流速不一样？
+- 瞎扯 · 如何正确地吐槽
+- 瞎扯 · 如何正确地吐槽
+- 人类为什么没有进化成猛兽？
+- 马为什么站着睡觉？
+- 帝王蟹极度泛滥，严重影响生态平衡，但是为什么还那么贵？
+- 瞎扯 · 如何正确地吐槽
+- 有哪些像「饮鸩止渴」中的「鸩鸟」一样有毒的鸟类？
+- 为什么沙漠地区的人在极热的环境下，反而穿更多的衣服？
+- 哪些计算机技术已经悄悄改变了生活，却很少有人意识到？
+- 瞎扯 · 如何正确地吐槽
+- 于敏-邓稼先构型的是怎么设计出来的，为什么别的国家死活搞不出来？
+- 为什么纸张沾了油会变得更透，而沾了水就没这么明显？
+- 日本饮食为什么一餐的量那么少？
 
 ## B站热门 (20 条)
 - 【独家】《凡人修仙传之慕兰之战》第20集【总第196集】
 - 科学家们用物理智斗爱因斯坦？
 - 一口气看完故宫角楼建造全过程
-- “优秀的作品都在讲同一件事”
-- 《异环》剧情过场丨「God Knows…（异环Cover ver.）」特别动画
-- 再给我一个好吗
-- 红魔12 Pro+上手体验：终极游戏利器
 - 我是人类
-- 朱棣：“我的侄子走丢了，有好心人能帮帮我吗？”
+- 《回合之间》｜致每一位登上闪耀大赛的你！
+- 【使命召唤23：现代战争4】4K 最高画质 全战役 全剧情流程通关攻略 战役模式 COD23 - Call of Duty:Modern Warfare 4
+- 《遗忘之海》“歌丝莉”剧作者角色PV ——采风记
+- 震撼世界！当《黑神话·钟馗》走进现实，中式美学天花板在此！
+- “优秀的作品都在讲同一件事”
 - 【纪录片】威尔史密斯的极地纵横 03 厄瓜多尔搜寻水蚺
-- “这波秒开仙人，直接把六小龄童看呆了！”
-- 欠钱不还却有钱出道？是谁又在给老赖之女洗白？深扒李秀满新女团成员盛艾敬！
-- 【侦探TV】真好…每个人都有自己忙的事……
-- 当我每次操作，都会同步改变世界所有区块！
-- 营销噱头还是黑科技?Roadster 2造车门槛是什么？专利、商业解读
-- 【4K/60fps】全网最丝滑无废话鸣佐之战！
+- 美国最肥披萨店！全球第一大50斤70000千卡有多离谱？
+- 朱棣：“我的侄子走丢了，有好心人能帮帮我吗？”
+- 【纪录片】中国救护2 05 家和万事兴
+- 啊？61.0
+- 历经一个月！我们做到了！！
+- 德小蓝灰鲸鲨战车！这自带音响的小车谁不爱呢？可把玩可合体可扔出！4套检视也是没谁了吧？
+- 【毕导】不做诺奖科普的第一年，科普博主我还会做多久？
 - 让人生理性厌恶的两口子黄子韬徐艺洋
-- 挑战全程扛共享单车登顶峨眉山金顶
-- 【侯绿萝】更新了一条视频，快来围观！
-- 假如格林穿越到了re0的世界（王选篇5）【bilibilionly同人扶持计划】
+- 浪漫惊悚文字冒险《Rain98》第二支PV公开！Demo现已上线Steam！
+- 英国菜究竟是一种什么刑罚？英国人还有味觉吗？
 
 ## 抖音热搜 (20 条)
 - 阿达西的馕真是馕界楷模
-- 喀纳斯秋日实况
-- 广交会见证中国制造从能造到智造
-- 美军六代机F47首飞锁定2028年
-- 古早感美式复古秋冬穿搭
-- 津门虎提前两轮保级成功
+- 我要如何写自己
+- 智能粮仓守护每一粒粮食
+- 北京大雨
+- 铁路车次新增X字头
 - 四部门组织30余家车企座谈
 - 伟大远征
-- 沃齐尼亚世界杯后状态暴跌
-- 铁路车次新增X字头
-- 中国驻泰使馆提醒防范高薪陷阱
 - 苑丽颖场地自行车世锦赛夺金
-- 外交部批驳日本拥核企图
+- 一人一张忆西游公园抽象照片大赛
+- 苏超泰州队vs无锡队
+- 谢霆锋南昌演唱会
+- 张杰深圳演唱会
 - 本周谣言鉴别
-- 井泉大使回应菲防长涉华谬论
 - 忘情摇舞蹈挑战
-- 谁抢到了iPhone Duo
-- 田曦薇魏娆君黛并蒂双生花
-- 三角洲S12赛季前瞻
-- 嫁金钗开播
+- 张雪机车冲刺西班牙站冠军
+- 谁不想放声唱一首Poker Face
+- 这首歌名就是我们
+- 2026抖音直播热爱奔赴季
+- 阿达西都是这么打馕的吗
+- 我的郑马MVP结算时刻
 
 ## 36氪 (20 条)
+- 智界将获独立造车资质，内部人士确认公司计划上市
+- DeepSeek V4.1 Flash新版本发布
+- 中国贸易展览会在哥斯达黎加举行
+- 国际货币基金组织总裁：秋季年会达成三项核心共识
+- 欧洲央行行长：应采取适度政策举措遏制通胀
+- 中国人民银行行长潘功胜会见相关国家央行行长
+- 晶科能源CTO金浩：预计未来5年光伏组件价格将再降50%
+- 多方判断电价拐点已现
+- 德国汽车工业协会：2031年前不应强制要求汽车电池本地化生产
+- 纽约联储一级交易商名单调整，NatWest退出
+- 斯里兰卡人民币清算行揭牌仪式在科伦坡举行
+- 雅万高铁开通运营三周年，累计发送旅客超1800万人次
+- 微软推出“AI学生模拟器”
+- 华泰证券：航司运营继续好转，等待油价回落
 - “六方半导体”完成超亿元C1轮股权融资
 - 国家数据集团或将于近日挂牌成立
 - 量化基金巨头Two Sigma据悉停止为不动产部门筹资并裁撤高层
 - 预报时效11天，超算互联网助"风清集合"AI业务化运行
 - 摩根士丹利：明年超大规模及新兴云厂商数据中心新增算力将同比激增48%
 - 蓝色起源计划斥资3.3亿美元扩建佛罗里达工厂，提升新格伦火箭发射产能
-- 港股停牌退市常态化，年内25家公司遭强制退市
-- 马斯克：正在开发专用议价机器人，每年可为全球节省6万亿美元
-- 科技记者古尔曼：苹果在供应有限的情况下过早推出了iPhone Duo
-- OpenAI挖角xAI核心销售负责人
-- Anthropic据悉向美议员推介AI安全方案，拟为模型发布设置门槛
-- 部分“固收+”理财产品净值回撤，风控与预期管理临考
-- A股市场性价比进一步提升，上市公司积极开展回购
-- 我国金饰消费额逼近历史最高水平
-- 软银集团考虑收购美国安保服务提供商Allied Universal
-- 黄仁勋谈AI市场震荡：“这一切都会过去”
-- 港股结算机制生变：“T+2”将改为“T+1”，2028年下半年完成
-- 今年1.3万亿元超长期特别国债发行完毕
-- Anthropic据悉在最新一轮芯片融资交易中向黑石提供两位数收益率
-- 美股三大指数集体收跌，热门中概股普跌
 
-## 虎嗅 (1 条)
-- Anthropic冲刺IPO：第三季度营收168亿美元、估值下调至1.5万亿美元，算力承诺与安全叙事承压 - 虎嗅网
+## 虎嗅 (20 条)
+- 我还能比AI干得更好吗？
+- Roadster腾飞之后：特斯拉的光环与代价
+- 招牌疯狂加后缀，餐饮正告别“大单品时代”
+- AI信息过载时代，什么才是有价值的行业信号？
+- 美股最危险的分化：普通股票已经跌惨，AI巨头还能撑多久？
+- 霸王茶姬：努力的小镇奶茶家
+- 一条差评一条命
+- 从假靳东到AI小海：变脸的AI，不变的生意
+- 《绝命毒师》脑瘫演员米特突然去世，生前曾长期为残障群体发声
+- 因为我并不确定
+- 为什么快消企业正在被深度分销拖垮？
+- AI，别欺数学家太甚
+- IMDb 20国电影代表作全剧透推荐
+- 腾讯网易停运的游戏陆续复活，仿佛雨后春笋：都怪AI？
+- 美光崛起背后：美国内存“独苗”的生存战、资本博弈与AI重生
+- 分享一本有意思的小书
+- 通胀降了、工厂倒了、贫困涨了，阿根廷的“成功”是谁的成功？
+- 深度 | 苹果 AI 还有牌，但已经不太够了
+- 跌去95%，她卖掉上市公司
+- 就在下周，Meta财报打头阵，AI巨额投资迎“信心大考”
+
+## 少数派 (1 条)
+- 被量化的心跳：HRV 是身体的晴雨表，还是制造焦虑的数字游戏？
