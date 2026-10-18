@@ -1,72 +1,102 @@
-# 2026-10-18 原始新闻标题 (160 条)
+# 2026-10-18 原始新闻标题 (194 条)
 
-## 澎湃新闻 (4 条)
+## 澎湃新闻 (11 条)
+- 权力的眼睛·百年福柯｜姜宏：现代性的阴影——从马克思、韦伯到福柯 - ThePaper.cn
+- 有忆九老：关于刘海粟钱君匋等先生的往事 - ThePaper.cn
+- 蘧草楹帖：王蘧常先生的章草新境与学者胸襟 - ThePaper.cn
+- 打工人独白：看不见的敌人AI - ThePaper.cn
 - 看展｜范用的书房，爱书人的故事 - ThePaper.cn
 - AI助力，芬兰艺术家与学生墙绘12米上海城市风貌 - ThePaper.cn
 - 李昕｜杨振宁的本色 - ThePaper.cn
 - 一本《山水》，读懂我们的来路与归途 - ThePaper.cn
+- “林诗栋妈妈的餐馆被拿排骨数量审判”上热搜，林诗栋舅舅：餐馆从未卖过排骨面 - ThePaper.cn
+- Swisse斯维诗抗糖丸被检出铅超标，官方客服：相关批次未进入中国销售 - ThePaper.cn
+- 特斯拉会飞？ - ThePaper.cn
+
+## 南方周末 (3 条)
+- 上海拟改革五天育儿假，专家建议“只增天数”还不够
+- 靠约稿谋生的年轻画师们，被骗子盯上了
+- 二十多万人与3468个隐患点共处：地灾治理阿坝观察
 
 ## 凤凰网 (20 条)
-- “美国想让欧洲重新购买俄气，德国不干” - 凤凰网
-- 凤凰热榜 - 凤凰网
-- 凤凰热榜 - 凤凰网
-- 凤凰热榜 - 凤凰网
-- 时政微纪录丨绿色之路——习近平总书记赴内蒙古乌兰察布考察纪实 - 凤凰网
-- 一路丰碑｜奇兵出赤水，写就灵活机动传奇 - 凤凰视频
-- 李强与乌兹别克斯坦总理举行会谈 - 凤凰网
-- 织密物流网 畅通双循环 - 凤凰网
-- 海外博主看中国｜一条公路带来的巨变：英国博主重返中国偏远山村 - 凤凰网
-- 《只此青绿》亮相敦煌 千年宋韵美学拉满 - 凤凰网
-- 良法善治·回响｜老吾老以及人之老 - 凤凰网
-- 各地优化服务 保障群众温暖过冬 - 凤凰网
-- 一路丰碑｜奇兵出赤水，写就灵活机动传奇 - 凤凰网
-- 孩子趁家长不在家独自爬上窗户，悬挂在12楼，居民和保安接力托举，所幸没有发生危险 - 凤凰网
-- 以色列定居者袭击美国记者，美国大使谴责 - 凤凰网
-- 大连遭大风天气，大树被连根拔起，市民在风中艰难前行 - 凤凰网
-- 学习新语·走好新时代的长征路丨攻坚之勇 - 凤凰网
-- 2026西安马拉松赛鸣枪起跑 钟楼上“吼”秦腔 助威加油 - 凤凰网
-- 电影中的长征｜风雨同袍见真情 - 凤凰视频
-- 重阳后牢记这几件事，安康过秋冬！赶快转到“相亲相爱一家人”群 - 凤凰视频
+- 日媒民调：高市内阁支持率跌至新低
+- 张家齐妈妈：购房未动用女儿一分钱
+- 伊朗：重开霍尔木兹计划仍在谈判桌上
+- 阿赫拉基出任伊朗新任防长，曾深度参与伊朗弹道导弹计划
+- 自媒体账号发布“邓亚萍”带货视频，邓亚萍团队：从未代言、推广过相关产品
+- 埃及：将沙特的安全与稳定列为地区优先事项
+- 海外学子棒打“精日”，点赞！
+- 广西：坚决拥护党中央决定
+- 1000多万元人民币，台军就想让AI看清解放军动态？
+- 法国多地抗议引发暴力骚乱，百年历史市政厅被烧毁，马克龙：绝不容忍暴力
+- 法国多地发生大规模抗议，千余人被捕
+- 俄圣彼得堡和列宁格勒州遭无人机袭击
+- 胡塞武装公布击落沙特AH-6i型直升机画面
+- 星链限速，不止是技术问题
+- 废墟中重建生活，加沙民众用旧钢筋撑起“新家园”
+- 泽连斯基称“能源停火”以来乌油气等行业遭76次打击
+- 泽连斯基对特朗普强硬，因“心情低落”：被关了警报、断了情报，还不让打俄炼油厂
+- 17岁，年薪700万
+- 特斯拉新车研发测试画面曝光：车辆从高处坠落燃起熊熊大火
+- 疯狂小杨哥新号“庆杨”粉丝被清零，记者实测：关注不计入粉丝量
 
-## 财新网 (2 条)
-- 财新观察｜以安全筑牢汽车产业 高质量发展底座 - 财新周刊
-- 最新财新周刊｜银行股修复中分化 - 财新周刊
+## 财新网 (10 条)
+- 【市场速递】偿债担忧重击CoreWeave 美股算力链承压
+- 亦学亦仕 广西68岁无党派高官黄日波落马
+- 白衣飘飘的凝视：温网场地服装监督官的权力边界｜体坛
+- 新一轮氢能综合试点正式启动 中央财政“先预拨、后清算”
+- 由派遣大学生为主转向研究生｜1978：留学生赴美首航记④
+- 周智琛：直母山河(上)｜故事
+- 方城之始｜南宋巴蜀抗元记①
+- 财新闻｜预计到2035年，北京老年人口占比将超33%，进入重度老龄化社会
+- 新二元经济悖论的系统性破解
+- 创新药继续走弱，康方生物实施配售周跌超16%｜医药股周报
 
-## 央视网 (5 条)
+## 央视网 (6 条)
 - 睡得多会变笨吗？这几点比睡眠时长更重要→ - 央视网
-- AI新品圈粉广交会客商 新技术解锁外贸新场景 - 央视网
+- “银发金街”“童趣乐园”承载大民生 创新业态模式满足百姓“一站式”生活需求 - 央视网
+- 金秋时节风吹稻浪、瓜果飘香 科技赋能绘就好“丰”景 - 央视网
 - 小利引诱、打感情牌 民警拆解针对老年人投资骗局 - 央视网
-- 今年前三季度全国铁路发送旅客37.1亿人次 创历史同期新高 - 央视网
 - 广西大学通报一学生死亡：警方初步认定为高坠死亡 排除刑案 - 央视网
+- 跟着电影去运动 推动电影与体育双向赋能 - 央视网
 
-## BBC (8 条)
-- Violent clashes, looting and buildings ablaze in France as over 1,000 arrested after protests
+## BBC (11 条)
+- Burnt out cars and shattered glass on Paris streets after protests turn to riots and looting
+- Photos show luxury boat with 50m pool and water slides near Kim Jong Un's summer retreat
+- A wave of homemade, synthetic drugs sweeps US and deepens crisis
 - European diplomats attacked by Israeli settlers in West Bank
-- Deadly fire breaks out at Canada military base
+- Several dead or injured in major fire at Canada military base
 - Trump waives several Russia sanctions as row with Zelensky intensifies
 - Anti-government protesters battle with police in Albania
 - At least 17 dead in crush at Hindu festival event in India
-- Photos show luxury boat with 50m pool and water slides near Kim Jong Un's summer retreat
+- Pope Leo XIV thanks wellwishers in first event after cancer surgery
+- Parisians wake up to protest damage and looted shops
 - How day of protests unfolded as disorder breaks out across France
 
-## Reuters (1 条)
+## Reuters (4 条)
+- Deaths confirmed after 'serious incident,' fire at Canada military base in Alberta - Reuters
 - Two killed, including 6-year-old, when truck drives through Kansas youth soccer game, police say - Reuters
+- Festival crush in Indian city of Kolkata kills at least 17, local media say - Reuters
+- Reporter Bailey Gallion covers crime, policing, morning breaking news - Centre Daily Times
 
-## NYTimes (17 条)
+## NYTimes (20 条)
+- France in Shock After Protests Devolve Into Riots
+- Pope Leo Thanks the Faithful in Weekly Address a Day After Leaving Hospital
+- Deadly ‘Incident’ at Canadian Forces Base Wainwright Sparks Fire
+- Ukraine Strikes Russian Oil Terminal, as Starshield Disruptions Persist
+- Singing, Dancing and Getting Dumped by A.I. on Korean TV
+- In India, the Scion of a Political Dynasty Tries to Seize His Moment
 - Israeli Settlers Attack Palestinians and European Officials in West Bank
-- Unrest Mars Day of Protest in France, as Student Movement Turns National
-- Pope Leo Leaves Hospital, Days After Lung Cancer Surgery
-- 17 Dead, Dozens Injured After Stampede at Indian Religious Event
+- At Least 19 Dead After Stampede at Indian Religious Event
 - Mexican Judge Sentences 3 Men to 159 Years Each in Surfer Killings
 - Kenya Confirms Four New Ebola Cases
 - What to Know About the Violent Protests in Albania
 - Yemen Fighting Rages as Civilian Toll From Houthi-Saudi Conflict Worsens
+- Unrest Mars Day of Protest in France, as Student Movement Turns National
 - Egypt’s President Says He Will Leave Office in 2030
-- In India, the Scion of a Political Dynasty Tries to Seize His Moment
-- Singing, Dancing and Getting Dumped by A.I. on Korean TV
-- Deadly ‘Incident’ at Canadian Forces Base Wainwright Sparks Fire
 - U.S. Floats Lifeline to Russia: Allowing More Gas Sales to Europe
 - Dispute Between Trump Allies Centers on Millions Transferred From Congo
+- Pope Leo Leaves Hospital, Days After Lung Cancer Surgery
 - Uncertainty Over Pope’s Health Fuels Familiar Debate Over Vatican’s Candor
 - The World’s Oldest Shipwreck? Maybe, but ‘We’re All Excited by Maybe.’
 - Deadly School Roof Collapse in Pakistan Raises Questions Over Regulation
@@ -80,108 +110,118 @@
 - Want Cash Out of Your Home? Here Are Your Best Options
 
 ## 微博热搜 (20 条)
-- 贫困生能花三千块治牙吗
-- 越来越多人不接陌生电话
-- 算力成草原新特产
-- 白鹿奔跑吧合照C位
-- 嫁金钗口碑发酵
-- 伊朗已有超3万名女性忍者
-- 恋与深空银翼杀手联动
-- 峨眉全阵容官宣
-- 昆明一事业编岗位九千人报名
-- 90岁奶奶自学照顾92岁患病老伴
-- 上海徐浦大桥事故后车视角
-- 徐艺洋弟弟发文
-- 疑似邓凯恋情
-- 王晓慧特别出演
-- 人民日报评天价黄牛票
-- 吴越质问花姐骗了多少钱
-- 人胖的时候感受不到自己胖
-- 叶非夜晒与郭宇欣聊天录屏
-- 余文乐发文道歉
-- 李昀锐以为孟子义真睡着了被逗笑了
+- 接到网贷催收电话统一说不认识
+- 律师称AI广告无标注涉嫌消费欺诈
+- 文化中国行九九重阳节
+- 超级加配埃安Ray7预售价12.88万元起
+- 母亲再婚继父想让亲儿子独占房产
+- 茉莉奶白爆单店员劝退消费者
+- 法国民众这次真急了
+- 阿迪达斯携破二第一人萨维来北马
+- KSG对战EDGM
+- LOUD战胜VIT夺冠
+- 法国骚乱百年市政厅被烧毁
+- 法国骚乱超150名警察受伤
+- 韩国网友要求盛艾敬退团
+- Angelababy回应被说显老
+- 肖战演唱会音乐总监刘卓到南京了
+- 黄宣官宣当爸
+- 老伴去世103岁爷爷暴瘦70斤
+- 球迷说刘丁硕把樊振东签名卖了五千一个
+- 张家齐妈妈说我是一个傻子一个笨蛋
+- 嫁金钗
+
+## 知乎热榜 (2 条)
+- 马斯克飞行汽车遭踢馆，初创公司发布其车飞越特斯拉视频，称已领先11年，谁的水平更高？这个赛道前景如何？ - 知乎
+- 如何看待DeepSeek-4.1-flash-1017指纹测出来是6-astra，版本实测如何？ - 知乎
 
 ## B站热门 (20 条)
-- 友情提示：没点艺术细胞的人刷不到这条视频！
-- 手搓版迪迦奥特曼
+- 长乐夜未央丨全新主题区域「未央城」即将上线
+- 枪手携2500发弹药血洗商场！警员孤身迎战，80米外击毙！
+- 假装电影院检票员看路人的票
+- 【独家】牧神记 第105集 屈山神殿
 - 这款游戏出现在21世纪还是太超前了
+- 不是 AI 特效！这才是《中国功夫》的魅力！
+- 猜！谁吃到了黑暗料理？
+- 《弟子不必不如师》
+- 【盲人无障碍电影】冰雪奇缘第一部
 - 花费上万！真人版弹丸论破开庭！
-- 提示：本视频可以呼吸  《无呼吸义务》
-- 洗衣机如何演奏《雨爱》？
-- 有用版新植物：诱人菇
-- 我是人类
-- 请和这样的我恋爱吧
-- 多动症
-- 【微电影】星河外卖员：规则诡域
-- 低血糖
-- 【纪录片】中国救护2 05 家和万事兴
-- 观看一些老人
-- 全宇宙最team的一把救世主模式！！！
+- 动态视频｜下大棋！英伟达的RTX Spark笔记本电脑，靠谱吗？
+- 《鸣潮》共鸣者战斗演示 | 锁暝
 - 🛳️杀死伪人🛳️
+- 洗衣机如何演奏《雨爱》？
+- 全宇宙最team的一把救世主模式！！！
+- 结过婚我也认是什么梗【梗指南】
 - 【使命召唤23：现代战争4】4K 最高画质 全战役 全剧情流程通关攻略 战役模式 COD23-Call of Duty：Modern Warfare 4【完结】
-- ⚡1000只猫vs1000只狗⚡
-- ⚡️大明天团下西洋胜利MVP结算,激情演唱Uptown Funk⚡️【AI MV大赛】
-- 暴雪封山！7人被困山庄！杀手就潜藏在我们之中？！！「暴雪山庄」
+- 手搓版迪迦奥特曼
+- 英国又想回到欧盟？不，是拯救欧盟！
+- 【微电影】星河外卖员：规则诡域
 
 ## 抖音热搜 (20 条)
-- 西甲巴萨5:2大胜皇家贝蒂斯
+- LOUD战胜VIT夺冠
 - 今日重阳节
-- 健康中国迈入十五五
-- 演奏兰香如故BGM宿命感拉满
-- 我要如何写自己
-- 古早感美式复古秋冬穿搭
-- 法国爆发大规模骚乱
+- 广交会上机器人从展品变员工
+- 上海汉堡节香就一个字
+- 俄圣彼得堡石油码头遭乌袭击
 - 那个熟悉的童年伙伴又见面了
-- 大马丁与布伦斯韦特相撞伤退
-- 纪录片万水千山
-- 一人一张忆西游公园抽象照片大赛
-- 台风蔷琵路径还有很大变数
+- 四川男篮终结47连败
+- 中超山东泰山队5:0大胜浙江队
+- 实探华强北iPhone Duo行情
+- 无畏契约上海冠军赛现场太夯了
+- 西安已进入大宽面时代
 - 镇痛药都会上瘾吗
-- 广西大学通报学生坠亡
-- 新疆阿达西回应烤馕走红
-- 谁懂共鸣之战朵莉亚开大的救赎感
-- 沉浸式感受北京马拉松赛场的热情
-- 这首歌名就是我们
-- 孟屯综艺超市挑战全是心眼子
-- 九月九的酒唱出游子心
+- 燕云全新主题区域未央城正式开启
+- 王力宏郑州演唱会
+- 法国爆发大规模骚乱
+- 乐评人眼中的在梅边
+- 嫁金钗5步区分魏娆君黛
+- 肖战离职被前同事背后蛐蛐
+- 二郎显圣真君敦煌舞挑战
+- 这一口香河肉饼地道不烧心
 
-## 36氪 (17 条)
-- IMF亚太部副主任赫尔布林：中国积极维护基于规则的多边贸易体系
-- 全球贸易迈入三维重构，WTO首席经济学家：呼吁打造“韧性”供应链
-- StartLux拿下Hugging Face榜首
-- 维多集团传奇石油衍生品交易员Yaoyao Liu将离职
-- 今年前三季度全国铁路发送旅客37.1亿人次，创历史同期新高
-- 具身大脑公司“格物通智”已完成近亿元天使轮融资
-- 央行副行长宣昌能出席全球主权债务圆桌会等会议并会见相关机构负责人
-- 韩国财长：半导体市场景气至少维持至明年
-- 今年多次回购股曝光，五大共性凸显
-- 马斯克：承认在政治事务中“有些偏离正轨”
-- 多项世界级，曙光8000十大前沿成果发布
-- 国金证券：当前AI短剧出海仍处渗透率低位，远期市场空间有望持续扩容
-- 对冲基金正在加速撤离AI交易
-- 节后首批百家机构调研股曝光，源杰科技有284家机构调研
-- iPhone Duo预售次日市场价格明显回落，部分版本加价空间缩水过半
-- Anthropic联合创始人：人工智能或推动美国经济规模到2030年达到44万亿美元
-- 全球人形机器人收入前五全是中国企业，前8个月深圳机器人出口激增超1200%
+## 36氪 (20 条)
+- 恒力石化：预计前三季度净利润同比增长104.20%
+- 多家涂料企业产品涨价，国产涂料海外订单爆发
+- 盛和资源：拟向中稀发展转让4家稀土冶炼分离子公司51%股权
+- 台积电日本熊本二厂获准转向3nm芯片生产，月产能6000片
+- 美银：超大规模云服务商合计未来12个月自由现金流已经暴跌至负1000亿美元以下，资金历史性流向半导体供应商
+- 微软取消AI相关合作，英国本土数据中心先锋企业遭遇重大挫折
+- Meta修改商业服务条款引AI训练数据争议 相关表述已删除
+- 英伟达辟谣RTX 5090停产：只是产能不足，不会断供
+- 信达证券：前三季度净利润同比下降4.83%
+- 东兴证券：前三季度净利润同比增长0.75%
+- 银行托管新规后，首个持牌专营中心开业
+- Swisse抗糖丸被检出铅超标，官方客服：相关批次未进入中国销售
+- 海光信息：董事长提议回购5亿至8亿元股份
+- ST绝味：撤销其他风险警示，10月20日复牌
+- 格科微：实控人提议回购1.5亿至3亿元股份
+- 澜起科技：独立董事提议回购3亿至5亿元A股股份
+- 中科曙光：董事长提议3亿元至5亿元回购公司股份
+- 生益科技：董事长提议回购2亿至3亿元股份
+- 业绩强劲增长，港股保险龙头获资金连续21日净买入
+- 港股IPO火爆募资刷新近15年纪录，香港证监会警示可疑认购
 
 ## 虎嗅 (20 条)
-- 解禁1.7万亿、回购1.7万亿，美股最大的一场对赌在2027
-- 刚刚，美国乡巴佬的苦情土歌成了世界第一
-- 马斯克把车开上了天没用？对市场没用，恰恰是对他的大用
-- 年轻人越来越少，谁来养活越来越多的退休者？
-- 从《坏血》到《你能看到一切》：当你给自己创造了个角色，就能拍希区柯克电影了
-- AI安全的漏洞，可能就在你家｜《第一性思考》15
-- 用员工血汗钱“众筹”子女当爱豆，这种新玩法踩穿了社会底线
-- 为什么越贵的品牌越高冷，越便宜的品牌越热闹？
-- “伪史论”流行，我们究竟想从历史中得到什么？
-- 不交钱就全省下架？零食量贩店开收进场费， 它们已经忘了当初靠什么打垮超市的吗？
-- 智能体商务vs 电子商务，谁会笑到最后？
-- 什么是自律的最高境界？
-- 一份秘密草案背后，AI巨头的野心藏不住了
-- 航空公司你克制点
-- 4.99美元的AI医生
-- 观察｜AI时代，不敢裁员也不愿招聘：中国企业的“不裁只冻”困局
-- 马斯克：美债问题只能靠AI和机器人解决
-- 十年江歌案之四：十年维权留下什么？四个写给中国法治的制度追问
-- Anthropic，也要付10%高息
-- 百事为什么没能留住肯德基
+- 一碗“拉面”改名背后...
+- 中国制造的红利期还有多久？
+- 传音的AI，不是用来涨价的
+- 重回汽车第一城后，重庆定下新目标：都市圈汽车配套率70%
+- 从记者到千亿富豪，“最牛文科生”赌中AI
+- 观察｜散户申购不到一半，机构却“刚刚够”：茶百道IPO可能是一场人造繁荣
+- 人人都在谈Agent，谁愿意把事情交给它？
+- 同事.skill 不够用了，谷歌出价7000万“蒸馏”一家破产公司
+- 消费电子太无聊，连设计大师都想逃
+- 有多少大作暴死在2026？
+- AI时代来临，我却琢磨手搓游记
+- 星链限速，不止是技术问题
+- 17岁，年薪700万
+- 怎么就管不住这该死的手呢，又开始刷多邻国了
+- Alexandr Wang揭秘Muse诞生内幕
+- 老板们不再把钱交给VC了
+- 对话Jev创始人：RLHF走了大弯路，下一个时代不会属于Claude Code
+- 用GPT-6魔改Kindle，我又找到了越狱的乐趣
+- 卖方研究，进入"半价时代"
+- 长鑫科技，出手物理AI芯片企业
+
+## 少数派 (1 条)
+- Quote/0 妙用 +1，把墨水屏变成点餐助手

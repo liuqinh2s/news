@@ -3,43 +3,87 @@
   "news": [
     {
       "title": "法国抗议演变为全国骚乱",
-      "summary": "10月17日至18日，法国多地大规模抗议演变为暴力冲突，示威者与警方激烈对峙，出现抢劫、纵火，多处建筑被焚，超过1000人被捕。学生运动已从局部蔓延为全国性浪潮，骚乱对法国社会秩序、旅游和商业运行造成直接冲击，也考验马克龙政府的治理能力，并可能影响欧洲整体政治氛围与社会稳定预期。",
-      "reason": "多平台密集报道、学生运动全国化并致千人被捕，是当前最受关注的国际社会突发事件。",
+      "summary": "2026年10月中旬，法国多地抗议活动演变为暴力骚乱，巴黎等地出现纵火烧车、打砸商铺和抢劫，南部一座百年历史市政厅被烧毁，全国逾千人被捕，学生运动扩散至全国。马克龙表示'绝不容忍暴力'，政府部署大量警力维稳。此事对法国社会稳定、治安与重建财政、旅游业和消费信心构成直接冲击；若局势持续，可能波及欧元区市场情绪与法国政治议程，法国治理能力与欧洲社会撕裂问题再度凸显，后续需关注是否进一步扩大。",
+      "reason": "多家国际媒体与中文平台密集报道，抗议升级为全国骚乱并造成实质破坏，属跨平台破圈的社会事件。",
       "impact_areas": [
         "社会",
-        "政治"
+        "政治",
+        "经济金融"
       ],
       "impact_level": "现象级",
       "sources": [
         {
           "name": "BBC",
-          "url": "https://www.bbc.co.uk/news/articles/c6d937wedj7jo?at_medium=RSS&at_campaign=rss"
+          "url": "https://www.bbc.co.uk/news/articles/c574pdzl0k4no?at_medium=RSS&at_campaign=rss"
         },
         {
-          "name": "NYTimes",
-          "url": "https://www.nytimes.com/2026/10/17/world/europe/france-protest-riots-marseille.html"
+          "name": "纽约时报",
+          "url": "https://www.nytimes.com/2026/10/18/world/europe/france-protests-shock-arson.html"
+        },
+        {
+          "name": "凤凰网",
+          "url": "https://news.ifeng.com/c/8xKGDK81qcG"
+        },
+        {
+          "name": "BBC视频",
+          "url": "https://www.bbc.co.uk/news/videos/cmn5vey19q3go?at_medium=RSS&at_campaign=rss"
         }
       ],
       "card": {
-        "category": "社会·骚乱",
-        "headline": "法国抗议变骚乱，千人被捕",
-        "what": "10月17日至18日，法国多地抗议演变为暴力冲突，出现抢劫纵火，超1000人被捕。",
-        "question": "我去法国旅游还安全吗？",
+        "category": "社会·治安",
+        "headline": "法国骚乱蔓延，千人被捕",
+        "what": "10月中旬，法国多地抗议演变为暴力骚乱，巴黎出现烧车、打砸商铺，南部一座百年市政厅被烧毁，全国逾千人被捕。",
+        "question": "去法国旅行还安全吗？",
         "means": [
-          "赴法旅游行程可能被迫取消",
-          "欧洲留学就业环境或更不稳定"
+          "赴法旅游的行程可能被迫改期",
+          "持有欧元资产的基金波动或加大"
         ],
-        "note": "骚乱范围仍在变化，出行前请查外交部安全提醒。"
+        "note": "局势是否继续扩大尚不确定，出行前留意官方安全提醒。"
       }
     },
     {
-      "title": "美放松对俄制裁欲增供欧气",
-      "summary": "特朗普政府豁免多项对俄制裁，提出允许俄罗斯向欧洲增加天然气销售，作为与泽连斯基矛盾升级背景下对俄释放的'生命线'；德国明确拒绝重新购买俄气。此举牵动欧洲能源供应格局与俄乌冲突走向，涉及制裁体系、能源定价与跨大西洋关系，对全球油气市场和地缘博弈产生重要影响。",
-      "reason": "美俄欧能源与制裁政策同步生变，中英文媒体交叉密集报道，影响全球能源与地缘格局。",
+      "title": "加尔各答宗教活动踩踏致多人死",
+      "summary": "印度加尔各答一场大型印度教节庆活动发生踩踏事故，造成至少17至19人死亡、多人受伤。当地媒体与警方披露，事发时人群拥挤、疏导失序，是印度近年来又一次大型宗教集会伤亡事故，暴露大型公共活动安全管理与应急能力的短板。事件对当地公共卫生应急、公共安全治理构成压力，也可能推动印度对大型集会审批、安保标准与人群管理的系统性审视。",
+      "reason": "BBC、路透、纽约时报等多家媒体交叉报道的重大公共安全伤亡事件。",
+      "impact_areas": [
+        "社会",
+        "公共卫生"
+      ],
+      "impact_level": "重大",
+      "sources": [
+        {
+          "name": "BBC",
+          "url": "https://www.bbc.co.uk/news/articles/c820vwq7qg2ko?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "name": "路透社",
+          "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQNUVjcERQUE83S1lFTVA1Q2tOMXJya3BMZXZPbWRkMk9wS21FRTBDcGdoN3BHRFhLUHd3dGNRcE9ackxXRm1QaHcyZE1oVVYxTzhjNkJHTVRUYUFIOTdUVUpkQnJneDRpNEdFSF9hc0NsRUx5Ti14RklDYm5DVzZEakxIRjBheWtlYXN2S25lcGloZmFXOGFRWk9kTld4ZXFzZ0VHUm0zVjcwQW9nRFZyMVJXS0hJcWtZUFpB?oc=5"
+        },
+        {
+          "name": "纽约时报",
+          "url": "https://www.nytimes.com/2026/10/17/world/asia/india-deadly-stampede-kolkata.html"
+        }
+      ],
+      "card": {
+        "category": "社会·公共安全",
+        "headline": "加尔各答踩踏已致多人死亡",
+        "what": "印度加尔各答一场大型印度教节庆活动发生踩踏，至少17至19人死亡、多人受伤，事发时人群拥挤、疏导失序。",
+        "question": "大型活动还能放心去吗？",
+        "means": [
+          "节假日赶集式集会要多看逃生口",
+          "国内大型活动安保审批或更严格"
+        ],
+        "note": "事故原因仍在调查，后续以官方通报为准。"
+      }
+    },
+    {
+      "title": "特朗普豁免多项对俄制裁",
+      "summary": "特朗普政府宣布豁免若干项对俄罗斯制裁，并考虑允许俄罗斯向欧洲增售天然气，同时特朗普与乌克兰总统泽连斯基矛盾公开化、对乌施压升温。此举被视为美方以能源为杠杆调整对俄政策、释放缓和信号。直接影响是俄罗斯能源出口空间可能扩大、欧洲天然气供应格局或生变，进而影响全球油气价格与欧洲能源安全。深层看，美国对俄政策转向将重塑俄乌冲突走向与美欧协调，增添地缘格局的不确定性。",
+      "reason": "美国对俄制裁与能源政策出现重大转向，牵动俄乌局势与全球能源格局。",
       "impact_areas": [
         "地缘",
-        "能源",
-        "经济金融"
+        "政治",
+        "能源"
       ],
       "impact_level": "重大",
       "sources": [
@@ -48,30 +92,97 @@
           "url": "https://www.bbc.co.uk/news/articles/cxr5yvzv7rp0o?at_medium=RSS&at_campaign=rss"
         },
         {
-          "name": "NYTimes",
+          "name": "纽约时报",
           "url": "https://www.nytimes.com/2026/10/17/us/politics/russia-gas-trump.html"
-        },
-        {
-          "name": "凤凰网",
-          "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE5JM1BzMWxHZ21icFVCazBNTzNSWm5fZ2dSYVZzb2dSTllHZ0ZXenhRUFhXUmQtT2RSaUZIbnhBbTBYeGtiY3BzVEJGSEY?oc=5"
         }
       ],
       "card": {
         "category": "地缘·能源",
-        "headline": "美放松对俄制裁，欲增供欧气",
-        "what": "10月，特朗普政府豁免多项对俄制裁，提出允许俄向欧洲增售天然气，德国明确拒绝。",
-        "question": "我加油和取暖会更便宜吗？",
+        "headline": "美方松绑对俄制裁，气价要变",
+        "what": "特朗普政府宣布豁免若干项对俄制裁，并考虑允许俄罗斯向欧洲增售天然气，同时与泽连斯基矛盾公开化、对乌施压升温。",
+        "question": "欧洲气价降了，国内会跟吗？",
         "means": [
-          "油气价格短期或随消息波动",
-          "相关能源股与化工成本将受牵动"
+          "进口天然气和化肥价格或先松动",
+          "持有能源股的波动会明显加大"
         ],
-        "note": "制裁豁免能否落地仍取决于欧盟态度。"
+        "note": "豁免范围与期限未明，政策仍可能反复。"
+      }
+    },
+    {
+      "title": "乌打击俄油码头星链中断",
+      "summary": "乌克兰对俄罗斯一处石油码头实施打击，同时'星链'Starshield服务中断持续影响战场通信。泽连斯基称自'能源停火'以来乌油气等行业已遭76次打击，双方围绕能源基础设施攻防升级。对能源市场而言，俄油气出口设施受袭可能扰动供应预期；对战场而言，卫星通信中断削弱乌军指挥与无人机作战能力。事件凸显商业卫星网络在现代战争中的关键作用及其被'断供'风险，冲突正向能源与太空基础设施延伸。",
+      "reason": "俄乌冲突向能源设施与卫星通信延伸，涉及战场态势与能源供应双重影响。",
+      "impact_areas": [
+        "地缘",
+        "能源",
+        "科技"
+      ],
+      "impact_level": "重大",
+      "sources": [
+        {
+          "name": "纽约时报",
+          "url": "https://www.nytimes.com/2026/10/18/world/europe/ukraine-starshield-russia-war.html"
+        },
+        {
+          "name": "凤凰网",
+          "url": "https://news.ifeng.com/c/8xKPCGxLAwM"
+        },
+        {
+          "name": "凤凰网（星链限速）",
+          "url": "https://news.ifeng.com/c/8xKMQjBWV1v"
+        }
+      ],
+      "card": {
+        "category": "地缘·能源",
+        "headline": "乌袭俄油码头，星链断供战场",
+        "what": "乌克兰打击俄罗斯一处石油码头，星链Starshield服务中断影响战场通信，泽连斯基称乌油气行业已遭76次打击。",
+        "question": "油价会不会再被推高？",
+        "means": [
+          "国内成品油调价可能更频繁",
+          "商业卫星断供风险影响通信投资"
+        ],
+        "note": "袭击损失与断供原因均未证实，需持续核实。"
+      }
+    },
+    {
+      "title": "加拿大军事基地火灾致伤亡",
+      "summary": "加拿大阿尔伯塔省韦恩赖特军事基地发生'严重事件'并引发大火，造成数人死亡或受伤，军方与当地应急部门已介入调查，具体原因尚未公布。这是加拿大军方近年来罕见的基地重大安全事故，涉及军事设施安全管理与应急响应能力。事件可能推动加军方对基地安全规程的全面审查，并引发公众对军事设施及周边安全的关注。",
+      "reason": "多家国际媒体报道的加拿大军事设施重大伤亡事故，涉及军方安全管理。",
+      "impact_areas": [
+        "社会",
+        "军事"
+      ],
+      "impact_level": "重大",
+      "sources": [
+        {
+          "name": "BBC",
+          "url": "https://www.bbc.co.uk/news/articles/cr86z0w4lxdxo?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "name": "路透社",
+          "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOU2FXR2gxVGRZLXlocTZDQnduRHpvT3JVUHotdTZsTmczb1B4TDE0OWktQmlDNm1WcGdqcEE2Zm9HTmtpN19Pb29YNnVyVHI4d1hXUG1lb0U2ejg2cDF4VGE5Wng0TGdrVDRaSU85WnNQVmw2WmpOaHhMNlpnTFo0cC1tRkRjTDZJVllKdDJIaUhmM1laR01KS2FrQTRKb1lpQThJZlRIeVd0OVZQUnlFX2tnamx6bHladV95MWZHNUVsSldx?oc=5"
+        },
+        {
+          "name": "纽约时报",
+          "url": "https://www.nytimes.com/2026/10/17/world/canada/fire-canadian-army-base-wainwright.html"
+        }
+      ],
+      "card": {
+        "category": "社会·军事",
+        "headline": "加拿大军事基地起火致伤亡",
+        "what": "加拿大阿尔伯塔省一处军事基地发生严重事件引发大火，造成数人死亡或受伤，军方已介入调查，原因尚未公布。",
+        "question": "基地周边居民需要担心吗？",
+        "means": [
+          "当地华人社群的安全提醒会变多",
+          "加方或收紧军事设施周边管制"
+        ],
+        "note": "事故原因与伤亡数字仍待军方确认。"
       }
     },
     {
       "title": "以定居者袭击欧洲外交官",
-      "summary": "在约旦河西岸，以色列定居者袭击了巴勒斯坦平民及来访的欧洲外交官员，美国大使对此予以谴责。事件使以色列定居者暴力问题再度国际化，加剧以色列与欧洲国家的外交摩擦，并对中东停火与和平进程构成新的干扰，凸显当地安全局势的脆弱性与外交人员面临的现实风险。",
-      "reason": "外交人员遇袭并经多国媒体交叉报道，直接冲击以色列与欧洲关系及中东局势。",
+      "summary": "以色列定居者在约旦河西岸袭击巴勒斯坦人及到访的欧洲外交官，造成外交人员受到攻击。多国外交官在场使事件升级为外交摩擦，欧洲国家可能据此对以色列施加压力。事件反映约旦河西岸定居者暴力持续，加剧本已紧张的地区局势，并可能影响以色列与欧洲国家的关系，对中东地缘与外交格局构成扰动。",
+      "reason": "涉及欧洲外交官遇袭的外交事件，多源报道，加剧中东紧张与以欧关系摩擦。",
       "impact_areas": [
         "地缘",
         "政治"
@@ -83,87 +194,26 @@
           "url": "https://www.bbc.co.uk/news/articles/c962ydpmjm3zo?at_medium=RSS&at_campaign=rss"
         },
         {
-          "name": "NYTimes",
+          "name": "纽约时报",
           "url": "https://www.nytimes.com/2026/10/17/world/middleeast/israeli-settlers-attack-palestinians-diplomats-west-bank.html"
-        },
-        {
-          "name": "凤凰网",
-          "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE0teERoTTlKTkg2MDlNTEtKempmakVxZTdaNVhGeUs1QTJOOGJ3UVN3WFB2WUM4dm83VGpPSUdqazd1c1k3VjNSdA?oc=5"
         }
       ],
       "card": {
-        "category": "地缘·中东",
-        "headline": "以色列定居者袭击欧洲外交官",
-        "what": "在约旦河西岸，以色列定居者袭击巴勒斯坦平民和来访的欧洲外交官员，美方大使予以谴责。",
-        "question": "中东停火还有希望吗？",
+        "category": "地缘·外交",
+        "headline": "以定居者袭击欧洲外交官",
+        "what": "以色列定居者在约旦河西岸袭击巴勒斯坦人及到访的欧洲外交官，造成外交人员受攻击，事件升级为外交摩擦。",
+        "question": "这会扩大成更大冲突吗？",
         "means": [
-          "油价与航运保险费可能再起波动",
-          "出境游中东线路恢复或再度推迟"
+          "中东局势紧张会推高机票与油价",
+          "欧洲对以施压或影响相关投资"
         ],
-        "note": "事件调查与各方表态仍在推进，勿急于定论。"
+        "note": "各方说法不一，袭击细节仍在核实中。"
       }
     },
     {
-      "title": "印度宗教活动踩踏致17死",
-      "summary": "印度加尔各答一场印度教节日活动发生踩踏事故，至少17人死亡、数十人受伤。事发时人群高度密集、现场管理失序导致悲剧。事件暴露印度大型宗教集会在人流管控与应急响应上的短板，可能推动地方当局检讨安全管理机制，并引发对公共活动安全规范的广泛关注。",
-      "reason": "重大公共安全伤亡事件，涉及大型活动管理，被多家国际主流媒体同步报道。",
-      "impact_areas": [
-        "社会",
-        "公共安全"
-      ],
-      "impact_level": "重大",
-      "sources": [
-        {
-          "name": "BBC",
-          "url": "https://www.bbc.co.uk/news/articles/c820vwq7qg2ko?at_medium=RSS&at_campaign=rss"
-        },
-        {
-          "name": "NYTimes",
-          "url": "https://www.nytimes.com/2026/10/17/world/asia/india-deadly-stampede-kolkata.html"
-        }
-      ],
-      "card": {
-        "category": "社会·安全",
-        "headline": "印度宗教集会踩踏，17人遇难",
-        "what": "印度加尔各答一场印度教节日活动发生踩踏，至少17人死亡、数十人受伤，现场人流管控失序。",
-        "question": "人多的地方我怎么自保？",
-        "means": [
-          "大型活动入场安检会更严格",
-          "假期出游建议避开拥挤时段"
-        ],
-        "note": "伤亡数字可能更新，以当地官方通报为准。"
-      }
-    },
-    {
-      "title": "肯尼亚确诊4例埃博拉",
-      "summary": "肯尼亚确认新增4例埃博拉病例，疫情引发区域公共卫生警惕。埃博拉传染性强、致死率高，若防控不力可能向周边国家扩散。事件考验非洲疾控体系与跨境联防能力，或促使世界卫生组织及邻国加强监测、边境筛查与旅行健康提示，对区域公共卫生安全构成现实压力。",
-      "reason": "高致死传染病出现新增确诊，属公共卫生风险类要闻，具跨境扩散隐患。",
-      "impact_areas": [
-        "公共卫生"
-      ],
-      "impact_level": "重大",
-      "sources": [
-        {
-          "name": "NYTimes",
-          "url": "https://www.nytimes.com/2026/10/17/world/africa/kenya-ebola.html"
-        }
-      ],
-      "card": {
-        "category": "健康·疫情",
-        "headline": "肯尼亚确诊4例埃博拉",
-        "what": "肯尼亚确认新增4例埃博拉病例，该病传染性强、致死率高，周边国家已提高警惕。",
-        "question": "去非洲出差旅行要改期吗？",
-        "means": [
-          "相关国家入境或增设健康筛查",
-          "近期赴非行程建议先查疫情通报"
-        ],
-        "note": "疫情范围仍在核实，出行前查官方健康提示。"
-      }
-    },
-    {
-      "title": "人形机器人收入前五全为中企",
-      "summary": "全球人形机器人收入排名前五的企业均为中国企业，今年前8个月深圳机器人出口激增超1200%。数据反映中国在人形机器人整机与供应链上的领先优势加速兑现，出口高增印证海外需求爆发，机器人产业正成为外贸新增长点，也将对全球智能制造竞争格局产生深远影响。",
-      "reason": "中国企业在全球人形机器人收入榜占据前五且出口暴涨，是科技与产业格局的关键信号。",
+      "title": "台积电熊本二厂转产3nm",
+      "summary": "台积电日本熊本第二工厂获准转向3纳米制程生产，规划月产能6000片。这意味着台积电在海外首次布局最先进制程节点，日本半导体制造能力显著跃升。对产业而言，全球先进芯片产能地理分布趋于多元化，有助于缓解地缘集中风险，也将带动日本本地设备、材料与人才生态。对台积电而言，海外先进产能成本更高，但可换取政策支持与供应链韧性，长期将影响全球晶圆代工竞争格局。",
+      "reason": "台积电海外首度布局3nm先进制程，重塑全球半导体产能地理格局。",
       "impact_areas": [
         "科技",
         "产业"
@@ -172,56 +222,25 @@
       "sources": [
         {
           "name": "36氪",
-          "url": "https://www.36kr.com/newsflashes/4030656795120006"
+          "url": "https://www.36kr.com/newsflashes/4031113616347783"
         }
       ],
       "card": {
-        "category": "科技·产业",
-        "headline": "人形机器人收入榜前五全是中国",
-        "what": "全球人形机器人收入排名前五均是中国企业，今年前8个月深圳机器人出口增长超1200%。",
-        "question": "机器人会抢我的饭碗吗？",
+        "category": "科技·芯片",
+        "headline": "台积电熊本二厂转产3纳米",
+        "what": "台积电日本熊本第二工厂获准转向3纳米制程，规划月产能6000片，这是台积电首次在海外布局最先进制程节点。",
+        "question": "手机会更便宜还是更贵？",
         "means": [
-          "智能制造岗位招聘或继续扩张",
-          "相关产业链股票波动会更大"
+          "先进芯片供应紧张或逐步缓解",
+          "半导体设备材料岗位向日本迁移"
         ],
-        "note": "出口增速为阶段性数据，全年或回落。"
+        "note": "量产时间与良率尚未公布，需看后续进展。"
       }
     },
     {
-      "title": "前三季铁路客流创历史新高",
-      "summary": "国铁集团数据显示，今年前三季度全国铁路发送旅客37.1亿人次，创历史同期新高。客流高位运行反映出行与旅游需求持续复苏，对交通、文旅和消费形成支撑。铁路部门客运能力与调度压力同步上升，后续假期运输组织与票价政策走向受到公众关注，也与居民出行成本直接相关。",
-      "reason": "创历史新高的铁路客流数据，既反映经济复苏又直接关系居民出行，属民生经济要闻。",
-      "impact_areas": [
-        "经济金融",
-        "社会"
-      ],
-      "impact_level": "重大",
-      "sources": [
-        {
-          "name": "央视网",
-          "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5XbmJHUnBqbW5ZdVZXTGh1Q3BCRVFtUHNsM2ZhOGhHbFNvYndmS3JFb1NkY3dIRzgwY01TU1lHRllOaTZrd0RLd3RrMC1pc21tUG51UEZwUS1OdDlSNVNRUFF4MG50Si04dGowalU2OTk2RnRDcEE4Rg?oc=5"
-        },
-        {
-          "name": "36氪",
-          "url": "https://www.36kr.com/newsflashes/4030803623203462"
-        }
-      ],
-      "card": {
-        "category": "民生·出行",
-        "headline": "铁路前三季客流37.1亿人次",
-        "what": "国铁集团数据显示，今年前三季度全国铁路发送旅客37.1亿人次，创历史同期新高。",
-        "question": "国庆后票价会便宜点吗？",
-        "means": [
-          "热门线路抢票难度还会加大",
-          "文旅和短途消费或继续升温"
-        ],
-        "note": "票价与加开列车以铁路部门公告为准。"
-      }
-    },
-    {
-      "title": "对冲基金加速撤离AI交易",
-      "summary": "市场数据显示，对冲基金正加速撤离人工智能相关交易，反映资金对AI板块估值过高与交易拥挤度的担忧升温。此前AI概念推动美股屡创新高，此番资金动向逆转可能加剧科技股波动，并外溢至全球风险资产。这一资金流向变化是观察AI行情可持续性与市场风险偏好的重要信号。",
-      "reason": "反映资金对AI交易的重大转向，是影响全球科技股与风险资产的关键资金面信号。",
+      "title": "云厂商现金流告急算力链承压",
+      "summary": "美银报告显示，超大规模云服务商未来12个月合计自由现金流已暴跌至负1000亿美元以下，资金历史性流向半导体供应商；与此同时，市场对CoreWeave偿债能力的担忧重击其股价，美股算力链承压。这反映AI基础设施巨额资本开支正挤压云厂商现金流，产业链利润向芯片端集中。对投资者而言，AI算力投资的回报周期与融资可持续性成为关键风险点，可能引发对AI资本开支泡沫的重新定价，是重要的资金流向信号。",
+      "reason": "揭示AI资本开支与现金流错配的关键资金流向信号，冲击算力产业链定价。",
       "impact_areas": [
         "经济金融",
         "科技"
@@ -229,82 +248,85 @@
       "impact_level": "重大",
       "sources": [
         {
-          "name": "36氪",
-          "url": "https://www.36kr.com/newsflashes/4030687709860230"
-        }
-      ],
-      "card": {
-        "category": "经济·市场",
-        "headline": "对冲基金撤了，AI行情要降温",
-        "what": "市场数据显示，对冲基金正加速撤离人工智能相关交易，担忧AI板块估值过高、交易拥挤。",
-        "question": "AI概念股还会跌多久？",
-        "means": [
-          "科技股波动会传导到你的基金",
-          "相关公司融资和招聘或收紧"
-        ],
-        "note": "资金流向每周变化，单周数据不代表趋势。"
-      }
-    },
-    {
-      "title": "AI时代企业陷不裁只冻困局",
-      "summary": "报道指出，在AI冲击与成本压力下，中国企业普遍采取'不裁只冻'策略——既不裁员也不招聘，通过冻结编制控制人力成本。这一做法虽短期稳定就业数据，却压缩了年轻人和高校毕业生的进入通道，加剧结构性就业压力，对劳动力市场活力与人才培养形成中长期影响，关系广大求职者切身利益。",
-      "reason": "直接关系就业市场与毕业生去向，揭示AI冲击下企业用工模式变化，属民生就业要闻。",
-      "impact_areas": [
-        "社会",
-        "就业",
-        "科技"
-      ],
-      "impact_level": "重大",
-      "sources": [
-        {
-          "name": "虎嗅",
-          "url": "https://www.huxiu.com/article/4898351.html"
-        }
-      ],
-      "card": {
-        "category": "社会·就业",
-        "headline": "不裁也不招，毕业生更难进",
-        "what": "在AI冲击与成本压力下，中国企业普遍采取不裁只冻策略，既不裁员也不招聘，冻结编制控成本。",
-        "question": "应届生还能找到工作吗？",
-        "means": [
-          "校招名额减少，竞争更激烈",
-          "转行和技能培训需求会上升"
-        ],
-        "note": "不同行业差异较大，需结合具体岗位判断。"
-      }
-    },
-    {
-      "title": "加拿大军事基地火灾致伤亡",
-      "summary": "加拿大军方位于Wainwright的基地发生一起致命事件并引发火灾，造成人员伤亡。事件细节仍在调查中，但已引发对军事设施安全管理与应急处置的关注。作为北约成员国的军事基地事故，或促使加方对设施安全与操作规范进行排查，事件后续调查结果将影响公众对军方安全管理的信任。",
-      "reason": "加军基地致命事故引发火灾，被BBC与NYTimes同步报道，属国际突发安全事件。",
-      "impact_areas": [
-        "社会",
-        "公共安全"
-      ],
-      "impact_level": "重大",
-      "sources": [
-        {
-          "name": "BBC",
-          "url": "https://www.bbc.co.uk/news/articles/cr86z0w4lxdxo?at_medium=RSS&at_campaign=rss"
+          "name": "36氪（美银报告）",
+          "url": "https://www.36kr.com/newsflashes/4030955254256003"
         },
         {
-          "name": "NYTimes",
-          "url": "https://www.nytimes.com/2026/10/17/world/canada/fire-canadian-army-base-wainwright.html"
+          "name": "财新网（CoreWeave）",
+          "url": "https://database.caixin.com/2026-10-18/102494569.html"
         }
       ],
       "card": {
-        "category": "社会·安全",
-        "headline": "加拿大军基地起火，有人伤亡",
-        "what": "加拿大军方一处基地发生致命事件并引发火灾，造成人员伤亡，细节仍在调查中。",
-        "question": "军事基地安全谁来管？",
+        "category": "经济·科技",
+        "headline": "云厂商现金流告急，算力链承压",
+        "what": "美银报告显示，超大规模云服务商未来12个月自由现金流跌破负1000亿美元，资金流向半导体供应商，算力链股价承压。",
+        "question": "AI概念股还能拿吗？",
         "means": [
-          "海外军事设施安检或全面升级",
-          "相关演习与部署安排可能调整"
+          "持有AI主题基金的波动会放大",
+          "算力租赁涨价或传导到云服务费"
         ],
-        "note": "伤亡与原因尚未公布，以官方调查为准。"
+        "note": "报告为机构测算，不等于企业实际财报。"
+      }
+    },
+    {
+      "title": "Swisse抗糖丸被检出铅超标",
+      "summary": "Swisse斯维诗抗糖丸被检出铅超标，官方客服称相关批次未进入中国销售。作为知名保健品品牌，此次重金属超标引发消费者对进口保健品质量安全的担忧。事件涉及跨境电商与进口保健品的质量监管盲区，或推动平台与监管对进口膳食补充剂的抽检与溯源要求。对普通消费者而言，保健品安全与跨境购买风险再次受到关注，需留意相关批次与购买渠道。",
+      "reason": "知名保健品重金属超标，涉及消费品安全与跨境监管，直接关系消费者健康。",
+      "impact_areas": [
+        "公共卫生",
+        "消费"
+      ],
+      "impact_level": "重大",
+      "sources": [
+        {
+          "name": "澎湃新闻",
+          "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5hVGZEZlVjenMwSF9sS0lGaG5JbElGR0kwTmRSaUpLLTg3RmgwdTlYajhkYVZHMkJac1U0SEp6c0Y3anhiQXFMcXBUdW9JUndZU1lMcS0yRVlrLTR6UE5ybQ?oc=5"
+        },
+        {
+          "name": "36氪",
+          "url": "https://www.36kr.com/newsflashes/4031111092359555"
+        }
+      ],
+      "card": {
+        "category": "消费·健康",
+        "headline": "斯维诗抗糖丸被检出铅超标",
+        "what": "Swisse斯维诗抗糖丸被检出铅超标，官方客服称相关批次未进入中国销售，事件引发消费者对进口保健品质量担忧。",
+        "question": "我买的保健品还能吃吗？",
+        "means": [
+          "跨境代购的同款要核对生产批次",
+          "进口保健品抽检与溯源或收紧"
+        ],
+        "note": "客服说法未获监管确认，以官方通报为准。"
+      }
+    },
+    {
+      "title": "上海拟改革五天育儿假",
+      "summary": "上海拟对'五天育儿假'进行改革，专家指出仅增加天数还不够，还需配套托育服务与用工成本分担机制。育儿假政策直接关系育龄家庭的照护安排与用人单位的用工成本，是生育支持政策体系的关键一环。若改革落地，将影响上海职工的家庭照护时间与企业人力成本，并为全国生育支持政策提供样本。政策实际效果取决于托育供给是否充足以及男女休假责任能否更均衡地分担。",
+      "reason": "直接关系育龄家庭照护与用工成本的生育支持政策，具有全国示范意义。",
+      "impact_areas": [
+        "社会",
+        "就业"
+      ],
+      "impact_level": "重大",
+      "sources": [
+        {
+          "name": "南方周末",
+          "url": "https://www.infzm.com/contents/342853"
+        }
+      ],
+      "card": {
+        "category": "政策·育儿",
+        "headline": "上海拟改革五天育儿假",
+        "what": "上海拟对五天育儿假进行改革，专家指出仅增加天数还不够，还需配套托育服务与用工成本分担机制。",
+        "question": "多放几天假，工资会少吗？",
+        "means": [
+          "有娃家庭的带娃时间可能变多",
+          "中小企业用工成本与招聘意愿受考验"
+        ],
+        "note": "目前仍是拟议阶段，具体天数以官方发布为准。"
       }
     }
   ],
-  "total_fetched": 160,
-  "generated_at": "2026-10-18T12:26:45.372219+08:00"
+  "total_fetched": 194,
+  "generated_at": "2026-10-18T19:26:52.443427+08:00"
 }
