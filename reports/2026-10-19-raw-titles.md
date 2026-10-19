@@ -1,104 +1,134 @@
-# 2026-10-19 原始新闻标题 (224 条)
+# 2026-10-19 原始新闻标题 (277 条)
 
-## 澎湃新闻 (6 条)
+## 澎湃新闻 (13 条)
+- 打开上海的方式，在网红街区回望愚园路160年 - ThePaper.cn
+- 马上评｜饭圈为何特别容易滋生谣言？ - ThePaper.cn
+- 马上评｜孕妇没投诉却被快递员找上门，算法别冤枉劳动者 - ThePaper.cn
 - 新书经眼｜我漂泊，我沉思，在世间的别处 - ThePaper.cn
 - 现场｜重阳节，和爷爷奶奶一起看展读画 - ThePaper.cn
 - 看1826年最早的摄影作品：法国纪念摄影诞生200周年 - ThePaper.cn
+- 我成为幼嫩青草的一本书 - ThePaper.cn
+- 为啥情侣间这个浪漫的动作，却会让很多女生控制不住恶心？ - ThePaper.cn
+- 官宣 | 陆光祖：退出国家队！ - ThePaper.cn
+- 某些老年人的午睡习惯可能是痴呆症早期预警信号 - ThePaper.cn
 - 最新 | 高市早苗再“拜鬼”！ - ThePaper.cn
 - 贵州知名景区公告：临时封闭 - ThePaper.cn
 - 对话孙立宁：从拧瓶盖到能做饭，具身智能离真正理解环境还有多远？ - ThePaper.cn
 
-## 南方周末 (2 条)
+## 南方周末 (6 条)
+- “白天不遛狗”旧规定，能否跟上杭州市民新需求｜社会嗑
+- 五小时，换一种生活：从“看一眼”到“住下来”
+- 从企业应对到城市协同，常州新能源出海如何穿越ESG丛林？｜第27期CSR思享荟成功举办
+- 人工智能如何推动公益慈善创新？丨第4期公益方舟沙龙成功举办
 - 慢性病越多，老人越容易感到孤独？
 - AI、机器人、芯片封测，上演“破产三姐妹”丨科创要闻
 
 ## 凤凰网 (20 条)
-- 女子入住酒店发现房间装饰画后是空的，里面还有楼梯
-- 俄罗斯外长将访问伊朗
-- 泽连斯基：如果这两个国家站在一起，我们当然无法取胜
-- 胡锡进：留学生披旭日旗事件，值得所有去国外的中国人警醒
-- 用中文与王毅互动，黑山总理答凤凰：乐见更多人在本国学中文
-- 羽毛球国手陆光祖宣布退出国家队
-- 乌东重镇战况胶着：200名乌军特种部队渗透时被围歼
-- 商务部等9部门，印发重要意见
-- “世界三极”联网通信！最后的盲区被打通
-- 汇源集团告别“汇源”
-- 马克龙骚乱讲话全文：法国没参与这场战争，却承受了后果
-- 台湾阿嬷向沈伯洋下跪，疑似配合摆拍画面被拍下
-- 马克龙再发声：无法忍受，法国人怎么能这样对待法国？
-- 2026年前三季度中国GDP同比增长4.6%
-- 法国爆发骚乱，俄罗斯讽刺马克龙
-- 法国各地爆发骚乱之际，马克龙夫妇被曝在席琳·迪翁演唱会包厢里跳舞
-- “洋流”影响北台湾选情？民调专家：国民党若提高警觉，仍有机会守住
-- 蒋万安稳操胜券？学者用哈佛模型推估，曝光蓝绿“六都”最新胜率
-- 人民锐评：别让避雷帖滚成网暴雪球
-- 汇源发布严正声明：将与“汇源”品牌切割，不再生产汇源果汁
+- 50元1斤的“人类猫条”，年轻人不愿啃了
+- 澳大利亚公布“幽灵鲨”三大武器载荷
+- 美乌的友谊小船，要翻了？
+- 鲁比奥：结束俄乌冲突是美国优先要务
+- 法国骚乱背后，藏着怎样的现实问题？
+- 金与正谴责韩国军方“鲁莽行为”
+- 广州一村每人发放3.65元生态公益林补偿款，当地回应：属实
+- 法国发生抗议活动，伊朗外长称马克龙是“自食其果”
+- 高市误把他叫成“首相”，随后改口：他当首相还早着呢
+- 越忙越穷，外卖链条上的12个打工人
+- 马斯克：向全美所有孩子赠送SpaceX股票
+- 人民日报评中国留学生身披旭日旗
+- 女子南太行失联，救援队称在水沟中发现并打捞上岸，警方确认
+- 林芳正批高市对华外交，称“知华派至关重要”
+- 选战倒数40天！卢秀燕接蒋万安竞总主委，临危受命原因曝光
+- 孕妇取消订单却被登记为投诉，快递员情绪激动找上门致其先兆流产
+- 凤凰聚焦丨新鸭绿江大桥开通？凤凰记者：丹东人盼着步子迈大一点
+- 废弃防空洞里惊现大量医用塑料输液瓶，官方回应
+- 乌总统顾问：乌方正寻找“星链”替代方案
+- 抗议与暴力边界模糊，专家：法国社会的不满，越来越有一个明确的指向
 
 ## 财新网 (20 条)
+- 印度加尔各答节庆人群挤压致19人死亡 人流变化及现场广播成调查重点
+- 汇源集团称不再生产“汇源”产品 公司破产重整后原管理层和股东矛盾激化
+- 三季度工业产能利用率微升至73.1% 汽车制造业创10个季度以来最低
+- 《我，外省青年》：我迷恋这个词语的欲望、野心和生命力｜带着问题去读书
+- 社保需要颗粒归仓
+- 法国示威和骚乱升级街头暴力席卷多地 马克龙拒绝内政部长辞职
+- 9月二线城市新房价格由跌转平 70城仍有49城环比下跌
+- 图集｜法国55万人抗议引发暴力冲突 超2300人被捕
+- 火线评论｜从何着手治理体育“饭圈”乱象
+- 3家券商、2家基金公司因在境外调研违规行为采取监管措施
+- 一位AI无法替代的前学渣
+- 统计局谈价格传导：沿产业链逐级递减，对改善企业盈利发挥积极作用
+- 9月社零同比增速超预期加快至1.1% 通讯器材类涨幅创年内新高
+- 乌克兰称星链星盾遭限速影响军事行动 特朗普否认系白宫下令
+- 香港财政司长陈茂波：曼谷年会的两幅景象
+- 9月工业增加值同比增长5.5% 出口交货值增速创新高
+- DeepSeek发布新模型 称成为新的最优性价比模型
+- 米琴：《伊甸之东》中的老李
+- 周智琛：直母山河(下)｜故事
 - 前三季度投资累计同比降幅持平于7.2% 9月环比边际改善
-- 前三季度居民人均可支配收入同比增速加快至5.3% 消费意愿仍待提升
-- 金融数据的三个变化
-- 【霍尔木兹周报】霍尔木兹海峡袭船事件频发 胡赛与沙特武装对抗加剧
-- 三季度GDP同比增速微升至4.5% 名义增速继续走高
-- 能源内参｜中国限制或禁止出口AI、生物医药和光伏三领域共40项技术；前三季度全国铁路发送旅客37.1亿人次 创历史新高
-- 从纸尿裤到刹车踏板：网络测评的身份与是非
-- 育儿思絮之十：顶嘴是孩子的基本权利｜亲子
-- 票房｜《生化危机：爆发夜》热度持续 国内首部AI电影即将上映
-- 欧盟商会：中国是外企的“全球健身房”，但双边贸易不能走向零和博弈
-- 潘功胜：IMF应加强对发达经济体财政风险及其溢出效应的监督
-- 【华尔街原声】美国2026财年财政赤字扩大12% 接近2万亿美元
-- 【华尔街原声】经合组织秘书长：超低融资成本时代已经结束
-- 借钱难，还是花钱难
-- 世界银行重议油气融资，钱该先投向哪里
-- 今日开盘：两市双双低开 沪指跌幅0.60%
-- 财新闻｜邓亚萍方回应被AI带货：从没对外授权AI形象；吴越凌晨怒斥“太恶劣”；涉事账号已被永久封禁
-- AI协助下，医院行业 “大出清”（二）
-- T早报｜DeepSeek发布V4.1 Flash新版本；中国限制或禁止出口AI，光伏，生物医药三领域40项技术；特朗普否认白宫限制乌克兰使用星链
-- 【商圈】蒋大龙：许家印跨界造车的“垫脚石”
 
-## 央视网 (10 条)
+## 央视网 (14 条)
 - 多家期刊拒绝人工智能参与撰写稿件，润色也不行 - 央视网
-- 公益慢火车改造升级 山间车厢变身便民集市 - 央视网
+- 财经调查丨药企与营销团队联手唱双簧专坑老年人，产业链曝光→ - 央视网
+- 赓续长征精神 奋进复兴征程·长征壮歌丨皎平渡的7天7夜 - 央视网
 - 【8点见】SWISSE部分产品被检出铅超标，海关总署提醒 - 央视网
-- 多款AI教育新产品亮相广交会 “中国智造”圈粉全球客商 - 央视网
-- 今年前三季度国内生产总值同比增长4.6% - 央视网
-- 伊朗：已针对可能的新“冒险行径”制定应对方案 - 央视网
-- 以总理公布新“国家安全构想” 称转向进攻和预警打击 - 央视网
+- 外交部：严厉谴责日方涉靖国神社消极动向 已提出严正交涉 - 央视网
 - 真相来了｜洛阳博物馆闭馆改造 “挖出传国玉玺”系谣言！ - 央视网
 - 沿着太行天路瞰红叶 赏秋日限定美景 - 央视网
+- 构建完整闭环 人工智能赋能钢铁行业首批标准发布 - 央视网
+- 加拿大军方：该国西部军事基地火灾由实弹训练引发 - 央视网
+- 海关总署发布风险警示：SWISSE部分产品被检出铅超标 - 央视网
+- 伊朗：已针对可能的新“冒险行径”制定应对方案 - 央视网
+- 以总理公布新“国家安全构想” 称转向进攻和预警打击 - 央视网
 - 加拿大总理：军事基地火灾致4名军人死亡 数十人重伤 - 央视网
+- 叙利亚与世行同意设立重建基金 - 央视网
 
-## BBC (14 条)
-- Macron calls for 'calm and order' after riots across France
-- France's government under pressure after weekend of widespread violence
-- Major fire at Canada military base leaves four dead, dozens injured
+## BBC (17 条)
 - Inside the shadowy world of anti-Putin sabotage from within Russia
-- Trump says suspension of Russia sanctions is to keep peace negotiations going
-- Bollywood actor Tiger Shroff survives shooting in Mumbai
+- Alberta heads to polls to decide whether to hold vote on separation from Canada
 - Kenya pastor accused of ordering parents to starve their children to death faces verdict
-- Threat forces Israel to Austria flight into emergency landing
-- Cindy Crawford 'beyond heartbroken' after death of son Presley at 27
-- Anthropic says it will commit 5% of its shares to 'public benefit fund'
+- Funding shortages force World Food Programme to cut aid to Gaza
+- Possible wreckage of Amelia Earhart's plane likely to be trees, say researchers
+- Trump says suspension of Russia sanctions is to keep peace negotiations going
+- Bangladesh says it was not informed of its citizens' execution by Saudi Arabia
+- Deadly fire at Canada military base moved a kilometre 'in 30 to 60 seconds'
+- Bollywood actor Tiger Shroff survives shooting attempt in Mumbai
+- Bomb threat forces Israel to Austria flight into emergency landing
 - EU tariffs aimed at China hitting Ukraine, steel boss says
+- Musk and Anthropic pledge public share giveaways
 - Australian Greens senator denies claims of misconduct towards women
-- 'Very upsetting': Residents in shock after historic French town hall set alight
+- Cindy Crawford 'beyond heartbroken' after death of son Presley at 27
+- Katya Adler: France's government under pressure after weekend of widespread violence
 - Inside Chicago's battle against the synthetic drugs flooding the US
+- Watch: Shops looted and restaurants gutted in Paris riots
 
-## NYTimes (14 条)
-- Carney Says Fire at Canadian Forces Base Wainwright in Alberta Killed 4 and Injured Dozens
+## Reuters (4 条)
+- Australian lawmaker Helen Haines in critical condition after vehicle attack - Reuters
+- The midterm election outcomes that could shape Trump's final two years - Reuters
+- EXCLUSIVE: How one hacker used AI agents and a few thousand dollars to break into scores of sites - Reuters
+- China's economic growth picks up as exports boom, consumers balk - Reuters
+
+## NYTimes (20 条)
+- How a Trillion-Dollar Industry Launders Illegal Gold
+- France’s Far Right Seizes the Moment as Rioting Stuns the Country
+- For Israelis and Jews in the U.A.E., an Eroding Sense of Security
+- Ukraine Uses F-16s to Shoot Down Russia’s Jet-Powered Drones
+- Australian Lawmaker Helen Haines Injured After Attack, Prime Minister Says
+- María Corina Machado on Venezuela’s Future and Her Relationship With the Trump Administration
+- As Alberta Holds a Referendum on Separatism, Premier Danielle Smith Has Alienated Both Sides
+- Five Salvadoran Soldiers Missing in Haiti After Ambush
+- To Find Criminals and Child Exploitation in Gold Mines, We Just Had to Look
 - The French City of Limoges Wasn’t Known for Unrest. Then Rioters Set Fire to Its City Hall.
+- Carney Says Fire at Canadian Forces Base Wainwright in Alberta Killed 4 and Injured Dozens
 - France in Shock After Protests Turn Into Riots, Damaging Buildings and Shops
 - U.S. Officials Condemn West Bank Attacks as Netanyahu Casts Doubt on Them
-- Pope Leo Addresses the Faithful a Day After Leaving the Hospital
-- Singing, Dancing and Getting Dumped by A.I. on Korean TV
-- Kenya Confirms Four New Ebola Cases
-- Five Salvadoran Soldiers Missing in Haiti After Ambush
+- What to Know About the Search for Amelia Earhart’s Plane
+- Can This International Force Stop Haiti’s Gangs?
+- How Did Life Arise? Three Turning Points in Early Evolution
+- Coast Guard Halts Search for Survivors of Capsized Boat Off Mexico
 - Planet Earth and Brazil’s Election
 - Albania’s Leader, Edi Rama, Denounces Violent Protests
-- Deadly ‘Incident’ at Canadian Forces Base Wainwright Sparks Fire
-- Unrest Mars Day of Protest in France, as Student Movement Turns National
-- Pope Leo Leaves Hospital, Days After Lung Cancer Surgery
-- Venezuela’s Opposition Leader Calls Trump’s New Oil Partner Corrupt
+- Pope Leo Addresses the Faithful a Day After Leaving the Hospital
 
 ## CNN (6 条)
 - 0% intro APR until 2024 is 100% insane
@@ -109,26 +139,26 @@
 - Want Cash Out of Your Home? Here Are Your Best Options
 
 ## 微博热搜 (20 条)
-- 金鸡奖提名
-- 孙颖莎 不鼓励生日应援活动
-- 何以中国当惊世界殊
-- 宋佳 金鸡奖
-- 日本人被指蒙古大火后未道歉
-- 肖战演唱会官周价格
-- 黄灿灿早上的精神状态在演我
-- 维秘大秀上的三位国模
-- 芭莎盛典明星阵容官宣
-- 披旭日旗留学生微信签名涉军国主义
-- 科比大女儿娜塔莉亚亮相维密大秀
-- 何猷君说奚梦瑶是家族骄傲
-- 辛芷蕾掉提金鸡
-- 贺聪拿下维密小开
-- 汇源集团与汇源品牌切割
-- 华为Mate90四款芯片被吐槽
-- 奚梦瑶鎏金翅膀
-- 张凌赫提醒粉丝该穿秋衣秋裤了
-- 肖战连演唱会穿啥都替我想好了
-- 白鹿曼谷见面会宣布取消
+- 仙人跳后报警被强奸多名受害人被抓
+- 绵阳地震
+- 中国经济呈现向新向优发展态势
+- 11.11上京东抢华为大额券再叠补贴
+- 韩团心连心印尼成员母亲疑支持屠华人士
+- 身披旭日旗中国留学生或被开除遣返
+- 女儿用拼多多给农村父母远程装修
+- 这届网友手速有多快
+- 社保基金会原副理事长王文灵被双开
+- 马斯克送SpaceX股票
+- 稻城亚丁驴友高反拒付费救援身亡
+- 嫁金钗
+- 贺聪晒刘雯奚梦瑶古月合照
+- 孙颖莎拒应援河北卫视下场引导
+- 田曦薇红裙身材比例
+- 金鸡奖 掉提
+- 李小冉老公被执行2111万
+- 原来吃得差才会胖
+- 嫁金钗直播
+- 迪丽热巴羽毛碎钻长裙
 
 ## 知乎热榜 (20 条)
 - 年号制度曾在东亚被长期实行，为什么当今除日本以外的其它国家不再使用年号了？
@@ -139,121 +169,148 @@
 - 语言学中有哪些类似「哈基米」的现象？
 - 为什么有些博物馆不允许使用闪光灯拍照？
 - 中国古代历史上为什么很少有像近现代欧洲石制教堂宫殿这样高大宏伟的建筑？
+- 我国有哪些成功控制外来入侵生物物种的案例和经验？
+- 与中国汉族基因最接近的外国其他民族是什么？
 - 动物它们平时在休息，或者在发呆的时候，它们都在想什么问题？会像我们人类一样为了生存思考各种问题吗？
 - 既然国人嫌弃月饼高油高糖，为啥不把月饼出口到喜爱糖油混合物的美国呢？
 - 历史上谁曾经成功潜入过皇宫？
 - 「国之大者，在祀与戎」，为什么祭祀能和战争并列成为国家大事？
 - 我小的时候一直在想一个问题，是不是物质体积越小，感受到的物体时间流速不一样？
 - 瞎扯 · 如何正确地吐槽
-- 水刚咽下去，口渴怎么就缓解了？身体从哪里知道我喝水了？
-- 满清时满城里的八旗主要从事什么生产活动？劳动强度大不大？
-- 50亿年后太阳熄灭变成白矮星，人类何去何从，困死地球太阳系吗?
 - 瞎扯 · 如何正确地吐槽
 - 人类为什么没有进化成猛兽？
 - 马为什么站着睡觉？
+- 帝王蟹极度泛滥，严重影响生态平衡，但是为什么还那么贵？
 
 ## B站热门 (20 条)
+- 以色列和英国的文明内斗
+- 带着100万，我们见了成人网红...
+- 【NMIXX】"긴 소원(Birthday Wish)" M/V
 - 【英雄联盟】K/DA官方MV - “FIRESTARTER（燃）”正式上线
+- 教妹妹开车，用我的声音，我成功了！
+- 《是我嘴太小了吗》
+- 月亮拉下来洗个澡，才发现，太阳藏在灰尘底下
 - 每一位认真谋生的人都值得被仰望
-- 不是 AI 特效！这才是《中国功夫》的魅力！
-- 《鸣潮》共鸣者战斗演示 | 锁暝
-- 【科学修仙】怎能命丧于此？！~~~【up动画】
-- 人生不是一条直线
-- 赵本山携手象牙山巨头们激情演唱《Uptown Funk》
-- 新三国up锐评神探狄仁杰22：爹对不住你呀，呱！
-- 长乐夜未央丨全新主题区域「未央城」即将上线
-- 全宇宙最team的一把救世主模式！！！
+- 一锅开水直接加进肉馅里？这样做出来的包子馅汤汁竟然这么多？ 到底是什么原理？
+- 最强修仙宇宙！炼丹、御剑、渡劫、炉鼎，这些修仙设定到底从哪来的？
+- IVE 'Looks Can Kill' MV
+- 芬兰小龙虾泛滥！现钓现吃小龙虾干爆桶太炸裂！中式小龙虾盛宴蒜蓉麻辣花式做法震碎芬兰人！
 - 熊出没最巅峰的一个系列，四季篇
-- 这款游戏出现在21世纪还是太超前了
-- “这才是许愿池真正的意义，每一枚硬币都藏着人间善意”
-- 也是当上外卖大法官了【第三集】
-- 90年了，我们一直在找你们的名字
-- 🐧谁的大吉他最好玩!?🐧
-- 【特摄吐槽】谁家漫画给贝利亚加吻戏？
+- 赛博监考
+- K/DA最新单曲《FIRESTARTER》
+- 【千万不要买】从万米高空到万痘公主，水星睡眠密码让你入睡快睡得深！
 - 【盲人无障碍电影】冰雪奇缘第一部
-- 儿时追过的第一部电视剧！明明抄袭但却依然挥之不去？
-- 结过婚我也认是什么梗【梗指南】
+- 超市要不要挑战
+- 也是当上外卖大法官了【第三集】
+- 锐评S16瑞士轮抽签：IG遭遇最强敌人！69又要打宙斯！
 
 ## 抖音热搜 (20 条)
-- 坐红飘带游遍贵州美景
-- 前三季度我国GDP同比增长4.6% ​
-- 开局之年看中国潮涌荆楚
-- 这才是中国功夫的魅力
+- 非遗陶瓷有点东西
 - 比冬天先来的是阿勒泰的回忆
+- 何以中国当惊世界殊
+- 马克龙称骚乱根源是波斯湾冲突
+- 张雪机车冲击水上漂吉尼斯纪录
 - S16瑞士轮首轮抽签结果
-- 第一次见到虎跳峡时的震撼
-- 秦岭已进入最佳赏味期
+- 南北吃蟹大不同
 - 法国多地抗议引发骚乱
 - 2026维密大秀
-- 那个熟悉的童年伙伴又见面了
-- 留学生就披旭日旗一事道歉
-- 刘雯金色翅膀亮相维密大秀
+- 秦岭已进入最佳赏味期
+- 前三季度我国GDP同比增长4.6% ​
+- VCTCN八支合作队伍官宣
 - 高铁座椅不适合HPV病毒存活
-- 俄圣彼得堡石油码头遭乌袭击
-- 人民锐评：不能惯着钓鱼式举报
-- LOUD战胜VIT夺冠
-- 嫁金钗5步区分魏娆君黛
-- 辽宁男篮拿下新赛季开门红
-- 新疆阿达西回应烤馕走红
+- 第39届金鸡奖提名名单公布
+- 莫斯科大学回应学生身披旭日旗
+- 在秋天给自己画一幅肖像
+- 今年双11买啥不烧心
+- 魏娆城楼撒地契名场面
+- 刘晓艳的郑马结算时刻
+- 嫁金钗抖音直播
 
-## 豆瓣讨论 (1 条)
-- 南方周末《死在差评三天后》 - 豆瓣
-
-## 丁香园 (9 条)
+## 丁香园 (16 条)
+- 大咖云集，共筑母婴防线 | 2026年第九届国际围产助产会议圆满落幕！ - 丁香园
 - 「扭个头，四肢全瘫！」被忽视的颈椎病，细思极恐… - 丁香园
 - 武汉模式走向全国 | 健嘉多家分院落地肠道微生态管理模式 - 丁香园
+- 【世界镇痛日】疼一下忍忍就过去了？疼痛也是病，请科学镇痛、规范治痛 - 丁香园
+- 岐黄启新程 西安市中医医院南院区全面开诊 - 丁香园
 - 7岁头痛、12岁看不清黑板，两个孩子查出同一种脑瘤！ - 丁香园
+- 突发心梗！争分夺秒抢通血管 - 丁香园
+- 名师传薪火 思辨促提升｜岐黄学者刘清泉教授在我院讲学收徒并开展教学查房 - 丁香园
 - 【医疗技术】脊柱外科应用脊柱内镜技术常规治疗腰椎布氏杆菌病 - 丁香园
 - 眼科医生霍鸣健康科普：糖尿病最易被忽视的「眼疾」，早期无症状，但却在悄悄偷走视力！！ - 丁香园
+- 这个动作巨伤眼，但很多人几乎天天做…… - 丁香园
+- 医守终点线，护航西马行｜西安市第三医院圆满完成 2026年西安马拉松赛医疗保障任务 - 丁香园
 - 【二附院心理医生说】为什么你付出了全部，孩子却感受不到爱？ - 丁香园
 - 远视储备并是不是越多越好？用完就等于近视吗？ - 丁香园
+- 【医院动态】护航2026石河子马拉松，我院圆满完成全程医疗保障任务 - 丁香园
 - 先别拔，有的白头发，还能黑回来！ - 丁香园
-- 突破脊柱「高危禁区」，：石河子市人民医院联合首都医科大学宣武医院吴浩主任团队顺利完成高难度上颈椎神经纤维瘤切除术 - 丁香园
+
+## 雪球热帖 (4 条)
+- 多家期刊拒绝AI参与撰写稿件，润色也不行 - 新浪财经
+- 为A股汇聚长期理性投资力量 公募基金探寻“产、投、销、考”全链条稳市路径 - 新浪财经
+- 资金借道宽基ETF逆势布局 单周净流入超800亿元 - 新浪财经
+- 创金合信汇益纯债一年定期开放债券型证券投资基金开放申购、赎回及转换业务的公告 - 新浪财经
 
 ## 36氪 (20 条)
-- 韩国存储双雄股价下跌，致韩国养老金损失1370亿美元
-- APEC财长会议在港举行，李家超与亚投行行长会面
-- 半日主力资金加仓电子板块，抛售房地产板块
-- 国家统计局：“人工智能+”行动有力带动了新兴领域的投资和出口
-- OpenAI大举招募人才加码机器人研发
-- A股三大指数午间休盘涨跌不一，工商银行再创新高
-- 3家券商、2家基金公司因在境外调研违规行为被采取监管措施
-- 监管要求券商、基金调研费用不得用交易佣金转移支付，不得以分仓派点变相补偿
-- 国家统计局：规模以上制造业人工智能技术重点场景应用普及率超过1/3
-- 最新一轮基金投顾资格答辩本周启动，数十家券商分批进行
-- 国家统计局：前三季度内需对经济增长贡献率超过七成
-- 宇树科技涨超10%
-- 国家统计局：前三季度内需逐步改善
-- 沪指拉升翻红
-- 国家统计局：前三季度经济增量达到5.7万亿元，为过去五年同期最大增量
-- 国产卫星互联网首次实现北极、南极、青藏高原联网通信
-- 浦项制铁30亿美元低碳铁矿加工厂项目获澳政府批准
-- 今年前三季度货物进出口总额同比增长18.8%
-- 前三季度我国工业机器人产量同比增长29.1%
-- 9部门：加速脑机接口、具身智能等前沿科技成果向市场转化
+- 深圳创智芯联科技股份有限公司通过港交所上市聆讯
+- 韵达股份：2026年9月快递服务业务收入45.87亿元，同比增长7.88%
+- 顺丰控股：2026年9月合计收入287.19亿元，同比增长6.34%
+- 湖南裕能：拟投资不超20亿元建设六期磷酸铁锂项目
+- 德马科技：拟发行不超7.02亿元可转债用于具身智能系统研发等项目
+- 证监会关于就《证券市场先行赔付指导意见》公开征求意见
+- 腾讯云将上调.com域名注册、续费、转入价格
+- MiniMax认领Space Bunny，M3.1 Flash即将发布
+- 上交所首批主动ETF获批，助力中长期资金入市
+- 证监会发布《违规转让证券案件行政处罚实施规则》
+- 首批主动ETF正式获批，场内主动投资开启新篇章
+- 小米汽车增程器专利获授权，可减少纵置或横置时的占用空间
+- 海光信息：2026年前三季度净利润28.47亿元，同比增长45.12%
+- 马斯克2025年股权激励薪酬达1583.6亿美元
+- 英伟达要生产定制化NVHBM？业内人士称定制基底裸片已成趋势
+- 立昂微：2026年前三季度预计净利润为1.74亿元左右，同比扭亏为盈
+- 佰维存储：回购实施完毕，累计回购金额约2.5亿元
+- 金盾股份：公司低空涵道推进器业务尚处于产业化早期阶段
+- 翰森制药：与罗氏订立战略合作及许可协议，将根据项目进展收取潜在超过150亿美元里程碑付款
+- 央行等多部门印发《关于金融支持建设北京（京津冀）、上海（长三角）、粤港澳大湾区国际科技创新中心的指导意见》
 
 ## 虎嗅 (20 条)
-- 21天，一线城市全部落地现房销售细则：土拍从抢变稳，二手房成交回暖
-- 出门两步就要抱的娃，背着你偷偷走了一万八千步
-- 对话许子东：鲁迅是年轻人的“嘴替”，但他也凝视着我们
-- 白银，重新跌破“腰斩线”
-- 梅艳芳骨灰被盗，盗墓贼图什么？
-- 字节百度谷歌英伟达，挤进同一个赛道
-- 高铁越来越多，火车的名字不够用了
+- 不急着造药，先造“数字人”：AI制药转向，中美都在抢跑
+- 根治“职业差评”，平台要承担起信用基础的公共责任
+- AI短剧“杀不死”游戏
+- WorkBuddy住进企业微信，AI同事几分靠谱？
+- 宜信不“宜信”：有人拿出200万救命钱，有人投入十年积蓄
 - 中国第一个X字头高铁，要来了
-- X，民航与高铁的你来我往
-- 孤独如何一点点透支我们的身心？
-- 新江湖演义
-- 千问开始替用户讨钱，大厂却不愿给 Agent 开门
-- 观察｜人形机器人IPO扎堆：技术还没跑通，资本估值先起飞了
-- 银行封杀AI Agent，不是怕被盗，是怕1.6万亿存款被AI搬家
-- 月之暗面拟赴港：AGI能撑起500亿美元估值吗？
-- 评测的牌坊：如何起高楼，如何楼塌了？
-- 2027年最重要的AI趋势：不在新模型，而在于「结果」
-- “大干一百天”“十天休一天”，缘何压榨员工也解决不了业绩下滑
-- 要不去雄安试试？
-- 好的公关应该是怎样的？
+- 财报无法解忧，科技赛道压力未解
+- 看看Roadster就得了，你还真信马斯克卖这个车？
+- 越忙越穷，外卖链条上的12个打工人
+- 卖马拉松号码布的人
+- 番茄小说调整签约规则，新人红利期彻底结束
+- 大闸蟹跌价正挤压一整条生意链
+- AI让脑力闲置，“具身参与”能够拯救学习吗
+- Coreweave和法国，高利率下的两道裂缝
+- 30元镜片敢标价1980元，儿童近视防控眼镜为何乱象频出？
+- 9月新能源渗透率61.6%，10月上旬零售下滑24%，如何读懂这组数据
+- 当渠道商都在卖自有品牌商品，其他品牌该怎么办？
+- 宇树们进厂，发现事情没那么简单
+- 联名嗨体、对标Fotona4D：金茉美眼仪的功效经得起推敲吗？
+- “深圳最赔钱房东”：我给他们带来了希望，又带来了失望
 
-## 少数派 (2 条)
+## 少数派 (5 条)
+- 派评 | 近期值得关注的 App
+- 与 Tim Cook 走进「蓝盒子」，了解 Mac 如何助力中国企业成长
+- 9 月音乐精选：用这 8 张新专辑，激发人生新可能
 - 开源掌机的文化线索
 - 派早报：三季度全球手机出货量继续两位数下降
+
+## GitHub Trending (12 条)
+- MadsLorentzen/ai-job-search
+- anomalyco/opencode
+- akitaonrails/ai-memory
+- Comfy-Org/ComfyUI
+- ruvnet/ruflo
+- stablyai/orca
+- headroomlabs-ai/headroom
+- withmarbleapp/os-taxonomy
+- Kruk2/jasna
+- HKUDS/CLI-Anything
+- anthropics/claude-code
+- shiyu-coder/Kronos
