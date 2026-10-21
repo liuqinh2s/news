@@ -1,42 +1,329 @@
 {
   "date": "2026-10-21",
-  "total": 125,
-  "fetched_at": "2026-10-21T07:25:38.637664+08:00",
+  "total": 237,
+  "fetched_at": "2026-10-21T12:25:38.727889+08:00",
   "news": [
     {
-      "source": "凤凰网",
-      "title": "威胁在竞选集会上刺杀特朗普，男子遭逮捕",
-      "summary": "<figure><img height=\"331\" src=\"https://x0.ifengimg.com/ucms/2026_43/D30EAEE3E254CEADCC674B13A8312156801771CF_size41_w588_h331.jpg\" width=\"588\" /></figure><p>新华社洛杉矶10月20日电（记者高山） 美国司法部堪萨斯州联邦检察官办公室说，一名威胁要在该州19日举行的共和党集会上刺杀美国总统特朗普的男子已经被捕。</p><p>综合上述办公室通报以及当地媒体报道，24岁的堪萨斯州男子杰登·里德在社交媒体上一篇当地电视台新闻报道下发表的评论，引起执法部门关注。</p><p>里德写道：“说真的，我们干脆开枪打特朗普吧，我们的枪手在哪儿？我受够了这种为钱而活的日子。”他在评论中自称搞到了枪和子弹。</p><p>在另一篇新闻报道下的独立评论中，里德据称写道：“能不能就在堪萨斯州把他干掉？我自己来都行。”一分钟后，里德又发布一条评论：“我知道你们演讲的地点。我已经把周围的屋顶都摸排好了。”这段话疑似指向美国知名保守派活动人士查理·柯克2025年9月",
-      "link": "https://news.ifeng.com/c/8xOHu2ZfY3G",
-      "published": "Tue, 20 Oct 2026 20:35:48 GMT"
+      "source": "澎湃新闻",
+      "title": "同道论史：AI时代历史研究的多元探索 - ThePaper.cn",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiYEFVX3lxTE52SlVPNk1ZeUlQN3dJU2ZOYlIzLXd2U1EzRWU1Y3Z0NVJQQnJlWE9LWV94ejhTQkpCbXBCRUVFamNKTlhlNk1jczVaTUpVcm9OZjM0Nl9UeU9YV20ydEkyZg?oc=5\" target=\"_blank\">同道论史：AI时代历史研究的多元探索</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">ThePaper.cn</font>",
+      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE52SlVPNk1ZeUlQN3dJU2ZOYlIzLXd2U1EzRWU1Y3Z0NVJQQnJlWE9LWV94ejhTQkpCbXBCRUVFamNKTlhlNk1jczVaTUpVcm9OZjM0Nl9UeU9YV20ydEkyZg?oc=5",
+      "published": "Wed, 21 Oct 2026 03:13:00 GMT"
+    },
+    {
+      "source": "澎湃新闻",
+      "title": "“神话与怪兽”：亚洲艺术的奇幻美学 - ThePaper.cn",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiYEFVX3lxTE04V1hWVl81YWdzRGNnaGxHYndRZU5hc05jeHFYSzR6NF9FVWgyR24tSWxzTlN4UmdfQzIta2JoOVpFM0dMQmNTaWJ1S2xrTGlicXVvUWd4cHoxV01LZFdGbQ?oc=5\" target=\"_blank\">“神话与怪兽”：亚洲艺术的奇幻美学</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">ThePaper.cn</font>",
+      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE04V1hWVl81YWdzRGNnaGxHYndRZU5hc05jeHFYSzR6NF9FVWgyR24tSWxzTlN4UmdfQzIta2JoOVpFM0dMQmNTaWJ1S2xrTGlicXVvUWd4cHoxV01LZFdGbQ?oc=5",
+      "published": "Wed, 21 Oct 2026 00:29:00 GMT"
+    },
+    {
+      "source": "澎湃新闻",
+      "title": "从亚历山大·考尔德开始，雕塑动了起来 - ThePaper.cn",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiYEFVX3lxTE85ektqN0g0MzFoeU1abFg3ZjVCU2xyckVPVnUyZFp5WU5raVhaNUk2QlRoTm8zdnVoZW93b0k3bHpCU2s1YS1ZWHlyNnVqMjhSUlBJeGNMQWNrU2ZpSlVNMw?oc=5\" target=\"_blank\">从亚历山大·考尔德开始，雕塑动了起来</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">ThePaper.cn</font>",
+      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE85ektqN0g0MzFoeU1abFg3ZjVCU2xyckVPVnUyZFp5WU5raVhaNUk2QlRoTm8zdnVoZW93b0k3bHpCU2s1YS1ZWHlyNnVqMjhSUlBJeGNMQWNrU2ZpSlVNMw?oc=5",
+      "published": "Wed, 21 Oct 2026 01:04:00 GMT"
+    },
+    {
+      "source": "澎湃新闻",
+      "title": "68年了，他还在写：刘心武发布新书并谈“双面绣”写法 - ThePaper.cn",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiYEFVX3lxTE1pWnUxbTd1VXdUNTJiMUpvaTBiTWM0VkwtWGJOR1JBLUFlcFpBczhFM1NXbDV4c1F6SzZwellidlNIZm5BYV9QcW5wNUVxalcxLVdwQnlOUUZ2NTA3MUxXUg?oc=5\" target=\"_blank\">68年了，他还在写：刘心武发布新书并谈“双面绣”写法</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">ThePaper.cn</font>",
+      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1pWnUxbTd1VXdUNTJiMUpvaTBiTWM0VkwtWGJOR1JBLUFlcFpBczhFM1NXbDV4c1F6SzZwellidlNIZm5BYV9QcW5wNUVxalcxLVdwQnlOUUZ2NTA3MUxXUg?oc=5",
+      "published": "Wed, 21 Oct 2026 00:18:00 GMT"
+    },
+    {
+      "source": "澎湃新闻",
+      "title": "斯宾诺莎主义的伟大与局限 - ThePaper.cn",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiYEFVX3lxTFBRTnNNd2JPMTExM2lvem5KRFo3RU01b3pSUlJ1UXNfUTR0VnlDNFpQR2dmQlhXZE56MmFIcmtMdlFmUUgtOGFaQ0ZOMl9ZMFBIZUhVRzV3N0xjQjQzZDRiWA?oc=5\" target=\"_blank\">斯宾诺莎主义的伟大与局限</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">ThePaper.cn</font>",
+      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBRTnNNd2JPMTExM2lvem5KRFo3RU01b3pSUlJ1UXNfUTR0VnlDNFpQR2dmQlhXZE56MmFIcmtMdlFmUUgtOGFaQ0ZOMl9ZMFBIZUhVRzV3N0xjQjQzZDRiWA?oc=5",
+      "published": "Tue, 20 Oct 2026 23:01:00 GMT"
     },
     {
       "source": "凤凰网",
-      "title": "法国乱了！一句诡异口号火遍全网",
-      "summary": "<figure><img height=\"450\" src=\"https://x0.ifengimg.com/ucms/2026_43/6B1AC5FABE50BAF0B6EB6AAD1A9672B4B6B58ADF_size121_w800_h450.jpg\" width=\"800\" /></figure><p>据美国《纽约时报》报道，上周末数十万民众走上法国各地街头，声援学生抗议者。不少人在纸板标语牌上写着一句让人摸不着头脑的口号：<strong>“Bismillah,</strong><strong> c</strong><strong>’</strong><strong>est les t</strong><strong>énèbres.”</strong></p><p>这句话混搭了伊斯兰祝祷语“以真主之名”和法语“黑暗降临”，表面看毫无逻辑。但自从上个月年轻人因学校资源匮乏发起抗议后，它就成了一道代际裂痕的符号。</p><p><strong>这句话从何而来？</strong></p><p>这句话最早似乎出现在Snapchat平台上，发帖人想要进入一个学生抗议组织者聚集的私密聊",
-      "link": "https://original.ifeng.com/c/8xOHu2ZfXwq",
-      "published": "Tue, 20 Oct 2026 19:37:52 GMT"
+      "title": "男子造谣肖战演唱会门票25万元被拘留",
+      "summary": "<figure><img height=\"549\" src=\"https://x0.ifengimg.com/ucms/2026_43/02CF08ED4143A62B92BFDC380AB59C1E79F2CE15_size119_w975_h549.jpg\" width=\"975\" /></figure><p>近日，网传“艺人肖某演唱会第一排门票25万元”，相关消息引发网民热议。</p><p><img src=\"https://x0.ifengimg.com/ucms/2026_43/5CE8EEFAEF65290D63B73F1C071B7EC257F0C2BF_size138_w717_h449.png\" /></p><p>公安网安部门查明，网民王某某（男，33岁）出于引流招揽“代抢票”业务目的，于10月13日通过朋友圈自行编辑发布“肖某，第一排25W空已售，第一排23W，第二排20W，第三排19W……”等谣言。相关谣言迅速传播扩散，引发大量网民议论，多次登上热搜热榜，扰乱公共秩序。<strong>网民王某某违反《中华人民共和国治安管理处罚法》第二十九条第（一）项之规定，属地公",
+      "link": "https://news.ifeng.com/c/8xOsBNktlNN",
+      "published": "Wed, 21 Oct 2026 03:33:12 GMT"
     },
     {
       "source": "凤凰网",
-      "title": "乌克兰问题会谈在挪威举行，美特使将赴俄转达相关内容",
-      "summary": "<figure><img height=\"549\" src=\"https://x0.ifengimg.com/ucms/2026_43/1ACDD244896E58F4D41282FB5F6F005DFFBFED3C_size128_w975_h549.jpg\" width=\"975\" /></figure><p>当地时间20日，美国总统特朗普的特使威特科夫和乌克兰总统泽连斯基在挪威奥斯陆举行会晤，参会者还包括来自挪威、芬兰等其他欧洲国家的领导人，特朗普女婿库什纳以视频方式参会。</p><p>挪威首相斯特勒、芬兰总统斯图布和乌克兰总统泽连斯基举行联合新闻发布会，介绍当天乌克兰问题会谈的情况。此次会谈旨在制定一项能够提交俄罗斯方面讨论的和平方案。</p><p><img src=\"https://x0.ifengimg.com/res/2026/3B5813F89E4E9B8D85B3EE574448611E185B6332_size128_w1280_h853.jpg\" /></p><p>泽连斯基：能源停火提议遭俄方拒绝 乌方仍在寻求替代方案</p><p>泽连斯基在发布会上表示，乌克兰此",
-      "link": "https://news.ifeng.com/c/8xOA445CBJC",
-      "published": "Tue, 20 Oct 2026 17:32:50 GMT"
+      "title": "“我忘付钱了”，澳大利亚一州长承认给车加油后意外“逃跑”",
+      "summary": "<figure><img height=\"549\" src=\"https://x0.ifengimg.com/ucms/2026_43/D1F288F1529598AE01ECFE96BD8051D048F5A92C_size692_w975_h549.png\" width=\"975\" /></figure><p>【环球网报道 记者 索炎琦】据英国《卫报》、澳大利亚新闻网站news.com.au等媒体报道，澳大利亚维多利亚州州长卡罗尔21日承认自己犯了一个“尴尬错误”：外出给车加油后忘了付钱，不小心驾车“跑了”。</p><p>报道称，上述事件发生在19日晚，当时卡罗尔正忙着处理澳议员海伦·海恩斯被汽车“蓄意撞击”一事。20日晚，卡罗尔接到一个电话，说“警察正在寻找他”。得知相关消息后，卡罗尔随即返回加油站补缴了费用。</p><p>卡罗尔21日在一份声明中承认加油后意外“逃跑”一事并道歉。“周一深夜，我外出办事，顺便给车加满了油。”他说，“我昨天才发现我忘了付钱。我立刻就补缴了费用。”他还表示，“感谢加油站工作人员的谅解”。</p><p class=\"detailPic\"><img al",
+      "link": "https://news.ifeng.com/c/8xOsJzVJ4gY",
+      "published": "Wed, 21 Oct 2026 03:25:00 GMT"
+    },
+    {
+      "source": "凤凰网",
+      "title": "抵制中国商品？菲律宾前国安顾问：你的内裤都来自中国！",
+      "summary": "<figure><img height=\"371\" src=\"https://x0.ifengimg.com/ucms/2026_43/6CF3989ABD2090998F0D22BAF31A7FBAC7133DDF_size48_w660_h371.jpg\" width=\"660\" /></figure><p>抵制中国商品？菲律宾前国安顾问卡洛斯：你的内裤都来自中国！现在怎么办？</p><video controls=\"\" poster=\"https://d.ifengimg.com/w480_h640_ablur_q90/x0.ifengimg.com/ucms/2026_43/C05BEFFD66B6449FA743AB845CA805ABE57E851F_size74_w480_h640.jpg\"><source src=\"https://video19.ifeng.com/video09/2026/10/21/p7518525078804377600-102-121426.mp4\" /></video>",
+      "link": "https://news.ifeng.com/c/8xOv0gsPL3b",
+      "published": "Wed, 21 Oct 2026 03:24:01 GMT"
+    },
+    {
+      "source": "凤凰网",
+      "title": "特朗普：你是谁？你有病啊！记者发文回怼：我刚体检完，很健康",
+      "summary": "<figure><img height=\"549\" src=\"https://x0.ifengimg.com/ucms/2026_43/7429550848277132DFC17879D6E3170FB955A920_size648_w975_h549.png\" width=\"975\" /></figure><p>当地时间10月20日，美国总统特朗普在白宫椭圆形办公室对英国《独立报》记者安德鲁·范伯格发火，要求他“保持安静”，并质问他“你有病吗？”。该记者随后发文回怼，指责美国政府对他人身攻击，并表示“我刚做完体检，很健康”。</p><video controls=\"\" poster=\"https://d.ifengimg.com/w480_h270_ablur_q90/x0.ifengimg.com/ucms/2026_43/A8441E66F3AC09D1A6C7CADCD73158F3DA5D39C9_size87_w975_h549.jpg\"><source src=\"https://video19.ifeng.com/video09/2026/10/21/p751851400",
+      "link": "https://original.ifeng.com/c/8xOoRux1ruN",
+      "published": "Wed, 21 Oct 2026 03:20:00 GMT"
+    },
+    {
+      "source": "凤凰网",
+      "title": "星巴克明日起全国施行“消费入座”",
+      "summary": "<figure><img height=\"549\" src=\"https://x0.ifengimg.com/ucms/2026_43/19984A1799FC837C7B74E2D0D12C694B9FB5E549_size129_w975_h549.jpg\" width=\"975\" /></figure><p>21日，星巴克中国宣布，10月22日起，星巴克将在全国开始施行消费入座，门店会摆放相关提示牌。</p><p>星巴克方面表示，在实际的营运过程中，星巴克会为伙伴提供统一的服务指引和必要支持，伙伴会遵循友好、友善的沟通原则，并妥善处理顾客的合理突发需求和特殊情况。如遇到孕妇、行动不便者等需要帮助的顾客，伙伴将优先给予帮助。</p><p><img alt=\"图片\" src=\"https://x0.ifengimg.com/res/2026/899BD8ECA8BB3F14CBB24CBE6C49E38CC9EAFEE1_size124_w1080_h1527.jpg\" /></p><p><strong>此前报道：</strong></p><p>近日，有网友在社交媒体上发帖称，星巴克",
+      "link": "https://news.ifeng.com/c/8xOpWCv4b6X",
+      "published": "Wed, 21 Oct 2026 03:02:23 GMT"
+    },
+    {
+      "source": "凤凰网",
+      "title": "AI短剧，怎么就不配烧算力了？",
+      "summary": "<figure><img height=\"451\" src=\"https://x0.ifengimg.com/ucms/2026_43/F33B64F95AAD7A1DFB1E8D80C67CA62576CBCD39_size540_w801_h451.png\" width=\"801\" /></figure><p class=\"textAlignCenter\"><img src=\"https://x0.ifengimg.com/res/2026/27B85A3C79A20527FC2961D92A25C66E25271C30_size135_w1080_h1062.jpg\" /></p><p>撰文丨陈白</p><p>最近，AI短剧突然背上了一口大锅：浪费中国的算力。</p><p>事情的起因是一组引发热议的数据。中文在线此前披露，国内AI Token消耗中，55%流向短剧和视频生成，24%用于电商与营销，软件开发只占15%。于是，一个颇具冲击力的说法开始在网络上流传：中国超过一半的AI算力，竟然拿去拍爽剧了。</p><p>一时间，有人痛心疾首，认为宝贵的算力资源没有用于科学研究和技术创新",
+      "link": "https://news.ifeng.com/c/8xOqlhe3jSD",
+      "published": "Wed, 21 Oct 2026 02:58:16 GMT"
+    },
+    {
+      "source": "凤凰网",
+      "title": "王毅到访保加利亚，现场品尝圆形大面包",
+      "summary": "<figure><img height=\"337\" src=\"https://x0.ifengimg.com/ucms/2026_43/D78D0EA1A86955866146779937BFC30853DB652B_size368_w599_h337.png\" width=\"599\" /></figure><p>中共中央政治局委员、外交部长王毅近日在索非亚同保加利亚外长佩特罗娃举行会谈。会谈前，保加利亚以圆形大面包迎客寓意尊重和热烈欢迎，王毅外长现场品尝。</p><p>谈及两国友谊与合作，王毅外长提到保加利亚是“玫瑰之国”，并引用了中国的一句谚语：“赠人玫瑰，手有余香。”</p><p>王毅19日在索非亚同保加利亚外长佩特罗娃共同会见记者时表示，此次出访作为习近平主席特别代表出席了亚信峰会，还访问了阿塞拜疆、克罗地亚、黑山和保加利亚。他借此机会分享了此次欧亚之行的四点感受。</p><p>第一，信任是和平基石。中方向各方传递的明确信息是：坚定信心、锲而不舍、对话协商、互谅互让、重建信任、共筑和平。中方将始终站在历史正确一边，为消弭信任赤字、化解危机冲突履行大国担当，发挥应有作用。</p>",
+      "link": "https://news.ifeng.com/c/8xOoJB0oCAO",
+      "published": "Wed, 21 Oct 2026 02:48:23 GMT"
+    },
+    {
+      "source": "凤凰网",
+      "title": "民进党当局将采购美阿拉斯加天然气，国台办回应",
+      "summary": "<figure><img height=\"441\" src=\"https://x0.ifengimg.com/ucms/2026_43/0C6BF4C500C1D762A176FD9988910FB532E9807D_size613_w784_h441.png\" width=\"784\" /></figure><p>10月21日上午，国台办举行例行新闻发布会。记者：据外媒报道，民进党当局已同意采购美国阿拉斯加液化天然气（LNG）管线计划30%的天然气，而且还将额外投资44亿美元，以确保这项LNG计划完工。岛内有舆论认为，该项目开发成本及风险都极高，许多国际能源巨头都拒绝参与投资；不容许民进党当局把台湾利益送上谈判桌，把账单留给台湾人民。请问对此有何评论？</p><p>国台办发言人张晗：民进党当局“跪美卖台”，妄图“倚美谋独”“以经谋独”，不会得逞。</p>",
+      "link": "https://news.ifeng.com/c/8xOsFl5Qv8M",
+      "published": "Wed, 21 Oct 2026 02:37:01 GMT"
+    },
+    {
+      "source": "凤凰网",
+      "title": "“台独”势力给周杰伦“扣帽子”，国台办回应",
+      "summary": "<figure><img height=\"549\" src=\"https://x0.ifengimg.com/ucms/2026_43/9DD6D0E2894AC568147CD8FEEB30F66602ABEDCD_size123_w975_h549.jpg\" width=\"975\" /></figure><p>10月21日，国务院台办举行例行新闻发布会，有记者问：近日周杰伦参加活动时，主持人称其中国歌手。周杰伦在社交平台转发并点赞相关视频，受到两岸网友好评，认为其多年创作大量中国风音乐，成为两岸年轻人共同的文化记忆，而岛内绿营却对此冷言冷语、批评炒作，请问对此有何评论？</p><p>发言人张晗表示，两岸同胞都是中国人。台湾艺人认同中国歌手身份，是堂堂正正做中国人的真挚情感流露。“台独”势力见不得两岸同胞情感相通、走亲走近，对艺人“扣帽子”“打棍子”，妄图用政治手段限制台湾同胞正当表达，用心险恶、不得人心。</p><p>（总台央视记者 赵超逸 张雪松）</p>",
+      "link": "https://news.ifeng.com/c/8xOoPl3Becl",
+      "published": "Wed, 21 Oct 2026 02:32:37 GMT"
+    },
+    {
+      "source": "凤凰网",
+      "title": "人民锐评：特斯拉“能飞”，我们就被甩开了？",
+      "summary": "<figure><img height=\"447\" src=\"https://x0.ifengimg.com/ucms/2026_43/8DCBD6651789821DFD62308D0C12E479DD8BEEF6_size37_w793_h447.jpg\" width=\"793\" /></figure><p>最近，特斯拉发布“会飞的汽车”，引发热议。有人惊呼“我们被甩开了”；也有人嗤之以鼻，称其不过是“蹦高的大号玩具”。两种论断各走极端，过于武断。那么，热闹之后，我们当以怎样的眼光和格局，看待这样一场技术展示？</p><p>首先，要有一份清醒的定力。不必妄自菲薄，切莫一看见新鲜演示，就全盘否定中国新能源汽车攒下的家底。</p><p>特斯拉这次“飞行”，靠的是冷气推进系统等实现短时腾空、空中翻转，确实炫酷。可法规、场景、安全认证，样样还是未知数；又有多少人愿意坐在两个大压缩罐前开车，恐怕也得打个问号。目前，官方给出2028年的量产预期，但比起一款能日常开的车，它更像一场漂亮的概念秀。</p><p>而中国汽车手里攥着的，是一套系统性的硬功夫：看速度，比亚迪仰望U9 Xtreme以496",
+      "link": "https://news.ifeng.com/c/8xOoPl3Beqs",
+      "published": "Wed, 21 Oct 2026 02:28:00 GMT"
+    },
+    {
+      "source": "凤凰网",
+      "title": "特朗普第二任期内美方已吊销逾30万份签证",
+      "summary": "<figure><img height=\"549\" src=\"https://x0.ifengimg.com/ucms/2026_43/27E1DECC449575EBCA146302C82D496E7B737C15_size85_w975_h549.jpg\" width=\"975\" /></figure><p>新华社北京10月21日电　美国国务院发言人20日说，美国在特朗普第二个总统任期内已吊销逾30万份签证。</p><p>美国务院发言人汤米·皮戈特当天在社交平台发布最新数据时表示，特朗普政府“吊销签证的数量和速度均超过历届美国政府”，对“在美违法、欺诈或危害美国国家安全”的签证持有者“采取零容忍态度”。</p><p class=\"detailPic\"><img alt=\"这是6月3日在美国首都华盛顿拍摄的美国国务院外景。新华社记者李睿摄\" src=\"https://x0.ifengimg.com/ucms/2026_43/D729A1D1C0B36E6C4E6BD04DFDD6BF826B799077_size75_w800_h540.jpg\" /></p><p class=\"pi",
+      "link": "https://news.ifeng.com/c/8xOmqsnatlN",
+      "published": "Wed, 21 Oct 2026 02:20:49 GMT"
+    },
+    {
+      "source": "凤凰网",
+      "title": "民进党当局拒绝艺人张凌赫赴台交流，国台办回应",
+      "summary": "<figure><img height=\"549\" src=\"https://x0.ifengimg.com/ucms/2026_43/01C2F0B061E40A4B605BA6D14F64C9D5335639B8_size75_w975_h549.jpg\" width=\"975\" /></figure><p>10月21日，国务院台办举行例行新闻发布会。有记者问，据了解，近期大陆艺人张凌赫申请赴台举办观众见面会等交流活动，民进党当局拒绝其申请。请问对此有何评论？</p><p>发言人张晗答问表示，大陆演艺人员赴台开展文化交流，是两岸民众乐见并期盼的民间往来，有利于增进两岸同胞相互了解。民进党当局出于政治目的，罔顾岛内民众特别是台湾青年的愿望，拒不同意有关大陆演艺人员赴台交流。这有损两岸文化交流，也与广大台湾同胞的意愿背道而驰。我们敦促民进党当局顺应两岸同胞加强交流往来的共同愿望，摒弃政治操弄，取消不合理限制，为两岸文化交流提供便利。（记者：赵博、陆烨）</p>",
+      "link": "https://news.ifeng.com/c/8xOmf6nGkjo",
+      "published": "Wed, 21 Oct 2026 02:19:49 GMT"
+    },
+    {
+      "source": "凤凰网",
+      "title": "当着德国总理的面，黄仁勋点出中国优势",
+      "summary": "<figure><img height=\"388\" src=\"https://x0.ifengimg.com/ucms/2026_43/45E024FA5507ADDD24A86CBDAEF49D02AA5A3EE0_size51_w690_h388.jpg\" width=\"690\" /></figure><p>当地时间19日，英伟达公司首席执行官黄仁勋在和德国总理默茨的交谈中点出了中国的优势：中国是当今唯一一个制造业和计算机产业两手抓的国家。</p><video controls=\"\" poster=\"https://d.ifengimg.com/w480_h640_ablur_q90/x0.ifengimg.com/ucms/2026_43/9C467B3ED2950ABCADA5F4B8CF299FC58CC62A59_size58_w480_h640.jpg\"><source src=\"https://video19.ifeng.com/video09/2026/10/21/p7518524958251692032-102-121357.mp4\" /></video><p>黄仁",
+      "link": "https://news.ifeng.com/c/8xOv0gsPL2Y",
+      "published": "Wed, 21 Oct 2026 02:18:29 GMT"
+    },
+    {
+      "source": "凤凰网",
+      "title": "示威变骚乱！意大利政府米兰增兵500人",
+      "summary": "<figure><img height=\"549\" src=\"https://x0.ifengimg.com/ucms/2026_43/787B76007F06191B0538C068B16506B9013E2C36_size106_w975_h549.jpg\" width=\"975\" /></figure><p>意大利媒体Rai News 10月21日报道称，在米兰发生严重骚乱后，梅洛尼政府计划增派500名士兵以保护该市。</p><p>综合多家外媒报道，此次增兵的直接导火索是上周末米兰及意大利其他城市发生的暴力抗议和骚乱。抗议最初仅针对高生活成本等问题，但随后演变为与警方的冲突、商店抢劫和财产破坏行为。据当局称，周日约有2000名大多身穿黑衣的青少年在米兰市中心袭击商铺、砸碎橱窗并破坏街道设施。</p><p>意大利内政部长马泰奥·皮安泰多西在20日内阁会议后宣布了这一增兵消息。与此同时，意大利总理焦尔吉娅·梅洛尼领导的政府通过了一揽子措施，以应对青少年暴力和暴力抗议活动。</p><p>计划中的措施包括扩大警方对未成年人的拘留权限。此外，对于共同实施的财产损坏行为，若无法在现场立即实施",
+      "link": "https://news.ifeng.com/c/8xOpRLJ8Tnu",
+      "published": "Wed, 21 Oct 2026 02:10:22 GMT"
+    },
+    {
+      "source": "凤凰网",
+      "title": "前线俄军被曝有90万人：志愿兵与囚犯兵共8万，已死亡一半",
+      "summary": "<figure><img height=\"549\" src=\"https://x0.ifengimg.com/ucms/2026_43/41062E8546B2B899B700EA06A90C1B4FE7FFCC8F_size886_w975_h549.png\" width=\"975\" /></figure><p>据凤凰卫视报道，顿巴斯南线的扎波罗热地区战况仍然很激烈，俄军持续在奥列霍沃附近作战。10月20日，俄国防部宣布已控制奥梅利尼克定居点。</p><video controls=\"\" poster=\"https://d.ifengimg.com/w480_h270_ablur_q90/x0.ifengimg.com/ucms/2026_43/B2EF8FE1A926B81251085D34CE3EDB837D0E5460_size121_w975_h549.jpg\"><source src=\"https://video19.ifeng.com/video09/2026/10/21/p7518476278979109298-102-090833.mp4\" /></video><p>",
+      "link": "https://original.ifeng.com/c/8xOkffIrluH",
+      "published": "Wed, 21 Oct 2026 02:00:09 GMT"
+    },
+    {
+      "source": "凤凰网",
+      "title": "法国骚乱中，6车防暴警察专门保护马克龙妻子娘家商店？政府回应",
+      "summary": "<figure><img height=\"478\" src=\"https://x0.ifengimg.com/ucms/2026_43/429EFC83427097B99D5ED3B716A004A168A43253_size98_w849_h478.jpg\" width=\"849\" /></figure><p>《赫芬顿邮报》法国版等媒体报道，社交媒体流传视频显示，10月17日法国亚眠市示威骚乱期间，数辆法国共和国安全部队（CRS，防暴特种警察）车辆停放在第一夫人布丽吉特·马克龙家族的巧克力店门前，引发巨大舆论争议。法国警察工会质问马克龙动用警力为总统亲属的私人生意提供特殊安保。索姆省政府则出面否认专门保护这家店铺，称本次部署的目标是守护市中心全部商铺。</p><p class=\"detailPic\"><img alt=\"法国骚乱中，6车防暴警察专门保护马克龙妻子娘家商店？政府回应\" src=\"https://x0.ifengimg.com/ucms/2026_43/FD7146A1B611A24435EC4D4FB88236BED74EA469_size135_w1200_h675.",
+      "link": "https://original.ifeng.com/c/8xOfSGeoqp8",
+      "published": "Wed, 21 Oct 2026 01:52:36 GMT"
+    },
+    {
+      "source": "凤凰网",
+      "title": "前总统，成了“总统大战”主角",
+      "summary": "<figure><img height=\"549\" src=\"https://x0.ifengimg.com/ucms/2026_43/7E96802134CD27B0BB494D22C19207EB02F808EB_size76_w975_h549.jpg\" width=\"975\" /></figure><p>“我可不想靠近你。”10月18日晚，在巴西总统选举第二轮首场电视辩论中，现任总统卢拉面对另一位竞选者弗拉维奥·博索纳罗说出了这样一句话。</p><p>对手随即反唇相讥，称还是离远一点好，免得自己的钱包被偷。弗拉维奥还亮出写有“腐败分子”字样的手掌，借其中的字母影射劳工党，将政治攻击变成了一场现场表演。距离投票仅剩一周，两名总统候选人在全国观众面前展开的这场交锋，留下了许多尖锐的话语和戏剧性画面。至于下一届政府将如何解决巴西面临的问题，双方的回答则显得不那么充分。</p><p>这场由巴西旗手电视台（Band）举办的辩论，是两名候选人在本届选举中首次面对面交锋。首轮投票中，弗拉维奥以47.03%的得票率领先于获得45.16%选票的卢拉。两人将在10月25日的第二轮投票中决出胜负。如",
+      "link": "https://news.ifeng.com/c/8xOl6UASvLS",
+      "published": "Wed, 21 Oct 2026 01:52:11 GMT"
+    },
+    {
+      "source": "凤凰网",
+      "title": "特殊时刻，日本民众集会要求高市早苗下台",
+      "summary": "<figure><img height=\"549\" src=\"https://x0.ifengimg.com/ucms/2026_43/FBCA20A87347297B00259DE0D57BE8D078A486A6_size583_w975_h549.png\" width=\"975\" /></figure><p>据凤凰卫视报道，日本首相高市早苗就任将满一年之际，10月20日晚间有市民团体在东京首相官邸前举行抗议集会，要求高市早苗辞职。</p><video controls=\"\" poster=\"https://d.ifengimg.com/w480_h270_ablur_q90/x0.ifengimg.com/ucms/2026_43/EC5D8C39C200A0458D0BD5D770ED721A4889CA65_size543_w975_h549.png\"><source src=\"https://video19.ifeng.com/video09/2026/10/21/p7518470546820960314-102-083925.mp4\" /></video><p>参加者批评",
+      "link": "https://original.ifeng.com/c/8xOfJALh4Hr",
+      "published": "Wed, 21 Oct 2026 01:02:33 GMT"
+    },
+    {
+      "source": "凤凰网",
+      "title": "第一批返乡创业的中产，已经“旺铺招租”了？",
+      "summary": "<figure><img height=\"440\" src=\"https://x0.ifengimg.com/ucms/2026_43/E2F23BC2D12D02F7034C0BE705A7A85CE8FC7765_size683_w782_h440.png\" width=\"782\" /></figure><p class=\"textAlignCenter\"><img src=\"https://x0.ifengimg.com/res/2026/24A8F9C26DE6A9B49630F1052F5CCE2E74FAFE14_size883_w1000_h719.png\" /></p><p>文丨東昇&nbsp;编辑丨雪梨王‍‍</p><p class=\"textAlignCenter\"><img src=\"https://x0.ifengimg.com/res/2026/6E595D76A81DFC54F7AD7D7F5BFCBCAD1FB30415_size3_w1000_h114.png\" /></p><p>回乡创业，正在成为这些年的趋势。</p><p>数据显示，截至2025年底，",
+      "link": "https://original.ifeng.com/c/8xOhT7ExAoG",
+      "published": "Wed, 21 Oct 2026 01:00:00 GMT"
+    },
+    {
+      "source": "凤凰网",
+      "title": "脑瘫女孩被帅气男友求婚成功，被人说“配不上”，女孩回应",
+      "summary": "<figure><img height=\"339\" src=\"https://x0.ifengimg.com/ucms/2026_43/C23377ADCCEC485C09D42E30CD00E564D001CE01_size54_w602_h339.jpg\" width=\"602\" /></figure><p>河南00后女孩小凡，出生时因缺氧导致脑瘫。但是先天的身体缺陷并没有限制她对美好生活的向往和努力。</p><p>她坚持每天读书，书桌前一坐就是一整天，成功考上大学。最喜欢的作家就是史铁生，她说：“我的身体或许走得很慢，但读书能让我的灵魂去向远方。”她不喜欢因为自己的不方便给别人添麻烦，她说要大胆地活着。</p><video controls=\"\" poster=\"https://d.ifengimg.com/w480_h640_ablur_q90/x0.ifengimg.com/ucms/2026_43/A1BB880EB8D09BEC2E6A16062EF14AB381FABB81_size109_w576_h768.jpg\"><source src=\"https://vide",
+      "link": "https://news.ifeng.com/c/8xOh7VIcrzw",
+      "published": "Wed, 21 Oct 2026 00:55:04 GMT"
     },
     {
       "source": "财新网",
-      "title": "回国之旅｜常沙娜的一生一敦煌①",
-      "summary": "<blockquote><p>正是在我们航行海上的这段时间里，发生了震惊中外的“七七事变”。军国主义者蓄谋已久的全面侵华战争爆发了</p></blockquote><br />\n       <p>　　<b>[前记：</b>1931年，她出生在法国里昂，父亲用流经城市的索恩河为她命名——沙娜。彼时没有人知道，这个在异乡降生的女孩，将用一生守护中国古老的艺术宝库。</p>\n<p>　　12岁那年，她跟随父亲常书鸿走进莫高窟，从此，敦煌的飞天、莲花与藻井纹样，流淌进她生命的血脉。此后的90余年，是一个女人与一个时代共同经历的全部：母亲的离开，留美的抉择，林徽因的赏识，人民大会堂宴会厅天顶的设计，艺术教育数十年的坚守，以及退休之后，一场又一场将敦煌之美带向世界的展览……悲欣交集，从未停歇。</p>",
-      "link": "https://mini.caixin.com/2026-10-21/102495443.html",
-      "published": "Tue, 20 Oct 2026 23:19:09 GMT"
+      "title": "无形资产难估值、投资容错空间不足 科技金融如何应对五大挑战？",
+      "summary": "<blockquote><p>在体制机制、耐心资本、产品分层、考核评估、数据共享五方面仍有提升空间</p></blockquote><br />\n       <p>　　<b>【财新网】</b>当前，新一轮科技革命和产业变革加速演进，中国科技创新从“跟跑”到“并跑”再到部分领域“领跑”，对科技金融的适配性、精准性、系统性提出更高要求，如何优化？</p>\n<p>　　日前，光大集团在“2026金融街论坛年会”上发布的《科技金融白皮书》（下称《白皮书》）称，中国科技金融政策体系自20世纪80年代中期起步，历经了数十年演进；伴随科技创新进入新阶段，科技金融在体制机制、耐心资本、产品分层、考核评估、数据共享五大方面仍有提升空间。</p>",
+      "link": "https://finance.caixin.com/2026-10-21/102495627.html",
+      "published": "Wed, 21 Oct 2026 04:10:02 GMT"
     },
     {
       "source": "财新网",
-      "title": "财经早知道｜国家数据集团成立 入列国资委监管百家央企",
-      "summary": "<blockquote><p>推荐：美政府机构禁用DeepSeek，外交部回应；部分车企跟风推新品、测试验证不充分，工信部重申安全是底线</p></blockquote><br />\n       \n\n 早上好，今天是10月21日星期三。过去24小时，哪些财经新闻对普通人影响更大，未来又有什么焦点事件被市场密切关注，早知道栏目从新闻汇总到快速解读，为你一网打尽。\n \n <strong>24小时热点</strong>\n \n<p>\n 针对有报道说美国政府要求其机构停止使用来自中国企业的DeepSeek等人工智能工具，外交部回应表示，<strong>中方一贯反对泛化国家安全概念、将科技经贸问题政治化，将坚决维护中国企业的合法权益</strong>。DeepSeek此前已被美国商务部、国会办公室、五角大楼、NASA、美国海军等部门禁用，此次扩大至</p>",
-      "link": "https://finance.caixin.com/2026-10-21/102495440.html",
-      "published": "Tue, 20 Oct 2026 22:56:55 GMT"
+      "title": "【华尔街原声】摩根士丹利策略师：美股调整已接近尾声",
+      "summary": "<blockquote><p>预计未来两三周市场仍有波动，AI投资热点将逐渐从基础设施转向技术应用</p></blockquote><br />\n  \n  \n  \n  \n <br /><video controls=\"\" poster=\"\" preload=\"metadata\" src=\"https://database.caixin.com/2026-10-21/v0dc35g10000dbc22r27dlda1593em50\"></video><br />",
+      "link": "https://database.caixin.com/2026-10-21/102495617.html",
+      "published": "Wed, 21 Oct 2026 03:41:37 GMT"
+    },
+    {
+      "source": "财新网",
+      "title": "【华尔街原声】韩国前央行行长：AI繁荣可能加剧收入不平等",
+      "summary": "<blockquote><p>李昌镛称，AI产业收益高度集中于少数科技企业，中国芯片制造商的技术突破也可能改变全球半导体竞争格局</p></blockquote><br />\n  \n  \n  \n  \n <br /><video controls=\"\" poster=\"\" preload=\"metadata\" src=\"https://database.caixin.com/2026-10-21/v02c35g10000dbc29ki7dld9cldlog0g\"></video><br />",
+      "link": "https://database.caixin.com/2026-10-21/102495613.html",
+      "published": "Wed, 21 Oct 2026 03:38:53 GMT"
+    },
+    {
+      "source": "财新网",
+      "title": "安徽逆袭：探寻区域经济发展的文化变量",
+      "summary": "<blockquote><p>安徽样本最值得注意之处在于：要素可以流动，政策可以学习，资本可以引进，唯一难以迁移的是一个地方长期形成的禀赋结构，以及由此孕育的企业家群体</p></blockquote><br />\n    <dl class=\"media_pic\">\n     <dt><img class=\"cx-img-loader\" src=\"https://img.caixin.com/2026-10-21/179255273255312_840_560.jpg\" /></dt>\n     <dd>2026年4月25日，安徽合肥，国家智能网联电动汽车质量监督检验中心（合肥）项目在合肥包河经开区顺利通过竣工。图：视觉中国</dd>\n    </dl>\n   <br />\n       <p>　　捧读《活力》，会让人对区域经济的增长生出另一种理解。</p>\n<p>　　这本书的作者，是 20 年前——2006 年——的诺贝尔经济学奖得主埃德蒙·费尔普斯；该书 2021 年 5 月由中信出版集团引进出版，而这位 92 岁的经济学大师，已于今年 5 月在纽约家中辞世。他的核心观点可以归结",
+      "link": "https://opinion.caixin.com/2026-10-21/102495575.html",
+      "published": "Wed, 21 Oct 2026 03:15:36 GMT"
+    },
+    {
+      "source": "财新网",
+      "title": "央行正研究气候适应金融标准和循环金融标准 覆盖哪些领域？",
+      "summary": "<blockquote><p>数字技术可以赋能绿色金融，但仍面临诸多挑战，比如数据可得性、质量参差不齐，算法偏见、模型复杂且不透明、输出结果难以审查和核验，增加了模型的信任风险和被滥用的可能性</p></blockquote><br />\n       <p>　　<b>【财新网】</b>随着极端天气事件日益频繁和严重，金融产品和服务应如何支持各类主体应对气候变化？中国人民银行研究局副局长张蓓指出，央行正在研究气候适应金融标准，循环金融标准研究也取得了重要进展。</p>\n<p>　　10月20日，中国人民银行研究局副局长张蓓在“2026金融街论坛年会”的“创新融合绿色与数智金融 聚力共建‘一带一路’绿色发展新生态”论坛上介绍，央行正在研究的气候适应金融标准，覆盖了水资源、制造业、食品与农业、城市与社区、基础设施、健康、生态系统与生物多样性、气候风险监测以及灾后重建等领域。</p>",
+      "link": "https://finance.caixin.com/2026-10-21/102495552.html",
+      "published": "Wed, 21 Oct 2026 02:51:54 GMT"
+    },
+    {
+      "source": "财新网",
+      "title": "彭文生：从AI经济与安全资产看美债利率与国际货币变局",
+      "summary": "<blockquote><p>美债作为全球安全资产的角色下降，黄金无法替代美元的安全资产职能，关键要看其他主要经济体尤其欧元区和中国能否提供有效的安全资产，或者类似安全资产作用的合作机制安排</p></blockquote><br />\n       <p>　　近期全球主权债务市场波动明显加剧，以欧洲市场为例，法国10年期国债收益率较德国高出约1.5个百分点，这一利差水平甚至超过欧债危机时期。不过，市场关注更多的还是美国国债收益率的上升，因为美元是国际储备货币，美债的变化不仅对美国本身，对全球也有重要影响。</p>\n<p>　　近年来，美债利率显著走高，10年期美债收益率一度突破5%。面对利率上行，美国财长将其归因于市场机构的情绪化交易，但市场层面存在不同的叙事：一方面，美国经济总需求偏强、通胀压力持续，推升了市场对未来政策利率上调的预期，抬升美债期限溢价；另一方面，美国政府债务规模大幅扩张，国债供给持续激增，供需失衡直接推动收益率上行，甚至引发了对美债可持续性和美元国际货币地位的讨论。那么，应当如何客观、全面地理解本轮美债利率上行的逻辑和影响？</p>\n\n<div class=\"lan",
+      "link": "https://opinion.caixin.com/2026-10-21/102495540.html",
+      "published": "Wed, 21 Oct 2026 02:41:06 GMT"
+    },
+    {
+      "source": "财新网",
+      "title": "维多利亚时代的体面观与温网的着装探界者｜体坛",
+      "summary": "<blockquote><p>一代代网球场上的着装探界者，用温柔坚守与清醒突破，用坦荡舒展、自由生长的生命姿态，一点点撬开百年枷锁，让古老的纯白仪式，终于慢慢走向包容、平等与新生</p></blockquote><br />\n       <p>　　我第一次听说温布尔登网球公开赛，是在40年前看的一部电影——1954年英国摄制的影片《百万英镑》。里面有一个情节：怀揣百万英镑支票的美国穷小子亨利·亚当在俱乐部里和几个女孩闲聊。</p>\n<p>　　女孩问他：“你喜欢什么运动？”</p>\n<p>　　漂洋过海来到伦敦的亚当顺嘴说：“我喜欢航海。”</p>\n<p>　　几个女孩欢呼雀跃：“那可是皇家运动啊！”</p>\n<p>　　亚当问：“那诸位呢？”</p>\n<p>　　姑娘们说：“我们喜爱草地网球——我们刚从温布顿来。”</p>\n<p>　　其实电影原版英文台词比较简略，上海电影译制厂把这段台词润色展开了。感谢上译厂的前辈艺术家们，让我第一次知道了草地网球和温布顿球场。</p>",
+      "link": "https://mini.caixin.com/2026-10-21/102495539.html",
+      "published": "Wed, 21 Oct 2026 02:40:30 GMT"
+    },
+    {
+      "source": "财新网",
+      "title": "油价风险升高带动通胀",
+      "summary": "<blockquote><p>释储能改变短期预期，却无法消除市场面对的油价风险；中东战事若无法尽快平息，通胀显然欲小不易</p></blockquote><br />\n       <p>　　上周全球股市重挫的导火线，是美国周四及周五公布9月通胀数据（CPI及PPI），双双高于预期及前值。通胀的来源一般分为需求拉动及成本推动，美国的消费强劲及AI基础建设巨额投资，共同创造出需求拉动的通胀；而今年以来美伊战争造成油价上涨，更引发成本推动的通胀。今年9月油价再度破百美元，单月上涨9.1%，贡献了9月CPI月增幅的一半以上；作为供应链运输重要燃料的柴油飙涨，更促使PPI年增6.3%。油价的后续走势，尤其是美国11月3日中期选举后，油价是否会再度冲高，对其后的通胀影响极为关键。</p>\n\n<div class=\"lanmu_textend\">\n<p> 　　推荐进入<a href=\"https://cxdata.caixin.com/index\" target=\"_blank\">财新数据库</a>，可随时查阅宏观经济、股票债券、公司人物，财经数据尽在掌握。</p>\n</div>",
+      "link": "https://opinion.caixin.com/2026-10-21/102495535.html",
+      "published": "Wed, 21 Oct 2026 02:31:49 GMT"
+    },
+    {
+      "source": "财新网",
+      "title": "2026年中国居民消费增长中的分化",
+      "summary": "<blockquote><p>居民实际消费继续增加，服务较为活跃，收入用于消费的比例同比回落。居民资金行为中，消费倾向下降与存款少增同时发生</p></blockquote><br />\n       <h2 class=\"cx-app-content-subheads\">摘要</h2>\n<p>　　2026年中国消费呈现结构分化中的增长：居民实际消费继续增加，服务较为活跃，收入用于消费的比例同比回落。前三季度居民人均可支配收入实际增长4.4%，人均消费支出实际增长2.7%；根据官方同口径名义数据计算，平均消费倾向由上年同期的66.37%降至65.31%，下降1.06个百分点。收入增长快于支出，城乡汇总数据的消费收入比均回落。</p>\n<p>　　服务与商品的增速差扩大，主要来自商品增长放缓。前三季度服务零售额增长5.0%，接近上年同期的5.2%；商品零售额增速由4.6%降至1.0%。汽车以外社零增长2.8%，亦低于上年的4.9%，增长放缓涉及汽车之外的消费。商品内部又有明显差异：汽车、家电、家具承压，通讯器材继续增长。品类差异需要结合上年基数、购置节奏与住房交易结构解释。</p>\n\n<d",
+      "link": "https://opinion.caixin.com/2026-10-21/102495510.html",
+      "published": "Wed, 21 Oct 2026 02:19:21 GMT"
+    },
+    {
+      "source": "财新网",
+      "title": "金融街论坛的政策信号",
+      "summary": "<blockquote><p>央行推出五项增量举措统筹流动性管理与市场开放，货币政策框架“换锚”方向明确；证监会四项举措完善违规减持处罚与先行赔付规则</p></blockquote><br />\n       <p>　　2026金融街论坛年会于10月19日下午开幕，论坛主题为“开放·合作·包容——共筑全球金融发展新生态”。</p>\n<h2 class=\"cx-app-content-subheads\">主题聚焦全球金融发展与合作、金融发展新生态</h2>\n<p>　　金融街论坛作为国家级、国际性的专业论坛，由北京市人民政府与中国人民银行、国家金融监督管理总局、证监会、新华社、外汇局共同主办。金融街论坛通常在每年四季度举办，“一行一局一会”主要负责人出席并发声。论坛既是当年政策的总结收口，亦释放来年货币金融政策信号，同时承担重大政策首发、成果发布与国际对话功能。金融街论坛与每年6月举办的陆家嘴论坛共同形成上下半年金融政策观察窗口。</p>\n\n<div class=\"lanmu_textend\">\n<p> 　　推荐进入<a href=\"https://cxdata.caixin.com/i",
+      "link": "https://opinion.caixin.com/2026-10-21/102495509.html",
+      "published": "Wed, 21 Oct 2026 02:16:12 GMT"
+    },
+    {
+      "source": "财新网",
+      "title": "欧洲西尼罗病毒疫情创纪录，这种蚊媒病毒离中国有多远？｜健保",
+      "summary": "<blockquote><p>新疆喀什地区的研究曾从蚊虫中分离到病毒，并发现人感染证据；2013—2016年的后续监测也支持当地存在病毒活动。这些结果提示部分地区曾有本地传播，不能据此推断全国风险相同</p></blockquote><br />\n       <p>　　欧洲这个秋天，一种并不陌生的蚊媒病毒再次引起关注。ECDC于10月15日发布消息：截至10月7日，欧盟及欧洲经济区13国已报告1715例本地西尼罗病毒感染病例，创同期监测纪录。意大利报告最多，比利时则首次报告本地人感染。[1]</p>\n<p>　　更晚一期周报显示，截至10月14日，欧洲19个报告国家和地区累计报告1926例本地感染。两个数字的时间和覆盖范围不同，不能直接相减来计算一周新增。[2] 比病例数更值得追问的是：这条传播链为何向外延伸，中国又该关注什么？</p>\n<h2 class=\"cx-app-content-subheads\">纽约乌鸦留下的线索</h2>\n<p>　　1937年，西尼罗病毒首次在乌干达被分离。1999年夏天，纽约出现不明原因脑炎，另一边，乌鸦和动物园鸟类接连死亡。调查最终把人和鸟的异常连在",
+      "link": "https://mini.caixin.com/2026-10-21/102495505.html",
+      "published": "Wed, 21 Oct 2026 01:54:36 GMT"
+    },
+    {
+      "source": "财新网",
+      "title": "【市场动态】美国拟让受制裁油轮重返合法市场 运费高涨之际或响应寥寥",
+      "summary": "<blockquote><p>不过，实际可供出售的受制裁超级油轮数量有限，潜在卖家也不愿放弃利润丰厚的中东航次</p></blockquote><br />\n    <dl class=\"media_pic\">\n     <dt><img class=\"cx-img-loader\" src=\"https://img.caixin.com/2026-10-21/179254685729687_840_560.jpg\" /></dt>\n     <dd>独立能源经纪公司Oil Brokerage估计，目前有294艘受制裁油轮没有受到欧盟或英国的制裁，但其中70%的船龄超过20年，难以被主流贸易商接受。图：IC photo</dd>\n    </dl>\n   <br />",
+      "link": "https://database.caixin.com/2026-10-21/102495502.html",
+      "published": "Wed, 21 Oct 2026 01:38:09 GMT"
+    },
+    {
+      "source": "财新网",
+      "title": "【市场动态】富兰克林邓普顿：法国债市动荡恐演变为欧债危机2.0版 且情况更严重",
+      "summary": "<blockquote><p>富兰克林邓普顿固定收益投资主管警告，法国债券如果持续遭抛售，可能升级为欧元区债务危机，一旦这种情况发生，严重程度可能超过近十几年前发生的欧债危机</p></blockquote><br />",
+      "link": "https://database.caixin.com/2026-10-21/102495500.html",
+      "published": "Wed, 21 Oct 2026 01:34:55 GMT"
+    },
+    {
+      "source": "财新网",
+      "title": "【权益周观察】上周A股缩量探底3674点 市场调整是否接近尾声？",
+      "summary": "<blockquote><p>市场对AI基建的审视正从规模扩张转向负债承受力。高额利息与资本开支侵蚀现金流，信贷重定价拖累美股算力板块遭遇股债双杀</p></blockquote><br />\n    <dl class=\"media_pic\">\n     <dt><img class=\"cx-img-loader\" src=\"https://img.caixin.com/2026-10-21/179254643030537_840_560.jpg\" /></dt>\n     \n    </dl>\n   <br />",
+      "link": "https://database.caixin.com/2026-10-21/102495494.html",
+      "published": "Wed, 21 Oct 2026 01:34:47 GMT"
+    },
+    {
+      "source": "财新网",
+      "title": "【市场动态】韩国出口保持强劲增势 央行利率决议前夕凸显经济韧性",
+      "summary": "<blockquote><p>这些数据进一步印证了经济由半导体行业驱动，同时也令通胀保持高位</p></blockquote><br />",
+      "link": "https://database.caixin.com/2026-10-21/102495493.html",
+      "published": "Wed, 21 Oct 2026 01:34:03 GMT"
+    },
+    {
+      "source": "财新网",
+      "title": "今日开盘：两市双双高开 沪指涨幅0.14%",
+      "summary": "<blockquote><p>沪指开盘报3740.57点，涨幅0.14%；深成指报11838.79点，涨幅0.32%</p></blockquote><br />\n       <p>财新网10月21日电：沪指开盘报3740.57点，涨幅0.14%。</p>\n<p>深成指报11838.79点，涨幅0.32%；创业板指报2746.84点，涨幅0.28%；中小板指报7426.49点，涨幅0.47%。</p>\n<p>盘面上，电子领涨，综合、建筑材料、医药生物、通信、轻工制造等板块涨幅居前，电力设备领跌，煤炭、石油石化、美容护理、农林牧渔、银行等走弱。</p>\n<p>消息面上，美政府机构禁用DeepSeek，外交部回应；部分车企跟风推新品、测试验证不充分，工信部重申安全是底线；国家数据集团成立，入列国资委监管百家央企；金价回撤至4100美元，多家银行积存金零费率抢客；宁德时代第三季度营收为1652.21亿元，同比增长58.58%；苹果官宣10月28日新品发布会；张雪机车首款电摩明年上市。</p>",
+      "link": "https://finance.caixin.com/2026-10-21/102495490.html",
+      "published": "Wed, 21 Oct 2026 01:29:53 GMT"
+    },
+    {
+      "source": "财新网",
+      "title": "财新闻｜国考报名时间过半，热门岗位报录比超2800:1",
+      "summary": "<blockquote><p>以后不用躲井盖了？国家出手；严打生育旅游，美国国务院两个月吊销700多份中国公民的美签；时隔8年，郎朗与维也纳爱乐乐团再度同台</p></blockquote><br />\n    <dl class=\"media_pic\">\n     <dt><img class=\"cx-img-loader\" src=\"https://img.caixin.com/2026-10-21/179254637037358_840_560.jpg\" /></dt>\n     <dd>2027年国考报名已经过半，报名热度持续攀升，热门岗位报录比超2800:1。图：视觉中国</dd>\n    </dl>\n   <br />\n       \n\n<h2 class=\"cx-app-content-subheads\">国考报名时间过半，热门岗位报录比超2800:1</h2> \n<p>2027年国考报名已经过半，报名热度持续攀升，热门岗位报录比超2800:1。</p>",
+      "link": "https://mini.caixin.com/2026-10-21/102495488.html",
+      "published": "Wed, 21 Oct 2026 01:17:31 GMT"
+    },
+    {
+      "source": "财新网",
+      "title": "【交易簿】沙特360亿美元私有化顶级游戏厂商EA 高杠杆背后是现金流的精确算计",
+      "summary": "<blockquote><p>游戏公司不再仅仅被视为创意经济的集合体，而是可以被当作产生稳定现金流的成熟资产类别来对待</p></blockquote><br />\n    <dl class=\"media_pic\">\n     <dt><img class=\"cx-img-loader\" src=\"https://img.caixin.com/2026-10-21/179254518548636_840_560.jpg\" /></dt>\n     <dd>美国加利福尼亚州雷德伍德城，Electronic Arts（EA）公司总部。图：视觉中国</dd>\n    </dl>\n   <br />",
+      "link": "https://database.caixin.com/2026-10-21/102495485.html",
+      "published": "Wed, 21 Oct 2026 01:09:21 GMT"
+    },
+    {
+      "source": "财新网",
+      "title": "对“空姐下跪”的反思不应止步于个案",
+      "summary": "<blockquote><p>为什么一线员工在无理者面前，宁可跪地也不敢说“不”？个案问的是谁对谁错，制度问的是为何一错再错。更应防住的，是下一次的屈膝</p></blockquote><br />\n       <p>　　2026年9月28日，东航合肥飞大连的航班上，餐车碰到一位熟睡旅客的手肘。乘务员反复道歉，旅客却出言辱骂、扬言要踹，还要求落地后陪同就医。乘务员最后跪在过道上道歉。降落后医护人员检查，旅客并无伤情。舆论哗然，东航几天后以“严重侵害公司员工人格尊严和履职权益”为由报警，并暂停承运该旅客。人民日报客户端的评论说得透彻：“乘务员的工作是提供空乘服务，不是出让尊严。”但这样的一跪并非孤例，据报道，2025年2月，上海的一名年轻护士为患者拔针时出了点血，家属认为她操作失误不依不饶，护士最终也只能跪在输液室地上请求原谅。</p>\n\n<div class=\"lanmu_textend\">\n<p> 　　推荐进入<a href=\"https://cxdata.caixin.com/index\" target=\"_blank\">财新数据库</a>，可随时查阅宏观经济、股票债券、公司人物",
+      "link": "https://opinion.caixin.com/2026-10-21/102495484.html",
+      "published": "Wed, 21 Oct 2026 01:04:19 GMT"
+    },
+    {
+      "source": "财新网",
+      "title": "清华经管学院顾问委员会2026年会议举行 丁薛祥会见、王岐山宴请委员代表",
+      "summary": "<blockquote><p>10月13日，清华大学经济管理学院顾问委员会2026年会议举行。这是顾问委员会成立以来的第27次年度会议，共有26位委员参会</p></blockquote><br />\n       <p>　　<b>【财新网】</b>10月13日，清华大学经济管理学院顾问委员会2026年会议举行。这是顾问委员会成立以来的第27次年度会议，共有26位委员参会。</p>\n<p>　　据新华社、清华大学新闻网消息，中共中央政治局常委、国务院副总理丁薛祥13日下午在北京会见清华大学经济管理学院顾问委员会委员代表，重点围绕人工智能发展和治理同各位委员进行交流。他指出，人工智能是引领新一轮技术革命和产业变革的关键力量，要把这项塑造未来的技术发展好、运用好、治理好，更好造福全人类。欢迎大家支持和参与世界人工智能合作组织建设，促进共同繁荣、维护共同安全。顾问委员会成立26年来，成为中外对话交流合作的重要平台，希望各位委员为中国教育事业和经济发展作出更多贡献。</p>",
+      "link": "https://economy.caixin.com/2026-10-21/102495479.html",
+      "published": "Wed, 21 Oct 2026 00:43:45 GMT"
+    },
+    {
+      "source": "央视网",
+      "title": "区域外贸规模创新高 更均衡、高层次、高质量……协同发展动能持续释放 - 央视网",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMieEFVX3lxTE1CNTNOUXVMTWVQVXBnUnp4NVpFa25oclowb19adEk3MEQ4akFxTGV1YkY5NkRqOXBYRTY5cjc4Z3hsVHg2MTI2Qmx1Ti1RYnNlVUJTWVczb0E3ZWV3LVMwTFNPRjRZblRtdDFpTG9CaVdsV2pZVkdsVg?oc=5\" target=\"_blank\">区域外贸规模创新高 更均衡、高层次、高质量……协同发展动能持续释放</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">央视网</font>",
+      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1CNTNOUXVMTWVQVXBnUnp4NVpFa25oclowb19adEk3MEQ4akFxTGV1YkY5NkRqOXBYRTY5cjc4Z3hsVHg2MTI2Qmx1Ti1RYnNlVUJTWVczb0E3ZWV3LVMwTFNPRjRZblRtdDFpTG9CaVdsV2pZVkdsVg?oc=5",
+      "published": "Wed, 21 Oct 2026 03:05:53 GMT"
     },
     {
       "source": "央视网",
@@ -54,17 +341,45 @@
     },
     {
       "source": "央视网",
+      "title": "台当局禁赴大陆参加孙中山诞辰纪念活动 国台办回应 - 央视网",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMieEFVX3lxTE1GOXhFNXpWcVc0bVJPS3VUUDZNSFBHbWMwVTg4a3FoRkhZSTBiRDZNN0h5NVozSWg4Y21mTlJuaWNNaFFjY1NuY0lHbnhlWFhLNkJUTXg5cjQ4amZlR3pfejctOV9oUFlpb1BQQUl1RDNKZTVWQnl3RA?oc=5\" target=\"_blank\">台当局禁赴大陆参加孙中山诞辰纪念活动 国台办回应</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">央视网</font>",
+      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1GOXhFNXpWcVc0bVJPS3VUUDZNSFBHbWMwVTg4a3FoRkhZSTBiRDZNN0h5NVozSWg4Y21mTlJuaWNNaFFjY1NuY0lHbnhlWFhLNkJUTXg5cjQ4amZlR3pfejctOV9oUFlpb1BQQUl1RDNKZTVWQnl3RA?oc=5",
+      "published": "Wed, 21 Oct 2026 02:40:55 GMT"
+    },
+    {
+      "source": "央视网",
       "title": "AI仿冒演员带货 网友难辨真假 - 央视网",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMieEFVX3lxTE1kclVmbjZuM1l5NURMQUpPTDhacjJnMHJFY1FjMHdPSEtSLWRwWEFwWUR0Y0dqSnBUbTVhblFFQm12SWhDVkoyVlpZMGVHRUxhWC04WEdhczd1NDYzUk5rZnZKN1FIdE85Y3RtdkRMOEJIQldfcDRTRA?oc=5\" target=\"_blank\">AI仿冒演员带货 网友难辨真假</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">央视网</font>",
       "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1kclVmbjZuM1l5NURMQUpPTDhacjJnMHJFY1FjMHdPSEtSLWRwWEFwWUR0Y0dqSnBUbTVhblFFQm12SWhDVkoyVlpZMGVHRUxhWC04WEdhczd1NDYzUk5rZnZKN1FIdE85Y3RtdkRMOEJIQldfcDRTRA?oc=5",
       "published": "Tue, 20 Oct 2026 18:39:13 GMT"
     },
     {
+      "source": "央视网",
+      "title": "很有“仪式感”！红外相机拍到滇金丝猴悠闲吃笋画面 - 央视网",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMieEFVX3lxTFBXN3NSQVpBS3lTbnhrZzNZdlhITmtXd0EzaWd2cHYwazFCcTdqNGV1dExJaWFLeXpnTFI5cUVIZ1J4dUlsYnJDeUtVem1HOXllZkFtSUpRelZab1E2Q01zRllLT016Q1FaNDBqNXlfdDNISU0xb0tfWA?oc=5\" target=\"_blank\">很有“仪式感”！红外相机拍到滇金丝猴悠闲吃笋画面</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">央视网</font>",
+      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBXN3NSQVpBS3lTbnhrZzNZdlhITmtXd0EzaWd2cHYwazFCcTdqNGV1dExJaWFLeXpnTFI5cUVIZ1J4dUlsYnJDeUtVem1HOXllZkFtSUpRelZab1E2Q01zRllLT016Q1FaNDBqNXlfdDNISU0xb0tfWA?oc=5",
+      "published": "Tue, 20 Oct 2026 17:52:31 GMT"
+    },
+    {
       "source": "BBC",
-      "title": "Zelensky says US intelligence sharing 'works now' after talks with Trump envoy in Oslo",
+      "title": "US envoy to meet Putin in Russia as Zelensky says intelligence sharing 'works now'",
       "summary": "Ukraine had accused the US of withholding key intelligence - a claim rejected as \"scandalous\" by Washington.",
       "link": "https://www.bbc.co.uk/news/articles/cq5ynkx3xy11o?at_medium=RSS&at_campaign=rss",
-      "published": "Tue, 20 Oct 2026 21:27:39 GMT"
+      "published": "Wed, 21 Oct 2026 03:59:18 GMT"
+    },
+    {
+      "source": "BBC",
+      "title": "France is divided over who to blame for weekend riots and what to learn from them",
+      "summary": "In France and beyond there is widespread disagreement over what led to some of the worst unrest seen in French cities in modern history.",
+      "link": "https://www.bbc.co.uk/news/articles/cq0me4g9p970o?at_medium=RSS&at_campaign=rss",
+      "published": "Wed, 21 Oct 2026 01:22:51 GMT"
+    },
+    {
+      "source": "BBC",
+      "title": "Elon Musk says Tesla-SpaceX merger being considered",
+      "summary": "Musk says special committees within both companies have been formed to look at a possible mega-merger.",
+      "link": "https://www.bbc.co.uk/news/articles/cmlyl09xjke4o?at_medium=RSS&at_campaign=rss",
+      "published": "Tue, 20 Oct 2026 23:24:47 GMT"
     },
     {
       "source": "BBC",
@@ -75,17 +390,10 @@
     },
     {
       "source": "BBC",
-      "title": "'Great result for Canada', says Carney as Alberta votes to reject separatism",
-      "summary": "The Canadian province has voted overwhelmingly to remain part of Canada, though deep political divisions endure.",
-      "link": "https://www.bbc.co.uk/news/articles/cxr5yqqd7nlpo?at_medium=RSS&at_campaign=rss",
-      "published": "Tue, 20 Oct 2026 16:59:06 GMT"
-    },
-    {
-      "source": "BBC",
-      "title": "Trump sued over Canadian tariffs in latest legal challenge",
-      "summary": "The lawsuit argues the White House exceeded its authority in imposing the latest tariffs on the country and caused \"immediate harm to American businesses\".",
-      "link": "https://www.bbc.co.uk/news/articles/cqrkyj13m588o?at_medium=RSS&at_campaign=rss",
-      "published": "Tue, 20 Oct 2026 19:30:05 GMT"
+      "title": "Alberta's decisive decision to stay in Canada gives Carney backing to take on Trump",
+      "summary": "The overwhelming vote by Alberta to stay in Canada gives Mark Carney political capital to focus on remaking the country's economy, writes the BBC's Lyse Doucet.",
+      "link": "https://www.bbc.co.uk/news/articles/cr62ylj832vxo?at_medium=RSS&at_campaign=rss",
+      "published": "Tue, 20 Oct 2026 22:22:17 GMT"
     },
     {
       "source": "BBC",
@@ -96,10 +404,52 @@
     },
     {
       "source": "BBC",
+      "title": "Trump sued over Canadian tariffs in latest legal challenge",
+      "summary": "The lawsuit argues the White House exceeded its authority in imposing the latest tariffs on the country and caused \"immediate harm to American businesses\".",
+      "link": "https://www.bbc.co.uk/news/articles/cqrkyj13m588o?at_medium=RSS&at_campaign=rss",
+      "published": "Tue, 20 Oct 2026 19:30:05 GMT"
+    },
+    {
+      "source": "BBC",
       "title": "Suspect arrested after historic town hall set alight - French media",
       "summary": "The spire of the clock tower at Limoges city hall dramatically collapsed as it was engulfed in flames on Saturday.",
       "link": "https://www.bbc.co.uk/news/articles/cw5yn5e8mezvo?at_medium=RSS&at_campaign=rss",
       "published": "Tue, 20 Oct 2026 21:05:50 GMT"
+    },
+    {
+      "source": "BBC",
+      "title": "Cornell Jane Doe says embattled university head doubted her gang-rape allegation",
+      "summary": "As a no-confidence vote looms, Cornell says the characterisation of the head's reaction is \"incorrect\".",
+      "link": "https://www.bbc.co.uk/news/articles/cwn73z5gnnrro?at_medium=RSS&at_campaign=rss",
+      "published": "Tue, 20 Oct 2026 19:08:06 GMT"
+    },
+    {
+      "source": "BBC",
+      "title": "Haitian migrants changed this US town - Trump's deportation drive is reshaping it again",
+      "summary": "The president thrust Springfield, Ohio, into the spotlight with a false pet-eating claim - years later, it remains at the heart of the immigration debate.",
+      "link": "https://www.bbc.co.uk/news/articles/crp3gvpek8njo?at_medium=RSS&at_campaign=rss",
+      "published": "Wed, 21 Oct 2026 02:37:13 GMT"
+    },
+    {
+      "source": "BBC",
+      "title": "Borneo burning: Life on the frontline of South East Asia's toxic haze",
+      "summary": "A \"Super El Niño\" has fuelled months-long fires in Indonesia, making hundreds of thousands of people sick.",
+      "link": "https://www.bbc.co.uk/news/articles/cqm2dzwdmmywo?at_medium=RSS&at_campaign=rss",
+      "published": "Tue, 20 Oct 2026 23:51:43 GMT"
+    },
+    {
+      "source": "BBC",
+      "title": "Is Ebola under control in Kenya after nine cases confirmed?",
+      "summary": "The US has advised its citizens to reconsider travelling to Kenya but the government tries to reassure people.",
+      "link": "https://www.bbc.co.uk/news/articles/c693z948px0jo?at_medium=RSS&at_campaign=rss",
+      "published": "Tue, 20 Oct 2026 23:41:30 GMT"
+    },
+    {
+      "source": "BBC",
+      "title": "Is Donald Trump ready to do business with Myanmar?",
+      "summary": "There are signs the United States is shifting its policy towards Myanmar, formerly a global pariah.",
+      "link": "https://www.bbc.co.uk/news/articles/cw203zx1x1rno?at_medium=RSS&at_campaign=rss",
+      "published": "Tue, 20 Oct 2026 23:21:39 GMT"
     },
     {
       "source": "Reuters",
@@ -109,11 +459,32 @@
       "published": "Tue, 20 Oct 2026 22:35:44 GMT"
     },
     {
+      "source": "Reuters",
+      "title": "UN experts urge Indian authorities to cease 'use of excessive force' to curb protests - Reuters",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMivwFBVV95cUxNNmlnVlF1OWMtU0h4SmE2c2VRY2NQc3RQRDA0Q0VKRGJXRWFuQ0RvajVoMzcyem04dXlUT2pQbGlndWtmcEFOdkJtWkd0UkdWUWJncVp0QzYtMHdqTW9HNXh2VGxoci1UOWlSamluazJPb3NVaFczYi0tMG5HdXBOaHRVX1RoY3ZtdmMxMWhDSkYycWsyU29la3V4Uzlfck1iVFo1dU4xNUUzNXM4aW1ndGlBRjVWYnhJUjhkMmV2SQ?oc=5\" target=\"_blank\">UN experts urge Indian authorities to cease 'use of excessive force' to curb protests</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Reuters</font>",
+      "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNNmlnVlF1OWMtU0h4SmE2c2VRY2NQc3RQRDA0Q0VKRGJXRWFuQ0RvajVoMzcyem04dXlUT2pQbGlndWtmcEFOdkJtWkd0UkdWUWJncVp0QzYtMHdqTW9HNXh2VGxoci1UOWlSamluazJPb3NVaFczYi0tMG5HdXBOaHRVX1RoY3ZtdmMxMWhDSkYycWsyU29la3V4Uzlfck1iVFo1dU4xNUUzNXM4aW1ndGlBRjVWYnhJUjhkMmV2SQ?oc=5",
+      "published": "Tue, 20 Oct 2026 21:47:00 GMT"
+    },
+    {
+      "source": "Reuters",
+      "title": "India's Jio IPO opens for public bids in record $3.2 billion sale - Reuters",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMipgFBVV95cUxON1VVUmNkZDI5QkFtVV8zeWNRdWY2YkRtQXVPSHlNUnFwY3BhRTBYcU9uOXVKMmljOE05N1dLSUxkTm9PUjBmSXhhNHFTZ000cUgyNlpVMG1ia1diRlJ6WXFuN091VktQX3hJMjl3QUJCRy1yeGtzSDY5bm1FSHNydzRtbUZzcUY5amhobDM2eXBfZXIydUwyZDBJSElseDFDX1VIWjdB?oc=5\" target=\"_blank\">India's Jio IPO opens for public bids in record $3.2 billion sale</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Reuters</font>",
+      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxON1VVUmNkZDI5QkFtVV8zeWNRdWY2YkRtQXVPSHlNUnFwY3BhRTBYcU9uOXVKMmljOE05N1dLSUxkTm9PUjBmSXhhNHFTZ000cUgyNlpVMG1ia1diRlJ6WXFuN091VktQX3hJMjl3QUJCRy1yeGtzSDY5bm1FSHNydzRtbUZzcUY5amhobDM2eXBfZXIydUwyZDBJSElseDFDX1VIWjdB?oc=5",
+      "published": "Tue, 20 Oct 2026 23:02:00 GMT"
+    },
+    {
+      "source": "Reuters",
+      "title": "President Trump’s approval hits new low in Reuters/Ipsos poll – what that means for insurance - Insurance Business",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi8wFBVV95cUxPOER1cVJSWDNRcDRnQ3htQWtRMlExSlVOTkhfdGpSS2l3U2g1TGdGOThQRnFJR2s1b1QyNUJBU053MDcxdU4xUXNIenlodC1oR1plakk0UDRtU01Tel9pbXFaSFlrelFER0h2VTY3UHdFbVJ4MUhCeWMyTGFreG1wcWxnbERSd3ZjLU5aQkIyXzMtT1dCenozV0RVc0dvNlBXUmcxWmFKYVRhSVY3Q1ZDdkxqeHVTS2dEY21aT0FnR0JrWnNJdVFBb3lrNU9heGx4WFBqbzYzd1JuZjVLM0xwYUF5SmlsQUxITzNRR2phclppNXM?oc=5\" target=\"_blank\">President Trump’s approval hits new low in Reuters/Ipsos poll – what that means for insurance</a>&nb",
+      "link": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxPOER1cVJSWDNRcDRnQ3htQWtRMlExSlVOTkhfdGpSS2l3U2g1TGdGOThQRnFJR2s1b1QyNUJBU053MDcxdU4xUXNIenlodC1oR1plakk0UDRtU01Tel9pbXFaSFlrelFER0h2VTY3UHdFbVJ4MUhCeWMyTGFreG1wcWxnbERSd3ZjLU5aQkIyXzMtT1dCenozV0RVc0dvNlBXUmcxWmFKYVRhSVY3Q1ZDdkxqeHVTS2dEY21aT0FnR0JrWnNJdVFBb3lrNU9heGx4WFBqbzYzd1JuZjVLM0xwYUF5SmlsQUxITzNRR2phclppNXM?oc=5",
+      "published": "Tue, 20 Oct 2026 20:53:45 GMT"
+    },
+    {
       "source": "NYTimes",
       "title": "Student Protesters in France Have a Strange New Slogan. What Does It Mean?",
       "summary": "“Bismillah, c’est les ténèbres” has appeared on signs at recent demonstrations. It doesn’t make much sense (it means, “In the name of God, it’s the darkness”) but is seen as shorthand for a generational divide.",
       "link": "https://www.nytimes.com/2026/10/20/world/europe/france-student-protests-slogan.html",
-      "published": "Tue, 20 Oct 2026 21:21:15 +0000"
+      "published": "Tue, 20 Oct 2026 21:21:16 +0000"
     },
     {
       "source": "NYTimes",
@@ -148,7 +519,14 @@
       "title": "Rubio Travels to India to Strengthen Economic Ties Amid Strained U.S. Relations",
       "summary": "The secretary of state will meet with Asia’s richest men in Mumbai as Washington continues negotiations over a trade deal with India.",
       "link": "https://www.nytimes.com/2026/10/20/world/asia/marco-rubio-india-us-trade-deal.html",
-      "published": "Tue, 20 Oct 2026 16:32:18 +0000"
+      "published": "Tue, 20 Oct 2026 16:32:19 +0000"
+    },
+    {
+      "source": "NYTimes",
+      "title": "The Mayor of a City in Haiti Warned of a Massacre. No One Listened.",
+      "summary": "The mayor of Kenscoff, a town near Haiti’s capital, wrote government officials hundreds of letters to warn of gang threats. Then dozens of people died, and he did, too.",
+      "link": "https://www.nytimes.com/2026/10/20/world/americas/mayor-kenscoff-haiti-gangs-massacre.html",
+      "published": "Tue, 20 Oct 2026 23:31:30 +0000"
     },
     {
       "source": "NYTimes",
@@ -156,6 +534,20 @@
       "summary": "Defense Secretary Pete Hegseth met with Prime Minister Benjamin Netanyahu and Israel’s defense minister, a week before a pivotal election.",
       "link": "https://www.nytimes.com/2026/10/20/world/middleeast/hegseth-netanyahu-trump-israel-election.html",
       "published": "Tue, 20 Oct 2026 18:01:58 +0000"
+    },
+    {
+      "source": "NYTimes",
+      "title": "UK to Headphone Dodgers on Trains: Shush",
+      "summary": "Prime Minister Andy Burnham announced a campaign against listening to music or videos without headphones on public transportation. We asked London commuters to weigh in.",
+      "link": "https://www.nytimes.com/2026/10/21/world/europe/uk-underground-headphones-commuters.html",
+      "published": "Wed, 21 Oct 2026 04:01:05 +0000"
+    },
+    {
+      "source": "NYTimes",
+      "title": "As Alberta Rejects Canada Separatism, Carney Gets Much of the Credit",
+      "summary": "Prime Minister Mark Carney won over Canada’s most conservative province by promising a pipeline and campaigning hard, defeating its efforts to secede.",
+      "link": "https://www.nytimes.com/2026/10/20/world/canada/carney-alberta-referendum-trump.html",
+      "published": "Wed, 21 Oct 2026 00:25:00 +0000"
     },
     {
       "source": "NYTimes",
@@ -169,14 +561,14 @@
       "title": "Nigeria Announces First Case of Ebola in Current Outbreak",
       "summary": "Health officials praised the Nigerian authorities for their transparency in reporting the spread of the virus.",
       "link": "https://www.nytimes.com/2026/10/20/world/africa/nigeria-ebola-outbreak.html",
-      "published": "Tue, 20 Oct 2026 21:02:50 +0000"
+      "published": "Wed, 21 Oct 2026 01:01:48 +0000"
     },
     {
       "source": "NYTimes",
       "title": "China Criticizes U.S. Ban on DeepSeek A.I. in Government Systems",
       "summary": "The response came after Homeland Security ordered the removal and exclusion of products developed by the Chinese company.",
       "link": "https://www.nytimes.com/2026/10/20/world/asia/china-deepseek-us-ban.html",
-      "published": "Tue, 20 Oct 2026 22:24:29 +0000"
+      "published": "Wed, 21 Oct 2026 03:15:01 +0000"
     },
     {
       "source": "NYTimes",
@@ -197,7 +589,7 @@
       "title": "Alberta Voters Reject Leaving Canada in Referendum on Separatism",
       "summary": "Residents of the province were asked if they wished to remain in Canada or to hold another vote on breaking away, in a referendum that was a win for Prime Minister Mark Carney.",
       "link": "https://www.nytimes.com/2026/10/19/world/canada/alberta-secession-canada-referendum.html",
-      "published": "Tue, 20 Oct 2026 20:26:35 +0000"
+      "published": "Wed, 21 Oct 2026 02:51:17 +0000"
     },
     {
       "source": "NYTimes",
@@ -250,123 +642,269 @@
     },
     {
       "source": "微博热搜",
-      "title": "巴黎圣日耳曼4比2巴萨",
+      "title": "宝马员工争着离职挤崩系统",
+      "summary": "热",
+      "link": "https://s.weibo.com/weibo?q=%23宝马员工争着离职挤崩系统%23"
+    },
+    {
+      "source": "微博热搜",
+      "title": "坠亡幼童爷爷称一家人不谈补偿问题",
       "summary": "新",
-      "link": "https://s.weibo.com/weibo?q=%23巴黎圣日耳曼4比2巴萨%23"
+      "link": "https://s.weibo.com/weibo?q=%23坠亡幼童爷爷称一家人不谈补偿问题%23"
     },
     {
       "source": "微博热搜",
-      "title": "男子捡到38000元留了道题给失主",
-      "summary": "热",
-      "link": "https://s.weibo.com/weibo?q=%23男子捡到38000元留了道题给失主%23"
-    },
-    {
-      "source": "微博热搜",
-      "title": "医保个人账户跨省共济落地全国",
+      "title": "一组数字看震撼人心的伟大远征",
       "summary": "",
-      "link": "https://s.weibo.com/weibo?q=%23医保个人账户跨省共济落地全国%23"
+      "link": "https://s.weibo.com/weibo?q=%23一组数字看震撼人心的伟大远征%23"
     },
     {
       "source": "微博热搜",
-      "title": "看京东一年一度惊喜大会赢黄金",
+      "title": "檀健次可心柔全球品牌代言人",
       "summary": "",
-      "link": "https://s.weibo.com/weibo?q=%23看京东一年一度惊喜大会赢黄金%23"
+      "link": "https://s.weibo.com/weibo?q=%23檀健次可心柔全球品牌代言人%23"
     },
     {
       "source": "微博热搜",
-      "title": "油车电车10年成本账怎么算",
+      "title": "拟出台的中国AI禁令震动全球",
       "summary": "",
-      "link": "https://s.weibo.com/weibo?q=%23油车电车10年成本账怎么算%23"
+      "link": "https://s.weibo.com/weibo?q=%23拟出台的中国AI禁令震动全球%23"
     },
     {
       "source": "微博热搜",
-      "title": "香港名媛碎尸案曝关键新证词",
-      "summary": "热",
-      "link": "https://s.weibo.com/weibo?q=%23香港名媛碎尸案曝关键新证词%23"
-    },
-    {
-      "source": "微博热搜",
-      "title": "法国乱成一锅粥了还有人威胁中国",
-      "summary": "热",
-      "link": "https://s.weibo.com/weibo?q=%23法国乱成一锅粥了还有人威胁中国%23"
-    },
-    {
-      "source": "微博热搜",
-      "title": "一朵棉花改变世界",
-      "summary": "",
-      "link": "https://s.weibo.com/weibo?q=%23一朵棉花改变世界%23"
-    },
-    {
-      "source": "微博热搜",
-      "title": "体操世锦赛男团决赛",
-      "summary": "",
-      "link": "https://s.weibo.com/weibo?q=%23体操世锦赛男团决赛%23"
-    },
-    {
-      "source": "微博热搜",
-      "title": "南海",
-      "summary": "热",
-      "link": "https://s.weibo.com/weibo?q=%23南海%23"
-    },
-    {
-      "source": "微博热搜",
-      "title": "到底谁把微信变成工作软件的",
-      "summary": "",
-      "link": "https://s.weibo.com/weibo?q=%23到底谁把微信变成工作软件的%23"
-    },
-    {
-      "source": "微博热搜",
-      "title": "蔡天凤碎尸案厨具店员出庭作供",
-      "summary": "",
-      "link": "https://s.weibo.com/weibo?q=%23蔡天凤碎尸案厨具店员出庭作供%23"
-    },
-    {
-      "source": "微博热搜",
-      "title": "陆毅鲍蕾女儿18岁生日试装",
-      "summary": "热",
-      "link": "https://s.weibo.com/weibo?q=%23陆毅鲍蕾女儿18岁生日试装%23"
-    },
-    {
-      "source": "微博热搜",
-      "title": "王一博是istp",
+      "title": "武志红 李雪",
       "summary": "新",
-      "link": "https://s.weibo.com/weibo?q=%23王一博是istp%23"
+      "link": "https://s.weibo.com/weibo?q=%23武志红 李雪%23"
     },
     {
       "source": "微博热搜",
-      "title": "刘雯维密回归太权威了",
+      "title": "国家癌症中心公布发病前五癌症",
       "summary": "",
-      "link": "https://s.weibo.com/weibo?q=%23刘雯维密回归太权威了%23"
+      "link": "https://s.weibo.com/weibo?q=%23国家癌症中心公布发病前五癌症%23"
     },
     {
       "source": "微博热搜",
-      "title": "广州白云代孕地下手术室被举报",
+      "title": "带着微博去旅行",
       "summary": "",
-      "link": "https://s.weibo.com/weibo?q=%23广州白云代孕地下手术室被举报%23"
+      "link": "https://s.weibo.com/weibo?q=%23带着微博去旅行%23"
     },
     {
       "source": "微博热搜",
-      "title": "网红方丈前妻深夜痛哭",
+      "title": "目前我国只批准两款L3车型",
+      "summary": "",
+      "link": "https://s.weibo.com/weibo?q=%23目前我国只批准两款L3车型%23"
+    },
+    {
+      "source": "微博热搜",
+      "title": "甲状腺癌为何越来越多",
+      "summary": "",
+      "link": "https://s.weibo.com/weibo?q=%23甲状腺癌为何越来越多%23"
+    },
+    {
+      "source": "微博热搜",
+      "title": "雷霆马刺大冲突",
+      "summary": "",
+      "link": "https://s.weibo.com/weibo?q=%23雷霆马刺大冲突%23"
+    },
+    {
+      "source": "微博热搜",
+      "title": "魏娆知道自己的身世了",
+      "summary": "",
+      "link": "https://s.weibo.com/weibo?q=%23魏娆知道自己的身世了%23"
+    },
+    {
+      "source": "微博热搜",
+      "title": "曝艺人自费高定",
       "summary": "新",
-      "link": "https://s.weibo.com/weibo?q=%23网红方丈前妻深夜痛哭%23"
+      "link": "https://s.weibo.com/weibo?q=%23曝艺人自费高定%23"
     },
     {
       "source": "微博热搜",
-      "title": "科技新一说宁德时代利润太吓人了",
-      "summary": "",
-      "link": "https://s.weibo.com/weibo?q=%23科技新一说宁德时代利润太吓人了%23"
-    },
-    {
-      "source": "微博热搜",
-      "title": "易梦玲巴黎被偷",
-      "summary": "",
-      "link": "https://s.weibo.com/weibo?q=%23易梦玲巴黎被偷%23"
-    },
-    {
-      "source": "微博热搜",
-      "title": "肖战演唱会二开无退票斩断囤票退路",
+      "title": "父亲遛狗幼童坠亡称已将狗处理",
       "summary": "新",
-      "link": "https://s.weibo.com/weibo?q=%23肖战演唱会二开无退票斩断囤票退路%23"
+      "link": "https://s.weibo.com/weibo?q=%23父亲遛狗幼童坠亡称已将狗处理%23"
+    },
+    {
+      "source": "微博热搜",
+      "title": "扁鹊老婆",
+      "summary": "新",
+      "link": "https://s.weibo.com/weibo?q=%23扁鹊老婆%23"
+    },
+    {
+      "source": "微博热搜",
+      "title": "刘恺威曾谈对杨幂的第一印象",
+      "summary": "热",
+      "link": "https://s.weibo.com/weibo?q=%23刘恺威曾谈对杨幂的第一印象%23"
+    },
+    {
+      "source": "微博热搜",
+      "title": "律师谈肖战二开不退票",
+      "summary": "新",
+      "link": "https://s.weibo.com/weibo?q=%23律师谈肖战二开不退票%23"
+    },
+    {
+      "source": "微博热搜",
+      "title": "A股",
+      "summary": "新",
+      "link": "https://s.weibo.com/weibo?q=%23A股%23"
+    },
+    {
+      "source": "微博热搜",
+      "title": "陈瑜林子濠结婚",
+      "summary": "新",
+      "link": "https://s.weibo.com/weibo?q=%23陈瑜林子濠结婚%23"
+    },
+    {
+      "source": "微博热搜",
+      "title": "易梦玲因护照被偷错过维密秀",
+      "summary": "热",
+      "link": "https://s.weibo.com/weibo?q=%23易梦玲因护照被偷错过维密秀%23"
+    },
+    {
+      "source": "知乎热榜",
+      "title": "丝绸之路沿线，哪些古城遗址最能体现古代东西方文化交流的痕迹？",
+      "summary": "<div class=\"main-wrap content-wrap\">\n<div class=\"headline\">\n\n<div class=\"img-place-holder\"></div>\n\n\n\n</div>\n\n<div class=\"content-inner\">\n\n\n\n\n<div class=\"question\">\n<h2 class=\"question-title\"></h2>\n\n<div class=\"answer\">\n\n<div class=\"meta\">\n<img class=\"avatar\" src=\"https://picx.zhimg.com/v2-dc822f6ca561a8acbc98e9b4476a6e2e_l.jpg?source=8673f162\" />\n<span class=\"author\">林溪主人，</span><span class=\"bio\">你付律师费了吗？</span>\n<a class=\"originUrl\" hidden=\"\" href=\"https://www.zhihu.com/question/5375921310/answe",
+      "link": "https://daily.zhihu.com/story/9793409",
+      "published": ""
+    },
+    {
+      "source": "知乎热榜",
+      "title": "有没有让你难忘或者震撼的文物照片？",
+      "summary": "<div class=\"main-wrap content-wrap\">\n<div class=\"headline\">\n\n<div class=\"img-place-holder\"></div>\n\n\n\n</div>\n\n<div class=\"content-inner\">\n\n\n\n\n<div class=\"question\">\n<h2 class=\"question-title\"></h2>\n\n<div class=\"answer\">\n\n<div class=\"meta\">\n<img class=\"avatar\" src=\"https://pica.zhimg.com/v2-7762651263481f4c8541d0729394fee6_l.jpg?source=8673f162\" />\n<span class=\"author\">我是妖怪，</span><span class=\"bio\">可乐加冰</span>\n<a class=\"originUrl\" hidden=\"\" href=\"https://www.zhihu.com/question/663260208/answer/207",
+      "link": "https://daily.zhihu.com/story/9793414",
+      "published": ""
+    },
+    {
+      "source": "知乎热榜",
+      "title": "如果一颗星球黄金极度廉价普通金属昂贵，黄金会成为建材吗？",
+      "summary": "<div class=\"main-wrap content-wrap\">\n<div class=\"headline\">\n\n<div class=\"img-place-holder\"></div>\n\n\n\n</div>\n\n<div class=\"content-inner\">\n\n\n\n\n<div class=\"question\">\n<h2 class=\"question-title\"></h2>\n\n<div class=\"answer\">\n\n<div class=\"meta\">\n<img class=\"avatar\" src=\"https://picx.zhimg.com/v2-f9415b903e9b9a362ebd7c175422274e_l.jpg?source=8673f162\" />\n<span class=\"author\">小树不咕，</span><span class=\"bio\">有些知识就像无糖可乐一样，喝啦！</span>\n<a class=\"originUrl\" hidden=\"\" href=\"https://www.zhihu.com/question/20690442",
+      "link": "https://daily.zhihu.com/story/9793412",
+      "published": ""
+    },
+    {
+      "source": "知乎热榜",
+      "title": "瞎扯 · 如何正确地吐槽",
+      "summary": "<div class=\"main-wrap content-wrap\">\n<div class=\"headline\">\n\n<div class=\"img-place-holder\"></div>\n\n\n\n</div>\n\n<div class=\"content-inner\">\n\n\n\n\n<div class=\"question\">\n<h2 class=\"question-title\">瞎扯 · 为什么现在菜没有菜味，肉没有肉味，鸡没有鸡味？完全没了小时候的味道？</h2>\n\n<div class=\"answer\">\n\n<div class=\"meta\">\n<img class=\"avatar\" src=\"https://pic1.zhimg.com/v2-fc734cfcc0b308e24640f9b5a2d2316d_l.jpg?source=8673f162\" />\n<span class=\"author\">知乎日报</span>\n<a class=\"originUrl\" hidden=\"\" href=\"https://www.zhihu.com/question/None/answer",
+      "link": "https://daily.zhihu.com/story/9793424",
+      "published": ""
+    },
+    {
+      "source": "知乎热榜",
+      "title": "你认同「国内访古需趁早」这句话吗？",
+      "summary": "<div class=\"main-wrap content-wrap\">\n<div class=\"headline\">\n\n<div class=\"img-place-holder\"></div>\n\n\n\n</div>\n\n<div class=\"content-inner\">\n\n\n\n\n<div class=\"question\">\n<h2 class=\"question-title\">你认同“国内访古需趁早”这句话吗？</h2>\n\n<div class=\"answer\">\n\n<div class=\"meta\">\n<img class=\"avatar\" src=\"https://picx.zhimg.com/v2-4bf1775798df85cb0f0dfec0826a669f_l.jpg?source=8673f162\" />\n<span class=\"author\">禄琳琅，</span><span class=\"bio\">百代之过客</span>\n<a class=\"originUrl\" hidden=\"\" href=\"https://www.zhihu.com/question/192",
+      "link": "https://daily.zhihu.com/story/9793379",
+      "published": ""
+    },
+    {
+      "source": "知乎热榜",
+      "title": "你觉得中国哪里是未来最宜居的地方？",
+      "summary": "<div class=\"main-wrap content-wrap\">\n<div class=\"headline\">\n\n<div class=\"img-place-holder\"></div>\n\n\n\n</div>\n\n<div class=\"content-inner\">\n\n\n\n\n<div class=\"question\">\n<h2 class=\"question-title\"></h2>\n\n<div class=\"answer\">\n\n<div class=\"meta\">\n<img class=\"avatar\" src=\"https://pic1.zhimg.com/v2-d64b6d2687db66787df5aba777742749_l.jpg?source=8673f162\" />\n<span class=\"author\">气象喵探员，</span><span class=\"bio\">点开我的主页你会发现——这个喵纯纯气象迷，除了气象啥也不会~</span>\n<a class=\"originUrl\" hidden=\"\" href=\"https://www.zhihu.com/qu",
+      "link": "https://daily.zhihu.com/story/9793392",
+      "published": ""
+    },
+    {
+      "source": "知乎热榜",
+      "title": "为什么汉服唐制宋制能露锁骨脖子，而明制却裹得一丝不剩？",
+      "summary": "<div class=\"main-wrap content-wrap\">\n<div class=\"headline\">\n\n<div class=\"img-place-holder\"></div>\n\n\n\n</div>\n\n<div class=\"content-inner\">\n\n\n\n\n<div class=\"question\">\n<h2 class=\"question-title\"></h2>\n\n<div class=\"answer\">\n\n<div class=\"meta\">\n<img class=\"avatar\" src=\"https://pic1.zhimg.com/v2-251d2b215f4915804986ca48eaf0cc99_l.jpg?source=8673f162\" />\n<span class=\"author\">槿年，</span><span class=\"bio\">答题姿势总是和别人不太一样</span>\n<a class=\"originUrl\" hidden=\"\" href=\"https://www.zhihu.com/question/395196751/ans",
+      "link": "https://daily.zhihu.com/story/9793387",
+      "published": ""
+    },
+    {
+      "source": "知乎热榜",
+      "title": "瞎扯 · 如何正确地吐槽",
+      "summary": "<div class=\"main-wrap content-wrap\">\n<div class=\"headline\">\n\n<div class=\"img-place-holder\"></div>\n\n\n\n</div>\n\n<div class=\"content-inner\">\n\n\n\n\n<div class=\"question\">\n<h2 class=\"question-title\">瞎扯 · 海绵宝宝有哪些细思恐极的细节？</h2>\n\n<div class=\"answer\">\n\n<div class=\"meta\">\n<img class=\"avatar\" src=\"https://pica.zhimg.com/v2-fc734cfcc0b308e24640f9b5a2d2316d_l.jpg?source=8673f162\" />\n<span class=\"author\">知乎日报</span>\n<a class=\"originUrl\" hidden=\"\" href=\"https://www.zhihu.com/question/None/answer/None\">查看知乎原文</a>\n<",
+      "link": "https://daily.zhihu.com/story/9793399",
+      "published": ""
+    },
+    {
+      "source": "知乎热榜",
+      "title": "年号制度曾在东亚被长期实行，为什么当今除日本以外的其它国家不再使用年号了？",
+      "summary": "<div class=\"main-wrap content-wrap\">\n<div class=\"headline\">\n\n<div class=\"img-place-holder\"></div>\n\n\n\n</div>\n\n<div class=\"content-inner\">\n\n\n\n\n<div class=\"question\">\n<h2 class=\"question-title\"></h2>\n\n<div class=\"answer\">\n\n<div class=\"meta\">\n<img class=\"avatar\" src=\"https://pica.zhimg.com/v2-571144c7e5be56de5addd90c12056267_l.jpg?source=8673f162\" />\n<span class=\"author\">宁南左侯，</span><span class=\"bio\">太极生二姨</span>\n<a class=\"originUrl\" hidden=\"\" href=\"https://www.zhihu.com/question/2034120492668469316",
+      "link": "https://daily.zhihu.com/story/9793342",
+      "published": ""
+    },
+    {
+      "source": "知乎热榜",
+      "title": "现代有哪些小病，在古代却是绝症？",
+      "summary": "<div class=\"main-wrap content-wrap\">\n<div class=\"headline\">\n\n<div class=\"img-place-holder\"></div>\n\n\n\n</div>\n\n<div class=\"content-inner\">\n\n\n\n\n<div class=\"question\">\n<h2 class=\"question-title\"></h2>\n\n<div class=\"answer\">\n\n<div class=\"meta\">\n<img class=\"avatar\" src=\"https://pic1.zhimg.com/v2-ee2b7377bf0a848646bd00c3293a770a_l.jpg?source=8673f162\" />\n<span class=\"author\">Mr深水聊医史，</span><span class=\"bio\">老媒人 书虫 医史研究僧</span>\n<a class=\"originUrl\" hidden=\"\" href=\"https://www.zhihu.com/question/206906142",
+      "link": "https://daily.zhihu.com/story/9793360",
+      "published": ""
+    },
+    {
+      "source": "知乎热榜",
+      "title": "「我」是怎样成为汉语的通行的第一人称的？",
+      "summary": "<div class=\"main-wrap content-wrap\">\n<div class=\"headline\">\n\n<div class=\"img-place-holder\"></div>\n\n\n\n</div>\n\n<div class=\"content-inner\">\n\n\n\n\n<div class=\"question\">\n<h2 class=\"question-title\"></h2>\n\n<div class=\"answer\">\n\n<div class=\"meta\">\n<img class=\"avatar\" src=\"https://picx.zhimg.com/v2-d5585e64098dca47417ac6ff3a523ec7_l.jpg?source=8673f162\" />\n<span class=\"author\">陈麟阁，</span><span class=\"bio\">不要将自己所处的历史的片刻，错当成是永恒。</span>\n<a class=\"originUrl\" hidden=\"\" href=\"https://www.zhihu.com/question/4803",
+      "link": "https://daily.zhihu.com/story/9793351",
+      "published": ""
+    },
+    {
+      "source": "知乎热榜",
+      "title": "瞎扯 · 如何正确地吐槽",
+      "summary": "<div class=\"main-wrap content-wrap\">\n<div class=\"headline\">\n\n<div class=\"img-place-holder\"></div>\n\n\n\n</div>\n\n<div class=\"content-inner\">\n\n\n\n\n<div class=\"question\">\n<h2 class=\"question-title\">瞎扯 · 你认为最失败的标志（ Logo ）设计有哪些？</h2>\n\n<div class=\"answer\">\n\n<div class=\"meta\">\n<img class=\"avatar\" src=\"https://picx.zhimg.com/v2-fc734cfcc0b308e24640f9b5a2d2316d_l.jpg?source=8673f162\" />\n<span class=\"author\">知乎日报</span>\n<a class=\"originUrl\" hidden=\"\" href=\"https://www.zhihu.com/question/None/answer/None\">查看知乎",
+      "link": "https://daily.zhihu.com/story/9793370",
+      "published": ""
+    },
+    {
+      "source": "知乎热榜",
+      "title": "为什么电脑用久了会变得越来越卡顿，其背后的计算机原理是什么？",
+      "summary": "<div class=\"main-wrap content-wrap\">\n<div class=\"headline\">\n\n<div class=\"img-place-holder\"></div>\n\n\n\n</div>\n\n<div class=\"content-inner\">\n\n\n\n\n<div class=\"question\">\n<h2 class=\"question-title\"></h2>\n\n<div class=\"answer\">\n\n<div class=\"meta\">\n<img class=\"avatar\" src=\"https://pica.zhimg.com/v2-4f35c049ff08834452cfe05f10165a56_l.jpg?source=8673f162\" />\n<span class=\"author\">LuciusChthollius，</span><span class=\"bio\">CS @ ETHz | 计算机科学·丹麦语·德语·知识</span>\n<a class=\"originUrl\" hidden=\"\" href=\"https://www.zhih",
+      "link": "https://daily.zhihu.com/story/9793319",
+      "published": ""
+    },
+    {
+      "source": "知乎热榜",
+      "title": "语言学中有哪些类似「哈基米」的现象？",
+      "summary": "<div class=\"main-wrap content-wrap\">\n<div class=\"headline\">\n\n<div class=\"img-place-holder\"></div>\n\n\n\n</div>\n\n<div class=\"content-inner\">\n\n\n\n\n<div class=\"question\">\n<h2 class=\"question-title\"></h2>\n\n<div class=\"answer\">\n\n<div class=\"meta\">\n<img class=\"avatar\" src=\"https://picx.zhimg.com/8a71cb461_l.jpg?source=8673f162\" />\n<span class=\"author\">球滚鸮，</span><span class=\"bio\">只要你染上纵纹腹小鸮或帝企鹅或中华白海豚，你这辈子就完了</span>\n<a class=\"originUrl\" hidden=\"\" href=\"https://www.zhihu.com/question/1924037724484122124/ans",
+      "link": "https://daily.zhihu.com/story/9793332",
+      "published": ""
+    },
+    {
+      "source": "知乎热榜",
+      "title": "为什么有些博物馆不允许使用闪光灯拍照？",
+      "summary": "<div class=\"main-wrap content-wrap\">\n<div class=\"headline\">\n\n<div class=\"img-place-holder\"></div>\n\n\n\n</div>\n\n<div class=\"content-inner\">\n\n\n\n\n<div class=\"question\">\n<h2 class=\"question-title\"></h2>\n\n<div class=\"answer\">\n\n<div class=\"meta\">\n<img class=\"avatar\" src=\"https://pic1.zhimg.com/v2-aeecc41b59b553adc7f4ea5003d25805_l.jpg?source=8673f162\" />\n<span class=\"author\">Anon，</span><span class=\"bio\">傻狗</span>\n<a class=\"originUrl\" hidden=\"\" href=\"https://www.zhihu.com/question/2078076284068950983/an",
+      "link": "https://daily.zhihu.com/story/9793330",
+      "published": ""
+    },
+    {
+      "source": "知乎热榜",
+      "title": "中国古代历史上为什么很少有像近现代欧洲石制教堂宫殿这样高大宏伟的建筑？",
+      "summary": "<div class=\"main-wrap content-wrap\">\n<div class=\"headline\">\n\n<div class=\"img-place-holder\"></div>\n\n\n\n</div>\n\n<div class=\"content-inner\">\n\n\n\n\n<div class=\"question\">\n<h2 class=\"question-title\"></h2>\n\n<div class=\"answer\">\n\n<div class=\"meta\">\n<img class=\"avatar\" src=\"https://picx.zhimg.com/v2-c9ba36c6d434790328dfc286da04d9bc_l.jpg?source=8673f162\" />\n<span class=\"author\">子木年华，</span><span class=\"bio\">不知不觉，成了炸鱼专业户</span>\n<a class=\"originUrl\" hidden=\"\" href=\"https://www.zhihu.com/question/20541177/ans",
+      "link": "https://daily.zhihu.com/story/9793322",
+      "published": ""
+    },
+    {
+      "source": "知乎热榜",
+      "title": "动物它们平时在休息，或者在发呆的时候，它们都在想什么问题？会像我们人类一样为了生存思考各种问题吗？",
+      "summary": "<div class=\"main-wrap content-wrap\">\n<div class=\"headline\">\n\n<div class=\"img-place-holder\"></div>\n\n\n\n</div>\n\n<div class=\"content-inner\">\n\n\n\n\n<div class=\"question\">\n<h2 class=\"question-title\"></h2>\n\n<div class=\"answer\">\n\n<div class=\"meta\">\n<img class=\"avatar\" src=\"https://picx.zhimg.com/v2-b6e35fd79fc1349815c87d30842ac2c3_l.jpg?source=8673f162\" />\n<span class=\"author\">云杉，</span><span class=\"bio\">知乎遗风，科研工作者，文理双修的战士。</span>\n<a class=\"originUrl\" hidden=\"\" href=\"https://www.zhihu.com/question/2088471",
+      "link": "https://daily.zhihu.com/story/9793307",
+      "published": ""
+    },
+    {
+      "source": "知乎热榜",
+      "title": "既然国人嫌弃月饼高油高糖，为啥不把月饼出口到喜爱糖油混合物的美国呢？",
+      "summary": "<div class=\"main-wrap content-wrap\">\n<div class=\"headline\">\n\n<div class=\"img-place-holder\"></div>\n\n\n\n</div>\n\n<div class=\"content-inner\">\n\n\n\n\n<div class=\"question\">\n<h2 class=\"question-title\"></h2>\n\n<div class=\"answer\">\n\n<div class=\"meta\">\n<img class=\"avatar\" src=\"https://picx.zhimg.com/v2-f6fc5bd1779c092ddbd08cec8a1d270e_l.jpg?source=8673f162\" />\n<span class=\"author\">也说，</span><span class=\"bio\">一二三聊职场，四五六谈感情。</span>\n<a class=\"originUrl\" hidden=\"\" href=\"https://www.zhihu.com/question/208427098384",
+      "link": "https://daily.zhihu.com/story/9793300",
+      "published": ""
+    },
+    {
+      "source": "知乎热榜",
+      "title": "历史上谁曾经成功潜入过皇宫？",
+      "summary": "<div class=\"main-wrap content-wrap\">\n<div class=\"headline\">\n\n<div class=\"img-place-holder\"></div>\n\n\n\n</div>\n\n<div class=\"content-inner\">\n\n\n\n\n<div class=\"question\">\n<h2 class=\"question-title\"></h2>\n\n<div class=\"answer\">\n\n<div class=\"meta\">\n<img class=\"avatar\" src=\"https://picx.zhimg.com/v2-727eddbae249efa92611180292220cd7_l.jpg?source=8673f162\" />\n<span class=\"author\">赵学浩，</span><span class=\"bio\">东亚海域史/都市传说/未解之谜/太阳系第一帅</span>\n<a class=\"originUrl\" hidden=\"\" href=\"https://www.zhihu.com/question/278",
+      "link": "https://daily.zhihu.com/story/9793275",
+      "published": ""
+    },
+    {
+      "source": "知乎热榜",
+      "title": "「国之大者，在祀与戎」，为什么祭祀能和战争并列成为国家大事？",
+      "summary": "<div class=\"main-wrap content-wrap\">\n<div class=\"headline\">\n\n<div class=\"img-place-holder\"></div>\n\n\n\n</div>\n\n<div class=\"content-inner\">\n\n\n\n\n<div class=\"question\">\n<h2 class=\"question-title\">“国之大者，在祀与戎”，为什么祭祀能和战争并列成为国家大事？</h2>\n\n<div class=\"answer\">\n\n<div class=\"meta\">\n<img class=\"avatar\" src=\"https://pic1.zhimg.com/v2-c29bbe40bc262aba0f1475078edbe405_l.jpg?source=8673f162\" />\n<span class=\"author\">冯素文</span>\n<a class=\"originUrl\" hidden=\"\" href=\"https://www.zhihu.com/question/2090829194229965121/a",
+      "link": "https://daily.zhihu.com/story/9793282",
+      "published": ""
+    },
+    {
+      "source": "B站热门",
+      "title": "《三角洲行动》新干员档案：维罗妮卡·卡尔多佐—代号野火",
+      "summary": "维罗妮卡·卡尔多佐，代号野火，兵种突击。\n野火曾通过当地特种部队的选拔，成为了一名优秀的破门手，作战经验丰富。\n野火可快速投掷一枚延迟引爆的手雷，掩护自身抢占有利位置。其肩载式烟雾发射器，可向指定方向投放烟雾弹，形成局部烟幕或中空的环形烟幕。配合盾式破障器，在敌方视野受阻时迅速突袭，冲锋撞击敌方目标。同时，盾式破障器可以帮助野火破门而入，甚至对载具也具备一定的破坏能力。",
+      "link": "https://b23.tv/BV1NxnJ6SE4G"
     },
     {
       "source": "B站热门",
@@ -376,21 +914,27 @@
     },
     {
       "source": "B站热门",
+      "title": "大难不死的男孩爱上纯血家族的女孩【AI全民制作人】",
+      "summary": "",
+      "link": "https://b23.tv/BV1bKnw6zEsV"
+    },
+    {
+      "source": "B站热门",
+      "title": "【抢先看】《裁员裁到大动脉》｜我宣布这是2026最解气职场爽剧！当年全员抢我功劳压我晋升，我离职后，全公司集体翻车崩盘！",
+      "summary": "【抢先看】《裁员裁到大动脉》｜我宣布这是2026最解气职场爽剧！当年全员抢我功劳压我晋升，我离职后，全公司集体翻车崩盘！",
+      "link": "https://b23.tv/BV1pQJ26XEye"
+    },
+    {
+      "source": "B站热门",
       "title": "PCL出事了？那MC下载和联机，我们先顶上了",
       "summary": "外星仔联机助手群：1105369495\n\n流量来！🖐️️😡🤚流量来！🖐️️😡🤚\n流量来！🖐️️😡🤚流量来！🖐️️😡🤚\n流量来！🖐️️😡🤚流量来！🖐️️😡🤚\n流量来！🖐️️😡🤚流量来！🖐️️😡🤚\n流量来！🖐️️😡🤚流量来！🖐️️😡🤚\n流量来！🖐️️😡🤚流量来！🖐️️😡🤚\n流量来！🖐️️😡🤚流量来！🖐️️😡🤚\n流量来！🖐️️😡🤚流量来！🖐️️😡🤚\n流量来！🖐️️😡🤚流量来！🖐️️😡🤚\n流量来！🖐️️😡🤚流量来！🖐️️😡🤚",
       "link": "https://b23.tv/BV1nCnA6AEYB"
     },
     {
       "source": "B站热门",
-      "title": "《绝区零》菲欧妮EP | 1% Battery Girl 低电量女孩",
-      "summary": "我是个低电量女孩\n残血状态 一格电量\n人生真是漫长…\n人生又很苦短…\n我需要充电\n如果你也电量告急\n就让我与你相伴\n \n▼ 制作名单\n音乐制作：ChiliChill乐团\n作曲：ChiliChill乐团\n作词：ChiliChill乐团\n演唱：ChiliChill乐团\n母带：Ted Jenson\n弦乐监制：胡静成\n弦乐演奏：国际首席爱乐乐团\n弦乐录音：王小四 @ 金田录音棚\n \n—— 欢迎来到罗斯凯利法！——\n▼《绝区零》3.3版本「重返天空的旅程」将于10月21日上线！\n版本期间，参与活动可免费领取妄想天使",
-      "link": "https://b23.tv/BV1SknF6KE5g"
-    },
-    {
-      "source": "B站热门",
-      "title": "超强台风来了：狂风暴雨将袭华东多省，大暴雪和寒潮逼近新疆",
-      "summary": "在强大的冷空气影响下，这两天北方寒意明显。譬如说北京，10月20日这里一整天都是冷风冷雨，穿秋装显然是不行了，10月21日早晨这里更是还会逼近0度，是真正的冬天体感了，长江流域也在持续两天的阴雨中明显降温。但正如我们之前节目所说，即使是这么强大的冷空气，也没能穿透强盛副高的护甲，没能把暖湿气流赶下海。10月20日下午江南华南依然大范围炎热，浙江江西福建广东广西都超过35度，浙江丽水武义、福建闽清、广东丰顺连州刷新最晚高温日纪录，浙江还刷新了去年刚创下的全省最晚高温纪录。\n实际上，不仅我国陆地上暖，海洋上也",
-      "link": "https://b23.tv/BV1FKnA6bEAu"
+      "title": "揭秘新兴赛博生意：谁在给机器人“卖命”？【晚点LatePost】",
+      "summary": "机器人还没真正替代人，一门“给机器人打工”的生意先火了起来——机器人数据采集。这场赛博淘金热背后，谁在赚钱，谁又被重新标价？我们访谈多位从业者，揭秘数采行业的内幕，还原热潮中的乱象。",
+      "link": "https://b23.tv/BV1V9J46SEd9"
     },
     {
       "source": "B站热门",
@@ -400,21 +944,27 @@
     },
     {
       "source": "B站热门",
+      "title": "今天吃红糖糍粑",
+      "summary": "-",
+      "link": "https://b23.tv/BV1bwnF6eEYV"
+    },
+    {
+      "source": "B站热门",
       "title": "社交媒体世界大战：泰韩法巴西已加入抗日全球统一战线",
       "summary": "",
       "link": "https://b23.tv/BV1AJnP6BEsa"
     },
     {
       "source": "B站热门",
-      "title": "爱上纯血世家女孩的混血男孩【AI全民制作人】",
-      "summary": "",
-      "link": "https://b23.tv/BV1bKnw6zEsV"
+      "title": "财神窦占龙 第12集 宿仇【8月国创】",
+      "summary": "窦占龙落脚杆子帮，江底救黑鱼化解鳇鱼祭危机",
+      "link": "https://b23.tv/BV1UbJ96DEbP"
     },
     {
       "source": "B站热门",
-      "title": "法国影响力最大的八卦是什么？【神奇组织56】",
-      "summary": "本篇为神奇组织之卡约夫人案。",
-      "link": "https://b23.tv/BV1Vbnn6iEfG"
+      "title": "南京人披旭日旗挑衅，莫大校友透露朋友圈内容，发现事情并不简单",
+      "summary": "南京人披旭日旗挑衅，莫大校友透露朋友圈内容，发现事情并不简单\n\n事件：莫斯科大学中国留学生课堂身披旭日旗，校方启动调查\n来源媒体：观察者网 / 南方都市报（南都N视频）\n文章标题：中国留学生在课堂身披旭日旗，莫斯科大学中国学联：校方已启动调查\n发布日期：2026-10-18\n备注：莫斯科大学中国学生学者联谊会10月17日发布情况通报，校方明确表示该行为“严重违背学校育人理念、扰乱校园教学秩序”，已正式启动校内调查程序，将于近期发布处理结果。学联第一时间将事件经过、完整证据及沟通进展汇报至中国驻俄使馆教育处",
+      "link": "https://b23.tv/BV1NLnP63EvS"
     },
     {
       "source": "B站热门",
@@ -424,9 +974,9 @@
     },
     {
       "source": "B站热门",
-      "title": "财神窦占龙 第12集 宿仇【8月国创】",
-      "summary": "窦占龙落脚杆子帮，江底救黑鱼化解鳇鱼祭危机",
-      "link": "https://b23.tv/BV1UbJ96DEbP"
+      "title": "《绝区零》菲欧妮EP | 1% Battery Girl 低电量女孩",
+      "summary": "我是个低电量女孩\n残血状态 一格电量\n人生真是漫长…\n人生又很苦短…\n我需要充电\n如果你也电量告急\n就让我与你相伴\n \n▼ 制作名单\n音乐制作：ChiliChill乐团\n作曲：ChiliChill乐团\n作词：ChiliChill乐团\n演唱：ChiliChill乐团\n母带：Ted Jenson\n弦乐监制：胡静成\n弦乐演奏：国际首席爱乐乐团\n弦乐录音：王小四 @ 金田录音棚\n \n—— 欢迎来到罗斯凯利法！——\n▼《绝区零》3.3版本「重返天空的旅程」将于10月21日上线！\n版本期间，参与活动可免费领取妄想天使",
+      "link": "https://b23.tv/BV1SknF6KE5g"
     },
     {
       "source": "B站热门",
@@ -442,15 +992,9 @@
     },
     {
       "source": "B站热门",
-      "title": "今天吃红糖糍粑",
-      "summary": "-",
-      "link": "https://b23.tv/BV1bwnF6eEYV"
-    },
-    {
-      "source": "B站热门",
-      "title": "拒之门外",
-      "summary": "-",
-      "link": "https://b23.tv/BV1J2nA6cEjE"
+      "title": "谁拍的，到底谁拍的！",
+      "summary": "刘晓艳渲染大赛",
+      "link": "https://b23.tv/BV1v3nc6jEiV"
     },
     {
       "source": "B站热门",
@@ -460,39 +1004,21 @@
     },
     {
       "source": "B站热门",
-      "title": "教妹妹开车，用我的声音，我成功了！",
-      "summary": "教妹妹开车，用我的声音，我通关了测试版！\n游戏：Teach My Little Sister How to Drive",
-      "link": "https://b23.tv/BV1YmnJ6eEKE"
+      "title": "法国影响力最大的八卦是什么？【神奇组织56】",
+      "summary": "本篇为神奇组织之卡约夫人案。",
+      "link": "https://b23.tv/BV1Vbnn6iEfG"
     },
     {
       "source": "B站热门",
-      "title": "南京人披旭日旗挑衅，莫大校友透露朋友圈内容，发现事情并不简单",
-      "summary": "南京人披旭日旗挑衅，莫大校友透露朋友圈内容，发现事情并不简单\n\n事件：莫斯科大学中国留学生课堂身披旭日旗，校方启动调查\n来源媒体：观察者网 / 南方都市报（南都N视频）\n文章标题：中国留学生在课堂身披旭日旗，莫斯科大学中国学联：校方已启动调查\n发布日期：2026-10-18\n备注：莫斯科大学中国学生学者联谊会10月17日发布情况通报，校方明确表示该行为“严重违背学校育人理念、扰乱校园教学秩序”，已正式启动校内调查程序，将于近期发布处理结果。学联第一时间将事件经过、完整证据及沟通进展汇报至中国驻俄使馆教育处",
-      "link": "https://b23.tv/BV1NLnP63EvS"
+      "title": "失望至极！为什么《边缘行者2》如此差劲……",
+      "summary": "我看完了边缘行者2 感觉……不如纵横银河！",
+      "link": "https://b23.tv/BV1FNnA6FENr"
     },
     {
       "source": "B站热门",
-      "title": "【萌黄一槽】萌到你了真是抱歉！风祭萌黄[古堡奇遇]全技能爆料",
-      "summary": "biubiubiu！",
-      "link": "https://b23.tv/BV1gTnP62EEY"
-    },
-    {
-      "source": "B站热门",
-      "title": "《鸣潮》共鸣者「锁暝」PV | 契阔",
-      "summary": "“此道，孤身难行，\n所以......且再陪我多走一程吧。”\n\n中文CV \n锁暝：葛子瑞\n蛇菰：卢晓彤\n九契：万舒心\n\n日文CV \n锁暝：大久保瑠美\n蛇菰：寺依沙织\n九契：百富芽衣\n\n英文CV \n锁暝：Miracle Chance\n蛇菰：Haruka Kuroda\n九契：Aisha Goodman\n\n韩文CV \n锁暝：손정민\n蛇菰：임옥균\n九契：정해은",
-      "link": "https://b23.tv/BV1R8nF65Eme"
-    },
-    {
-      "source": "B站热门",
-      "title": "最后警告：人类历史上最大的泡沫，即将破裂",
-      "summary": "",
-      "link": "https://b23.tv/BV143nw6KExV"
-    },
-    {
-      "source": "抖音热搜",
-      "title": "南部战区回应美舰冲闯中国海域",
-      "summary": 1792473067,
-      "link": "https://www.douyin.com/search/南部战区回应美舰冲闯中国海域"
+      "title": "抽象历史人物志——张作霖",
+      "summary": "很难评价的一个人，也是可以开两期的，但人物太敏感，就简单说下吧",
+      "link": "https://b23.tv/BV1Whnc6YEdq"
     },
     {
       "source": "抖音热搜",
@@ -502,27 +1028,33 @@
     },
     {
       "source": "抖音热搜",
-      "title": "同心同行长征路",
-      "summary": 1792500647,
-      "link": "https://www.douyin.com/search/同心同行长征路"
+      "title": "NBA揭幕战76人击败尼克斯",
+      "summary": 1792540744,
+      "link": "https://www.douyin.com/search/NBA揭幕战76人击败尼克斯"
     },
     {
       "source": "抖音热搜",
-      "title": "海事局发布多海域航行警告",
-      "summary": 1792484206,
-      "link": "https://www.douyin.com/search/海事局发布多海域航行警告"
+      "title": "中国经济新动能孕育新机遇",
+      "summary": 1792486037,
+      "link": "https://www.douyin.com/search/中国经济新动能孕育新机遇"
     },
     {
       "source": "抖音热搜",
-      "title": "国家数据集团成立",
-      "summary": 1792492770,
-      "link": "https://www.douyin.com/search/国家数据集团成立"
+      "title": "全国已开始进入赏秋模式",
+      "summary": 1792509227,
+      "link": "https://www.douyin.com/search/全国已开始进入赏秋模式"
     },
     {
       "source": "抖音热搜",
-      "title": "王者根本没有这样的共鸣之战",
-      "summary": 1792475825,
-      "link": "https://www.douyin.com/search/王者根本没有这样的共鸣之战"
+      "title": "当初雪落在大同古城",
+      "summary": 1792490417,
+      "link": "https://www.douyin.com/search/当初雪落在大同古城"
+    },
+    {
+      "source": "抖音热搜",
+      "title": "国内黄金克价跌破890元",
+      "summary": 1792549741,
+      "link": "https://www.douyin.com/search/国内黄金克价跌破890元"
     },
     {
       "source": "抖音热搜",
@@ -532,15 +1064,51 @@
     },
     {
       "source": "抖音热搜",
-      "title": "绝美旗袍可可妆",
-      "summary": 1792475936,
-      "link": "https://www.douyin.com/search/绝美旗袍可可妆"
+      "title": "国家数据集团成立",
+      "summary": 1792492770,
+      "link": "https://www.douyin.com/search/国家数据集团成立"
     },
     {
       "source": "抖音热搜",
-      "title": "当初雪落在大同古城",
-      "summary": 1792490417,
-      "link": "https://www.douyin.com/search/当初雪落在大同古城"
+      "title": "雷霆对阵马刺打出梦幻开局",
+      "summary": 1792553587,
+      "link": "https://www.douyin.com/search/雷霆对阵马刺打出梦幻开局"
+    },
+    {
+      "source": "抖音热搜",
+      "title": "NBA活塞121:113逆转凯尔特人",
+      "summary": 1792538069,
+      "link": "https://www.douyin.com/search/NBA活塞121:113逆转凯尔特人"
+    },
+    {
+      "source": "抖音热搜",
+      "title": "NBA揭幕战马刺雷霆爆发冲突",
+      "summary": 1792555330,
+      "link": "https://www.douyin.com/search/NBA揭幕战马刺雷霆爆发冲突"
+    },
+    {
+      "source": "抖音热搜",
+      "title": "医学生锐评offer8",
+      "summary": 1792485713,
+      "link": "https://www.douyin.com/search/医学生锐评offer8"
+    },
+    {
+      "source": "抖音热搜",
+      "title": "巴黎4:2巴萨",
+      "summary": 1792538164,
+      "link": "https://www.douyin.com/search/巴黎4:2巴萨"
+    },
+    {
+      "source": "抖音热搜",
+      "title": "KDA新歌神之八秒",
+      "summary": 1792469651,
+      "link": "https://www.douyin.com/search/KDA新歌神之八秒"
+    },
+    {
+      "source": "抖音热搜",
+      "title": "小城良方开播",
+      "summary": 1792551302,
+      "link": "https://www.douyin.com/search/小城良方开播"
     },
     {
       "source": "抖音热搜",
@@ -556,9 +1124,9 @@
     },
     {
       "source": "抖音热搜",
-      "title": "秋冬显腿细靴子测评",
-      "summary": 1792489521,
-      "link": "https://www.douyin.com/search/秋冬显腿细靴子测评"
+      "title": "瞬移滑镜慢动作挑战",
+      "summary": 1792553086,
+      "link": "https://www.douyin.com/search/瞬移滑镜慢动作挑战"
     },
     {
       "source": "抖音热搜",
@@ -568,45 +1136,51 @@
     },
     {
       "source": "抖音热搜",
-      "title": "KDA新歌神之八秒",
-      "summary": 1792469651,
-      "link": "https://www.douyin.com/search/KDA新歌神之八秒"
+      "title": "冬天第一串车厘子糖葫芦",
+      "summary": 1792551699,
+      "link": "https://www.douyin.com/search/冬天第一串车厘子糖葫芦"
     },
     {
-      "source": "抖音热搜",
-      "title": "我关注的中国设计师都在抖音大秀",
-      "summary": 1792396865,
-      "link": "https://www.douyin.com/search/我关注的中国设计师都在抖音大秀"
+      "source": "丁香园",
+      "title": "一张处方背后的安全线：循上鹏瑞利医院处方点评专项行动启动 - 丁香园",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiV0FVX3lxTFBCaUdMNEQ4NUgwMFR1Q1NYVkF0cEFINXhHSVduSTRTMEVXcGVjY2lVeXU3N1Y5dGl0WnhlU1BWM2tibHlrNlhhYXpDNnR5b1VoNHZBZGVPWQ?oc=5\" target=\"_blank\">一张处方背后的安全线：循上鹏瑞利医院处方点评专项行动启动</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">丁香园</font>",
+      "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBCaUdMNEQ4NUgwMFR1Q1NYVkF0cEFINXhHSVduSTRTMEVXcGVjY2lVeXU3N1Y5dGl0WnhlU1BWM2tibHlrNlhhYXpDNnR5b1VoNHZBZGVPWQ?oc=5",
+      "published": "Wed, 21 Oct 2026 02:56:05 GMT"
     },
     {
-      "source": "抖音热搜",
-      "title": "赖岳谦解读黄海南部47天实弹射击",
-      "summary": 1792483322,
-      "link": "https://www.douyin.com/search/赖岳谦解读黄海南部47天实弹射击"
+      "source": "丁香园",
+      "title": "【健康科普】秋冬季呼吸道传染病防控提示 - 丁香园",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiVkFVX3lxTE1VQ25QWUgxTmQ5ZFFVcTRPYk9ERHJuaVBldjZ0NWNISURRMG5VQ2JQWlBnMUhCRmVnR0lLbFdfOExkdWl4MlZOUThtRi1wY2h4NGVYUmt3?oc=5\" target=\"_blank\">【健康科普】秋冬季呼吸道传染病防控提示</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">丁香园</font>",
+      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1VQ25QWUgxTmQ5ZFFVcTRPYk9ERHJuaVBldjZ0NWNISURRMG5VQ2JQWlBnMUhCRmVnR0lLbFdfOExkdWl4MlZOUThtRi1wY2h4NGVYUmt3?oc=5",
+      "published": "Wed, 21 Oct 2026 04:08:43 GMT"
     },
     {
-      "source": "抖音热搜",
-      "title": "火影手游古堡萌黄全技能爆料",
-      "summary": 1792498144,
-      "link": "https://www.douyin.com/search/火影手游古堡萌黄全技能爆料"
+      "source": "丁香园",
+      "title": "戴固定牙套，口腔卫生千万别忽视！ - 丁香园",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiVEFVX3lxTE9KT28xcEFka3hRd0lxVXpzeXJGajAyNVJ2NVVzcTJCbmpPQ1RHeGFIY3VDVWtRMHJiTmVXZThkNXBYcVhfUlh1ZGlKLUw3VGxlcjVENw?oc=5\" target=\"_blank\">戴固定牙套，口腔卫生千万别忽视！</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">丁香园</font>",
+      "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9KT28xcEFka3hRd0lxVXpzeXJGajAyNVJ2NVVzcTJCbmpPQ1RHeGFIY3VDVWtRMHJiTmVXZThkNXBYcVhfUlh1ZGlKLUw3VGxlcjVENw?oc=5",
+      "published": "Wed, 21 Oct 2026 02:56:07 GMT"
     },
     {
-      "source": "抖音热搜",
-      "title": "医学生锐评offer8",
-      "summary": 1792485713,
-      "link": "https://www.douyin.com/search/医学生锐评offer8"
+      "source": "丁香园",
+      "title": "2026年苏州麻醉新进展学习班暨苏州非公麻醉专委会换届大会圆满落幕，我院麻醉科张建欣主任当选新一届主任委员 - 丁香园",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiVEFVX3lxTE8tTm4ydFgtVHMyNHZoNGdBbFBoZ0psUW1GdVBSYU0zN0k5ekxMdGFRQWxweHBMMXFpWmdmZEROcmlTQ21mUmRsY3pTYmtvR0xxSDAwcg?oc=5\" target=\"_blank\">2026年苏州麻醉新进展学习班暨苏州非公麻醉专委会换届大会圆满落幕，我院麻醉科张建欣主任当选新一届主任委员</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">丁香园</font>",
+      "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE8tTm4ydFgtVHMyNHZoNGdBbFBoZ0psUW1GdVBSYU0zN0k5ekxMdGFRQWxweHBMMXFpWmdmZEROcmlTQ21mUmRsY3pTYmtvR0xxSDAwcg?oc=5",
+      "published": "Wed, 21 Oct 2026 03:54:38 GMT"
     },
     {
-      "source": "抖音热搜",
-      "title": "刘晓艳郑马名场面渲染大赛",
-      "summary": 1792482145,
-      "link": "https://www.douyin.com/search/刘晓艳郑马名场面渲染大赛"
+      "source": "雪球热帖",
+      "title": "郭姓股民向京城股份发起索赔 赵敬国律师接受咨询 - 新浪财经",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMihgFBVV95cUxQLXdlQm16N25LaEEtSmhNRERXV3FIeXFkYlhqYzM1RU5RUjBscElpTzFWUDRyV3pJaEVLOUdleDZLamtXcVk0UnpsQ2NFQlQtb04wZjJaSjRncFVqMnlJWF9jNi1hV2xDTjZDdGlnSm1lclB3RWlqdnBmVVAzdDg2V1NsM00wZw?oc=5\" target=\"_blank\">郭姓股民向京城股份发起索赔 赵敬国律师接受咨询</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">新浪财经</font>",
+      "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQLXdlQm16N25LaEEtSmhNRERXV3FIeXFkYlhqYzM1RU5RUjBscElpTzFWUDRyV3pJaEVLOUdleDZLamtXcVk0UnpsQ2NFQlQtb04wZjJaSjRncFVqMnlJWF9jNi1hV2xDTjZDdGlnSm1lclB3RWlqdnBmVVAzdDg2V1NsM00wZw?oc=5",
+      "published": "Wed, 21 Oct 2026 03:58:47 GMT"
     },
     {
-      "source": "抖音热搜",
-      "title": "长今你在工作里加了什么啊",
-      "summary": 1792464322,
-      "link": "https://www.douyin.com/search/长今你在工作里加了什么啊"
+      "source": "雪球热帖",
+      "title": "黄山谷捷跌2.11%，成交额630.93万元，主力资金净流出8.94万元 - 新浪财经",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMijAFBVV95cUxQcjFJUTlqU3FmMkR3dE92bmhSZTVHWjdaTXlDTXhRdGlBMmtYeDdyTndFcDFnc0I0OHVjUEdMSlhLcG5jbUNzSWQtcHQ0Smp3TEM4S1BLTmQ0OWJDdTFVZUFjNVktc0ZoMERkNmlkdzhGUTc5WUVUSUpKMU9JVXB5bW5tVGt5aEVNMXhJbA?oc=5\" target=\"_blank\">黄山谷捷跌2.11%，成交额630.93万元，主力资金净流出8.94万元</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">新浪财经</font>",
+      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQcjFJUTlqU3FmMkR3dE92bmhSZTVHWjdaTXlDTXhRdGlBMmtYeDdyTndFcDFnc0I0OHVjUEdMSlhLcG5jbUNzSWQtcHQ0Smp3TEM4S1BLTmQ0OWJDdTFVZUFjNVktc0ZoMERkNmlkdzhGUTc5WUVUSUpKMU9JVXB5bW5tVGt5aEVNMXhJbA?oc=5",
+      "published": "Wed, 21 Oct 2026 03:05:12 GMT"
     },
     {
       "source": "雪球热帖",
@@ -617,10 +1191,24 @@
     },
     {
       "source": "雪球热帖",
+      "title": "IAUX收涨0.67%，成交额984.12万美元 - 新浪财经",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMijgFBVV95cUxPdm9xUTFxdnFRcGZWOGkyR2J3TW40cFNkcTZxOFNPQkVoLUUxUWlVSlZ5UElmb29sN1pxTkNUVTdtRzdLcUV6b1FBUmtTUzV0bDhIUXhzTTJkRTl3RF9LXzZKckdjM0tqM2NYS2xqUkM2NzhfWlcwREFYbDF4SURodWRrVTZnVmZfRXFteXFn?oc=5\" target=\"_blank\">IAUX收涨0.67%，成交额984.12万美元</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">新浪财经</font>",
+      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPdm9xUTFxdnFRcGZWOGkyR2J3TW40cFNkcTZxOFNPQkVoLUUxUWlVSlZ5UElmb29sN1pxTkNUVTdtRzdLcUV6b1FBUmtTUzV0bDhIUXhzTTJkRTl3RF9LXzZKckdjM0tqM2NYS2xqUkM2NzhfWlcwREFYbDF4SURodWRrVTZnVmZfRXFteXFn?oc=5",
+      "published": "Tue, 20 Oct 2026 21:40:11 GMT"
+    },
+    {
+      "source": "雪球热帖",
       "title": "SPDR S&P 500 Growth ETF收跌0.16%，成交额4.14亿美元 - 新浪财经",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMijgFBVV95cUxQQmlhTkFzMWRVWlVRVE1xMEpQc0I2OTRfZUxjNW1leWVXTHNkVkFRWGxwTHZuX3dEQWkzSGdnUlFvQXM4ckRNaXdJNG9MdEtaM3FfcmRncXdTaGhWempONWZoR0xOUnJDYi16TEVpbXJ2YkU3dEVSYkQyTDNxTG5Gd0hFWjZidXY1X0xMNkFn?oc=5\" target=\"_blank\">SPDR S&amp;P 500 Growth ETF收跌0.16%，成交额4.14亿美元</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">新浪财经</font>",
       "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQQmlhTkFzMWRVWlVRVE1xMEpQc0I2OTRfZUxjNW1leWVXTHNkVkFRWGxwTHZuX3dEQWkzSGdnUlFvQXM4ckRNaXdJNG9MdEtaM3FfcmRncXdTaGhWempONWZoR0xOUnJDYi16TEVpbXJ2YkU3dEVSYkQyTDNxTG5Gd0hFWjZidXY1X0xMNkFn?oc=5",
       "published": "Tue, 20 Oct 2026 20:37:11 GMT"
+    },
+    {
+      "source": "雪球热帖",
+      "title": "港股异动| 信达生物(01801)涨超3% IBI3003临床数据验证MM TCE领先地位已在中国推进III期注册研究 - 新浪财经",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMilgFBVV95cUxPOUVqdE5hVlVsczA0UUpIYzdZZEFSV3pFeWUtZnppMzM2S3JZNHY3VzRTSWtQUGxWRnVCcC1FbGRRbXVYV0NBQVVHeHBfU01zY0l0TTdGV1BuSm1VU0IwVU9SbnItU3BxVzRxdUFUdUplblAtNzlrOWR0OEkzU1JQdDBBMVBKN3l5cHFEekNkQWc5NEp6RGc?oc=5\" target=\"_blank\">港股异动| 信达生物(01801)涨超3% IBI3003临床数据验证MM TCE领先地位已在中国推进III期注册研究</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">新浪财经</font>",
+      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPOUVqdE5hVlVsczA0UUpIYzdZZEFSV3pFeWUtZnppMzM2S3JZNHY3VzRTSWtQUGxWRnVCcC1FbGRRbXVYV0NBQVVHeHBfU01zY0l0TTdGV1BuSm1VU0IwVU9SbnItU3BxVzRxdUFUdUplblAtNzlrOWR0OEkzU1JQdDBBMVBKN3l5cHFEekNkQWc5NEp6RGc?oc=5",
+      "published": "Wed, 21 Oct 2026 03:11:03 GMT"
     },
     {
       "source": "雪球热帖",
@@ -631,24 +1219,24 @@
     },
     {
       "source": "雪球热帖",
-      "title": "IAUX收涨0.67%，成交额984.12万美元 - 新浪财经",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMijgFBVV95cUxPdm9xUTFxdnFRcGZWOGkyR2J3TW40cFNkcTZxOFNPQkVoLUUxUWlVSlZ5UElmb29sN1pxTkNUVTdtRzdLcUV6b1FBUmtTUzV0bDhIUXhzTTJkRTl3RF9LXzZKckdjM0tqM2NYS2xqUkM2NzhfWlcwREFYbDF4SURodWRrVTZnVmZfRXFteXFn?oc=5\" target=\"_blank\">IAUX收涨0.67%，成交额984.12万美元</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">新浪财经</font>",
-      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPdm9xUTFxdnFRcGZWOGkyR2J3TW40cFNkcTZxOFNPQkVoLUUxUWlVSlZ5UElmb29sN1pxTkNUVTdtRzdLcUV6b1FBUmtTUzV0bDhIUXhzTTJkRTl3RF9LXzZKckdjM0tqM2NYS2xqUkM2NzhfWlcwREFYbDF4SURodWRrVTZnVmZfRXFteXFn?oc=5",
-      "published": "Tue, 20 Oct 2026 21:40:11 GMT"
+      "title": "SK海力士收跌2.16%，成交额20.79亿美元 - 新浪财经",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMijgFBVV95cUxQV3RUbmZ5TlBWa0pUN1pXTUtIel84cGJEM1M5M0RQSU1kUTdtZ2xJYjN5WlJoMzh3VVhKdWtHWXZuUU96bzNxbE5WaUh2OXdxNDJyN3FLSmlYSFlpTGR3Q2QxUVBzZDQ5MmU1VVB2dTI5XzVrSGNEc2J4QXJ6eEFXQTF5RXNjZlRjOFhSbW93?oc=5\" target=\"_blank\">SK海力士收跌2.16%，成交额20.79亿美元</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">新浪财经</font>",
+      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQV3RUbmZ5TlBWa0pUN1pXTUtIel84cGJEM1M5M0RQSU1kUTdtZ2xJYjN5WlJoMzh3VVhKdWtHWXZuUU96bzNxbE5WaUh2OXdxNDJyN3FLSmlYSFlpTGR3Q2QxUVBzZDQ5MmU1VVB2dTI5XzVrSGNEc2J4QXJ6eEFXQTF5RXNjZlRjOFhSbW93?oc=5",
+      "published": "Tue, 20 Oct 2026 20:30:20 GMT"
     },
     {
       "source": "雪球热帖",
-      "title": "哈克特服务收涨4.96%，成交额281.75万美元 - 新浪财经",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMijgFBVV95cUxOd2xRUVNYYm05ZFktWmFEc0FCUi1YUjd3bHVYalpzSVlRazJvMkxxVzJxU0hHNXNXOWpISGpIWUZsZjF6V0ZmenllMUwwSXBRcW9WdW5DblNqcWhlTFRzQXV6aFdieGMyZURYUVBscDJLaXlJMTMtejNLSWEzSXJXaXJydmtVS1dmOXRMZDRB?oc=5\" target=\"_blank\">哈克特服务收涨4.96%，成交额281.75万美元</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">新浪财经</font>",
-      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOd2xRUVNYYm05ZFktWmFEc0FCUi1YUjd3bHVYalpzSVlRazJvMkxxVzJxU0hHNXNXOWpISGpIWUZsZjF6V0ZmenllMUwwSXBRcW9WdW5DblNqcWhlTFRzQXV6aFdieGMyZURYUVBscDJLaXlJMTMtejNLSWEzSXJXaXJydmtVS1dmOXRMZDRB?oc=5",
-      "published": "Tue, 20 Oct 2026 22:29:24 GMT"
+      "title": "SpaceX收跌0.11%，成交额136.33亿美元 - 新浪财经",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMijgFBVV95cUxPWTVQckJBRVFfWFFVd1hLcXpsc1FnREQtZjVmZkt4SkxTN0VHems5MWFLNzh4YjY1Tk1pb09CYTdGRldMY1FBaXBvRS1oV05uT2N3NDI4QXpncTdKZ1V5ZEk4Smo3ZXhWczMwbDg2MXFrNXlPSFAtbllJay05MTQyLWJlZG1kUFg3N0ZjWW9n?oc=5\" target=\"_blank\">SpaceX收跌0.11%，成交额136.33亿美元</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">新浪财经</font>",
+      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPWTVQckJBRVFfWFFVd1hLcXpsc1FnREQtZjVmZkt4SkxTN0VHems5MWFLNzh4YjY1Tk1pb09CYTdGRldMY1FBaXBvRS1oV05uT2N3NDI4QXpncTdKZ1V5ZEk4Smo3ZXhWczMwbDg2MXFrNXlPSFAtbllJay05MTQyLWJlZG1kUFg3N0ZjWW9n?oc=5",
+      "published": "Tue, 20 Oct 2026 20:30:11 GMT"
     },
     {
       "source": "雪球热帖",
-      "title": "REGS收涨0.34%，成交额57.46万美元 - 新浪财经",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMijgFBVV95cUxOX2txVHpNV2o2UGlVamNxRlQ0b0pNMXREMmI1Zm9CT3pVVzlFWlFmRXNnS2gtdTlPV3pFWHZLY2hNUTM0OTQwOWhhT191R294eUVYWEVqSnBvRFR0TXBfRVJnZVZoVDNRNXJISnhLaEhRSEctU19uNG1oSWZEZXdxQ1Y5WmF6WVdleE9UOGV3?oc=5\" target=\"_blank\">REGS收涨0.34%，成交额57.46万美元</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">新浪财经</font>",
-      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOX2txVHpNV2o2UGlVamNxRlQ0b0pNMXREMmI1Zm9CT3pVVzlFWlFmRXNnS2gtdTlPV3pFWHZLY2hNUTM0OTQwOWhhT191R294eUVYWEVqSnBvRFR0TXBfRVJnZVZoVDNRNXJISnhLaEhRSEctU19uNG1oSWZEZXdxQ1Y5WmF6WVdleE9UOGV3?oc=5",
-      "published": "Tue, 20 Oct 2026 23:15:00 GMT"
+      "title": "NGL Energy Partners LP收涨0.06%，成交额312.61万美元 - 新浪财经",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMijgFBVV95cUxQY2dEOXdNN3VxUXhkTXR6RzFIT2dfYmlvQU40bVNkTU5Na3VxeWVYSnUtZFpWV1NUVzlid2x5bGxXX0psdWNTcEdPRlNmR2pNV25tOENZaHFSclktb29SVHlsUjBKYTFiVHlPZHJyYjFhajNIQmNXN1JPa0V1SGZBRGl6aWVyaDlVa2hxM0FR?oc=5\" target=\"_blank\">NGL Energy Partners LP收涨0.06%，成交额312.61万美元</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">新浪财经</font>",
+      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQY2dEOXdNN3VxUXhkTXR6RzFIT2dfYmlvQU40bVNkTU5Na3VxeWVYSnUtZFpWV1NUVzlid2x5bGxXX0psdWNTcEdPRlNmR2pNV25tOENZaHFSclktb29SVHlsUjBKYTFiVHlPZHJyYjFhajNIQmNXN1JPa0V1SGZBRGl6aWVyaDlVa2hxM0FR?oc=5",
+      "published": "Tue, 20 Oct 2026 21:29:31 GMT"
     },
     {
       "source": "雪球热帖",
@@ -659,164 +1247,360 @@
     },
     {
       "source": "雪球热帖",
-      "title": "BNDW收涨0.18%，成交额635.68万美元 - 新浪财经",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMijgFBVV95cUxNemU0M1k5NmZQOXp0N3lvR2ZpMTl6V2I5OUNtYTZvVnpfZGR2c2dYcER6Tjc1RHFlYTZpZzU3VWhYMFFJM3ZObVJVRnd3X0hSaHpPbVIxUElfZXNZS01UUU5naWl5MGt2dzlFMnNjeFZVeE52WHREbWxWUmE2bV9vOElmNEVrMGFsaDRFMm1n?oc=5\" target=\"_blank\">BNDW收涨0.18%，成交额635.68万美元</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">新浪财经</font>",
-      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNemU0M1k5NmZQOXp0N3lvR2ZpMTl6V2I5OUNtYTZvVnpfZGR2c2dYcER6Tjc1RHFlYTZpZzU3VWhYMFFJM3ZObVJVRnd3X0hSaHpPbVIxUElfZXNZS01UUU5naWl5MGt2dzlFMnNjeFZVeE52WHREbWxWUmE2bV9vOElmNEVrMGFsaDRFMm1n?oc=5",
-      "published": "Tue, 20 Oct 2026 21:29:42 GMT"
+      "title": "美光收跌0.98%，成交额173.37亿美元 - 新浪财经",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMijgFBVV95cUxQQUpON2hmTzNSOXE4RUFzell4eVctaFRRVlVEdkMxcVdpc0NDb2N4ZVdkSGdxWGxWOVR5eUh6YkhKWldzcDAwTmdBYzRvbVVvM2dEVEl3UEszQmdoTm9Ub0doak42c0FpRGFnNWZSVlRoS1dxRFhoWFhHRUxYQjc0RllIRXZmLVczMTAxdnhB?oc=5\" target=\"_blank\">美光收跌0.98%，成交额173.37亿美元</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">新浪财经</font>",
+      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQQUpON2hmTzNSOXE4RUFzell4eVctaFRRVlVEdkMxcVdpc0NDb2N4ZVdkSGdxWGxWOVR5eUh6YkhKWldzcDAwTmdBYzRvbVVvM2dEVEl3UEszQmdoTm9Ub0doak42c0FpRGFnNWZSVlRoS1dxRFhoWFhHRUxYQjc0RllIRXZmLVczMTAxdnhB?oc=5",
+      "published": "Tue, 20 Oct 2026 20:30:21 GMT"
     },
     {
       "source": "雪球热帖",
-      "title": "广船国际技术收跌0.74%，成交额122.36万美元 - 新浪财经",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMijgFBVV95cUxQeVpIMkRZeWhZM0M1b3pvTFRYa0NuLW1VcU81QkFyT3BVdmRtNEVZMkY0Ym0wXzNJNXBSVjMwcGV3bk0wVzA0bXI1Y09ydnZBbzd4c2Z4R01uaTlMaEloamUtTFJZWmNYMlJmZklVVUZCWHNQXzZ3VUFJRWowMVNOY3F2d29TLTlOSEpERVV3?oc=5\" target=\"_blank\">广船国际技术收跌0.74%，成交额122.36万美元</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">新浪财经</font>",
-      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQeVpIMkRZeWhZM0M1b3pvTFRYa0NuLW1VcU81QkFyT3BVdmRtNEVZMkY0Ym0wXzNJNXBSVjMwcGV3bk0wVzA0bXI1Y09ydnZBbzd4c2Z4R01uaTlMaEloamUtTFJZWmNYMlJmZklVVUZCWHNQXzZ3VUFJRWowMVNOY3F2d29TLTlOSEpERVV3?oc=5",
-      "published": "Tue, 20 Oct 2026 22:52:11 GMT"
+      "title": "iShares MSCI全球黄金矿业股 ETF收跌0.63%，成交额1688.61万美元 - 新浪财经",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMijgFBVV95cUxOLURBelZDY0RyUWQ3NGRkeVhiRjUzaHhpX1lXSjV5UW4ydnVlSm5WeHVxOHRRZVQ1bTQ0cTd3MEszM1ZUek96N3V0TEtweThjSk5PQjYxSWhUM2V5QXdWR1FYUXF3aHZoM0tsOXBCWEppWXZGaGpjaEZDRi1wbGhweWlxRzV4bTVLS3lZcHZ3?oc=5\" target=\"_blank\">iShares MSCI全球黄金矿业股 ETF收跌0.63%，成交额1688.61万美元</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">新浪财经</font>",
+      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOLURBelZDY0RyUWQ3NGRkeVhiRjUzaHhpX1lXSjV5UW4ydnVlSm5WeHVxOHRRZVQ1bTQ0cTd3MEszM1ZUek96N3V0TEtweThjSk5PQjYxSWhUM2V5QXdWR1FYUXF3aHZoM0tsOXBCWEppWXZGaGpjaEZDRi1wbGhweWlxRzV4bTVLS3lZcHZ3?oc=5",
+      "published": "Tue, 20 Oct 2026 21:24:52 GMT"
     },
     {
       "source": "雪球热帖",
-      "title": "Etho Climate Leadership U.S. ETF收涨1.15%，成交额28.79万美元 - 新浪财经",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMijgFBVV95cUxOSHgxQU1Kb0gyREE4bW5vaFM0YnZGellYVXlpZ3FLajliUDJTcjd5SmRoQmQxYWRDTWltZjFRZEJtMXJBUXJBU0phZFdnVXpTbnYxMVg5NWc1cDUwQkp6RWtGSjJkMUZJTFB5OHBqeXdfUm9iZnhLemY4SC0ybjNYdjlKWU9uUzJqbGpjSHZB?oc=5\" target=\"_blank\">Etho Climate Leadership U.S. ETF收涨1.15%，成交额28.79万美元</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">新浪财经</font>",
-      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOSHgxQU1Kb0gyREE4bW5vaFM0YnZGellYVXlpZ3FLajliUDJTcjd5SmRoQmQxYWRDTWltZjFRZEJtMXJBUXJBU0phZFdnVXpTbnYxMVg5NWc1cDUwQkp6RWtGSjJkMUZJTFB5OHBqeXdfUm9iZnhLemY4SC0ybjNYdjlKWU9uUzJqbGpjSHZB?oc=5",
-      "published": "Tue, 20 Oct 2026 22:45:09 GMT"
+      "title": "哈克特服务收涨4.96%，成交额281.75万美元 - 新浪财经",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMijgFBVV95cUxOd2xRUVNYYm05ZFktWmFEc0FCUi1YUjd3bHVYalpzSVlRazJvMkxxVzJxU0hHNXNXOWpISGpIWUZsZjF6V0ZmenllMUwwSXBRcW9WdW5DblNqcWhlTFRzQXV6aFdieGMyZURYUVBscDJLaXlJMTMtejNLSWEzSXJXaXJydmtVS1dmOXRMZDRB?oc=5\" target=\"_blank\">哈克特服务收涨4.96%，成交额281.75万美元</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">新浪财经</font>",
+      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOd2xRUVNYYm05ZFktWmFEc0FCUi1YUjd3bHVYalpzSVlRazJvMkxxVzJxU0hHNXNXOWpISGpIWUZsZjF6V0ZmenllMUwwSXBRcW9WdW5DblNqcWhlTFRzQXV6aFdieGMyZURYUVBscDJLaXlJMTMtejNLSWEzSXJXaXJydmtVS1dmOXRMZDRB?oc=5",
+      "published": "Tue, 20 Oct 2026 22:29:24 GMT"
     },
     {
       "source": "雪球热帖",
-      "title": "FIDELITY STOCKS FOR INFLATION ETF收涨0.7%，成交额51.04万美元 - 新浪财经",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMijgFBVV95cUxNeDkydlhRMEpDSTg4NjJObDBoSUVRVDdMZzY2NENIc1N1b3FaQU4xZkxuUjkxU3NsOEJvM24wa2R4WHFwd3VoVEl3LVY4REI4M18zX0kzeTJEbWozMmt6R2hIT3pqTTVHYkctbXVRRmt4d2FMNkp6Qk5uSnJCX2xSb2FuN1UwVUlDWi1FekJn?oc=5\" target=\"_blank\">FIDELITY STOCKS FOR INFLATION ETF收涨0.7%，成交额51.04万美元</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">新浪财经</font>",
-      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNeDkydlhRMEpDSTg4NjJObDBoSUVRVDdMZzY2NENIc1N1b3FaQU4xZkxuUjkxU3NsOEJvM24wa2R4WHFwd3VoVEl3LVY4REI4M18zX0kzeTJEbWozMmt6R2hIT3pqTTVHYkctbXVRRmt4d2FMNkp6Qk5uSnJCX2xSb2FuN1UwVUlDWi1FekJn?oc=5",
-      "published": "Tue, 20 Oct 2026 22:30:29 GMT"
+      "title": "荷兰国际收涨0.43%，成交额7486.26万美元 - 新浪财经",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMijgFBVV95cUxPTVhtaEcyTmtDcm9VelNDR3Rac3hUZ1N0S0QzMnpnVG9hcVUwSXhiQ1BwQy14MnA2UWVXR2EwSUQtNDdaRTdxZWNBQ2h2RzBrOWE4eG0wbjRxc2R4bjlib2pEaGRwQWpzakJmQTJ5eFh4Ykl0eS16QnBWOElQY2Jma1NwUmNhVmNzWTBoQktB?oc=5\" target=\"_blank\">荷兰国际收涨0.43%，成交额7486.26万美元</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">新浪财经</font>",
+      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPTVhtaEcyTmtDcm9VelNDR3Rac3hUZ1N0S0QzMnpnVG9hcVUwSXhiQ1BwQy14MnA2UWVXR2EwSUQtNDdaRTdxZWNBQ2h2RzBrOWE4eG0wbjRxc2R4bjlib2pEaGRwQWpzakJmQTJ5eFh4Ykl0eS16QnBWOElQY2Jma1NwUmNhVmNzWTBoQktB?oc=5",
+      "published": "Tue, 20 Oct 2026 20:34:16 GMT"
     },
     {
       "source": "雪球热帖",
-      "title": "ClearBridge Dividend Strategy ESG ETF收涨0.71%，成交额40.45万美元 - 新浪财经",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMijgFBVV95cUxORm9nTGNmNUZ0U1NJb1ZNb2VnM2VvMUhjakk5Z2lBYmdWRlhUMkVTYmJJOGd5RFVhXzU5dnQ4SlRnTXVQLUR3NkVkNXNOTm5zRjhidXdWUTJPZlhIQ0ZvN0Vva2dQX2J3a29leXM0cFVVaXNlX28tbVVxekNUYlZGRVJWY3lBXzh3ak1aRHJn?oc=5\" target=\"_blank\">ClearBridge Dividend Strategy ESG ETF收涨0.71%，成交额40.45万美元</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">新浪财经</font>",
-      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxORm9nTGNmNUZ0U1NJb1ZNb2VnM2VvMUhjakk5Z2lBYmdWRlhUMkVTYmJJOGd5RFVhXzU5dnQ4SlRnTXVQLUR3NkVkNXNOTm5zRjhidXdWUTJPZlhIQ0ZvN0Vva2dQX2J3a29leXM0cFVVaXNlX28tbVVxekNUYlZGRVJWY3lBXzh3ak1aRHJn?oc=5",
-      "published": "Tue, 20 Oct 2026 22:46:52 GMT"
+      "title": "World Currency Gold Trust收跌0.6%，成交额39.31万美元 - 新浪财经",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMijgFBVV95cUxOM2VrZXRhTUQ1eWNJMWFObVR1bjdiZmZFZTVmNEdWSWpNblhBQ253eGFSaTZmYlotTGpfQXdacTVzRDNDWFNxbmRzazdlRDhGWlRGZm5wNWtUNldPSHhpbk1TVks5WEo3MXc0N1YydTBvVzByaWlVT3Q2N0pfQ0NycVJXWEltNXdnejBlU0RB?oc=5\" target=\"_blank\">World Currency Gold Trust收跌0.6%，成交额39.31万美元</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">新浪财经</font>",
+      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOM2VrZXRhTUQ1eWNJMWFObVR1bjdiZmZFZTVmNEdWSWpNblhBQ253eGFSaTZmYlotTGpfQXdacTVzRDNDWFNxbmRzazdlRDhGWlRGZm5wNWtUNldPSHhpbk1TVks5WEo3MXc0N1YydTBvVzByaWlVT3Q2N0pfQ0NycVJXWEltNXdnejBlU0RB?oc=5",
+      "published": "Tue, 20 Oct 2026 23:52:31 GMT"
     },
     {
       "source": "雪球热帖",
-      "title": "Direxion Shares ETF Trust收跌0.03%，成交额41.58万美元 - 新浪财经",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMijgFBVV95cUxQdlBoY1pmWmVlS0pjNGNxMFhuY1QtSEhveEVGcEZUN3BVSzViNk80UEJhUTg5MGZicDk0Ukx4TWxpUlE3Umt4Zjd5aklnZ1BUWnRqQ0gzbEtlSzRJRkZjVEpBTDRDNWhVazJhdXR4LVc1X2tac0NjTi0zUlFpT0JtT1U1cjBua2tEcWZpTUtB?oc=5\" target=\"_blank\">Direxion Shares ETF Trust收跌0.03%，成交额41.58万美元</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">新浪财经</font>",
-      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQdlBoY1pmWmVlS0pjNGNxMFhuY1QtSEhveEVGcEZUN3BVSzViNk80UEJhUTg5MGZicDk0Ukx4TWxpUlE3Umt4Zjd5aklnZ1BUWnRqQ0gzbEtlSzRJRkZjVEpBTDRDNWhVazJhdXR4LVc1X2tac0NjTi0zUlFpT0JtT1U1cjBua2tEcWZpTUtB?oc=5",
-      "published": "Tue, 20 Oct 2026 22:42:51 GMT"
+      "title": "MADE收跌0.12%，成交额22.97万美元 - 新浪财经",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMijgFBVV95cUxQYmV3RHVvMXFSbmpnZVJjR1dOLTVKSTFyTlpRN3dCNVFEdXQtQTAyVFNPTGNQZm90a24tYXR3QmN1d0NfdG5tVlJDa3lTWjFZZWp2OE1sdVlUYldUM1FrZV94SVRyU3M1c3FoQmdaSFBvM052Z1RYM3Y2Mi03dTVyaE9iVGFHWUdCd1RrZXdB?oc=5\" target=\"_blank\">MADE收跌0.12%，成交额22.97万美元</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">新浪财经</font>",
+      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQYmV3RHVvMXFSbmpnZVJjR1dOLTVKSTFyTlpRN3dCNVFEdXQtQTAyVFNPTGNQZm90a24tYXR3QmN1d0NfdG5tVlJDa3lTWjFZZWp2OE1sdVlUYldUM1FrZV94SVRyU3M1c3FoQmdaSFBvM052Z1RYM3Y2Mi03dTVyaE9iVGFHWUdCd1RrZXdB?oc=5",
+      "published": "Tue, 20 Oct 2026 23:25:07 GMT"
     },
     {
       "source": "雪球热帖",
-      "title": "iShares MSCI Kokusai ETF收涨0.32%，成交额40.31万美元 - 新浪财经",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMijgFBVV95cUxOZVNSLWJFRzVfY1lMSmg5YkFpOC05cnFqVWhkYWc1VGRGT2hKUjdUeDF6eEdPMm4xakx4eWVzYTFadXlhZ2ZlcElrd3ZGUndzQjgyRVN4N0wzYzFHSGdFN0tYSGl3MlhQX2VlUHhkUlFXekZMWjNTOFZjMjJadm82QnNzM0tEeXNkOThPTnB3?oc=5\" target=\"_blank\">iShares MSCI Kokusai ETF收涨0.32%，成交额40.31万美元</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">新浪财经</font>",
-      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOZVNSLWJFRzVfY1lMSmg5YkFpOC05cnFqVWhkYWc1VGRGT2hKUjdUeDF6eEdPMm4xakx4eWVzYTFadXlhZ2ZlcElrd3ZGUndzQjgyRVN4N0wzYzFHSGdFN0tYSGl3MlhQX2VlUHhkUlFXekZMWjNTOFZjMjJadm82QnNzM0tEeXNkOThPTnB3?oc=5",
-      "published": "Tue, 20 Oct 2026 22:38:02 GMT"
+      "title": "SIXP收涨0.26%，成交额16.7万美元 - 新浪财经",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMijgFBVV95cUxOZHNPMnhKZ1YzbkFlR3VmVjQydmpBOWZJenlRdDA4d0wxMlZncnpqaDNYLTZ2MkhZQTFsNl9YT3pUaVI1MDJaVHFLemw2ZkxuREdNMmZ6RFdVaGk0Ty11d3ZhWkFVUy1QWEFSNFlVZEdMY2dhMXpUWFlIWVlkMjhJSUhscWZ4dnptX2NHUFRn?oc=5\" target=\"_blank\">SIXP收涨0.26%，成交额16.7万美元</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">新浪财经</font>",
+      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOZHNPMnhKZ1YzbkFlR3VmVjQydmpBOWZJenlRdDA4d0wxMlZncnpqaDNYLTZ2MkhZQTFsNl9YT3pUaVI1MDJaVHFLemw2ZkxuREdNMmZ6RFdVaGk0Ty11d3ZhWkFVUy1QWEFSNFlVZEdMY2dhMXpUWFlIWVlkMjhJSUhscWZ4dnptX2NHUFRn?oc=5",
+      "published": "Tue, 20 Oct 2026 23:25:04 GMT"
     },
     {
       "source": "雪球热帖",
-      "title": "DBX ETF TR收涨0.36%，成交额414.65万美元 - 新浪财经",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMijgFBVV95cUxNSXIzUXUtd3o3aHFVZUVjVU1nTTVOVWZ4M3NDb1dJRVlRd29EYzdnZjk4Wjk5SmNWTmJNMEdQS2YtV2tiYk93VUVPel9UUVpKU3pFSXBhUlFDdE9mQjdneUtiLXFhZ2FjRjkxZi1XdTRqMVdubndrVTV3U08tTXhjcURqOVlSR19ZVUJtMm9B?oc=5\" target=\"_blank\">DBX ETF TR收涨0.36%，成交额414.65万美元</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">新浪财经</font>",
-      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNSXIzUXUtd3o3aHFVZUVjVU1nTTVOVWZ4M3NDb1dJRVlRd29EYzdnZjk4Wjk5SmNWTmJNMEdQS2YtV2tiYk93VUVPel9UUVpKU3pFSXBhUlFDdE9mQjdneUtiLXFhZ2FjRjkxZi1XdTRqMVdubndrVTV3U08tTXhjcURqOVlSR19ZVUJtMm9B?oc=5",
-      "published": "Tue, 20 Oct 2026 22:25:43 GMT"
+      "title": "NCPB收涨0.11%，成交额7.63万美元 - 新浪财经",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMijgFBVV95cUxOUW5LejkwNDFueXRxbkgzLVRKQktBa2c2VzV0dzAxQ013ZGp6dFdJckhpRUpoa0RzNzd5QzdhVHltU241UlVpbUJXY19FNVFMR0F4S1p6elp1eFNVbEtqbHZaazJ1VjBrTFV0QkpWNlpYcmFFbHZuU1d0RjVNMzcyS3J2dTJNOXJHWWZxZGJ3?oc=5\" target=\"_blank\">NCPB收涨0.11%，成交额7.63万美元</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">新浪财经</font>",
+      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOUW5LejkwNDFueXRxbkgzLVRKQktBa2c2VzV0dzAxQ013ZGp6dFdJckhpRUpoa0RzNzd5QzdhVHltU241UlVpbUJXY19FNVFMR0F4S1p6elp1eFNVbEtqbHZaazJ1VjBrTFV0QkpWNlpYcmFFbHZuU1d0RjVNMzcyS3J2dTJNOXJHWWZxZGJ3?oc=5",
+      "published": "Tue, 20 Oct 2026 23:24:40 GMT"
     },
     {
       "source": "雪球热帖",
-      "title": "景顺 纳斯达克互联网 ETF收涨0.13%，成交额81.47万美元 - 新浪财经",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMijgFBVV95cUxPa3d2V18yVUtWUFVRTEVXZXRma2tmRElUODJSV1oyY1VQT2dNQmZYcmtiNm9qQ3p2SzBRTEU3ZTBPdVJtSFd4M2lZT1BNOHNYaC1lR0xJX0NmOFl3ZGhDYXF1MkRHSFZkSXNiYk9LbkhDcDBZbEpEUG1oV3A3UVVSU09LRnVvVWhfRWl6NUxR?oc=5\" target=\"_blank\">景顺 纳斯达克互联网 ETF收涨0.13%，成交额81.47万美元</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">新浪财经</font>",
-      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPa3d2V18yVUtWUFVRTEVXZXRma2tmRElUODJSV1oyY1VQT2dNQmZYcmtiNm9qQ3p2SzBRTEU3ZTBPdVJtSFd4M2lZT1BNOHNYaC1lR0xJX0NmOFl3ZGhDYXF1MkRHSFZkSXNiYk9LbkhDcDBZbEpEUG1oV3A3UVVSU09LRnVvVWhfRWl6NUxR?oc=5",
-      "published": "Tue, 20 Oct 2026 22:06:10 GMT"
-    },
-    {
-      "source": "雪球热帖",
-      "title": "JPMorgan Diversified Return U.S. Mid Cap Equity ETF收涨1.25%，成交额198.72万美元 - 新浪财经",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMijgFBVV95cUxQODB6QTJkb09Pck9PTlYxc0pVWFYwUm0xSmFaY29NOEViNGV5SHZVV0hCdV9BQnpPUGdVZ2M5emkyTXlEd0ZwQWV0azFxNWdyVHRFU0dXZ0hOUUpxQ01CSFdVZ3pEMHM4OGtGSHZrc25VdjBzYzl6OG55NWJWQmdlcTJqSTJmZUFPWkNjTHdB?oc=5\" target=\"_blank\">JPMorgan Diversified Return U.S. Mid Cap Equity ETF收涨1.25%，成交额198.72万美元</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">新浪财经</font>",
-      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQODB6QTJkb09Pck9PTlYxc0pVWFYwUm0xSmFaY29NOEViNGV5SHZVV0hCdV9BQnpPUGdVZ2M5emkyTXlEd0ZwQWV0azFxNWdyVHRFU0dXZ0hOUUpxQ01CSFdVZ3pEMHM4OGtGSHZrc25VdjBzYzl6OG55NWJWQmdlcTJqSTJmZUFPWkNjTHdB?oc=5",
-      "published": "Tue, 20 Oct 2026 22:10:52 GMT"
-    },
-    {
-      "source": "雪球热帖",
-      "title": "CONTROLADORA VUELA SPON ADR REPR收跌3.74%，成交额388.04万美元 - 新浪财经",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMijgFBVV95cUxQbjRILWF3eEhpRHBKQkZGU2o3aTJ6SjM1aWNnb1FIQnk0cGxWQlhmM05ld2ZVbU9PMXpSeXVVU0tMZ205ZF8wQktHWUV3WTU5bG95dktNZDFkT1ZYU2pFcGUtQ0c2d1JTZXNmcGotdkRaWjFUODNjWmVUcG5kV19WZ2JhNk0tR3ZYLVNwNHJB?oc=5\" target=\"_blank\">CONTROLADORA VUELA SPON ADR REPR收跌3.74%，成交额388.04万美元</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">新浪财经</font>",
-      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQbjRILWF3eEhpRHBKQkZGU2o3aTJ6SjM1aWNnb1FIQnk0cGxWQlhmM05ld2ZVbU9PMXpSeXVVU0tMZ205ZF8wQktHWUV3WTU5bG95dktNZDFkT1ZYU2pFcGUtQ0c2d1JTZXNmcGotdkRaWjFUODNjWmVUcG5kV19WZ2JhNk0tR3ZYLVNwNHJB?oc=5",
-      "published": "Tue, 20 Oct 2026 22:00:19 GMT"
-    },
-    {
-      "source": "雪球热帖",
-      "title": "RBUF收涨0.65%，成交额43.07万美元 - 新浪财经",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMijgFBVV95cUxPdGVMSjczUEUyc2NHT01vRmxtOG9KSF9sNFBaNmJhVzd6Y1NLczhVbG5PUVJPWEtna0dMbUY2aU4ydXpNMUN0c3k0ZS1CM19MQk9LY2lKUm0zOWhPS3NSVUpVMXJNVHdUZG1KRXMzRDluWkQwS2g3MWZ0Rk9UZEQtRC0zN21SbEgxaExWRFJn?oc=5\" target=\"_blank\">RBUF收涨0.65%，成交额43.07万美元</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">新浪财经</font>",
-      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPdGVMSjczUEUyc2NHT01vRmxtOG9KSF9sNFBaNmJhVzd6Y1NLczhVbG5PUVJPWEtna0dMbUY2aU4ydXpNMUN0c3k0ZS1CM19MQk9LY2lKUm0zOWhPS3NSVUpVMXJNVHdUZG1KRXMzRDluWkQwS2g3MWZ0Rk9UZEQtRC0zN21SbEgxaExWRFJn?oc=5",
-      "published": "Tue, 20 Oct 2026 23:04:45 GMT"
-    },
-    {
-      "source": "雪球热帖",
-      "title": "PIPE收涨0.52%，成交额15.01万美元 - 新浪财经",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMijgFBVV95cUxOM1l3TTRUQy03dGNrZ2xaYlRsZk1pS2xzV0tPY0NTS1FUcGJDNjhEek05MlpXM3NEci1zbVZmb3JYcFZHVklJVnpTZlJHOWVULVB1NU8yQ3ZYRTNLVGRSal9uVmR0QXVWS0Fma3RYbkNuX0hidEJKd0tBRnIzcHItdGo3NWhqY2lPcXRmN2JB?oc=5\" target=\"_blank\">PIPE收涨0.52%，成交额15.01万美元</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">新浪财经</font>",
-      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOM1l3TTRUQy03dGNrZ2xaYlRsZk1pS2xzV0tPY0NTS1FUcGJDNjhEek05MlpXM3NEci1zbVZmb3JYcFZHVklJVnpTZlJHOWVULVB1NU8yQ3ZYRTNLVGRSal9uVmR0QXVWS0Fma3RYbkNuX0hidEJKd0tBRnIzcHItdGo3NWhqY2lPcXRmN2JB?oc=5",
-      "published": "Tue, 20 Oct 2026 23:20:01 GMT"
+      "title": "TEK收跌0.58%，成交额47.07万美元 - 新浪财经",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMijgFBVV95cUxOclpReThWbmVsamhUY0tTSm85Qm5sZVkxNkwzNHVEeG9WbUxjUmJROTBVR1VhSVRwNjc1R19zRjF1VUtNUkowRkhUa3JYNWxYbThIU0RiMGxJZzIyOWNmN0FCU0tCV1BSZUJtaFJYdE82cmcwcE40cDA5N3RrX1dIbHNqcVFGaC1LYjRiQzNn?oc=5\" target=\"_blank\">TEK收跌0.58%，成交额47.07万美元</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">新浪财经</font>",
+      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOclpReThWbmVsamhUY0tTSm85Qm5sZVkxNkwzNHVEeG9WbUxjUmJROTBVR1VhSVRwNjc1R19zRjF1VUtNUkowRkhUa3JYNWxYbThIU0RiMGxJZzIyOWNmN0FCU0tCV1BSZUJtaFJYdE82cmcwcE40cDA5N3RrX1dIbHNqcVFGaC1LYjRiQzNn?oc=5",
+      "published": "Tue, 20 Oct 2026 23:34:49 GMT"
     },
     {
       "source": "36氪",
-      "title": "复盘三季度波动行情，基金重提再平衡",
-      "summary": "历经三季度以来的市场波动之后，在最新披露的基金2026年三季报中，多位基金经理复盘三季度操作，重点反思持仓集中度与风险控制，从最新投资策略看，均衡持仓成为多数基金经理的策略选择。在基金经理们看来，市场风格有望再平衡，投资组合在进攻之余，需要寻求收益风险比更优的平衡。（上证报）",
-      "link": "https://www.36kr.com/newsflashes/4034826163032966",
-      "published": "Tue, 20 Oct 2026 23:23:21 GMT"
+      "title": "优必选在广州成立增优科技公司，注册资本3000万",
+      "summary": "36氪获悉，天眼查App显示，近日，广州增优科技有限公司成立，法定代表人为王琳，注册资本3000万人民币，经营范围含服务消费机器人制造、工业机器人制造、智能机器人的研发等。股东信息显示，该公司由深圳市优必选科技股份有限公司全资持股。",
+      "link": "https://www.36kr.com/newsflashes/4035050762966146",
+      "published": "Wed, 21 Oct 2026 04:24:50 GMT"
     },
     {
       "source": "36氪",
-      "title": "Anthropic据悉上半年净亏807亿美元，未来数年或再花7500亿美元购买算力",
-      "summary": "据报道，招股书草案显示，Anthropic今年上半财年净亏损807亿美元，远大于上年同期130亿美元的净亏损额。报道称，上半年净亏损的绝大部分（即720亿美元），来自Anthropic发行的可转换票据及其他工具价值变动相关的会计费用。据报道，截至6月30日的六个月，Anthropic在算力和基础设施方面支出近90亿美元，而2025年同期为23亿美元。该公司今年上半年用于获取算力的资金已经超过2025年全年的73亿美元。报道称，Anthropic未来数年可能再花费7500亿美元用于购买算力。（界面）",
-      "link": "https://www.36kr.com/newsflashes/4034829537924230",
-      "published": "Tue, 20 Oct 2026 23:20:51 GMT"
+      "title": "麦格理大宗商品部门重组，多名原油交易员离职",
+      "summary": "麦格理集团多名原油交易员已经离职，该行正合并两大核心大宗商品交易部门。知情人士透露，这些交易员负责原油及成品油交易，办公地点分布在新加坡、日内瓦等地，于近几周陆续离开。其中包括新加坡的 Daniel Mortleman、Simon Fender，以及日内瓦的 Natalia de la Huerga、Marc Aguilar。消息人士称，麦格理正在整合麦格理银行与 Macquarie Commodities Trading SA 两大交易分部，两个团队交易品种相近，但组合持仓有所区别；相关人士因未获对外发声许可，要求匿名。（新浪财经）",
+      "link": "https://www.36kr.com/newsflashes/4035117166285704",
+      "published": "Wed, 21 Oct 2026 04:13:26 GMT"
     },
     {
       "source": "36氪",
-      "title": "消息称Anthropic正与云计算服务商Nscale洽谈第二笔数百亿美元交易",
-      "summary": "据知情人士消息，Anthropic正与英国新兴云计算服务商Nscale洽谈第二笔价值数百亿美元的交易，计划租用其在美国的数据中心算力。一名知情人士透露，人工智能公司Anthropic正与英国新兴云计算服务商（neocloud）Nscale进行谈判，拟达成第二笔价值数百亿美元的交易，租用后者位于美国的数据中心算力。这名知情人士表示，新协议将涉及西弗吉尼亚州同一地点的第二座460兆瓦数据中心。由于无权公开讨论相关谈判，这名人士要求匿名。该人士称，这笔交易的价值可能达到约450亿美元。（新浪财经）",
-      "link": "https://www.36kr.com/newsflashes/4034348140336004",
-      "published": "Tue, 20 Oct 2026 23:18:59 GMT"
+      "title": "恒指午间休盘跌0.35%，恒生科技指数跌0.75%",
+      "summary": "36氪获悉，恒指午间休盘跌0.35%，恒生科技指数跌0.75%；电气设备板块领跌，宁德时代跌超10%，股价创2025年7月以来新低，中创新航跌超4%；半导体板块领涨，澜起科技涨超7%，长光辰芯涨超3%；医疗设备板块走强，医思健康涨超5%，卓正医疗涨超3%；南向资金净流出3.09亿港元。",
+      "link": "https://www.36kr.com/newsflashes/4035106876167296",
+      "published": "Wed, 21 Oct 2026 04:02:58 GMT"
     },
     {
       "source": "36氪",
-      "title": "年内险资密集参设私募股权投资基金",
-      "summary": "近日，天津稳健策略股权投资基金合伙企业（有限合伙）成立，其合伙人包括友邦人寿保险有限公司、大家人寿保险股份有限公司等多家保险机构。今年以来，险资参与设立了多家私募股权投资基金，所设基金主要投向人工智能、新能源等产业。受访专家表示，对于被投资领域而言，保险系私募股权投资基金的参与有助于优化直接融资结构、减少短期投机行为、促进资金供给多元化等。（证券日报）",
-      "link": "https://www.36kr.com/newsflashes/4034821750428549",
-      "published": "Tue, 20 Oct 2026 23:17:38 GMT"
+      "title": "半日主力资金加仓电子板块，抛售电力设备板块",
+      "summary": "主力资金早间净流入电子、计算机等板块，净流出电力设备、家用电器等板块。具体到个股来看，沪电股份、移远通信、紫金矿业获净流入7.87亿元、7.24亿元、6.64亿元。净流出方面，格力电器、宁德时代、亨通光电遭抛售7.93亿元、6.44亿元、4.97亿元。（第一财经）",
+      "link": "https://www.36kr.com/newsflashes/4035094270645121",
+      "published": "Wed, 21 Oct 2026 03:54:07 GMT"
     },
     {
       "source": "36氪",
-      "title": "“A+H”上市阵容持续扩大，多家公司筹划港股IPO",
-      "summary": "“A+H”股上市阵容持续扩大。10月15日，传音控股正式登陆港交所，至此，“A+H”公司数量达到204家。此外，10月以来，包括联讯仪器、江丰电子在内的多家A股上市公司筹划递表港交所，东山精密再度递表后通过港交所上市聆讯。多位受访人士告诉中国证券报记者，今年以来，香港市场迎来了内地硬科技公司以及“A+H”双重上市发行人的大规模流入，进一步优化了港股市场的结构。展望未来，随着境内外发行上市制度不断优化，从源头提升上市公司质量，港股市场新股发行有望保持活跃，以更多元、高效的方式服务创新企业。（中证报）",
-      "link": "https://www.36kr.com/newsflashes/4034823686476675",
-      "published": "Tue, 20 Oct 2026 23:14:54 GMT"
+      "title": "深圳人才房政策放宽：社保满1年，无房记录降至3年",
+      "summary": "10月21日，深圳市住房保障署发布配售公告，记者对比此前批次配售条件发现，本批次申购条件出现明显放宽：90平以下房源由四个队列增至五个；社保最低累计1年即可申购，房产交易记录核查由5年缩短至3年。这意味着，更多社保刚满1年的新市民家庭将获得人才房申购资格，曾有过房产交易、但目前无房且满3年的改善型家庭也重新获得申购机会。（南方+）",
+      "link": "https://www.36kr.com/newsflashes/4035088297513864",
+      "published": "Wed, 21 Oct 2026 03:44:04 GMT"
     },
     {
       "source": "36氪",
-      "title": "马斯克：SpaceX与特斯拉已开始研究潜在合并交易",
-      "summary": "马斯克表示，SpaceX和特斯拉已成立特别委员会，研究潜在合并。如果最终得以推进，这可能成为史上规模最大的企业合并交易。同时担任这两家公司首席执行官的马斯克周二在SpaceX财报电话会上表示：“我认为两家公司合并有很多好处，在开发超级智能软件方面进行合作将大有裨益。”（新浪财经）",
-      "link": "https://www.36kr.com/newsflashes/4034805976339592",
-      "published": "Tue, 20 Oct 2026 23:10:48 GMT"
+      "title": "京东健康与辉瑞中国达成战略合作",
+      "summary": "36氪获悉，据辉瑞消息，10月20日，京东健康与辉瑞达成战略合作。双方将围绕肥胖症、糖尿病、呼吸与抗感染、皮肤疾病、偏头痛、肿瘤等疾病领域，共同探索以患者为中心、以技术为驱动的一体化医药健康服务模式。在下一阶段合作中，双方将以先维盈®（埃诺格鲁肽注射液）为重点，深化在减重代谢领域的生态合作，推进渠道协同与患者管理长期合作。",
+      "link": "https://www.36kr.com/newsflashes/4035087520240770",
+      "published": "Wed, 21 Oct 2026 03:43:17 GMT"
     },
     {
       "source": "36氪",
-      "title": "欧洲天然气基准价格近4年来首次突破90欧元",
-      "summary": "欧洲天然气价格20日继续上涨，作为欧洲天然气基准价格的荷兰所有权转让中心（TTF）天然气11月期货价格当天盘中突破每兆瓦时90欧元，创2022年12月以来新高，较中东战事爆发前的约32欧元大幅上涨。欧洲天然气基础设施协会数据显示，截至10月19日，欧盟天然气储存设施的储气量约占总容量的74.6%，显著低于往年同期水平。随着冬季供暖季临近，欧洲补充天然气库存的压力进一步加大。（央视新闻）",
-      "link": "https://www.36kr.com/newsflashes/4034349774492806",
-      "published": "Tue, 20 Oct 2026 23:08:39 GMT"
+      "title": "A股三大指数午间休盘集体下跌，宁德时代跌超10%",
+      "summary": "36氪获悉，A股三大指数午间休盘集体下跌，沪指跌0.31%，深成指跌0.31%，创业板指跌1.07%；电气设备板块领跌，宁德时代跌超10%，时代万恒、博力威跌超8%；两岸融合概念领涨，平潭发展、福建水泥涨停，海峡创新、路桥信息涨超10%；数据要素概念走强，海量数据、南威软件涨停，华胜天成涨超5%。",
+      "link": "https://www.36kr.com/newsflashes/4035077158818950",
+      "published": "Wed, 21 Oct 2026 03:32:44 GMT"
     },
     {
       "source": "36氪",
-      "title": "Netflix第三季度营收128.74亿美元，同比增长12%",
-      "summary": "当地时间10月20日，Netflix公布2026年第三季度业绩：营收为128.74亿美元，同比增长12%；净利润36.6亿美元，去年同期为25.5亿美元。预计第四季度营收为134亿美元，同比增长12%；预计2026年全年营收为511亿美元，同比增长13%。",
-      "link": "https://www.36kr.com/newsflashes/4034815755572358",
-      "published": "Tue, 20 Oct 2026 23:06:50 GMT"
+      "title": "创业板指跌破2700点",
+      "summary": "36氪获悉，创业板指跌破2700点，日内下跌1.4%。",
+      "link": "https://www.36kr.com/newsflashes/4035072335860871",
+      "published": "Wed, 21 Oct 2026 03:27:50 GMT"
     },
     {
       "source": "36氪",
-      "title": "SpaceX第三季度净利润44亿美元，同比扭亏",
-      "summary": "36氪获悉，当地时间10月20日，SpaceX公布截至2026年9月30日的第三季度业绩：营收146亿美元，同比增长161%；净利润44亿美元，上年同期净亏损11亿美元。其中，太空业务营收为18亿美元，环比增长84%，同比增长6%。",
-      "link": "https://www.36kr.com/newsflashes/4034802972710016",
-      "published": "Tue, 20 Oct 2026 23:02:40 GMT"
+      "title": "蚂蚁集团在上海成立云锳企业管理咨询公司，注册资本2000万",
+      "summary": "36氪获悉，天眼查App显示，近日，上海云锳企业管理咨询有限公司成立，法定代表人为刘昕，注册资本2000万人民币，经营范围为企业管理咨询、企业管理、社会经济咨询服务。股东信息显示，该公司由蚂蚁集团旗下上海云镶企业管理咨询有限公司全资持股。",
+      "link": "https://www.36kr.com/newsflashes/4035039850517385",
+      "published": "Wed, 21 Oct 2026 03:23:42 GMT"
     },
     {
       "source": "36氪",
-      "title": "美股三大指数收盘涨跌不一，大型科技股多数下跌",
-      "summary": "36氪获悉，10月20日收盘，美股三大指数涨跌不一，道指涨1.02%，纳指跌0.02%，标普500指数涨0.29%。大型科技股多数下跌，谷歌、Meta跌超1%，苹果跌1%，微软、英伟达小幅下跌，特斯拉涨超1%，亚马逊小幅上涨。热门中概股多数上涨，小鹏集团涨超7%，理想汽车涨超5%，蔚来涨超1%，百度、拼多多、阿里巴巴小幅上涨，京东、网易、哔哩哔哩小幅下跌。",
-      "link": "https://www.36kr.com/newsflashes/4034793509868419",
-      "published": "Tue, 20 Oct 2026 23:00:00 GMT"
+      "title": "英国广播公司宣布将关闭旗下两个电视频道",
+      "summary": "英国广播公司20日宣布，为完成两年5亿英镑（约合44.5亿元人民币）的节流计划，计划于2027年春季关停旗下的两个电视频道。此外，英国广播公司称还将关停广播4台广播剧频道，这一频道主要播放英国广播公司档案库中的语言类节目，包括喜剧、戏剧和纪录片。英国广播公司说，两个被关停电视频道第三台和苏格兰电视台的部分节目将继续通过线上平台提供，广播4台广播剧频道的部分节目将转至英国广播公司声音网平台播出。（新华社）",
+      "link": "https://www.36kr.com/newsflashes/4035043165705097",
+      "published": "Wed, 21 Oct 2026 03:15:04 GMT"
+    },
+    {
+      "source": "36氪",
+      "title": "国家能源局：2026年1-9月全社会用电量同比增长3.9%",
+      "summary": "36氪获悉，国家能源局数据显示，9月份，全社会用电量8997亿千瓦时，同比增长1.2%。从分产业用电看，第一产业用电量135亿千瓦时，同比增长4.1%。第二产业用电量5800亿千瓦时，同比增长1.7%；其中，工业用电量5751亿千瓦时，同比增长1.8%，高技术及装备制造业用电量1167亿千瓦时，同比增长4.6%。第三产业用电量1852亿千瓦时，同比增长4.9%；其中，充换电服务业、互联网数据服务用电量分别为168亿、98亿千瓦时，增速分别达到57.0%、35.4%。城乡居民生活用电量1210亿千瓦时，同比下降6.0%，主要原因是受“沙德尔”台风等极端天气影响，9月上中旬华中、华东、南方等高负荷区域降温用电需求下降。",
+      "link": "https://www.36kr.com/newsflashes/4035053274305668",
+      "published": "Wed, 21 Oct 2026 03:08:27 GMT"
+    },
+    {
+      "source": "36氪",
+      "title": "创业板指跌超1%",
+      "summary": "36氪获悉，创业板指跌超1%，此前一度涨近1%，权重股宁德时代跌超10%。",
+      "link": "https://www.36kr.com/newsflashes/4035051816195204",
+      "published": "Wed, 21 Oct 2026 03:06:58 GMT"
+    },
+    {
+      "source": "36氪",
+      "title": "工信部：加强汽车产品创新设计和研发测试验证",
+      "summary": "工信部副部长辛国斌21日在北京举行的2026世界智能网联汽车大会开幕式上指出，中方将围绕能源动力、智能底盘、智能网联等关键领域，支持龙头企业牵头组建创新联合体。抓好自动驾驶强制性国家标准宣贯落地，加快自动泊车、运行监测、数据安全等重点领域的标准研制，加快出台关于加强汽车产品创新设计和研发测试验证有关管理工作的相关规定。同时，将积极参与国际经贸规则制定，促进国内标准与国际规则有效衔接，支持中外企业深化研发投资产业合作，共同打造优质产品，携手开拓全球市场。（国是直通车）",
+      "link": "https://www.36kr.com/newsflashes/4035044464923781",
+      "published": "Wed, 21 Oct 2026 03:06:24 GMT"
+    },
+    {
+      "source": "36氪",
+      "title": "北京亦庄机器人科技产业发展公司增资至约8.7亿",
+      "summary": "36氪获悉，天眼查App显示，近日，北京亦庄机器人科技产业发展有限公司发生工商变更，注册资本由2.1亿人民币增至约8.7亿人民币，增幅约312%。北京亦庄机器人科技产业发展有限公司成立于2023年10月，法定代表人为徐越，经营范围含技术服务、技术开发、技术咨询、技术交流、技术转让、技术推广等。股东信息显示，该公司由北京亦庄投资控股有限公司全资持股。",
+      "link": "https://www.36kr.com/newsflashes/4035039377707906",
+      "published": "Wed, 21 Oct 2026 03:02:08 GMT"
+    },
+    {
+      "source": "36氪",
+      "title": "星巴克中国：10月22日起将在全国开始施行消费入座",
+      "summary": "从星巴克中国方面获悉，10月22日起，星巴克将在全国开始施行消费入座，门店会摆放相关提示牌。在实际的营运过程中，星巴克会为伙伴提供统一的服务指引和必要支持，伙伴会遵循友好、友善的沟通原则，并妥善处理顾客的合理突发需求和特殊情况。星巴克方面表示，如遇到孕妇、行动不便者等需要帮助的顾客，伙伴将优先给予帮助。规则清晰，但执行会保有温度，“人文关怀始终是我们的应有之义，我们将持续投入资源改善门店体验，并与顾客共同创造和维护第三空间的美好体验。”（澎湃）",
+      "link": "https://www.36kr.com/newsflashes/4035040813454470",
+      "published": "Wed, 21 Oct 2026 02:55:46 GMT"
+    },
+    {
+      "source": "36氪",
+      "title": "SpaceX首席财务官：新部署算力投资回收期不足一年",
+      "summary": "美东时间周二盘后，SpaceX公司首席财务官布雷特·约翰森在财报电话会上表示，公司超级智能基础设施与解决方案部门增长前景强劲，算力市场行情十分火爆，“当前价格下，新部署算力投资回收期不足一年。算力单位瓦价格略高于上季度我们给出的30-50美元/瓦区间上沿，进一步印证地面超级智能算力投资具备吸引力。”马斯克稍后还补充道，超级智能算力短缺会长期持续，明年算力投资回收期存在缩短至六个月的可能性。（财联社）",
+      "link": "https://www.36kr.com/newsflashes/4035037886141573",
+      "published": "Wed, 21 Oct 2026 02:52:47 GMT"
+    },
+    {
+      "source": "36氪",
+      "title": "全国碳排放交易量累计突破10亿吨大关",
+      "summary": "在国务院新闻办公室今天（21日）上午举行的新闻发布会上，生态环境部副部长李高介绍，我国碳市场建设已进入快速发展新阶段。前不久，全国碳排放权交易市场交易量累计正式突破10亿吨大关。全国碳市场启动五年多来，我国从无到有，建成了全球规模最大的碳排放权交易市场，管控二氧化碳排放量约83亿吨，占全国二氧化碳排放总量65%以上。如今，碳市场建设已进入快速发展新阶段。（央视新闻）",
+      "link": "https://www.36kr.com/newsflashes/4035035845530755",
+      "published": "Wed, 21 Oct 2026 02:50:43 GMT"
+    },
+    {
+      "source": "36氪",
+      "title": "正泰南尔出席环境智库发展与合作国际会议，分享绿色转型实践与思考",
+      "summary": "近日，作为联合国“科学促进可持续发展国际十年（2024—2033）”系列活动之一，由浙江工业大学主办的“环境智库发展与合作国际会议”在杭州召开。会议以“绿色转型的政策选择和实施路径”为主题，正泰集团董事、集团研究院执行院长南尔受邀出席并作主旨演讲，系统分享了正泰从战略顶层设计到产业一线落地的绿色转型实践。为使应对气候变化行动更高效，正泰基于在绿色制造、清洁能源、智能电网等领域的多年实践，正着力构建以数字化碳管理平台为纽带的一站式降碳解决方案，赋能各行各业加速绿色低碳转型。",
+      "link": "https://www.36kr.com/newsflashes/4035031261434757",
+      "published": "Wed, 21 Oct 2026 02:46:03 GMT"
+    },
+    {
+      "source": "36氪",
+      "title": "高盛目前预计澳大利亚央行将在11月加息",
+      "summary": "高盛经济学家Andrew Boak等人称，澳大利亚央行副行长Andrew Hauser周三发表的言论“显然是鹰派的”。高盛目前预计，澳大利亚央行将在11月会议上将政策利率上调25个基点至4.85%，而不是维持利率不变。（新浪财经）",
+      "link": "https://www.36kr.com/newsflashes/4035029384025218",
+      "published": "Wed, 21 Oct 2026 02:44:08 GMT"
+    },
+    {
+      "source": "36氪",
+      "title": "中原证券：科创结构行情强劲 券商业绩弹性加速释放",
+      "summary": "36氪获悉，中原证券发布研报称，2026H1证券行业营收同比增长31.38%，净利同比增长23.50%，行业各项业务实现全面增长。该行预计四季度券商板块平均P/B的核心波动区间将维持在1.10倍-1.30倍之间，如若向估值波动区间的下限靠拢，仍是再度布局券商板块的良机，积极保持对政策面、市场面以及券商板块的持续关注。",
+      "link": "https://www.36kr.com/newsflashes/4035028546196611",
+      "published": "Wed, 21 Oct 2026 02:43:17 GMT"
+    },
+    {
+      "source": "虎嗅",
+      "title": "最聪明的人，正在亲手训练取代自己的AI",
+      "summary": "<figure><img src=\"https://img.huxiucdn.com/ai/ai-general-cover/202610/21/39813-prod-nb2qn-general-1-1792556270079.png?imageView2/1/w/1440/h/810/|imageMogr2/strip/interlace/1/quality/85/format/png\" /></figure>世界上最聪明的人，正把自己训练成可被取代的人，而且乐在其中。那是九月的一个凌晨，大约1点30分，Lazaros-Antonios Chatzilazarou收到了一条领英消息。他正熬夜打电子游戏——这是他在攻读博弈论博士学位、同时兼顾安永（EY）的工作和伦敦政治经济学院教职之余，允许自己享受的一点放纵。他暂停......<p><span>本文来自微信公众号：</span><a href=\"https://mp.weixin.qq.com/s?__biz=MzU1NTY2MTAxNg==&amp;mid=2247567176&amp;idx=1&amp;sn=f29fe7e151",
+      "link": "https://www.huxiu.com/article/4899186.html",
+      "published": "Wed, 21 Oct 2026 04:19:04 GMT"
+    },
+    {
+      "source": "虎嗅",
+      "title": "假如洛阳挖到传国玉玺，要不要“上交”国博",
+      "summary": "<figure><img src=\"https://img.huxiucdn.com/ai/ai-general-cover/202610/21/39812-prod-db-general-1-1792556099179.png?imageView2/1/w/1440/h/810/|imageMogr2/strip/interlace/1/quality/85/format/png\" /></figure>前几天，洛阳博物馆宣布要闭馆改造一年。消息一出，网友的脑洞比洛阳地下的文物还密集：时间那么久，莫不是挖到了传国玉玺，正在连夜开箱验货？其实不是的，官方很快辟了谣。闭馆是因为运行十几年后，有许多基础设施需要修缮，比如更新电梯空调之类的，文物也需要系统性的养护。做出这个决定也是为了在以后提高游客们的体验。玩笑归玩......<p><span>本文来自微信公众号：</span><a href=\"https://mp.weixin.qq.com/s?__biz=MzA4Mzc5NDk1Mg==&amp;mid=2652343320&amp;idx=1&amp;sn=a0eeabb5a2df0",
+      "link": "https://www.huxiu.com/article/4899184.html",
+      "published": "Wed, 21 Oct 2026 04:16:17 GMT"
+    },
+    {
+      "source": "虎嗅",
+      "title": "伊朗战争冲击能源市场，非洲经济为什么还增长了4.5%？",
+      "summary": "<figure><img src=\"https://img.huxiucdn.com/ai/ai-general-cover/202610/21/39808-prod-nb2qn-general-1-1792554568730.png?imageView2/1/w/1440/h/810/|imageMogr2/strip/interlace/1/quality/85/format/png\" /></figure>伊朗战争推高了石油、天然气、化肥和航运成本。按照过去的经验，外汇储备有限、能源依赖进口、粮食价格敏感的非洲国家，通常会最先承压。结果却比预期好。国际货币基金组织预计，撒哈拉以南非洲2026年增长4.5%，比4月预测上调0.2个百分点；世界银行的口径稍低，预测为4.3%，但同样上调了预期。近四分之三的非洲国家获......<p><span>本文来自微信公众号：</span><a href=\"https://mp.weixin.qq.com/s/ktuUxNyuFaD1xqP5QyshYQ\" rel=\"nofollow\" style=\"text-decoration: none;\"",
+      "link": "https://www.huxiu.com/article/4899178.html",
+      "published": "Wed, 21 Oct 2026 04:10:38 GMT"
+    },
+    {
+      "source": "虎嗅",
+      "title": "AI 泡沫监测·之一：债务层已经先动了",
+      "summary": "<figure><img src=\"https://img.huxiucdn.com/ai/ai-general-cover/202610/21/39810-prod-nb2qn-general-1-1792555729819.png?imageView2/1/w/1440/h/810/|imageMogr2/strip/interlace/1/quality/85/format/png\" /></figure>10月初，彭博报道：OpenAI正以约1.4万亿美元投前估值寻求至少300亿美元融资，性质是\"IPO的过桥\"。路透、TechCrunch等转述，OpenAI官方拒绝置评。（报道日期有10月5日与9日两说，待核。）新轮接洽的名单里，出现了阿联酋MGX和贝莱德——钱追着公司投。注意这笔钱的三个定语。一，投资人驱动......<p><span>本文来自微信公众号：</span><a href=\"https://mp.weixin.qq.com/s/2vukoxxEo44q4GT2RNQN4w\" rel=\"nofollow\" style=\"text-decoration: none;\"",
+      "link": "https://www.huxiu.com/article/4899183.html",
+      "published": "Wed, 21 Oct 2026 04:10:14 GMT"
+    },
+    {
+      "source": "虎嗅",
+      "title": "月薪3万，为什么还会觉得自己混得不好？",
+      "summary": "<figure><img src=\"https://img.huxiucdn.com/ai/ai-general-cover/202610/21/39809-prod-db-general-1-1792554571161.png?imageView2/1/w/1440/h/810/|imageMogr2/strip/interlace/1/quality/85/format/png\" /></figure>假设一个年轻人，八年前刚工作时月薪8000元，和朋友合租，出门旅行要提前盯着机票价格。如今工资涨到3万元，住上了独立的一居室，吃饭不必总看价格，每个月还能存下一笔钱。按八年前给自己列的愿望清单，他已经完成了大半。可他下班后打开小红书，刷到的是同龄人晒出的新房装修、家庭年入百万的账单，以及“30岁之前应该完成的......<p><span>本文来自微信公众号：</span><a href=\"https://mp.weixin.qq.com/s/so85s4z3OL98WBjBZ7SHog\" rel=\"nofollow\" style=\"text-decoration: none;\" ta",
+      "link": "https://www.huxiu.com/article/4899179.html",
+      "published": "Wed, 21 Oct 2026 03:50:56 GMT"
+    },
+    {
+      "source": "虎嗅",
+      "title": "中国第一个“三机场”城市，要来了",
+      "summary": "<figure><img src=\"https://img.huxiucdn.com/ai/ai-general-cover/202610/21/39807-prod-nb2qn-general-1-1792554444813.png?imageView2/1/w/1440/h/810/|imageMogr2/strip/interlace/1/quality/85/format/png\" /></figure>超大特大城市，还在建机场。01第一个“三机场”城市，呼之欲出。日前，上海国际航空枢纽战略规划发布，提出到2035年建成南通新机场，形成“两地三场”，打造世界一流航空枢纽。所谓“南通新机场”，即民间说的“上海第三机场”，早在2019年就已被纳入规划，今年又被列入国家“十五五”规划109项重大工程。据悉，南通新机......<p><span>本文来自微信公众号：</span><a href=\"https://mp.weixin.qq.com/s?__biz=MzUyMTI0MDkxMg==&amp;mid=2247513816&amp;idx=1&amp;sn=38297a4b35",
+      "link": "https://www.huxiu.com/article/4899180.html",
+      "published": "Wed, 21 Oct 2026 03:48:41 GMT"
+    },
+    {
+      "source": "虎嗅",
+      "title": "真正会做决定的人，只问三件事",
+      "summary": "<figure><img src=\"https://img.huxiucdn.com/ai/ai-general-cover/202610/21/39804-prod-nb2qn-general-1-1792552903298.png?imageView2/1/w/1440/h/810/|imageMogr2/strip/interlace/1/quality/85/format/png\" /></figure>如果一份新工作的录用通知只保留到明天下午，父母劝你别折腾，伴侣觉得涨薪机会不该错过，同行朋友提醒你那家公司刚调整业务，旧老板偏偏也在这时开口挽留——你会听谁的？晚上两点，你还在改那张比较表。收入、稳定、成长空间、通勤时间，从八项加到十五项；网页开了一排，答案却比白天更模糊。你舍不得关掉最后一个页面，仿佛只要还......<p><span>本文来自微信公众号：</span><a href=\"https://mp.weixin.qq.com/s/prd1ysuWtTCh5wDeShjvDw\" rel=\"nofollow\" style=\"text-decoration: none;\"",
+      "link": "https://www.huxiu.com/article/4899166.html",
+      "published": "Wed, 21 Oct 2026 03:23:03 GMT"
+    },
+    {
+      "source": "虎嗅",
+      "title": "敢重新当新手，是一个人继续变强的能力",
+      "summary": "<figure><img src=\"https://img.huxiucdn.com/ai/ai-general-cover/202610/21/39805-prod-grokep-general-1-1792552905721.png?imageView2/1/w/1440/h/810/|imageMogr2/strip/interlace/1/quality/85/format/png\" /></figure>转岗之后，常见的一种落差是：上一份工作里，别人遇到难题会来找你。你给出的判断，通常八九不离十。换到一个新领域，同样的人坐在工位上，对着一个基础问题查了四十分钟资料，还是不敢确定答案对不对。以前两分钟能给出方向，现在连问题本身都还在理解。这种落差很容易被读成\"我不适合这里\"。可早期表现变差，最多说明旧办法不能直......<p><span>本文来自微信公众号：</span><a href=\"https://mp.weixin.qq.com/s/R1eMnusOb_s5Q1GzZXu3hA\" rel=\"nofollow\" style=\"text-decoration: none;",
+      "link": "https://www.huxiu.com/article/4899165.html",
+      "published": "Wed, 21 Oct 2026 03:22:55 GMT"
+    },
+    {
+      "source": "虎嗅",
+      "title": "人可以温和，但要有匪气",
+      "summary": "<figure><img src=\"https://img.huxiucdn.com/ai/ai-general-cover/202610/21/39802-prod-grokep-general-1-1792552720688.png?imageView2/1/w/1440/h/810/|imageMogr2/strip/interlace/1/quality/85/format/png\" /></figure>想提加薪，消息都写好了。如果迟迟没发，理由可能是\"现在不是时候\"。想争取一个机会，也可能在看完岗位要求后关掉页面：\"人家应该不需要我。\"连表达一点不同意见，都要先铺好三层软垫：\"不一定对啊\"\"我随便说说\"\"大家别介意\"。意见还没出来，歉已经道完了。有时候，对方根本还没表态，我们就已经替他说完了\"不\"。想要的东......<p><span>本文来自微信公众号：</span><a href=\"https://mp.weixin.qq.com/s/vFYpOb2kfIW-Lexfv2m6lg\" rel=\"nofollow\" style=\"text-decoration: none;",
+      "link": "https://www.huxiu.com/article/4899163.html",
+      "published": "Wed, 21 Oct 2026 03:20:09 GMT"
+    },
+    {
+      "source": "虎嗅",
+      "title": "从自研到“借台唱戏”，券商为何挤入第三方AI平台",
+      "summary": "<figure><img src=\"https://img.huxiucdn.com/ai/ai-general-cover/202610/21/39801-prod-nb2qn-general-1-1792552536283.png?imageView2/1/w/1440/h/810/|imageMogr2/strip/interlace/1/quality/85/format/png\" /></figure>2026年被业内视为“金融智能体元年”，已有超10家主流券商接入Kimi、腾讯WorkBuddy、阿里千问、火山引擎等第三方AI平台，券商AI转型正从“自研内用”迈向“生态开放”。券商这两年的AI“打法”，转得有点快。一年前，券商还在比拼自研大模型，但今年，却一个个往Kimi、腾讯WorkBuddy、阿里千问......<p><span>本文来自微信公众号：</span><a href=\"https://mp.weixin.qq.com/s?__biz=MzIyMzYyOTk2OA==&amp;mid=2247620938&amp;idx=1&amp;sn=040bd3d59d",
+      "link": "https://www.huxiu.com/article/4899162.html",
+      "published": "Wed, 21 Oct 2026 03:17:00 GMT"
+    },
+    {
+      "source": "虎嗅",
+      "title": "一场血淋淋的豪赌",
+      "summary": "<figure><img src=\"https://img.huxiucdn.com/ai/ai-general-cover/202610/21/39800-prod-grokep-general-1-1792551973087.png?imageView2/1/w/1440/h/810/|imageMogr2/strip/interlace/1/quality/85/format/png\" /></figure>AI的尽头是电力？电力的尽头是什么？是赌博。10月10日，据界面新闻等媒体消息，一份名为《关于请求采取紧急措施防范广西电力市场系统性风险的请示》在网络迅速发酵。这份“血书”由9家央企下属售电公司联合递交，一下来就写道：当前，广西售电行业正面临电力市场化改革推进以来最为严峻的生存危机……若不及时干预化解，可能引......<p><span>本文来自微信公众号：</span><a href=\"https://mp.weixin.qq.com/s?__biz=MzA3OTI2OTI5NA==&amp;mid=2656332330&amp;idx=1&amp;sn=9cf8788f6",
+      "link": "https://www.huxiu.com/article/4899156.html",
+      "published": "Wed, 21 Oct 2026 03:07:29 GMT"
+    },
+    {
+      "source": "虎嗅",
+      "title": "AI 会是人类最后的发明吗？",
+      "summary": "<figure><img src=\"https://img.huxiucdn.com/ai/ai-general-cover/202610/21/39799-prod-nb2qn-general-1-1792551819648.png?imageView2/1/w/1440/h/810/|imageMogr2/strip/interlace/1/quality/85/format/png\" /></figure>本文由我和Gemini Argon共同完成，用于启发我正在为自己构建的个人AI系统。概述这篇文章探讨了人工智能领域正在发生的递归自我改进现象，即AI开始深度参与制造比自身更强的下一代系统。文章指出，这不仅会带来技术进化的指数级加速，也将彻底改变人类社会的研发范式和组织形态。同时，作者深入分析了递归系统面临的验......<p><span>本文来自微信公众号：</span><a href=\"https://mp.weixin.qq.com/s?__biz=MjM5ODAyMjg3Ng==&amp;mid=2650760086&amp;idx=1&amp;sn=fe56e4ae88",
+      "link": "https://www.huxiu.com/article/4899155.html",
+      "published": "Wed, 21 Oct 2026 03:05:19 GMT"
+    },
+    {
+      "source": "虎嗅",
+      "title": "AI短剧，怎么就不配烧算力了？",
+      "summary": "<figure><img src=\"https://img.huxiucdn.com/ai/ai-general-cover/202610/21/39798-prod-grokep-general-1-1792551738573.png?imageView2/1/w/1440/h/810/|imageMogr2/strip/interlace/1/quality/85/format/png\" /></figure>今天很多人似乎习惯于将AI应用划分为三六九等。用于科学研究，是高价值的；用于编程，是推动生产力的；用于广告营销，似乎就要打个折扣；到了短剧和娱乐，则几乎成了一种技术资源的浪费。最近，AI短剧突然背上了一口大锅：浪费中国的算力。事情的起因是一组引发热议的数据。中文在线此前披露，国内AI Token消耗中，55%......<p><span>本文来自微信公众号：</span><a href=\"https://mp.weixin.qq.com/s?__biz=MzI1MjcwNzExMg==&amp;mid=2247626920&amp;idx=1&amp;sn=0d458881d",
+      "link": "https://www.huxiu.com/article/4899153.html",
+      "published": "Wed, 21 Oct 2026 03:03:48 GMT"
+    },
+    {
+      "source": "虎嗅",
+      "title": "动力电池的新“五代十国”",
+      "summary": "<figure><img src=\"https://img.huxiucdn.com/ai/ai-general-cover/202610/21/39796-prod-grokep-general-1-1792550833340.png?imageView2/1/w/1440/h/810/|imageMogr2/strip/interlace/1/quality/85/format/png\" /></figure>理想开始用自己的品牌，为自研电池担保。10月20日晚，理想汽车发布“连山”电动技术体系，同时推出电池保障计划。自研电池因自身质量问题引发自燃、车辆达到报废标准的，赔付同等配置新车；因碰撞或底盘剐蹭导致自研电池起火、车辆达到报废标准的，补足车损险保单保额与保险实际赔付之间的差额。这份保障直接对准了不同电池品牌之......<p><span>本文来自微信公众号：</span><a href=\"https://mp.weixin.qq.com/s?__biz=MzI2NDU0MDQzNg==&amp;mid=2247494304&amp;idx=1&amp;sn=f85b52dae",
+      "link": "https://www.huxiu.com/article/4899146.html",
+      "published": "Wed, 21 Oct 2026 02:48:28 GMT"
+    },
+    {
+      "source": "虎嗅",
+      "title": "看面相断生死，AI居然真做到了？",
+      "summary": "<figure><img src=\"https://img.huxiucdn.com/ai/ai-general-cover/202610/21/39794-prod-grokep-general-1-1792550357710.png?imageView2/1/w/1440/h/810/|imageMogr2/strip/interlace/1/quality/85/format/png\" /></figure>10月20日，国际医学期刊《柳叶刀·数字健康》发表了一项研究：AI仅凭一张普通的脸部照片，就能识别出癌症患者的死亡风险差异。美国麻省总医院布莱根医疗集团开发了一款名为FAHR-Face的AI模型，让它从人脸照片中寻找与患者生存情况有关的线索。研究人员找来3820名没参与过模型训练的癌症患者进行测试，其中，12......<p><span>本文来自微信公众号：</span><a href=\"https://mp.weixin.qq.com/s/Eio8NhkcgYhXn4rFKCSqXA?scene=1\" rel=\"nofollow\" style=\"text-decoratio",
+      "link": "https://www.huxiu.com/article/4899144.html",
+      "published": "Wed, 21 Oct 2026 02:40:50 GMT"
+    },
+    {
+      "source": "虎嗅",
+      "title": "健身教练月入一万，是一件很难的事",
+      "summary": "<figure><img src=\"https://img.huxiucdn.com/ai/ai-general-cover/202610/21/39793-prod-grokep-general-1-1792550170675.png?imageView2/1/w/1440/h/810/|imageMogr2/strip/interlace/1/quality/85/format/png\" /></figure>“做健身教练，一个月连一万块都挣不到，还干什么？”类似的话，在社交媒体上并不少见。有些教练晒出自己的收入，告诉新人只要肯努力，月入过万很正常；有人讨论职业发展，也把一万元当成一道最低标准：低于一万元，说明你不会销售，不会维护客户，或者根本不适合做教练。这类话很有冲击力。对准备入行的人来说，它会制造一种期待：既......<p><span>本文来自微信公众号：</span><a href=\"https://mp.weixin.qq.com/s/451F3asglZD-5fQ6s5twsw\" rel=\"nofollow\" style=\"text-decoration: none;",
+      "link": "https://www.huxiu.com/article/4899140.html",
+      "published": "Wed, 21 Oct 2026 02:37:39 GMT"
+    },
+    {
+      "source": "虎嗅",
+      "title": "3.7万亿美元大合并？马斯克：好主意",
+      "summary": "<figure><img src=\"https://img.huxiucdn.com/article/article_default_picpath_v1.png?imageView2/1/w/1440/h/810/|imageMogr2/strip/interlace/1/quality/85/format/png\" /></figure>“这个问题让我感觉自己正在雷区里跳踢踏舞。”美国时间10月20日，SpaceX第三季度财报电话会上，马斯克被问了一个敏感的问题：SpaceX会不会和特斯拉合并？马斯克先是开了个玩笑，随后给出了自己的态度：“我认为这是个好主意。”马斯克透露，SpaceX与特斯拉已经分别成立了由独立董事组成的特别委员会，正在正式......<p><span>本文来自微信公众号：</span><a href=\"https://mp.weixin.qq.com/s/sEi9adjtut2F9XsZhJomUA\" rel=\"nofollow\" style=\"text-decoration: none;\" target=\"_blank\"><span> 字母榜 </span><",
+      "link": "https://www.huxiu.com/article/4899134.html",
+      "published": "Wed, 21 Oct 2026 02:21:45 GMT"
+    },
+    {
+      "source": "虎嗅",
+      "title": "一个社会的标准化期待越多，人们就越趋保守，越惧创新",
+      "summary": "<figure><img src=\"https://img.huxiucdn.com/article/article_default_picpath_v1.png?imageView2/1/w/1440/h/810/|imageMogr2/strip/interlace/1/quality/85/format/png\" /></figure>以偏概全的统计性思维对社会的损害不只体现在阻碍创新上，它也会直接伤害很多个体的福祉。不少计算机公司认为，一个程序员到了40岁就很可能赶不上最新的技术潮流。于是我们看到，不少程序员到40岁的时候就面临被企业辞退的困境。年届40的人在再就业市场上也常常举步维艰，那些招聘公司仅仅依据年龄这一项就将简历放在一边，而不......<p><span>本文来自微信公众号：</span><a href=\"https://mp.weixin.qq.com/s?__biz=MjM5NjYyMjM0MA==&amp;mid=2651079684&amp;idx=1&amp;sn=257278b9cbf8619b5cbf6c2c92e0f145&amp;chksm=bcf",
+      "link": "https://www.huxiu.com/article/4899130.html",
+      "published": "Wed, 21 Oct 2026 02:07:25 GMT"
+    },
+    {
+      "source": "虎嗅",
+      "title": "夏秋“虫恐”：当虫子进入城市，我们如何应对？",
+      "summary": "<figure><img src=\"https://img.huxiucdn.com/ai/ai-general-cover/202610/21/39787-prod-nb2qn-general-1-1792548317850.png?imageView2/1/w/1440/h/810/|imageMogr2/strip/interlace/1/quality/85/format/png\" /></figure>入秋后，晚上回家，即使屋里闷热，小林也不太敢开窗。最近，她在社交平台上刷到不少隐翅虫致人皮肤红肿、起水疱的帖子，担心虫子趁着开灯时从纱窗钻进来。窗户关上了，她心里却还是有些不安。这样的担忧并非个例。今年夏秋之交，隐翅虫在北方受到关注，美国白蛾幼虫也曾在京津冀多地大量出现。面对城市中突然出现的虫子，大多数人会感......<p><span>本文来自微信公众号：</span><a href=\"https://mp.weixin.qq.com/s?__biz=MzIwMDM5NzYyMQ==&amp;mid=2652508412&amp;idx=1&amp;sn=be75732796",
+      "link": "https://www.huxiu.com/article/4899129.html",
+      "published": "Wed, 21 Oct 2026 02:06:31 GMT"
+    },
+    {
+      "source": "虎嗅",
+      "title": "双十一进入持久战，大厂们与 AI 和解了吗",
+      "summary": "<figure><img src=\"https://img.huxiucdn.com/ai/ai-general-cover/202610/21/39786-prod-nb2qn-general-1-1792548281380.png?imageView2/1/w/1440/h/810/|imageMogr2/strip/interlace/1/quality/85/format/png\" /></figure>六百多年前，朱元璋靠“高筑墙、广积粮、缓称王”，在群雄并起的时代等到了自己的机会。今天的电商平台当然不必照搬古人的兵法，但在流量增长放缓、价格竞争激烈、消费者越来越理性的当下，这九个字仍然有现实意味。电商行业被AI“拿枪指着头”，已经两年了。两年前，关于AI的故事讲得很大。有人说，搜索框很快就会成为历史；有人......<p><span>本文来自微信公众号：</span><a href=\"https://mp.weixin.qq.com/s/4kZP5PxPL45YcprZDew_yw\" rel=\"nofollow\" style=\"text-decoration: none;\"",
+      "link": "https://www.huxiu.com/article/4899128.html",
+      "published": "Wed, 21 Oct 2026 02:06:08 GMT"
+    },
+    {
+      "source": "少数派",
+      "title": "怀旧手记｜世界首台 UMPC：三星 Q1，和当下平板有什么关系？",
+      "summary": "电脑与平板之间的界限，早在 20 年前的三星 Q1 上就已经可以随意切换了。<a href=\"https://sspai.com/post/115107\" target=\"_blank\">查看全文</a>",
+      "link": "https://sspai.com/post/115107",
+      "published": "Wed, 21 Oct 2026 10:23:21 +0800"
+    },
+    {
+      "source": "少数派",
+      "title": "派早报：美国政府指示各机构停用 DeepSeek、理想发布「连山」自研三电体系等",
+      "summary": "工信部就自动泊车等五项强制性国标征求意见，万事达卡 Apple Pay 新增 3 家合作银行等。<a href=\"https://sspai.com/post/116887\" target=\"_blank\">查看全文</a>",
+      "link": "https://sspai.com/post/116887",
+      "published": "Wed, 21 Oct 2026 08:07:07 +0800"
     }
   ]
 }
