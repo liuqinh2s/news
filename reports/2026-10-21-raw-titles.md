@@ -1,103 +1,129 @@
-# 2026-10-21 原始新闻标题 (237 条)
+# 2026-10-21 原始新闻标题 (272 条)
 
-## 澎湃新闻 (5 条)
+## 澎湃新闻 (20 条)
+- 马上评｜造谣“演唱会天价票”被拘，引流终被流量反噬 - ThePaper.cn
+- 古怪的人，古怪的故事 - ThePaper.cn
 - 同道论史：AI时代历史研究的多元探索 - ThePaper.cn
 - “神话与怪兽”：亚洲艺术的奇幻美学 - ThePaper.cn
+- 守护创作底线！全国文学报刊联盟要求作者签署《原创承诺书》 - ThePaper.cn
 - 从亚历山大·考尔德开始，雕塑动了起来 - ThePaper.cn
 - 68年了，他还在写：刘心武发布新书并谈“双面绣”写法 - ThePaper.cn
+- 张鹂：全球焦虑时代，“心理热”如何改造了中国心灵｜专访 - ThePaper.cn
 - 斯宾诺莎主义的伟大与局限 - ThePaper.cn
+- 造谣“肖战演唱会第一排门票25万元”，王某某（男，33岁）被拘留7天并处1000元罚款 - ThePaper.cn
+- 宣讲义诊齐发力 健康知识入社区 - ThePaper.cn
+- 台湾经济主管部门负责人称会配合美国政策，进一步限制AI芯片及先进半导体出口大陆，国台办：外部封锁围堵从来压制不了我们的进步 - ThePaper.cn
+- 发放过期餐食，乌鲁木齐航空致歉 - ThePaper.cn
+- 星光下的守护——让爱“刷”出色彩 - ThePaper.cn
+- 长春新区人民法院发放执行案款公示（2026年第32期） - ThePaper.cn
+- 美国外交政策全国委员会代表团到访京沪：见了哪些人？谈了什么？ - ThePaper.cn
+- “精准科普”大赛获奖作品 | 医路狂想曲 - ThePaper.cn
+- 临床研究显示疏通颈动脉狭窄，也无法逆转认知衰退 - ThePaper.cn
+- 说不尽、无穷好——秦皇秋dao丨百名生态摄影师走进北戴河采风交流活动开幕 - ThePaper.cn
+- 一图读懂 丨《关于做好2026-2027年城乡居民基本医疗保障有关工作的通知》 - ThePaper.cn
 
 ## 凤凰网 (20 条)
-- 男子造谣肖战演唱会门票25万元被拘留
-- “我忘付钱了”，澳大利亚一州长承认给车加油后意外“逃跑”
-- 抵制中国商品？菲律宾前国安顾问：你的内裤都来自中国！
-- 特朗普：你是谁？你有病啊！记者发文回怼：我刚体检完，很健康
-- 星巴克明日起全国施行“消费入座”
-- AI短剧，怎么就不配烧算力了？
-- 王毅到访保加利亚，现场品尝圆形大面包
-- 民进党当局将采购美阿拉斯加天然气，国台办回应
-- “台独”势力给周杰伦“扣帽子”，国台办回应
-- 人民锐评：特斯拉“能飞”，我们就被甩开了？
-- 特朗普第二任期内美方已吊销逾30万份签证
-- 民进党当局拒绝艺人张凌赫赴台交流，国台办回应
-- 当着德国总理的面，黄仁勋点出中国优势
-- 示威变骚乱！意大利政府米兰增兵500人
-- 前线俄军被曝有90万人：志愿兵与囚犯兵共8万，已死亡一半
-- 法国骚乱中，6车防暴警察专门保护马克龙妻子娘家商店？政府回应
-- 前总统，成了“总统大战”主角
-- 特殊时刻，日本民众集会要求高市早苗下台
-- 第一批返乡创业的中产，已经“旺铺招租”了？
-- 脑瘫女孩被帅气男友求婚成功，被人说“配不上”，女孩回应
+- 折叠屏为何姗姗来迟？苹果CEO：竞品“廉价又劣质”
+- 街头在燃烧，“总统在舞蹈”
+- 原农相因丑闻辞职后新农相又曝出丑闻，高市早苗被质疑“识人不明”
+- 普京会见美总统特使，会谈要点披露
+- 日企承认中蒙边境火灾系子公司高管活动引发
+- 官方通报“女子迟到错过检票跪求工作人员”：列车已停止检票，按规定未予放行
+- 高市执政一年，强势背后的尴尬藏不住了
+- 胡锡进：属于法国的“好时代”结束了
+- 首次亮相中期选举竞选活动，克林顿批美政坛一个坏风气
+- 因路面塌陷被困日本司机3个月后遗体才被找到，家属起诉县政府
+- 中蒙边境的这场大火，涉案日企也该向中国道歉
+- 官方来不及防御？欧洲考虑让企业“自行击落”无人机
+- 鲁比奥：没有美国支援，乌克兰已灭国
+- 锐减44.5%，赴日中国游客连续十个月下滑
+- 美总统特使：俄乌冲突结束后，美俄在发展经济方面具有合作前景
+- 泽连斯基和特朗普，彻底决裂了？
+- 因“毒纸尿裤”事件销量腰斩，又一公司起诉博主“靠谱老王”
+- 小天才手表衍生出灰产链：40元即提供破解服务，可禁止家长查看定位
+- 陕西神木警方回应问界汽车碰撞起火：系单方事故，司机已遇难
+- 外交部：中方依法依规对日本实施出口管制，目的是制止日本“再军事化”
 
-## 财新网 (20 条)
+## 财新网 (19 条)
+- 美特使在俄乌之间穿梭 泽连斯基提议实施美俄乌首脑三方谈判
+- 管窥中国网球赛事的赞助商们｜体坛
+- 9月上海二手房价三年来首次同比转涨 前三季近半成交总价低于200万元
+- 能源内参｜为避免氢能部分环节投资过热 国家发改委正制定相关引导方案；9月规模以上工业原煤产量降6.8%
+- 税费变化等因素致三季度利润环比下滑 宁德时代股价下跌逾10%
+- 出口超高速增长是否可持续？研究者称2027年或转入中高速增长
+- 全球K型分化的三大驱动：AI、利率与债务
+- 9月16—24岁失业率环比回落至18% 高于上年同期
+- 工行行长刘珺谈数字货币：技术只能加固信任，不能替代信任
+- 人事观察｜曾参与援疆 53岁扬州书记王进健升任云南省委常委
+- 星巴克中国实施入座消费 将投入3亿元升级门店
+- 中欧刚达成共识，欧盟为何又酝酿贸易新工具
+- 锂价重回10万意味着什么
 - 无形资产难估值、投资容错空间不足 科技金融如何应对五大挑战？
 - 【华尔街原声】摩根士丹利策略师：美股调整已接近尾声
 - 【华尔街原声】韩国前央行行长：AI繁荣可能加剧收入不平等
 - 安徽逆袭：探寻区域经济发展的文化变量
 - 央行正研究气候适应金融标准和循环金融标准 覆盖哪些领域？
 - 彭文生：从AI经济与安全资产看美债利率与国际货币变局
-- 维多利亚时代的体面观与温网的着装探界者｜体坛
-- 油价风险升高带动通胀
-- 2026年中国居民消费增长中的分化
-- 金融街论坛的政策信号
-- 欧洲西尼罗病毒疫情创纪录，这种蚊媒病毒离中国有多远？｜健保
-- 【市场动态】美国拟让受制裁油轮重返合法市场 运费高涨之际或响应寥寥
-- 【市场动态】富兰克林邓普顿：法国债市动荡恐演变为欧债危机2.0版 且情况更严重
-- 【权益周观察】上周A股缩量探底3674点 市场调整是否接近尾声？
-- 【市场动态】韩国出口保持强劲增势 央行利率决议前夕凸显经济韧性
-- 今日开盘：两市双双高开 沪指涨幅0.14%
-- 财新闻｜国考报名时间过半，热门岗位报录比超2800:1
-- 【交易簿】沙特360亿美元私有化顶级游戏厂商EA 高杠杆背后是现金流的精确算计
-- 对“空姐下跪”的反思不应止步于个案
-- 清华经管学院顾问委员会2026年会议举行 丁薛祥会见、王岐山宴请委员代表
 
-## 央视网 (6 条)
-- 区域外贸规模创新高 更均衡、高层次、高质量……协同发展动能持续释放 - 央视网
-- 科学认知骨质疏松 别让骨量悄然流失 - 央视网
+## 央视网 (8 条)
 - 广东：深圳多处APEC主题巨型花艺景观亮相 - 央视网
-- 台当局禁赴大陆参加孙中山诞辰纪念活动 国台办回应 - 央视网
+- 上游硬件、中游基建、下游应用“多点开花” 政策“组合拳”护航为民间投资打开新空间 - 央视网
+- 全国碳排放权交易市场成交量突破10亿吨 - 央视网
+- 科学认知骨质疏松 别让骨量悄然流失 - 央视网
+- 欧洲天然气基准价格近4年来首次突破90欧元 - 央视网
 - AI仿冒演员带货 网友难辨真假 - 央视网
-- 很有“仪式感”！红外相机拍到滇金丝猴悠闲吃笋画面 - 央视网
+- 台当局禁赴大陆参加孙中山诞辰纪念活动 国台办回应 - 央视网
+- 公安部网安局：“肖某演唱会第一排门票25万元”不实 - 央视网
 
-## BBC (13 条)
-- US envoy to meet Putin in Russia as Zelensky says intelligence sharing 'works now'
-- France is divided over who to blame for weekend riots and what to learn from them
-- Elon Musk says Tesla-SpaceX merger being considered
-- Trump and Zelensky appear at loggerheads despite Oslo optimism
-- Alberta's decisive decision to stay in Canada gives Carney backing to take on Trump
+## BBC (19 条)
+- US citizen Stephen Hubbard freed by Russia and 'on his way home', Trump says
+- Trump and Zelensky appear at loggerheads despite new optimism
+- Katya Adler: France divided over who to blame for riots and what to learn from them
+- Australian MP loses both legs after alleged car attack, husband says
+- Elon Musk confirms he is considering merging Tesla and SpaceX
+- Pakistan arrests man wanted by US over $126m postage fraud case
 - Sudan army drones hit mourners and fuel market killing more than 300 people, sources say
+- Gambia to pay victims of Yahya Jammeh's rule from proceeds of his seized US mansion
+- Alberta's decisive decision to stay in Canada gives Carney backing to take on Trump
 - Trump sued over Canadian tariffs in latest legal challenge
 - Suspect arrested after historic town hall set alight - French media
 - Cornell Jane Doe says embattled university head doubted her gang-rape allegation
+- Why is Elon Musk plotting a mega-merger of SpaceX and Tesla?
 - Haitian migrants changed this US town - Trump's deportation drive is reshaping it again
+- 'Trash Island' or DC landmark? How a golf course got Trump in a messy legal dispute
 - Borneo burning: Life on the frontline of South East Asia's toxic haze
 - Is Ebola under control in Kenya after nine cases confirmed?
-- Is Donald Trump ready to do business with Myanmar?
+- Huge crowds watch attempt to save shark stranded in South Korean canal
+- BBC inside Australian court as man charged with attacking MP stays silent in first hearing
 
-## Reuters (4 条)
+## Reuters (5 条)
+- Stocks eke out modest gains thanks to earnings cheer - Reuters
 - Trump administration says it has revoked over 300,000 visas - Reuters
 - UN experts urge Indian authorities to cease 'use of excessive force' to curb protests - Reuters
-- India's Jio IPO opens for public bids in record $3.2 billion sale - Reuters
-- President Trump’s approval hits new low in Reuters/Ipsos poll – what that means for insurance - Insurance Business
+- Ambani's Jio IPO oversubscribed within hours in record Indian sale - Reuters
+- Trump’s Approval Rating Sinks To New Record Low, Poll Finds - Forbes
 
-## NYTimes (17 条)
+## NYTimes (20 条)
+- Palestinians Hope Israeli Election Will Oust Netanyahu
+- UK to Headphone Dodgers on Trains: Shush
+- Australian Politicians Were Already on Edge Before One of Their Own Was Attacked
+- A.I. Election Videos Are Flooding Brazil. Could They Sway the Vote?
+- As Alberta Rejects Canada Separatism, Carney Gets Much of the Credit
+- Modi Seeks to Calm Allies by Shackling Gen Z Protests
+- China Moves to Tighten Its Grip Over Exports of Top A.I. Models
 - Student Protesters in France Have a Strange New Slogan. What Does It Mean?
-- Robert Kabera, Rwandan Government Critic, Beheaded in Uganda
+- Nigeria Announces First Case of Ebola in Current Outbreak
 - 178 Years After Banning Slavery, France Scraps ‘Code Noir’ Rules That Governed It
 - Why Zelensky Took the Gloves Off This Time With Trump
-- France to Extend Curfews After Calm Night Follows Days of Riots
-- Rubio Travels to India to Strengthen Economic Ties Amid Strained U.S. Relations
-- The Mayor of a City in Haiti Warned of a Massacre. No One Listened.
-- Hegseth Said to Make Unannounced Visit to Israel for Talks With Netanyahu
-- UK to Headphone Dodgers on Trains: Shush
-- As Alberta Rejects Canada Separatism, Carney Gets Much of the Credit
+- Death Toll From Venezuela Quakes Likely Far Exceeds Official Count
+- Why These Towers Collapsed in Venezuela’s Earthquakes
 - Art Basel Paris Preview Draws Interest Despite Protests
-- Nigeria Announces First Case of Ebola in Current Outbreak
 - China Criticizes U.S. Ban on DeepSeek A.I. in Government Systems
 - Is Putin’s Waiting Game Working?
 - The British Police Rearrest Two in Connection With Alleged Terror Plot
-- Alberta Voters Reject Leaving Canada in Referendum on Separatism
-- Trump’s Push for Deals With Russia Powers His Frustration With Ukraine
+- Robert Kabera, Rwandan Government Critic, Beheaded in Uganda
+- Rubio Travels to India to Strengthen Economic Ties Amid Strained U.S. Relations
+- Hegseth Said to Make Unannounced Visit to Israel for Talks With Netanyahu
 
 ## CNN (6 条)
 - 0% intro APR until 2024 is 100% insane
@@ -108,26 +134,26 @@
 - Want Cash Out of Your Home? Here Are Your Best Options
 
 ## 微博热搜 (20 条)
-- 宝马员工争着离职挤崩系统
-- 坠亡幼童爷爷称一家人不谈补偿问题
-- 一组数字看震撼人心的伟大远征
-- 檀健次可心柔全球品牌代言人
-- 拟出台的中国AI禁令震动全球
-- 武志红 李雪
-- 国家癌症中心公布发病前五癌症
-- 带着微博去旅行
-- 目前我国只批准两款L3车型
-- 甲状腺癌为何越来越多
-- 雷霆马刺大冲突
-- 魏娆知道自己的身世了
-- 曝艺人自费高定
-- 父亲遛狗幼童坠亡称已将狗处理
-- 扁鹊老婆
-- 刘恺威曾谈对杨幂的第一印象
-- 律师谈肖战二开不退票
-- A股
-- 陈瑜林子濠结婚
-- 易梦玲因护照被偷错过维密秀
+- 芭莎盛典红毯
+- 台独给周杰伦扣帽子国台办回应
+- 高质量发展石油行
+- 京东AI玩惊喜日买3C数码低至0元
+- 一生断句的中国人
+- 香港查获多支尸皮针
+- 12306回应女子迟到错过检票失控哀求
+- 一朵棉花改变世界
+- 突然理解为什么要去大厂工作了
+- 红果短剧收费担忧
+- Babycare重回天猫销量第一
+- 红果短剧将下线金币功能
+- 毛不易称结婚越来越不意味着什么
+- 曝自费高定艺人把品牌pr气坏了
+- 白鹿开毯
+- 杨幂 旷野女王
+- 宇树发布H2-X功夫传奇
+- 红果短剧回应下架金币功能
+- 梅尼耶吐槽妻子身上都是添加剂
+- 香奈儿19M手工艺与当代创意触碰
 
 ## 知乎热榜 (20 条)
 - 丝绸之路沿线，哪些古城遗址最能体现古代东西方文化交流的痕迹？
@@ -146,127 +172,140 @@
 - 语言学中有哪些类似「哈基米」的现象？
 - 为什么有些博物馆不允许使用闪光灯拍照？
 - 中国古代历史上为什么很少有像近现代欧洲石制教堂宫殿这样高大宏伟的建筑？
+- 我国有哪些成功控制外来入侵生物物种的案例和经验？
+- 与中国汉族基因最接近的外国其他民族是什么？
 - 动物它们平时在休息，或者在发呆的时候，它们都在想什么问题？会像我们人类一样为了生存思考各种问题吗？
 - 既然国人嫌弃月饼高油高糖，为啥不把月饼出口到喜爱糖油混合物的美国呢？
-- 历史上谁曾经成功潜入过皇宫？
-- 「国之大者，在祀与戎」，为什么祭祀能和战争并列成为国家大事？
 
 ## B站热门 (20 条)
-- 《三角洲行动》新干员档案：维罗妮卡·卡尔多佐—代号野火
+- 笑个der啊你，我对象吗你就笑
+- 豆奶虫之殇【AI全民制作人】
+- 《人间异想计划》22分钟实机首曝｜间章：如果之事与未践之约
+- 作死网红辱骂古兹曼老婆，挑衅古兹曼儿子，身中17枪打烂内脏
 - 我得到了，能看到表白率的超能力……
-- 大难不死的男孩爱上纯血家族的女孩【AI全民制作人】
-- 【抢先看】《裁员裁到大动脉》｜我宣布这是2026最解气职场爽剧！当年全员抢我功劳压我晋升，我离职后，全公司集体翻车崩盘！
-- PCL出事了？那MC下载和联机，我们先顶上了
-- 揭秘新兴赛博生意：谁在给机器人“卖命”？【晚点LatePost】
-- 中文已死：为什么我们越来越不敢好好说话？
-- 今天吃红糖糍粑
-- 社交媒体世界大战：泰韩法巴西已加入抗日全球统一战线
-- 财神窦占龙 第12集 宿仇【8月国创】
-- 南京人披旭日旗挑衅，莫大校友透露朋友圈内容，发现事情并不简单
-- 《三过车门而不入》
-- 《绝区零》菲欧妮EP | 1% Battery Girl 低电量女孩
+- 《南屏晚钟》来啦！
+- 荣耀Robot Phone上手体验：形态特别，用起来咋样？
 - 绝对不能看的儿童节目！2026最新《逃出布迪秀》：坠入诡异老式儿童节目次元....
-- 法国55万人大游行！但马克龙和夫人在跳舞
-- 谁拍的，到底谁拍的！
 - ⚡赵本山  《绅士Gentle Man》⚡
-- 法国影响力最大的八卦是什么？【神奇组织56】
-- 失望至极！为什么《边缘行者2》如此差劲……
-- 抽象历史人物志——张作霖
+- 艺 术 求 生
+- 《三过车门而不入》
+- 鼻塞疏通教程
+- 大难不死的男孩爱上纯血家族的女孩【AI全民制作人】
+- 入局
+- 揭秘新兴赛博生意：谁在给机器人“卖命”？【晚点LatePost】
+- 《绝区零》菲欧妮EP | 1% Battery Girl 低电量女孩
+- 意大利梭子蟹泛滥！芬兰家人跨国抓爆桶场面太夸张！中式全蟹盛宴辣炒葱姜白灼花式做法炫到欲罢不能！
+- 法国55万人大游行！但马克龙和夫人在跳舞
+- 广东富二代，辞职卖烧猪？
+- 社交媒体世界大战：泰韩法巴西已加入抗日全球统一战线
 
 ## 抖音热搜 (20 条)
-- 日美大规模军演引发多地抗议
-- NBA揭幕战76人击败尼克斯
-- 中国经济新动能孕育新机遇
-- 全国已开始进入赏秋模式
-- 当初雪落在大同古城
-- 国内黄金克价跌破890元
-- 当东北人假装南方人
-- 国家数据集团成立
-- 雷霆对阵马刺打出梦幻开局
-- NBA活塞121:113逆转凯尔特人
-- NBA揭幕战马刺雷霆爆发冲突
-- 医学生锐评offer8
-- 巴黎4:2巴萨
-- KDA新歌神之八秒
-- 小城良方开播
-- babybay空降hanghang直播间
-- 被无情画硬控8秒
-- 瞬移滑镜慢动作挑战
-- 嫁金钗外祖母真的无条件爱魏娆
+- 国台办回应张凌赫赴台交流被拒
+- 台艺人唐禹哲涉兵役案宣判
+- 解读中国经济“三季报”
 - 冬天第一串车厘子糖葫芦
+- 全国已开始进入赏秋模式
+- NBA揭幕战76人击败尼克斯
+- 当东北人假装南方人
+- 2026VCTCN晋升赛开赛
+- 各大乐园已经开始抢人模式
+- 全民进入学知识不烧心时代
+- 问界发布榆林神木车辆事故说明
+- 胡锡进谈美日联合军演
+- NBA揭幕战马刺雷霆爆发冲突
+- 雷霆116:104马刺
+- 巴黎4:2巴萨
+- 瞬移滑镜慢动作挑战
+- 被无情画硬控8秒
+- 乡村里的拼豆店也有存在的意义
+- 这碗新米我可以连吃三天
+- 秋冬显腿细靴子测评
 
-## 丁香园 (4 条)
+## 豆瓣讨论 (2 条)
+- 演员被小众cpf忽悠瘸的实例 - 豆瓣
+- 赖静活脱脱越南胖丫代餐 - 豆瓣
+
+## 丁香园 (8 条)
 - 一张处方背后的安全线：循上鹏瑞利医院处方点评专项行动启动 - 丁香园
+- 多学科联动 争分夺秒——陕中附院成功救治一名 91 岁急性心肌梗死患者 - 丁香园
+- 喜报｜我院关节外科（保膝中心）科普作品亮相全国骨科科普大赛 - 丁香园
 - 【健康科普】秋冬季呼吸道传染病防控提示 - 丁香园
 - 戴固定牙套，口腔卫生千万别忽视！ - 丁香园
 - 2026年苏州麻醉新进展学习班暨苏州非公麻醉专委会换届大会圆满落幕，我院麻醉科张建欣主任当选新一届主任委员 - 丁香园
+- 一动就天旋地转？带你认识耳石症 - 丁香园
+- 三部门部署防控儿童青少年高度近视！武汉普瑞眼科医院带你读懂护眼关键 - 丁香园
 
 ## 雪球热帖 (20 条)
 - 郭姓股民向京城股份发起索赔 赵敬国律师接受咨询 - 新浪财经
-- 黄山谷捷跌2.11%，成交额630.93万元，主力资金净流出8.94万元 - 新浪财经
-- Wheaton Precious Metals Corp.收跌0.58%，成交额1.27亿美元 - 新浪财经
+- 汤姓股民向ST达华发起索赔 宋一欣律师接受咨询 - 新浪财经
 - IAUX收涨0.67%，成交额984.12万美元 - 新浪财经
-- SPDR S&P 500 Growth ETF收跌0.16%，成交额4.14亿美元 - 新浪财经
-- 港股异动| 信达生物(01801)涨超3% IBI3003临床数据验证MM TCE领先地位已在中国推进III期注册研究 - 新浪财经
-- 信息技术ETF收跌0.11%，成交额8.3亿美元 - 新浪财经
-- SK海力士收跌2.16%，成交额20.79亿美元 - 新浪财经
-- SpaceX收跌0.11%，成交额136.33亿美元 - 新浪财经
-- NGL Energy Partners LP收涨0.06%，成交额312.61万美元 - 新浪财经
-- SPDR S&P 500 Value ETF收涨0.89%，成交额1.53亿美元 - 新浪财经
-- 美光收跌0.98%，成交额173.37亿美元 - 新浪财经
-- iShares MSCI全球黄金矿业股 ETF收跌0.63%，成交额1688.61万美元 - 新浪财经
-- 哈克特服务收涨4.96%，成交额281.75万美元 - 新浪财经
+- 青报经济述评 | 人工智能：从数字世界走进产业现场 - 新浪财经
+- Wheaton Precious Metals Corp.收跌0.58%，成交额1.27亿美元 - 新浪财经
+- IVT收涨0.87%，成交额1555.08万美元 - 新浪财经
 - 荷兰国际收涨0.43%，成交额7486.26万美元 - 新浪财经
-- World Currency Gold Trust收跌0.6%，成交额39.31万美元 - 新浪财经
-- MADE收跌0.12%，成交额22.97万美元 - 新浪财经
-- SIXP收涨0.26%，成交额16.7万美元 - 新浪财经
-- NCPB收涨0.11%，成交额7.63万美元 - 新浪财经
-- TEK收跌0.58%，成交额47.07万美元 - 新浪财经
+- SPDR S&P 500 Growth ETF收跌0.16%，成交额4.14亿美元 - 新浪财经
+- iShares MSCI全球黄金矿业股 ETF收跌0.63%，成交额1688.61万美元 - 新浪财经
+- 信息技术ETF收跌0.11%，成交额8.3亿美元 - 新浪财经
+- 中国ETF-iShares MSCI收涨0.18%，成交额9419.13万美元 - 新浪财经
+- NRG能源收跌1.55%，成交额2.3亿美元 - 新浪财经
+- Reading International Inc收涨0.26%，成交额3.7万美元 - 新浪财经
+- SpaceX收跌0.11%，成交额136.33亿美元 - 新浪财经
+- 亚历山大房地产收涨4.97%，成交额1.32亿美元 - 新浪财经
+- NGL Energy Partners LP收涨0.06%，成交额312.61万美元 - 新浪财经
+- 哈克特服务收涨4.96%，成交额281.75万美元 - 新浪财经
+- 诺华黄金收跌0.77%，成交额1800.96万美元 - 新浪财经
+- CHW基金收涨0.39%，成交额138.83万美元 - 新浪财经
+- SPDR S&P 500 Value ETF收涨0.89%，成交额1.53亿美元 - 新浪财经
 
 ## 36氪 (20 条)
-- 优必选在广州成立增优科技公司，注册资本3000万
-- 麦格理大宗商品部门重组，多名原油交易员离职
-- 恒指午间休盘跌0.35%，恒生科技指数跌0.75%
-- 半日主力资金加仓电子板块，抛售电力设备板块
-- 深圳人才房政策放宽：社保满1年，无房记录降至3年
-- 京东健康与辉瑞中国达成战略合作
-- A股三大指数午间休盘集体下跌，宁德时代跌超10%
-- 创业板指跌破2700点
-- 蚂蚁集团在上海成立云锳企业管理咨询公司，注册资本2000万
-- 英国广播公司宣布将关闭旗下两个电视频道
-- 国家能源局：2026年1-9月全社会用电量同比增长3.9%
-- 创业板指跌超1%
-- 工信部：加强汽车产品创新设计和研发测试验证
-- 北京亦庄机器人科技产业发展公司增资至约8.7亿
-- 星巴克中国：10月22日起将在全国开始施行消费入座
-- SpaceX首席财务官：新部署算力投资回收期不足一年
-- 全国碳排放交易量累计突破10亿吨大关
-- 正泰南尔出席环境智库发展与合作国际会议，分享绿色转型实践与思考
-- 高盛目前预计澳大利亚央行将在11月加息
-- 中原证券：科创结构行情强劲 券商业绩弹性加速释放
+- 中国人寿：拟向集团公司出售养老险公司33.73%股权
+- 谷歌云Vera Rubin基础设施计划扩展至多站点96万颗GPU
+- 华测检测：前三季度净利润9.59亿元，同比增长18.04%
+- 英伟达推出Confidential Bare Metal，扩展AI模型与数据机密计算保护
+- 英伟达携供应链伙伴扩产，加速AI基础设施建设
+- 蚂蚁集团等成立商业管理合伙企业，出资额1亿元
+- 继峰股份：获新能源汽车主机厂座椅总成项目定点
+- 4连板大业股份：机器人腱绳产品尚未批量生产
+- 上交所召开首批主动ETF市场动员会
+- 黄仁勋称电信基站有望成为分布式AI基础设施，英伟达与诺基亚完成首次商业通话
+- 英伟达推出自动驾驶安全评估框架，奔驰、沃尔沃等车企加速布局L3及L4自动驾驶
+- 中汽中心、中国移动合资成立数智公司，注册资本1.2亿元
+- 珀莱雅连续4年位居天猫双11美妆首日冠军
+- 英伟达升级Isaac机器人平台，推出人形机器人参考框架与仿真工具
+- 极米科技等在深圳成立新公司，经营范围涉及智能机器人研发等
+- 温氏股份：前三季度净亏损49.61亿元
+- 金辰股份：拟5000万元—1亿元回购股份
+- 三季度末银行理财存续规模达35.37万亿元，同比增加10.08%
+- 机构今日买入移远通信等17股，卖出蔚蓝锂芯1.48亿元
+- 比亚迪回应L3车辆落地时间
 
 ## 虎嗅 (20 条)
-- 最聪明的人，正在亲手训练取代自己的AI
-- 假如洛阳挖到传国玉玺，要不要“上交”国博
-- 伊朗战争冲击能源市场，非洲经济为什么还增长了4.5%？
-- AI 泡沫监测·之一：债务层已经先动了
-- 月薪3万，为什么还会觉得自己混得不好？
-- 中国第一个“三机场”城市，要来了
-- 真正会做决定的人，只问三件事
-- 敢重新当新手，是一个人继续变强的能力
-- 人可以温和，但要有匪气
-- 从自研到“借台唱戏”，券商为何挤入第三方AI平台
-- 一场血淋淋的豪赌
-- AI 会是人类最后的发明吗？
-- AI短剧，怎么就不配烧算力了？
-- 动力电池的新“五代十国”
-- 看面相断生死，AI居然真做到了？
-- 健身教练月入一万，是一件很难的事
-- 3.7万亿美元大合并？马斯克：好主意
-- 一个社会的标准化期待越多，人们就越趋保守，越惧创新
-- 夏秋“虫恐”：当虫子进入城市，我们如何应对？
-- 双十一进入持久战，大厂们与 AI 和解了吗
+- 发考卷前，Anthropic 先降了预期
+- 柏琳问燕妮· 埃彭贝克，新一代人可以得到自由吗？
+- AI移植游戏爆了，手游厂商该慌了
+- 车企“造人”，一场更残酷的淘汰赛
+- 年轻人已经没力气跟“活人”谈恋爱了
+- 特斯拉Roadster只是在炫融资的技
+- 小孩的自信，并不必然与学习成绩划等号
+- 从工作重组到职业流动，AI就业冲击可能先从哪里显现？
+- 小浣熊驮着商汤冲刺AI顶流
+- 央企内部消化58亿储能大单，不带民企玩了？
+- “但丁爷爷”来华，救不了中国景区的“NPC顶流荒”
+- 奥特曼内部讲话曝光：谁有权决定超级智能的未来？
+- 星巴克的“消费入座”，是被瑞幸们逼的？
+- 李小云: 本世纪最大规模“断供潮”, 反倒为非洲提供了历史性契机？
+- AI冲进双十一，算盘打得比人响？
+- 行业增量放缓、企业利润修复，快递行业竞争逻辑变了
+- 腾讯跌回8年前了
+- 00后导游和他的“银发团”：有钱有闲的老年人，撑起深圳旅游半边天
+- 同样油价高涨，为什么有的航司能赚钱
+- 大厂为什么盛产“恶人”：公司里，什么样的人混得最好，最后就会变成什么样？
 
-## 少数派 (2 条)
+## 少数派 (4 条)
+- 社区速递 162 | MUJI 靠垫、中兴路由器与派友们的长假吃灰装备
+- Vitals：什么在拖慢你的 Mac？它比「活动监视器」更直观易用
 - 怀旧手记｜世界首台 UMPC：三星 Q1，和当下平板有什么关系？
 - 派早报：美国政府指示各机构停用 DeepSeek、理想发布「连山」自研三电体系等
+
+## GitHub Trending (1 条)
+- I Tested Graphify on a Real Python Repo. Here's What Happened - HackerNoon
