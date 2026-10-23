@@ -10,19 +10,19 @@ window.Poster = (function () {
   const H = 1440;
   const PAD = 84; // 左右安全边距
 
-  // 拾闻自有风格：奶油白纸底 + 墨绿字 + 橙色点缀
+  // 拾闻原主题：米白纸底 + 金棕强调 + 黑字；砖红只用于提示。
   const C = {
-    bg: "#f4f0e6",
-    bgTint: "#ebe9dc",
-    ink: "#183f35",
-    inkSoft: "#344f45",
-    muted: "#727d6d",
-    hair: "#d4d7c7",
-    accent: "#d85b32",
-    accentDeep: "#b34425",
-    accentTint: "#f5e2d6",
-    chipBg: "#ebe9dc",
-    seal: "#b34425",
+    bg: "#faf9f7",
+    bgTint: "#f2efe9",
+    ink: "#1a1a1a",
+    inkSoft: "#55534f",
+    muted: "#8a8983",
+    hair: "#e2ded6",
+    accent: "#bd8b3d",
+    accentDeep: "#8f682c",
+    accentTint: "#f7efe1",
+    chipBg: "#f0ece4",
+    seal: "#ad493e",
   };
 
   const FONT = '"PingFang SC", "Hiragino Sans GB", "Microsoft YaHei", "Source Han Sans SC", "Noto Sans CJK SC", sans-serif';
@@ -240,22 +240,22 @@ window.Poster = (function () {
     ctx.fillText(String(value), x, y);
   }
 
-  function paperRule(ctx, y, color = C.ink) {
+  function paperRule(ctx, y, color = C.hair) {
     ctx.fillStyle = color; ctx.fillRect(66, y, W - 132, 2);
   }
 
   function drawPaperHeader(ctx, subtitle = "SHIWEN / DAILY DIGEST") {
-    ctx.fillStyle = C.ink; ctx.fillRect(0, 0, W, 20);
+    ctx.fillStyle = C.accent; ctx.fillRect(0, 0, W, 8);
     [92, 988].forEach(x => {
       ctx.fillStyle = C.hair; ctx.beginPath(); ctx.arc(x, 53, 13, 0, Math.PI * 2); ctx.fill();
-      ctx.fillStyle = C.ink; ctx.beginPath(); ctx.arc(x, 51, 9, 0, Math.PI * 2); ctx.fill();
+      ctx.fillStyle = C.accentDeep; ctx.beginPath(); ctx.arc(x, 51, 9, 0, Math.PI * 2); ctx.fill();
     });
     ctx.strokeStyle = C.hair; ctx.lineWidth = 1; ctx.setLineDash([7, 11]);
     ctx.beginPath(); ctx.moveTo(52, 89); ctx.lineTo(1028, 89); ctx.stroke(); ctx.setLineDash([]);
-    ctx.fillStyle = C.ink; roundRect(ctx, 66, 131, 46, 54, 4); ctx.fill();
+    ctx.fillStyle = C.accent; roundRect(ctx, 66, 131, 46, 54, 4); ctx.fill();
     ctx.fillStyle = C.bg; ctx.fillRect(75, 141, 27, 4); ctx.fillRect(75, 153, 14, 20);
     [154, 162, 170].forEach(y => ctx.fillRect(94, y, 10, 2));
-    paperText(ctx, "拾闻", 129, 122, 64, C.ink, 900);
+    paperText(ctx, "拾闻", 129, 122, 64, C.accentDeep, 900);
     paperText(ctx, "每日新闻日历", 1014, 135, 25, C.ink, 700, "right");
     ctx.font = "400 13px Arial, Helvetica, sans-serif";
     ctx.fillStyle = C.inkSoft; ctx.textAlign = "right"; ctx.fillText(subtitle, 1014, 176);
@@ -297,7 +297,7 @@ window.Poster = (function () {
     paperText(ctx, "信息过载的时代，少即是多", 66, 1383, 17, C.muted);
   }
 
-  /** 详情卡：报纸式标题、事实摘要、读者提问、墨绿影响面板。 */
+  /** 详情卡：黑字标题、金棕标签、浅米色提问区与浅灰米色影响面板。 */
   function drawContentCard(news, meta) {
     const { cv, ctx } = newCanvas();
     const card = getCard(news);
@@ -309,11 +309,11 @@ window.Poster = (function () {
     const categoryX = 66 + ctx.measureText(index).width + 24;
     ctx.font = f(700, 25);
     const category = paperLines(ctx, card.category || "综合", 700 - categoryX, 1)[0];
-    paperText(ctx, category, categoryX, 259, 25, C.ink, 700);
+    paperText(ctx, category, categoryX, 259, 25, C.accentDeep, 700);
     if (news.impact_level === "现象级") {
-      ctx.strokeStyle = C.accent; ctx.lineWidth = 2;
+      ctx.strokeStyle = C.seal; ctx.lineWidth = 2;
       roundRect(ctx, 870, 249, 144, 48, 6); ctx.stroke();
-      paperText(ctx, "现象级", 942, 258, 24, C.accentDeep, 700, "center");
+      paperText(ctx, "现象级", 942, 258, 24, C.seal, 700, "center");
     } else {
       paperText(ctx, fmtDate(meta.date), 1014, 261, 23, C.muted, 400, "right");
     }
@@ -357,23 +357,24 @@ window.Poster = (function () {
       y += gap;
       ctx.fillStyle = C.accentTint; roundRect(ctx, 66, y, width, l.questionH, 8); ctx.fill();
       ctx.fillStyle = C.accent; ctx.fillRect(66, y + 15, 5, l.questionH - 30);
-      paperParagraph(ctx, l.question, 99, y + 18, l.questionLine, l.questionSize, C.ink, 700);
+      paperParagraph(ctx, l.question, 99, y + 18, l.questionLine, l.questionSize, C.accentDeep, 700);
       y += l.questionH;
     }
     if (l.impactH) {
       y += gap;
-      ctx.fillStyle = C.ink; roundRect(ctx, 66, y, width, l.impactH, 12); ctx.fill();
-      paperText(ctx, card.derived ? "为什么值得关注" : "这对你意味着什么", 96, y + 28, 30, C.bg, 700);
+      ctx.fillStyle = C.bgTint; roundRect(ctx, 66, y, width, l.impactH, 20); ctx.fill();
+      paperText(ctx, card.derived ? "为什么值得关注" : "这对你意味着什么", 96, y + 28, 30, C.ink, 700);
+      ctx.fillStyle = C.hair; ctx.fillRect(96, y + 68, width - 60, 2);
       let iy = y + 82;
       l.impacts.forEach((lines, i) => {
-        ctx.fillStyle = C.accent; roundRect(ctx, 96, iy + 3, 40, 40, 5); ctx.fill();
-        paperText(ctx, String(i + 1).padStart(2, "0"), 116, iy + 7, 24, C.bg, 700, "center");
-        iy = paperParagraph(ctx, lines, 166, iy, l.meanLine, l.meanSize, C.bg) + 20;
+        ctx.fillStyle = C.accent; roundRect(ctx, 96, iy + 3, 40, 40, 20); ctx.fill();
+        paperText(ctx, String(i + 1), 116, iy + 7, 24, C.bg, 700, "center");
+        iy = paperParagraph(ctx, lines, 166, iy, l.meanLine, l.meanSize, C.inkSoft) + 20;
       });
     }
 
     if (card.note) {
-      paperText(ctx, "注意提示", 66, 1210, 24, C.accentDeep, 700);
+      paperText(ctx, "注意提示", 66, 1210, 24, C.seal, 700);
       ctx.font = f(400, 24);
       paperParagraph(ctx, paperLines(ctx, card.note, width - 126, 3), 192, 1210, 31, 24, C.muted);
     }
@@ -473,7 +474,7 @@ window.Poster = (function () {
     ctx.restore();
   }
 
-  /** 封面：纯代码日历，采用用户确认的奶油白、墨绿和橙色。 */
+  /** 封面：原金棕主题 + 日期驱动构图 + 当天真实新闻，不增加模型调用。 */
   function drawCoverCard(newsList, date) {
     const { cv, ctx } = newCanvas();
     const cal = coverCalendar(date);
@@ -487,7 +488,7 @@ window.Poster = (function () {
       ctx.textAlign = align; ctx.textBaseline = "top"; ctx.fillStyle = color;
       ctx.fillText(String(str), x, y);
     };
-    const rule = (y) => { ctx.fillStyle = C.ink; ctx.fillRect(left, y, right - left, 2); };
+    const rule = (y) => { ctx.fillStyle = C.hair; ctx.fillRect(left, y, right - left, 2); };
     const dateNumber = (x, y, width, height) => {
       const str = String(cal.day).padStart(2, "0");
       let size = 500;
@@ -500,7 +501,7 @@ window.Poster = (function () {
       ctx.font = `900 ${size}px Arial, Helvetica, sans-serif`;
       m = ctx.measureText(str);
       const w = m.actualBoundingBoxLeft + m.actualBoundingBoxRight;
-      ctx.fillStyle = C.ink;
+      ctx.fillStyle = C.accent;
       ctx.fillText(str, x + (width - w) / 2 + m.actualBoundingBoxLeft, y + m.actualBoundingBoxAscent);
     };
 
@@ -546,38 +547,35 @@ window.Poster = (function () {
       if (value.getUTCDate() === 1) text(`${value.getUTCMonth() + 1}月`, x + 65, 940, 14, color, 400, "center");
     });
 
-    text("今天", left, 1007, 48, C.ink, 700);
-    text(newsList.length, 181, 992, 72, C.accent, 700, "left", true);
-    const countWidth = ctx.measureText(String(newsList.length)).width;
-    text("条", 181 + countWidth + 14, 1007, 48, C.ink, 700);
-    ctx.strokeStyle = C.ink; ctx.lineWidth = 2;
-    ctx.beginPath(); ctx.arc(963, 1051, 42, 0, Math.PI * 2); ctx.stroke();
-    ctx.lineWidth = 3;
-    ctx.beginPath(); ctx.moveTo(943, 1051); ctx.lineTo(983, 1051);
-    ctx.moveTo(970, 1038); ctx.lineTo(983, 1051); ctx.lineTo(970, 1064); ctx.stroke();
-    // 适配各平台中文字体的实际宽度，不横向压扁标题。
-    let headlineSize = 91;
-    ctx.font = f(900, headlineSize);
-    while (ctx.measureText("值得你知道的大事").width > right - left && headlineSize > 60) {
-      ctx.font = f(900, --headlineSize);
+    // 当天前三条新闻直接来自日报；大标题占两行，后两条各一行。
+    // 既保留日历识别度，也让封面内容随新闻实际变化，避免只有数字不同。
+    text(`今天 ${newsList.length} 条 · 值得你知道的大事`, left, 995, 36, C.ink, 700);
+    const headlines = newsList.slice(0, 3).map(news =>
+      String((news.card && news.card.headline) || news.title || "新闻详情见内页")
+    );
+    if (headlines.length) {
+      text("01", left, 1059, 27, C.accentDeep, 700, "left", true);
+      ctx.font = f(700, 46);
+      paperParagraph(ctx, paperLines(ctx, headlines[0], right - left - 65, 2), left + 65, 1052, 60, 46, C.ink, 700);
+      headlines.slice(1).forEach((headline, i) => {
+        const y = 1182 + i * 44;
+        text(String(i + 2).padStart(2, "0"), left, y + 2, 24, C.accentDeep, 700, "left", true);
+        ctx.font = f(400, 28);
+        const line = paperLines(ctx, headline, right - left - 65, 1)[0];
+        text(line, left + 65, y, 28, C.inkSoft);
+      });
+    } else {
+      text("本期暂无新闻", left, 1080, 42, C.inkSoft, 700);
     }
-    text("值得你知道的大事", left, 1116, headlineSize, C.ink, 900);
-    rule(1259);
-    text("从 20+ 信息源筛选", left, 1290, 26, C.ink, 700);
-    text("信息过载的时代，少即是多", left, 1344, 21, C.muted);
-    ctx.strokeStyle = C.accent; ctx.lineWidth = 2;
-    for (let k = 0; k < 3; k++) {
-      ctx.beginPath();
-      for (let j = 0; j < 180; j++) {
-        const y = 1324 + k * 14 + 8 * Math.sin(j / 26 + cal.motif * 0.4);
-        if (j === 0) ctx.moveTo(834, y); else ctx.lineTo(834 + j, y);
-      }
-      ctx.stroke();
-    }
+    rule(1282);
+    text("从 20+ 信息源筛选", left, 1310, 24, C.accentDeep, 700);
+    text("右滑阅读详情 →", right, 1310, 24, C.accentDeep, 700, "right");
+    text("信息过载的时代，少即是多", left, 1370, 21, C.muted);
+    text(fmtDate(date), right, 1370, 21, C.muted, 400, "right", true);
     return cv;
   }
 
-  /** 尾卡：延续同一纸张、墨绿标题和橙色装饰。 */
+  /** 尾卡：延续同一米白纸张、黑字标题和金棕装饰。 */
   function drawClosingCard(newsList, date) {
     const { cv, ctx } = newCanvas();
     drawPaperHeader(ctx);
@@ -742,5 +740,3 @@ window.Poster = (function () {
     makeZip, saveBlob, // 供其他平台复用导出工具，不复用小红书排版
   };
 })();
-
-
