@@ -1,35 +1,26 @@
-# 2026-10-25 原始新闻标题 (200 条)
+# 2026-10-25 原始新闻标题 (224 条)
 
-## 澎湃新闻 (2 条)
+## 澎湃新闻 (3 条)
 - 被流量“选中”的打馕“阿达西” - ThePaper.cn
+- 致敬伟大胜利！76年了，我们永远不会忘记！ - ThePaper.cn
 - 任泽平，被禁止关注！ - ThePaper.cn
 
-## 南方周末 (1 条)
-- 马斯克送股引发的思考：当金钱变成屏幕数字，孩子该如何理解财富
+## 凤凰网 (7 条)
+- 正常咨询为何变成“投诉”？揭秘快递末端“以罚代管”怪圈 - 凤凰网
+- 俄乌停火，同步进行 - 凤凰网
+- 凤凰热榜 - 凤凰网
+- 凤凰热榜 - 凤凰网
+- 高市执政这一年 扩军备武 扶植军工 图谋“再军事化” - 凤凰网
+- 埃及前副外长：单极体系走向衰落，世界需要多边主义 - 凤凰网
+- 【在希望的田野上】秋粮收获过八成 新技术助力提质增效 - 凤凰网
 
-## 凤凰网 (20 条)
-- 特朗普回击奥巴马：他的集会现场都没人
-- 张雪机车水上漂高清大图
-- 特朗普力挺内塔尼亚胡，身边人却另有打算
-- 钧正平发声：台湾光复的历史事实不容篡改否定！
-- “多管齐下！特朗普政府暗中助选，要帮博索纳罗家族夺权”
-- 法国抗议现场：示威者涌进超市，大肆抢劫西红柿
-- 日本小笠原群岛西部海域发生6.5级地震，无海啸风险
-- “防卫支出”将大幅提高，日本政府提前给民众“打预防针”
-- 热播日剧刻意抹黑中国，一线明星参演、高市早苗点名要看
-- 极度排斥智能设备的卢拉，为何突然在81岁生日前拥抱智能手机？
-- 凤凰直击西藏7.0级地震受灾最严重村庄
-- 张雪今天冲击吉尼斯世界纪录，时隔17年再战“水上漂”
-- 黄仁勋穿传统哈萨克长袍
-- 美媒：马斯克承认其为乌“星链”限速的“幕后推手”
-- 怀化市委书记会见张雪，并颁发聘书
-- 马斯克称乌曾违规使用星链发动进攻
-- “水柜漂浮多只猴子尸体”，当地通报：系猴群下山饮水时不慎溺亡
-- 正常咨询为何变成“投诉”？揭秘快递末端“以罚代管”怪圈
-- 挑战“水上漂”！张雪，今天冲击吉尼斯世界纪录
-- 福建省终止防台风应急响应，陆续恢复海上生产
-
-## 财新网 (8 条)
+## 财新网 (14 条)
+- 南方区域电力市场“转正” 全国首个区域电力市场开市
+- 聚焦存储、算力等领域 前三季度深圳相关新增中长期贷款超千亿元
+- 大模型开始接管物理世界 自动驾驶企业面临降维打击？
+- 9月户外运动事故中亲友结伴和个人行为占98% 中登协提醒防范风险
+- 法国新一轮示威仍有数十万人上街 暴力事件大幅减少
+- 地中海掠影（上）｜纪行
 - 人事观察｜山西省委换届 大同书记等三名本土官员“入常”
 - 舒传曦与他的“生命之树”｜纪念
 - 自由人约翰·伯格｜猎读
@@ -39,44 +30,66 @@
 - 丁香园李天天：AI给医生带来了什么？
 - 财新闻｜全球最大开源AI大模型上新！Kimi K3.1 Pro横空出世
 
-## 央视网 (8 条)
+## 央视网 (13 条)
+- 新闻周刊｜AI换脸明星带货泛滥，维权难点到底在哪？ - 央视网
+- 为爱而唱！“丝路之星”国际音乐大赛第六期让爱跨越山海 - 央视网
+- 福建省终止防台风应急响应 陆续恢复海上生产 - 央视网
+- 期待值拉满！从卖零件到卖整房 集成式出海撑起外贸新增长线 - 央视网
+- 日本小笠原群岛地区发生6.5级地震，震源深度480千米 - 央视网
 - 第140届广交会第二期线下展火热进行中 - 央视网
 - 矿山生产向绿向智转型 无人矿卡应用加速迈向规模化 - 央视网
-- 期待值拉满！从卖零件到卖整房 集成式出海撑起外贸新增长线 - 央视网
-- “一桥连三地”车轮畅行伶仃洋 “牵起”桑榆与青春 - 央视网
-- 【8点见】绑着9岁小孩跑马拉松？郑马处罚结果来了 - 央视网
-- 乌克兰防长称“星链”及“星盾”已恢复稳定通信 - 央视网
-- 日本小笠原群岛地区发生6.5级地震，震源深度480千米 - 央视网
+- 高市执政这一年 扩军备武 扶植军工 图谋“再军事化” - 央视网
+- 多重动向叠加 如何影响俄乌冲突走向？ - 央视网
+- 伊朗武装部队：任何情况下都不允许美军船只进入波斯湾 - 央视网
 - 法国新一轮示威活动中135人被逮捕 - 央视网
+- 高铁建设加快推进 重点线路迎关键节点 - 央视网
+- 炒菜机器人进入商用关键期 从餐厅到食堂 渗透率快速提升 - 央视网
 
-## BBC (7 条)
-- Almost 1,000 arrested as clashes follow another day of mass protests across France
-- Palestinian families displaced as Israeli forces demolish Hebron homes
-- British woman dies after trying to rescue sons swept away at sea in the Bahamas
+## BBC (18 条)
+- More than 1,300 arrested as clashes follow another day of mass protests across France
+- Israel to close West Bank crossings on election day as crackdown escalates
+- Voters in Brazil head to polls as Lula goes up against Bolsonaro's son
+- Musk says SpaceX restricted Ukraine's Starlink connection as service restored
+- Gunmen kill at least 10 villagers and loot shops in north-east Nigeria
 - Vanessa Trump says she is cancer-free six months after revealing diagnosis
+- El Salvador president says bodies found in Haiti are not those of hostages
+- Obama attacks Trump as he campaigns for Democrats ahead of midterm elections
+- Mum who died trying to save sons was hero, husband says
+- From Russian cages to Irish sanctuary: The five-year rescue journey of Bu and Tyapa
 - Two rescued after Nairobi building collapse with five still missing
 - Fireworks and tear gas as protesters and riot police clash in Paris
 - Who are the candidates in Brazil's presidential election?
+- The bitter row over military service that could shape Israel's future
+- Why is Ukraine so reliant on Starlink and can Europe plug the gap?
+- A shark went astray and captured Korea's heart - will she finally make it back to sea?
+- Why the King's Caribbean tour could be 'biggest risk of his reign'
+- 'I cannot teach you integrity': How employee theft is hurting small businesses in Africa
 
-## NYTimes (18 条)
+## Reuters (2 条)
+- Saudi Arabia intercepts drones and missiles as fighting with Yemen's Houthis continues - Reuters
+- Iran has ramped up efforts to target US personnel, intelligence memo warns - Reuters
+
+## NYTimes (20 条)
+- What to Know About Brazil’s Election as Bolsonaro Faces Off With Lula
+- What to Know as Serbia Votes for a New Parliament
+- Israel’s High-Stakes Election: What to Know
+- Far, Far Away
 - Elon Musk Says Ukraine Violated Starlink’s Rules
 - Iranians Face Anxious Wait as Threat of Attack Looms
 - Italy’s Young Protesters Return to the Streets
 - Unrest Erupts Again in France, but This Time, With Less Property Damage
 - ‘Eagle’s Nest,’ Nazi-Era Guesthouse in German Alps, Is Gutted by Fire
-- Remains Found in Haiti During Hunt for Missing Salvadoran Soldiers
 - Why Is the U.S. Accusing Canada of Election Interference?
 - Violent Protests Resurface in Albania: What to Know
-- Netanyahu Is Up for Re-election After Years of War. How Will Voters See Him?
-- Looting Left Damage and Fear on Paradise Street in Marseille
-- Kim Jong-un Makes First Visit to China in Over a Year
-- Far, Far Away
-- What to Know as Serbia Votes for a New Parliament
+- The Expat Voters Hoping to Swing Israel’s Election
+- Remains Found in Haiti During Hunt for Missing Salvadoran Soldiers
 - Paris, Battened Down Against Riots, Offers Lonely Welcome to Visitors
 - Here’s the latest.
+- Looting Left Damage and Fear on Paradise Street in Marseille
+- Kim Jong-un Makes First Visit to China in Over a Year
+- Netanyahu Is Up for Re-election After Years of War. How Will Voters See Him?
 - Iran in ‘Advanced Stages’ of Planning Attacks Against Americans, Officials Say
 - Israeli Settlers Turn a Palestinian Rite Into a Gantlet of Violence and Fear
-- As Brazil Prepares for Election Runoff, a Town Offers Clues to Bolsonaro’s Rise
 
 ## CNN (6 条)
 - 0% intro APR until 2024 is 100% insane
@@ -87,26 +100,26 @@
 - Want Cash Out of Your Home? Here Are Your Best Options
 
 ## 微博热搜 (20 条)
-- 日剧Vivant抹黑中国
-- 深圳水贝被挤爆
-- 向英雄致敬迎英雄回家
-- 张雪刷新吉尼斯纪录
-- 2026共创之夜节目单
-- 唐朝诡事录之蜀道开机了
-- 江苏姑娘网购鹤岗房搬进去后傻眼
-- 柯淳李柯以短剧顶流首搭
-- 马山猴子溺亡水柜完成首轮消杀
-- 日剧把日军罪行嫁接给中国人
-- 毛不易婚礼发言引网友争议
-- 祖海态度
-- 李雪健已无法说话
-- 易梦玲回应瘦得夸张
-- 178平房改6个套间楼下邻居崩溃
-- 2025年出生人口男孩多于女孩
-- 儿媳愿出钱但不与婆婆同住
-- S16抽签
-- 檀健次的四季灵感痛楼
-- 无限暖暖
+- 再也不去理发店去洗头了
+- 央视曝AI人哭着卖惨带货
+- 致敬抗震救灾中的救援力量
+- 县委书记说被扔下水是张雪临时起意
+- 县委书记拒绝张雪为家乡打广告
+- 2026王者荣耀共创之夜
+- 在双11上新盛典发现成长每一刻
+- 一诺开场
+- 王者荣耀 扁鹊老婆
+- 南京3000万豪宅出入口在隧道里
+- 人造黄金会不会击穿金价
+- 迪丽热巴带动蝴蝶经济
+- 韩国人真的好爱艾敬
+- 张雪把县委书记丢河里
+- 网传女孩撞宾利后和车主好上了
+- 虞书欣菜市场红毯
+- 章子怡肖战怎么认识的
+- 廖碧儿承认恋情
+- 穆祉丞把boy改成了girl
+- 王者荣耀2026共创之夜好多人
 
 ## 知乎热榜 (20 条)
 - 网友称可用「蟑螂粉」作为蛋白粉平替，商家还强调「野生蟑螂」，先抛开味道，这「蟑螂粉」有可能安全有效吗？
@@ -131,103 +144,114 @@
 - 瞎扯 · 如何正确地吐槽
 
 ## B站热门 (20 条)
+- 《鸣潮》世界观PV | 超验TRANSCENDO
+- 消防车路权大还是校车路权更大？
+- 恭喜Asuka荣获本届歌手争霸赛歌王称号！！【bilibili次元干杯】
+- 【独家】牧神记 第106集 道剑十四篇
+- 《一把长椅卡俩头》
 - 写了全国所有省份的love me！
-- 羌塘无人区失踪一年多后，自行车意外被人发现，李聪明
-- 穿越战锤24年，你终靠实力拿下星球总督王座，你的余生会如何度过？
-- 《绝区零》先导演示丨挽昼
-- 我花了3个月！把MC爆改成别的游戏！！
-- 【头文字F4】德彪~德彪~得意的彪
-- 抽象新闻：10月人类迷惑行为大赏（上）
-- 全网最高记录，单局十颗非洲之心
-- 《纯阳真气》
-- 【纪录片】中国救护2 06 此去仍有光
-- 马尔芙小姐，我能请你共舞一曲吗？｜PV
-- 新角色：大肥鱼
 - 为什么我们越来越害怕成为“嘉豪”？
-- 暗粥野排现状
-- ⚡⚡逆 天 复 仇 者⚡⚡
-- 三针能放倒一头牛！ 那泡进酒里……？
-- 【司凤TV】司凤音乐270个视频14小时合集 看完这辈子都通透了
-- 他再也不用去卫生间了
-- 派大星跳伞是什么梗【梗指南】
-- 绷不住了
+- 【抢先看】《想拿同事当冤大头，当场翻车》｜我宣布这是2026最解气职场爽剧！同事豪请全组中秋宴花八万六，偷偷刷我的会员卡买单，密码输错当场社死！
+- 名片交换
+- 史密斯先生在学说话
+- 马尔芙小姐，我能请你共舞一曲吗？｜PV
+- 双人抬棺
+- 《话术博弈》如何优雅的套出对方的真心话？
+- 高启强&陈淑婷《Trouble Maker》
+- 薄肌级【不要笑挑战】只有10.24%的人能忍得住不笑看到最后！
+- 你看到的博主视频和实际上的博主拍视频？烧心啊！！！哈哈哈
+- 我花了3个月！把MC爆改成别的游戏！！
+- 200万合成玉，803颗源石，672张单抽卷，54张十连卷，我等到她
+- 人性、欲望与奇观，自驾拉斯维加斯，现实夜之城什么样？
+- 二十国混战：速通复盘中土网友对线大战
 
 ## 抖音热搜 (20 条)
 - 台湾光复81周年
-- 火箭险胜老鹰豪取三连胜
-- 致敬最可爱的人
-- 台风蔷琵正在我国近海活跃
+- TES战胜AL
+- 直击西藏那曲地震救援一线
+- 奥巴马中期选举首秀抨击特朗普
+- 张雪机车刷新水上漂吉尼斯纪录
+- 亚锦赛男单决赛李天阳vs张本智和
+- S16瑞士轮第二轮赛果
+- 马刺122:106独行侠
 - 纪念抗美援朝出国作战76周年
 - A股指数调整10月26日落地
-- 苏超半决赛落幕
-- 武汉三镇提前降级
-- 张雪机车刷新水上漂吉尼斯纪录
-- TES战胜AL
-- “磁极即将倒转”的传言可信吗
-- BLG战胜TLAW
+- 亚锦赛女单决赛陈熠VS张本美和
 - 冷都女2.0穿搭参考
-- 切尔西0:2热刺
-- S16瑞士轮第二轮赛果
+- “磁极即将倒转”的传言可信吗
+- 2026王者荣耀共创之夜
+- 超级武将杯S2正赛名单公布
+- 超级武将杯S2开赛
+- 火箭险胜老鹰豪取三连胜
 - 贝斯加鼓点随便配张照片都好拽
-- 李荣浩衡阳演唱会
-- 快硬夸我一句
-- IG战胜TSW
-- 在九寨沟拍到野生水獭的含金量
+- BLG战胜TLAW
+- 于蕾任2027羊年春晚总导演
 
-## 雪球热帖 (7 条)
-- 【营收拆解】霍尼韦尔 最新营收结构：Products贡献47.16%收入 - 新浪财经
+## 雪球热帖 (20 条)
+- 宁波韵升收到证监会境外上市备案反馈意见监管重点问询“两高”属性、出口管制合规、外商投资准入、未决诉讼及赴港上市必要性等核心事项 - 新浪财经
 - 【营收拆解】丹纳赫 最新营收结构：Diagnostics贡献43.97%收入 - 新浪财经
-- 【营收拆解】洛克希德马丁 最新营收结构：Products贡献84.15%收入 - 新浪财经
-- 【营收拆解】纳斯达克集团 最新营收结构：Market Services贡献51.02%收入 - 新浪财经
+- 【营收拆解】霍尼韦尔 最新营收结构：Products贡献47.16%收入 - 新浪财经
 - 【营收拆解】奈飞 最新营收结构：流媒体收入贡献100%收入 - 新浪财经
-- 【营收拆解】巴克莱银行 最新营收结构：Barclays Investment Bank贡献42.48%收入 - 新浪财经
+- 【营收拆解】纳斯达克集团 最新营收结构：Market Services贡献51.02%收入 - 新浪财经
 - 【营收拆解】麦克森 最新营收结构：North American Pharmaceutical贡献82.34%收入 - 新浪财经
+- 【机构持仓】Mondrian Investment Partners Ltd.增持HLN - 新浪财经
+- 亚马逊CEO称AI算力需求爆发，AWS 2027年算力资源已基本售罄 - 新浪财经
+- 六盘水市佰源再生资源有限公司完成商务部绿色流通服务企业备案公示注册资本600万、参保0人 - 新浪财经
+- 西安市浐灞生态区建滨再生资源回收部完成商务部绿色流通服务企业备案公示，个体工商户、参保0人 - 新浪财经
+- 绵阳恒元再生环保科技有限公司完成商务部绿色流通服务企业备案公示注册资本50万人民币、参保0人 - 新浪财经
+- 太原亿鑫荣工贸有限公司完成商务部绿色流通服务企业备案公示 注册资本100万、参保0人 - 新浪财经
+- 2025年全国结婚登记676.51万对！ - 新浪财经
+- 10-25周末瞎聊 #基金#理财 - 新浪财经
+- 百度健康发布“好医矩阵”和“健康相机”，AI服务MAU超5000万 - 新浪财经
+- 数智技术加速融合，唐顿世家宣布成立家庭服务具身智能数采实验室 - 新浪财经
+- 华宵一：做自己的逆行者 - 新浪财经
+- 这次他不再是“救火队员” - 新浪财经
+- 销量飙涨超200%！这个百亿风口，越“炒”越旺 - 新浪财经
+- 环球下周看点：AI巨头财报密集揭晓 美联储议息或为利率定调 - 新浪财经
 
-## 36氪 (13 条)
+## 36氪 (20 条)
+- 天原股份：前三季度净利润同比增长753.11%
+- 秋收进度快于上年 新技术新品种助提质增效
+- 礼来：靶向抗癌药物Olomorasib在一线非小细胞肺癌中显示出持久活性
+- 今年前三季度，深圳锂电池出口到200多个国家和地区
+- 苹果计划优化iPhone Duo外屏Safari布局
+- 王腾：iPhone Duo相比小米、华为的阔折叠并没有什么特别领先的地方
+- 电科思仪：将于深圳半导体展发布新矢量网络分析仪及系列测试方案
+- 韩国推迟原定1月落地的加密货币征税政策
+- 印度拟推出多项市场改革
+- 油轮漏油事件后 阿联酋多地关闭海滩
+- 蓝思科技：第三季度归母净利润8.43亿元，同比下降50.42%
+- 英国宣布设立AI生物安全实验室
+- 韩国首尔市宣布将于26日至28日举办“首尔金融科技周2026”
+- 国务院国资委：大力推进国资国企改革 扎实抓好进一步深化国资国企改革任务落地
+- 快手三农万粉创作者月活达9.6万+，将推出“乡野上新计划”
+- 我国成功发射卫星互联网低轨28组卫星
 - 马斯克称乌曾违规使用“星链”发动进攻
 - 南方区域电力市场转入正式运行暨高质量发展推进会在广州召开
 - 国家能源局主要负责同志赴广东调研新型电网建设等工作
 - 江苏：前三季度GDP同比增长5.2%
-- 德邦证券程强：A股估值已进入合理区间 多重有利条件正在汇聚
-- 澳门三展联动 搭建多元产业交流合作平台
-- 三星Exynos 2700内部测试得分超过高通
-- 上证指数、科创综指等拟修订 明起实施
-- 标普出台新规：调整成长股和价值股的划分规则 成长股评估标准不再参考个股过去12个月的上涨势头
-- 福建省终止防台风应急响应 陆续恢复海上生产
-- 青藏铁路受地震影响区段列车恢复正常运行
-- 南方区域电力市场转入正式运行暨高质量发展推进会在广州召开
-- 生态环境部就地下水污染防治重点区管理征求意见
 
 ## 虎嗅 (20 条)
-- 马斯克的“世纪豪赌”，为何要把特斯拉与SpaceX绑在一起？
-- 紧跟法国街头抗议的为何是这几个国家？
-- 人人追捧的高级感，正毁掉生活的色彩？
-- 快狗打车败走内地，同城货运“第一股”为何陨落？
-- 星巴克的“面子”和“里子”
-- 被批捕，一代芯片巨头，栽在了赌性里
-- 匡威被年轻人“抛弃”是早晚问题
-- 英飞凌续约Wolfspeed：200mm碳化硅的“下一关”
-- 麻六记流量拐点，藏在阿宽财报里
-- 6大AI、30个剧本实测：claude才是“烧心体”的亲妈？
-- AI增效时代，给品牌的几条忠告——从老干妈「600变48」说起
-- 王虹和韦东奕们，也要被AI“斩杀”了？
-- 赵斌：从新型生态系统看待人类影响的自然系统
-- 硅谷的天才们怎么天天研究让AI 在《我的世界》里砍树？
-- AI 短剧，未必是“算力泔水”
-- 肯德基的进货价一定比杂牌店低，但它为什么没把杂牌店饿死？
-- 一生中最值得交往的4种朋友
-- 越来越多的亚非青年留学中国，却困在“35岁红线”里
-- 淘宝拯救班尼路
-- 我算了算平安好医生的账
+- 中美AI，输赢难道取决于短剧？
+- 价格暴跌，大闸蟹的生意逻辑变了
+- 谁还在为“第三空间”买单？
+- 任泽平的“经济学家”生意，遇到麻烦了
+- 月入过亿的Tipsy 与PolyBuzz 海外突发下架，AI 擦边陪伴或撞上苹果红线
+- 油价的上限在哪里？
+- 暴力反弹，稳不稳？
+- 中期选举与AI泡沫
+- 观察｜花1500块做的“死了么”，估值2亿了，创始人说未来要做2000亿
+- 如何贩卖怀疑并操纵大众认知
+- 30岁，他登顶最年轻富豪
+- 丈母娘也开始抢AI人了
+- 盈富基金：香港经典救市及退出范本，对当下A股有何借鉴？
+- OpenAI造了个“假互联网”，两个被隔离的AI竟靠CPU缓存暗中传话
+- 实习生也能月薪10万了
+- 为什么说，对这片栖息地的保护刻不容缓？
+- 贾乃亮一天卖了5.7亿，明星带货已经卷到这一步了
+- 美国巨头发难，国产牙套厂商在欧洲遭遇多国禁令
+- 超强厄尔尼诺拉响经济警报，极端天气冲击农业、能源等产业及供应链，如何破局？
+- 4.9高分民宿，为什么住一次就够了？
 
-## GitHub Trending (10 条)
-- cloudflare/security-audit-skill
-- NVIDIA/OpenShell
-- aws/agent-toolkit-for-aws
-- Nutlope/hallmark
-- luongnv89/claude-howto
-- pbakaus/impeccable
-- pollen-robotics/microduck
-- google-gemini/gemini-cli
-- jbiaojerry/ebook-treasure-chest
-- makecindy/cindy
+## 少数派 (1 条)
+- 60 元打造你的 vibe coding 神器：小米蓝牙遥控器 2 pro
