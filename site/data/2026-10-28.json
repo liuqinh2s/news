@@ -2,12 +2,13 @@
   "date": "2026-10-28",
   "news": [
     {
-      "title": "俄乌局部停火确认，基辅仍遭空袭",
-      "summary": "俄乌双方确认局部停火至北京时间11月2日3时59分，涉及赫尔松奥列什基一带，此前由美方斡旋促成并已延长。与此同时，乌克兰首都基辅再遭俄罗斯大规模空袭，停火仅限局部区域。北欧挪威、芬兰领导人罕见直接致电普京，呼吁结束战争，但欧洲内部对与俄接触分歧明显。停火与空袭并存的局面显示冲突走向仍高度不确定，对欧洲能源、粮食安全及全球地缘格局持续构成扰动。",
-      "reason": "俄乌停火确认叠加基辅空袭，中英文多源密集报道，牵动欧洲安全与全球地缘格局。",
+      "title": "俄乌达成局部停火",
+      "summary": "乌克兰方面10月28日确认，俄乌在赫尔松州阿列什基（奥列什基）地区达成的停火将持续至11月1日22时59分（北京时间11月2日3时59分），这是2022年以来双方最大规模的一次局势降级。据BBC报道，此次停火由梅拉尼娅·特朗普居中斡旋，停火范围仅限局部地区，整体战线尚未实现全面停火。泽连斯基表示，他与特朗普在结束冲突的目标上一致，但实现路径存在分歧；特朗普称很快将安排普京与泽连斯基会晤。分析认为，局部停火为后续谈判打开窗口，但能否扩展为全面停火仍取决于美俄乌三方博弈，欧洲领导人对与普京通话的态度也存在分歧。",
+      "reason": "2022年以来最大规模局势降级，中英多源交叉报道，牵动全球地缘与能源市场。",
       "impact_areas": [
         "地缘",
-        "政治"
+        "政治",
+        "经济金融"
       ],
       "impact_level": "现象级",
       "sources": [
@@ -16,285 +17,294 @@
           "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9NZVV6NUgzOWlFZ3duZUUxaHVuN0dqWGJSQXA3SlJtbjFRTjZMYUtZbUJ1aENHSTBKdTQzUF8xc19wcnNRUXRsTTZuZFo4ZUZfLVZwYnJIZjJ2RHVWR3EwXw?oc=5"
         },
         {
-          "name": "凤凰网",
-          "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTFB6RVVJOWZFRzNTTF85eWhLUTBLZk1MREhtdkU1dU1PUUhNeGY3QzlucHJNcHQ1YmhWd1FMZjhZNjJmTUo5bFY5RQ?oc=5"
-        },
-        {
           "name": "BBC",
           "url": "https://www.bbc.co.uk/news/articles/c6lye1w9p2l8o?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "name": "凤凰网",
+          "url": "https://news.ifeng.com/c/8xanNarKZSI"
+        },
+        {
+          "name": "央视网",
+          "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE4xaTIwaHZJYmNkdFJ6LVFPbWNIdTQ2bHNrY3pocm1DX2dQSF81a3FCMnNDQ2dFOFNzTWFBVFNlU3FfSzA2ZGZkU2hoT3QzOGtCUDZCbHM3NTJEYjhLbThkay1lMlQxcFh2SjdiS3NRQ1ZlVlF0YnNGYg?oc=5"
         }
       ],
       "card": {
-        "category": "地缘·冲突",
-        "headline": "俄乌局部停火，基辅仍遭空袭",
-        "what": "俄乌双方确认局部停火延长至11月2日，范围仅限赫尔松奥列什基一带；同期基辅再遭俄罗斯大规模空袭。",
-        "question": "油价和机票会跟着涨吗？",
+        "category": "地缘·俄乌",
+        "headline": "俄乌局部停火，谈判窗口打开",
+        "what": "乌克兰方面10月28日确认，俄乌在赫尔松州阿列什基地区的停火将持续至11月1日，是2022年以来双方最大规模的一次局势降级。",
+        "question": "油价和金价会跟着降吗？",
         "means": [
-          "欧洲线机票和天然气价可能上行",
-          "粮食类进口商品成本或慢慢传导"
+          "国内油价短期波动可能变小",
+          "外贸和航运订单更好预估"
         ],
-        "note": "停火仅限局部区域，后续是否扩大仍待观察。"
+        "note": "停火仅限局部地区，能否扩展为全面停火仍待观察。"
       }
     },
     {
-      "title": "以色列大选无明确赢家",
-      "summary": "以色列大选投票结束，投票率强劲但无明确赢家，内塔尼亚胡阵营与反对派均释放乐观信号。阿拉伯政党表现强劲，或将在下一届政府组阁中扮演关键角色。选举结果将影响以色列经济走向、司法改革及对巴勒斯坦政策。组阁谈判预计漫长，政治不确定性上升，对中东局势及美以关系产生连锁影响。",
-      "reason": "以色列大选结果悬而未决，牵动中东格局、组阁走向与美以关系，多源密集报道。",
+      "title": "以色列大选结果胶着",
+      "summary": "以色列10月28日公布的大选出口民调显示，选情高度胶着，内塔尼亚胡阵营与对手均未获得单独过半的议会席位，组阁前景不明。总统赫尔佐格面临艰难抉择，将决定由谁牵头组阁。内塔尼亚胡能否保住执政地位迎来民意判决；阿拉伯政党取得历史性突破，但内塔尼亚胡此前表示不允许阿拉伯政党参与执政。选举结果将影响以色列对伊朗、巴勒斯坦以及地区关系的走向，也牵动美国的中东政策。",
+      "reason": "中东关键国家领导层走向未定，中外媒体密集报道，深刻影响地区格局。",
       "impact_areas": [
-        "政治",
-        "地缘"
+        "地缘",
+        "政治"
       ],
       "impact_level": "重大",
       "sources": [
         {
-          "name": "纽约时报",
-          "url": "https://www.nytimes.com/2026/10/27/world/middleeast/israeli-election-turnout.html"
+          "name": "财新网",
+          "url": "https://international.caixin.com/2026-10-28/102498109.html"
         },
         {
           "name": "BBC",
-          "url": "https://www.bbc.co.uk/news/videos/cm79p5pxqey2o?at_medium=RSS&at_campaign=rss"
+          "url": "https://www.bbc.co.uk/news/articles/cjy561y4pl56o?at_medium=RSS&at_campaign=rss"
         },
         {
           "name": "纽约时报",
-          "url": "https://www.nytimes.com/2026/10/27/world/middleeast/israel-election-arab-parties.html"
+          "url": "https://www.nytimes.com/2026/10/28/world/middleeast/israel-election-herzog-prime-minister.html"
         }
       ],
       "card": {
-        "category": "地缘·政治",
-        "headline": "以色列大选无赢家，组阁还在拉锯",
-        "what": "以色列大选投票结束，投票率高但无明确赢家，阿拉伯政党表现强劲，组阁谈判预计漫长。",
-        "question": "油价会受中东局势牵连吗？",
+        "category": "地缘·中东",
+        "headline": "以色列大选胶着，组阁成难题",
+        "what": "以色列10月28日公布的出口民调显示，内塔尼亚胡阵营与对手均未拿到过半席位，总统赫尔佐格将决定由谁牵头组阁。",
+        "question": "以色列换人会影响油价吗？",
         "means": [
-          "以色列相关资产和旅游短期波动大",
-          "中东航线与国际油价易受消息扰动"
+          "中东局势不稳时金价易走高",
+          "留意外贸与航运的绕行风险"
         ],
-        "note": "组阁结果可能要数周才明朗，勿急着下判断。"
+        "note": "组阁谈判可能持续数周，最终结果以官方公布为准。"
       }
     },
     {
-      "title": "特朗普拟解除对俄基金制裁",
-      "summary": "特朗普政府正研究解除对俄罗斯旗舰投资基金的制裁，作为调整对俄政策、推动乌克兰停火的筹码之一。此举与欧洲领导人对俄接触、局部停火安排相互交织，反映美方对俄政策出现松动迹象。若制裁放松，将影响俄罗斯资本流动、相关资产定价及西方对俄制裁体系的完整性，欧洲盟友对美方单边松绑存有疑虑。",
-      "reason": "美对俄制裁或松动，直接影响俄资本流动与西方制裁体系完整性，具重要政策信号。",
+      "title": "西班牙列车相撞至少30死",
+      "summary": "西班牙托莱多附近10月28日发生列车相撞事故，官方通报至少30人死亡，另有人员受伤。据凤凰网报道，一名中国公民在事故中受轻伤。事故原因尚在调查，救援和善后工作正在进行。这是西班牙近年来伤亡最严重的铁路事故之一，可能推动欧盟对铁路安全标准和信号系统的审查。事故发生在客流密集线路，也引发外界对欧洲老旧铁路基础设施更新投入的讨论。",
+      "reason": "至少30人死亡的重大铁路灾难，牵动欧洲铁路安全议题，且有中国公民受伤。",
       "impact_areas": [
-        "地缘",
+        "社会",
+        "交通"
+      ],
+      "impact_level": "重大",
+      "sources": [
+        {
+          "name": "纽约时报",
+          "url": "https://www.nytimes.com/live/2026/10/28/world/spain-train-crash-toledo"
+        },
+        {
+          "name": "凤凰网",
+          "url": "https://news.ifeng.com/c/8xaL3hwrVCW"
+        }
+      ],
+      "card": {
+        "category": "社会·交通",
+        "headline": "西班牙列车相撞，至少30人遇难",
+        "what": "西班牙托莱多附近10月28日发生列车相撞事故，官方通报至少30人死亡，一名中国公民受轻伤，事故原因仍在调查。",
+        "question": "去欧洲坐火车还安全吗？",
+        "means": [
+          "赴欧旅行可先查线路安全记录",
+          "欧洲老铁路改造或推高票价"
+        ],
+        "note": "事故原因尚未公布，出行前留意官方安全提醒。"
+      }
+    },
+    {
+      "title": "英伟达向Meta投资30亿",
+      "summary": "据财新报道，英伟达向Meta投资30亿元，这标志着AI领域的'循环交易'模式延伸至美股七巨头。所谓循环交易，指芯片厂商向AI应用企业投资、后者再采购前者芯片，形成资金与订单闭环，此前已在OpenAI等交易中引发市场对AI泡沫和收入真实性的质疑。此次交易将七巨头纳入类似结构，可能进一步推高AI算力投资规模，也加深市场对AI资本开支可持续性与估值合理性的担忧，对全球科技股定价产生传导影响。",
+      "reason": "AI资本循环交易扩散至七巨头，牵动全球AI投资与科技股估值逻辑。",
+      "impact_areas": [
+        "科技",
         "经济金融"
       ],
       "impact_level": "重大",
       "sources": [
         {
-          "name": "纽约时报",
-          "url": "https://www.nytimes.com/2026/10/27/us/politics/russia-fund-sanctions-trump.html"
+          "name": "财新网",
+          "url": "https://www.caixin.com/2026-10-28/102498144.html"
         }
       ],
       "card": {
-        "category": "地缘·制裁",
-        "headline": "美国考虑放松对俄基金制裁",
-        "what": "特朗普政府正研究解除对俄罗斯旗舰投资基金的制裁，作为推动乌克兰停火的筹码，欧洲盟友对此存疑。",
-        "question": "西方对俄制裁会一层层松吗？",
+        "category": "科技·资本",
+        "headline": "英伟达投Meta，AI循环交易升温",
+        "what": "据财新报道，英伟达向Meta投资30亿元，芯片厂商投资AI应用方、后者再买芯片的循环交易模式，首次延伸到美股七巨头。",
+        "question": "我的AI基金还能拿住吗？",
         "means": [
-          "俄罗斯相关资产价格短期波动加大",
-          "大宗商品和新兴市场资金流向或变"
+          "AI概念股波动可能进一步放大",
+          "算力相关岗位需求仍在扩张"
         ],
-        "note": "目前仍在研究阶段，是否落地未有定论。"
+        "note": "循环交易带来的收入真实性，仍是市场争议点。"
       }
     },
     {
-      "title": "A股放量大涨半导体领涨",
-      "summary": "10月28日A股三大指数集体上涨，创业板指盘中涨逾3%，上涨个股近4400只，沪深两市成交额突破1万亿元，较上一交易日同期放量超1300亿元。半导体板块走强，机器人板块持续走高，宇树科技涨超10%。放量普涨反映资金风险偏好回升，科技成长风格占优，对市场情绪和后续资金流向具重要指引。",
-      "reason": "沪深成交破万亿、较前一日大幅放量且指数普涨，资金入场与风格切换信号明显。",
+      "title": "Google发布Genie 4世界模型",
+      "summary": "谷歌10月28日发布新一代世界模型Genie 4，新增音频生成、更真实的世界模拟与实时操控能力，可根据输入实时生成可交互的虚拟环境。世界模型被视为通向通用人工智能和具身智能的关键技术，可应用于机器人训练、游戏与影视制作、自动驾驶仿真等领域。不过有分析指出，Genie 4单次生成时长仍有限（约2分钟），距离大规模商用尚有差距。该发布加剧全球大模型竞赛，对算力、内容生产与机器人产业格局产生外溢影响。",
+      "reason": "世界模型技术迭代，指向通用AI与具身智能，重塑内容与机器人产业。",
       "impact_areas": [
-        "经济金融"
+        "科技"
       ],
       "impact_level": "重大",
       "sources": [
         {
-          "name": "36氪",
-          "url": "https://www.36kr.com/newsflashes/4044985342792832"
+          "name": "新浪财经",
+          "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNWEhPaTBoWTZtcThBR3RGSE9kcHQ0a2J3OXQ4UE12V0VmRlZ6N3FvcmNEOXlzMGo3N2JERjhxTjh4Y2ZCdnZqdjdxaTZWaXg3Zjdua3dvWTJrUzhKVmlfRzhxcFFrMjBSSmZya1Jua1ZaMGxra01saDAxMjYtTkNjWjJDMDN1b0R3bHhyUENvbzNVak9tSUFUZjFsUUE?oc=5"
         },
         {
-          "name": "36氪",
-          "url": "https://www.36kr.com/newsflashes/4044982625489798"
-        },
-        {
-          "name": "36氪",
-          "url": "https://www.36kr.com/newsflashes/4044977621963911"
+          "name": "虎嗅",
+          "url": "https://www.huxiu.com/article/4901158.html"
         }
       ],
       "card": {
-        "category": "经济·股市",
-        "headline": "A股成交破万亿，半导体领涨",
-        "what": "10月28日A股三大指数集体上涨，创业板指盘中涨逾3%，上涨个股近4400只，两市成交额突破1万亿元。",
-        "question": "我手里的成长股该不该动？",
+        "category": "科技·大模型",
+        "headline": "谷歌Genie 4发布，实时造虚拟世界",
+        "what": "谷歌10月28日发布世界模型Genie 4，新增音频生成与实时操控，可按输入生成可交互虚拟环境，单次生成时长约2分钟。",
+        "question": "我的工作会被它替代吗？",
         "means": [
-          "科技成长风格短期更受资金偏爱",
-          "成交放大后板块轮动会更快"
+          "游戏影视制作成本可能下降",
+          "机器人训练岗位需求或慢慢增加"
         ],
-        "note": "单日放量不代表趋势，后续成交能否维持是关键。"
+        "note": "单次生成仅约两分钟，离大规模商用还有距离。"
       }
     },
     {
-      "title": "海力士HBM产能三年售罄",
-      "summary": "SK海力士CEO表示，未来三年DRAM及HBM产能近乎售罄，中长期销售能见度大幅提升；CFO称公司估值被低估，将通过回购提升每股价值。作为全球主要存储芯片供应商，其产能告罄显示AI算力驱动的存储需求持续强劲，HBM供不应求格局延续，将对存储芯片价格、下游AI服务器成本及全球半导体产业链利润分配产生重要影响。",
-      "reason": "存储龙头称DRAM/HBM三年产能售罄，凸显AI存储强劲需求，具产业链与价格信号。",
+      "title": "首饰金大幅回落",
+      "summary": "10月28日，国内首饰金价格大幅回落，投资金条报价重返每克'8'字头（800元区间），结束了前期高位运行。金价回调主要受国际金价走弱、美元与美债收益率波动以及获利了结影响。对普通消费者而言，婚庆、投资购金的成本明显下降；对黄金珠宝零售和投资金条渠道而言，则意味着销量与库存管理的再平衡。金价高位回落也反映市场对美联储政策路径和避险需求的重新定价，需关注后续是否形成趋势性拐点。",
+      "reason": "黄金价格显著回调，直接关系消费者购金与投资者资产配置，属重要价量信号。",
       "impact_areas": [
-        "科技",
-        "产业"
-      ],
-      "impact_level": "重大",
-      "sources": [
-        {
-          "name": "36氪",
-          "url": "https://www.36kr.com/newsflashes/4044959918969986"
-        }
-      ],
-      "card": {
-        "category": "科技·芯片",
-        "headline": "存储芯片三年产能被订空",
-        "what": "SK海力士CEO称未来三年DRAM及HBM产能近乎售罄，公司还将通过回购提升每股价值。",
-        "question": "内存和固态硬盘会继续涨价吗？",
-        "means": [
-          "装机、换手机的内存成本可能上升",
-          "AI服务器贵了，云服务价格或跟涨"
-        ],
-        "note": "产能售罄是公司说法，实际价格看季度合约。"
-      }
-    },
-    {
-      "title": "苹果承认折叠屏内屏缺陷",
-      "summary": "苹果承认iPhone Duo内屏存在问题，富士康员工称苹果曾降低质检标准。该机型为苹果首款折叠屏产品，内屏缺陷若涉及较大范围，将影响苹果高端产品口碑与销量。此事反映苹果在折叠屏新形态上品控承压，或对其供应链管理、售后成本及折叠屏市场竞争格局产生连锁影响。",
-      "reason": "苹果首款折叠屏被曝内屏缺陷并被指降低质检标准，事关品控与供应链管理。",
-      "impact_areas": [
-        "科技",
+        "经济金融",
         "消费"
       ],
       "impact_level": "重大",
       "sources": [
         {
           "name": "澎湃新闻",
-          "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE5qd28zZnNubHBNYlVmOUVfemZ4dHBvVHl6LWFvODVnRTNkX2ZFOXNhYjRxVXU1U1Qxeklta3VFRG9fWGR6TjVteEl6SzZRTzZGY3E2Yk1xV24ta0dBTnpVRWNfRV8tTUFiYl9iQ3A0NHZvdw?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5uZWpZeGxyMzN3OURtTm1TZ01EbGNrcVpUWXRVUENOY2MzMkVEV2ZXMUVmcHlHaHRnSHBnNHBWazZveVRPN3JkbF8xNFNNZzhRbnJsWF9TQzdiX19aYmNGbw?oc=5"
         }
       ],
       "card": {
-        "category": "科技·消费",
-        "headline": "苹果首款折叠屏被曝内屏缺陷",
-        "what": "苹果承认iPhone Duo内屏存在缺陷，富士康员工称苹果曾降低该机型质检标准。",
-        "question": "首批买的人能免费修吗？",
+        "category": "消费·黄金",
+        "headline": "首饰金降价，金条重回8字头",
+        "what": "10月28日国内首饰金价格大幅回落，投资金条报价重返每克800元区间，主要受国际金价走弱和获利了结影响。",
+        "question": "现在买金饰能省多少钱？",
         "means": [
-          "首发机型可能延期或限量供货",
-          "折叠屏二手保值率或受影响"
+          "婚庆买金的成本明显下降",
+          "金价能否续跌要看美联储"
         ],
-        "note": "缺陷范围与售后方案尚未公布，以官方为准。"
+        "note": "是否形成趋势性拐点尚不确定，买前多比价。"
       }
     },
     {
-      "title": "苹果发布M6版Mac系列",
-      "summary": "苹果发布搭载M6芯片的新款iMac、MacBook Pro等产品，完成新一轮自研芯片升级。M6芯片在性能与能效上进一步提升，强化苹果在PC端的竞争力。新品发布将影响高端PC市场格局、带动相关供应链，并对英特尔、AMD等x86阵营形成持续压力，也反映苹果自研芯片迭代节奏加快。",
-      "reason": "苹果M6芯片及新Mac发布，强化自研芯片优势，影响高端PC与半导体产业格局。",
+      "title": "Anthropic以万亿估值推进IPO",
+      "summary": "AI公司Anthropic上市进程推进，市场估值达万亿美元级别，七位联合创始人个人身家均超130亿美元，全部跻身全球富豪榜前300。新股认购名额稀缺，亚洲投资者转而通过间接标的押注。作为OpenAI最强竞争对手之一，Anthropic的上市将成为AI行业估值的重要风向标，也可能重塑全球科技财富版图。市场关注其商业化能力能否支撑超高估值，以及AI一级市场向二级市场传导的定价风险。",
+      "reason": "万亿美元级AI独角兽IPO，创始人身家集体跃升，成AI估值风向标。",
       "impact_areas": [
         "科技",
-        "产业"
-      ],
-      "impact_level": "重大",
-      "sources": [
-        {
-          "name": "少数派",
-          "url": "https://sspai.com/post/117684"
-        }
-      ],
-      "card": {
-        "category": "科技·硬件",
-        "headline": "苹果M6芯片发布，Mac全系换新",
-        "what": "苹果发布搭载M6芯片的新款iMac、MacBook Pro等产品，性能与能效进一步提升。",
-        "question": "现在该换电脑还是再等等？",
-        "means": [
-          "想换机的人可等新机上市后比价",
-          "英特尔、AMD的PC份额压力加大"
-        ],
-        "note": "国行价格与开售时间以官网公布为准。"
-      }
-    },
-    {
-      "title": "共享单车起步价涨至1.99元",
-      "summary": "多地共享单车起步价上调至1.99元，计费时长翻倍调整，提价主要针对骑行不满半小时的用户。此次调价反映共享单车行业在经历烧钱扩张后，转向盈利与精细化运营，运营与折旧成本压力推动价格上行。对通勤族而言，短途出行成本上升，或将影响部分用户的出行选择，也折射出共享经济从补贴走向常态盈利的转变。",
-      "reason": "共享单车起步价上调直接影响通勤族日常出行成本，具广泛民生影响。",
-      "impact_areas": [
-        "消费",
-        "社会"
-      ],
-      "impact_level": "重大",
-      "sources": [
-        {
-          "name": "虎嗅",
-          "url": "https://www.huxiu.com/article/4901014.html"
-        }
-      ],
-      "card": {
-        "category": "消费·出行",
-        "headline": "共享单车起步价涨到1.99元",
-        "what": "多地共享单车起步价上调至1.99元，计费时长同步翻倍调整，主要影响骑行不满半小时的用户。",
-        "question": "我每天通勤要多花多少钱？",
-        "means": [
-          "短途通勤每月多出几十元开销",
-          "骑得久的人反而可能更划算"
-        ],
-        "note": "各城市调价节奏不同，以App计价页为准。"
-      }
-    },
-    {
-      "title": "11省市双11发政府消费券",
-      "summary": "11个省市在天猫双11期间发放政府消费券，最高补贴25%，全国可用。这是地方政府联合电商平台促消费的又一举措，通过财政补贴撬动居民消费，覆盖双11购物高峰。消费券发放有助于提振短期消费、降低居民购物成本，也反映在消费复苏承压背景下，地方财政与平台协同发力稳消费的政策取向。",
-      "reason": "11省市双11发放政府消费券至高补贴25%，直接降低居民购物成本、拉动消费。",
-      "impact_areas": [
-        "消费",
         "经济金融"
       ],
       "impact_level": "重大",
       "sources": [
         {
-          "name": "36氪",
-          "url": "https://www.36kr.com/newsflashes/4044977163572356"
+          "name": "澎湃新闻",
+          "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5YZDcwMGl4LWZ1aHFqRDFWbm94NmNoZ2tXR3Ewcng5ZnNtYzMwb3M1UHdHMUFUTGZDNEJSUGw5dEdvUWhUUVdERmxZVEJEeEVZcDZ2cWdlZ2w3RU0zOG1PTw?oc=5"
+        },
+        {
+          "name": "虎嗅",
+          "url": "https://www.huxiu.com/article/4901156.html"
         }
       ],
       "card": {
-        "category": "消费·补贴",
-        "headline": "11省市双11发消费券，最高补25%",
-        "what": "11个省市在天猫双11期间发放政府消费券，最高补贴25%，全国可用，覆盖购物高峰。",
-        "question": "我所在的城市能领到吗？",
+        "category": "经济·资本",
+        "headline": "万亿估值AI公司要上市了",
+        "what": "AI公司Anthropic推进上市，市场估值达万亿美元级别，七位联合创始人个人身家均超130亿美元，新股认购名额稀缺。",
+        "question": "AI泡沫是不是越来越大了？",
         "means": [
-          "大件家电数码能省下一笔真金白银",
-          "券有门槛和名额，抢不到是常态"
+          "这类AI新股打新门槛可能很高",
+          "科技股估值波动会传导到基金"
         ],
-        "note": "各地额度与使用规则不同，以平台页面为准。"
+        "note": "超高估值能否被商业化支撑，仍待财报验证。"
       }
     },
     {
-      "title": "工信部完善汽车安全标准",
-      "summary": "工信部组织完成《重型汽车自动紧急制动系统技术要求及试验方法》《电动汽车安全要求》两项标准编制。前者要求重型车配备自动紧急制动系统（AEB），后者强化电动车安全要求。新标准将提升商用车与电动车的主动安全和电池安全水平，对整车厂、零部件供应商提出更高技术门槛，推动AEB等安全配置加速普及，长期利好道路安全与产业升级。",
-      "reason": "工信部完成重型车AEB及电动车安全国标编制，抬升行车与电池安全门槛，惠及消费者。",
+      "title": "8000亿政策性金融工具投放完成",
+      "summary": "据36氪，规模8000亿元的新型政策性金融工具已完成投放。该工具主要用于补充重大项目资本金，撬动银行贷款和社会投资，投向基础设施、产业升级等领域，是稳投资、扩内需的重要抓手。投放完成意味着相关资金将进入项目落地阶段，对四季度基建投资、信贷投放形成支撑，也反映财政与货币政策协同发力的取向。市场关注其对固定资产投资、地方债务化解及明年经济开局的实际拉动效果。",
+      "reason": "大规模政策性资金投放落地，是稳增长的重要信号，影响基建与信贷走向。",
       "impact_areas": [
-        "产业",
-        "社会"
+        "经济金融",
+        "产业"
       ],
       "impact_level": "重大",
       "sources": [
         {
           "name": "36氪",
-          "url": "https://www.36kr.com/newsflashes/4045005851858049"
+          "url": "https://www.36kr.com/newsflashes/4045420705633157"
         }
       ],
       "card": {
-        "category": "政策·汽车",
-        "headline": "重型车强制装AEB，电动车安全加码",
-        "what": "工信部完成重型汽车自动紧急制动系统与电动汽车安全两项标准编制，相关技术要求相应提高。",
-        "question": "我买的车会因此涨价吗？",
+        "category": "政策·基建",
+        "headline": "8000亿资金投完，基建要提速",
+        "what": "规模8000亿元的新型政策性金融工具已完成投放，主要用于补充重大项目资本金，投向基础设施与产业升级等领域。",
+        "question": "这些钱会落到我所在的行业吗？",
         "means": [
-          "新出厂重卡和电动车安全性提升",
-          "部分车型成本上升或传导到售价"
+          "基建相关岗位和订单或增多",
+          "四季度信贷投放有望加快"
         ],
-        "note": "标准落地时间与过渡期安排尚未明确。"
+        "note": "实际拉动效果要看项目开工进度，暂不宜高估。"
+      }
+    },
+    {
+      "title": "疾控提醒流感季提前",
+      "summary": "疾控部门10月28日发布提醒，今年流感流行季较往年提前，病毒传染性强，出现发热、咳嗽等症状应尽快就医。多地监测显示流感样病例增多，学校、养老机构等集体单位成为防控重点。专家建议重点人群尽早接种流感疫苗，做好个人防护。流感季提前与秋冬季呼吸道疾病叠加，可能加大医疗机构接诊压力，也提醒公众关注疫苗接种与用药储备。相关提示对家庭健康安排和公共卫生资源调配具有现实意义。",
+      "reason": "官方健康风险提示，涉及疫苗接种与就医安排，直接关系公众日常健康。",
+      "impact_areas": [
+        "公共卫生",
+        "民生"
+      ],
+      "impact_level": "重大",
+      "sources": [
+        {
+          "name": "丁香园",
+          "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBRYi1rUWxyaEktUFhhVkw1R2VBblJQeFV4V3E0S1NaWTZtbDZxN3EtSlp5YldTVFBKX25Gb3VvZzJLc3Bic3FTR1U2WTlnaXh4QThDaQ?oc=5"
+        }
+      ],
+      "card": {
+        "category": "健康·流感",
+        "headline": "流感季提前，疫苗尽量早打",
+        "what": "疾控部门10月28日提醒，今年流感流行季较往年提前，病毒传染性强，出现发热、咳嗽等症状应尽快就医。",
+        "question": "现在打流感疫苗还来得及吗？",
+        "means": [
+          "家里老人小孩先安排接种",
+          "秋冬就诊人数增多，备好常用药"
+        ],
+        "note": "各地流感活跃度不同，以本地疾控通报为准。"
+      }
+    },
+    {
+      "title": "陪诊服务国标即将实施",
+      "summary": "央视《新闻1+1》报道，陪诊服务国家标准即将实施，将对陪诊人员的服务内容、职业规范、机构资质等作出统一界定。随着老龄化加深和异地就医增多，陪诊需求快速增长，但此前行业缺乏统一标准，收费混乱、责任不清等问题突出。国标落地有望规范市场、明确服务边界与纠纷责任，惠及老年患者和异地就医人群。同时对陪诊机构的合规经营和从业人员培训提出新要求，推动这一新兴服务业走向规范化。",
+      "reason": "陪诊服务国家标准实施，规范新兴服务业，直接关系老年人就医体验。",
+      "impact_areas": [
+        "民生",
+        "公共卫生",
+        "产业"
+      ],
+      "impact_level": "重大",
+      "sources": [
+        {
+          "name": "央视网",
+          "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFA5dVY2ZFBkRE5xTFVyWTFTUFZFTHVHVG5BU3ZMTndXOThjZ2hYSzFsRHJoUnlUT3lUQTlmX09uNHlzTGtETlBwM2E2R1J0UmlRNC1xZmN1cWltWHA2d2dlbzRPUTd4dFFCWFF1NFZpeUxFaUFLenAxSw?oc=5"
+        }
+      ],
+      "card": {
+        "category": "民生·服务",
+        "headline": "陪诊服务国标将实施，收费更透明",
+        "what": "央视报道，陪诊服务国家标准即将实施，将统一界定陪诊人员的服务内容、职业规范和机构资质，此前收费混乱等问题有望改善。",
+        "question": "以后请人陪爸妈看病会更贵吗？",
+        "means": [
+          "找陪诊可认准有资质的机构",
+          "从业人员要培训，行业或洗牌"
+        ],
+        "note": "国标具体实施日期和细则以官方发布为准。"
       }
     }
   ],
-  "total_fetched": 234,
-  "generated_at": "2026-10-28T12:27:11.270563+08:00"
+  "total_fetched": 265,
+  "generated_at": "2026-10-28T19:27:11.160695+08:00"
 }
