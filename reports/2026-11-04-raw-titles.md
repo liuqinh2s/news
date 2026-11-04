@@ -1,48 +1,101 @@
-# 2026-11-04 原始新闻标题 (147 条)
+# 2026-11-04 原始新闻标题 (231 条)
 
-## 澎湃新闻 (2 条)
-- 大雪，局地暴雪，寒潮！最低气温下降8～10℃，局地可达10～12℃ - ThePaper.cn
-- “iPhone天气下周五出现温差”冲上热搜！-28℃、-31℃、-32℃......多地下周五出现极寒天气？iPhone系统天气显示出现异常 - ThePaper.cn
+## 澎湃新闻 (6 条)
+- 2026龚古尔奖揭晓，一部聚焦1949年悬案的小说获奖 - ThePaper.cn
+- 索耳《伶仃世》：对神明开口 - ThePaper.cn
+- 肺部结节能不开尽量不开，手术可能要切除一大块肺，切掉长不出来 - ThePaper.cn
+- 专访｜陈东晓：中期选举难撼中美大局，战略稳定绝非“冷消极稳定” - ThePaper.cn
+- 期中“烤”｜从“美国梦”到生存账单：拉美裔蓝领对两党都失去信心 - ThePaper.cn
+- 科普 | 毫米之内的答案（三）——复杂病例，路在何方？ - ThePaper.cn
 
-## 凤凰网 (5 条)
-- 美国中期选举收官预测和观战指南
-- 拉脱维亚政府集体辞职
-- 格陵兰岛自治政府议会批准与美国达成的安全协议
-- 胡塞武装称过去24小时沙特联军发动93次空袭
-- 墨西哥全国中小学实施手机使用限制
+## 凤凰网 (20 条)
+- 郭宁宁任福建省代省长
+- 台湾时评员邱毅：特朗普选前对外示强，内政拖累难挽选情
+- 政治大地震，38年来首次！共和党大本营选出民主党参议员
+- 蓝色浪潮席卷，特朗普会挑战中期选举结果吗？
+- 美国共和党遭遇惊人的失败，南卡翻蓝
+- 凤凰直击丨得州民主党候选人领先，支持者集会热情高涨
+- 官方通报九寨沟观景台打架事件后，网友还期待回答“四大疑问”
+- 国台办回应赖清德当局称要慎防大陆“认知战”和“介选”
+- 凤凰直击丨摇摆州缅因州计票机制特殊，最终结果可能要一周
+- 上海交警主动联系台湾演员明道归还其遗失物，国台办回应
+- 美国或迎来首位非裔女性州长
+- 台退役金门舰转交菲律宾，国台办：民进党当局丧失民族立场
+- 欧洲至少7架客机遭炸弹威胁，均无爆炸物
+- 国台办：奉劝沈伯洋之流“为善最乐，读书便佳”
+- 伊朗副外长：国家仍处于战争状态
+- 因发布497条内容诋毁胖东来及其创始人名誉，“中言说”被判道歉30天、赔偿38万元
+- 美媒预测：民主党取得众议院控制权
+- 俄军使用重型炸弹袭击乌克兰
+- 特朗普称将结束每年约40亿美元对以援助，以方：感到惊讶
+- 李亮再发声：秦朔“字节时间”将字节摁在“可能垄断”的叙事中
 
-## 财新网 (5 条)
-- 英国拉高多项永居申请门槛十年等待期及收入门槛引发争议
-- 发改委官员：密切关注AI对就业结构的影响，强化监测预警
-- 受高油价与炼油高利润率支撑 沙特阿美前三季度净利增超两成
-- 中国女足名宿马晓旭，将“扛”的DNA传给小玫瑰们｜体坛
-- 财经早知道｜央行上调外汇存准率，人民币单日贬值超300点
+## 财新网 (20 条)
+- 美国中期选举首批结果渐明朗 “蓝潮”席卷全美南卡遭意外翻转
+- 2026美国中期选举
+- 人事观察｜56岁郭宁宁代理福建省长
+- 币安：一场假面试引发的63亿美元加密货币劫案
+- 中国将加快推进人工智能基础性综合性立法
+- 图集｜全美进入中期选举投票时间
+- 视线｜奥索夫获奥巴马力挺：从调查记者、反腐旗手到明日之星
+- 10月经济：年内修复会否再遇波折
+- 【华尔街原声】币安联席CEO：对重大黑客攻击事件承担全部责任
+- 【华尔街原声】阿克曼：当前美股并未重演上世纪20年代的泡沫
+- 1000亿元+2000亿元 稳市效果如何
+- 稳市“弹药”再加2000亿元 央行优化股票回购再贷款政策
+- 人事观察｜履新一周再加新担 庄兆林兼任江西政法委书记
+- 程序即主权：标准必要专利跨境诉讼博弈（下）
+- 今日开盘：小幅低开 沪指跌幅0.08%
+- 【市场动态】中期选举结果或颠覆特朗普时代数字金融市场格局
+- 【市场动态】假招聘、恶意软件和AI 币安披露史上最大加密货币盗窃案细节
+- 【市场动态】特朗普在中期选举日宣布停止每年给以色列的40亿美元援助
+- 专访澳门特首：如何走出博彩依赖
+- 【市场动态】股市疲软拖累香港IPO市场降温
 
-## 央视网 (2 条)
-- 格陵兰岛自治政府议会批准与美国达成的安全协议 - 央视网
+## 央视网 (8 条)
+- 全国放心消费平台正式上线 面向消费者提供哪些功能？ - 央视网
+- 强国影视观察|开门办 众行远——让长征精神在共创共享中薪火相传 - 央视网
+- 11月将有4次冷空气过程，这份行车、穿衣指南请查收→ - 央视网
+- 奶茶深受喜爱 健康隐患莫忽视 - 央视网
+- 湖南省政协原常委、经济科技委员会原副主任张志军接受审查调查 - 央视网
 - 阿曼附近海域一艘油轮遭两枚不明弹体击中 - 央视网
+- 伊朗要求美明确回应7项条件 否则不开放霍尔木兹海峡 - 央视网
+- 数智乌镇，处处见“新” - 央视网
 
-## BBC (6 条)
+## BBC (10 条)
+- Democratic rising star Ossoff projected to hold Georgia seat
 - Spanish transport minister resigns days after deadly train crash
 - Seven flights across Europe targeted by suspected bomb threats
 - Binance says fake job interviews used as part of $6.3bn crypto hack
 - NTSB says crucial plane parts found three miles from Florida crash site
 - Death toll rises in Ukraine after Russia attacks aid centre, hospice and hospital
 - Irish Olympian Ciara Mageean was a 'talented and inspirational human being'
+- 'I'm not a quitter': Kim Kardashian on retaking the bar exam
+- Anthony Zurcher: Democrats push deep into Republican territory with historic wins
+- ANC under pressure to reverse South Africa decline
 
-## Reuters (3 条)
+## Reuters (9 条)
+- Top takeaways from the US midterm elections - Reuters
+- Trump says US close to trade deal with Canada, Carney says work remains - Reuters
 - Nine things on US voters' minds ahead of midterm elections, according to Reuters/Ipsos poll - Reuters
+- Indonesia arrests chief of staff, top policemen for alleged wiretapping of president - Reuters
+- CVS tests breakup of retail, insurance businesses, source says - Reuters
+- Fairfax's $5.5 billion deal for India's IDBI Bank faces employee, political opposition - Reuters
 - Spain's transport minister says he will resign after latest deadly train crash - Reuters
+- EXCLUSIVE: Ambani's Jio explores tech-for-equity talks with Comcast and Charter, sources say - Reuters
 - Musk’s pay under a SpaceX-Tesla merger: voting control, but no $1 trillion payday​ - Reuters
 
-## NYTimes (17 条)
+## NYTimes (20 条)
 - Afghan Woman Is Among Dozens to Be Deported to Afghanistan
 - West Bank Property Sales Tactics Face a Challenge in Canada
 - Poland Beefs Up Security at Border With Russia
 - Bomb Threats Disrupt Several Flights Across Europe
 - King Charles Says U.K.’s Role in Slave Trade ‘Fills My Heart With Horror’
+- As Trump’s Midterm Deadline Looms, Gulf Countries Brace for Possible Renewal of Iran War
 - Why Trump Often Mentioned Iran in the Midterm Campaign
+- A Test for Israeli Democracy: Should Jews Ask Arabs to Join the Government?
 - Australian Court Hears Challenge to Social Media Ban
+- Anthrax Outbreak in Africa’s Oldest National Park Is Killing Hippos
 - Helicopters Collide Over Everest Trail, Killing 1 and Injuring 3 Others
 - Spain’s Transport Minister Resigns After Deadly High-Speed Rail Crash
 - How Will the Midterms Play Out? These Races May Provide Early Clues.
@@ -63,26 +116,26 @@
 - Want Cash Out of Your Home? Here Are Your Best Options
 
 ## 微博热搜 (20 条)
-- 女生刷到另一个自己竟是双胞胎
-- TES对战IG
-- 2026世界市长对话宁波
-- 小鹏MONA L05火热提车
-- iPhone天气下周五温差
-- 杨幂曾偷偷观察唐嫣
-- 九寨沟打人事件调解收尾并非和稀泥
-- 杨幂鲜啤福鹿家全球品牌代言人
-- TheShy单杀369
-- 李钟硕新剧回春了
-- 女子每天玩手机10小时患手机痴呆症
-- 詹俊谈曼联3比2罗马
-- 许飞经纪人 去找厉娜
-- 孙颖莎
-- 终于知道大家搬离高层的原因
-- 李茂关注了肖战
-- 尚公主被偷数据
-- 孙铭阳祝孙颖莎大胆往前走
-- 王玉雯工作室被气成啥样了
-- 杂交水稻专家邓国富被开除党籍
+- 气象局回应苹果天气APP预报极端天气
+- 南京大学抬头率
+- 2026中国广播电视精品创作大会
+- 银河星耀6EF上市焕新价7.68万起
+- 红果短剧到底有多离谱
+- 小伙200多万买14套房年收租21万
+- iG战胜TES
+- TheShy和369赛后拥抱
+- 张雪回应校招起薪10万被嫌低
+- 苹果天气突现-32
+- 小城良方班底好是因为肖战点头了
+- 白小纯 我爸烟瘾大也生了我这个天才
+- 易烊千玺和于适粉丝都发了澄清
+- 林一找到了发烧有去医院的证据
+- TES止步S16八强
+- 美媒预测美中期选举结果
+- 徐艺洋原本打算将罗正礼金全部退回
+- 小米SU7U纽北疑似6分58
+- 林一小时候发烧真去过医院
+- 司机锡纸包ETC逃费138次近5万获刑
 
 ## 知乎热榜 (20 条)
 - 在自然科学的历史上，最荒诞的事件是什么？
@@ -91,11 +144,11 @@
 - 瞎扯 · 如何正确地吐槽
 - 你给哪些牛人发过邮件？有哪些结果？
 - 如果鸡能长到100千克重，那人是不是就有巨大的鸡翅可以吃了？
-- 中国有哪些不为人知的濒危物种？
-- 瞎扯 · 如何正确地吐槽
+- 仓鼠为什么喜欢跑滚轮？
 - Windows的伟大之处在哪里？
 - 历史教授为什么不愿碰元史？
 - 瞎扯 · 如何正确地吐槽
+- Anthropic 宣布「编程面试已死」，程序员靠什么证明自己？
 - 明朝的「君王死社稷」是不是一个笑话？
 - 自媒体称澳大利亚每年花费巨额从中国进口屎壳郎，这是真吗？中国的屎壳郎真的如此兢兢业业、不挑食吗？
 - 为什么西湖醋鱼从一道名菜变成了难吃的代名词？
@@ -107,70 +160,107 @@
 - 大脑为什么要删除三岁前的记忆？
 
 ## B站热门 (20 条)
+- 今天喝木薯桃胶炖奶
 - 抽象新闻：10月人类迷惑行为大赏（下）
 - 网络热传生物鉴定 第65期
-- 《原神》角色预告-「米提亚：井井有条」
-- 【纪录片】蓝色星球 第三季 01 热带海域
-- 三年之期已到，恭迎世一上归位！【第16集】
-- 今天喝木薯桃胶炖奶
-- 打雪仗。
-- 一条没下巴的鱼杀穿奥陶纪？
+- 总有世界，与你同频｜《弧光猎人》同频测试PV&国服全新PVP事件预告
+- 新三国up锐评老三国26：史诗级成就之一炮害三贤
+- 《到底多绝望，才会走出这样的步伐》《绝妙舞步》《闪身步》
+- 大家好，这里是 DeepSeek Harness，正式入驻 B 站！
 - 经常被问我的场景都是怎么弄的？今天直接带大家参观！
-- 漫威盛世开启！票房破15亿美元！MCU第一阶段收官之作《复仇者联盟》
-- 【大肥鱼】《secret base ～君がくれたもの～》未闻花名 ED 翻唱❀🐋
-- 入职鹰角成为卫戍协议策划的一天
-- 第1期：南山雪地徒步，邂逅新疆冬日浪漫【此生要去的100个地方 第二季】
-- 什么画居然能上央视视频？
-- 【文明与地图】12个大模型扮演君主谁能带领人类走向星际文明？
-- 《猫和老鼠》中的配乐细节竟然有这么多？！
-- 《崩坏：星穹铁道》走近星穹——「星神★阿哈：为了拖稿竟说自己是星神？」
-- 谁是有史以来最能整活的超级天才！
-- 探访宁夏贺兰山的老矿区，当地还留下了多少人？
 - 开破车挑战纽北！证明中国人比德国人更会玩车
+- 两个集合间构成了诡异的映射
+- 一条没下巴的鱼杀穿奥陶纪？
+- 当你只能使用吃过的干员打方舟……
+- 第1期：南山雪地徒步，邂逅新疆冬日浪漫【此生要去的100个地方 第二季】
+- 痛失爱女十周年！
+- 【2026全球总决赛】10月30日 BLG vs TES
+- 十五年前，我做了 《去月球》
+- 三年之期已到，恭迎世一上归位！【第16集】
+- 《原神》角色预告-「米提亚：井井有条」
+- 简析offer8：孩子们！葬送综艺吧！
+- 什么画居然能上央视视频？
 
 ## 抖音热搜 (20 条)
-- 赵心童晋级斯诺克国锦赛八强
-- 真正好吃的美味在民间
-- 世界互联网大会乌镇峰会开幕
-- 中方特使特代本月将赴多国访问
 - 曼联3:2逆转罗马
-- CBA上海加时险胜吉林
-- 英国男子花费28年完成环球徒步
-- 王楚钦3:0战胜林德
-- 闯入毛茸茸的奇妙世界
 - 一句你好胜过千言万语
+- 五部门发文促消费基建升级
+- IG战胜TES晋级四强
+- 闯入毛茸茸的奇妙世界
+- 这泰山是非爬不可吗
+- 真正好吃的美味在民间
+- DeepSeek V5计划基于昇腾训练
 - 西班牙足协停赛悼念德米格尔
+- 中印尼利刃2026联训在广州结训
 - 上海海港4:2纽卡斯尔喷气机
-- 治网这件事需要你我共“举”
-- CBA广州93:100不敌辽宁
-- 美官员称美袭击伊朗格什姆岛
-- 台军女中尉疑遭霸凌坠楼
-- 库珀赛后“表白”赵继伟
+- 盛李豪射击世锦赛夺金实现全满贯
+- 智启京彩 E路消谣
+- 金价回落消费者趁机购金
+- iG走心文案致敬仁川夺冠八周年
+- S16淘汰赛热点赛事观察
+- 妈妈的话是家里的圣旨
+- 小蓝叔对口型演绎大赏
+- 我的S16八强观赛日记
 - 张百乔长文写贾鑫烧伤后心里话
-- 广东男篮外援弗格正式离队
-- 黄金为什么崩了
 
-## 虎嗅 (8 条)
-- 消费者捂紧钱包，可海蓝之谜卖得更好了
-- 红果、绿泡泡这类AI 短剧产品会“腻”吗？
-- 连夜实测iPhone 国行AI，亮点和槽点都在这了
-- 一架飞往欧洲的宽体货机，只赚了一半的钱
-- 好莱坞的摄影棚，开始给航空航天腾地方了
-- 流量营销真正的出路在哪里？线上线下“合”为贵
-- 当下环保行业的6个真相
-- “这不就是二三十年前的中国吗？”:中国老板出海的一种错觉
+## 豆瓣讨论 (1 条)
+- 队友贷款炒股，亏了六十多万，整个大崩溃 - 豆瓣
 
-## GitHub Trending (13 条)
-- thedotmack/claude-mem
-- vercel-labs/agent-desktop
-- max-sixty/worktrunk
-- JustVugg/colibri
-- mattpocock/skills
-- p-e-w/heretic
-- spotify/portal-ai-plugins
-- floci-io/floci
-- Usagi-org/ai-goofish-monitor
-- anomalyco/hex
-- D4Vinci/Scrapling
-- shiyu-coder/Kronos
-- Donchitos/Claude-Code-Game-Studios
+## 丁香园 (9 条)
+- 专家讲科普｜养好骨头吃什么？营养科专家教您科学护骨 - 丁香园
+- 抗原下降不明显？间歇治疗可提高治愈率！ - 丁香园
+- 52 岁台胞感染脓毒血症命悬一线，合肥京东方医院多学科联手「保肢救命」 - 丁香园
+- 用药后嘴巴糜烂？警惕"药物过敏性口炎"~ - 丁香园
+- 学科建设 - 丁香园
+- 75 岁婆婆几近失明，付汛安教授助她重获光明 - 丁香园
+- 爱心公益 - 丁香园
+- 记老年病科为一位辗转求医的高危老年患者安全拔除智齿 - 丁香园
+- 中国原创耳内镜技术深化中越合作 武汉大学人民医院与越南耳鼻喉科学会签署合作备忘录 - 丁香园
+
+## 36氪 (20 条)
+- OpenAI高管称ChatGPT搜索量已达到谷歌的20%
+- 超威电源集团旗下浙江电力公司增资至2.1亿，增幅约108%
+- AMD董事长兼CEO苏姿丰：预计Helios机架级AI系统将在第四季度交付放量
+- 恒指午间休盘涨0.02%，恒生科技指数跌1.01%
+- 亚德诺半导体完成对Alif Semiconductor的收购
+- 半日主力资金加仓电子、机械设备板块，抛售非银金融板块
+- 韩国执政党领导人据悉寻求推迟加密货币税收
+- A股三大指数午间休盘涨跌不一，半导体板块领涨
+- 廖岷会见德国工业联合会驻华首席代表艾丽莎·雪格
+- 总规模10亿元，武汉泛半导体产业投资基金正式设立
+- 宁德时代在鄂尔多斯成立数据科技公司，注册资本1000万
+- 城市和社区可持续发展国家标准发布
+- 2026年前三季度中国黄金产量同比下降近两成
+- 里斯战略咨询联合36氪启动“新品类100问”征集活动
+- 中国黄金协会：2026年前三季度我国黄金消费量同比增长0.28%
+- 国家发改委：“十五五”时期，我国将新建约2500公里国家高等级水运航道
+- 国家发改委：“十五五”交通领域投资预计维持较大规模，严防项目跟风炒作
+- “主动科技”完成4.64亿元人民币天使+轮融资
+- 国家发改委：“十五五”时期我国将新建约2.1万公里高速公路
+- 国家发改委：“十五五”时期我国将新建约15个民用运输机场
+
+## 虎嗅 (20 条)
+- 豆包，被字节另一款APP超越了
+- “办公室还没租，融资先到账”
+- 刘文娟如何把“花钱的人”请回星巴克
+- 卫龙换帅，90后CEO上任
+- AI时代的云计算，少数派繁荣
+- 福建女商人无罪获171万国赔后再申诉：贷款当月被拘，仍背1300万本息
+- 梦回2024：国行iPhone 终于用上Apple 智能了，但它还不够好
+- 民航已进入存量搏杀的危险世界
+- CXO行业，两重天
+- 月球上用什么时间？
+- 物业扎堆跑路，这门生意该推倒重来了
+- 卖风机送吊装，头部风电整机商悄悄换打法？
+- 52条航线注销，燃油费又涨，飞机真要被高铁平替了？
+- 单季狂赚21亿，老店销售却大跌11%：瑞幸的“开店狂飙”开始反噬了吗？
+- AI绑架美股七姐妹
+- 坚果易主背后：投影大屏替代逻辑正在失效
+- 新茶饮来势汹汹，融到钱的野人先生如何守住溢价？
+- 东西越来越便宜，为什么省钱还得先有钱？
+- 新能源汽车出口激增，智驾出海仍是洼地
+- 安杰思PK南微医学：国产消化内镜耗材双雄，为何都要“下南洋”？
+
+## 少数派 (2 条)
+- 国行 Apple 智能上手：这些功能已经准备好
+- 派早报：Apple 智能国行版开放测试、拓竹发布 H3C 3D 打印机等
