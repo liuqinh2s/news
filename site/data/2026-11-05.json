@@ -2,20 +2,15 @@
   "date": "2026-11-05",
   "news": [
     {
-      "title": "民主党中期选举大胜",
-      "summary": "美国中期选举结果揭晓，民主党在多州'翻蓝'，夺回国会控制权，共和党内部公开要求特朗普改变路线。副总统万斯发表长文，将败选归咎于伊朗战争及美以关系，与特朗普出现公开分歧；特朗普则警告称，若遭民主党弹劾将'摧毁民主党'。民调显示超七成选民对国家现状不满，拉丁裔选票大幅转向被视为共和党失利的关键。直接影响：特朗普剩余任期立法议程受阻，对伊政策、关税与财政支出将受国会掣肘，弹劾风险上升，美股与全球风险资产波动加大。深层意义：美国进入府会分立的新博弈期，2028年两党初选格局提前重构，全球需重估美国政策连续性与盟友体系的稳定性。",
-      "reason": "美国府会格局逆转，直接改变对伊政策、关税与财政走向，是本轮全球市场定价的核心变量。",
+      "title": "美中期选举民主党大胜",
+      "summary": "2026年美国中期选举结果出炉，民主党在国会两院及州长选举中大幅获胜，媒体称之为'蓝色浪潮'，特朗普在关键州的'红墙'被'涂成蓝墙'。共和党内部将败选主因归于特朗普发动的对伊战争，副总统万斯直言对伊战争是共和党败选主因，被媒体解读为'弃船自保'，多名共和党人公开呼吁特朗普调整路线。此次选举将重塑美国国会权力格局，影响特朗普剩余任期的立法议程、对伊政策走向及2028年大选布局，并牵动全球市场与地缘格局。",
+      "reason": "美国中期选举民主党大胜，共和党内部对伊战争路线受质疑，将重塑美国政治与对外政策走向",
       "impact_areas": [
         "政治",
-        "经济金融",
         "地缘"
       ],
       "impact_level": "现象级",
       "sources": [
-        {
-          "name": "财新网",
-          "url": "https://database.caixin.com/2026-11-05/102501122.html"
-        },
         {
           "name": "Reuters",
           "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQamFhVEozSjRLb3lJNlFlTTZ4dmtZbjBGdTJHOGNXdmZqXzh6VGhqN3Z2czQ5VUdTaE5KeTMwdHNtUWhVRldhb2hhbGJMNUhDR3NfbF9sOWYyWHVFZHdPeU43OElBMzhnQnQzenpkdzJlQWVya0tMQUhaV1pPN1UwWlVlMXZpMXQxa191LVN5SEZSdWh5T21jcXRycHpOUkI5ZWhhZm4xSktCQnRfRnFhcDZn?oc=5"
@@ -25,317 +20,291 @@
           "url": "https://www.bbc.co.uk/news/articles/cq1kdgnn2xdeo?at_medium=RSS&at_campaign=rss"
         },
         {
-          "name": "纽约时报",
-          "url": "https://www.nytimes.com/2026/11/04/world/us-midterms-trump-israel.html"
+          "name": "凤凰网",
+          "url": "https://original.ifeng.com/c/8xoBNOS6JOY"
         },
         {
-          "name": "凤凰网",
-          "url": "https://original.ifeng.com/c/8xnh6qamwjz"
+          "name": "财新网",
+          "url": "https://international.caixin.com/2026-11-05/102501199.html"
         }
       ],
       "card": {
-        "category": "地缘·美国",
-        "headline": "民主党夺回国会，特朗普被掣肘",
-        "what": "美国中期选举结果揭晓，民主党夺回国会控制权，共和党内部公开要求特朗普调整路线。",
-        "question": "特朗普剩下的任期还能干成事吗？",
+        "category": "地缘·政治",
+        "headline": "民主党大胜，特朗普红墙失守",
+        "what": "2026年美国中期选举结果出炉，民主党在国会两院和州长选举中大幅获胜，共和党内部将对伊战争视为败选主因。",
+        "question": "美国换风向，跟我的钱包有关吗？",
         "means": [
-          "美股基金波动会明显变大",
-          "关税和利率走向更难预测"
+          "美元和黄金价格可能跟着晃",
+          "外贸、跨境电商订单或受波及"
         ],
-        "note": "弹劾程序与政策落地节奏仍有变数，以官方公告为准。"
+        "note": "距2028年大选还有两年，政策落地仍存变数。"
       }
     },
     {
-      "title": "美AI监管趋严 基建股普跌",
-      "summary": "民主党夺回国会控制权后，市场预期美国AI监管将明显收紧，11月5日美股AI基础设施板块普遍下跌，数据中心、算力及配套电力个股领跌。此前国会已多次就前沿模型安全、能耗与就业冲击举行听证，民主党主张对头部模型实施事前审查与强制披露。分析认为，若相关立法推进，超大规模数据中心扩张节奏、电力采购协议及芯片出口管制执行力度均可能调整。深层意义：美国AI产业由'宽松扩张'转入合规成本上升阶段，全球算力投资布局、AI企业估值逻辑与中美AI竞争节奏都将受到影响，AI概念资产波动率上升。",
-      "reason": "美国AI政策由宽松转向强监管，直接冲击全球算力投资节奏与AI资产定价，属科技与金融交叉的重要信号。",
+      "title": "霍尔木兹海峡两油轮起火",
+      "summary": "伊朗方面称霍尔木兹海峡两艘油轮起火、两架无人机遭捕获，海峡航运安全骤然紧张。同期美国宣布对协助伊朗的印度、土耳其企业和个人实施制裁；受美伊战争影响，越来越多伊朗人开始呼吁发展核武器。海湾国家为摆脱对霍尔木兹海峡的依赖，正加码建设新的能源运输通道。该海峡承担全球约五分之一的石油运输，任何中断都将推高油价、冲击全球能源供应与通胀，并加剧中东地缘风险。",
+      "reason": "霍尔木兹海峡油轮起火叠加美伊制裁与核诉求升温，直接威胁全球石油运输与能源价格",
       "impact_areas": [
-        "科技",
+        "地缘",
+        "能源",
+        "经济金融"
+      ],
+      "impact_level": "现象级",
+      "sources": [
+        {
+          "name": "央视网",
+          "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE04YzBoakItelFweWdXWGs5VTJoYmU1OEl5TU50Q1gyaWdzd19DbWdtWUZfX2FxMHdtTlJ0eFpxREN1azZ6b2xtQkNLV2NudXJ6cVFOelN4N0dtamk5aEVCcEt4VnY1SW5iMjB0dTE2bUhmVTBOX2gtaw?oc=5"
+        },
+        {
+          "name": "Reuters",
+          "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPTU5EOWpMNjZvcmh2TzIzTHo1OWRzaUdGRWZEN0xwbWpqV09pOGFoY2M5dlEya2xHTHJnS0VsQjZGM2lSTVk1U05TbHpLc3FveFhySUgtb1dPWEtXTkNXVlg4MWlwbTBSeGw1R2pPWTg3d3ZuV01nSDNvWWVQSjRTeFRSb3N2QnFMa0FMUDBGTWY5NDVIdG41Z05wdnRQT3pBRWJvSzg3Z0tEVXZSZDM5ag?oc=5"
+        },
+        {
+          "name": "财新网",
+          "url": "https://www.caixin.com/2026-11-05/102501366.html"
+        }
+      ],
+      "card": {
+        "category": "地缘·能源",
+        "headline": "霍尔木兹海峡出事，油价要抖",
+        "what": "伊朗称霍尔木兹海峡两艘油轮起火、两架无人机遭捕获，美国同期制裁协助伊朗的印度、土耳其企业。",
+        "question": "油价会跟着涨多少？",
+        "means": [
+          "加油和机票钱可能变贵",
+          "化工、物流成本或往下传"
+        ],
+        "note": "海峡承担全球约五分之一石油运输，局势仍需观察。"
+      }
+    },
+    {
+      "title": "中期选举后金价创两周新高",
+      "summary": "美国中期选举结果公布后，美元、原油和美债收益率同步走低，推动国际金价升至两周新高。市场将民主党获胜解读为政策不确定性上升、财政与对伊政策可能调整，避险资金回流黄金。金价异动反映市场对美国政治风险及后续货币政策路径的重新定价，对全球资产配置和贵金属产业链具有指引意义。后续需关注美联储政策表态、美元走势及地缘风险对金价的持续影响。",
+      "reason": "中期选举后美元油价收益率齐跌、金价创两周新高，反映市场对美国政治与政策风险的重新定价",
+      "impact_areas": [
+        "经济金融"
+      ],
+      "impact_level": "重大",
+      "sources": [
+        {
+          "name": "Reuters",
+          "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPRGw2bTVBSnBUN1BZcDhwQ0dVSmFIUVhDdGZLazVPNnV2NG5iYkVxXzg5QmRyY21IOWZOcFVRVXJBSU5PT1pXQWh3UHVmVWxhSm15bVh2NTVQZzJGVHpPT2dSSHc2NXlaLUYyQmVGX24xdW84cVN2NXpGcUhGZ0xrNDZSODR1NDNtNW9vc2JJSUVRcGZIMkprZHNONm4wN2VxUzdBX3B1NWxxcDBsWjNnZ05tUzdMRHJNaEJja2oxNC1QLWQt?oc=5"
+        }
+      ],
+      "card": {
+        "category": "经济·金价",
+        "headline": "选举一落地，金价冲到两周新高",
+        "what": "美国中期选举结果公布后，美元、原油和美债收益率同步走低，国际金价升至两周新高。",
+        "question": "现在买金还来得及吗？",
+        "means": [
+          "金饰克价这几天可能上调",
+          "追高买入要留意回调风险"
+        ],
+        "note": "金价受美联储表态和美元走势影响，波动或加大。"
+      }
+    },
+    {
+      "title": "潘功胜表态支持资本市场",
+      "summary": "中国人民银行行长潘功胜表示，将实施好支持资本市场的货币政策工具，释放继续以结构性工具稳定市场预期的信号。在外部环境因美国中期选举、地缘冲突而波动加大的背景下，央行明确货币政策对资本市场的支持取向，有助于稳定股市和债市情绪。市场关注后续工具的具体规模与落地节奏，以及对流动性、信贷和资产价格的传导效果。",
+      "reason": "央行行长明确以货币政策工具支持资本市场，稳定市场预期的政策信号值得关注",
+      "impact_areas": [
         "经济金融"
       ],
       "impact_level": "重大",
       "sources": [
         {
           "name": "财新网",
-          "url": "https://database.caixin.com/2026-11-05/102501127.html"
-        },
-        {
-          "name": "财新网",
-          "url": "https://opinion.caixin.com/2026-11-05/102501129.html"
-        },
-        {
-          "name": "财新网",
-          "url": "https://www.caixin.com/2026-11-05/102501151.html"
+          "url": "https://finance.caixin.com/2026-11-05/102501396.html"
         }
       ],
       "card": {
-        "category": "科技·算力",
-        "headline": "美国收紧AI监管，算力股先跌了",
-        "what": "11月5日美股AI基础设施板块普遍下跌，市场预期国会将收紧对前沿模型的审查与强制披露要求。",
-        "question": "国内AI公司会被卡脖子吗？",
+        "category": "政策·金融",
+        "headline": "央行行长发声，力挺资本市场",
+        "what": "央行行长潘功胜表示，将实施好支持资本市场的货币政策工具，释放继续以结构性工具稳定市场预期的信号。",
+        "question": "股市能稳住了吗？",
         "means": [
-          "AI概念股和基金波动加大",
-          "算力租赁价格可能往上走"
+          "手里基金短期或波动少一些",
+          "企业贷款和融资或更顺畅"
         ],
-        "note": "相关立法尚未落地，监管口径以最终法案为准。"
+        "note": "工具规模和落地节奏未定，以官方后续公告为准。"
       }
     },
     {
-      "title": "马兴瑞涉受贿被逮捕",
-      "summary": "中央政治局原委员马兴瑞因涉嫌受贿被依法逮捕，案件将由湖北宜昌司法机关审理。检方认定其受贿数额特别巨大，最高可能面临25年刑期。马兴瑞长期在航天系统及广东、新疆任职，是近年落马级别最高的官员之一。直接影响：航天、能源及地方国资系统反腐链条继续延伸，相关领域人事安排与项目审批节奏面临调整。深层意义：对曾任中央政治局委员的高级官员依法查处，释放反腐'无禁区'信号，也影响外界对地方治理稳定性与政策执行连续性的评估。",
-      "reason": "落马级别最高的官员之一进入司法程序，涉及航天与地方国资系统，是今日国内政治领域最重新闻。",
+      "title": "美众院拟弹劾防长赫格塞思",
+      "summary": "美媒披露，美国众议院最早将于下周就弹劾国防部长赫格塞思进行投票。此举发生在民主党借中期选举获胜、掌控国会之际，被视为对特朗普政府对伊战争及国防决策的追责。若弹劾程序推进，将加剧美国政治对立，冲击国防政策连续性，并影响美伊冲突走向。弹劾前景取决于国会席位与党内博弈。",
+      "reason": "民主党掌控国会后拟弹劾防长，标志对伊战争追责升级，扰动美国防政策与地缘格局",
       "impact_areas": [
         "政治",
-        "社会"
-      ],
-      "impact_level": "重大",
-      "sources": [
-        {
-          "name": "凤凰网",
-          "url": "https://news.ifeng.com/c/8xneu6AemrI"
-        },
-        {
-          "name": "财新网",
-          "url": "https://china.caixin.com/2026-11-05/102501155.html"
-        }
-      ],
-      "card": {
-        "category": "政治·反腐",
-        "headline": "政治局原委员涉受贿被逮捕",
-        "what": "中央政治局原委员马兴瑞涉嫌受贿被逮捕，案件由湖北宜昌司法机关审理，检方认定其受贿数额特别巨大。",
-        "question": "这类案子会牵出更多人事变动吗？",
-        "means": [
-          "航天能源系统人事或有调整",
-          "相关项目审批节奏可能放慢"
-        ],
-        "note": "案件仍在司法程序中，最终判决以法院公布为准。"
-      }
-    },
-    {
-      "title": "黄之锋再被判囚10年",
-      "summary": "香港民主派活动人士黄之锋在国安相关案件中被香港法院判处10年监禁，多家国际媒体广泛报道，称其为香港民主运动的标志性人物，此为其再次被判长期监禁。直接影响：香港国安案件量刑持续从严，本地政治活动空间进一步收窄，部分西方政府与国际人权组织预计将发表批评声明，或影响涉港外交交涉。深层意义：香港司法与国安执法进入常态化阶段，对国际投资者评估香港法治环境、人才流动及香港与西方关系修复构成长期变量。",
-      "reason": "中英文媒体同步报道的涉港重大司法事件，牵动香港国际形象与对外关系，跨语种传播明显。",
-      "impact_areas": [
-        "政治",
-        "社会"
-      ],
-      "impact_level": "重大",
-      "sources": [
-        {
-          "name": "凤凰网",
-          "url": "https://news.ifeng.com/c/8xnlAOGDLu3"
-        },
-        {
-          "name": "BBC",
-          "url": "https://www.bbc.co.uk/news/articles/cwp9g3rlp8jlo?at_medium=RSS&at_campaign=rss"
-        },
-        {
-          "name": "纽约时报",
-          "url": "https://www.nytimes.com/2026/11/04/world/asia/joshua-wong-hong-kong-sentenced.html"
-        }
-      ],
-      "card": {
-        "category": "政治·司法",
-        "headline": "黄之锋国安案被判囚10年",
-        "what": "香港法院就国安相关案件判处黄之锋10年监禁，多家国际媒体称其为香港民主运动的标志性人物。",
-        "question": "香港的法治环境会受影响吗？",
-        "means": [
-          "涉港外资与人才流动更谨慎",
-          "西方对港表态或再度升温"
-        ],
-        "note": "后续西方政府表态与涉港交涉进展值得留意。"
-      }
-    },
-    {
-      "title": "法国血库遭网攻 温度被调高",
-      "summary": "法国血液机构冷藏设施遭网络攻击，黑客将血液储存设备的目标温度由约零下30摄氏度篡改为110摄氏度，血液制品安全与临床供血受到威胁。此前法国及其他欧洲国家多家超市的冷藏冷冻设施接连遭遇同类攻击，作案手法高度一致。直接影响：血液制品报废风险上升，医院择期手术可能延后，欧洲零售与医疗冷链系统被迫紧急排查。深层意义：针对工业控制系统的攻击正从能源、水务蔓延至医疗与食品冷链，暴露关键基础设施物联网设备的普遍脆弱性，各国或将强制推行冷链设备网络隔离与温度异常告警标准。",
-      "reason": "工控系统攻击首次大规模波及血库与食品冷链，公共卫生与关键基础设施安全风险显著升级。",
-      "impact_areas": [
-        "科技",
-        "公共卫生",
-        "社会"
-      ],
-      "impact_level": "重大",
-      "sources": [
-        {
-          "name": "财新网",
-          "url": "https://international.caixin.com/2026-11-05/102501148.html"
-        },
-        {
-          "name": "BBC",
-          "url": "https://www.bbc.co.uk/news/articles/c8vgxyvz6y9ro?at_medium=RSS&at_campaign=rss"
-        },
-        {
-          "name": "澎湃新闻",
-          "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE10SXJIdU5tNjlFRFEwRndObVUwTEJReFlzRmRNRHU5VzJ5WE9XaHkwaEhTaFJEZEtibjFDdEVSZ1FZZjJiVjdJN3FHVDUwaUZXT0t1QWtpM0kwM1JjazNtcA?oc=5"
-        }
-      ],
-      "card": {
-        "category": "科技·网络安全",
-        "headline": "法国血库被黑，血液温度被人调高",
-        "what": "法国血液机构冷藏设施遭网络攻击，黑客把设备目标温度从约零下30摄氏度改为110摄氏度。",
-        "question": "医院里的血还够用吗？",
-        "means": [
-          "欧洲择期手术可能被迫延后",
-          "冷链设备联网安全会被重查"
-        ],
-        "note": "同类攻击已在欧洲零售业出现，作案手法高度一致。"
-      }
-    },
-    {
-      "title": "第九届进博会开幕",
-      "summary": "第九届中国国际进口博览会11月5日在上海开幕，本届首次设立全新展区。美国大豆协会连续第九年参展，表示'中国对我们意义重大'，中美经贸界人士强调两国贸易的韧性与机遇。直接影响：在全球贸易摩擦与供应链重构背景下，进博会成为跨国企业稳定中国市场份额的关键窗口，农产品、医疗与高端装备采购订单集中释放。深层意义：中国以扩大进口对冲外部压力，进博会既是开放信号也是产业谈判平台，对中美经贸阶段性缓和与全球农产品贸易流向具有指示意义。",
-      "reason": "中美经贸摩擦背景下的大型国家级开放平台，美方农业界高调参展，具贸易风向标意义。",
-      "impact_areas": [
-        "经济金融",
-        "地缘",
-        "产业"
+        "地缘"
       ],
       "impact_level": "重大",
       "sources": [
         {
           "name": "央视网",
-          "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFB2QjZ4OGpvUG82ajRidjBSdXNxaHV0QWZjU0d2OG96YkxZUDRzQjRlalo0MnNSUm0tdEFBNGxDYkdhLUxRVWhwR25hcExaUmdVYUxNcVU0WW94VjNSZmNRUTEzQ1pWYWxORlpTZ1BScGlGNFZLRWgxSA?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1iMHFEb0UxUzlWd2Z6T0Z5Rl9QcVIzckkzZV9mMkY0T05qREx6YV9VeVZKTEdxU3NRcUt5YWp3UUpYNVlLenNyaUZ5X1NnS2FDQzlLNEE1QkR2WmVrZkhleWxHSzRDTlRsTWZxMVFHSTBGbFZFdXJ1eg?oc=5"
+        }
+      ],
+      "card": {
+        "category": "政治·军事",
+        "headline": "民主党要弹劾防长，矛头对伊战",
+        "what": "美媒披露，美国众议院最早下周就弹劾国防部长赫格塞思进行投票，此举被视为对特朗普政府对伊战争决策的追责。",
+        "question": "美国内斗会拖累油价吗？",
+        "means": [
+          "中东局势反复，油价易涨难跌",
+          "相关能源股和基金波动加大"
+        ],
+        "note": "弹劾前景取决于国会席位与党内博弈，结果待定。"
+      }
+    },
+    {
+      "title": "2027年放假安排公布",
+      "summary": "国务院公布2027年部分节假日安排：春节2月5日（除夕）至13日（初八）连休9天，端午、中秋不调休，整体调休明显减少。这一安排直接影响数亿劳动者的休假与出行计划，将带动春节前后交通、旅游、消费集中释放，也对拼假、错峰出行形成新参考。假期制度的优化反映对民众休息权益和消费提振的平衡，是关系日常生活的民生政策。",
+      "reason": "2027年放假安排牵动全国劳动者休假与出行消费，调休减少、春节连休9天广受关注",
+      "impact_areas": [
+        "社会",
+        "民生"
+      ],
+      "impact_level": "重大",
+      "sources": [
+        {
+          "name": "澎湃新闻",
+          "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE40Z1lwUG9ta0N2SGQ0eHFlcS1mMFl4SzB1c29mZ2pMNTV2eVppa2YyVXkyWFN0cVN3Wi02cmRzMmE5M1lfdlBtbWp5TVFCWldsTUVhNUhhOXpHUEtCY0drcg?oc=5"
         },
         {
           "name": "凤凰网",
-          "url": "https://news.ifeng.com/c/8xnmZesYqKz"
+          "url": "https://news.ifeng.com/c/8xo8kJwiFuv"
+        }
+      ],
+      "card": {
+        "category": "社会·民生",
+        "headline": "春节连休9天，端午中秋不调休",
+        "what": "国务院公布2027年部分节假日安排：春节2月5日除夕至13日初八连休9天，端午、中秋不调休，整体调休明显减少。",
+        "question": "我能拼出几天长假？",
+        "means": [
+          "春节机票酒店得早点订",
+          "错峰出行能省下不少钱"
+        ],
+        "note": "具体以国务院办公厅通知为准，拼假需看单位安排。"
+      }
+    },
+    {
+      "title": "国内航线燃油附加费上调",
+      "summary": "自11月5日起，国内航线燃油附加费上调，旅客乘机出行成本相应增加。此次调整与国际油价及航油成本变动挂钩，反映航空运输成本压力向终端传导。对频繁出行的商务、探亲旅客而言，机票总支出上升；对航空公司和旅游业则关系到需求与利润平衡。后续走势取决于油价格局与出行淡旺季。",
+      "reason": "国内航线燃油附加费今起上调，直接影响旅客出行成本，属全国范围民生价格变动",
+      "impact_areas": [
+        "民生",
+        "交通"
+      ],
+      "impact_level": "重大",
+      "sources": [
+        {
+          "name": "央视网",
+          "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBHUzJXeU9GcHd6cS11bUpHem1TNHQwMFo5cktybUZzcjFOTS04TkZPa3RZLW9GVHdzUWdBeTl2NElXd0RQd1A4TWg4TEJsYmVMaURmZ0hhUFRDNkJjVVBxa0JVS3FWLXZZRkoyRlBSOFQ3b0w2NGVVVQ?oc=5"
+        }
+      ],
+      "card": {
+        "category": "民生·出行",
+        "headline": "今天起，国内机票燃油费涨价",
+        "what": "自11月5日起，国内航线燃油附加费上调，旅客乘机出行成本相应增加，调整与国际油价及航油成本变动挂钩。",
+        "question": "一趟飞多花多少钱？",
+        "means": [
+          "探亲和出差机票总价变高",
+          "淡季错峰飞能省一笔钱"
+        ],
+        "note": "附加费随油价调整，具体金额以航司和购票平台为准。"
+      }
+    },
+    {
+      "title": "法国关键设施遭网络攻击",
+      "summary": "法国血液机构冷藏设施遭网络攻击，黑客将原约-30℃的目标温度篡改为110℃，可能导致血液制品损毁；此前法国及其他欧洲国家超市冷藏冷冻设施亦接连遭同类攻击，一家法国银行也报告遭网络攻击。系列事件显示针对关键基础设施的工控系统攻击正在扩散，风险从数据窃取升级为对实体运行和公共健康的直接破坏，各国亟需强化关键基础设施网络安全防护。",
+      "reason": "法国血液冷库温度遭篡改等关键基础设施工控攻击扩散，网络风险升级至实体与公共卫生破坏",
+      "impact_areas": [
+        "科技",
+        "公共卫生",
+        "安全"
+      ],
+      "impact_level": "重大",
+      "sources": [
+        {
+          "name": "澎湃新闻",
+          "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE10SXJIdU5tNjlFRFEwRndObVUwTEJReFlzRmRNRHU5VzJ5WE9XaHkwaEhTaFJEZEtibjFDdEVSZ1FZZjJiVjdJN3FHVDUwaUZXT0t1QWtpM0kwM1JjazNtcA?oc=5"
         },
         {
-          "name": "凤凰网",
-          "url": "https://original.ifeng.com/c/8xnjivCCfkK"
+          "name": "36氪",
+          "url": "https://www.36kr.com/newsflashes/4056734989833348"
+        }
+      ],
+      "card": {
+        "category": "科技·安全",
+        "headline": "黑客改冷库温度，血液制品告急",
+        "what": "法国血液机构冷藏设施遭网络攻击，黑客把约-30℃的目标温度篡改为110℃，可能导致血液制品损毁。",
+        "question": "家里的智能设备安全吗？",
+        "means": [
+          "医院、冷链系统都可能被盯上",
+          "公共服务的网络安全投入或增加"
+        ],
+        "note": "血液制品损毁情况仍在核实，攻击来源尚未确认。"
+      }
+    },
+    {
+      "title": "西班牙高铁追尾致69死",
+      "summary": "西班牙发生高铁'致命追尾'事故，造成69人死亡，为欧洲近年最严重铁路事故之一。事故暴露铁路调度与安全防护系统的潜在漏洞，引发对高速铁路运行安全的广泛关注。西班牙及欧盟或将启动安全审查，相关铁路运营与设备供应商面临问责。对高度依赖高铁出行的欧洲而言，此事件将推动信号控制系统与应急机制升级。",
+      "reason": "西班牙高铁致命追尾致69人死，为欧洲近年最严重铁路事故之一，引发铁路安全系统性反思",
+      "impact_areas": [
+        "社会",
+        "交通",
+        "安全"
+      ],
+      "impact_level": "重大",
+      "sources": [
+        {
+          "name": "南方周末",
+          "url": "https://www.infzm.com/contents/344095"
+        }
+      ],
+      "card": {
+        "category": "社会·安全",
+        "headline": "西班牙高铁追尾，69人遇难",
+        "what": "西班牙发生高铁追尾事故，造成69人死亡，为欧洲近年最严重铁路事故之一，铁路调度与安全防护漏洞受关注。",
+        "question": "国内高铁还安全吗？",
+        "means": [
+          "信号和防护系统或迎来排查",
+          "坐高铁不妨先看清逃生出口"
+        ],
+        "note": "事故原因仍在调查，最终结论以官方通报为准。"
+      }
+    },
+    {
+      "title": "进博会首日多项规模创新高",
+      "summary": "第九届中国国际进口博览会在上海开幕，首日活动亮点密集，多项展览规模创历史新高。作为国家级开放平台，进博会聚焦扩大进口、吸引外资与全球经贸合作，在当前地缘政治波动、贸易保护主义抬头的背景下，释放中国坚持开放的信号。展会的成交、签约与新品首发情况，将影响相关产业链和外资预期，也是观察中国外贸与消费市场的重要窗口。",
+      "reason": "第九届进博会开幕首日多项规模创新高，是观察中国扩大开放、外贸与外资走向的重要窗口",
+      "impact_areas": [
+        "经济金融",
+        "贸易"
+      ],
+      "impact_level": "重大",
+      "sources": [
+        {
+          "name": "央视网",
+          "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBENUU5ME5SSklRUlVLY0JOWEwwVGI5TzVmTTE4QU5wT25mV0J1VnVUSkVIbTRmOUFrMGMxYzNwdGdjX3YtNjFMdlpjdEZZVnY4UkJWWllLbl91OU4tRVBkV3g2ZTBmekI2WXhKT0c5dTR6TXR4bFFuVg?oc=5"
+        },
+        {
+          "name": "央视网",
+          "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE43Z0xvcUVyOWg4OVk0SEtYNm9JMHJVYkJYZVdJSkZEOUVuLXVsbU1fMG5aemZ2bWJublZianNDdUVuV3ZYRGJRYU93VXoxWmJ1LXdfbTVjVmJ4VENqbzlwVVF3Z0NXZWR4ZktuSlhneTJPNWhLOFRYZw?oc=5"
         }
       ],
       "card": {
         "category": "经济·贸易",
-        "headline": "进博会开幕，美国农企依然到场",
-        "what": "第九届中国国际进口博览会11月5日在上海开幕，首次设立全新展区，美国大豆协会连续第九年参展。",
-        "question": "进口商品会更便宜吗？",
+        "headline": "进博会开幕，多项规模创新高",
+        "what": "第九届中国国际进口博览会在上海开幕，首日活动密集，多项展览规模创历史新高，聚焦扩大进口与吸引外资。",
+        "question": "我能买到更便宜的进口货吗？",
         "means": [
-          "进口牛肉大豆价格或有松动",
-          "外贸和物流岗位需求跟着变"
+          "进口食品和美妆选择或更多",
+          "相关行业岗位和代理机会增多"
         ],
-        "note": "订单是否落地要看后续签约，留意官方成交数据。"
-      }
-    },
-    {
-      "title": "腾讯发布混元Hy4",
-      "summary": "腾讯11月5日发布混元大模型Hy4正式版，同步升级WorkRally等办公协同功能，模型能力与企业级智能体应用进一步落地。同日国内AI生态动作密集：中国信通院联合华为、阿里、腾讯、小米等发布AI治理公约；一家英国企业为2000名工程师接入中国大模型，实现'词元自由'。直接影响：国产大模型在办公、编程与企业服务场景的渗透加速，推理算力与云资源需求上升。深层意义：中国大模型竞争从参数规模转向场景、成本与生态，企业级市场成为主战场，行业自律公约的出台预示国内AI监管框架正在成型。",
-      "reason": "国产头部大模型正式版发布叠加行业治理公约落地，是今日科技领域最具产业影响的进展。",
-      "impact_areas": [
-        "科技",
-        "产业"
-      ],
-      "impact_level": "重大",
-      "sources": [
-        {
-          "name": "少数派",
-          "url": "https://sspai.com/post/118498"
-        },
-        {
-          "name": "财新网",
-          "url": "https://www.caixin.com/2026-11-05/102501114.html"
-        },
-        {
-          "name": "财新网",
-          "url": "https://mini.caixin.com/2026-11-05/102501115.html"
-        }
-      ],
-      "card": {
-        "category": "科技·大模型",
-        "headline": "腾讯发布混元Hy4正式版",
-        "what": "腾讯11月5日发布混元大模型Hy4正式版，同步升级办公协同功能；中国信通院联合多家企业发布AI治理公约。",
-        "question": "我的工作会被AI替掉多少？",
-        "means": [
-          "写周报做表格能省不少时间",
-          "会用AI正在变成求职加分项"
-        ],
-        "note": "行业治理公约刚起步，具体监管细则尚未出台。"
-      }
-    },
-    {
-      "title": "中生制药70亿美元授权合作",
-      "summary": "德国药企勃林格殷格翰与中国生物制药达成总额逾70亿美元的癌症药物合作协议，涉及多个肿瘤管线的开发与商业化授权，为2026年以来中国创新药领域规模最大的跨境交易之一。直接影响：中国生物制药将获得首付款与里程碑收入，补充研发现金流；勃林格殷格翰扩充肿瘤产品组合。深层意义：中国创新药出海模式从原料药、仿制药升级为管线授权，跨国药企对中国早期研发资产的采购持续升温，创新药估值体系与对外授权交易定价有望进一步上移。",
-      "reason": "年内最大跨境创新药授权交易之一，反映中国研发资产定价上移，对医药产业格局影响深远。",
-      "impact_areas": [
-        "产业",
-        "科技",
-        "经济金融"
-      ],
-      "impact_level": "重大",
-      "sources": [
-        {
-          "name": "财新网",
-          "url": "https://database.caixin.com/2026-11-05/102501112.html"
-        }
-      ],
-      "card": {
-        "category": "产业·医药",
-        "headline": "国产抗癌药出海，年内最大授权",
-        "what": "德国药企勃林格殷格翰与中国生物制药达成逾70亿美元的癌症药物合作协议，涉及多个肿瘤管线。",
-        "question": "国产创新药会更值钱吗？",
-        "means": [
-          "医药板块基金波动会更明显",
-          "创新药研发岗位需求或增加"
-        ],
-        "note": "首付款与里程碑收入分期确认，留意后续公告。"
-      }
-    },
-    {
-      "title": "沪首批宅地挂牌41.55亿",
-      "summary": "上海楼市新政后首批宅地挂牌，起拍总价41.55亿元，同时提高商品住房预售标准，要求项目建设达到更高进度方可预售。直接影响：开发商资金回笼周期拉长，高杠杆拿地与快周转模式进一步受抑；购房者遭遇延期交付的风险下降，但短期新房供应节奏可能放缓。深层意义：上海作为全国楼市风向标，供地节奏与预售标准的调整可能被其他热点城市跟进，保交楼从应急措施转向制度化约束，房企资金链管理与拿地策略面临重构。",
-      "reason": "一线城市供地与预售规则同步调整，直接关系购房者交付风险与房企资金链，属高相关民生政策。",
-      "impact_areas": [
-        "经济金融",
-        "社会"
-      ],
-      "impact_level": "重大",
-      "sources": [
-        {
-          "name": "澎湃新闻",
-          "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE00OGo4SkdJNWZRQzVZRGNvWF9GUTNKRzRzd2RjbW9Sc1hpa1VjcUR4NDdBZ0RQQnpuVkczS2kzRHhUQVhhdkVkOHpaT0t1TW4xOExlZ2IwdjZaWVZiRXVRdw?oc=5"
-        }
-      ],
-      "card": {
-        "category": "经济·楼市",
-        "headline": "上海挂牌首批宅地，预售门槛提高",
-        "what": "上海楼市新政后首批宅地挂牌，起拍总价41.55亿元，同时要求商品住房建设达到更高进度方可预售。",
-        "question": "我买的期房还会烂尾吗？",
-        "means": [
-          "买期房烂尾风险相对降低",
-          "短期新房可选房源可能变少"
-        ],
-        "note": "其他热点城市是否跟进，还需看后续供地公告。"
-      }
-    },
-    {
-      "title": "黑龙江13条高速全线封闭",
-      "summary": "受恶劣天气影响，黑龙江省内13条高速公路全线封闭，另有11条高速公路部分封闭并实施限速限行，省内公路客货运输大面积受阻。直接影响：省内主要城市间长途客运，以及冷链、煤炭等物资运输出现延误，部分铁路与航空接驳受到波及，通勤与物流成本短期上升。深层意义：入冬首轮强天气即造成省级路网大面积中断，暴露东北地区冬季交通韧性不足，除雪除冰能力、应急分流预案与货运时效保障机制面临检验，也提醒物流与供应链企业提前部署冬季运输方案。",
-      "reason": "省级路网大面积中断，直接影响通勤与物资运输，是今日最具体的民生出行类事实性新闻。",
-      "impact_areas": [
-        "社会",
-        "产业"
-      ],
-      "impact_level": "重大",
-      "sources": [
-        {
-          "name": "澎湃新闻",
-          "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1lcU5UNlkwMXZsSHZkdnpyRmJUZGhYNWZEWV9sd1B2T19ySEx0Ync3T2NYT19SQVBjaW5kY0dHbll4TVlWOEtweTlqUVNsU0NNSkU0ZjVqR2xfV3YxMkplbg?oc=5"
-        }
-      ],
-      "card": {
-        "category": "社会·交通",
-        "headline": "黑龙江多条高速封闭，出行受阻",
-        "what": "受恶劣天气影响，黑龙江13条高速公路全线封闭，另有11条部分封闭并限速限行，客货运输大面积受阻。",
-        "question": "我的快递会不会延误？",
-        "means": [
-          "东北方向快递和生鲜会变慢",
-          "冬季出行前记得先查路况"
-        ],
-        "note": "封闭解除时间取决于天气，出行前查交管部门公告。"
+        "note": "展会成交和签约数据后续公布，效果还需观察。"
       }
     }
   ],
-  "total_fetched": 233,
-  "generated_at": "2026-11-05T12:27:20.973425+08:00"
+  "total_fetched": 298,
+  "generated_at": "2026-11-05T19:27:20.552289+08:00"
 }
