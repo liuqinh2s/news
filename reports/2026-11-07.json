@@ -2,200 +2,184 @@
   "date": "2026-11-07",
   "news": [
     {
-      "title": "AI股市值蒸发后强劲反弹",
-      "summary": "美股人工智能板块在经历剧烈抛售后于11月7日出现反弹，此前数万亿美元市值被抹去。市场对AI相关企业的高估值、巨额资本开支与盈利兑现节奏产生明显分歧，抛压从芯片、云计算蔓延至电力与数据中心产业链。反弹尚未收复失地，波动率仍处高位。分析人士认为，此轮调整标志着AI交易从单边上涨进入分化阶段，算力投资回报周期、融资成本与监管预期将共同决定后续估值中枢，全球科技股与新兴市场资金流向也随之重新定价。",
-      "reason": "AI板块数万亿美元市值蒸发后反弹，牵动全球科技股定价与资金流向，属于跨市场的核心行情线索。",
-      "impact_areas": [
-        "经济金融",
-        "科技"
-      ],
-      "impact_level": "现象级",
-      "sources": [
-        {
-          "name": "BBC",
-          "url": "https://www.bbc.co.uk/news/articles/c35ynnpzdq51o?at_medium=RSS&at_campaign=rss"
-        }
-      ],
-      "card": {
-        "category": "经济·股市",
-        "headline": "AI股市值蒸发后反弹",
-        "what": "美股人工智能板块11月7日反弹，此前数万亿美元市值蒸发，抛压从芯片蔓延至电力与数据中心产业链。",
-        "question": "我的科技基金还能拿着吗？",
-        "means": [
-          "相关基金净值短期还会大起大落",
-          "算力回报慢可能拖累科技股估值"
-        ],
-        "note": "反弹未收复失地，波动仍高，勿追涨。"
-      }
-    },
-    {
-      "title": "美中期选举显共识赤字",
-      "summary": "美国中期选举结果陆续落定，两党在国会的力量对比与2028年白宫选情同步展开。BBC梳理选举释放的四项信号，显示民主党内部已有数十人酝酿2028年参选；司法部两名高级官员在选举后宣布辞职，人事动荡随之后加速。国内评论指出，选举暴露出美国社会与两党之间的'共识赤字'，政策连续性与财政、移民、贸易议题的推进空间受到压缩。对市场而言，国会归属将直接影响税收、监管与关税议程，选举后的人事更替也放大了政策执行的不确定性。",
-      "reason": "中期选举重塑国会格局并牵动2028选情，政策走向与人事更替将传导至税收、监管与关税议程。",
+      "title": "美中期选举民主党大胜",
+      "summary": "2026年美国中期选举结果出炉，民主党大胜，被媒体形容为'蓝色海啸冲垮红墙'。选后人事剧烈变动：特朗普任命极右翼反移民政策操盘手斯蒂芬·米勒为白宫办公厅主任，替换原幕僚长；司法部两名高级官员在选后辞职潮中离职。财新周刊以'特朗普式保守主义走向终结？'为题分析选后局势。此次选举结果将重塑2028年白宫选战格局，多名民主党人已瞄准下届总统竞选。对华经贸方面，众议院贸易事务民主党领袖表示将致力于推翻'不合理'关税，预示美国贸易政策可能面临调整。",
+      "reason": "中期选举结果与白宫核心人事更替，将重塑美国政治格局及对华经贸政策走向",
       "impact_areas": [
         "政治",
+        "地缘",
         "经济金融"
       ],
       "impact_level": "现象级",
       "sources": [
+        {
+          "name": "财新网",
+          "url": "https://database.caixin.com/2026-11-07/102502053.html"
+        },
+        {
+          "name": "财新网",
+          "url": "https://international.caixin.com/2026-11-07/102502050.html"
+        },
+        {
+          "name": "澎湃新闻",
+          "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBycnZUU3pqdDlDdjFfOWdFaDFibVkyZV9iNjRINU40WFQ5akJxYUstVTBvQW9KT2Nnbi1LdmhqOUpTWGVVamJRVXhEMnB0eFpNejFfUEIwRUN6bTRZdVVITw?oc=5"
+        },
         {
           "name": "BBC",
           "url": "https://www.bbc.co.uk/news/articles/cq1m41n3v7mmo?at_medium=RSS&at_campaign=rss"
         },
         {
-          "name": "BBC",
-          "url": "https://www.bbc.co.uk/news/articles/cx8dzzy8n713o?at_medium=RSS&at_campaign=rss"
-        },
-        {
           "name": "Reuters",
           "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNc3d2VFhsUzJucjhiOHdzTnBuU0VDNF9PcEV3c2VvQ2FlQ3lZM2k5VXF3TXlseFJaMDlkekVxT19GUHJvbG1VdHdfbmNRWi1MdU9zdXpGVjJCSkhXc0NOSXVseldlXzZvOU1NVlJmaFlqNUlkUkJFeHFPZ2ZIRjNkdE5vb2Ixd01LVGttWEluTTNnakkybGVtMlFfM2VHcGVqbzBFbWJWWDNFcWVTSmJGWFdmRWlVVG9tS3hpcmVtQ3Jpd04yRmdKeg?oc=5"
+        }
+      ],
+      "card": {
+        "category": "地缘·政治",
+        "headline": "民主党中期大胜，白宫换将",
+        "what": "2026年美国中期选举结果出炉，民主党大胜。特朗普任命米勒为白宫办公厅主任，司法部两名高级官员在选后辞职。",
+        "question": "我的海淘会变便宜吗？",
+        "means": [
+          "关税若松动，进口商品或降价",
+          "外贸相关行业岗位可能生变"
+        ],
+        "note": "选举结果到政策落地仍有距离，具体调整需观察。"
+      }
+    },
+    {
+      "title": "OpenAI估值破万亿美元",
+      "summary": "据路透社援引消息人士，OpenAI完成110亿美元新一轮融资，投后估值达1.25万亿美元，创下AI初创公司估值纪录。此前市场对AI估值泡沫的担忧明显升温，10月美国对冲基金因AI板块遭'聪明钱'抛售而普遍亏损，AI相关股票在蒸发数万亿美元市值后出现反弹。与此同时，部分投资者将Anthropic的IPO估值下修至1.5万亿美元。这笔巨额融资显示资本仍持续押注头部AI企业，但也加剧了市场关于AI投资过热与商业化回报周期的争论，成为观察全球科技资本流向的关键风向标。",
+      "reason": "创纪录的AI融资与万亿估值，直接影响全球科技资本定价与AI产业格局",
+      "impact_areas": [
+        "科技",
+        "经济金融"
+      ],
+      "impact_level": "现象级",
+      "sources": [
+        {
+          "name": "Reuters",
+          "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNdlpNRm5XVy11c3hLY0NRdjh2T3VmOE1LOWQ2LXlvcFhmZlFJYkQya3N3QWxud2UteUZpWVlCTXVHUXZZTjIwRlVQaUhqOGhyM2lDaDJTSGcxMnE5MzhOZ1NHYlJIc1p5bHRxaVZjZDd4MFY2RWMtRkNlYkhSVkdpMlRBWi1PYUNmZGNydXZnOTZFMTFoOHR0azBpUlU1aHpVdFA4dlhCV0dDNm91VE0xSVg0bXZhcF9jaVAzcXYzaldOdw?oc=5"
         },
         {
-          "name": "虎嗅",
-          "url": "https://www.huxiu.com/article/4903711.html"
+          "name": "36氪",
+          "url": "https://www.36kr.com/newsflashes/4059012212282246"
         }
       ],
       "card": {
-        "category": "政治·选举",
-        "headline": "美中期选举落下，共识赤字显现",
-        "what": "美国中期选举结果陆续落定，两党国会力量对比与2028年选情同步展开，选举暴露出社会共识赤字。",
-        "question": "美国选举跟我的钱有关系吗？",
+        "category": "科技·AI",
+        "headline": "OpenAI估值破万亿，泡沫争论再起",
+        "what": "据路透社消息，OpenAI完成110亿美元新一轮融资，投后估值达1.25万亿美元，创下AI初创公司估值纪录。",
+        "question": "我的AI基金还要跌多久？",
         "means": [
-          "关税与汇率波动影响进口商品价格",
-          "外贸和出海企业政策环境更不确定"
+          "AI概念基金近期波动会加大",
+          "算力、芯片行业招聘或更谨慎"
         ],
-        "note": "国会归属尚未完全明朗，政策细则仍待落地。"
+        "note": "融资金额来自媒体消息，官方口径待确认。"
       }
     },
     {
-      "title": "俄美乌三方会谈确定举行",
-      "summary": "俄罗斯总统普京确认，俄美乌三方会谈将于11月10日举行。若如期举行，这将是冲突爆发以来三方首次同席的直接接触。会谈议题预计涉及停火框架、安全保障与领土安排的初步交换意见。此前美方与乌方就谈判前提反复磋商，欧洲国家则担忧被排除在进程之外。会谈若取得进展，将影响欧洲安全架构、能源与粮食供应链定价，以及西方对俄制裁的调整节奏；若破裂，冲突长期化预期将重新升温，避险资产与欧洲能源价格随之波动。",
-      "reason": "冲突爆发以来首次三方同席会谈，直接关系欧洲安全架构、对俄制裁与能源粮食供应链定价。",
-      "impact_areas": [
-        "地缘",
-        "政治",
-        "经济金融"
-      ],
-      "impact_level": "重大",
-      "sources": [
-        {
-          "name": "凤凰网",
-          "url": "https://news.ifeng.com/c/8xqNdpxwt0b"
-        }
-      ],
-      "card": {
-        "category": "地缘·能源",
-        "headline": "俄美乌将首次同席谈停火",
-        "what": "普京确认俄美乌三方会谈11月10日举行，若成行将是冲突爆发以来首次三方同席，议题含停火框架与安全保障。",
-        "question": "油价和机票会降一点吗？",
-        "means": [
-          "油价与欧洲航线票价或先降后波动",
-          "粮食和化肥价格跟着谈判消息起伏"
-        ],
-        "note": "会谈成果未定，若破裂避险情绪可能回升。"
-      }
-    },
-    {
-      "title": "美对伊边谈边加码制裁",
-      "summary": "美国总统特朗普表示正在与伊朗进行沟通，同日美国宣布新一轮与伊朗相关的制裁措施，形成边谈边压的双轨态势。制裁具体清单尚未完全公布，但方向仍指向伊朗能源出口与相关金融渠道。此前中东局势紧张已推高油价风险溢价，谈判与制裁并行的策略使市场对供给中断的判断反复摇摆。若沟通转化为实质谈判，伊朗原油回归预期将压制油价；若制裁继续收紧，霍尔木兹海峡运输风险与地区代理冲突可能再度升温，直接传导至全球原油与航运成本。",
-      "reason": "美伊一边沟通一边加码制裁，直接影响原油供给预期与中东地缘风险溢价。",
-      "impact_areas": [
-        "地缘",
-        "经济金融"
-      ],
-      "impact_level": "重大",
-      "sources": [
-        {
-          "name": "凤凰网",
-          "url": "https://news.ifeng.com/c/8xqZ6Y72rNU"
-        },
-        {
-          "name": "央视网",
-          "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBjQ0NIRGcwNW5MRjlQanJ2Mzh2ZWhhMkM4RFFRRF9Uc0M3LU5aWUtKNmNqSWhpaUwtb3BrUGFOcjltNTdfVXNFZVI0VkhUXzR3Qm1Yck9GOURId0I3WkVGTjFSU0hNTDFRbmlhaG1MNC1LbjRMSkJkUA?oc=5"
-        }
-      ],
-      "card": {
-        "category": "地缘·油价",
-        "headline": "美国一边谈伊朗一边加码制裁",
-        "what": "特朗普称正与伊朗沟通，同日美国宣布新一轮涉伊制裁，方向仍指向能源出口与相关金融渠道。",
-        "question": "国内油价会跟着涨吗？",
-        "means": [
-          "加油和物流成本可能随油价反复",
-          "航运绕行会推高部分进口商品价"
-        ],
-        "note": "制裁清单未完全公布，供给判断仍会反复。"
-      }
-    },
-    {
-      "title": "巴拉圭总统遭国会弹劾",
-      "summary": "巴拉圭国会通过弹劾程序，解除总统培尼亚职务，直接触发因素是该国金融危机的处置失当。危机中银行体系与公共财政承压，本币与主权债表现波动，国会认为行政部门应对迟缓。过渡政府将由副总统或国会指定人选接管。作为南美重要的农产品出口国，巴拉圭政治动荡令大豆、牛肉出口节奏与贸易合同履约面临不确定性，也影响南方共同市场与外部伙伴的谈判进程。投资者关注过渡政府是否延续紧缩与债务重组路线，评级机构可能下调其主权信用展望。",
-      "reason": "金融危机引发总统被弹劾，冲击南美农产品出口与主权信用，是新兴市场风险的新爆点。",
-      "impact_areas": [
-        "政治",
-        "经济金融"
-      ],
-      "impact_level": "重大",
-      "sources": [
-        {
-          "name": "凤凰网",
-          "url": "https://news.ifeng.com/c/8xqWagzSyOT"
-        }
-      ],
-      "card": {
-        "category": "经济·新兴市场",
-        "headline": "巴拉圭总统因金融危机被弹劾",
-        "what": "巴拉圭国会通过弹劾程序解除总统培尼亚职务，直接导火索是金融危机处置失当，本币与主权债承压。",
-        "question": "南美大豆牛肉会涨价吗？",
-        "means": [
-          "进口牛肉和豆粕价格可能短期波动",
-          "与南美做生意的企业要留意履约风险"
-        ],
-        "note": "过渡政府政策取向未明，主权评级或再调整。"
-      }
-    },
-    {
-      "title": "美促华履行稀土农产品承诺",
-      "summary": "在特朗普与习近平会晤前，美方敦促中国履行稀土出口与农产品采购承诺，涉及稀土磁材供应、出口许可审批速度及大豆等采购规模。同日，美国众议院负责贸易事务的民主党高层表示，将推动逆转被其称为'不正当'的关税措施，显示国会在贸易议程上的分歧。稀土与农产品是中美经贸磋商的核心筹码，任何履约进度的变化都会传导至磁材、电机、军工及农产品期货价格。会晤成果将决定关税与出口管制的调整方向，并影响相关产业链的库存与采购节奏。",
-      "reason": "中美峰会前的稀土与农产品履约博弈，直接牵动磁材、军工与农产品期货定价。",
+      "title": "央行连增24个月黄金",
+      "summary": "中国央行连续第24个月增持黄金储备，延续长期购金态势。在全球去美元化趋势与地缘政治不确定性上升的背景下，央行通过持续购入黄金增强储备资产多元化，也为国际金价提供支撑。此举被视为官方对黄金长期价值的高度认可，对黄金市场走势、外汇储备结构优化以及人民币资产配置具有重要指引意义。连续24个月的增持节奏凸显储备战略的长期性与稳定性，是全球央行购金潮的重要组成部分。",
+      "reason": "央行创纪录连续增持黄金，反映去美元化趋势，对金价与储备结构有重要指引",
       "impact_areas": [
         "经济金融",
+        "地缘"
+      ],
+      "impact_level": "重大",
+      "sources": [
+        {
+          "name": "央视网",
+          "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1ZcWdEd1ZMVVdacUVFdkVJbmdZcHFiTVBCQ3Q4YVJhanB5aXZsUlVSTGRnOWRaUUVXenB0MkNPUGg2NU8wME1ta2hsbk11TXZXbmRoRGJQelhTYV9mLU5zZkR1VzQ2YVBzdG5YX1pxT2V3OW5uaFpJSQ?oc=5"
+        }
+      ],
+      "card": {
+        "category": "经济·黄金",
+        "headline": "央行连买24个月，金价有支撑",
+        "what": "中国央行连续第24个月增持黄金储备，延续长期购金态势，也为国际金价提供支撑。",
+        "question": "我买的金饰还能保值吗？",
+        "means": [
+          "金店饰品价格短期难明显回落",
+          "储蓄搬向黄金的趋势或延续"
+        ],
+        "note": "金价受美元和地缘影响，短期仍有波动。"
+      }
+    },
+    {
+      "title": "中美经贸高层视频通话",
+      "summary": "国务院副总理何立峰与美国财政部长贝森特、贸易代表格里尔举行视频通话，就近期美对华经贸限制措施表达严正关切。此前美方敦促中国履行稀土出口、农产品采购等承诺，为特朗普与习近平的会晤铺路。双方在关税、稀土、农产品等核心议题上仍存明显分歧。此次通话发生在中美高层会晤前夕，是观察两国经贸关系走向的重要窗口，直接影响稀土、农业、半导体等相关产业链及市场预期，也关系到全球贸易环境的稳定。",
+      "reason": "中美经贸牵头人直接沟通，为高层会晤铺路，影响稀土、农产品等产业链走向",
+      "impact_areas": [
         "地缘",
+        "经济金融",
         "产业"
       ],
       "impact_level": "重大",
       "sources": [
         {
-          "name": "Reuters",
-          "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNY1NQbGhDdzBnZUVPRWxZMzdCdlUxcTdxTlhaVXYwclNRTm92UXdGanlUVmpxQUczWFItME5kaWp3NWFKVDZUWW5GVlowUnFrYktvOEdvYTNlclhVRUQxbWlia18zQW1RRzhJMlhoRjE3b2xIdlllYXZCSm5BUTR1SFdudTNfS0ZRWUtjenNLS0NwOUMyN0gtb3JkX0NQaE1EdjluMkI3aFhscEplOWVXM0FIZTI4N3IxV3pLWGhsNUZLUQ?oc=5"
+          "name": "财新网",
+          "url": "https://international.caixin.com/2026-11-07/102502044.html"
+        },
+        {
+          "name": "36氪",
+          "url": "https://www.36kr.com/newsflashes/4058960006894470"
         },
         {
           "name": "Reuters",
-          "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOQXNkS0ZtWVFhNnE4MDNEU3NnaVJUbW5pbHRUUENOWC1zUDdCZEt1S252bElIZ29nMENqUGxjd0pvdmZ4UGxnVFI3eFBxdF9PQUt6bXFRQ2otaUd4R2xKY3VxODdzNjFOVDVfZG41Yy1fQVVEelZna3RvdlNWaTlpQ0E3WENNbTR1dk9xLUxiajJfc3p0cUQtWkpKQWZGQ05SQVR2S0xFVVF6bXF5LWZOSzc3TWp5c2c5NTB3NTAwU1dqdV9FR1E?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNY1NQbGhDdzBnZUVPRWxZMzdCdlUxcTdxTlhaVXYwclNRTm92UXdGanlUVmpxQUczWFItME5kaWp3NWFKVDZUWW5GVlowUnFrYktvOEdvYTNlclhVRUQxbWlia18zQW1RRzhJMlhoRjE3b2xIdlllYXZCSm5BUTR1SFdudTNfS0ZRWUtjenNLS0NwOUMyN0gtb3JkX0NQaE1EdjluMkI3aFhscEplOWVXM0FIZTI4N3IxV3pLWGhsNUZLUQ?oc=5"
         }
       ],
       "card": {
-        "category": "经济·贸易",
-        "headline": "美方催中国兑现稀土和大豆承诺",
-        "what": "中美元首会晤前，美方敦促中国履行稀土出口与农产品采购承诺，涉及磁材许可审批速度与大豆采购规模。",
-        "question": "大豆油和新能源车会涨价吗？",
+        "category": "地缘·经贸",
+        "headline": "中美经贸牵头人通话，分歧仍在",
+        "what": "何立峰与美国财长贝森特、贸易代表格里尔视频通话，就美对华经贸限制措施表达关切，双方在关税、稀土、农产品上仍有分歧。",
+        "question": "稀土和农产品价格会受影响吗？",
         "means": [
-          "磁材和电机行业订单节奏会变化",
-          "饲料与食用油价格短期跟着采购走"
+          "大豆玉米等进口成本或有波动",
+          "稀土半导体相关岗位要看后续"
         ],
-        "note": "会晤成果尚未公布，关税与出口管制仍可能调整。"
+        "note": "通话为高层会晤铺路，实质结果待公布。"
       }
     },
     {
-      "title": "气象局启动暴雪四级响应",
-      "summary": "中国气象局11月7日启动重大气象灾害（暴雪）四级应急响应，针对即将影响北方多地的强降雪过程。预计相关地区将出现大到暴雪、道路结冰与气温骤降，高速公路、机场与铁路运行可能受限，设施农业与畜牧业面临冻害风险，部分城市供热与电力负荷上升。应急响应要求加强道路除雪、交通管制与设施巡检。对居民而言，需关注通勤与出行安排调整；对农产品而言，设施蔬菜供应与运输成本在短期内可能受到扰动，价格波动值得跟踪。",
-      "reason": "暴雪四级应急响应直接关系北方居民出行、供暖与设施农业生产，属于典型民生影响。",
+      "title": "空间站制出宇宙最冷物质",
+      "summary": "中国空间站科研团队成功制备出宇宙中已知最冷的物质，温度逼近绝对零度，标志着中国在超冷原子物理与量子科学领域取得重大突破。该成果有望推动量子计算、精密测量、新型材料等前沿研究。超冷物质是基础物理研究的重要平台，此前相关实验主要依托欧美空间站开展。此次突破显著提升了中国在空间科学与量子技术领域的国际竞争力，也为基础物理研究提供了新的微重力实验条件。",
+      "reason": "空间站制备出宇宙最冷物质，是量子与超冷原子物理领域的重大科学突破",
+      "impact_areas": [
+        "科技",
+        "产业"
+      ],
+      "impact_level": "重大",
+      "sources": [
+        {
+          "name": "央视网",
+          "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE05dm4xU0VuWnhMblRQMl9VOFh2NzVrejJ6WFVGdXNoZF9rRy1FX0ZYOWVmeDJKbWFQRE1oblNmTVpBMm5aWmtpZ0ozMDN1U29OR1BZbTZtVkZjQWxERGV2Z3Y0Z1liZk5uTVVkY1h3RkowalJhNkhlQw?oc=5"
+        }
+      ],
+      "card": {
+        "category": "科技·量子",
+        "headline": "空间站造出宇宙最冷物质",
+        "what": "中国空间站科研团队成功制备出接近绝对零度的超冷物质，在超冷原子物理与量子科学领域取得突破。",
+        "question": "这跟我用的手机有关系吗？",
+        "means": [
+          "量子计算或让芯片性能再上台阶",
+          "精密测量新材料研究可能加速"
+        ],
+        "note": "成果仍处实验阶段，产业化时间尚不明确。"
+      }
+    },
+    {
+      "title": "强暴雪来袭启动应急响应",
+      "summary": "中央气象台发布暴雪黄色预警，辽宁西部、河北东北部局地有特大暴雪。中国气象局同步启动重大气象灾害（暴雪）四级应急响应。强降雪将影响东北、华北地区的交通出行、农业生产和电力供应，部分高速公路和铁路可能受阻。气象部门提醒公众注意防范道路结冰和积雪对通勤的影响。此次寒潮叠加立冬节气，是今冬首轮大范围强降雪过程，对北方居民出行、供暖及农产品供应构成直接压力，相关地区需做好应急准备。",
+      "reason": "今冬首轮大范围强暴雪叠加气象灾害应急响应，直接影响北方交通与民生",
       "impact_areas": [
         "社会",
-        "民生",
         "生态"
       ],
       "impact_level": "重大",
       "sources": [
+        {
+          "name": "央视网",
+          "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE52VDNMMmx5U1JTWE5LQ01YMGE4eTJ5WDdCSXFZWmhMUVBoemtYRUp4M2k1V1dxZjc3cGo3SXlxbnFZMTEzRTdzaWFxTGRPN3ljV0RoazFTQnBaeDFzLWJTS21IVC1FZ0paNTZQOEhfd3ppeEh5T1d4dw?oc=5"
+        },
         {
           "name": "澎湃新闻",
           "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE14SEY4X0Q1YTdLM0Y2U0lJQ2Z3NXI5c3BvaHBxZ2ZnLVVkcklxLWFzQ190NmtwUzBhYXRBd3F4MnZUc1g2Wi16dVlBdUItdEFscERDQ0tYXy1yLVNRcnpyNg?oc=5"
@@ -203,100 +187,137 @@
       ],
       "card": {
         "category": "社会·天气",
-        "headline": "北方暴雪，气象局启动四级响应",
-        "what": "中国气象局11月7日启动重大气象灾害暴雪四级应急响应，北方多地将出现大到暴雪、道路结冰与气温骤降。",
-        "question": "明天通勤要不要提前出门？",
+        "headline": "特大暴雪来袭，东北华北受影响",
+        "what": "中央气象台发布暴雪黄色预警，辽宁西部、河北东北部局地有特大暴雪，气象局同步启动四级应急响应。",
+        "question": "我明天上班的路会封吗？",
         "means": [
-          "高速机场铁路或延误，通勤要留余量",
-          "菜价和供暖电费短期或许有波动"
+          "部分高速和铁路可能停运延误",
+          "菜价与供暖压力短期或上升"
         ],
-        "note": "具体降雪量与交通管制以当地预警为准。"
+        "note": "具体路况以交通部门实时通报为准。"
       }
     },
     {
-      "title": "欧洲抗议蔓延至数据中心",
-      "summary": "活动人士闯入微软在欧洲的数据中心建设工地，抗议行动已从单一项目扩散至多个国家，矛头指向AI与云计算扩张带来的电力消耗、水资源占用与土地征用。抗议者要求公开能耗与用水数据，并对数据中心享受的税收优惠提出质疑。随着AI算力需求激增，数据中心的选址、供电与社区关系正成为项目落地的主要瓶颈，欧洲多国审批趋严可能延后算力投产节奏，推高云服务成本，并影响科技公司的资本开支计划与区域布局。",
-      "reason": "AI基建扩张与当地社区、能源环境矛盾显性化，可能延后算力投产并推高云服务成本。",
+      "title": "六大行大额存单重启",
+      "summary": "工商银行、农业银行、中国银行、建设银行、交通银行、邮储银行六大国有银行大额存单业务全线重启，重点在于优化负债久期结构。此前部分银行曾压缩或暂停大额存单发行以控制负债成本。此次重启反映银行在存款利率下行、净息差持续承压背景下调整负债策略。对储户而言，大额存单仍是相对稳健的存款选择，其利率水平与发行额度变化直接影响居民储蓄收益与资金配置，是观察存款利率走向的重要信号。",
+      "reason": "六大行大额存单全面重启，直接关系居民储蓄收益与存款利率走向",
       "impact_areas": [
-        "科技",
-        "生态",
+        "经济金融",
         "社会"
       ],
       "impact_level": "重大",
       "sources": [
         {
-          "name": "Reuters",
-          "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQWlBqNDNLWm53eHI0c0JoT0pQRWhQTFZ0LU12MEFzNmV2YVNqaEdkbWNPOGl0MG93VFlfUUluLXVoV1JFMnk4OFA0dVdoNm9hU044UjNyTnBfMDdHZmlCbC1QeGZqNFk1VF9ZQ2dLRW9keVNLWl9QX0NrZE55cFU4MXJZaDRZLWJjMFI4QVoxekwybVlydDcwc01UaFJuY1RQLXNienI3eFlPSXpVZHBJX09sMnZRRktxQ2hWNFk2UmtDaGRQbndF?oc=5"
+          "name": "36氪",
+          "url": "https://www.36kr.com/newsflashes/4059013385753478"
         }
       ],
       "card": {
-        "category": "科技·AI",
-        "headline": "欧洲数据中心遭抗议，审批趋严",
-        "what": "活动人士闯入微软在欧洲的数据中心工地，抗议已扩散至多个国家，矛头指向电力消耗、水资源占用与土地征用。",
-        "question": "我用AI会变得更贵吗？",
+        "category": "经济·存款",
+        "headline": "六大行大额存单重启，利率偏低",
+        "what": "工行、农行、中行、建行、交行、邮储六大国有银行大额存单业务全线重启，意在优化负债久期结构。",
+        "question": "现在存钱还能锁定多少利息？",
         "means": [
-          "云服务和AI订阅费可能慢慢上涨",
-          "算力项目延期会拖累相关产业链"
+          "存款利率下行的趋势或继续",
+          "想锁息的人要盯紧发行额度"
         ],
-        "note": "多国审批结果未定，算力投产节奏仍存变数。"
+        "note": "各行额度和利率不同，以网点公告为准。"
       }
     },
     {
-      "title": "马斯克暗示电动皮卡停产",
-      "summary": "马斯克暗示Cybertruck可能走到产品周期终点。这款电动皮卡自发布以来交付量长期低于预期，定价与产能爬坡均遭遇困难。该车型曾被视为电动皮卡市场的标杆，但高价版本需求疲弱、低价版本迟迟未量产，竞争对手同类产品持续抢占份额。若项目收缩，相关供应链订单与产能规划将随之调整，也反映美国电动皮卡需求增长慢于预期，对电动车行业的销量预测、资本开支节奏与相关零部件企业订单构成负面信号。",
-      "reason": "标志性电动皮卡项目疑似终止，反映美国电动皮卡需求不及预期，冲击产业链订单预期。",
+      "title": "税款滞纳金或设上限",
+      "summary": "相关税收征管规则酝酿调整，税款滞纳金'上不封顶'的做法或将终结。现行制度下，纳税人滞纳税款按日加收滞纳金，长期累积可能远超税款本金，引发企业负担过重的争议。拟议改革拟对滞纳金设置上限或调整计算方式，以减轻纳税人非主观欠税形成的沉重负担。该调整涉及广大企业尤其是中小企业的税务成本，对营商环境改善与财税合规具有实质影响，也关系到征纳关系的公平性与合理性。",
+      "reason": "税款滞纳金规则调整，直接减轻企业尤其是中小企业的税务成本负担",
       "impact_areas": [
-        "产业",
+        "经济金融",
+        "社会"
+      ],
+      "impact_level": "重大",
+      "sources": [
+        {
+          "name": "36氪",
+          "url": "https://www.36kr.com/newsflashes/4059041294259076"
+        }
+      ],
+      "card": {
+        "category": "政策·税收",
+        "headline": "滞纳金不再上不封顶，企业减负",
+        "what": "税收征管规则酝酿调整，拟对税款滞纳金设置上限或改变计算方式，此前长期累积可能远超税款本金。",
+        "question": "小公司欠税负担会减轻吗？",
+        "means": [
+          "中小企业欠税成本有望下降",
+          "合规报税仍是不能松的底线"
+        ],
+        "note": "目前仍在酝酿阶段，落地时间未定。"
+      }
+    },
+    {
+      "title": "AI板块巨震对冲基金亏损",
+      "summary": "美国AI相关板块在蒸发数万亿美元市值后出现反弹，但10月'聪明钱'集中抛售AI股票，导致美国对冲基金普遍亏损。市场对大模型估值泡沫、AI商业化回报周期和算力投资过热的担忧升温，与此同时大量资金涌入科技成长宽基ETF。分析认为，AI驱动的增长能否持续，已成为各国央行与全球投资者共同关注的焦点。财新与市场评论亦指出，大模型板块回调后估值仍显偏高。AI板块的高波动正考验全球风险资产定价与资金流向。",
+      "reason": "AI板块剧烈波动与对冲基金普遍亏损，是资金流向与估值泡沫的重要市场信号",
+      "impact_areas": [
+        "经济金融",
         "科技"
       ],
       "impact_level": "重大",
       "sources": [
         {
           "name": "BBC",
-          "url": "https://www.bbc.co.uk/news/articles/cq1j33w7d232o?at_medium=RSS&at_campaign=rss"
+          "url": "https://www.bbc.co.uk/news/articles/c35ynnpzdq51o?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "name": "36氪",
+          "url": "https://www.36kr.com/newsflashes/4059020817273728"
+        },
+        {
+          "name": "虎嗅",
+          "url": "https://www.huxiu.com/article/4903694.html"
         }
       ],
       "card": {
-        "category": "产业·汽车",
-        "headline": "马斯克暗示电动皮卡可能停产",
-        "what": "马斯克暗示Cybertruck可能走到产品周期终点，这款电动皮卡交付长期低于预期，高价版本需求疲弱。",
-        "question": "电动皮卡是不是卖不动了？",
+        "category": "经济·市场",
+        "headline": "AI股巨震，对冲基金集体亏钱",
+        "what": "美国AI板块在蒸发数万亿美元市值后反弹，10月聪明钱集中抛售AI股票，美国对冲基金普遍亏损。",
+        "question": "我的科技基金要赎回吗？",
         "means": [
-          "相关零部件供应商订单面临下调",
-          "买车前可留意降价与保值率变化"
+          "科技主题基金净值波动会放大",
+          "算力投入过热的讨论在升温"
         ],
-        "note": "停产尚未正式宣布，以官方消息为准。"
+        "note": "回调后估值仍偏高，市场分歧较大。"
       }
     },
     {
-      "title": "西班牙铁路当局遭欧盟调查",
-      "summary": "欧盟对西班牙铁路安全监管机构启动欺诈调查，指向Urda铁路事故前后安全认证、检查记录与资金使用中的问题。事故暴露的信号系统与维护漏洞此前已引发舆论压力，调查将核查监管机构是否在资质审核与安全评估中存在虚报或利益冲突。若调查确认违规，西班牙铁路网将面临更严格的审查与整改，跨境线路运营与欧盟铁路安全互认机制也可能受到波及，乘客出行与货运时效短期承压，铁路装备与运维招标节奏亦可能放缓。",
-      "reason": "重大铁路事故后监管机构遭欧盟欺诈调查，涉及跨境铁路安全互认与运维整改。",
+      "title": "谷歌发布新一代视频模型",
+      "summary": "谷歌发布新一代视频生成模型，进一步提升AI视频生成的质量与可控性，加剧其与OpenAI等企业的多模态竞争。新模型在视频时长、画面连贯性、画质等方面实现升级，将推动影视、广告、内容创作等产业的生产方式变革。视频生成是当前AI竞争最激烈的赛道之一，模型快速迭代也引发版权、深度伪造与内容治理等监管议题。此前相关部门已就AI微短剧'融像''融声'发布重磅倡议，强调尊重人格权益、恪守法律底线，显示技术发展与治理正同步推进。",
+      "reason": "谷歌新一代视频模型加剧多模态AI竞争，推动内容产业生产方式变革",
       "impact_areas": [
-        "社会",
-        "产业",
-        "政治"
+        "科技",
+        "产业"
       ],
       "impact_level": "重大",
       "sources": [
         {
-          "name": "BBC",
-          "url": "https://www.bbc.co.uk/news/articles/c6x2wwnz5445o?at_medium=RSS&at_campaign=rss"
+          "name": "36氪",
+          "url": "https://www.36kr.com/newsflashes/4059044006302593"
+        },
+        {
+          "name": "澎湃新闻",
+          "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9oNFE4QzhtRXdBUG5RQWRmTEZ3MmRTdVA0RDhqRXRhRjFVNW51Y0dNYzlOdUVwMjJtbl9BN05RUHRiOFNOaGlpVGt3bVRUUF9JOXFNYmJqVC00NmRyVUNZSQ?oc=5"
         }
       ],
       "card": {
-        "category": "社会·交通",
-        "headline": "西班牙铁路监管机构遭欧盟调查",
-        "what": "欧盟对西班牙铁路安全监管机构启动欺诈调查，指向Urda铁路事故前后安全认证、检查记录与资金使用问题。",
-        "question": "去西班牙玩的火车还安全吗？",
+        "category": "科技·AI",
+        "headline": "谷歌新视频模型来了，剪辑师要慌",
+        "what": "谷歌发布新一代视频生成模型，在视频时长、画面连贯性和画质上升级，与OpenAI等企业的竞争加剧。",
+        "question": "我做的短视频还值钱吗？",
         "means": [
-          "西班牙跨境列车与货运时效短期承压",
-          "铁路装备和运维订单节奏可能放缓"
+          "剪辑广告拍摄岗位需求或减少",
+          "AI内容版权与审核会越来越严"
         ],
-        "note": "调查尚在进行，结论与整改以官方公告为准。"
+        "note": "深度伪造风险上升，平台审核规则或跟进。"
       }
     }
   ],
-  "total_fetched": 147,
-  "generated_at": "2026-11-07T07:26:40.142255+08:00"
+  "total_fetched": 257,
+  "generated_at": "2026-11-07T12:27:06.760939+08:00"
 }
