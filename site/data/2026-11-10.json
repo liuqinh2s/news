@@ -2,143 +2,55 @@
   "date": "2026-11-10",
   "news": [
     {
-      "title": "黄仁勋涉间谍调查 英伟达股价重挫",
-      "summary": "美国联邦调查局（FBI）正就英伟达CEO黄仁勋与一名被指为中国间谍的女子的婚外情展开调查。消息曝光后，英伟达股价大幅下跌，引发市场对这家AI芯片巨头治理风险的担忧。此事件正值AI硬件板块剧烈震荡之际，投资者对企业关键人物风险与信息披露的敏感度显著上升。黄仁勋能否平稳执掌公司成为焦点，事件波及美国科技产业与全球AI供应链，也给中美科技博弈增添新的不确定因素。",
-      "reason": "涉及全球AI龙头英伟达掌门人，横跨中美、科技与金融，多平台密集报道，冲击市场信心。",
+      "title": "黄仁勋遭FBI调查 涉间谍指控",
+      "summary": "11月10日，美国总统特朗普公开表示，联邦调查局（FBI）正在调查英伟达CEO黄仁勋与一名被指为中国间谍的女性之间的婚外情。黄仁勋已就此事公开致歉，事件核心人物被指长期活跃于硅谷社交圈，与黄仁勋往来可追溯数年。英伟达方面未就调查细节置评。此事发生在英伟达芯片出口政策与AI基建投资成为华盛顿政治焦点的敏感时点。深层影响：全球市值最高的半导体公司被置于政治与安全审查的聚光灯下，出口许可、政府订单与企业治理均可能受牵连；随着美国AI基建投资重新锚定科技权力格局，企业关键个人的政治风险溢价明显上升。",
+      "reason": "全球最重要芯片公司掌门人被FBI调查，牵动AI出口管制与中美科技博弈，多平台多源密集报道。",
       "impact_areas": [
         "科技",
-        "经济金融",
-        "地缘"
+        "地缘",
+        "政治"
       ],
       "impact_level": "现象级",
       "sources": [
         {
           "name": "BBC",
-          "url": "https://www.bbc.co.uk/news/articles/c6zxjx01vyleo?at_medium=RSS&at_campaign=rss"
+          "url": "https://www.bbc.co.uk/news/articles/cqg7x7dpvym8o?at_medium=RSS&at_campaign=rss"
         },
         {
           "name": "财新网",
-          "url": "https://www.caixin.com/2026-11-10/102502908.html"
+          "url": "https://www.caixin.com/2026-11-10/102503059.html"
         },
         {
-          "name": "虎嗅",
-          "url": "https://www.huxiu.com/article/4904386.html"
+          "name": "南方周末",
+          "url": "https://www.infzm.com/contents/344541"
         },
         {
-          "name": "NYTimes",
-          "url": "https://www.nytimes.com/2026/11/09/world/nvidia-affair-jensen-huang-russell-brand.html"
+          "name": "凤凰网",
+          "url": "https://news.ifeng.com/c/8xwWuLixZxN"
         }
       ],
       "card": {
         "category": "科技·芯片",
-        "headline": "英伟达掌门人被查，股价大跌",
-        "what": "美媒称FBI正调查英伟达CEO黄仁勋与一名被指为间谍的女子的关系，消息曝光后公司股价大幅下跌。",
-        "question": "我的AI基金要跟着跌吗？",
+        "headline": "黄仁勋被查，英伟达遇政治风险",
+        "what": "11月10日，特朗普称FBI正调查英伟达CEO黄仁勋与一名被指为间谍的女性的婚外情，黄仁勋已公开致歉，英伟达未回应调查细节。",
+        "question": "英伟达的芯片会受影响吗？",
         "means": [
-          "持有科技类基金，短期波动会变大",
-          "AI芯片供应链上的岗位或受牵连"
+          "显卡价格和算力成本或有波动",
+          "相关基金持仓短期波动会加大"
         ],
-        "note": "调查尚未有结论，人事变动以公司公告为准。"
+        "note": "调查细节尚未公布，以官方结论为准。"
       }
     },
     {
-      "title": "国际油价大幅暴跌",
-      "summary": "国际原油价格出现暴跌。作为全球最重要的大宗商品，油价急跌将直接影响能源、化工、交通等产业链的成本与利润格局。油价异动往往反映供需预期或地缘局势出现重大变化，若跌势持续，将对通胀走势、货币政策预期以及石油出口国财政构成连锁影响。油气价格波动也将通过成品油定价机制传导至国内消费者，对交通运输和制造业成本产生实质作用，是当前最值得关注的消息面信号之一。",
-      "reason": "原油为核心大宗商品，暴跌属重要消息面信号，牵动能源产业链、通胀与货币政策预期。",
-      "impact_areas": [
-        "经济金融",
-        "能源",
-        "产业"
-      ],
-      "impact_level": "重大",
-      "sources": [
-        {
-          "name": "凤凰网",
-          "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE1Kd0YzRWRZSWVLRDd3QkRHcjBGTDJCSEFlM3F5MnFzT0taSFdOdlZiLTZFYTdLejdRZHRRXzhMWVdDV0U2Y2cwSQ?oc=5"
-        }
-      ],
-      "card": {
-        "category": "经济·油价",
-        "headline": "国际油价暴跌，加油或更便宜",
-        "what": "国际原油价格出现大幅暴跌。油价急跌会直接影响能源、化工、交通等产业链的成本与利润格局。",
-        "question": "下周加油能便宜多少钱？",
-        "means": [
-          "开车通勤的油费可能先降一点",
-          "化工物流成本下降，商品或降价"
-        ],
-        "note": "跌势能否持续，要看供需与地缘变化。"
-      }
-    },
-    {
-      "title": "前10月进出口增20% 顺差破万亿",
-      "summary": "海关数据显示，前10个月我国货物贸易进出口达44.81万亿元，同比增长20%，贸易顺差以创纪录速度突破1万亿美元。出口高增长与巨额顺差凸显中国制造在全球供应链中的强势地位，但也可能加剧与主要贸易伙伴的摩擦。顺差持续扩大对人民币汇率、外汇储备及国内流动性均有影响，同时折射出内需相对外需偏弱的结构性问题，是观察中国经济与外贸政策走向的关键指标。",
-      "reason": "创纪录的万亿美元顺差与20%高增速，是判断中国外贸与经济格局的核心数据。",
-      "impact_areas": [
-        "经济金融",
-        "产业",
-        "地缘"
-      ],
-      "impact_level": "重大",
-      "sources": [
-        {
-          "name": "36氪",
-          "url": "https://www.36kr.com/newsflashes/4063329856967559"
-        },
-        {
-          "name": "NYTimes",
-          "url": "https://www.nytimes.com/2026/11/09/business/china-trade-surplus-trillion.html"
-        }
-      ],
-      "card": {
-        "category": "经济·外贸",
-        "headline": "外贸顺差破万亿，出口还在涨",
-        "what": "海关数据显示，前10个月我国进出口44.81万亿元，同比增20%，贸易顺差首次突破1万亿美元。",
-        "question": "外贸这么强，我的工作会更稳吗？",
-        "means": [
-          "出口行业订单多，相关岗位更稳",
-          "顺差大或推高汇率，海淘变贵"
-        ],
-        "note": "后续关税与贸易摩擦风险仍需留意，以官方数据为准。"
-      }
-    },
-    {
-      "title": "10月集成电路出口暴增137%",
-      "summary": "中国10月集成电路出口达395.94亿美元，同比增长137.1%。这一异常高增速反映全球AI算力需求爆发与半导体产业链调整背景下，中国在芯片封测、成熟制程及配套环节的出口竞争力提升，也可能包含价格与统计口径变化因素。芯片出口的结构性变化，对全球半导体供需、相关上市公司业绩以及中美科技竞争格局均有重要指向意义，是观察AI产业链景气度的重要先行信号。",
-      "reason": "芯片出口同比暴增，折射AI算力景气与半导体产业链变化，是重要产业先行指标。",
-      "impact_areas": [
-        "科技",
-        "经济金融",
-        "产业"
-      ],
-      "impact_level": "重大",
-      "sources": [
-        {
-          "name": "36氪",
-          "url": "https://www.36kr.com/newsflashes/4063352477111170"
-        }
-      ],
-      "card": {
-        "category": "科技·半导体",
-        "headline": "芯片出口同比暴增137%",
-        "what": "10月我国集成电路出口395.94亿美元，同比增长137.1%，反映AI算力需求爆发下芯片出口竞争力提升。",
-        "question": "这波AI行情还能撑多久？",
-        "means": [
-          "半导体相关岗位和招聘可能变多",
-          "基金里的芯片仓位波动会加大"
-        ],
-        "note": "高增速可能含价格与统计口径因素，需看后续数据。"
-      }
-    },
-    {
-      "title": "乌克兰和平谈判重启",
-      "summary": "乌克兰和平谈判本周在阿布扎比重启，美方官员称交战双方展现出一定灵活性。与此同时，特朗普表示美国看到结束俄乌战争的强烈意愿。谈判重启为持续多年的冲突带来外交解决的可能性，但各方在领土、安全保障等核心议题上分歧仍大。若谈判取得实质进展，将影响欧洲安全格局、能源与粮食市场以及全球地缘风险定价，是当前最受关注的国际议题之一。",
-      "reason": "俄乌冲突出现外交突破窗口，牵动欧洲安全、能源粮食市场与全球地缘格局。",
+      "title": "美俄乌阿布扎比和谈重启",
+      "summary": "11月10日，美俄乌三方在阿布扎比恢复和平谈判，美方官员称交战双方均展现出“一定灵活性”；特朗普表示看到结束俄乌战争的“强烈意愿”。欧洲未获准进入三方谈判主会场，多国欧洲官员在场外“蹭会”表达关切，美俄乌三方与欧洲之间的协调裂痕公开化。谈判核心议题仍集中在停火安排、安全保障与制裁处置上。深层影响：若谈判取得实质进展，将重塑欧洲安全架构并改变能源、粮食与防务市场预期；欧洲被边缘化则进一步加剧跨大西洋盟友间的信任赤字，战后秩序安排的合法性争议将长期存在。",
+      "reason": "美俄乌三方和谈重启且欧洲被排除主会场，直接关系欧洲安全架构与能源粮食市场，多源持续跟踪。",
       "impact_areas": [
         "地缘",
         "政治",
-        "经济金融"
+        "能源"
       ],
-      "impact_level": "重大",
+      "impact_level": "现象级",
       "sources": [
         {
           "name": "BBC",
@@ -149,188 +61,279 @@
           "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOc21fOTJsSUt2S1FtclRIdUVUUnBmcVAyWjd2WkdvcWt4bEw4MUtmaFFoZF9EYlNCZUwzRVJtekFhMy1rWElPTUxwekhLQXRXT25pTWdLa2NGdkFteWtibmxSdUNOLWZEcUpjeVJtcTZ3S0ZWUWx4T3p1a2hwTTV5ZEp0amVHdHRsZ2hiM2E5QUQ2U2owd09vcDdKMmlZWEIyNEl3U1Fic2puR2hhendj?oc=5"
         },
         {
-          "name": "NYTimes",
-          "url": "https://www.nytimes.com/2026/11/09/world/europe/ukraine-russia-peace-talks.html"
+          "name": "凤凰网",
+          "url": "https://news.ifeng.com/c/8xwUAmIXZy0"
+        },
+        {
+          "name": "凤凰网",
+          "url": "https://news.ifeng.com/c/8xwZunybJKc"
         }
       ],
       "card": {
-        "category": "地缘·俄乌",
-        "headline": "俄乌和谈重启，能源价格或松动",
-        "what": "乌克兰和平谈判本周在阿布扎比重启，美方称交战双方展现一定灵活性，特朗普称看到结束战争的强烈意愿。",
-        "question": "油价和机票会因此降下来吗？",
+        "category": "地缘·和谈",
+        "headline": "美俄乌复谈，欧洲被挡在门外",
+        "what": "11月10日，美俄乌三方在阿布扎比重启和平谈判，美方称双方展现一定灵活性，欧洲未获准进入主会场。",
+        "question": "油价和机票会跟着降吗？",
         "means": [
-          "能源和粮食价格可能跟着回落",
-          "欧洲航线与物流成本或先变化"
+          "油价与粮价短期可能小幅回落",
+          "欧洲防务与能源订单格局或生变"
         ],
-        "note": "领土与安全保障分歧仍大，进展待观察。"
+        "note": "停火安排仍在谈，实质进展需看后续公报。"
       }
     },
     {
-      "title": "Anthropic最快周二启动IPO推介",
-      "summary": "美国AI公司Anthropic据悉最快于周二启动IPO正式推介，并将举行直播活动，由公司CEO与摩根大通CEO对谈。作为Claude大模型的开发商，Anthropic的上市被视为AI应用层商业化的重要风向标。近期AI股剧烈震荡，其定价将考验市场对AI高估值的承受能力。此次IPO的成败不仅影响Anthropic自身融资，也将为整个AI行业的估值体系和资本市场情绪定调，值得密切关注。",
-      "reason": "AI明星公司IPO定价，是检验AI估值与资本市场情绪的关键事件。",
+      "title": "Anthropic IPO拟募资644亿美元",
+      "summary": "路透社获取的最新招股书草稿显示，AI公司Anthropic计划通过IPO募资至多644亿美元，拟发行8.25亿股，指示性价格区间为每股70至78美元。此前其招股文件出现技术性差错，令投资者在超大型发行前对定价与流程产生疑虑。若按区间上限完成，将成为史上规模最大的科技类IPO之一。深层影响：头部生成式AI公司登陆公开市场，意味着该行业从风险资本驱动转向公众资本市场定价，AI估值锚将被重新设定，并带动算力、云服务与数据中心产业链整体重估；同时巨额发行对市场流动性构成阶段性抽水。",
+      "reason": "史上最大级别科技IPO之一，标志AI产业进入公开市场定价阶段，对全球资本市场与算力产业链影响深远。",
       "impact_areas": [
         "科技",
+        "经济金融"
+      ],
+      "impact_level": "现象级",
+      "sources": [
+        {
+          "name": "Reuters",
+          "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNaUtnS210c1pKNVpEZXJ1V1JpdUdyZ0h5OGh2SzVCXzJaVGRwaDZnb0NQZUxFS0ZFWmxwbU53ZlJtdlBkOWplZHdaNkloU0xwV3hvdlpjNnh0R1FISXdMOExfc09JckJqTWxjSWlZSjZpN0RWR1kyRUF6YUlXN0dqSm5XQU5TUmFmbWpFbGlzT3FZRllaMGU4cld0cDlsaFVYY0IzV2ZNYmwxYW0yd1FDaw?oc=5"
+        },
+        {
+          "name": "36氪",
+          "url": "https://www.36kr.com/newsflashes/4063808405492616"
+        },
+        {
+          "name": "Bloomberg",
+          "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQUGZJVjVla0UtT3MwdHFOTXpWLTdVWlEwSFFwaF9tSDg4R2VoY3pENS1NQ29UOURwUXN1UGxxdTB6NnBUOFowYks2Tktmb09IRGh3VEVmZzQ1NGp5U3hVZk1lallwdHJSZzRoMmdhNVU2WXdPSmgyUzZIVzJlQXUxaFdzbUxxcUJTQ3NfMDJIbDNTVGxUQ2syajBaS0F6R29ZMzZPWDBsaDIwcmJGcWsycHIxRQ?oc=5"
+        }
+      ],
+      "card": {
+        "category": "科技·上市",
+        "headline": "AI公司拟上市，募资或超四千亿",
+        "what": "11月10日消息，招股书草稿显示Anthropic拟发行8.25亿股，价格区间70至78美元，募资至多644亿美元。",
+        "question": "AI股的估值还能撑住吗？",
+        "means": [
+          "算力与数据中心相关股票或被重估",
+          "巨额发行或阶段性抽走市场资金"
+        ],
+        "note": "招股文件曾有差错，定价以最终公告为准。"
+      }
+    },
+    {
+      "title": "特朗普称伊朗战事“事实上结束”",
+      "summary": "11月10日，美国总统特朗普表示，美国对伊朗的军事行动已“事实上结束”，并称进一步军事打击“极不可能”。同日伊朗外长表态称，美方在对伊制裁与经济施压方面“走错了路”，但未关闭外交渠道。此前一轮冲突曾推高国际油价与航运风险溢价，多国调整了中东航线与能源采购安排。深层影响：中东局势降温有助于缓解能源供给担忧与全球通胀压力，但制裁框架并未松动，伊朗原油大规模回归市场仍受限；停火能否持续，取决于核问题谈判重启与地区代理人冲突管控。",
+      "reason": "中东战事走向收尾直接影响全球油价与航运风险，是当日地缘与能源市场的核心变量。",
+      "impact_areas": [
+        "地缘",
+        "能源",
         "经济金融"
       ],
       "impact_level": "重大",
       "sources": [
         {
-          "name": "财新网",
-          "url": "https://database.caixin.com/2026-11-10/102502921.html"
+          "name": "央视网",
+          "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9rNHdzUkd0aVpOWXFPSTA1QmJqTUtXczZUTmo5b1BXOEdYOW44eE9VTGpwdjM1b2xJSlVqVXA0aldIVmdYa3k1aGtCNXJxM1FDdGpTeDdFUl9xWlZySTh3eHhDUnc2UENIal9rMUg5SDQxclprNTVmMA?oc=5"
         },
-        {
-          "name": "36氪",
-          "url": "https://www.36kr.com/newsflashes/4063420263928967"
-        }
-      ],
-      "card": {
-        "category": "科技·AI",
-        "headline": "AI明星公司要上市，估值待考",
-        "what": "美国AI公司Anthropic最快本周二启动IPO推介，CEO将与摩根大通CEO直播对谈，被视为AI商业化风向标。",
-        "question": "AI股的高估值还撑得住吗？",
-        "means": [
-          "持有的AI基金短期波动会变大",
-          "AI岗位需求走向要看上市结果"
-        ],
-        "note": "定价与时间以公司正式公告为准。"
-      }
-    },
-    {
-      "title": "巴拉圭数字银行倒闭 总统被捕",
-      "summary": "巴拉圭最大数字银行Ueno倒闭，总统圣地亚哥·培尼亚因相关事件遭国会罢免后被捕。该银行曾因总统背书而迅速崛起，其崩塌暴露了数字银行在公司治理、监管与政商关系上的深层风险。事件从金融风险迅速演变为政治危机，考验该国制度稳定性，也为拉美地区快速扩张的金融科技行业敲响警钟，可能引发区域监管收紧与投资者信心波动，是金融与政治风险交织的重大事件。",
-      "reason": "数字银行倒闭引发总统被罢免被捕的政治危机，金融与政治风险交织。",
-      "impact_areas": [
-        "经济金融",
-        "政治",
-        "地缘"
-      ],
-      "impact_level": "重大",
-      "sources": [
-        {
-          "name": "财新网",
-          "url": "https://international.caixin.com/2026-11-10/102502890.html"
-        },
-        {
-          "name": "NYTimes",
-          "url": "https://www.nytimes.com/2026/11/09/world/americas/paraguay-bank-president-ueno.html"
-        }
-      ],
-      "card": {
-        "category": "金融·风险",
-        "headline": "数字银行倒闭，巴拉圭总统被捕",
-        "what": "巴拉圭最大数字银行Ueno倒闭，总统培尼亚因相关事件遭国会罢免后被捕，其崩塌暴露治理与监管风险。",
-        "question": "我用的互联网银行安全吗？",
-        "means": [
-          "中小数字银行的存款要看清保障",
-          "拉美金融科技投资或面临收紧"
-        ],
-        "note": "各地存款保障规则不同，以监管规定为准。"
-      }
-    },
-    {
-      "title": "法国指控伊朗黑客攻击制冷系统",
-      "summary": "法国政府指控伊朗对本国超市制冷系统发动网络攻击，并誓言进行报复。此次攻击针对民用商业基础设施，凸显网络战正从政府、能源等传统目标向与民众日常生活直接相关的系统蔓延。法方公开点名并宣布反制，反映欧洲对伊朗网络威胁的强硬转向，也可能加剧地区紧张。事件提醒各国关键基础设施的网络安全防护仍存在薄弱环节，具有广泛警示意义。",
-      "reason": "网络攻击触及民生物联网基础设施，法国公开指控伊朗并拟报复，地缘网络安全风险升级。",
-      "impact_areas": [
-        "地缘",
-        "科技",
-        "社会"
-      ],
-      "impact_level": "重大",
-      "sources": [
         {
           "name": "BBC",
-          "url": "https://www.bbc.co.uk/news/articles/cmg474vk6dyqo?at_medium=RSS&at_campaign=rss"
+          "url": "https://www.bbc.co.uk/news/articles/cq5yny4nl2d3o?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "name": "凤凰网",
+          "url": "https://news.ifeng.com/c/8xwWKJFCqLB"
+        }
+      ],
+      "card": {
+        "category": "地缘·能源",
+        "headline": "对伊战事收尾，油价压力缓解",
+        "what": "11月10日，特朗普称美国对伊朗军事行动已事实上结束，进一步打击极不可能；伊朗外长称美方制裁施压走错了路。",
+        "question": "下轮油价调整能降一点吗？",
+        "means": [
+          "加油和机票成本短期压力减轻",
+          "制裁没松，伊朗油回归仍受限"
+        ],
+        "note": "停火能否持续，要看核谈判是否重启。"
+      }
+    },
+    {
+      "title": "10月出口增35.2% 顺差破万亿",
+      "summary": "海关总署11月10日公布数据，10月中国出口同比增长35.2%，显著高于市场预期；汽车出口增速从高位回落至37.6%。同期货物贸易顺差以创纪录速度扩张，年内规模首次突破1万亿美元。深层影响：出口高增为四季度经济增长提供有力支撑，但也加大主要贸易伙伴的摩擦压力与人民币升值诉求；汽车出口增速高位回落，显示海外需求边际走弱与关税壁垒开始形成约束，需警惕2027年外需回落对制造业投资与就业的传导。",
+      "reason": "出口增速超预期且顺差首破万亿美元，是判断外需与汇率政策走向的关键经济数据。",
+      "impact_areas": [
+        "经济金融",
+        "产业"
+      ],
+      "impact_level": "重大",
+      "sources": [
+        {
+          "name": "财新网",
+          "url": "https://economy.caixin.com/2026-11-10/102503103.html"
+        }
+      ],
+      "card": {
+        "category": "经济·外贸",
+        "headline": "出口增速超预期，顺差首破万亿",
+        "what": "海关总署11月10日数据，10月出口同比增长35.2%，高于预期；汽车出口增速回落至37.6%，年内顺差首破1万亿美元。",
+        "question": "我的工作和收入会受牵连吗？",
+        "means": [
+          "外贸、物流岗位订单还能撑一阵",
+          "关税摩擦升温或压缩明年订单"
+        ],
+        "note": "汽车出口已现回落，外需变化仍需观察。"
+      }
+    },
+    {
+      "title": "沃勒放鹰 金银与纳指期货跳水",
+      "summary": "11月10日，美联储理事沃勒发表偏鹰派讲话，称自己并非“超级偏鹰”，也不会支持加息150或200个基点，但强调在通胀确认回落前不宜过快放松货币政策。讲话后纳指期货、黄金、白银集体跳水，现货金跌约1%。同日中国金币集团发布关于贵金属价格波动的风险提示。深层影响：降息路径预期收紧直接压制贵金属与成长股估值；金银在高位剧烈波动，国内实物金投资与消费需求可能阶段性降温，市场焦点将迅速转向即将公布的美国通胀数据，全球资产定价的波动率面临抬升。",
+      "reason": "美联储关键官员表态引发金银与股指同步跳水，属直接影响全球资产定价的消息面信号。",
+      "impact_areas": [
+        "经济金融"
+      ],
+      "impact_level": "重大",
+      "sources": [
+        {
+          "name": "澎湃新闻",
+          "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1Xd2pEMndYWllVYlZtV29wMUVJQk9TNVoxQ0NiYjRaVW1lWGdXaVpLcWFvT3pMc3lJaW9iNGtFZkJBcGV3SWxDM2p0b29KV1oyTEVPM1ZHRFJMcVFSbTdneA?oc=5"
         },
         {
           "name": "Reuters",
-          "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQam51ejNqNThjR0wtTnFjaTNObkVoS25CUzUySnBhRVc5bWlIZnhpM0ZleDhuSnJ2Z19xcWd3Q1Z3bnJkQmo1NmlJZGZnYUhEQ3ZCNHF6Y1hKM3BHZlpYOUZGTDA4WjhyaEZXcVU1NzM3YUxsUWJvRl9tYS1YSU1WSEpCN3h0eWx5SU1ReU1pRUlzaFNJd2N1YS1PNDFsbndESXV1ODJTaUE4YldYVzFicWln?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNUUt5d0NsOEFXZzVGWU5qOFFwbGtuT0pyM3RMcTR3ZDRXYzFqV1NkM1VadUV0VzdNUFpZREVYLU1mdWFpSDE5V0w3Qlo5X1luTXVXRkZKNHQ1bXY1X0VCNHRienZVbnhQdE93UWFYRk41T0Fhd2tiQ2dpZzF2WEZmM0hVTFpjMVFzR2JhNlpWN0R5ZkFCY0JkRUVuYw?oc=5"
         },
         {
-          "name": "NYTimes",
-          "url": "https://www.nytimes.com/2026/11/09/world/europe/france-iran-refrigerators-cyberattack.html"
+          "name": "36氪",
+          "url": "https://www.36kr.com/newsflashes/4063789030200192"
+        },
+        {
+          "name": "央视网",
+          "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE56NDFiV3NrR2xldV9qTjRWZjBPYmJDd29nai1JY1UtOHFUU3FyLU9pS21VMU00ZEU2T1BNbVdhSlhWRHNkam1zWldOSHJpU19RQUpveEJUaVVoeTEyZkUxRzRSTXZnU3BXUkJOZm8zWUFfOWVIb2stVA?oc=5"
         }
       ],
       "card": {
-        "category": "地缘·网络",
-        "headline": "伊朗被指黑客攻击，法国要报复",
-        "what": "法国政府指控伊朗对本国超市制冷系统发动网络攻击，并称将进行报复，攻击目标指向民用商业基础设施。",
-        "question": "家里的智能设备会被攻击吗？",
+        "category": "经济·金价",
+        "headline": "美联储放鹰，金价一夜跳水",
+        "what": "11月10日，美联储理事沃勒称通胀确认回落前不宜过快放松，讲话后纳指期货、黄金、白银集体跳水，现货金跌约1%。",
+        "question": "现在买金条还合适吗？",
         "means": [
-          "商超冷链若被攻破，生鲜会涨价",
-          "关键设施网络安全投入将增加"
+          "金饰金条价格短期可能回调",
+          "成长股与基金波动会明显加大"
         ],
-        "note": "伊方尚未回应，事件细节有待核实。"
+        "note": "关键还要看即将公布的美国通胀数据。"
       }
     },
     {
-      "title": "发改委出台多项民生价格与保障举措",
-      "summary": "国家发展改革委集中发布多项民生政策：明确合理制定公共服务收费标准，清单之外一律不得收费；进一步完善重要民生商品价格调控机制；安排140亿元中央预算内投资投向养老托育设施；多渠道增加普通高中和高等教育学位供给。系列举措直指水电气等公共服务收费、菜篮子价格、养老托育和升学等普通人高度关切的领域，意在降费减负、稳定预期，对居民消费支出与生活质量有直接影响。",
-      "reason": "涉及公共服务收费、民生商品价格、养老托育与教育学位，直接影响居民钱袋子和生活成本。",
+      "title": "澳大利亚设立新AI监管机构",
+      "summary": "11月10日，澳大利亚在OpenAI数据泄露事件后宣布设立新的AI监管机构，并考虑对“失控AI”造成的损害追究刑事责任。事件涉及该国医疗数据系统的信息安全。深层影响：这是主要发达经济体首次尝试把AI事故责任纳入刑事与专门监管框架，可能成为其他国家AI立法的参照模板；对跨境AI服务商而言，本地合规、数据隔离与事故报告义务将显著加重，模型部署成本与进入门槛同步上升，全球AI监管碎片化趋势进一步强化。",
+      "reason": "主要经济体首个将AI事故责任刑事化的监管尝试，或成全球AI立法模板，科技监管意义重大。",
       "impact_areas": [
-        "社会",
-        "经济金融"
+        "科技",
+        "监管",
+        "公共卫生"
       ],
       "impact_level": "重大",
       "sources": [
         {
-          "name": "36氪",
-          "url": "https://www.36kr.com/newsflashes/4063342152963203"
+          "name": "纽约时报",
+          "url": "https://www.nytimes.com/2026/11/10/world/australia/ai-regulator-openai-hack-medicare.html"
         },
         {
-          "name": "36氪",
-          "url": "https://www.36kr.com/newsflashes/4063328340825218"
-        },
-        {
-          "name": "36氪",
-          "url": "https://www.36kr.com/newsflashes/4063321618093188"
-        },
-        {
-          "name": "36氪",
-          "url": "https://www.36kr.com/newsflashes/4063315856741250"
+          "name": "BBC",
+          "url": "https://www.bbc.co.uk/news/articles/cmp3g37l566po?at_medium=RSS&at_campaign=rss"
         }
       ],
       "card": {
-        "category": "政策·民生",
-        "headline": "水电气收费立规矩，清单外不收",
-        "what": "国家发改委明确合理制定公共服务收费标准，清单之外一律不得收费，并安排140亿元投向养老托育设施。",
-        "question": "我家的水电气费能少交吗？",
+        "category": "科技·监管",
+        "headline": "澳洲设新机构，AI闯祸要担刑责",
+        "what": "11月10日，澳大利亚在OpenAI数据泄露事件后设立新AI监管机构，并考虑对失控AI造成的损害追究刑事责任。",
+        "question": "我的医疗数据能被管住吗？",
         "means": [
-          "水电气和菜价乱收费可投诉",
-          "养老托育和学位供给会慢慢增加"
+          "用海外AI服务的应用合规会更严",
+          "数据本地存储，行业成本或上升"
         ],
-        "note": "具体收费清单与落地时间，看地方通知。"
+        "note": "刑事追责尚在讨论，立法细节未定。"
       }
     },
     {
-      "title": "12月1日起推行5项交管便民措施",
-      "summary": "公安部宣布自12月1日起在全国推行5项交管便民利企新措施，涉及车辆与驾驶证业务办理等交通管理服务优化。新措施旨在简化流程、减少往返、提升办事效率，惠及广大车主、驾驶人和运输企业。作为全国统一的交管服务改革，其落地将直接影响群众日常办证、车辆相关业务办理的便利度与时间成本，是关系民生的制度性便民安排，也体现政务服务数字化、减环节的政策导向。",
-      "reason": "全国推行交管便民措施，直接影响车主驾驶人办事便利度，属全国性民生政策。",
+      "title": "超强厄尔尼诺放大气候风险",
+      "summary": "世界气象组织11月10日发布评估，确认当前已形成超强厄尔尼诺事件，将显著放大全球气候风险，推高极端高温、干旱与洪涝的发生概率，影响范围覆盖南美、东南亚、澳洲及非洲部分产区。深层影响：全球农产品供给面临扰动，糖、棕榈油、小麦、可可等品种价格波动率可能上升，对食品通胀形成输入压力；水电出力下降与制冷用电激增将推高部分国家电价与电网负荷；保险与再保险费率预计迎来新一轮上调。",
+      "reason": "权威机构确认超强厄尔尼诺，是农产品与能源价格的重要前瞻信号，影响全球食品通胀。",
       "impact_areas": [
+        "生态",
+        "农业",
+        "能源"
+      ],
+      "impact_level": "重大",
+      "sources": [
+        {
+          "name": "财新网",
+          "url": "https://science.caixin.com/2026-11-10/102503051.html"
+        }
+      ],
+      "card": {
+        "category": "生态·农业",
+        "headline": "超强厄尔尼诺来了，食品涨价压力",
+        "what": "世界气象组织11月10日确认形成超强厄尔尼诺事件，将推高极端高温、干旱与洪涝概率，波及南美、东南亚与非洲产区。",
+        "question": "糖和食用油要跟着涨价吗？",
+        "means": [
+          "糖、棕榈油、小麦价格易波动",
+          "部分国家电价与保险费或上调"
+        ],
+        "note": "影响程度还取决于后续海温变化。"
+      }
+    },
+    {
+      "title": "发改委：增加高中和高等教育学位",
+      "summary": "国家发展改革委11月10日表示，将多渠道增加普通高中和高等教育学位供给，主要通过新建改扩建学校、挖潜扩容、优化资源配置等方式，缓解升学压力并改善办学条件。深层影响：政策直接回应普职分流争议与家庭教育焦虑，未来数年高中阶段入学人口进入高峰，教育基建、师资配备与财政投入将同步扩大；高等教育持续扩容则关系到毕业生就业结构、学历竞争力与职业教育分流效果，是观察人力资本政策走向的重要窗口。",
+      "reason": "国家级教育供给政策，直接关系升学机会与家庭教育支出安排，属民生刚需领域。",
+      "impact_areas": [
+        "教育",
         "社会",
         "民生"
       ],
       "impact_level": "重大",
       "sources": [
         {
-          "name": "澎湃新闻",
-          "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBybW9rYlYyek1YNVFnaFdyU05OWUdJSHN5OWh4UDJQQ25SUjVYclNRUEdjR1EzS3dJX3pGdk9zeE9EWWZNZVNobUFLMjNvdmJHVlZQWDhxQlpxcElJZEg5dw?oc=5"
+          "name": "央视网",
+          "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE4xOE13Rjd6dXBvNVNVSFBiOVVJWVI0Zi02UVVvUmhLNFJyRllKS2FrSks0aEdkUjRXM0NrNlA0Z2NlSklxdENuTHlhNTJ3MnlJcU9LQXBnOWZZdkRQX0U3ZHhQWEJwR3Q4U21rU1ZvcHR1M29nZHNXRQ?oc=5"
         }
       ],
       "card": {
-        "category": "政策·交管",
-        "headline": "12月起交管新措施，少跑几趟",
-        "what": "公安部宣布自12月1日起在全国推行5项交管便民利企新措施，涉及车辆与驾驶证业务办理等交通管理服务优化。",
-        "question": "换证年检能少跑几趟吗？",
+        "category": "教育·升学",
+        "headline": "高中与大学学位将多渠道增加",
+        "what": "国家发改委11月10日表示，将通过新建改扩建学校、挖潜扩容、优化资源配置等方式，增加普通高中和高等教育学位供给。",
+        "question": "孩子升学能更容易些吗？",
         "means": [
-          "办证换证流程简化，跑一次就够",
-          "运输企业办事时间成本会下降"
+          "中考分流压力可能逐步缓解",
+          "教师与教育基建岗位需求增加"
         ],
-        "note": "各项措施具体材料与流程，以当地车管所为准。"
+        "note": "具体落地进度取决于各地财政与规划。"
+      }
+    },
+    {
+      "title": "工信部批复号码保护服务试点",
+      "summary": "工业和信息化部11月10日批复10家企业开展号码保护服务业务试点，通过隐私号、临时号等技术，在快递、外卖、网约车、电商等场景中隐藏用户真实手机号，减少个人信息泄露与骚扰电话。深层影响：试点将推动平台与基础电信企业重构用户信息链路，压缩数据黑产的可获取空间；对依赖电话营销与客户外呼的行业形成合规约束，隐私号服务市场有望快速扩容。普通用户在收寄快递、点外卖时的号码暴露风险将实质性下降，但需关注平台侧数据留存与二次使用规范。",
+      "reason": "直接关系每个人手机号被泄露与骚扰电话问题，是覆盖面广的个人信息保护民生政策。",
+      "impact_areas": [
+        "民生",
+        "科技",
+        "监管"
+      ],
+      "impact_level": "重大",
+      "sources": [
+        {
+          "name": "央视网",
+          "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9Mc1VFb19hd0dLeHAwYlpSRGRnbzViU00xd2xjT1h6aDF2WHVFNGdQYXhiamdpRWpRNUJMQ2dWa25XMUxaR1hqTXpoRUYyWnZJSW8yWWVuLTZJOE9xTThsT0FNV0phVUZqV1pSYnZGY0JxNk41bExYZA?oc=5"
+        }
+      ],
+      "card": {
+        "category": "民生·隐私",
+        "headline": "快递外卖要藏号，骚扰电话或少",
+        "what": "工信部11月10日批复10家企业试点号码保护服务，用隐私号、临时号在快递、外卖、网约车等场景隐藏真实手机号。",
+        "question": "以后还能少接骚扰电话吗？",
+        "means": [
+          "收快递点外卖号码不再裸奔",
+          "电销外呼行业合规成本上升"
+        ],
+        "note": "试点范围有限，平台数据留存仍需关注。"
       }
     }
   ],
-  "total_fetched": 240,
-  "generated_at": "2026-11-10T12:27:13.650892+08:00"
+  "total_fetched": 298,
+  "generated_at": "2026-11-10T19:26:47.818111+08:00"
 }
