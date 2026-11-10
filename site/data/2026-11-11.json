@@ -1,0 +1,323 @@
+{
+  "date": "2026-11-11",
+  "news": [
+    {
+      "title": "Anthropic启动IPO路演",
+      "summary": "11月11日，人工智能公司Anthropic发布IPO路演视频，正式启动最高643.5亿美元的募资计划；路透此前独家报道，其目标估值达1.4万亿美元，若最终成行，将成为史上最大规模IPO之一。高盛预测该公司2030年营收可突破6000亿美元。Anthropic以Claude系列模型为核心资产，其上市将成为检验华尔街对AI资产估值热情的关键测试，并为OpenAI等同类公司的资本路径提供定价参照，可能带动全球AI产业链新一轮融资与估值重估。若发行遇冷，则意味着AI投资周期进入理性回归阶段。",
+      "reason": "全球AI龙头启动史上最大规模IPO之一，将重塑资本市场对AI资产的定价基准。",
+      "impact_areas": [
+        "科技",
+        "经济金融"
+      ],
+      "impact_level": "现象级",
+      "sources": [
+        {
+          "name": "Reuters",
+          "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNaUtnS210c1pKNVpEZXJ1V1JpdUdyZ0h5OGh2SzVCXzJaVGRwaDZnb0NQZUxFS0ZFWmxwbU53ZlJtdlBkOWplZHdaNkloU0xwV3hvdlpjNnh0R1FISXdMOExfc09JckJqTWxjSWlZSjZpN0RWR1kyRUF6YUlXN0dqSm5XQU5TUmFmbWpFbGlzT3FZRllaMGU4cld0cDlsaFVYY0IzV2ZNYmwxYW0yd1FDaw?oc=5"
+        },
+        {
+          "name": "36氪",
+          "url": "https://www.36kr.com/newsflashes/4064067453883522"
+        },
+        {
+          "name": "36氪",
+          "url": "https://www.36kr.com/newsflashes/4064068825977987"
+        }
+      ],
+      "card": {
+        "category": "科技·AI",
+        "headline": "AI巨头要上市，估值上万亿",
+        "what": "11月11日，AI公司Anthropic启动IPO，拟募资最高643.5亿美元，目标估值1.4万亿美元。",
+        "question": "我的AI基金还能拿住吗？",
+        "means": [
+          "AI概念股的短期波动会明显放大",
+          "相关科技基金净值可能跟着起落"
+        ],
+        "note": "最终发行价与估值以招股书及官方公告为准。"
+      }
+    },
+    {
+      "title": "美CPI超预期 12月加息锁定",
+      "summary": "美国10月CPI环比上涨0.4%，通胀连续第三个月快速上行并超出市场预期，市场随即基本锁定美联储12月加息。数据公布后，美债与欧债收益率集体走高，英国10年期国债收益率单日上涨9.4个基点；美股三大指数集体收跌，纳指跌0.74%，英伟达跌超5%。欧洲央行官员内格尔表示，12月显然不得不加息。主要央行同步收紧，将抬升企业与居民融资成本，压制高估值科技股，并通过汇率与资本流动传导至新兴市场，全球风险资产的定价中枢面临上移。",
+      "reason": "美国通胀连续三个月超预期并锁定12月加息，全球利率与风险资产定价同步重估。",
+      "impact_areas": [
+        "经济金融",
+        "地缘"
+      ],
+      "impact_level": "现象级",
+      "sources": [
+        {
+          "name": "财新网",
+          "url": "https://finance.caixin.com/2026-11-11/102503260.html"
+        },
+        {
+          "name": "Reuters",
+          "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQLWo2UHlxSDlLcGNITjBhSkhrVmNFMDZNZ29xNEdoZ045dWRUV3JoQXQ1MUZCRlNlbHBqMnh2cG1iWjN1STQzNy1OWTZSLXZONmdLZHp1V29LbWxUcnVQS0JwNFVtR3dmOXlDRVcxLXdHWldWek03TXRvU2x5aTgyR1hhVTIyb3R5NUVvdl93aEhHempGNUFtVFVfTQ?oc=5"
+        },
+        {
+          "name": "36氪",
+          "url": "https://www.36kr.com/newsflashes/4064058307794048"
+        },
+        {
+          "name": "凤凰网",
+          "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFAzUEM4QVFhSWRDUVNuWGU4anVzTFllMnp4TDJYQ3RjcjJBbGxQR2VKbXRheE5zQnFtM21XdE5sd2FaVjVneml0Q0k1TU1iLU5w?oc=5"
+        }
+      ],
+      "card": {
+        "category": "经济·利率",
+        "headline": "美国通胀又超预期，加息要来",
+        "what": "美国10月CPI环比上涨0.4%，连续三个月超出预期，市场基本锁定美联储12月加息。",
+        "question": "美元理财收益还能再高点吗？",
+        "means": [
+          "美元存款和理财收益或继续走高",
+          "高估值科技股回调压力会增加"
+        ],
+        "note": "加息幅度仍取决于下次通胀数据，留意外方官方表态。"
+      }
+    },
+    {
+      "title": "布伦特原油跌破90美元",
+      "summary": "11月11日，国际原油价格大幅下跌，布伦特原油跌破每桶90美元，为今年8月以来首次失守这一关口，前一交易日国际油价已现跌势。油价回落将直接压低国内成品油调价参考的原油变化率，下一轮调价窗口存在下调可能，同时缓解航空、物流与化工中下游的成本压力；对上游油气开采与油服企业则构成利润压缩。市场关注后续OPEC+产量政策与需求端数据，若跌势延续，全球通胀预期将进一步降温，并影响主要央行的加息节奏与大宗商品整体定价。",
+      "reason": "布伦特原油三个月来首次跌破90美元，直接影响成品油调价与全球通胀预期。",
+      "impact_areas": [
+        "经济金融",
+        "产业"
+      ],
+      "impact_level": "重大",
+      "sources": [
+        {
+          "name": "澎湃新闻",
+          "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1Id3BGM3BwXy1WVEd1MWxpOEFtQ2g2LUgya0VZQ1g5X2JESDBuVGw3bTJreGZ2bW9mVXhHR3FCN0NpUF80NFFDeDZrSTFMTWVKZ1R1V0d6MWotRU0tZGJHVw?oc=5"
+        },
+        {
+          "name": "凤凰网",
+          "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE9YSG5nMmZHT1lMeTUySG9zSmVIVTNtSjVrZk5BNER3UmZIXzViRTg0MHVqeUJlcGpfYUxqUktydGdUNmlzR29IMQ?oc=5"
+        }
+      ],
+      "card": {
+        "category": "经济·油价",
+        "headline": "国际油价跌破90美元关口",
+        "what": "11月11日，布伦特原油跌破每桶90美元，为今年8月以来首次失守，前一交易日已现跌势。",
+        "question": "下次加油能省多少钱？",
+        "means": [
+          "下一轮成品油调价可能下调",
+          "机票和快递成本有望跟着降"
+        ],
+        "note": "调价仍看后续国际油价走势，以发改委公布为准。"
+      }
+    },
+    {
+      "title": "美高官称伊朗战事收尾",
+      "summary": "11月10日至11日，美国国务卿鲁比奥表示，对伊朗的“大规模作战行动”已不再需要，暗示军事行动进入收尾阶段；伊朗最高安全官员则明确表示目前没有与美国进行谈判。路透与益普索联合民调显示，多数美国人希望新一届国会结束当前的伊朗战争，美国国内对战争决策的问责声浪同步上升。战事收尾与谈判僵局并存，意味着霍尔木兹海峡通行风险、伊朗原油出口前景及中东地缘溢价仍可能反复，国际油价、航运保险费率与区域盟友的安全安排对相关表态高度敏感。",
+      "reason": "美方释放伊朗战事收尾信号，中东地缘格局与全球原油供给预期面临重估。",
+      "impact_areas": [
+        "地缘",
+        "政治",
+        "经济金融"
+      ],
+      "impact_level": "重大",
+      "sources": [
+        {
+          "name": "NYTimes",
+          "url": "https://www.nytimes.com/2026/11/10/us/politics/rubio-iran-war.html"
+        },
+        {
+          "name": "Reuters",
+          "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOcXVfMkI3S19RUFdwVWNlT3EyYkFfVUpBOW5ldjdoaUNXREN6OW8yaEVMb2Fwbkhhcm1seVYzR0FjMFQxTGt2NFZ6enpxaXFBSE0wQThJT2dRQ0E0aFhyamc5Y1g5djFKaE52OUJ6cTZOOFVYMGFEMWpuRHZVMGVCS18tYmo0NVFBT0tFRHlVNExEVnluNndNSnJkRk5IN0lyWlJ4VFduZTFhRzZIX0EtU2VB?oc=5"
+        },
+        {
+          "name": "Reuters",
+          "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNNzd5Z2JCbEZwZWtzVERIdVpCMHZSa1lZdW5OdXVwbHozbW1rM3ByUTRyZFNyTThTOXFLUnViZWtDbHllZWFUYVZXeXhUd1E2YWdSeTZVakNuV3ozbHJqdkJkN2RNeVhvRW5XRXRSWUhmdUx0RVFsLUNXdmFoMUtzOENaMS1UbzYtY1A3SXJmNFUtWHZQOVdDVC1DWENfbUVEaUF4ZGhBTVR1NEplSTBTRnU5bDBibDlnaWhjTERn?oc=5"
+        }
+      ],
+      "card": {
+        "category": "地缘·中东",
+        "headline": "美国称伊朗战事进入收尾",
+        "what": "11月10日至11日，美国国务卿鲁比奥称对伊朗大规模作战已不再需要，伊朗方面称暂无谈判安排。",
+        "question": "中东不打仗了，油价会降吗？",
+        "means": [
+          "国际油价短期或继续承压回落",
+          "航运保险费率变化会影响进口货价"
+        ],
+        "note": "军事行动是否真正结束尚无定论，需看后续表态。"
+      }
+    },
+    {
+      "title": "乌和平谈判首日获进展",
+      "summary": "11月11日，乌克兰和平谈判首日会议结束，乌总统泽连斯基称首日会谈“具有建设性”。谈判涉及被俄方要求让出的前线城市，相关城市在持续战火中已严重损毁。此前推动的停火框架在领土安排、安全保障与制裁解除等核心议题上分歧明显。若谈判取得实质进展，将影响欧洲能源与粮食供应链、各国防务开支结构以及对俄制裁安排；若破裂，冲突长期化风险将重新推高欧洲天然气价格与全球避险情绪，并牵动北约东翼的军事部署调整。",
+      "reason": "俄乌和平谈判正式启动，是欧洲安全格局与能源、粮食供应链走向的关键节点。",
+      "impact_areas": [
+        "地缘",
+        "政治"
+      ],
+      "impact_level": "重大",
+      "sources": [
+        {
+          "name": "BBC",
+          "url": "https://www.bbc.co.uk/news/articles/cqpvgvrpjvv8o?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "name": "BBC",
+          "url": "https://www.bbc.co.uk/news/articles/cq0memrywvzro?at_medium=RSS&at_campaign=rss"
+        }
+      ],
+      "card": {
+        "category": "地缘·俄乌",
+        "headline": "俄乌和谈启动，首日称有建设性",
+        "what": "11月11日，乌克兰和平谈判首日会议结束，泽连斯基称会谈具有建设性，领土等核心议题仍分歧明显。",
+        "question": "天然气和粮价会便宜下来吗？",
+        "means": [
+          "欧洲气价波动可能传导到国内",
+          "小麦玉米等进口粮价或受影响"
+        ],
+        "note": "谈判仍在初期，领土与制裁分歧未解，结果有待观察。"
+      }
+    },
+    {
+      "title": "英伟达聘律所查间谍指控",
+      "summary": "11月11日，英伟达聘请美国一家大型律师事务所，就公司内部被指存在“中国间谍”的指控展开调查，路透同时报道FBI对英伟达的相关调查正在推进。事件发生在美国持续收紧AI芯片出口管制、加强对华技术审查的背景下，涉及英伟达在华业务合规、人员管理与供应链安全。若调查范围扩大，可能影响其对中国市场的数据中心芯片销售许可，并波及全球AI算力供应节奏；对国内算力产业链而言，则可能加速国产替代与自主供应链建设进程。",
+      "reason": "美国AI芯片龙头因涉华间谍指控启动内部调查，科技出口管制风险进一步升温。",
+      "impact_areas": [
+        "科技",
+        "地缘",
+        "产业"
+      ],
+      "impact_level": "重大",
+      "sources": [
+        {
+          "name": "BBC",
+          "url": "https://www.bbc.co.uk/news/articles/ck1wvwwl3x0go?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "name": "Reuters",
+          "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOMTlXR0tMQllpNEJzNGk1WktuZXlPNHBFTERDM1NidThtQmVpM0U3T3FXb2ljR0JtUkpQVTlBdFloMHJEdGpsS0VPclEySHlvWWFzZkVSZ3NPeTF5QmV6WUs2MHE0UGF2V2ZwMnpNUVNJWWVOTkh6RTJZM0JwRWY2cGI1T24tRmlIQmJvbnByNG1qaHc0dlIwejRGMVV2blU1QWczZGlRclpsdG8?oc=5"
+        }
+      ],
+      "card": {
+        "category": "科技·芯片",
+        "headline": "英伟达被查，国产算力迎新机会",
+        "what": "11月11日，英伟达聘请美国大型律所调查内部被指存在中国间谍的指控，FBI相关调查也在推进。",
+        "question": "显卡和算力服务会涨价吗？",
+        "means": [
+          "国内算力租赁价格短期或上行",
+          "国产芯片替代进程可能加速"
+        ],
+        "note": "调查尚无结论，出口许可变化以美方官方文件为准。"
+      }
+    },
+    {
+      "title": "以色列新议会宣誓就职",
+      "summary": "11月11日，以色列新一届议会宣誓就职，各党派领导人随即展开组阁竞争。反对派在议会首次会议上推动就2023年10月7日袭击事件成立国家调查委员会，要求追究安全与情报系统的失误责任。新议会的构成将决定以色列下一阶段在加沙、黎巴嫩方向的军事与外交路线，也关系到与沙特关系正常化谈判能否重启。调查委员会是否设立，还可能引发执政联盟与司法系统的新一轮冲突，并影响外资对以色列科技产业的信心。",
+      "reason": "以色列新议会就职与组阁启动，将决定中东军事路线与地区外交格局走向。",
+      "impact_areas": [
+        "政治",
+        "地缘"
+      ],
+      "impact_level": "重大",
+      "sources": [
+        {
+          "name": "BBC",
+          "url": "https://www.bbc.co.uk/news/articles/crd939lpzjp9o?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "name": "NYTimes",
+          "url": "https://www.nytimes.com/2026/11/10/world/middleeast/israel-parliament-eisenkot.html"
+        }
+      ],
+      "card": {
+        "category": "政治·中东",
+        "headline": "以色列新议会就职，组阁开打",
+        "what": "11月11日，以色列新一届议会宣誓就职，各党派展开组阁竞争，反对派推动成立调查委员会追责。",
+        "question": "中东局势会再影响我的油价吗？",
+        "means": [
+          "油价与航运成本可能维持高位",
+          "以色列科技公司的外资信心或受考验"
+        ],
+        "note": "组阁结果与调查委员会是否设立，决定后续路线走向。"
+      }
+    },
+    {
+      "title": "GLP-1药物须标注致盲警告",
+      "summary": "11月11日，监管机构要求GLP-1类降糖与减重药物（如司美格鲁肽等）的生产商在产品说明书中增加警告，提示一种可能导致失明的罕见眼部疾病风险。该类药品全球使用者已达数亿人，中国已获批减重适应症并快速放量，是近年增长最快的处方药品类之一。新增警示可能改变医生处方习惯与患者依从性，并带来产品责任诉讼风险；对产业链而言，减重药的高增长逻辑面临安全性审查压力，短期销售影响则取决于警示级别与适用人群范围。",
+      "reason": "全球数亿人使用的减重降糖药被要求加致盲风险警示，公共卫生与产业链影响重大。",
+      "impact_areas": [
+        "公共卫生",
+        "产业"
+      ],
+      "impact_level": "重大",
+      "sources": [
+        {
+          "name": "BBC",
+          "url": "https://www.bbc.co.uk/news/articles/crwydyde0lp3o?at_medium=RSS&at_campaign=rss"
+        }
+      ],
+      "card": {
+        "category": "健康·用药",
+        "headline": "减肥神药要加致盲风险警告",
+        "what": "11月11日，监管机构要求GLP-1类降糖减重药（如司美格鲁肽）在说明书中增加罕见致盲眼病风险警告。",
+        "question": "我正在打的减肥针还能继续吗？",
+        "means": [
+          "开药前医生可能更多提醒眼部风险",
+          "减重药相关概念股或面临回调"
+        ],
+        "note": "该风险属罕见，具体是否停药应先咨询医生。"
+      }
+    },
+    {
+      "title": "我国算力规模居世界第二",
+      "summary": "11月11日，相关会议披露，我国算力总规模位居世界第二，并正加快推进具身智能等领域的数据标准制定。算力规模与数据标准是人工智能产业的两项基础性设施：前者决定大模型训练与推理的成本曲线，后者决定具身智能、自动驾驶等实体场景的数据互通与商业化落地速度。标准制定的主导权还将影响国内外厂商的合规成本与生态归属，是中美AI竞争中的关键变量。政策推进节奏将直接影响数据中心、芯片与智能装备等环节的投资强度。",
+      "reason": "官方确认算力规模世界第二并推进具身智能数据标准，AI基础设施政策加速落地。",
+      "impact_areas": [
+        "科技",
+        "产业"
+      ],
+      "impact_level": "重大",
+      "sources": [
+        {
+          "name": "36氪",
+          "url": "https://www.36kr.com/newsflashes/4064059940852873"
+        }
+      ],
+      "card": {
+        "category": "科技·算力",
+        "headline": "我国算力规模已居世界第二",
+        "what": "11月11日，相关会议披露我国算力总规模位居世界第二，并加快推进具身智能等领域数据标准制定。",
+        "question": "算力变强，会多出哪些新岗位？",
+        "means": [
+          "AI相关岗位和技能需求会继续增加",
+          "数据中心与芯片投资热度或将延续"
+        ],
+        "note": "数据标准仍在制定中，落地时间表尚未公布。"
+      }
+    },
+    {
+      "title": "车辆召回短信精准诈骗多发",
+      "summary": "11月11日，央视报道多地车主收到“车辆召回”短信，短信中含有车主姓名、车型、车牌等精准信息，诱导点击链接或回拨电话，实为精准诱捕式诈骗。此类骗局多与车主信息在4S店、维修机构或线上平台环节泄露有关，车主一旦在仿冒页面填写银行卡号与验证码，资金可被快速转走。报道提醒公众通过车企官方渠道核实召回信息，不点击陌生链接。事件同时暴露汽车销售与售后环节个人信息保护的合规短板，监管部门或加大对数据泄露的查处与问责力度。",
+      "reason": "精准掌握车主信息的召回类诈骗全国多发，直接威胁车主资金安全并暴露数据泄露问题。",
+      "impact_areas": [
+        "社会",
+        "经济金融"
+      ],
+      "impact_level": "重大",
+      "sources": [
+        {
+          "name": "央视网",
+          "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1DbUFSZnR5Y0M3ZzE4Z1phWi0wVGFTekwzbHo2WEpxdkIyUm1obDhOYlVKOWY2NmZuX0RsQjREOXlFR0tqVm8wT1BDQ0NrNlZmZ0Fha05GVTNvdmF1aE13VWt1SlhJZnRpaVZoUFk5Nm1JZjZZRW5PQg?oc=5"
+        }
+      ],
+      "card": {
+        "category": "社会·反诈",
+        "headline": "召回短信可能是骗局，别点链接",
+        "what": "11月11日央视报道，多地车主收到含姓名、车型、车牌的召回短信，实为诱导点击链接的精准诈骗。",
+        "question": "我的车主信息是怎么泄露的？",
+        "means": [
+          "点开仿冒链接填卡号钱可能被转走",
+          "S店和维修平台的信息合规会被查"
+        ],
+        "note": "收到召回通知请拨打车企官方客服核实。"
+      }
+    }
+  ],
+  "total_fetched": 173,
+  "generated_at": "2026-11-11T07:27:01.790686+08:00"
+}
