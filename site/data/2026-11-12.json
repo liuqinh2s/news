@@ -2,292 +2,325 @@
   "date": "2026-11-12",
   "news": [
     {
-      "title": "英伟达CEO陷罢免危机股价暴跌",
-      "summary": "财新报道，英伟达股价盘后跌近9%，美媒称CEO黄仁勋再曝婚外情绯闻，董事会拟启动罢免程序，市场高度关注接班人选。虎嗅同步深度报道董事会罢免动议及继任者问题。此前美股科技股已现剧烈震荡，纽约时报刊文指出，这轮风波进一步暴露了特朗普与习近平外交背后的中美AI芯片间谍博弈。管理层动荡与AI泡沫担忧叠加，可能引发全球科技股连锁调整，事件横跨公司治理、AI产业格局与中美科技竞争多重维度。",
-      "reason": "AI龙头管理层动荡叠加股价暴跌，牵动全球科技股与中美芯片博弈。",
+      "title": "英伟达CEO陷危机 AI股集体下挫",
+      "summary": "英伟达董事会正就CEO黄仁勋的第二段关系展开调查，其去留与接班安排引发市场高度关注，董事会已物色接班人选，工程负责人与CFO被视为热门候选。受此影响，英伟达股价持续下跌，并拖累亚洲、美国科技股走弱，花旗连续下调其目标价。不过欧洲股市在抛售后反弹创历史新高，摩根大通称股票ETF资金流入强劲，显示逢低买盘仍在。市场人士警告，AI板块估值高企叠加公司治理风波，科技泡沫风险讨论升温，短期波动或难言结束。",
+      "reason": "英伟达治理危机引发全球AI股抛售，牵动科技产业与资本市场，多平台持续发酵。",
       "impact_areas": [
         "科技",
-        "经济金融",
-        "地缘"
+        "经济金融"
       ],
       "impact_level": "现象级",
       "sources": [
         {
-          "name": "财新网",
-          "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFAzNlZidGw0ZWRKaHFKTkVRQ1lBMktUY2plQTluV3FWb2d5MXdybWNVSHU5UTY2MXp5OFVhSE5XQlFERkFVTDNZZXQzalNEN2V2U1BxYk1NMHRITXUyOHcxd202ZGNXZXVhbEE?oc=5"
+          "name": "Reuters",
+          "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPTlA5REZDN0pJYkxyUXM4YjE1Q1BLN0tKNENxM3NsV3RKblNhbWpsdEFUUVRieUtNckY4S3YwdkFUdjhvZVk4Nm1Ga1JNUmZkRzMtaEhHazhHNmZDX3Z1WUNzZnJmdEpLeVRmcngzdEMwM2N3b1I1ckQ1Q2N2a2NRNWtfa0ZTTkhYaXlqc1NqbklwWUxIdktqdzZvS0M2cGhSYkE?oc=5"
         },
         {
           "name": "虎嗅",
-          "url": "https://www.huxiu.com/article/4904929.html"
+          "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9CVEFzUXpHZU1tdzFIVnJQNGN5V0ZtSjUzN0V3NldHb3NVT1BWbFZUUGlTWmJvN0dKUENPY2MyRlNrXzVwVGZDOUcyQkdicFVZd01VOQ?oc=5"
+        },
+        {
+          "name": "36氪",
+          "url": "https://www.36kr.com/newsflashes/4066644844926087"
+        },
+        {
+          "name": "Reuters",
+          "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQQUNBZ1ptWWtYYURvcjJIZE44TjJYblFDYjNDUHlVRHVKaGhpNGZHMDZrVnlob3RtN05VaFJsVXZiR3VxZ2dkaGduSHNPYi15YUJNSFh3ZXRxRDlzd3kxcVVzMDNZMXpzc01ZY2RIOGRsM2pmZExNZ1FUT1FUemd3U3hGNkgxVUkxQnl5U2FqU0o?oc=5"
         }
       ],
       "card": {
         "category": "科技·芯片",
-        "headline": "英伟达掌门人陷罢免危机",
-        "what": "财新报道，英伟达股价盘后跌近9%，美媒称CEO黄仁勋再曝绯闻，董事会拟启动罢免程序，市场关注接班人选。",
-        "question": "我手里的科技基金要跌吗？",
+        "headline": "英伟达董事会启动调查，股价连跌",
+        "what": "英伟达董事会正调查黄仁勋相关事宜，并已物色接班人选，公司股价持续下跌，拖累亚洲和美国科技股走弱。",
+        "question": "手里的科技基金还拿得住吗？",
         "means": [
-          "重仓科技股的基金短期或回撤",
-          "AI芯片行业招聘节奏可能放缓"
+          "科技类基金短期波动会加大",
+          "AI行业招聘和薪资或受影响"
         ],
-        "note": "罢免程序是否启动尚无定论，以公司公告为准。"
+        "note": "调查结果尚未公布，接班安排以公司公告为准。"
       }
     },
     {
-      "title": "伦铝遭历史性逼仓",
-      "summary": "虎嗅报道，伦敦金属交易所（LME）铝市场遭遇历史性逼仓行情，伦铝价格与库存结构出现极端异动，反映全球铝供需格局趋紧。逼仓通常源于现货紧张、库存低位与多头集中持仓叠加，可能导致短期价格剧烈波动，并向下游加工、建筑、电力等产业链传导成本压力。作为工业金属核心品种，铝价极端波动对全球制造业成本、通胀走势及有色金属板块具有重要指引意义，是当前需重点跟踪的大宗商品消息面信号。",
-      "reason": "工业金属核心品种出现历史级逼仓，价格异动对制造业与通胀有重要指引。",
+      "title": "习近平重申台湾统一不可阻挡",
+      "summary": "中国国家主席习近平就台湾问题表态，强调「统一」是历史必然、任何人都无法阻挡。此番表态正值中美在科技、地缘领域博弈加剧之际，被视为对台政策基调的再度明确。结合近期美方对台军援、半导体供应链安全等议题，台海局势的战略敏感度上升。分析认为，该表态将进一步影响两岸关系走向与中美互动节奏，并对区域安全格局和半导体产业链预期产生扰动。",
+      "reason": "最高层就台湾问题明确表态，直接影响台海局势与中美关系走向。",
       "impact_areas": [
-        "经济金融",
-        "产业"
+        "地缘",
+        "政治"
+      ],
+      "impact_level": "现象级",
+      "sources": [
+        {
+          "name": "Reuters",
+          "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQanhBckZWOGZoOFJnUGpQNkR5b25Ibm5RYzZRWGJReUNkM2l0dWJPNUdwSUxFbDRGdHNsWm9qaG1ZVm9fNW0yNUdHanFFV2pza05kbjJWREE2ZEFHdVNIT0pmR3JEMUFnVkhFaXdXQ25oUHdEcWVMUGYxX1VSeGh1RGVBT3Bhc3RJckpsVWtfRkpSNTBnWTRzVm1EenJUOFhnOGF3STJXbDUyV3NtUXAtSjFqU1lOTmN0Zm1FSFRn?oc=5"
+        }
+      ],
+      "card": {
+        "category": "地缘·台海",
+        "headline": "对台表态再明确，统一不可阻挡",
+        "what": "中国国家主席习近平就台湾问题表态，强调统一是历史必然、任何人都无法阻挡，正值中美在科技与地缘领域博弈加剧。",
+        "question": "两岸紧张会波及我的生活吗？",
+        "means": [
+          "半导体、航运板块波动可能加大",
+          "赴台行程和往来需多留意政策"
+        ],
+        "note": "后续关注两岸往来与相关政策的具体变化。"
+      }
+    },
+    {
+      "title": "美伊对峙升级 谈判与威胁并行",
+      "summary": "特朗普授权副总统万斯恢复与伊朗谈判，但私下批评美伊谅解备忘录是「代价高昂的错误」；同时美方加大对伊封锁，依赖周边国家配合。因据称受到伊朗威胁，美国财政部长贝森特被转移安置，多名美高官被曝「抱团」住进军事基地。央视报道称特朗普与内塔尼亚胡就伊朗问题爆发「激烈争吵」，美以立场出现裂痕。局势在谈判与军事施压间摇摆，中东地缘风险居高不下，油价与避险资产面临重新定价压力。",
+      "reason": "美伊在谈判与军事威胁间反复，美以分歧显现，中东地缘风险与能源市场高度敏感。",
+      "impact_areas": [
+        "地缘",
+        "政治"
+      ],
+      "impact_level": "现象级",
+      "sources": [
+        {
+          "name": "凤凰网",
+          "url": "https://news.ifeng.com/c/8xzpuNLTzmq"
+        },
+        {
+          "name": "央视网",
+          "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBGLVBMVWZxNm1qY0FkandPTWNKUTdEODJlS05XWkhtRkJsSTNNalhhV2FoRXNqcXNmODFLQ2R5dFdtY2M1LTB0OE03RTVCV21naFNIc3I2RklaTWpWaTRIQlVxVjFVdGI3LU9ROFY1SUR6UXpQUVNzSA?oc=5"
+        },
+        {
+          "name": "BBC",
+          "url": "https://www.bbc.co.uk/news/articles/cqr7gr0010r2o?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "name": "凤凰网",
+          "url": "https://original.ifeng.com/c/8xzn6hLQfxc"
+        }
+      ],
+      "card": {
+        "category": "地缘·能源",
+        "headline": "美伊一边谈一边压，油价又悬了",
+        "what": "美方授权副总统万斯恢复与伊朗谈判，同时加大封锁，多名高官因安全威胁被转移安置，美以在伊朗问题上出现分歧。",
+        "question": "国内油价下周会跟着涨吗？",
+        "means": [
+          "加油和机票价格可能往上走",
+          "黄金等避险资产关注度上升"
+        ],
+        "note": "局势在谈判与施压间反复，油价波动以实际调价为准。"
+      }
+    },
+    {
+      "title": "美特使赴莫斯科 俄乌边打边谈",
+      "summary": "美国特使抵达莫斯科，与普京就乌克兰问题举行会谈，美方同时敦促俄方将欧洲纳入更广泛的谈判框架，俄美乌三方会谈预期升温。与此同时，俄军持续打击乌克兰电网，多地陷入「无光、无水、无暖」的停电困境，民生承压。此前乌方称「星盾」卫星通信遭限速，战场信息化能力受影响。战事与外交同步推进，能源基础设施成博弈焦点，欧洲安全与能源市场持续承压。",
+      "reason": "美俄就乌克兰问题直接接触，叠加电网打击，战事外交双线推进牵动欧洲安全。",
+      "impact_areas": [
+        "地缘",
+        "政治"
       ],
       "impact_level": "重大",
       "sources": [
         {
-          "name": "虎嗅",
-          "url": "https://www.huxiu.com/article/4904940.html"
+          "name": "BBC",
+          "url": "https://www.bbc.co.uk/news/articles/cwrkgmymk55zo?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "name": "BBC",
+          "url": "https://www.bbc.co.uk/news/articles/cr1ewpd95d21o?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "name": "凤凰网",
+          "url": "https://news.ifeng.com/c/8xzk4q7impU"
+        },
+        {
+          "name": "凤凰网",
+          "url": "https://original.ifeng.com/c/8xzn4963epf"
         }
       ],
       "card": {
-        "category": "经济·大宗",
-        "headline": "伦铝遭逼仓，铝价剧烈波动",
-        "what": "伦敦金属交易所铝市场出现历史性逼仓，现货紧张叠加库存低位，铝价短期剧烈波动，并向上下游传导成本压力。",
-        "question": "铝价涨了，哪些东西会变贵？",
+        "category": "地缘·欧洲",
+        "headline": "美特使飞莫斯科，俄乌边打边谈",
+        "what": "美国特使抵达莫斯科与普京会谈，讨论乌克兰问题，同时俄军持续打击乌克兰电网，多地停电停水停暖，民生承压。",
+        "question": "欧洲的冬天物价会涨吗？",
         "means": [
-          "家电、门窗等铝制品可能涨价",
-          "有色金属相关基金波动加大"
+          "欧洲天然气和电价或再走高",
+          "赴欧旅游、留学的成本或上升"
         ],
-        "note": "逼仓行情多伴随高波动，价格可能快速反转。"
+        "note": "三方会谈尚无定论，能源价格随局势波动。"
       }
     },
     {
-      "title": "美俄乌三方谈判未破局",
-      "summary": "凤凰网等报道，美国、俄罗斯、乌克兰新一轮三方谈判未能取得突破，议题转向战后安全保障。乌克兰寻求更明确的安全承诺，美方推动俄罗斯将欧洲纳入谈判框架，但各方在关键问题上分歧依旧。俄乌冲突持续多时，任何谈判进展均牵动欧洲地缘格局、能源供应与全球粮食市场。谈判僵局意味着制裁与军事对峙短期难解，对欧洲经济、能源价格及全球风险偏好构成持续扰动。",
-      "reason": "俄乌冲突关键谈判无果，牵动欧洲地缘格局、能源与粮食市场。",
+      "title": "西班牙14年来首次全国总罢工",
+      "summary": "西班牙爆发14年来首次全国性总罢工，数十万民众参与，巴塞罗那等地集会演变为警民冲突。罢工发生在议会选举前夕，反映民众对就业、生活成本与社会政策的不满。这是西班牙自2012年以来规模最大的全国性劳工行动，可能影响选举走向与欧元区第四大经济体的政策预期。分析认为，欧洲多国在通胀与财政压力下社会矛盾上升，劳工运动抬头或对区域经济与政治稳定性构成新的变量。",
+      "reason": "欧元区第四大经济体爆发14年来首次全国总罢工，叠加选举，政治经济影响显著。",
       "impact_areas": [
-        "地缘",
         "政治",
         "经济金融"
       ],
       "impact_level": "重大",
       "sources": [
         {
-          "name": "凤凰网",
-          "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE5yaERySUdKVGVEb3pCQWYyeVlmMERmSGpUbHZtbDNwTXlfaWIwVzBDVHVHeTJKY3EwbkpmbEFTVzJNVElhckZLMg?oc=5"
+          "name": "财新网",
+          "url": "https://international.caixin.com/2026-11-12/102504031.html"
         },
-        {
-          "name": "BBC",
-          "url": "https://www.bbc.co.uk/news/articles/ck792we7zrz4o?at_medium=RSS&at_campaign=rss"
-        }
-      ],
-      "card": {
-        "category": "地缘·谈判",
-        "headline": "美俄乌谈判未破局，分歧依旧",
-        "what": "美国、俄罗斯、乌克兰新一轮三方谈判未取得突破，议题转向战后安全保障，各方在关键问题上分歧仍在。",
-        "question": "油价和粮食价格会再涨吗？",
-        "means": [
-          "欧洲线机票与能源账单或走高",
-          "小麦玉米等进口粮价存上涨压力"
-        ],
-        "note": "谈判仍在进行，后续进展以官方通报为准。"
-      }
-    },
-    {
-      "title": "以军空袭加沙医院致6死",
-      "summary": "BBC报道，以色列军队对加沙地带纳赛尔医院发动空袭，加沙民防机构称造成至少6人死亡、20人受伤。医院这种民用医疗设施遭袭，引发国际社会对加沙人道主义危机的进一步关切。此前加沙冲突已造成大量平民伤亡，当地医疗系统濒临崩溃。此次袭击发生在国际社会推动停火谈判之际，可能加剧地区紧张，并对国际人道法适用及以色列与相关国家关系产生连锁影响。",
-      "reason": "民用医院遭空袭致平民伤亡，加剧加沙人道危机与地区紧张。",
-      "impact_areas": [
-        "地缘",
-        "公共卫生",
-        "政治"
-      ],
-      "impact_level": "重大",
-      "sources": [
-        {
-          "name": "BBC",
-          "url": "https://www.bbc.co.uk/news/articles/ckzd9p7e4eqeo?at_medium=RSS&at_campaign=rss"
-        }
-      ],
-      "card": {
-        "category": "地缘·冲突",
-        "headline": "以军空袭加沙医院，至少6人死亡",
-        "what": "以色列军队空袭加沙纳赛尔医院，当地民防机构称至少6人死亡、20人受伤，医疗系统已濒临崩溃。",
-        "question": "停火谈判还有希望吗？",
-        "means": [
-          "国际救援物资运输或再受阻",
-          "地区紧张推高油价与避险需求"
-        ],
-        "note": "伤亡数字来自当地机构，各方说法仍有差异。"
-      }
-    },
-    {
-      "title": "西班牙14年来首次全国大罢工",
-      "summary": "BBC报道，西班牙举行14年来首次全国性大罢工，数千人参与，巴塞罗那等地爆发警民冲突，抗议者投掷物品并与警方对峙。罢工反映西班牙民众对就业、薪资与生活成本的不满情绪积聚。作为欧元区第四大经济体，大规模罢工可能冲击其旅游业、制造业与服务业运转，并对欧洲劳动力市场与社会稳定释放警示信号。若罢工持续，或影响欧洲经济复苏节奏与政策走向。",
-      "reason": "欧元区第四大经济体14年来首次全国大罢工，冲击欧洲经济与社会稳定。",
-      "impact_areas": [
-        "社会",
-        "经济金融",
-        "政治"
-      ],
-      "impact_level": "重大",
-      "sources": [
         {
           "name": "BBC",
           "url": "https://www.bbc.co.uk/news/articles/cwvg25nypmrvo?at_medium=RSS&at_campaign=rss"
         }
       ],
       "card": {
-        "category": "社会·就业",
-        "headline": "西班牙14年来首次全国大罢工",
-        "what": "西班牙举行14年来首次全国性大罢工，数千人参与，巴塞罗那等地爆发警民冲突，抗议就业与生活成本。",
-        "question": "欧洲游会不会受影响？",
+        "category": "政治·劳工",
+        "headline": "西班牙十四年来首次全国罢工",
+        "what": "西班牙爆发14年来首次全国性总罢工，数十万民众参与，巴塞罗那等地集会演变为警民冲突，罢工发生在议会选举前夕。",
+        "question": "欧洲经济不稳会传导到国内吗？",
         "means": [
-          "赴西班牙航班与景点或临时调整",
-          "欧洲物价与工资谈判值得留意"
+          "出口欧洲的订单节奏或变慢",
+          "欧元资产短期波动值得留意"
         ],
-        "note": "罢工规模与持续时间未定，出行前查航班状态。"
+        "note": "罢工规模与选举结果仍在变化，需持续观察。"
       }
     },
     {
-      "title": "美指控伊朗策划多起袭击",
-      "summary": "BBC报道，美国方面称三名受伊朗支持的嫌疑人策划了包括英国皇家空军费尔福德基地事件在内的多起袭击；同时美财政部长贝森特因所谓伊朗威胁而被转移安置。系列事件显示美伊对抗持续升温，从军事基地、高级官员安全到地区封锁多线展开。地缘风险上升可能推高油价与避险资产需求，并对中东局势与全球能源供应构成扰动。",
-      "reason": "美伊对抗多线升级，牵动中东局势与全球能源供应。",
+      "title": "多地试点初中直升普通高中",
+      "summary": "多地启动「直升普通高中」试点，探索初高中贯通培养、减少中考分流压力的路径。该模式允许部分初中毕业生不经中考直接升入高中，被视为对现行普职分流政策的边际调整。在家长对升学焦虑、普职分流争议持续的背景下，试点扩围可能逐步改变部分地区升学格局。分析认为，若试点成效显现并推广，将对基础教育资源配置、职普结构与家庭教育决策产生中长期影响。",
+      "reason": "多地试点直升高中，触及普职分流与升学焦虑，关系广大家庭与教育格局。",
       "impact_areas": [
-        "地缘",
-        "政治",
+        "社会",
+        "教育"
+      ],
+      "impact_level": "重大",
+      "sources": [
+        {
+          "name": "凤凰网",
+          "url": "https://news.ifeng.com/c/8xzmBFfJJU1"
+        }
+      ],
+      "card": {
+        "category": "社会·教育",
+        "headline": "多地试点初中直升高中，中考要变",
+        "what": "多地启动直升普通高中试点，探索初高中贯通培养，部分初中毕业生可免中考直接升入高中，被视为对普职分流的边际调整。",
+        "question": "我家孩子的中考还用那么拼吗？",
+        "means": [
+          "试点城市学区房热度或有变化",
+          "职校与普高的选择要重新算账"
+        ],
+        "note": "试点范围和名额以各地教育部门文件为准。"
+      }
+    },
+    {
+      "title": "日元逼近160 日本警告干预",
+      "summary": "日元汇率逼近1美元兑160日元的关键关口，日本财务省官员三村重申对汇率过度波动的干预风险，向市场发出明确警告。160被视为此前触发日本当局入场干预的敏感水平，日元持续走弱反映美日利差高企与资本外流压力。若日元进一步贬值，可能推升日本进口成本与通胀，并加大当局干预概率。汇率异动对套息交易、跨境资金流向及全球风险资产定价具有外溢影响。",
+      "reason": "日元逼近干预红线，日本官方警告，汇率极端与潜在干预对全球资金流影响重大。",
+      "impact_areas": [
         "经济金融"
       ],
       "impact_level": "重大",
       "sources": [
         {
-          "name": "BBC",
-          "url": "https://www.bbc.co.uk/news/articles/c3rryrryk59zo?at_medium=RSS&at_campaign=rss"
+          "name": "Reuters",
+          "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPeTdnRkFzQUZJTnRnYmRuTExZbDF2cGZleDN6UHhuaXFIS1puMThyR2tSc1hxMF85ZmVnM0doN3dxSmNVV3dyajNvbXFlWWoyS196OGZsU1dQeWphLWhZaFZ1YjNWUUQtZlByZmpHSFpJMWJrWTlhNWF4YkVubDV6djJBaU9DSjRSUHhVcVRDTHhiWDM5RkZwbnBEXzJpdlhkaWZMWURFNUYyRTVRTXZQcVdnVUttRkl4NjBIemtSRnd0d1l0TmRIckx5TmFMUQ?oc=5"
         }
       ],
       "card": {
-        "category": "地缘·能源",
-        "headline": "美指伊朗策划袭击，对抗升温",
-        "what": "美方称三名受伊朗支持的嫌疑人策划多起袭击，含英国皇家空军费尔福德基地事件；美财长因伊朗威胁被转移安置。",
-        "question": "加油会不会又变贵？",
+        "category": "经济·汇率",
+        "headline": "日元逼近干预线，日本发警告",
+        "what": "日元汇率逼近1美元兑160日元的关键关口，日本财务省官员三村重申对汇率过度波动的干预风险，向市场发出明确警告。",
+        "question": "现在换日元去旅游划算吗？",
         "means": [
-          "国际油价短期易涨难跌",
-          "中东航线机票与货运成本承压"
+          "赴日旅游购物成本暂时更低",
+          "日本进口商品价格或将上涨"
         ],
-        "note": "相关指控仍在调查，细节以官方披露为准。"
+        "note": "是否干预取决于汇率走势，以日本官方表态为准。"
       }
     },
     {
-      "title": "纪念孙中山诞辰160周年",
-      "summary": "凤凰网、澎湃新闻报道，纪念孙中山先生诞辰160周年大会在北京举行，习近平出席大会并发表重要讲话。活动强调继承孙中山先生振兴中华的遗志，凝聚民族复兴共识。作为高规格政治纪念活动，其讲话内容往往释放关于国家统一、民族复兴与两岸关系的政策信号，受到海内外高度关注。相关表述对理解当前政治议程与对台政策走向具有重要参考意义。",
-      "reason": "高规格政治纪念活动，习近平讲话释放民族复兴与两岸政策信号。",
+      "title": "监管释放信号 力推长钱长投",
+      "summary": "证监会与上交所集中发声，监管层释放维护市场韧性的信号，提出加快形成「长钱长投」生态，引导中长期资金入市。同期上交所向多家异动个股下发监管工作函，强化交易监管。此举被视为在A股情绪波动、部分题材炒作过热背景下的稳预期举措。分析认为，推动保险、养老金等长期资金入市有助于改善市场结构、平抑短期波动，但政策落地节奏与增量资金规模仍是关键观察点。",
+      "reason": "监管层集中表态稳市场、推长钱长投，直接影响A股资金面与投资者预期。",
       "impact_areas": [
-        "政治"
+        "经济金融"
       ],
       "impact_level": "重大",
       "sources": [
         {
           "name": "凤凰网",
-          "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE9FYnVGWVpzMEVkajNyYTlKSnRVV2p3WVJNZlNQcUtKRnc3M2VjV1N2V0E3RFY3bkkxaDNFaUwtaVVCOEdYczRmNW9CTlM?oc=5"
+          "url": "https://news.ifeng.com/c/8xzqaxr0Hl1"
         },
         {
-          "name": "澎湃新闻",
-          "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBGUzNNUXFIRE5pU3FqTzItSkxMa0d6WDJxcmowSU9oRGh6MWVHN19mcVpJZE4wbDdJaC1tVlJ6NEExN0c0T1U4cEwtT0JGOUdMS2RWc2xXVzAyUldfaktydg?oc=5"
+          "name": "财新网",
+          "url": "https://finance.caixin.com/2026-11-12/102504124.html"
         }
       ],
       "card": {
-        "category": "政治·两岸",
-        "headline": "孙中山诞辰160年，高规格纪念",
-        "what": "纪念孙中山先生诞辰160周年大会在北京举行，习近平出席并发表重要讲话，强调继承振兴中华的遗志。",
-        "question": "两岸往来会有什么新变化？",
+        "category": "经济·股市",
+        "headline": "监管力推长钱入市，稳预期信号",
+        "what": "证监会与上交所集中发声，提出加快形成长钱长投生态，引导中长期资金入市，同期向多家异动个股下发监管工作函。",
+        "question": "我的基金该加仓还是先等等？",
         "means": [
-          "两岸经贸与人员往来政策受关注",
-          "相关表述常被视作对台信号"
+          "市场短期炒作会更受约束",
+          "养老金等长期资金入市节奏加快"
         ],
-        "note": "讲话全文以官方发布为准，勿过度解读。"
+        "note": "增量资金规模与落地节奏仍需观察，勿盲目跟风。"
       }
     },
     {
-      "title": "俄驻美大使突然去世",
-      "summary": "凤凰网报道，俄罗斯驻美国大使达奇耶夫突然去世，享年66岁。俄外交部发言人表示其因慢性疾病在莫斯科去世。达奇耶夫在任期间正值俄美关系高度紧张，其离世发生在俄乌谈判与美俄博弈的关键节点，引发外界对两国本已脆弱的外交沟通渠道稳定性及继任人选的关注。分析认为，此事可能为复杂的地缘博弈增添新的不确定性。",
-      "reason": "俄美关系敏感期驻美大使突然离世，牵动两国外交渠道稳定性。",
+      "title": "台积电拟10亿美元投AI新锐",
+      "summary": "台积电董事会批准向Anthropic及OpenAI投资，总额不超过10亿美元。此举标志全球最大半导体代工厂从算力硬件供应向AI应用生态延伸，深化与头部大模型公司的绑定。在英国，AI芯片初创Fractile完成融资、估值达70亿美元，显示资本仍持续涌入AI基础设施赛道。尽管二级市场AI股短期承压，产业资本对AI长期前景的押注并未减弱，半导体与AI生态的融合加速。",
+      "reason": "台积电巨资入股OpenAI与Anthropic，凸显半导体与AI生态深度绑定，产业影响深远。",
       "impact_areas": [
-        "地缘",
-        "政治"
+        "科技",
+        "经济金融"
       ],
       "impact_level": "重大",
       "sources": [
         {
-          "name": "凤凰网",
-          "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE1lMFhWckdWTHVZNmZRV1JVUjBFU1VYTDFzZGw5ZHIzR0ItYnpYUWs3dUw3a0lZcmV2c1JUdU53WHZXN0ZBSk1Dcg?oc=5"
+          "name": "新浪财经",
+          "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOc1ZNYXJqNnc3b1lVd2w3S0RPeUxHaWgyVzRpMlhzQTJzV2RWMl9handzaDc4U0Rfd3BJR1RfdUh4X2VkMlotM1QwdmVkNUtVNUZ5YWlBTTRsQm1EdnNyWUFuOGtuMTNUQ001cjNEaXhWME5xYk9hUndqUVk0UmlsR0NzVi1VY2FNQzJuVVVoZUk3Ulk?oc=5"
+        },
+        {
+          "name": "Reuters",
+          "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPU0V1VVc2X0ppTUpCU0lET0pMdzV1YjFLbV83a0luR0VCdmVFN0g0ZzFzZXpZeWdWMjBNWVppUWV5QlNNYkFEdkY3QnJadVhleU5saHFaMk1USXRUZkpoTGEzeE9rejdTbGFnYVVMdk5DZVBLWlFuNnlKZi0wRnR2cE96UlRTWXluUGdpME53bkEtQWZPSGowd2l5OXU0WVM2ZHZ0OXlHSW5KZjFuUFVSYWpSZWlobFZJSnNiblE1YVZSc0ozVlNJaA?oc=5"
         }
       ],
       "card": {
-        "category": "地缘·外交",
-        "headline": "俄驻美大使突然去世，享年66岁",
-        "what": "俄罗斯驻美国大使达奇耶夫突然去世，享年66岁，俄外交部称其因慢性疾病在莫斯科去世。",
-        "question": "美俄沟通会因此中断吗？",
+        "category": "科技·芯片",
+        "headline": "台积电押注大模型，下注十亿美元",
+        "what": "台积电董事会批准向两家美国大模型公司投资，总额不超过10亿美元，从算力硬件供应向AI应用生态延伸。",
+        "question": "AI岗位的招聘还会继续火吗？",
         "means": [
-          "俄乌谈判节奏或更添变数",
-          "能源与粮食价格波动风险上升"
+          "AI相关岗位需求仍在扩张",
+          "算力与芯片板块波动加大"
         ],
-        "note": "死因由俄方公布，继任人选尚未确定。"
+        "note": "投资细节与金额以公司公告为准，注意市场波动。"
       }
     },
     {
-      "title": "国内油价下调加满省15元",
-      "summary": "凤凰网报道，自11月12日24时起国内成品油价格下调，加满一箱92号汽油可节省约15元。此次调价跟随国际原油价格变化，直接降低居民出行与物流运输成本，对私家车主、货运行业及下游消费构成利好。油价作为基础性成本，其下调有助于缓解通胀压力、降低企业运营成本。对普通家庭而言，燃油支出减少带来可感知的实惠，是关系日常生活的价格调整。",
-      "reason": "成品油价格下调直接降低居民出行与物流成本，关系民生。",
+      "title": "流感进入高发期 重症病例警示",
+      "summary": "随着气温下降，流感等呼吸道传染病进入高发期，多地出现儿童重症病例，个别患者病情进展至「白肺」，引发家长警惕。与此同时，带状疱疹等病毒性疾病也进入高发季，专家提示早识别、早干预。公共卫生提醒指出，流感并非普通感冒，高危人群应关注持续高热、抽搐等症状，及时就医。季节性呼吸道疾病高发叠加医疗资源压力，对公众健康与就医安排形成现实影响。",
+      "reason": "流感等呼吸道疾病高发并出现重症，直接关系公众健康与就医，具民生意义。",
       "impact_areas": [
-        "经济金融",
-        "民生"
+        "公共卫生"
       ],
       "impact_level": "重大",
       "sources": [
         {
-          "name": "凤凰网",
-          "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTFBYS2MtZElBcmlQWlFJODR4aTRvblIwTl9LN2xJUVNGWl9HT1VVVkMyakJPZko4cXk3cGZlYUtPakttNGhZM2JXMnZR?oc=5"
-        }
-      ],
-      "card": {
-        "category": "民生·油价",
-        "headline": "今晚油价下调，加满一箱省15元",
-        "what": "自11月12日24时起国内成品油价格下调，加满一箱92号汽油约省15元，私家车主与货运行业成本同步下降。",
-        "question": "下次调价是涨还是跌？",
-        "means": [
-          "私家车加满一箱少花约15元",
-          "物流成本下降或带动物价缓和"
-        ],
-        "note": "下一轮调价窗口在两周后，方向取决于国际油价。"
-      }
-    },
-    {
-      "title": "储蓄国债遭抢购秒光",
-      "summary": "虎嗅报道，年内最后一批储蓄国债发行即遭抢购，“秒光”现象再现。在存款利率持续走低、理财收益承压的背景下，居民对安全稳健资产的配置需求旺盛，储蓄国债因保本保息属性受到追捧。低利差环境下国债仍遭抢购，反映居民风险偏好趋于保守，资产配置呈现明显避险倾向。这一现象对理解居民储蓄流向、银行负债成本及货币政策传导具有参考价值，也折射出普通家庭理财的现实选择。",
-      "reason": "低利率下储蓄国债遭抢购，折射居民资产配置避险化与理财困境。",
-      "impact_areas": [
-        "经济金融",
-        "民生"
-      ],
-      "impact_level": "重大",
-      "sources": [
+          "name": "丁香园",
+          "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFA4WTYxS1RCRnpfajVNQkxKT2lMNEViS18yLUhrazhWd0xsekl4NEFuRFVKaU1SSHd5VWc1c290NFJmTVR5S3Ayc3lXQ3FFYTlLeDlOUw?oc=5"
+        },
         {
-          "name": "虎嗅",
-          "url": "https://www.huxiu.com/article/4904951.html"
+          "name": "丁香园",
+          "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9sNU4wWks4TmxuR0NZUnRlSU1yZzF3akdQVWlZSFFva1NEejJzM25mbDZyTk9fQWRncVRqbzFLZ1M0M0ZmWGN1NTVORGtJdFFPUjBGZHlsWQ?oc=5"
         }
       ],
       "card": {
-        "category": "理财·国债",
-        "headline": "储蓄国债又秒光，安全资产受宠",
-        "what": "年内最后一批储蓄国债发行即遭抢购，出现秒光，存款利率走低背景下保本保息产品受追捧。",
-        "question": "我的存款还能放哪儿？",
+        "category": "社会·健康",
+        "headline": "流感进入高发期，孩子先中招",
+        "what": "随气温下降，流感等呼吸道传染病进入高发期，多地出现儿童重症病例，个别患者病情进展至白肺，专家提示早识别早干预。",
+        "question": "现在打流感疫苗还来得及吗？",
         "means": [
-          "稳健理财收益可能继续走低",
-          "下次发行要提前设好抢购提醒"
+          "带娃看病可能要排队更久",
+          "老人孩子的防护要提前安排"
         ],
-        "note": "各银行额度与开售时间不同，以公告为准。"
+        "note": "疫苗供应与接种安排以当地接种点为准。"
       }
     }
   ],
-  "total_fetched": 228,
-  "generated_at": "2026-11-12T12:26:45.599041+08:00"
+  "total_fetched": 250,
+  "generated_at": "2026-11-12T19:27:10.229024+08:00"
 }
