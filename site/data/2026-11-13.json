@@ -1,0 +1,317 @@
+{
+  "date": "2026-11-13",
+  "news": [
+    {
+      "title": "英伟达CEO黄仁勋辞职",
+      "summary": "11月13日，BBC报道确认英伟达CEO黄仁勋已辞职，此前他深陷丑闻：路透社独家披露他与第二名员工存在私人关系。事件在全球科技圈引发连锁反应，社交平台涌现大量AI生成梗图，纽约时报称其为“科技巨星陷入丑闻的兴衰样本”。隔夜美股三大指数集体收跌，英伟达跌超4%，成为拖累大盘的主因，能源板块上涨未能对冲。特朗普公开建议蒂姆·库克接任英伟达CEO，克雷斯13日在英伟达总部召集管理层会议。深层意义：全球AI算力龙头出现治理危机，可能影响数据中心资本开支节奏、芯片供应链定价与AI投资叙事，是本轮AI行情启动以来最重大的单一公司风险事件。",
+      "reason": "全球AI龙头CEO辞职叠加丑闻与股价重挫，多平台多源密集报道，冲击整个AI产业链信心。",
+      "impact_areas": [
+        "科技",
+        "经济金融",
+        "产业"
+      ],
+      "impact_level": "现象级",
+      "sources": [
+        {
+          "name": "BBC",
+          "url": "https://www.bbc.co.uk/news/articles/cmze750zg0jeo?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "name": "BBC",
+          "url": "https://www.bbc.co.uk/news/videos/cmdx1r99kp9wo?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "name": "Reuters",
+          "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOS3otVnY4ZXphd1g5Q0REOVlqY3c1WXBMSmMtNThTbGlaRGVkVkZXZml1RHlEN3djZXRMT0pSTnJ6c3JiZ0tOdVRRekpJUlBfRV92ZEFEUU9GVU5XZHBYVmotRjFpcExuaER3S1BUaF90UWFaRnVBcFlHazgzOXBSWXJfN1RMSFNrcWY2TVRkQmVTYkNHUUhMeHAyM1huRXItSVhKZU95Q2wyTmg1MnlZcGduR01vdzFBcmpiVA?oc=5"
+        },
+        {
+          "name": "36氪",
+          "url": "https://www.36kr.com/newsflashes/4067367606129540"
+        },
+        {
+          "name": "36氪",
+          "url": "https://www.36kr.com/newsflashes/4067375528039561"
+        }
+      ],
+      "card": {
+        "category": "科技·芯片",
+        "headline": "英伟达掌门人辞职，芯片股承压",
+        "what": "11月13日，BBC确认英伟达CEO黄仁勋辞职，此前他被曝与员工有私人关系。当日英伟达股价跌超4%，拖累美股收跌。",
+        "question": "我手里的科技基金要跌吗？",
+        "means": [
+          "AI概念股短期波动会变大",
+          "算力投资节奏可能被拖慢"
+        ],
+        "note": "继任者与调查进展未定，别急着抄底AI股。"
+      }
+    },
+    {
+      "title": "SpaceX与特斯拉合并谈判推进",
+      "summary": "据路透社与36氪报道，SpaceX与特斯拉的合并谈判取得进展，交易最早可能于今年12月宣布。同期SpaceX计划在亚利桑那州和得克萨斯州投资740亿美元扩充算力基础设施。若合并落地，将形成覆盖火箭发射、卫星互联网、电动车、机器人与AI算力的巨型科技实体，马斯克系资产将高度整合，全球科技产业估值体系与公司治理结构面临重估。深层意义：这既是马斯克为AI算力竞赛进行的资本布局，也可能改变航天与智能汽车两个赛道的竞争边界；合并后的融资能力与监管审查将成为后续关键变量。",
+      "reason": "全球最具影响力的两家科技公司合并谈判取得实质进展，同时抛出740亿美元算力投资计划，产业格局影响深远。",
+      "impact_areas": [
+        "科技",
+        "产业格局",
+        "资本市场"
+      ],
+      "impact_level": "现象级",
+      "sources": [
+        {
+          "name": "Reuters",
+          "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOSDRsb3FNV0VLZW5Hb01MamhyMnpOS3NEZl9jT2czVGFTQ3JOdjF0WXdQNHh3SVFJVmhKTVBIb3hhT0UxTlBlOG9lY1AzVnVTY1hjZlItN1Q4X1YzVjMwVTVyVF9keUh4UnRGTnBWeGItejZObzU4QVVOeEF2ZGxuTmFfSDVyQllsRlJNNXV3N1V3ai1sMWx2RTEzR3pNNXpVRWtOTjJDQzg5YVJjT3FBM1BhRQ?oc=5"
+        },
+        {
+          "name": "36氪",
+          "url": "https://www.36kr.com/newsflashes/4067377025045379"
+        },
+        {
+          "name": "36氪",
+          "url": "https://www.36kr.com/newsflashes/4067376001422473"
+        }
+      ],
+      "card": {
+        "category": "科技·并购",
+        "headline": "马斯克旗下两大公司谈合并",
+        "what": "据路透社，SpaceX与特斯拉合并谈判取得进展，最早或于12月宣布，同期SpaceX拟投740亿美元扩充算力。",
+        "question": "合并后我的车会更便宜吗？",
+        "means": [
+          "相关供应链订单可能重排",
+          "科技巨头估值或再被重估"
+        ],
+        "note": "交易仍待监管批准，12月是否官宣需核实。"
+      }
+    },
+    {
+      "title": "俄乌和谈穿梭外交加速",
+      "summary": "11月13日，美国特使维特科夫与库什纳在莫斯科与普京会谈后转赴都柏林会见乌克兰总统泽连斯基，美方要求俄方将欧洲纳入和平谈判框架。与此同时，俄罗斯一艘军舰在芬兰湾遭乌克兰无人机袭击（BBC）。外交接触与战场升级同步推进，显示停火谈判进入关键窗口期，但双方军事施压并未停止。深层意义：若谈判取得突破，将重塑欧洲安全架构，并直接影响能源价格、对俄制裁路径与全球粮食供应链；若谈判破裂，冲突长期化风险将再度抬升。",
+      "reason": "美俄乌三方高层穿梭外交与俄舰遇袭同日发生，是当前全球地缘政治最核心的变量。",
+      "impact_areas": [
+        "地缘政治",
+        "能源",
+        "全球经济"
+      ],
+      "impact_level": "重大",
+      "sources": [
+        {
+          "name": "BBC",
+          "url": "https://www.bbc.co.uk/news/articles/cwrkgmymk55zo?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "name": "BBC",
+          "url": "https://www.bbc.co.uk/news/articles/cmn0d33zz34zo?at_medium=RSS&at_campaign=rss"
+        }
+      ],
+      "card": {
+        "category": "地缘·能源",
+        "headline": "俄乌和谈加速，战场没停",
+        "what": "11月13日，美特使维特科夫与库什纳在莫斯科见普京后转赴都柏林见泽连斯基，同日俄军舰在芬兰湾遭乌无人机袭击。",
+        "question": "油价和机票会跟着降吗？",
+        "means": [
+          "油价短期仍可能忽上忽下",
+          "粮食化肥进口成本看谈判"
+        ],
+        "note": "谈判与战场同步推进，停火尚无时间表。"
+      }
+    },
+    {
+      "title": "OpenAI以1.25万亿估值融资",
+      "summary": "11月13日，36氪报道OpenAI据悉以1.25万亿美元估值完成150亿美元融资，创下AI行业单笔融资规模新纪录。资金预计主要投向算力基础设施与下一代模型研发。这意味着头部AI公司的资本与算力壁垒进一步抬升，中小模型公司融资与生存空间被压缩。深层意义：一级市场对通用人工智能的押注仍在加码，AI资本开支周期未见拐点，对芯片、数据中心、电力供应等上游产业链形成持续拉动，同时也加剧了市场对AI泡沫与估值透支的争论。",
+      "reason": "AI头部公司单笔150亿美元融资、估值迈入万亿美元级，直接决定全球AI资本开支与产业竞争格局。",
+      "impact_areas": [
+        "科技",
+        "经济金融",
+        "产业"
+      ],
+      "impact_level": "重大",
+      "sources": [
+        {
+          "name": "36氪",
+          "url": "https://www.36kr.com/newsflashes/4067372022305664"
+        }
+      ],
+      "card": {
+        "category": "科技·资本",
+        "headline": "AI巨头估值迈入万亿美元",
+        "what": "11月13日，36氪报道OpenAI以1.25万亿美元估值完成150亿美元融资，创AI行业单笔融资纪录，资金主要投向算力与下一代模型。",
+        "question": "AI赛道我还能上车吗？",
+        "means": [
+          "AI相关岗位需求继续扩张",
+          "中小AI公司融资或更难"
+        ],
+        "note": "估值消息来自媒体报道，官方口径待确认。"
+      }
+    },
+    {
+      "title": "以军空袭加沙医院致6死",
+      "summary": "11月13日，BBC报道以色列对加沙纳赛尔医院发动空袭，巴勒斯坦卫生部门称造成6人死亡、数十人受伤。医院等医疗设施再次成为打击目标，引发国际人道主义关切。深层意义：加沙冲突持续已造成医疗系统近乎崩溃，医院遇袭事件可能进一步加剧以色列面临的国际舆论与外交压力，并影响停火谈判与重建援助安排；对中东局势而言，人道危机恶化往往成为区域冲突外溢的催化剂。",
+      "reason": "医疗设施遭袭造成人员死亡，是持续冲突中人道危机升级的标志性事件，国际关注度高。",
+      "impact_areas": [
+        "地缘政治",
+        "公共卫生"
+      ],
+      "impact_level": "重大",
+      "sources": [
+        {
+          "name": "BBC",
+          "url": "https://www.bbc.co.uk/news/articles/ckzd9p7e4eqeo?at_medium=RSS&at_campaign=rss"
+        }
+      ],
+      "card": {
+        "category": "地缘·人道",
+        "headline": "加沙医院再遭空袭致6死",
+        "what": "11月13日，BBC报道以军空袭加沙纳赛尔医院，巴勒斯坦卫生部门称造成6人死亡、数十人受伤，医疗设施再次成为打击目标。",
+        "question": "这轮冲突还会外溢到油价吗？",
+        "means": [
+          "中东局势仍会扰动能源价格",
+          "国际援助与重建议题或升温"
+        ],
+        "note": "伤亡数字来自巴方卫生部门，需独立核实。"
+      }
+    },
+    {
+      "title": "COP31进入谈判关键阶段",
+      "summary": "11月13日，路透社报道COP31气候大会结束领导人环节转入实质谈判，各国提出的优先事项相互冲突，围绕化石能源退出节奏、气候资金分配与适应融资的博弈加剧。多家媒体指出，巴黎协定的关键温控目标实现难度已大幅上升。深层意义：全球气候治理正从“目标设定”转向“目标失效后的现实主义谈判”，这将直接影响各国能源转型投资节奏、碳市场定价与化石能源资产的长期估值，对能源、化工、航运等行业的成本结构产生中长期影响。",
+      "reason": "全球气候治理最高级别谈判进入关键博弈阶段，温控目标受挫将改变能源转型与碳定价预期。",
+      "impact_areas": [
+        "生态",
+        "能源",
+        "产业"
+      ],
+      "impact_level": "重大",
+      "sources": [
+        {
+          "name": "Reuters",
+          "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPNngtTTdNNWh2YXdsTUNwRVo3NHZIY3JqcU1zaVBZdGdiODBGMmtaNTRDN1JWbmlpNERtc1l2UzB3VGdwZnlJQktOWTFJdl9qX3RxUW5vWl9RWFJjRE5ZTzNhQnM1eTFUaEdTV2JwODF1dlRVRVBPSkkzdmhDdE0yUV93b1ZPdWpNazhxbFBWY0FEdmt6VUh0Ri1iQzc1YnNMOVA2TnIyYUhIaG1VeDdGejBaVQ?oc=5"
+        }
+      ],
+      "card": {
+        "category": "生态·气候",
+        "headline": "气候大会转入硬仗，目标告急",
+        "what": "11月13日，路透社报道COP31转入实质谈判，各方在化石能源退出节奏与气候资金分配上分歧明显，温控目标实现难度上升。",
+        "question": "电费和油价会因此变贵吗？",
+        "means": [
+          "高耗能行业成本压力或上升",
+          "新能源与碳市场预期会反复"
+        ],
+        "note": "谈判尚未结束，最终文本以大会公布为准。"
+      }
+    },
+    {
+      "title": "美国成屋销售创16年新低",
+      "summary": "11月13日，路透社报道美国10月成屋销售跌至2010年以来最低水平，同时劳动力市场仍保持韧性。高利率环境下住房成交持续萎缩，与就业市场稳健形成明显反差，加大美联储对经济降温程度的判断难度。深层意义：住房市场“冻结效应”若延续，将通过财富效应、家装与建筑就业传导至居民消费，成为判断美国经济能否软着陆的关键变量；对全球资本市场而言，也直接影响降息路径与美元资产定价。",
+      "reason": "美国住房成交创16年新低叠加就业韧性，是判断美联储政策路径与全球经济前景的关键数据。",
+      "impact_areas": [
+        "经济金融",
+        "房地产"
+      ],
+      "impact_level": "重大",
+      "sources": [
+        {
+          "name": "Reuters",
+          "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQUTZla1JsS2tMLXNSZGhQOXg4VnpnUkQxelh0RVlFQnl5b0ZGYXBwTXNVd3hWMVM1c0d5WjhPR3hGbnRPV3dDSloxV2w2Wm83a24wSUNHdTN0UmpHbzlTSHJ4VnVRNTBVdUlHTkdrZ21SdkFIZ09VMnRWZ1ZSU3ZFbk1SQnA4ZUJBVWxzSWpVTjRodDFqQlRiQzRRWHRzdzU3?oc=5"
+        },
+        {
+          "name": "36氪",
+          "url": "https://www.36kr.com/newsflashes/4067379569562501"
+        }
+      ],
+      "card": {
+        "category": "经济·楼市",
+        "headline": "美国二手房成交创16年新低",
+        "what": "11月13日，路透社报道美国10月成屋销售跌至2010年以来最低，同期劳动力市场仍保持韧性，高利率下住房成交持续萎缩。",
+        "question": "美联储还会继续降息吗？",
+        "means": [
+          "美元和海外资产价格更易波动",
+          "降息预期反复影响我的理财"
+        ],
+        "note": "后续看就业与通胀数据，单月数据不作定论。"
+      }
+    },
+    {
+      "title": "现货白银跌破50美元",
+      "summary": "11月13日，36氪数据显示现货白银向下跌破50美元/盎司。白银此前站上50美元属于历史罕见区间，历史上仅1980年与2011年出现过类似情形，本轮回落反映贵金属在快速冲高后的获利了结与美元、实际利率预期的重新定价。深层意义：白银兼具货币属性与工业属性，其价格剧烈波动直接影响光伏、电子等下游成本，金银比的变化也是判断通胀交易与避险情绪的重要先行信号，对贵金属产业链与宏观对冲策略具有明确指引。",
+      "reason": "白银跌破50美元这一历史极端区间，属于重要商品价格异动信号，对通胀交易与工业成本有直接指引。",
+      "impact_areas": [
+        "经济金融",
+        "大宗商品",
+        "产业"
+      ],
+      "impact_level": "重大",
+      "sources": [
+        {
+          "name": "36氪",
+          "url": "https://www.36kr.com/newsflashes/4067381220168581"
+        }
+      ],
+      "card": {
+        "category": "经济·贵金属",
+        "headline": "白银跌破50美元，行情转向",
+        "what": "11月13日，现货白银向下跌破50美元/盎司。此前站上50美元属历史罕见区间，历史上仅1980年和2011年出现过类似情形。",
+        "question": "现在还能买白银避险吗？",
+        "means": [
+          "光伏和电子成本可能松动",
+          "追高贵金属的回撤风险变大"
+        ],
+        "note": "价格波动剧烈，别用杠杆追涨杀跌。"
+      }
+    },
+    {
+      "title": "儿童医保家庭负担引讨论",
+      "summary": "11月13日，财新报道中国儿童医疗保障的家庭负担较重，社会围绕“能否为儿童提供免费医疗服务”展开讨论。目前儿童医疗主要依托城乡居民医保，报销比例与药品目录覆盖有限，大病和罕见病自付比例较高，多孩家庭支出压力尤为明显。深层意义：这一问题牵涉医保基金可持续性、生育支持政策与儿科医疗资源配置的衔接，若政策方向出现调整，将直接影响数亿家庭的医疗支出结构与生育决策。",
+      "reason": "儿童医保与免费医疗讨论直接关系家庭医疗支出，属医保政策走向的民生信号。",
+      "impact_areas": [
+        "公共卫生",
+        "社会民生",
+        "财政政策"
+      ],
+      "impact_level": "重大",
+      "sources": [
+        {
+          "name": "财新网",
+          "url": "https://www.caixin.com/2026-11-13/102504255.html"
+        }
+      ],
+      "card": {
+        "category": "民生·医保",
+        "headline": "儿童看病能不能免费，讨论升温",
+        "what": "11月13日，财新报道儿童医疗家庭负担较重，社会讨论能否为儿童提供免费医疗。目前儿童主要靠城乡居民医保，大病自付比例偏高。",
+        "question": "我家孩子看病能少花钱吗？",
+        "means": [
+          "少儿医保报销范围或调整",
+          "多孩家庭支出结构可能变化"
+        ],
+        "note": "目前只是讨论阶段，政策以官方发布为准。"
+      }
+    },
+    {
+      "title": "周生生客户资料或泄露",
+      "summary": "11月13日，周生生披露客户及员工个人资料可能泄露，涉及姓名、联系方式及购买记录等信息，公司已启动调查并陆续通知受影响人群。作为知名珠宝零售品牌，其会员体系沉淀大量实名与消费数据，事件引发消费者对零售企业数据安全的集中关注。深层意义：消费企业掌握的个人信息规模持续扩大，泄露事件频发将推高企业数据合规成本，也使消费者面临精准诈骗、账户盗用等衍生风险，个人信息保护监管趋严的态势或将延续。",
+      "reason": "知名零售品牌客户与员工资料泄露，属于直接影响消费者个人信息安全与权益的民生事件。",
+      "impact_areas": [
+        "消费",
+        "信息安全",
+        "社会民生"
+      ],
+      "impact_level": "重大",
+      "sources": [
+        {
+          "name": "澎湃新闻",
+          "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1kcTF1aDBQYnd4NV9XaWpNUDM4YmFHLW80NTM5NzhQN05CNTNCODhoNjFQNnNfVE0tRW80UUE0ZkYwVnVESXBPQm4taVVDNnBScFdOYmViUzl4QkxGR0RTdA?oc=5"
+        }
+      ],
+      "card": {
+        "category": "消费·数据",
+        "headline": "周生生客户资料可能泄露",
+        "what": "11月13日，周生生披露客户及员工个人资料可能泄露，涉及姓名、联系方式和购买记录，公司已启动调查并陆续通知受影响人群。",
+        "question": "我的信息和钱会被盗用吗？",
+        "means": [
+          "会员手机号易被用于精准诈骗",
+          "零售企业数据合规成本将上升"
+        ],
+        "note": "留意官方通知，陌生退款链接不要点。"
+      }
+    }
+  ],
+  "total_fetched": 138,
+  "generated_at": "2026-11-13T07:26:52.586189+08:00"
+}
