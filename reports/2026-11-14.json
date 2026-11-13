@@ -1,0 +1,312 @@
+{
+  "date": "2026-11-14",
+  "news": [
+    {
+      "title": "全美航班因空管故障全面停飞",
+      "summary": "美国空中交通管制通信系统发生中断，美国联邦航空管理局下令全国范围航班停飞（ground stop），路透社等多家媒体证实了这一消息。此次停飞覆盖全美主要机场，航班大面积延误与取消，旅客在机场滞留，航空公司运行秩序被打乱。这是美国近年少见的同时影响全国的航空管制事件，暴露了空管通信基础设施老化与系统冗余不足的问题。空管系统可靠性直接关系航空安全与人员流动，事件预计将推动国会与监管部门重启对空管现代化改造和备用通信方案的资金与立法讨论，并可能引发对航空业运营韧性的重新评估。",
+      "reason": "全国性航班停飞属罕见航空安全事件，直接影响数十万旅客出行并牵动空管基础设施与监管议题。",
+      "impact_areas": [
+        "社会",
+        "产业",
+        "科技"
+      ],
+      "impact_level": "现象级",
+      "sources": [
+        {
+          "name": "Reuters",
+          "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPTTdvYllmb0pHUXVJVGNLUmFZb2I0WXpjZENubU52NW1nQlFJa1E4c3ZNTGhseUdiUzl0ZXJWa0pOSnR1ZDlRQk9FTHZlaWkyT0hLM1J3OW5tVUhIb0o4OWN5bDVVakF5T3lIanR1SVVMSkctSDlpb2loMWI2MENuWEIxTmhTcy1kZXdqSlRrdi1NMHlFSGtPRWEzdUFrMWR1c2wwNk9rRUUwOGpzajM0N1h2MndWVU9MYngyMVdudw?oc=5"
+        },
+        {
+          "name": "Reuters/U.S. News",
+          "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxNdUpnSmw4QkxGNk83dkJIYnR4bnVrUzlISldjSVNJWVJ1TWRYZm10Ymw0aVZCdGpJUEtPelUzUGNDQmRNeHMwR3ZISU9ySWNrZTEyaFd2cko5Ump4X3JBODlxNXRQMFY3QmM2RnBscVJEREFFd05MYmpuWjhJalZBRU83S181TEhSSG1SalNXQUU2c3FSblFKT0d3eHo4VXNBNm5CVGM1VHFieUNBSjdPYTlOeGNUY24yUFNnc0NybWpydjU4RDlrZ05hYWZzazZpSHE4UTFLUFRoN3VNRnc?oc=5"
+        }
+      ],
+      "card": {
+        "category": "社会·出行",
+        "headline": "全美航班停飞，空管系统出故障",
+        "what": "美国空管通信系统中断，联邦航空管理局下令全国航班停飞，主要机场大面积延误取消，旅客滞留机场。",
+        "question": "我下月的赴美机票要退吗？",
+        "means": [
+          "赴美出差旅游可能被迫改期",
+          "国内航司或调整涉美航线排班"
+        ],
+        "note": "恢复时间未定，出行前请查航司与空管公告。"
+      }
+    },
+    {
+      "title": "微软全球宕机近24小时",
+      "summary": "微软云服务发生大规模全球性中断，持续时间接近24小时，Outlook 邮件等核心办公服务大面积不可用，微软就此公开致歉。BBC 连续追踪报道，重点解释故障为何持续如此之久、用户邮件是否会丢失等关键问题。中断期间，大量企业邮件收发、日程协作与内部沟通受阻，跨国团队的日常运营被迫转向备用渠道。事件再次暴露全球企业高度依赖少数云服务商带来的集中度风险：单一配置或网络环节的故障即可在全球范围放大。监管机构与大型企业客户预计将更重视多云部署、灾备演练与服务水平协议的约束力，云服务可靠性将成为采购决策的核心指标。",
+      "reason": "全球级云服务长时间中断，直接影响企业办公与邮件系统，凸显云基础设施集中度风险。",
+      "impact_areas": [
+        "科技",
+        "产业",
+        "经济金融"
+      ],
+      "impact_level": "现象级",
+      "sources": [
+        {
+          "name": "BBC",
+          "url": "https://www.bbc.co.uk/news/articles/c6rrg51rkz09o?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "name": "BBC",
+          "url": "https://www.bbc.co.uk/news/articles/cwvg238zrnm5o?at_medium=RSS&at_campaign=rss"
+        }
+      ],
+      "card": {
+        "category": "科技·云服务",
+        "headline": "微软云宕机近一天，邮箱全挂了",
+        "what": "微软云服务发生全球性中断近24小时，核心邮箱等办公服务大面积不可用，微软已公开致歉。",
+        "question": "公司邮箱崩了，我的邮件还在吗？",
+        "means": [
+          "远程协作得临时换备用工具",
+          "企业或被迫多买一家云服务"
+        ],
+        "note": "邮件是否丢失以微软官方说明为准。"
+      }
+    },
+    {
+      "title": "英伟达丑闻发酵 CFO临危接任",
+      "summary": "围绕英伟达CEO黄仁勋的丑闻持续扩散，公司任命首席财务官 Colette Kress 出任临时CEO。路透社指出，Kress 是公司内部唯一在AI投资方向上与黄仁勋持相反判断的高管。美国财政部长公开将矛头指向内阁同僚，政治层面的连带效应开始显现；BBC 分析称，这一事件已给以商业友好著称的新加坡带来棘手难题。与此同时，AI生成的恶搞表情包在社交平台大量传播，事件从公司治理议题扩散为舆论事件。英伟达是全球AI算力供应链的核心节点，管理层动荡可能影响其资本开支节奏、对外投资策略与客户信心，并波及围绕其构建的整条AI产业链。",
+      "reason": "全球AI龙头管理层突发变动，叠加政治与舆论外溢，牵动整条AI算力产业链信心。",
+      "impact_areas": [
+        "科技",
+        "经济金融",
+        "政治"
+      ],
+      "impact_level": "现象级",
+      "sources": [
+        {
+          "name": "Reuters",
+          "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNWnRLUFljeVFkcXJzT2xiV3lQWnlaMENnaUNHVlZNdWtscEZSVnRIaWZYSERpb0hTVEc2cmVZaEw4Q1FBX3B6VmNvMnhaSm5GV1RvQ2pwNExEazBSNWRRejMyTU5NZU5RXzdhdU5xMDZZUHFWekdwZG9wWEJOeV9HQnVwLTR4b2FXc1FfWDRPVTd2Tm1JVkRCYk5aUjFROWhqR1pRay1oWVFjdnpnSTRHdzd3?oc=5"
+        },
+        {
+          "name": "BBC",
+          "url": "https://www.bbc.co.uk/news/articles/cqvg2d1eg7zro?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "name": "BBC",
+          "url": "https://www.bbc.co.uk/news/articles/ck1exevgql4qo?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "name": "凤凰网",
+          "url": "https://news.ifeng.com/c/8y20ykBYLrL"
+        },
+        {
+          "name": "虎嗅",
+          "url": "https://www.huxiu.com/article/4905530.html"
+        }
+      ],
+      "card": {
+        "category": "科技·芯片",
+        "headline": "英伟达首席财务官临危接任",
+        "what": "围绕黄仁勋的丑闻持续发酵，英伟达任命首席财务官出任临时CEO，事件已从公司治理扩散为舆论话题。",
+        "question": "我买的AI基金要跟着跌吗？",
+        "means": [
+          "AI芯片相关股票短期波动加大",
+          "云厂商算力采购节奏可能放缓"
+        ],
+        "note": "公司治理变动细节以英伟达公告为准。"
+      }
+    },
+    {
+      "title": "美联储调查：AI成金融头号风险",
+      "summary": "美联储最新金融稳定调查显示，人工智能相关风险已跃升至金融系统担忧清单的首位，超过此前长期居前的利率、商业地产与地缘冲突等传统风险项。受访机构主要担忧AI概念资产估值过高、AI交易拥挤度上升，以及少数大型科技公司对指数与市场流动性的高度主导。这一信号意味着，AI已从产业叙事转变为系统性金融风险监测对象，监管层对AI相关集中度、模型同质化交易与估值回调连锁反应的关注将明显上升。对投资者而言，调查结果提示AI板块的拥挤交易特征，一旦预期逆转，波动可能通过指数与被动资金快速放大。",
+      "reason": "官方金融稳定调查首次将AI列为首要风险，是判断AI资产估值与市场拥挤度的关键消息面信号。",
+      "impact_areas": [
+        "经济金融",
+        "科技"
+      ],
+      "impact_level": "重大",
+      "sources": [
+        {
+          "name": "Reuters",
+          "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNa05md1paYmE4WGRIS2pmdGhmS3ZkQUhQdnFNUHNpTURuUmNXc3A1OUNvQkQxamNhUmROd3o4a09ENzhkamVvSlJMUDcyR1FYVW5MOXhid3RjNEtLLVY0NDVTMWlxdGZxYWJ3YVVuRmhRSEQzbDJvSk9VakI2d3lORXZZbFdkdlJHcEpPdmpxOWh5Z1J1UjJQbG96S016ck1MSk1VVzJ4SFliWkhUMng3NEJuYVpEWjQ?oc=5"
+        }
+      ],
+      "card": {
+        "category": "经济·AI风险",
+        "headline": "美联储示警，AI成了头号风险",
+        "what": "美联储最新金融稳定调查显示，AI相关风险升至金融系统担忧首位，超过利率、商业地产与地缘冲突。",
+        "question": "我持有的科技基金风险有多大？",
+        "means": [
+          "AI板块回调时跌幅可能更快",
+          "被动指数基金也会被龙头带偏"
+        ],
+        "note": "调查为机构问卷结果，不构成走势预测。"
+      }
+    },
+    {
+      "title": "星舰尝试首次双捕获回收",
+      "summary": "SpaceX 计划在最新一次试飞中尝试对星舰系统实施“双捕获”，即用发射塔机械臂同时回收超重型助推器与上级飞船。此前该公司已实现对助推器的塔架捕获，但飞船本体的回收仍依赖海上溅落，若此次双捕获成功，将是完全可重复使用运载系统的重要一步。可重复使用是压低单位入轨成本的核心路径，直接决定大规模卫星组网、载人登月与深空货运的经济可行性。该尝试也关系到NASA登月合同进度与全球商业发射市场竞争格局，其结果将影响未来数年航天发射定价与产业链订单分配。",
+      "reason": "若成功将是完全可复用运载系统的关键突破，直接影响发射成本与全球航天产业格局。",
+      "impact_areas": [
+        "科技",
+        "产业"
+      ],
+      "impact_level": "重大",
+      "sources": [
+        {
+          "name": "BBC",
+          "url": "https://www.bbc.co.uk/news/articles/ckregdgnl0xpo?at_medium=RSS&at_campaign=rss"
+        }
+      ],
+      "card": {
+        "category": "科技·航天",
+        "headline": "星舰要试双捕获，火箭全回收",
+        "what": "SpaceX在最新试飞中尝试用发射塔机械臂同时回收助推器与飞船，此前飞船回收仍靠海上溅落。",
+        "question": "发射成本降了，卫星上网会便宜吗？",
+        "means": [
+          "卫星宽带与导航服务或更便宜",
+          "商业航天订单竞争会更激烈"
+        ],
+        "note": "试飞存在失败可能，结果以官方直播为准。"
+      }
+    },
+    {
+      "title": "普京提高和谈条件 欧洲组队",
+      "summary": "围绕乌克兰问题的外交博弈同步推进：俄方在和平条件上进一步提高要价，立场趋于强硬；欧洲方面就参与乌克兰问题谈判达成一致，组建统一的代表团队，以避免在美俄主导的进程中被边缘化。俄外交部同时表示，俄美此前的会晤未讨论欧洲参与乌克兰问题谈判的事宜，显示谈判渠道与参与方安排仍存明显分歧。多重信号叠加意味着，停火谈判的框架、参与方与条件清单尚未定型，欧洲能否取得实质席位取决于其内部协调与对乌援助的持续性。谈判节奏的变化将影响能源价格、欧洲防务开支与相关资产的风险定价。",
+      "reason": "俄方提高要价与欧洲组建谈判团队同步发生，直接决定乌克兰停火进程与欧洲安全格局走向。",
+      "impact_areas": [
+        "地缘",
+        "政治",
+        "经济金融"
+      ],
+      "impact_level": "重大",
+      "sources": [
+        {
+          "name": "BBC",
+          "url": "https://www.bbc.co.uk/news/articles/cq39glwprknjo?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "name": "央视网",
+          "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9XdnN2M0lkbUhObWp3aElvY01JbFlrOVVrelhXeGdHaVZfdS1XVXRYUkRNUTJvcUhfNjFsWkpQdzE3MlVldFQ0QkFrRnMzV3FCeG9VOE9vdXIxTGE1UVdhOUdpajZHck9YNmRzWWZBWC0zWF9FUENIeQ?oc=5"
+        }
+      ],
+      "card": {
+        "category": "地缘·俄乌",
+        "headline": "俄方抬高要价，欧洲组队上谈判桌",
+        "what": "俄方在乌克兰和平条件上进一步提高要价，欧洲就参与谈判达成一致并组建统一代表团队。",
+        "question": "这轮谈判会让油价降下来吗？",
+        "means": [
+          "欧洲防务开支上升带动订单转移",
+          "油价与机票短期还看谈判进展"
+        ],
+        "note": "谈判框架未定，条件清单仍可能反复。"
+      }
+    },
+    {
+      "title": "汽车芯片再度告急 晶圆厂减产",
+      "summary": "汽车芯片供应再度紧张，本轮短缺的成因指向晶圆厂产能分配意愿下降：在AI与高性能计算需求旺盛、车规芯片单价与利润相对偏低的背景下，晶圆厂更倾向将产能转向高毛利产品，车规级芯片排产被挤压。与上一轮缺芯不同，此次瓶颈更多来自供给端的结构性选择，而非单纯需求激增。影响将沿产业链传导：车企面临减产与交付延期风险，车规芯片现货价格与交期可能再度走高， Tier1 供应商的议价能力与库存策略被迫调整。中长期看，车企与芯片厂的直接绑定、车规产能的长期锁定协议与本土化供应将成为行业标配动作。",
+      "reason": "车规芯片供给再现结构性缺口，直接影响车企排产与交付，是产业链供需格局变化的重要信号。",
+      "impact_areas": [
+        "产业",
+        "科技",
+        "经济金融"
+      ],
+      "impact_level": "重大",
+      "sources": [
+        {
+          "name": "虎嗅",
+          "url": "https://www.huxiu.com/article/4905532.html"
+        }
+      ],
+      "card": {
+        "category": "产业·芯片",
+        "headline": "晶圆厂转做AI芯片，车规芯又缺了",
+        "what": "AI与高性能计算需求旺盛，晶圆厂把产能转向高毛利产品，车规芯片排产被挤压，供应再度紧张。",
+        "question": "我订的新车会不会又推迟交付？",
+        "means": [
+          "提车周期可能拉长，优惠缩水",
+          "车企或与芯片厂签长期锁量协议"
+        ],
+        "note": "短缺程度因车型而异，以车企通知为准。"
+      }
+    },
+    {
+      "title": "腾讯传裁员50%引发刷屏",
+      "summary": "关于腾讯裁减半数人员的说法在社交平台迅速刷屏，引发互联网从业者与求职群体的广泛讨论。相关分析指出，此类传闻之所以形成巨大传播量，反映的是互联网行业用工收缩、组织瘦身与AI替代焦虑叠加下的普遍情绪。作为中国互联网头部企业，腾讯的人员与组织调整具有强烈的行业风向标意义，其招聘规模、业务取舍与人力成本变化，会传导至上下游服务商、外包团队与相关岗位的薪酬预期。对普通从业者而言，此类消息直接关系到行业岗位供给、职业稳定性与转岗方向选择，值得持续跟踪公司层面的正式披露与后续组织调整动向。",
+      "reason": "互联网龙头用工传闻牵动行业岗位供给与就业预期，与普通职场人群切身相关。",
+      "impact_areas": [
+        "社会",
+        "产业",
+        "科技"
+      ],
+      "impact_level": "重大",
+      "sources": [
+        {
+          "name": "虎嗅",
+          "url": "https://www.huxiu.com/article/4905537.html"
+        }
+      ],
+      "card": {
+        "category": "社会·就业",
+        "headline": "腾讯裁员传闻刷屏，官方未证实",
+        "what": "关于腾讯裁减半数人员的说法在社交平台刷屏，引发从业者对行业用工收缩与AI替代的讨论。",
+        "question": "互联网的岗位还会继续变少吗？",
+        "means": [
+          "跳槽谈薪的筹码可能变少",
+          "外包与上下游团队先受波及"
+        ],
+        "note": "传闻尚待公司正式披露，勿据此决策。"
+      }
+    },
+    {
+      "title": "新疆库车发生5.0级地震",
+      "summary": "新疆阿克苏地区库车市发生5.0级地震，震中位于南天山地震带附近，该区域构造活动较为活跃。地震发生后，当地居民在社交平台反映明显震感，城区高层建筑与周边乡镇的震感范围成为关注焦点。5.0级地震通常可造成震中附近房屋墙体开裂、老旧建筑受损以及山区道路落石等次生风险，具体人员伤亡与财产损失情况需以官方通报为准。当地应急、消防与地震监测部门已进入响应状态。此类事件提醒，西部地震多发区在房屋抗震设防、农村自建房加固与应急疏散演练方面仍需持续投入，居民也需关注权威渠道发布的地震信息。",
+      "reason": "5.0级地震直接影响震区居民安全与房屋设施，属与居住安全直接相关的民生事件。",
+      "impact_areas": [
+        "社会",
+        "生态"
+      ],
+      "impact_level": "重大",
+      "sources": [
+        {
+          "name": "凤凰网",
+          "url": "https://news.ifeng.com/c/8y20ykBYLrV"
+        }
+      ],
+      "card": {
+        "category": "社会·地震",
+        "headline": "新疆库车5.0级地震，震感明显",
+        "what": "新疆阿克苏地区库车市发生5.0级地震，震中位于南天山地震带附近，当地居民反映震感明显。",
+        "question": "我家老房子的抗震够不够？",
+        "means": [
+          "西部自建房加固需求会增加",
+          "高层住户最好先备应急包"
+        ],
+        "note": "伤亡与财产损失情况以官方通报为准。"
+      }
+    },
+    {
+      "title": "王毅会见韩外长与美方代表",
+      "summary": "王毅分别同韩国外长赵显，以及出席2026中美政党对话的美方代表举行会谈会见。与韩方的会晤聚焦双边关系与地区局势，涉及经贸往来、半岛形势等议题；与美方代表的会见则通过政党对话渠道展开，属于两国在官方外交之外保持沟通的重要机制安排。在地区安全与经济摩擦并存的背景下，此类多渠道接触有助于稳定预期、减少误判，为更高层级的互动积累条件。中美、中韩关系的边际变化会直接影响外贸订单、人员往来、留学与旅游等具体领域，也是观察后续关税、出口管制与供应链政策走向的先行信号。",
+      "reason": "中美政党对话与中韩外长会谈同日进行，是观察双边关系与地区政策走向的重要外交信号。",
+      "impact_areas": [
+        "地缘",
+        "政治",
+        "经济金融"
+      ],
+      "impact_level": "重大",
+      "sources": [
+        {
+          "name": "凤凰网",
+          "url": "https://news.ifeng.com/c/8y20liUWuRL"
+        }
+      ],
+      "card": {
+        "category": "地缘·外交",
+        "headline": "王毅同日会见韩外长与美方代表",
+        "what": "王毅分别同韩国外长赵显、出席2026中美政党对话的美方代表会见，谈及双边关系与地区局势。",
+        "question": "中美关系缓和，海淘会便宜点吗？",
+        "means": [
+          "外贸订单与关税预期可能趋稳",
+          "留学旅游签证流程或更顺畅"
+        ],
+        "note": "接触属沟通机制，实质政策仍待观察。"
+      }
+    }
+  ],
+  "total_fetched": 145,
+  "generated_at": "2026-11-14T07:26:42.230192+08:00"
+}
