@@ -2,45 +2,149 @@
   "date": "2026-11-16",
   "news": [
     {
-      "title": "中俄美元首将在深圳APEC会晤",
-      "summary": "2026年亚太经合组织（APEC）领导人非正式会议在深圳举行。中国外交部宣布，习近平将同俄罗斯总统普京、美国总统特朗普举行中俄美元首会晤，这是三国领导人首次在APEC框架下举行三方会晤。本届APEC有12位经济体领导人出席工商领导人峰会，深圳以'中国时间'进入核心议程。三方互动将直接牵动中美俄关系走向、全球贸易与供应链格局，其成果对国际秩序演进具有中长期影响。",
-      "reason": "中美俄三国领导人首次在APEC框架下举行三方会晤，牵动全球地缘与贸易格局，属全网破圈级事件",
+      "title": "黄仁勋辞职引发AI产业震荡",
+      "summary": "英伟达创始人黄仁勋主动辞职后，相关风波持续发酵。截至11月16日，要求其复职的联署签名已超16万人次，美国国会对黄仁勋辞职背景及潜在中国关联的质疑并未减弱。市场层面，AI基础设施相关股票市值已蒸发约4.2万亿美元，外界开始讨论AI基建投资是否见顶，A股算力产业链随之波动。马斯克一边公开挽留黄仁勋，一边加快自研芯片布局。事件凸显英伟达在全球AI算力供应链中的核心地位，也显示其掌舵者的人事变动会迅速外溢至资本市场，牵动全球科技股与算力投资预期。",
+      "reason": "多平台连续多日发酵，直指全球AI算力格局与资本市场，是当日最受关注事件。",
       "impact_areas": [
-        "地缘",
-        "政治",
+        "科技",
         "经济金融"
       ],
       "impact_level": "现象级",
       "sources": [
         {
           "name": "财新网",
-          "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBBQVR4d3lGWGhEM2Rta0wwQ0cxTjVXbm1vWENhVXFiZWRtcUJLSXpJTGpkdkF4V1l6YW05TXFJRGg0RUlQWmF4c0NhaTMwSjdCUjNET2x4aU9MbVIyQ2x1amR3MXJnUDVGUEE?oc=5"
+          "url": "https://opinion.caixin.com/2026-11-16/102505317.html"
         },
         {
           "name": "凤凰网",
-          "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBFV3VYMFc3dk1DLVJONXJzbGNnT2lwTVVtVHc0X2FncDhZQzBWa21RM21sNnhVMXgydVNwVGR5eUJRSlRxS2NDNnlyN1FjN3hRSGc?oc=5"
+          "url": "https://news.ifeng.com/c/8y6Xhr1Szvr"
         },
         {
-          "name": "央视网",
-          "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFByLWYxNTVKdW90NHZDMGtjNF9LME1ObGhSZEFzSm1GU0RqM1FtVEV5bzlZb3hIRmsycGtiZ0RuYjZZY2d4RnNOTldZXzJRMFFxNEMyaF94Vi14TUV1RXNqTkx6RUM3X1RxRHY2SXBXS2F0bzJMWUlYTQ?oc=5"
+          "name": "虎嗅",
+          "url": "https://www.huxiu.com/article/4906005.html"
+        },
+        {
+          "name": "财新网",
+          "url": "https://www.caixin.com/2026-11-16/102505215.html"
         }
       ],
       "card": {
-        "category": "地缘·外交",
-        "headline": "中美俄元首将在深圳会晤",
-        "what": "2026年APEC领导人非正式会议在深圳举行，外交部宣布习近平将与普京、特朗普举行中俄美元首会晤，系三国领导人首次在APEC框架下三方会晤。",
-        "question": "这事会影响我的工作和钱包吗？",
+        "category": "科技·AI",
+        "headline": "黄仁勋辞职，AI市值蒸发4万亿",
+        "what": "英伟达创始人黄仁勋主动辞职后，风波持续发酵。截至11月16日，要求其复职的联署签名已超16万人次，美国国会质疑未减。",
+        "question": "我的科技基金要跟着跌吗？",
         "means": [
-          "外贸、跨境电商订单可能随之波动",
-          "进口商品和出国机票价格或受牵动"
+          "算力相关基金短期波动会加大",
+          "AI芯片供应链岗位需求或受牵动"
         ],
-        "note": "会晤具体成果以官方通稿为准，不必提前下判断。"
+        "note": "接任者与调查进展未明，勿据传闻操作。"
       }
     },
     {
-      "title": "10月社零增速放缓至0.4%",
-      "summary": "国家统计局数据显示，10月社会消费品零售总额同比仅增长0.4%，明显低于市场预期，增速继续放缓。统计局同时表示，实现全年预期目标有支撑也有条件，消费价格温和上涨态势不会改变。社零持续走弱反映居民消费意愿与能力偏弱，对零售、服务消费及内需修复构成压力，也加大了稳增长政策进一步发力的预期。",
-      "reason": "核心内需数据大幅低于预期，直接指向消费疲弱与政策走向，是金融投资的重要先行信号",
+      "title": "美军三个航母打击群集结中东",
+      "summary": "随着罗斯福号航母抵达，美军在中东已集结三个航空母舰打击群，为本轮美伊紧张局势以来最大规模兵力部署。与此同时，美伊能否达成协议仍不明朗，市场对谈判前景存疑，新兴市场债券与汇率承压。伊朗方面称已捕获一架美军MQM-170无人机，遇害核科学家之子公开谈及伊朗核能力问题。美方此前对伊朗导弹设施实施空袭，环境学者质疑其真实动机。军事集结与外交博弈叠加，令中东地缘风险显著上升，牵动全球能源供给与航运通道安全。",
+      "reason": "多源密集报道，美军最大规模兵力集结，直接冲击全球能源与地缘格局。",
+      "impact_areas": [
+        "地缘",
+        "政治"
+      ],
+      "impact_level": "现象级",
+      "sources": [
+        {
+          "name": "央视网",
+          "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1BY0xuc3I4Q2hzQ1k4SGJZS0dXNHlIbXFWaXlILXJhc3JEb2ROeElEZ3FZYnN0Z0YycDJsVXJqVy1NTG1qbW45Z3VKdW41a0RtNzNaNkd6OWFvWUtqZ2hsVzN6RlZrOXBabzhIam1INUlSS0xmdFlWMQ?oc=5"
+        },
+        {
+          "name": "凤凰网",
+          "url": "https://news.ifeng.com/c/8y6T54pP9It"
+        },
+        {
+          "name": "纽约时报",
+          "url": "https://www.nytimes.com/2026/11/16/world/europe/iran-dams-missile-sites-environmentalists.html"
+        }
+      ],
+      "card": {
+        "category": "地缘·能源",
+        "headline": "美军三个航母群集结中东",
+        "what": "随着罗斯福号航母抵达，美军在中东已集结三个航母打击群，为本轮美伊紧张局势以来最大规模部署。美伊能否达成协议仍不明朗。",
+        "question": "油价机票会跟着涨吗？",
+        "means": [
+          "加油和出国机票可能更贵",
+          "航运绕行会推高进口商品成本"
+        ],
+        "note": "局势仍在变化，以官方通报与市场实际反应为准。"
+      }
+    },
+    {
+      "title": "APEC落子深圳，亚太接口成形",
+      "summary": "APEC相关活动落址深圳，这座以创新崛起的城市被定位为亚太多元经济体的接口。多家媒体推出系列报道，关注深圳在十五五规划与亚太合作中的角色，以及其连接亚太新兴市场的能力。分析认为，选择深圳凸显中国以科技与开放链接亚太的战略意图，深圳有望在贸易、投资与创新合作中承担枢纽功能。相关活动也带动本地文旅与消费，被视为城市能级与国际影响力的一次系统性提升。",
+      "reason": "多源密集报道，是中国区域开放与亚太合作格局的重要信号。",
+      "impact_areas": [
+        "政治",
+        "经济"
+      ],
+      "impact_level": "重大",
+      "sources": [
+        {
+          "name": "澎湃新闻",
+          "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1Vbm9ITzlvVU1ndmpKeHBEa1c1c1FpMUIyY3ZmQ1NyaHFyckdLRVM2RWxLcHczX3VPSDRRelFrSy15bDBYMlpYSHFhWXEwOHMwclVJeVAtT2h6Mm5GUi13RQ?oc=5"
+        },
+        {
+          "name": "南方周末",
+          "url": "https://www.infzm.com/contents/344986"
+        },
+        {
+          "name": "央视网",
+          "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE4zMjZyNUl6UzloSmZjcFFtMDlkZWNJcDlvNzQtVDJ5TjBEMS10S2VxU1Z0VTA2Z2lRTTdISnJ6WHlqUktvaGxydU1sSzVnRFRBVjZhSjlLQzB6cjdMRW9zTDdwVERCWWpPVEFqSUJ0N3ZnLXdsZ1dZQw?oc=5"
+        }
+      ],
+      "card": {
+        "category": "政策·开放",
+        "headline": "APEC落址深圳，亚太接口成形",
+        "what": "APEC相关活动落址深圳，这座城市被定位为亚太多元经济体的接口。多家媒体关注深圳在十五五规划与亚太合作中的角色。",
+        "question": "深圳的机会和我有什么关系？",
+        "means": [
+          "外贸和跨境电商岗位或增多",
+          "本地文旅消费短期更热闹"
+        ],
+        "note": "具体活动安排与配套政策以官方发布为准。"
+      }
+    },
+    {
+      "title": "中国原油进口罕见大降15%",
+      "summary": "二十多年来首次，中国原油进口量同比大幅下降15%，引发市场对全球最大原油进口国需求走弱的担忧。分析指出，进口骤降与国内成品油需求见顶、电动化替代加速及炼厂开工调整等因素叠加，反映出中国能源消费结构正在发生深层变化。作为全球原油需求的主要增量来源，中国进口收缩可能压制国际油价，并重塑全球炼化与贸易流向。同日美国柴油零售价两个月来首次跌破6美元/加仑，进一步印证石油需求端走弱的迹象。",
+      "reason": "二十余年首次的供需极值信号，牵动全球油价与能源贸易格局。",
+      "impact_areas": [
+        "经济金融",
+        "能源"
+      ],
+      "impact_level": "重大",
+      "sources": [
+        {
+          "name": "虎嗅",
+          "url": "https://www.huxiu.com/article/4906023.html"
+        },
+        {
+          "name": "36氪",
+          "url": "https://www.36kr.com/newsflashes/4072270446105731"
+        }
+      ],
+      "card": {
+        "category": "经济·能源",
+        "headline": "中国原油进口降15%，油价承压",
+        "what": "二十多年来首次，中国原油进口量同比下降15%，市场担忧需求走弱。背后是成品油需求见顶、电动化替代加速等因素叠加。",
+        "question": "国内油价会跟着降吗？",
+        "means": [
+          "加油成本短期有望更便宜",
+          "炼化行业岗位和利润或承压"
+        ],
+        "note": "油价还受地缘与减产政策影响，别只看进口数据。"
+      }
+    },
+    {
+      "title": "前10月投资降幅扩大至8.1%",
+      "summary": "国家统计局数据显示，1-10月固定资产投资降幅扩大至8.1%，统计局称投资对优化供给的关键作用依然突出。10月国民经济数据显示，供给端保持稳增长、消费有所回暖，但投资端持续走弱，新动能对工业增长的贡献超过五成。数据折射出在房地产调整、地方财力约束下，传统投资拉动模式承压，经济结构正加速向创新与消费驱动转型。市场关注后续稳投资政策力度及其对明年增长的托底作用。",
+      "reason": "关键经济数据异动，投资持续走弱影响宏观预期与政策走向。",
       "impact_areas": [
         "经济金融"
       ],
@@ -48,89 +152,69 @@
       "sources": [
         {
           "name": "财新网",
-          "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9ELUFkMlhBUkM4ZG5WNk42QzBWdFFQOGVpZnVXZGs5V05ickdHdjBzZkNwQmdBeGgyNGhmZTZ1MzN6Z09Rako0cVhaQ3hkaVRWVzhBZTRfcm90dTIwQnBWeWRn?oc=5"
+          "url": "https://economy.caixin.com/2026-11-16/102505227.html"
+        },
+        {
+          "name": "央视网",
+          "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1KcnhRTEdTSFV3VG5xQmhHSFRaU2MwUTJ3X01nb19ic0d5LWVnN0ZETkVBaUo0QXhTMlNIaHJUTHM1ZmlWU21iLXJQSDJlRXNsSUZQaFNHS0xQbzdyNkRtMEZ5eWxxZE1EazlUOFlWMklmbF9XLU1kbA?oc=5"
         }
       ],
       "card": {
-        "category": "经济·消费",
-        "headline": "十月消费增速仅0.4%",
-        "what": "国家统计局数据显示，10月社会消费品零售总额同比仅增0.4%，低于市场预期，增速继续放缓；统计局称全年目标实现有支撑有条件。",
-        "question": "我的消费补贴还会有吗？",
+        "category": "经济·投资",
+        "headline": "投资降幅扩大到8.1%，结构在变",
+        "what": "国家统计局数据显示，1-10月固定资产投资降幅扩大至8.1%，10月消费有所回暖，但投资端持续走弱，新动能对工业增长贡献超五成。",
+        "question": "工作机会会变少吗？",
         "means": [
-          "商场、餐饮的促销力度可能更大",
-          "零售门店生意和相关岗位或受挤压"
+          "基建地产相关岗位需求偏弱",
+          "消费与创新行业机会相对更多"
         ],
-        "note": "后续稳增长政策的力度与节奏仍待观察。"
+        "note": "后续稳投资政策力度是关键，等官方数据再判断。"
       }
     },
     {
-      "title": "星舰首次成功回收轨道飞船",
-      "summary": "SpaceX的星舰飞船在执行轨道任务后首次成功返回并被回收，标志着可重复使用重型运载技术取得关键突破。同期，联合发射联盟（ULA）的'火神'火箭复飞失败，导致约40颗亚马逊'柯伊伯'互联网卫星损失。两次结果形成鲜明对照，凸显SpaceX在商业航天成本与可靠性上的领先。星舰成熟将加速星链组网与深空运输商业化，重塑全球航天发射市场格局。",
-      "reason": "重型可复用火箭首次实现轨道回收，是航天技术的历史性突破，影响全球发射市场与深空商业格局",
+      "title": "10月70城二手房价仅7城上涨",
+      "summary": "国家统计局数据显示，10月70个大中城市二手住宅价格环比上涨城市降至7个，多数城市房价继续下行。尽管上海等地改善性需求带动二手房成交回暖，但成交回升未能传导至价格企稳。分析认为，在挂牌量高企、购房者预期偏弱背景下，楼市以价换量特征明显，房价止跌仍需政策与信心修复。该数据直接影响居民资产价值判断与购房决策，是观察房地产市场走向的关键指标。",
+      "reason": "楼市关键数据，上涨城市锐减，直接影响居民资产与购房决策。",
       "impact_areas": [
-        "科技",
-        "产业"
+        "经济金融",
+        "房地产"
       ],
       "impact_level": "重大",
       "sources": [
         {
-          "name": "财新数据",
-          "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1sYngzRTlPcTl4S05iNzNWeHFVWEhsZ2hwd2h4dkl1MHJrNFJDTkFnMUVFRThmZUswbjZGNW1iUWNKeU5zY251YWZUNFk5UG11R1JONDVGQVV3NXoxYTl1clVVaw?oc=5"
+          "name": "财新网",
+          "url": "https://www.caixin.com/2026-11-16/102505339.html"
         },
         {
           "name": "财新网",
-          "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFA2Q3ExbXZBbEtzUlp1aGhmMVVXUHBBUHpxMjNVS0xYQVV4N3MyTk1iM05XMEdpNkpIcHMwZUY5UUh2NmFjX1l1LUJ0NnRVUzFvd2plSjUzTm9mNEdPc2p3T3RhbjE?oc=5"
+          "url": "https://database.caixin.com/2026-11-16/102505413.html"
         }
       ],
       "card": {
-        "category": "科技·航天",
-        "headline": "星舰首次成功回收轨道飞船",
-        "what": "SpaceX星舰完成轨道任务后首次成功返回并回收，可复用重型运载技术取得突破；同期ULA火神火箭复飞失败，约40颗亚马逊卫星损失。",
-        "question": "火箭回收跟我生活有关吗？",
+        "category": "经济·楼市",
+        "headline": "70城二手房价，只有7城在涨",
+        "what": "国家统计局数据显示，10月70个大中城市二手住宅价格环比上涨城市降至7个，多数城市房价继续下行。上海等地成交回暖，价格却未企稳。",
+        "question": "我的房子还要跌多少？",
         "means": [
-          "卫星上网的费用未来可能更便宜",
-          "商业航天相关岗位和投资或增多"
+          "想卖房的话，议价空间更大",
+          "刚需换房可慢慢挑、多比价"
         ],
-        "note": "技术成熟还需多次验证，别把一次成功当定局。"
+        "note": "各城市分化明显，具体成交价以当地实际为准。"
       }
     },
     {
-      "title": "华为鸿蒙终端设备超1亿台",
-      "summary": "华为宣布鸿蒙（HarmonyOS）终端设备数突破1亿台，生态建设迈过关键规模门槛。此前华为小艺AI会员上线，小艺Work订阅用户可0元升级。设备规模破亿意味着国产操作系统在手机、平板、车机、IoT等多终端的生态协同进入新阶段，对安卓、iOS构成实质竞争，也将带动鸿蒙原生应用与AI服务的产业链机会。",
-      "reason": "国产操作系统生态迈过亿级规模门槛，对全球移动操作系统格局与国产产业链意义重大",
+      "title": "金价创年内新低，或再跌超10%",
+      "summary": "国际金价连日下跌，并创下年内新低，国内金饰消费端出现抢着买的现象。专家提示，金价后市或仍有超10%的下行空间。本轮金价回调与美元走强、避险需求降温及前期涨幅过大后的获利了结有关。对普通投资者而言，金价走低直接影响实物黄金、黄金ETF及挂钩理财产品的收益表现，抄底需谨慎评估风险。作为重要避险资产，黄金价格趋势也是观察全球流动性与风险偏好的关键信号。",
+      "reason": "金价创年内新低，兼具消息面极值信号与民生投资影响。",
       "impact_areas": [
-        "科技",
-        "产业"
+        "经济金融"
       ],
       "impact_level": "重大",
       "sources": [
         {
-          "name": "36氪",
-          "url": "https://www.36kr.com/newsflashes/4071833215488897"
-        }
-      ],
-      "card": {
-        "category": "科技·终端",
-        "headline": "鸿蒙设备数突破一亿台",
-        "what": "华为宣布鸿蒙终端设备数突破1亿台，生态迈过关键规模门槛；此前小艺AI会员上线，Work订阅用户可0元升级。",
-        "question": "我要不要换一台鸿蒙手机？",
-        "means": [
-          "常用App的鸿蒙版会越来越多",
-          "换机时多了一个系统可选"
-        ],
-        "note": "各软件适配程度不一，换机前先查常用App。"
-      }
-    },
-    {
-      "title": "金价连日下跌 消费者抢购",
-      "summary": "受市场对美国利率路径预期变化影响，国际金价连日下跌，国内出现消费者趁低抢购黄金的现象。此前国内头部券商研判，预期2027年金价有望震荡上行。金价回调既影响居民黄金首饰、投资金条的购买成本，也牵动黄金ETF、金矿股等资产表现。作为避险与通胀对冲资产，金价走势与美联储表态、美元指数高度联动，需持续跟踪。",
-      "reason": "黄金价格异动直接关系居民消费与资产配置，属价格类信号且贴近民生",
-      "impact_areas": [
-        "经济金融",
-        "社会"
-      ],
-      "impact_level": "重大",
-      "sources": [
+          "name": "凤凰网",
+          "url": "https://news.ifeng.com/c/8y6S3zEhaWC"
+        },
         {
           "name": "澎湃新闻",
           "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9vTTlwbW8yNEJfcll4a0xUUkxWTWFQbWNLOHlhT2dMMWlfOU04VW5SSHk0NU53a1hWbHhhUDBHWGVmUDZfR2l4cmZneDA3MVlna3A1V2lWS2czdVlwenEtMw?oc=5"
@@ -138,20 +222,20 @@
       ],
       "card": {
         "category": "经济·黄金",
-        "headline": "金价连跌，金店排起长队",
-        "what": "受美国利率路径预期变化影响，国际金价连日下跌，国内出现消费者趁低抢购黄金；此前有券商研判2027年金价或震荡上行。",
-        "question": "现在抄底买金合适吗？",
+        "headline": "金价跌到年内新低，别急着抄底",
+        "what": "国际金价连日下跌，创下年内新低，国内金饰消费出现抢买现象。专家提示，后市或仍有超10%的下行空间。",
+        "question": "现在买金饰会被套住吗？",
         "means": [
-          "金饰、金条入手成本比上月低",
-          "持有黄金ETF的人账面短期缩水"
+          "金饰和金ETF短期可能继续亏",
+          "结婚买金可分批、别一次买完"
         ],
-        "note": "金价与美联储表态高度联动，短期波动难判断。"
+        "note": "金价受美元与避险情绪影响，专家预测不等于结果。"
       }
     },
     {
-      "title": "铜价跌至四个月低点",
-      "summary": "受科技股重挫及需求前景蒙阴影响，铜价跌至四个月低点。铜价素有'铜博士'之称，被视为宏观经济的先行指标，其走弱反映市场对全球制造业景气与AI相关电力、数据中心需求前景的担忧升温。同日A股三大指数午间集体下跌，半日主力资金转向电器、银行等防御板块，显示风险偏好回落。",
-      "reason": "铜价创四个月新低，反映宏观与AI需求预期转弱，是关键大宗商品价格信号",
+      "title": "稀土企业利润激增，板块剧震",
+      "summary": "受供给端配额约束影响，中国主要稀土企业利润大幅增长。中国稀土复牌后股价在涨停与炸板间反复震荡，显示资金博弈激烈。稀土作为战略性资源，其供给管控持续强化，叠加新能源、军工等下游需求，价格与盈利中枢上移。分析认为，供给配额政策强化了中国在全球稀土定价中的话语权，但也可能促使海外加快供应链多元化。稀土板块的高波动，反映出市场对政策与供需格局变化的高度敏感。",
+      "reason": "供给约束推动稀土利润激增，是关乎战略资源定价权与产业链格局的信号。",
       "impact_areas": [
         "经济金融",
         "产业"
@@ -159,140 +243,85 @@
       "impact_level": "重大",
       "sources": [
         {
-          "name": "36氪",
-          "url": "https://www.36kr.com/newsflashes/4071920730543232"
-        }
-      ],
-      "card": {
-        "category": "经济·大宗",
-        "headline": "铜价跌到四个月低点",
-        "what": "受科技股重挫和需求前景转弱影响，铜价跌至四个月低点；同日A股三大指数午间集体下跌，主力资金转向电器、银行等防御板块。",
-        "question": "铜价跌了，啥东西会便宜？",
-        "means": [
-          "家电、装修材料价格压力或缓解",
-          "资源类和AI相关股票波动加大"
-        ],
-        "note": "铜价也受库存与政策影响，单日走势不代表趋势。"
-      }
-    },
-    {
-      "title": "英伟达收紧AI企业资金支持",
-      "summary": "英伟达被指收紧对AI企业的资金与算力支持，昔日'提款机'时代或将终结；美联储亦开始关注AI融资风险，市场担忧显著升温，软银AI投资的债务压力同步受到关注。一系列信号显示，AI热潮背后的杠杆与融资结构正在积聚风险，若资金端收紧，可能对AI初创企业估值与算力扩张节奏形成约束，并外溢至资本市场。",
-      "reason": "AI融资链风险集中显现，涉及英伟达、美联储、软银，关乎AI产业估值与金融稳定",
-      "impact_areas": [
-        "科技",
-        "经济金融"
-      ],
-      "impact_level": "重大",
-      "sources": [
-        {
-          "name": "36氪",
-          "url": "https://www.36kr.com/newsflashes/4071847719408518"
+          "name": "路透社",
+          "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPNWE0c2x0ZU5WRUdQZGxCSXFfQU5lenV4TGtPTE9yT3R3WlJvRnE5dlBabzZMTklhZHhSTWpxV2RjLVlSN0gtWkZKN25EMzFfWEVLZzlPVkFtbkdEZnFtM1NZMVFvMVJoN01sS01hOEU2VC1iMl9mdXlRYzNreGhKMzV0TmlRSVJiUmVNaTJqMzI3YWE2QzVMTkN6ZmtHNzd0OEZRaQ?oc=5"
         },
         {
-          "name": "财新数据",
-          "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE15OXlBSkxwUGVaRzNVUE03dUgwSUZEX1FLSWwxSjZvOXozbVRWRl9Ob1ZUUk9ldEl2RmxLQy1iQVhvekVDaU1vdGthWndoY05sa0xtWUY0dDd2WTF1MFNlTG13Zw?oc=5"
+          "name": "澎湃新闻",
+          "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1jaEZGQk1UYXR0Y1VfdFFZbTl3akk5UDBoTkhEd0NGSmNFekl4bl90RU1ZaDlTVWwxU0FXbDNLQTZUVkREX28yd19qZGtsOTJFOWFOMTFRUlBaMUlVSzg5RQ?oc=5"
         }
       ],
       "card": {
-        "category": "科技·AI",
-        "headline": "英伟达不再当AI提款机",
-        "what": "有消息称英伟达收紧对AI企业的资金与算力支持，美联储开始关注AI融资风险，软银AI投资带来的债务压力也受到关注。",
-        "question": "AI泡沫会砸到我的股票吗？",
+        "category": "产业·稀土",
+        "headline": "稀土企业利润大增，股价剧震",
+        "what": "受供给端配额约束影响，中国主要稀土企业利润大幅增长。中国稀土复牌后股价在涨停与炸板间反复震荡，资金博弈激烈。",
+        "question": "稀土板块现在还能追吗？",
         "means": [
-          "AI概念股的波动可能明显加大",
-          "AI创业公司的融资招聘或收紧"
+          "相关基金波动大，仓位别太重",
+          "新能源车与电机成本可能上行"
         ],
-        "note": "相关说法多为市场消息，尚待公司与监管确认。"
+        "note": "配额与价格政策仍有变数，海外替代也在推进。"
       }
     },
     {
-      "title": "中国-东盟自贸区3.0将生效",
-      "summary": "中国-东盟自贸区3.0版升级议定书将于2026年12月1日正式生效，双方同时宣布将2027年定为'中国-东盟人工智能合作年'。这意味着区域经贸规则与数字经济、AI合作同步升级，将进一步降低关税与非关税壁垒，扩大数字贸易与产业链协同。在中国外贸承压背景下，东盟作为第一大贸易伙伴的地位有望进一步巩固。",
-      "reason": "区域自贸升级与AI合作年同步落地，直接扩大中国与东盟的贸易与数字产业链合作",
+      "title": "美国航空系统故障致大面积停飞",
+      "summary": "美国航空系统因线缆故障等原因出现严重中断，导致全美航班大面积停飞，停飞时长约4小时21分钟。经连日抢修与航班调整，官方预计系统将于周一恢复正常。事件暴露出美国航空基础设施老化与冗余不足，一根线缆即可令全国空运瘫痪，引发对关键基础设施韧性的广泛讨论。对旅客而言，大规模航班取消与延误造成出行受阻与经济损失，也促使监管机构重新审视空管系统的现代化与备份能力。",
+      "reason": "关键基础设施故障致全美空运瘫痪，引发对基建韧性的广泛关注。",
       "impact_areas": [
-        "经济金融",
+        "社会",
         "科技"
       ],
       "impact_level": "重大",
       "sources": [
         {
-          "name": "36氪",
-          "url": "https://www.36kr.com/newsflashes/4071907455685769"
+          "name": "路透社",
+          "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOSC1Vbm9ZWDVxQWFoSHk3aWN6WXpKVG1vNkRBWEktdnIzUGU0V0lfQWVySGZCNEROMDhHelRDVkhscDV2cm9qVXU4Ty1kYklOWi1hTXJ6b2JVc1ZSMk0tY3FBMGxzQ2M1aGpNbmZ5RC1JVVFqNXZtbFBtTFAxV0xQRkpBbXJmN2pQYjZpdkFIREpNMjF4NmVOVDRn?oc=5"
         },
         {
-          "name": "36氪",
-          "url": "https://www.36kr.com/newsflashes/4071907873870984"
+          "name": "虎嗅",
+          "url": "https://www.huxiu.com/article/4906002.html"
         }
       ],
       "card": {
-        "category": "经济·外贸",
-        "headline": "东盟自贸区3.0下月生效",
-        "what": "中国-东盟自贸区3.0版升级议定书将于2026年12月1日生效，双方同时宣布2027年为《中国-东盟人工智能合作年》。",
-        "question": "东盟进口货会更便宜吗？",
+        "category": "社会·出行",
+        "headline": "一根线缆，让全美航班停飞4小时",
+        "what": "美国航空系统因线缆故障等原因严重中断，全美航班大面积停飞约4小时21分钟。官方预计系统将于周一恢复正常。",
+        "question": "我飞美国的航班会延误吗？",
         "means": [
-          "东南亚水果、日用品关税再降",
-          "外贸和跨境电商岗位机会变多"
+          "近期赴美转机要留足时间",
+          "出差改签的额外费用要留凭证"
         ],
-        "note": "具体降税清单以官方公布的文本为准。"
+        "note": "系统恢复进度以航空公司通知与官方通报为准。"
       }
     },
     {
-      "title": "胡塞武装控制红海关键航道",
-      "summary": "也门政府军及沙特支持的武装从红海关键水道撤退，胡塞武装取得该要冲控制权。该水域紧邻曼德海峡，是全球能源运输与集装箱货运的咽喉。控制权易手可能加剧红海航运安全风险，推高绕行好望角的运输成本与油价波动，对欧洲、亚洲间供应链构成新的扰动。",
-      "reason": "曼德海峡要冲易手，直接威胁红海航运与能源通道安全，冲击全球供应链",
+      "title": "医保创新药'入院难'待破解",
+      "summary": "多部门联动出台措施，着力破解创新药进入医保后入院难的问题。此前不少创新药虽通过谈判纳入医保目录，却因医院药占比考核、药品配备目录限制等因素难以进入医院并惠及患者。相关部门推动医疗机构应配尽配、优化考核，打通从医保准入到临床使用的最后一公里。这一进展关系到患者能否以可负担价格用上新药，也影响创新药企的放量预期与研发回报，是医保改革落地的关键环节。",
+      "reason": "医保惠民政策落地，直接影响患者用药可及性与创新药企回报。",
       "impact_areas": [
-        "地缘",
-        "经济金融"
+        "公共卫生",
+        "民生"
       ],
       "impact_level": "重大",
       "sources": [
         {
-          "name": "BBC",
-          "url": "https://www.bbc.co.uk/news/articles/cqvg2xgyvnjpo?at_medium=RSS&at_campaign=rss"
+          "name": "央视网",
+          "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBqLWdYRmVlN05tYmYzSFQwVklRbi11dVZ6c2tYNVM5TTNZcWN6NWVxMldSTy1jTURQQThrdnR2RkpWWEJKREZ1UXRodEhTOG4xQWkxV3Rqa0l1Y2VuMGZGWXIyYWxHSzh0dXhTdmExX20wQVdwQTQ2TQ?oc=5"
         }
       ],
       "card": {
-        "category": "地缘·航运",
-        "headline": "胡塞武装控制红海关键航道",
-        "what": "也门政府军及沙特支持的武装从红海关键水道撤退，胡塞武装取得这一要冲控制权，该水域紧邻曼德海峡，是能源与集装箱运输咽喉。",
-        "question": "海淘和油价会跟着涨吗？",
+        "category": "民生·医保",
+        "headline": "创新药进医保，却难进医院",
+        "what": "多部门联动出台措施，破解创新药进医保后入院难。此前不少创新药通过谈判纳入医保目录，却因药占比考核、配备目录限制难进医院。",
+        "question": "我用新药还要自己掏钱吗？",
         "means": [
-          "欧亚海运绕行，运费和时效变差",
-          "油价与进口商品成本或阶段上行"
+          "住院开新药可能更快到位",
+          "创新药企销量与研发回报或改善"
         ],
-        "note": "航线是否长期受阻，要看后续冲突进展。"
-      }
-    },
-    {
-      "title": "生猪产能去化牵动CPI",
-      "summary": "瑞银研报指出，明年消费板块价格修复值得关注，生猪产能去化或成为2027年CPI的关键变量。猪肉在CPI篮子中权重较高，产能持续去化意味着供给收缩，若需求企稳，猪价有望回升。这一判断对通胀走势、货币政策空间及养殖产业链盈利预期均有指引意义，也与近期生猪价格创多年低位的态势相互印证。",
-      "reason": "猪价是CPI核心变量，产能去化关系物价与养殖户收益，贴近民生与通胀判断",
-      "impact_areas": [
-        "经济金融",
-        "产业",
-        "社会"
-      ],
-      "impact_level": "重大",
-      "sources": [
-        {
-          "name": "财新数据",
-          "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFB6cnF3NXk5YnBuZnp6SzdTUExDY3lRWVRWbnRwT0JLZFhFa2t5enU0emtkeHpySXhjYmY1ckRtNl81aU9JNHl4NHpZZ1FKSUpKX3BOMS01cGtOOGdkSmw3dzdhYw?oc=5"
-        }
-      ],
-      "card": {
-        "category": "经济·物价",
-        "headline": "猪价低位，明年可能要涨",
-        "what": "瑞银研报指出，生猪产能去化或成2027年CPI关键变量；猪肉在CPI篮子中权重较高，供给收缩叠加需求企稳，猪价有望回升。",
-        "question": "明年吃肉会更贵吗？",
-        "means": [
-          "猪肉和餐饮价格或慢慢回升",
-          "养殖户补不补栏影响明年收益"
-        ],
-        "note": "猪价还看需求与收储政策，研报判断并非定论。"
+        "note": "各地医院落实情况不一，具体以就诊医院为准。"
       }
     }
   ],
-  "total_fetched": 199,
-  "generated_at": "2026-11-16T12:27:05.817976+08:00"
+  "total_fetched": 304,
+  "generated_at": "2026-11-16T19:27:05.465439+08:00"
 }
