@@ -1,0 +1,330 @@
+{
+  "date": "2026-11-18",
+  "news": [
+    {
+      "title": "乌军袭击克里米亚大桥",
+      "summary": "11月18日报道，乌克兰对连接俄罗斯本土与克里米亚半岛的刻赤海峡大桥发动袭击，桥梁部分结构坍塌，泽连斯基称此次打击'前所未有'。俄方对基辅发动导弹与无人机打击，当地民众被迫进入避难所。刻赤大桥是俄军南部战线补给与克里米亚民生的关键通道，桥体受损将直接推高俄方后勤成本，并可能引发俄方新一轮报复性打击。黑海航运保险、粮食与能源运输风险随之上升，冲突外溢风险增加。",
+      "reason": "俄乌冲突关键基础设施遭重创，直接冲击黑海航运、能源与粮食运输，地缘风险显著升级",
+      "impact_areas": [
+        "地缘",
+        "政治"
+      ],
+      "impact_level": "现象级",
+      "sources": [
+        {
+          "name": "BBC",
+          "url": "https://www.bbc.co.uk/news/articles/cw772jk4rvmxo?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "name": "NYTimes",
+          "url": "https://www.nytimes.com/2026/11/17/world/europe/ukraine-kyiv-russia-kerch-bridge-crimea.html"
+        }
+      ],
+      "card": {
+        "category": "地缘·冲突",
+        "headline": "克里米亚大桥被袭，补给线断了",
+        "what": "乌克兰袭击连接俄本土与克里米亚的刻赤海峡大桥，部分桥体坍塌。俄方随即对基辅发动导弹与无人机打击。",
+        "question": "油价和机票会跟着涨吗？",
+        "means": [
+          "黑海航线运费与保险可能上涨",
+          "进口粮食能源价格或有波动"
+        ],
+        "note": "桥梁受损程度与后续报复规模仍待确认。"
+      }
+    },
+    {
+      "title": "APEC深圳峰会多国领导人抵深",
+      "summary": "亚太经合组织领导人非正式会议在深圳举行，俄罗斯总统普京、韩国总统李在明、马来西亚总理安瓦尔等先后抵达深圳。美国总统特朗普启程展开亚洲行，首站马尼拉出席东盟峰会，行程后段将与中俄领导人会谈。这是中美俄三方在关税、芯片管制与地区热点叠加背景下的高层集中接触。峰会议题预计涵盖贸易规则、供应链重组与人工智能治理。会谈能否在关税休战、稀土与半导体出口上取得进展，将影响未来一年全球贸易与产业链走向。",
+      "reason": "中美俄及亚太主要经济体高层集中会晤，关税与供应链议题敏感，牵动全球贸易格局",
+      "impact_areas": [
+        "地缘",
+        "政治",
+        "经济金融"
+      ],
+      "impact_level": "现象级",
+      "sources": [
+        {
+          "name": "凤凰网",
+          "url": "https://news.ifeng.com/c/8y8fJOqQtdn"
+        },
+        {
+          "name": "凤凰网",
+          "url": "https://news.ifeng.com/c/8y8aTfhQ3im"
+        },
+        {
+          "name": "凤凰网",
+          "url": "https://news.ifeng.com/c/8y8agRBJtVH"
+        },
+        {
+          "name": "BBC",
+          "url": "https://www.bbc.co.uk/news/articles/crq5vlxxx32no?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "name": "NYTimes",
+          "url": "https://www.nytimes.com/live/2026/11/17/world/trump-asean-summit"
+        }
+      ],
+      "card": {
+        "category": "地缘·贸易",
+        "headline": "中美俄高层本周齐聚深圳",
+        "what": "亚太经合组织领导人非正式会议在深圳举行，普京、李在明、安瓦尔等陆续抵达。特朗普启程亚洲行，后段将与中俄领导人会谈。",
+        "question": "关税会降一点吗？",
+        "means": [
+          "进口芯片和商品价格或有松动",
+          "相关外贸岗位订单跟着波动"
+        ],
+        "note": "会谈成果以官方通稿为准，勿提前押注。"
+      }
+    },
+    {
+      "title": "英伟达Q3营收1158亿美元",
+      "summary": "英伟达公布2027财年第三季度财报，营收1158亿美元，同比增长103%，业绩超预期推动股价盘后涨幅扩大至5%。同期公司明确表示不打算让创始人黄仁勋复职，黄仁勋则公开表态，若董事会允许，愿重返英伟达担任CEO。业绩高增源于AI数据中心算力需求持续扩张，但管理层权力安排的不确定性成为新的治理风险点。这一矛盾将影响市场对英伟达长期战略连续性的定价，并牵动全球AI资本开支节奏。",
+      "reason": "全球AI龙头营收翻倍，叠加创始人复职风波，直接影响AI算力产业链与资本市场定价",
+      "impact_areas": [
+        "科技",
+        "经济金融"
+      ],
+      "impact_level": "现象级",
+      "sources": [
+        {
+          "name": "36氪",
+          "url": "https://www.36kr.com/newsflashes/4074448234828929"
+        },
+        {
+          "name": "36氪",
+          "url": "https://www.36kr.com/newsflashes/4074450230498437"
+        },
+        {
+          "name": "BBC",
+          "url": "https://www.bbc.co.uk/news/articles/cm2kl50vkwkdo?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "name": "凤凰网",
+          "url": "https://original.ifeng.com/c/8y8Xo1QzM1V"
+        },
+        {
+          "name": "凤凰网",
+          "url": "https://original.ifeng.com/c/8y8vElbcYlN"
+        }
+      ],
+      "card": {
+        "category": "科技·算力",
+        "headline": "英伟达营收翻倍，黄仁勋想回来",
+        "what": "英伟达第三季度营收1158亿美元，同比增长103%，超预期，盘后股价涨超5%。公司称不打算让黄仁勋复职。",
+        "question": "我的AI基金还值得拿吗？",
+        "means": [
+          "算力产业链订单短期仍旺",
+          "管理层变动或加大股价波动"
+        ],
+        "note": "复职与否以董事会决议为准，勿轻信传闻。"
+      }
+    },
+    {
+      "title": "美伊战争僵局持续加深",
+      "summary": "路透报道，随着伊朗战争陷入僵局，特朗普政府与德黑兰转向以时间换空间的对赌。特朗普表示，美方对任何针对华盛顿的伊朗阴谋'非常严肃'对待。此前美军对伊朗导弹设施实施空袭。战事久拖不决意味着中东原油供应风险溢价长期存在，霍尔木兹海峡通行安全、伊朗核问题谈判窗口均受牵制。对美国而言，战争成本与国内政治压力同步累积，将影响其中东驻军部署与对以色列政策。",
+      "reason": "中东战事僵持叠加美伊互指威胁，霍尔木兹海峡与原油供应风险长期化，牵动全球能源价格",
+      "impact_areas": [
+        "地缘",
+        "经济金融"
+      ],
+      "impact_level": "重大",
+      "sources": [
+        {
+          "name": "Reuters",
+          "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOLUh5YlVmNzRxZm9pNkZLZFQ4YWhKbExkLW51U3R1QWFFb3AzUXZieDdROGpiYVRoZEwycHV3eUVTZWptS1ZTTkdLSG9SNzFYdEVPUGwwOWJVTTV3NThPU2NjX3BsZnlmVUtLanZjZEgzdWZiWkp6NThLUENnMEpxOGZPVnQ2Vm1YWDhoX1UzRkx4SUh2cFhObkxsek1ub0UtNjNfaWNpaU8?oc=5"
+        },
+        {
+          "name": "BBC",
+          "url": "https://www.bbc.co.uk/news/articles/cq808vzd3nnpo?at_medium=RSS&at_campaign=rss"
+        }
+      ],
+      "card": {
+        "category": "地缘·能源",
+        "headline": "美伊僵局拖长，油价难降下来",
+        "what": "美伊战事陷入僵局，双方转向以时间换空间。特朗普称对针对华盛顿的伊朗阴谋非常严肃对待，此前美军空袭伊朗导弹设施。",
+        "question": "加油和机票会更贵吗？",
+        "means": [
+          "国内油价调价窗口或更频繁",
+          "海淘和跨境物流成本抬升"
+        ],
+        "note": "海峡通行与谈判进展仍需持续观察。"
+      }
+    },
+    {
+      "title": "外交部回应美芯片管制升级",
+      "summary": "针对美国升级芯片出口管制，中国外交部回应称将采取必要措施，坚决维护自身正当权益。美方新一轮限制进一步收紧先进制程设备、AI芯片及配套软件的对华出口。直接影响是算力供给与半导体设备采购成本上升，国内云厂商与AI企业需加速切换国产替代方案。中长期看，管制升级将加速中国在设备、材料、EDA等环节的自主化投入，同时抬高全球半导体产业链的重复建设成本。",
+      "reason": "美方管制升级与中方反制表态，直接影响AI算力供给与半导体产业链格局",
+      "impact_areas": [
+        "科技",
+        "地缘",
+        "产业"
+      ],
+      "impact_level": "重大",
+      "sources": [
+        {
+          "name": "财新网",
+          "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1tV0hqbXZGd3hXajhyV1hpZi0teEhZTlozSV9EbTVwUF9fWGw5ZDhyVmhhdThDelpKX0ZGbmlwX0VIeGIxVTByMU1JZ3ZvM1A5bW9VTnI0TTZUMWdkYUtxQ1J3?oc=5"
+        }
+      ],
+      "card": {
+        "category": "科技·芯片",
+        "headline": "美国再收紧芯片，中方说要反制",
+        "what": "美国升级芯片出口管制，进一步收紧先进制程设备、AI芯片及配套软件对华出口。中国外交部回应称将采取必要措施维护正当权益。",
+        "question": "我用的AI服务会涨价吗？",
+        "means": [
+          "国产算力租赁价格可能上行",
+          "半导体设备岗位需求增加"
+        ],
+        "note": "具体管制清单与反制措施以官方发布为准。"
+      }
+    },
+    {
+      "title": "Anthropic启动上市定价",
+      "summary": "Anthropic释放IPO定价指引，发行价可能定在区间上限或更高；New Street Research给予其买入评级及105美元目标价。公司上市后，亚马逊与谷歌将合计持股约28%。作为头部大模型公司首次大规模公开上市，其定价将成为AI企业估值的重要参照，也将检验资本市场对高资本开支、持续亏损型AI商业模式的容忍度。对产业链而言，IPO募资将进一步扩大其在算力与模型训练上的投入。",
+      "reason": "头部大模型公司IPO定价落地，为AI资产估值提供基准，影响全球AI投资节奏",
+      "impact_areas": [
+        "科技",
+        "经济金融"
+      ],
+      "impact_level": "重大",
+      "sources": [
+        {
+          "name": "36氪",
+          "url": "https://www.36kr.com/newsflashes/4074453995410561"
+        },
+        {
+          "name": "36氪",
+          "url": "https://www.36kr.com/newsflashes/4073896356991879"
+        },
+        {
+          "name": "36氪",
+          "url": "https://www.36kr.com/newsflashes/4074453370819718"
+        }
+      ],
+      "card": {
+        "category": "科技·资本",
+        "headline": "大模型第一股要来了，定价不低",
+        "what": "Anthropic释放IPO定价指引，发行价可能定在区间上限或更高，机构给出105美元目标价。上市后亚马逊与谷歌将合计持股约28%。",
+        "question": "AI公司的估值还会涨吗？",
+        "means": [
+          "AI相关基金波动会更大",
+          "算力投入继续挤压小公司"
+        ],
+        "note": "发行价与时间以招股书正式披露为准。"
+      }
+    },
+    {
+      "title": "美债利率5%以上天数逼近纪录",
+      "summary": "美国10年期国债收益率今年以来维持在5%以上的天数已逼近2007年创下的纪录。同期美股三大股指集体收跌，大型科技股多数下跌。长期高利率意味着全球无风险利率锚持续上移，对新兴市场资本流动、企业融资成本和居民房贷利率形成压力；美债利息支出膨胀也将挤压财政空间。若高位持续时间刷新纪录，股债估值体系面临再定价风险，美元与新兴市场汇率波动可能加大。",
+      "reason": "关键利率指标逼近历史极端，全球资产定价锚上移，属重要消息面信号",
+      "impact_areas": [
+        "经济金融"
+      ],
+      "impact_level": "重大",
+      "sources": [
+        {
+          "name": "36氪",
+          "url": "https://www.36kr.com/newsflashes/4074455680701314"
+        },
+        {
+          "name": "36氪",
+          "url": "https://www.36kr.com/newsflashes/4074434860077954"
+        }
+      ],
+      "card": {
+        "category": "经济·利率",
+        "headline": "美债利率高位徘徊，逼近历史纪录",
+        "what": "美国10年期国债收益率今年维持在5%以上的天数已逼近2007年纪录。同期美股三大股指集体收跌，大型科技股多数下跌。",
+        "question": "我的房贷利率会受影响吗？",
+        "means": [
+          "全球融资成本短期难降下来",
+          "成长股与新兴市场汇率更易波动"
+        ],
+        "note": "利率路径取决于后续通胀与美联储表态。"
+      }
+    },
+    {
+      "title": "强冷空气影响全国多地降温",
+      "summary": "央视报道，受强冷空气影响，全国多地出现明显降温，过程伴随大风与雨雪，北方多地气温骤降，南方昼夜温差加大。直接影响包括：供暖与用电负荷快速上升、公路与铁路通勤受雨雪干扰、设施农业与露地蔬菜面临冻害风险、呼吸道与心脑血管疾病进入高发期。后续需关注冷空气南下路径对长江中下游交通和能源保供的进一步影响。",
+      "reason": "全国范围强降温，直接冲击通勤出行、能源保供与农业生产，与日常生活高度相关",
+      "impact_areas": [
+        "社会",
+        "生态"
+      ],
+      "impact_level": "重大",
+      "sources": [
+        {
+          "name": "央视网",
+          "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1TaDB5czJIOW5jMDZKcEw3UHNNR1ZxakxNb0xWc0tPT2tGakQzRXZuYllsczVSOXNXam9iUEdjU3FZLWVOekt6WUNlR2U4ZGY1YVNFTnZtMEwxNzAwMmhNQUE5alpJeUxjOTFkUXloOTVDa2dGQjA3Sw?oc=5"
+        }
+      ],
+      "card": {
+        "category": "社会·天气",
+        "headline": "强冷空气来了，南北一起降温",
+        "what": "受强冷空气影响，全国多地明显降温，伴大风与雨雪，北方气温骤降，南方昼夜温差加大。",
+        "question": "明天上班路会不会结冰？",
+        "means": [
+          "早晚通勤和外卖会更受影响",
+          "蔬菜与供暖电费支出或上升"
+        ],
+        "note": "具体降温幅度以当地气象台预报为准。"
+      }
+    },
+    {
+      "title": "特朗普称10个月追平中国稀土",
+      "summary": "特朗普声称，美国稀土产量将在10个月内追平中国。当前中国占全球稀土冶炼分离产能约九成，美国本土项目仍处产能爬坡阶段，10个月追平在技术与许可流程上难度极大。但该表态反映美方加速关键矿产供应链去中国化的政策方向，涉及补贴、价格下限与盟友采购联盟。若相关产能扩张落地，将改变稀土、永磁材料在新能源车、风电与军工领域的定价格局。",
+      "reason": "关键矿产供应链格局表态，涉及补贴与采购联盟，影响稀土及磁材产业定价",
+      "impact_areas": [
+        "产业",
+        "地缘"
+      ],
+      "impact_level": "重大",
+      "sources": [
+        {
+          "name": "凤凰网",
+          "url": "https://news.ifeng.com/c/8y8dZAMbcns"
+        }
+      ],
+      "card": {
+        "category": "产业·稀土",
+        "headline": "特朗普说10个月追平中国稀土",
+        "what": "特朗普称美国稀土产量将在10个月内追平中国。当前中国占全球稀土冶炼分离产能约九成，美国项目仍在产能爬坡阶段。",
+        "question": "稀土涨价会传导到车价吗？",
+        "means": [
+          "新能源车与风电成本或有变化",
+          "稀土磁材相关岗位和订单增加"
+        ],
+        "note": "追平说法尚无产能与许可数据支撑。"
+      }
+    },
+    {
+      "title": "美国失去麻疹消除状态",
+      "summary": "BBC报道，美国在维持26年无本土传播后失去麻疹消除状态，今年病例数创历史新高。麻疹传染性极强，疫苗接种率下滑是主因。消除状态丧失意味着本土传播链重建，对学校入学疫苗要求、国际旅行健康提示和儿童常规免疫计划形成直接压力，也会推高儿科与公共卫生系统负担。对疫苗信任度与强制接种政策的政治争论将进一步升温。",
+      "reason": "26年来首次失去消除状态，反映疫苗覆盖率下滑，公共卫生政策面临实质调整",
+      "impact_areas": [
+        "公共卫生",
+        "社会"
+      ],
+      "impact_level": "重大",
+      "sources": [
+        {
+          "name": "BBC",
+          "url": "https://www.bbc.co.uk/news/articles/c977p71jx0xxo?at_medium=RSS&at_campaign=rss"
+        }
+      ],
+      "card": {
+        "category": "公共卫生·疫苗",
+        "headline": "接种率下滑，美国麻疹防线失守",
+        "what": "美国在维持26年无本土传播后失去麻疹消除状态，今年病例数创历史新高。疫苗接种率下滑是主因。",
+        "question": "我孩子疫苗该按时打吗？",
+        "means": [
+          "出国旅行健康提示可能变严",
+          "入学疫苗查验会更容易被卡"
+        ],
+        "note": "国内免疫规划未变，按当地接种门诊通知执行。"
+      }
+    }
+  ],
+  "total_fetched": 142,
+  "generated_at": "2026-11-18T07:26:56.562552+08:00"
+}
