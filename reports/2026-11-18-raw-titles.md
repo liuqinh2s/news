@@ -1,106 +1,124 @@
-# 2026-11-18 原始新闻标题 (257 条)
+# 2026-11-18 原始新闻标题 (247 条)
 
-## 澎湃新闻 (12 条)
+## 澎湃新闻 (20 条)
 - APEC中国时间｜工商领导人峰会开幕在即，各经济体代表陆续抵达 - ThePaper.cn
+- 红楼梦AI剧侵害17位演员肖像权，宝钗扮演者张莉发声回应 - ThePaper.cn
+- 曝外资银行百万年薪招聘国产AI数据库人才 - ThePaper.cn
+- 好想来零食店一批次散装蛋黄酥抽检不合格 生产企业为湖南金麦客食品 - ThePaper.cn
 - “戏剧振兴三年行动计划·陕西答卷”主题活动在西安开幕 - ThePaper.cn
+- 江苏扬州一孩童就餐时，被餐椅上疑似胰岛素针头扎伤，孩子已进行破伤风处置及接受血液检查；商家：针头来源不明，已和家长协商一致 - ThePaper.cn
+- 针对肖像侵权，红果短剧开展专项治理 - ThePaper.cn
+- APEC中国时间｜专访智利前驻华大使贺乔治：世界正处于“亚洲世纪”，深耕亚太是智利的坚定选择 - ThePaper.cn
+- 这4段青年的真诚独白，看见一座城市藏在高楼之外的美好与温柔 - ThePaper.cn
+- 2026APEC，深圳把机器人“摆上”老外挑选的货架 - ThePaper.cn
+- 小米辟谣：“小米汽车11月15日起开始召回”相关内容纯属虚构 - ThePaper.cn
+- 年轻人为何杀回网吧？ - ThePaper.cn
+- 《持械入宋》主创：每一季算力成本约10万元 - ThePaper.cn
+- 字节红果短剧正招电视与大屏端产品经理，或推电视端APP - ThePaper.cn
+- 两分钟看懂云南咖啡：从种子到精品，由大到强 - ThePaper.cn
 - 俄罗斯克里米亚大桥遭袭，交通受限 - ThePaper.cn
 - 疫苗处方来了！我国全面推行 - ThePaper.cn
 - 大外交｜从“融入”、“塑造”到“引领”，APEC见证中国主场外交进阶之路 - ThePaper.cn
-- 新型研发机构如何健康生长？请看《澎湃城市报告》第42期 - ThePaper.cn
-- 酒店送洗衣服、便利店24小时“打工”，具身机器人仍在寻找最佳落地场景 - ThePaper.cn
-- APEC现场｜泰国总理阿努廷抵达深圳 - ThePaper.cn
-- 时事新闻_最新时事要闻 - ThePaper.cn
-- 奔驰宝马们召回了一万多台车，但其实没多大事 - ThePaper.cn
-- 济南可恩再成被执行人，为可恩口腔贡献约40%收入 - ThePaper.cn
-- 几十米展厅“装”下四条特色产业链，外国客商在义乌“一站式”看遍郓城好货 - ThePaper.cn
+- APEC现场｜印度尼西亚总统普拉博沃飞抵深圳 - ThePaper.cn
+- APEC中国时间｜俄智库学者：各区域机制应加强“融合的融合”，期待中国引领 - ThePaper.cn
 
 ## 凤凰网 (20 条)
-- 00后主编曝光患病投稿者聊天记录被免职，刊物不到2年被停刊
-- APEC工商峰会为何安排在两个会议之间？
-- “为什么前两大股东均为中资？”，奔驰被美国要求回答24个问题
-- 每月两万五的养老院，为什么依然孤独
-- 苹果、谷歌、万豪等同日发生网络技术故障，均否认“网络攻击所致”
-- 法国抗议持续第5周，“黄背心”号召再来一次
-- 中俄美元首会晤是否会讨论台湾问题，国台办回应
-- 台陆委会称两岸交流应“去统战化”，国台办回应
-- 罗大佑批判民进党当局言论，国台办回应
-- 高颜值小哥走红！APEC战狼突击队特警一口流利英语
-- 零距离深入俄军无人机工坊：较量不仅限于制造领域
-- 借住的发小将房主珍藏书画当废品卖了，再铁的友情也经不起越界的消耗
-- 国台办：两岸应在一个中国原则和“九二共识”基础上恢复协商谈判
-- 高市早苗的对华政策支持率，已降至其就任以来的最低水平
-- 一份无强制性成果文件，一场历史性三边会晤，APEC如何发挥作用
-- 美国官方回应多地系统故障：非网络攻击
-- 中国实业如何驶向亚太新未来？
-- 中国农业发展银行原党委委员、副行长徐一丁被提起公诉
-- 浑水宣布：做空英伟达
-- 西安一公司欠缴社保，员工胜诉后却要补缴19000多元利息
+- 社科青年重走长征路|行走甘孜：踏长征故道 悟民族同心 - 凤凰网
+- 视频丨习近平：“十五五”规划是中国面向全球工商界发出的合作邀约 - 凤凰网
+- 时政微纪录丨习近平总书记赴广东中山考察纪实 - 凤凰网
+- 学习贯彻五中全会精神·板报微课堂②：让权力在阳光下运行 - 凤凰网
+- APEC领导人非正式会议受两岸关注 国台办：帮助台商台企在大陆更好发展 - 凤凰网
+- 喜迎江西省第十六次党代会｜H5：我的五年成绩单 - 凤凰网
+- 有社局工作人员办理社保卡金卡 每月发补贴？新余官方：小心被骗 - 凤凰网
+- 习近平主席在亚太经合组织工商领导人峰会主旨演讲金句 - 凤凰网
+- 青岛公安聚焦治安问题攻坚突破命案积案22起 - 凤凰网
+- 航运向新，青年为先！2026 航运青年论坛举办 - 凤凰网
+- 小狗路上捡到手机叼回家，主人联系失主归还，失主还奖励了红包给小狗 - 凤凰网
+- 聚焦APEC｜美国总统特朗普抵达深圳 - 凤凰网
+- 美国住房市场信心指数跌至近15年来最低点 - 凤凰网
+- 俄总统特别代表称赞深圳：巨大、美丽且非常现代化，既是“未来之城”也是“自然之城” - 凤凰网
+- 潮涌亚太——APEC在中国的三个时间坐标 - 凤凰网
+- 普华永道中国首席执行官：中国对亚太地区至关重要 - 凤凰网
+- 视频丨外媒聚焦深圳 期待亚太合作结出务实成果 - 凤凰网
+- 《飞阅海岸线》，换个视角来看“海”！ - 凤凰网
+- 61岁女子在登机口抛4枚硬币“祈福保平安”，本人道歉：我第一次坐飞机，脑袋进水了，做了这样的错事 - 凤凰视频
+- 机构闭门会议：债市扰动有限配置窗口渐显，高利率压制下科技震荡蓄势 - 凤凰视频
 
-## 财新网 (20 条)
+## 财新网 (19 条)
+- 解药｜拒批中国明星双抗在美上市：FDA详解原因
+- 证监会盘中辟谣“基金公司上报AI敞口” 午后科技股翻红领涨
+- “劳动三分法”的是与非
+- 习近平在深圳机场迎接特朗普 美方感谢中方特殊安排
+- 图集｜克里米亚大桥遭袭 公路桥路面拱门坍塌
+- 10月出口继续受AI产业链拉动 劳动密集型商品出口增速放缓｜贸易月报
+- 图集｜法国公共部门掀起跨行业罢工潮 上千名防暴警察集体就诊
+- 不再是“储备货币”的美元，走向何方
+- 花旗调查：香港每13人有一名千万富翁 62%准亿万富翁每天使用AI
+- 摩根大通系统故障波及多家美国银行 基础服务稳定性受考验
+- 强生最高33亿美元收购眼科药企 核心管线来自信达生物
+- “供强需弱”有四个层次，须区分应对
+- 香港3830万港元公厕获评“六星级” 高昂造价引争议
+- 英伟达停止向中国出售H200芯片 三季度业绩超预期
+- 缪延亮：政策利率换锚，利率市场化的里程碑
 - 中国出口能否延续高增长？研究者提醒关注AI产业景气变化影响
 - 王仰晨存祝志澄致王景云信｜收藏
 - 经济学家何帆：寻找差异化优势破除内卷
-- 分析｜全境停飞事件后美联航再遇技术故障 美国航空业怎么了？
-- 习近平：欢迎亚太工商界继续积极参与中国改革开放和现代化建设
-- 华侨银行洪湧翔：银行要为出海企业搭建“桥梁”
-- 赴美留学人数连续两年下降 OPT人数首次转降
-- 港大汤勇军：不宜过快看空美国市场 投资者应推进全球配置
-- APEC深圳时刻：中国汽车出海需要一次“战略换轨”
-- 【华尔街原声】亚马逊CEO：计划长期持有Anthropic股份
-- 【华尔街原声】消息称Anthropic IPO定价或超过每股78美元
-- 美元利率与汇率变动的分析
-- 倪润峰与中国彩电业的共同成长｜纪念
-- 【商圈】辻朋邦掌舵三丽鸥 让Hello Kitty向中国市场微笑
-- “福建帮”洗钱案苏海金、徐海卡案结 近5亿元资产被英国没收
-- 今日开盘：两市双双高开 沪指涨幅0.33%
-- 德银：“芯片美元”正取代“石油美元”
-- 恒强是出口？
-- 能源内参｜受贿数额特别巨大 中核集团原总经理顾军被提起公诉；国内输送距离最长二氧化碳管道投运
-- 财新闻｜赴美留学生正在减少，多国学子开始转投中国
+- 分析｜美国全境停飞事件后 美联航再遇技术故障
 
-## 央视网 (8 条)
+## 央视网 (10 条)
+- 两部门联合发布十大计量重点攻关项目 - 央视网
 - 中央气象台：强冷空气继续影响中东部地区 - 央视网
 - “雪”字头列车准时上线 新增哪些站点？ - 央视网
 - 出差上网别大意 别让“免费”Wi-Fi成为泄密诱饵 - 央视网
-- 广西壮族自治区横州市委原书记梁枫接受纪律审查和监察调查 - 央视网
-- 天山脚下，一街一巷皆同心（铸牢共同体 中华一家亲） - 央视网
-- 一批台湾渔产品今日运抵北京 国台办：两岸同胞同获其利 共享其惠 - 央视网
-- 受强冷空气影响 全国多地降温 - 央视网
 - 额尔古纳雾凇冰凌同框 空中冰晶似时空之门 - 央视网
+- 文博日历丨只有12厘米的它，是屋檐上的“守护者” - 央视网
+- 坚持守正创新，永葆先进性纯洁性（评论员观察） - 央视网
+- 神舟二十四号船箭组合体转运至发射区 计划近日择机发射 - 央视网
+- 机器人嘉年华在深圳举办 500多台各类机器人集中展示 - 央视网
+- 受强冷空气影响 全国多地降温 - 央视网
 
-## BBC (15 条)
+## BBC (17 条)
+- As Trump and Xi meet, China's AI dreams face an unexpected hurdle: the Nvidia spy scandal
+- Nvidia says it won't reinstate Huang as it reports soaring sales
+- Rubio says US not 'under systemic attack' after series of tech outages
+- Democrats win Alaska Senate race two weeks after midterms counting began
 - Putin's Crimean Bridge partly collapses as Zelensky hails 'unprecedented' attack by Ukraine
-- Nvidia says it won't reinstate Huang as firm reports bumper results
-- Philippines police ask prosecutors to charge Thomas Markle over child sex abuse material
 - 'It was really scary': Mother describes sheltering during Russia strikes on Kyiv bridge
-- Russian military plane crashes, killing all 19 on board
+- Philippines police ask prosecutors to charge Thomas Markle over child sex abuse material
 - Palestinian woman, 72, shot dead by Israeli settlers in West Bank, health ministry says
+- Can a US-backed mineral highway bring peace and prosperity to DR Congo?
 - US loses measles elimination status after 26 years amid record case numbers
+- Ghana's new $60m presidential jet sparks public outrage
 - American soldier arrested by UK police on suspicion of spying taken into US military custody
 - William and Kate celebrate Earthshot Prize winners in Mumbai
-- Trump in Asia ahead of talks with Russian and Chinese presidents
+- Russian military plane crashes, killing all 19 on board
 - Trump says US taking 'very seriously' any Iranian plot against Washington
-- UK sanctions firms over Israeli West Bank settlements
-- Carney looks to China as Trump tariffs squeeze Canada's car industry
-- As Trump and Xi meet, China's AI dreams face an unexpected hurdle: the Nvidia spy scandal
+- Millions of red crabs start annual migration on Christmas Island
 - Who to watch in Spain's election race
 
-## Reuters (12 条)
-- Classified US national security communications network hit by outage, NSA says - Reuters
-- Trump and Tehran gamble on time as Iran war stalemate deepens - Reuters
+## Reuters (19 条)
+- Rupee bears retreat, lifting currency in offshore market - Reuters
+- COMMENTARY: What the last two bubbles tell us about the AI boom - Reuters
+- Global stocks slip after Nvidia earnings; Anthropic IPO to test AI boom - Reuters
+- Gold drops 2% to over one-year low as hawkish Fed signals boost dollar - Reuters
+- Morning Bid: Jensen Huang's last hurrah, and a nervy future for Nvidia - Reuters
+- Xi, Putin blast Western 'protectionism' and sanctions as Trump lands in China - Reuters
+- EXCLUSIVE: Trump's China data center curb advances despite Amazon, Google, Meta lobbying - Reuters
 - US retail sales showcase underlying strength despite cost-of-living crunch - Reuters
-- Multiple tech systems have been crashing. Here is how to protect yourself - Reuters
-- AI advances coincide with sharp rise in cyber incidents, Marsh data shows - Reuters
-- Indian rupee poised to extend outperformance on swelling inflows, break of key level - Reuters
+- Classified US national security communications network hit by outage, NSA says - Reuters
 - Haaland's late penalty sends Norway into Nations League quarters, Portugal top group - Reuters
+- Nike tries to reassure investors with 2029 sales growth target, but shares slump - Reuters
+- US strikes Iranian missile launch site on Qeshm Island, US official says - Reuters
+- Multiple tech systems have been crashing. Here is how to protect yourself - Reuters
+- Indian shares decline from nine-month high levels on profit-taking - Reuters
+- Rare images of isolated Indigenous group in Brazil highlight threats - Reuters
 - Mexico cenbank's Borja says length of rate pause unclear, flags inflation risks - Reuters
-- How Kennedy let measles run wild in America - Reuters
-- WilmerHale is latest major law firm to launch Seattle outpost - Reuters
+- JPMorgan names Bregje de Best as next CFO, succeeding Barnum - Reuters
 - Canadian dollar holds near 19-month low as greenback consolidates recent gains - Reuters
 - Suspect charged with attempted murder in assault of Somali American in Minnesota - Reuters
 
 ## NYTimes (20 条)
-- Live Updates: Trump Meets Philippine Leader Before Flying to China
+- Trump Meets Philippine Leader Before Flying to China
 - Ecuadorean Fishermen Who Survived U.S. Boat Strike Sue Trump Administration
 - Cash Hidden in Forests? Hungary Goes After Corruption Under Orban
 - Prince William Brings Climate Prize to India, in an Electric Rickshaw
@@ -111,15 +129,15 @@
 - Carney and Xi Announce Canada-China Trade Pact
 - They’re Young and Frustrated and Want France to Change. They Disagree on How.
 - Trump Will Miss Most of the ASEAN Summit
-- Rubio Says Rush to Secure Systems May Be Causing Failures
-- Marcos Is Hosting Trump on Grounds Where He Spent Much of His Childhood
-- National Book Award Finalist May Be Ineligible for the Prize
-- Will a Spy Scandal, Trade Friction and a Surprise Guest Ruin Xi’s Big Moment?
-- Youssef M. Ibrahim, Who Covered Iran’s Revolution for The Times, Dies at 83
-- Matan Kahana Elected Speaker of Israel’s Parliament
-- Big Money, Existential Risks
-- A.I.’s People-Pleasing Problem
-- Nabeel Rajab, Bahraini Human Rights Activist, Dies at 62
+- A Visual Tour of President Trump’s Visits to Asia
+- In a Rare Move, Xi Greets Trump as He Lands in China
+- Putin Arrives in Asia With a Show of Force: Nuclear Bombers
+- Putin Will Continue Ukraine War Despite Plans to Meet Trump, Intelligence Says
+- What to Know About the Myanmar Genocide Case at the World Court
+- Boris Grebenshchikov, a Russian Rock Musician With a ‘Need to Rebel’
+- Voters Are Punishing Autocrats. But Many Still Embrace Them. Why?
+- Trump Briefly Met an Old Friend in Manila: Imelda Marcos
+- Trump and Marcos Share a Moment Over Jollibee Fried Chicken
 
 ## CNN (6 条)
 - 0% intro APR until 2024 is 100% insane
@@ -130,165 +148,133 @@
 - Want Cash Out of Your Home? Here Are Your Best Options
 
 ## 微博热搜 (20 条)
-- APEC
-- 深圳人全妆出街迎APEC
-- APEC中国年这些知识点不容错过
-- 深圳机场成了APEC随行团打卡点
-- 宝珠
-- 王楚钦孙颖莎总决赛混双外卡
-- 慢阻肺的肺功能还能救回来吗
-- APEC合影
-- 两京十五日
-- 李在明夫妇向中方迎宾人员鼓掌致意
-- 江南 拒绝芒果
-- 陆毅女儿贝儿正式出道
-- 游客曝1600的烤全羊剥不出1两肉
-- 高市早苗向中方代表打招呼姿态引热议
-- 郑恺女儿英文水平超过不少大学生了
-- 黄金
-- 王传福王兴雷军演我和朋友的日常
-- WTT
-- 蔚来高管回应爸爸我爱你违规
-- 杨超越都要考古了
+- 习近平迎接美国总统特朗普
+- 特朗普车队车前插中美两国国旗
+- APEC供应链也是共赢链
+- 这波冷空气要把气温打到多低
+- 中美元首握手
+- 泰国总理回到广东老家格外兴奋
+- 迎接特朗普仪式
+- 高铁一旦开窗人会被气流吸出去是假的
+- 普京到访深圳高校并发表演讲
+- 豆包被十三个鸡蛋难倒
+- APEC最高级别会议为何叫作非正式
+- 腾讯三季度自由现金流负691亿
+- 女生当众求婚男生拂袖离开
+- 特朗普说很高兴再次到访伟大的中国
+- 许飞的iPhone18Pro摔了
+- 美国总统特朗普抵达深圳
+- suk 青稚
+- 特朗普抵达深圳中方战机拉起彩烟
+- GTA6
+- 曾沛慈提醒许飞在直播
 
-## 知乎热榜 (20 条)
-- 美国大都会博物馆里面为什么要有中国园林？
-- 西安遍地是文物，那罗马是否也是如此？
-- 古代贵族饭桌上，有哪些流传至今的「点心」？
-- 瞎扯 · 如何正确地吐槽
-- 《福尔摩斯》原著里头的房东太太为什么会像个仆人一样伺候她的租客？
-- 你觉得哪一项计算机技术被大众严重低估了？
-- 如果一个国家没有政府会怎么样?
-- 瞎扯 · 如何正确地吐槽
-- 有以碱液消化食物的动物吗？
-- 有什么廉价但是技术含量很高的东西？
-- 研究称全球变暖阻断了下一个冰河时代，这一结论具有哪些科学意义？
-- 瞎扯 · 如何正确地吐槽
-- 电影放映中途为什么不暂停给上厕所的时间？
-- 拆弹的时候为什么不一下把线全剪了?
-- 有哪些技术遗失后又被重复发明的例子?
-- 研究称穿袜子睡觉可缩短入睡时间 7.5 分钟，是真的吗？背后的原理是啥？
-- 如何看待全国各地古镇相似度高达 99%，连「特色小吃」都一模一样？为何会出现这一局面？
-- 全身麻醉醒来像「跳过了」几个小时，睡眠为什么没有这种感觉？
-- 「嘌呤」为什么字典读音为 piàolìng，而民间往往读为 piāolíng？
-- 围棋为啥不以棋盘上的棋子数定输赢
+## 知乎热榜 (2 条)
+- 如何评价OpenAI 发布的 GPT-6.2 Astra 和 GPT-6.2 Sol？ - 知乎
+- 英伟达新任董事长哈维·琼斯表示，无意让黄仁勋回归重新担任CEO，为何态度如此坚决？背后有哪些考量？ - 知乎
 
 ## B站热门 (20 条)
-- 钢铁侠给贾维斯装上病娇插件，这下玩大了
-- “他们没有任何血缘关系，但却拥有同一个妈妈.”【Scared play sacred place】【治愈心灵の小曲】
-- 全球最火的电竞比赛！2W一张票！直接看哭了！
-- 【完结】财神窦占龙 第16集 归乡【8月国创】
-- 【蜘蛛侠/MJ】非凡之爱真人版
-- 蚌埠住的时候就抽出七匹狼
-- 11月18日上线｜《终极角逐》全新模式 「生存挑战赛」
-- 梅耶·马斯克带你走进无限暖暖3.0
-- 《最礼乐崩坏の一集》
-- 【纪录片】蓝色星球 第三季 03 四季海洋
-- 《哈利波特与死亡火器》
-- 抽象新闻：11月人类迷惑行为大赏（中）
-- 我们熟悉的那个3A游戏时代，可能真的结束了。【游戏之外】
-- 黑客打开印度骗子的摄像头，顺手把骗子策反了！
+- 《遗忘之海》第三赛季更新前瞻PV「旧日序曲」
+- 非凡魔丸
+- 「幽明志」幽城残梦
+- 灭霸的班级被奖励看电影
 - 【动画】可爱的猫尾草
-- 迎接我们的羁绊吧！
-- 【BLG冠军麦克风】这一刻，我们是世界冠军！
-- 灭霸和复联一起玩求生之路毫不留情
-- 【守护解放西·传承季】总预告：守护第七年，我们再次出发！
-- EUV光刻机 | "上帝的手术刀"
+- 在普罗米厄的怀抱下
+- 历史性峰会！为什么是APEC？是中国？是深圳？
+- “他们没有任何血缘关系，但却拥有同一个妈妈.”【Scared play sacred place】【治愈心灵の小曲】
+- 《都很漂亮》她是漂亮的，我们也是。
+- 【纪录片】蓝色星球 第三季 03 四季海洋
+- 全球最火的电竞比赛！2W一张票！直接看哭了！
+- 黑客打开印度骗子的摄像头，顺手把骗子策反了！
+- 【蜘蛛侠/MJ】非凡之爱真人版
+- 人情陷阱：中国人为何如此拧巴？
+- 蚌埠住的时候就抽出七匹狼
+- ⚡ 非凡之畜 ⚡
+- 11月18日上线｜《终极角逐》全新模式 「生存挑战赛」
+- BLG凭什么一穿四LCK夺冠？万字复盘BLG战胜GEN背后的原因！
+- 黑白大战，彻底疯狂！骗了五个亿，注定失败的终极豪赌！万字细嗦《谷雨》第十三期 包含；剧情、细节、镜头语言、人性解析等
+- 当bro一起去吃自助餐🍑
 
-## 抖音热搜 (20 条)
-- APEC工商领导人峰会开幕式举行
-- 韩国总统李在明抵达深圳
-- 大鹏展翅亚太扬帆
-- 普京抵达深圳
-- APEC峰会有哪些领导人参加
-- 国足2:2战平巴林
-- APEC媒体中心餐食出圈
-- 南迦巴瓦峰日照金山太美了
-- 中国贡献为亚太发展注入新动能
-- 媒体：特朗普将于18日晚抵达深圳
-- 抖音博主齐聚深圳为你讲好APEC
-- 马斯克确认将前往中国
-- 阿根廷7:0哥斯达黎加
-- 我在APEC第一现场
-- 偏爱奶蛙袜子的人不会输
-- 辣皮子牛肋排香迷糊了
-- 抄抄老吃家的过冬美食清单
-- 谢谢小猫递来的红薯
-- 神舟二十四号计划近日择机发射
-- 罪恶拼图给双女探案上尺度了
-
-## 丁香园 (3 条)
-- 医院活动 - 丁香园
+## 丁香园 (9 条)
+- 早诊早治，畅享生活——湖北省第三人民医院第25个世界慢阻肺日系列活动纪实 - 丁香园
+- 江西省人民医院与南昌健源康复医院共建呼吸专科联盟 - 丁香园
 - 从「幕后护航」到「台前亮相」：德达医疗首登进博会，开启开放合作新篇章 - 丁香园
 - 18 场培训之后：美维口腔把 AI 工具从「人人可用」推向「人人善用」 - 丁香园
-
-## 雪球热帖 (3 条)
-- C3.ai收跌6.84%，成交额6555.93万美元 - 新浪财经
-- 特斯拉每日2倍做多股票ETF收涨0.1%，成交额3.45亿美元 - 新浪财经
-- 个人养老金基金四年:七成产品正收益 - 新浪财经
+- 膳食话康养，海扶医院亮相渝味 360 碗 - 丁香园
+- 健嘉医疗南昌区域进一步打通康复一体化建设 - 丁香园
+- 武汉大学人民医院周炼红当选武汉医学会眼科分会主任委员 - 丁香园
+- 菊香寄愿 草木安心｜香囊艺术疗愈活动促精神康复 - 丁香园
+- 【守护肺健康 按下疼痛 “暂停键”】 我院肿瘤科开展 “国际肺癌日” 健康科普讲座 - 丁香园
 
 ## 36氪 (20 条)
-- 大疆Osmo Pocket 4系列今起涨价，最高涨560元
-- 宁德时代旗下福宁新能源公司增资至50亿，增幅约67%
-- 利通电子：公司算力资源均通过合法合规商业渠道获取
-- 习近平在深圳会见普京
-- 恒指午间休盘跌1.13%，恒生科技指数跌1.47%
-- 耐克发布“全速前进”战略：加速创新平台建设，强化本地市场竞争力
-- 远景动力46120大圆柱电芯累计交付1000万颗
-- 半日主力资金加仓计算机板块，抛售有色金属、传媒板块
-- 协创数据：374.9亿元的算力云服务协议中拟投入的服务器均为境内合规服务器
-- 亿纬锂能首发AIDC全场景储能解决方案，构筑AI能源底座
-- A股三大指数午间休集体下跌，算力租赁概念走强
-- 千问办公电商版向所有商家开放，推出“品牌知识库”
-- 中石化在重庆成立油气勘探开发公司，注册资本1亿
-- 习近平会见韩国总统李在明
-- “耀速科技”完成新一轮数千万元战略融资
-- 习近平：“十五五”规划是中国面向全球工商界发出的合作邀约
-- 习近平：坚定信心、勇毅前行，促进亚太共同繁荣
-- 习近平将会见韩国总统李在明
-- 墨西哥称在海滩收集到疑似SpaceX星舰助推器碎片
-- 习近平：中方支持成立世界湾区经济合作联盟
+- 国务院国资委：央企改革成效将继续纳入经营业绩考核加减分项
+- 国务院国资委：国有企业优化布局结构要更加突出针对性、有效性
+- 君实生物：11月18日回购17.04万股H股股份
+- 习近平和彭丽媛欢迎与会嘉宾并集体合影
+- 澜起科技：完成5亿元股份回购，累计回购331.39万股
+- 西门子推出Simatic AX运动控制工程产品
+- 中国信达等在广西成立新股权投资合伙企业，出资额6.02亿
+- 劳氏第三季度调整后每股收益3.10美元，高于预期
+- 英国央行预计通胀将在2027年年中进一步上升
+- 用友HR SaaS发布YonWork企业智能体
+- 2026年APEC工商领导人峰会发布深圳倡议
+- 天孚通信：截至2026年11月18日累计回购88万股
+- 美国民主党筹备数据中心电力改革方案，运营商10年内或需多付350亿美元
+- 联讯仪器：拟1亿元-1.5亿元回购股份用于员工持股或股权激励
+- 天普股份：股票将于明日开市起复牌
+- 新易盛：目前不存在需求预期下修或砍单情形，1.6T光模块已进入大规模放量阶段
+- 马斯克：预计SpaceX不会向OpenAI出售任何算力
+- 大麦娱乐：上半财年收入同比下降7.8%
+- 国家能源局：积极推动具备条件的水风光一体化项目整体参与市场交易
+- 帝奥微：拟向全资子公司增资2亿元用于光通信芯片研发
 
 ## 虎嗅 (20 条)
-- 手术机器人IPO火了，术锐一年只卖11台
-- AI制药史上最大融资来了
-- Anthropic 上市，三个预测
-- 科技巨头疯狂“烧钱”，AI的万亿投资能赚回来吗？
-- 单季营收破千亿美元，英伟达还需要黄仁勋吗？
-- 同仁堂的药不合格，储存能解释多少？
-- 答卷照牛，但没了老黄，英伟达已不对味
-- 亚马逊创始人贝索斯最新访谈：如果不请回黄仁勋，建议从内部提拔CEO
-- 芯片公司发明了OKR，然后互联网把它改成了芯片公司用不了的样子
-- AI演员“方桃子”被罚，厘清了虚拟人商业代言边界
-- 中国人为什么有钱不爱花，我们可能一直理解错了
-- 裸辞8个月，我去三亚做义工，13天后对低成本生活祛魅了
-- 浦江科技评论｜AI如何改变生物制造
-- 美股“七巨头”，去年初以来只剩2家能跑赢大盘
-- 老黄那根针
-- 县城小火锅：一边狂飙，一边批量倒闭
-- 卡住比亚迪，却让特斯拉翻红，韩国汽车荣光不复
-- 禾赛科技的第二曲线，兄弟公司买单
-- 拖更两个月的GPT-6.2，居然是一个“汇报狂魔”？
-- 程建辉：AI是否在消解人力资本的价值？
+- 腾讯也做不到“不可能三角”：传统业务增长，AI业务突破，现金净流入
+- 磨底仍需"一波三折"
+- “砸锅卖铁也要参加，”这场全国足球赛，让家长看到自闭症孩子另一种可能
+- 先后接回断腿、断臂，中国医生到底有多强？
+- Claude Code新模式来了，不换模型，Token消耗最高砍掉77%
+- 你没听说过的设备公司，正在批量出现
+- 保研举报这事，也太窒息了
+- 黄仁勋把英伟达的一切都锁进了未来，除了他自己
+- 一光日：写给旅行者1号
+- AI公司烧Token，烧出了一门“贷款生意”
+- 文科生找工作有多难：有人投了100多份简历，还没收到offer
+- 刚与青岛啤酒达成合作的爱尔兰第二大威士忌酒厂，因燃气费涨价停产了
+- 红果短剧爆火，腾讯来了，京东来了，如今连网易也来了
+- 如果你中了1个亿，敢辞职吗？她替你试过了
+- 英伟达董事会，有多“恨”黄仁勋？
+- 中国游戏厂商，都有一个种田梦
+- 黄仁勋的离场与古罗马的保护人制度
+- 来自世界模型的风，吹到AI互动剧了
+- 宗馥莉再掀人事风暴：173名管理人员被免职
+- 100亿美元建设热潮，重塑布拉格
 
-## 少数派 (3 条)
+## 少数派 (5 条)
+- 10 月音乐精选：音乐丰收季，必听这 7 张新专辑
+- App+1｜NodLink：AirPods 变鼠标，动动脑就能操作电脑
 - 跟着老板自驾去海南是种什么体验？明日公园 vlog 回顾
 - 兼顾随身阅读与自主开发的 4.7 英寸墨水屏设备：小纸 Pico 现货上架少数派
 - 派早报：国区 App Store 将 AIGC 合规设为上架必填、OpenAI 发布 GPT-6.2 Astra 等
 
-## GitHub Trending (15 条)
+## GitHub Trending (20 条)
 - elementalsouls/Claude-BugHunter
-- mvanhorn/last30days-skill
-- alibaba/open-code-review
-- Tencent/LoopForge
-- dream-num/univer
-- getarcaneapp/arcane
-- google-labs-code/stitch-skills
 - cursor/plugins
-- obra/superpowers
-- ag-ui-protocol/ag-ui
-- backnotprop/plannotator
-- sveltejs/svelte
-- affaan-m/ECC
-- jingyaogong/minimind
+- HKUDS/CLI-Anything
+- mvanhorn/last30days-skill
+- getarcaneapp/arcane
+- NVIDIA/SkillEvaluator
+- nvm-sh/nvm
+- astral-sh/uv
 - google-research/paper-orchestra
+- google-labs-code/stitch-skills
+- sveltejs/svelte
+- jquery/jquery
+- appwrite/appwrite
+- openvinotoolkit/openvino
+- obra/superpowers
+- affaan-m/ECC
+- DeanChensj/jiangshan-map
+- n8n-io/n8n
+- solidjs/solid
+- punkpeye/awesome-mcp-servers
