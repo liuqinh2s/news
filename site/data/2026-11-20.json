@@ -1,0 +1,329 @@
+{
+  "date": "2026-11-20",
+  "news": [
+    {
+      "title": "Anthropic上市市值破2万亿",
+      "summary": "人工智能公司Anthropic在美股挂牌上市，开盘价111.50美元，首日开盘市值预计达2万亿美元，股价盘中一度上涨34%、收盘涨超17%，但盘中曾跌破开盘价。此次IPO使其跻身全球市值最高上市公司之列，台积电子公司斥资5亿美元认购其股票，公司超半数员工成为千万美元级富豪。市场将其视为检验华尔街对AI热潮信心的关键事件，亦有观点担忧其估值存在回调风险。",
+      "reason": "全球AI龙头登陆资本市场，检验AI泡沫成色，科技与金融双重标志性事件。",
+      "impact_areas": [
+        "科技",
+        "经济金融"
+      ],
+      "impact_level": "现象级",
+      "sources": [
+        {
+          "name": "BBC",
+          "url": "https://www.bbc.co.uk/news/articles/c3x29ggenz12o?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "name": "Reuters",
+          "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPVmU0cXVPRUhwcDZpRkRudEI3bjNfMllQVEN3M09VWFNmQUJTck1UUE9mVERRbmFicElZMWxKVnd3UWpTNGY3R1JiZ0NnRnNBRHhLMkxkVC1vUWVOVzQ3NzcwMkoycTR0MC1LUnBfdUIyWl9OZE5xYnlVVmQ5bzdVZmdnVHFjUjh6dHZrbVVQdEFPaDNCUC1KSkZEMUlhcU9OeWFiWi10SGwxNTBpNE16aTd1MA?oc=5"
+        },
+        {
+          "name": "36氪",
+          "url": "https://www.36kr.com/newsflashes/4077276373456002"
+        },
+        {
+          "name": "虎嗅",
+          "url": "https://www.huxiu.com/article/4907028.html"
+        }
+      ],
+      "card": {
+        "category": "科技·资本",
+        "headline": "AI巨头上市，开盘市值两万亿",
+        "what": "人工智能公司Anthropic在美股挂牌上市，开盘市值约2万亿美元，首日收盘涨超17%，盘中一度涨34%后回落。",
+        "question": "AI公司的股票还能买吗？",
+        "means": [
+          "AI相关基金净值可能大起大落",
+          "科技公司上市潮或带来更多岗位"
+        ],
+        "note": "首日盘中曾跌破开盘价，估值是否过高仍待观察。"
+      }
+    },
+    {
+      "title": "中俄美三巨头会晤发表和平宣言",
+      "summary": "在APEC峰会期间，美国总统特朗普、俄罗斯总统普京与中国国家主席习近平举行历史性首次三方会晤，会后共同发表《和平宣言》。三方就全球安全与能源供应达成共识，承诺增加石油供应以应对全球能源转型。特朗普称此次访华非常精彩且影响深远，中方由外交部长王毅回应会晤评价。分析认为，此次会晤意在展示大国实力投射，但具体成果有限，在乌克兰停火等关键议题上未取得实质突破。",
+      "reason": "中美俄三国元首历史性同台并发表宣言，牵动大国关系与全球能源格局。",
+      "impact_areas": [
+        "地缘",
+        "政治",
+        "能源"
+      ],
+      "impact_level": "现象级",
+      "sources": [
+        {
+          "name": "BBC",
+          "url": "https://www.bbc.co.uk/news/articles/c623j4ln97x7o?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "name": "凤凰网",
+          "url": "https://news.ifeng.com/c/8yCDPTgbVhN"
+        },
+        {
+          "name": "财新网",
+          "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5qUjZKRS1BcG5FS2h6Z2lNQURzVlh6MktLQWlYWS1IWFFlRXZ2ZUVZbDE5R24tSFl2S1B1bDVtOWFLTEhmbXRobVJ2M2xxM2pUTGZ0TmlVRmoyM0pRUlVteWRR?oc=5"
+        },
+        {
+          "name": "NYTimes",
+          "url": "https://www.nytimes.com/2026/11/19/world/asia/russia-china-united-states-oil-joint-statement.html"
+        },
+        {
+          "name": "凤凰网",
+          "url": "https://original.ifeng.com/c/8yBuJYGTGqb"
+        }
+      ],
+      "card": {
+        "category": "地缘·外交",
+        "headline": "中美俄首次三方会晤，成果有限",
+        "what": "APEC峰会期间，中美俄三国领导人举行首次三方会晤并发表《和平宣言》，承诺增加石油供应，但乌克兰停火未获实质突破。",
+        "question": "油价会因此降一点吗？",
+        "means": [
+          "国内油价下调的可能性变大",
+          "外贸和出口行业气氛或转暖"
+        ],
+        "note": "宣言内容多为共识性表述，落地细节待公布。"
+      }
+    },
+    {
+      "title": "国际法院裁定缅甸种族灭绝",
+      "summary": "联合国国际法院（ICJ）作出裁决，认定缅甸对罗兴亚少数族群实施了种族灭绝。这是国际司法机构首次就缅甸罗兴亚问题作出此类判决。裁决在孟加拉国的罗兴亚难民营引发庆祝，但难民同时表达对后续执行的担忧。该判决还可能为就以色列和加沙问题提起类似诉讼设定先例。案件后续将进入赔偿与责任追究阶段。",
+      "reason": "国际法院历史性裁决，首度认定种族灭绝，对国际司法与地区格局影响深远。",
+      "impact_areas": [
+        "地缘",
+        "政治",
+        "社会"
+      ],
+      "impact_level": "重大",
+      "sources": [
+        {
+          "name": "BBC",
+          "url": "https://www.bbc.co.uk/news/articles/c804wzp20ddvo?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "name": "NYTimes",
+          "url": "https://www.nytimes.com/2026/11/19/world/europe/myanmar-genocide-icj-decision-.html"
+        }
+      ],
+      "card": {
+        "category": "国际·司法",
+        "headline": "国际法院裁定缅甸实施种族灭绝",
+        "what": "联合国国际法院裁定，缅甸对罗兴亚少数族群实施了种族灭绝，这是国际司法机构首次作出此类判决，案件将进入赔偿阶段。",
+        "question": "这种判决真能执行下去吗？",
+        "means": [
+          "在缅中资项目的风险评估可能上升",
+          "类似诉讼或成更多国家的参照"
+        ],
+        "note": "判决执行依赖各方配合，后续赔偿进展需核实。"
+      }
+    },
+    {
+      "title": "胡塞袭击利雅得沙特主权基金受损",
+      "summary": "也门胡塞武装对沙特首都利雅得发动袭击，沙特主权财富基金（PIF）最高建筑受损。此次袭击标志地区冲突升级，直接冲击沙特核心金融与投资机构。沙特为全球最大石油出口国之一，袭击事件令中东地缘风险溢价上升，可能影响国际油价与地区资本流动。事件与同期美伊、巴以紧张态势叠加，令海湾安全保障再度成为焦点。",
+      "reason": "胡塞武装袭击沙特首都核心资产，中东地缘风险骤升，直接牵动油价。",
+      "impact_areas": [
+        "地缘",
+        "能源",
+        "经济金融"
+      ],
+      "impact_level": "重大",
+      "sources": [
+        {
+          "name": "NYTimes",
+          "url": "https://www.nytimes.com/2026/11/19/world/middleeast/saudi-pif-riyadh-tower-houthis-attack.html"
+        },
+        {
+          "name": "凤凰网",
+          "url": "https://news.ifeng.com/c/8yBwnQtZJYw"
+        }
+      ],
+      "card": {
+        "category": "地缘·能源",
+        "headline": "胡塞袭击利雅得，油价风险上升",
+        "what": "也门胡塞武装袭击沙特首都利雅得，沙特主权财富基金最高建筑受损，地区冲突升级，中东地缘风险溢价上升。",
+        "question": "下轮油价调整会涨多少？",
+        "means": [
+          "加油和机票成本可能小幅走高",
+          "航运与化工企业成本压力增加"
+        ],
+        "note": "袭击是否会继续扩大尚不明朗，油价以官方调整为准。"
+      }
+    },
+    {
+      "title": "欧洲准备与俄谈判 基辅遭袭",
+      "summary": "欧洲领导人表示已准备好与俄罗斯就结束乌克兰战争展开谈判。与此同时，俄罗斯无人机大规模袭击基辅，荷兰与奥地利驻乌大使馆受损。普京在克里米亚大桥遇袭后表示，将不参与涉及乌克兰停火的谈判。局势呈现边打边谈态势，欧洲外交斡旋与军事对抗同步升温，停火前景仍不明朗，冲突外溢对欧洲安全与能源市场的压力持续存在。",
+      "reason": "俄乌战事与外交斡旋同步升级，处于欧洲安全格局的关键节点。",
+      "impact_areas": [
+        "地缘",
+        "政治"
+      ],
+      "impact_level": "重大",
+      "sources": [
+        {
+          "name": "BBC",
+          "url": "https://www.bbc.co.uk/news/articles/ckzd9nln5e6go?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "name": "NYTimes",
+          "url": "https://www.nytimes.com/2026/11/19/world/europe/ukraine-dutch-embassy.html"
+        },
+        {
+          "name": "NYTimes",
+          "url": "https://www.nytimes.com/2026/11/19/world/europe/putin-shenzhen-crimea-bridge.html"
+        }
+      ],
+      "card": {
+        "category": "地缘·俄乌",
+        "headline": "欧洲准备和谈，基辅同时遭袭",
+        "what": "欧洲领导人表示已准备好与俄罗斯就结束乌克兰战争谈判，同时俄无人机大规模袭击基辅，荷兰与奥地利驻乌使馆受损。",
+        "question": "这场仗今年还停得下来吗？",
+        "means": [
+          "欧洲航线与旅游成本或继续波动",
+          "能源和粮食价格的扰动尚未结束"
+        ],
+        "note": "谈判尚未正式启动，停火时点没有明确时间表。"
+      }
+    },
+    {
+      "title": "加州调查中国获取英伟达技术",
+      "summary": "美国加利福尼亚州正调查中国是否通过不当途径获取英伟达（Nvidia）的先进芯片技术。此举反映美国对中国获取AI算力芯片的监管持续收紧，是中美科技博弈的最新动向。调查可能引发对相关供应链与出口管制的进一步收紧，影响全球AI芯片贸易格局，并波及芯片设计、制造与下游算力应用企业的合规安排。",
+      "reason": "中美芯片博弈升级，事关AI算力获取与出口管制走向。",
+      "impact_areas": [
+        "科技",
+        "地缘"
+      ],
+      "impact_level": "重大",
+      "sources": [
+        {
+          "name": "BBC",
+          "url": "https://www.bbc.co.uk/news/articles/cqn70vxp5p4no?at_medium=RSS&at_campaign=rss"
+        }
+      ],
+      "card": {
+        "category": "科技·芯片",
+        "headline": "加州调查芯片技术流向中国",
+        "what": "美国加利福尼亚州正调查中国是否通过不当途径获取英伟达先进芯片技术，中美科技博弈与出口管制可能进一步收紧。",
+        "question": "国内AI算力会不会更难买？",
+        "means": [
+          "国产算力替代的机会或被推快",
+          "相关从业者要留意合规与供货风险"
+        ],
+        "note": "调查尚在进行，是否追加管制需看官方结论。"
+      }
+    },
+    {
+      "title": "美联储12月加息概率达96.4%",
+      "summary": "市场数据显示，美联储12月加息25个基点的概率升至96.4%，货币政策转鹰预期强化。与此同时，美股三大指数集体收跌。加息预期升温将推高全球融资成本，影响汇率、债市与新兴市场资本流动，并间接传导至房贷、消费信贷等居民端利率。作为关键宏观信号，其落地与否将左右年末全球资产定价与美元走势。",
+      "reason": "美联储加息预期几成定局，全球资金与利率环境面临重定价。",
+      "impact_areas": [
+        "经济金融"
+      ],
+      "impact_level": "重大",
+      "sources": [
+        {
+          "name": "36氪",
+          "url": "https://www.36kr.com/newsflashes/4077281425773698"
+        }
+      ],
+      "card": {
+        "category": "经济·利率",
+        "headline": "美联储12月加息几成定局",
+        "what": "市场数据显示，美联储12月加息25个基点的概率升至96.4%，美股三大指数集体收跌，全球融资成本预期走高。",
+        "question": "我的房贷利率会跟着涨吗？",
+        "means": [
+          "换美元、买进口货可能更贵",
+          "理财和债券收益波动会加大"
+        ],
+        "note": "概率来自市场预期，最终以美联储决议为准。"
+      }
+    },
+    {
+      "title": "SpaceX拟发债建AI数据中心",
+      "summary": "SpaceX据悉计划发行至少320亿美元与AI芯片相关的债务，其240亿美元的数据中心及电厂项目已获美国得州批准。Anthropic首席执行官表示目前与SpaceX合作愉快、算力服务质量良好。此举显示科技巨头正以巨额举债方式扩张AI基础设施，算力军备竞赛进入资本密集新阶段，也将加剧对电力与数据中心资源的争夺，推升相关能源与基建需求。",
+      "reason": "AI算力基建巨额融资，反映科技资本开支与能源需求集中爆发。",
+      "impact_areas": [
+        "科技",
+        "经济金融",
+        "能源"
+      ],
+      "impact_level": "重大",
+      "sources": [
+        {
+          "name": "36氪",
+          "url": "https://www.36kr.com/newsflashes/4077282039796611"
+        },
+        {
+          "name": "36氪",
+          "url": "https://www.36kr.com/newsflashes/4077286098244740"
+        }
+      ],
+      "card": {
+        "category": "科技·算力",
+        "headline": "SpaceX举债320亿美元建AI数据中心",
+        "what": "SpaceX据悉计划发行至少320亿美元与AI芯片相关的债务，其240亿美元的数据中心及电厂项目已获美国得州批准。",
+        "question": "AI烧的钱最后谁来买单？",
+        "means": [
+          "算力扩张会带动电力与基建需求",
+          "相关能源和基建岗位需求或增加"
+        ],
+        "note": "发债规模与项目进度仍属计划，需以公告为准。"
+      }
+    },
+    {
+      "title": "以军完成加沙黄线外地面行动",
+      "summary": "以色列军方宣布完成在加沙地带《黄线》以外区域的地面军事行动，标志以军行动范围进一步扩大。此举可能加剧加沙人道局势，并对地区停火安排构成挑战。中东紧张局势与沙特遇袭等事件叠加，令地区风险持续处于高位，也可能延宕相关外交谈判与重建进程，影响国际社会对巴以问题的应对节奏。",
+      "reason": "以军扩大加沙地面行动，中东局势与人道危机持续恶化。",
+      "impact_areas": [
+        "地缘",
+        "政治",
+        "社会"
+      ],
+      "impact_level": "重大",
+      "sources": [
+        {
+          "name": "BBC",
+          "url": "https://www.bbc.co.uk/news/articles/cw8r7510degno?at_medium=RSS&at_campaign=rss"
+        }
+      ],
+      "card": {
+        "category": "地缘·中东",
+        "headline": "以军扩大加沙地面行动范围",
+        "what": "以色列军方宣布完成加沙地带《黄线》以外区域的地面军事行动，行动范围进一步扩大，地区停火安排面临挑战。",
+        "question": "中东乱局会把油价再推高吗？",
+        "means": [
+          "国际油价的风险溢价可能延续",
+          "航运绕行和运费上涨压力仍在"
+        ],
+        "note": "局势仍在变化，人道与停火进展需持续核实。"
+      }
+    },
+    {
+      "title": "宝洁拟削减三成制造物流岗位",
+      "summary": "消费品巨头宝洁宣布计划到2030年削减最多30%的制造和物流员工，反映其正加速自动化与供应链重组。作为全球日化龙头，此举是大型跨国企业以AI和自动化替代人力的最新案例，可能引发对制造业与物流就业岗位流失的担忧，并对相关供应链、用工市场及区域经济产生连锁影响，也与当前美联储加息、企业降本的大环境相呼应。",
+      "reason": "全球日化巨头大幅裁员，折射自动化替代人力与就业结构变化。",
+      "impact_areas": [
+        "产业",
+        "就业"
+      ],
+      "impact_level": "重大",
+      "sources": [
+        {
+          "name": "36氪",
+          "url": "https://www.36kr.com/newsflashes/4077283666613384"
+        }
+      ],
+      "card": {
+        "category": "产业·就业",
+        "headline": "宝洁计划削减三成制造物流岗",
+        "what": "消费品巨头宝洁宣布，计划到2030年削减最多30%的制造和物流员工，加速自动化与供应链重组。",
+        "question": "自动化会不会先替掉我的岗位？",
+        "means": [
+          "制造业和物流岗位竞争会更激烈",
+          "自动化和设备维护技能更吃香"
+        ],
+        "note": "裁员比例为上限计划，具体节奏看公司后续公告。"
+      }
+    }
+  ],
+  "total_fetched": 174,
+  "generated_at": "2026-11-20T07:26:52.911087+08:00"
+}
