@@ -1,86 +1,102 @@
-# 2026-11-19 原始新闻标题 (229 条)
+# 2026-11-19 原始新闻标题 (283 条)
 
-## 澎湃新闻 (14 条)
+## 澎湃新闻 (20 条)
+- 马上评｜伪造、篡改数据和图表，如此论文为何能一路过关 - ThePaper.cn
+- 马上评｜15元起步，扫共享单车不该是开盲盒 - ThePaper.cn
+- 《一切如你所见》背后：选择健康的义务与滴血验癌商业帝国的破灭 - ThePaper.cn
+- 2026美国国家图书奖揭晓，拉什迪获杰出贡献奖 - ThePaper.cn
+- 山间奇谭｜夜郎不自大 - ThePaper.cn
+- 消费者称在张家界所购五千多元的朱砂饰品物、照不一，商家已退货却拒绝三倍赔偿 - ThePaper.cn
+- 12.89微米的极致：四代草原坚守，鄂尔多斯羊绒站上世界顶级赛道 - ThePaper.cn
 - 不建一座新馆，长春简约办大冬会、升级重塑城市公共空间 - ThePaper.cn
+- 天生斗鸡眼，这只哈士奇像个劣质的动物标本 - ThePaper.cn
 - 石景山衙门口再供地、13.27亿起拍 - ThePaper.cn
-- 美媒：内塔尼亚胡为保住其总理职位，可能重启与伊朗的全面战争，知情人称其选前曾主张新一轮打击，遭以军总参谋长反对，担心破坏选举进程 - ThePaper.cn
+- 不用出馆就能“体验”滑雪马术，市科技馆上新两大主题展区邀你体验 - ThePaper.cn
 - 刘旺先当选云浮市市长（附简历） - ThePaper.cn
 - 贵州大学用作实验的黄牛在校内乱窜，有人试图阻拦被顶翻在地，学校：牛已被抓获，所幸未伤到人，跑出实验室原因暂未知 - ThePaper.cn
 - 专访｜澳专家：APEC开AI专题会是积极信号，至少先迈出一小步 - ThePaper.cn
-- 黄金跌破3800美元，高盛2次下调黄金目标价 - ThePaper.cn
+- 从深圳APEC到北京会晤：阿尔巴尼斯再访华，澳大利亚如何破解“双重身份之困” - ThePaper.cn
 - 《青年医学家》｜赵铎：无症状瓣膜病可以忽视不管？ - ThePaper.cn
+- 黄金跌破3800美元，高盛2次下调黄金目标价 - ThePaper.cn
+- 胃病好了50%，别大意，这3个保养“绝招”要坚持 - ThePaper.cn
 - 方言：聪明人追求高薪，智慧的人选能飞更高的平台 - ThePaper.cn
-- 点样饮茶先至健康？ - ThePaper.cn
-- 2.45亿过敏性鼻炎患者，做脱敏治疗的为何不多? - ThePaper.cn
-- 隐匿的“甜蜜陷阱”——糖尿病低血糖如何悄悄侵蚀全身 - ThePaper.cn
-- “林肯”号水手跳海不是自杀？美代理海军部长改口：是“自杀缓解措施” - ThePaper.cn
-- 体检发现肺部“磨玻璃结节”，离肺癌有多远？ - ThePaper.cn
+- 研究新发现：牙齿健康与大脑健康密切相关 - ThePaper.cn
 
-## 南方周末 (2 条)
+## 南方周末 (6 条)
+- 4000万吨固废大考：新能源上市公司固废信披观察（2025—2026）
+- 居民当甲方，老厂生新业：武汉向存量要空间
+- 来，让我们一起去上房揭瓦丨记者手记
+- 超半数企业不及格：新能源上市公司固废信披存短板
 - 35年，APEC的中国轨迹
 - 微软裁员六万的背后：大学别再培养标准化的“可替换零件”
 
 ## 凤凰网 (20 条)
-- 体操名将退役后发现原单位未缴社保，官方已介入
-- 哥伦比亚：拒绝美军在境内搞这项活动
-- 美国药监局：司美格鲁肽或增加失明风险
-- 金饰克价跌至1125元，年内已暴跌近600元
-- 集体合影前外宾在做什么？
-- 无人机凭何抗干扰？俄军地下无人机生产与战训设施曝光
-- 皮尤研究中心：到2035年，穆斯林人口将超过基督徒人口
-- 24小时遭80多次空袭，胡塞武装宣称已夺大片领土并报复沙特
-- 他将成为美众议院首位非裔议长
-- “有男粉丝藏在床底”，刘德华亲自证实多个传闻：都是真的
-- 风声｜深圳为什么能成为“95后最喜欢的城市”？
-- 学者：伊朗希望“不战屈人之兵”，任何一方都不会作重大让步
-- 墨美总统深圳进行20分钟会晤
-- 建校刚满10年，普京到访深圳这所中俄合办大学
-- 以媒称以色列考虑未来几天内打伊朗
-- 美军在中东的航母，从三艘变成了两艘
-- 伊朗民众盼中俄美会晤给局势降温
-- 特朗普和菲律宾前第一夫人重逢，赞她永远最美，被曝夜宵吃炸鸡
-- 事关对华出口，美国国会手伸太长，荷兰公开说“不”
-- 划清界限？马斯克称自己不是MAGA
+- 结论突然反转，留下一地猜疑
+- 黄仁勋离任后，英伟达首次全员大会！临时CEO发声
+- 彭丽媛同亚太经合组织经济体领导人或代表配偶参观“岭南非遗传承与创新”主题展
+- 中俄美元首有史以来首次聚首！开场白说了什么？
+- “监管要求基金公司上报全部产品AI敞口”不实（2026·11·19）
+- 河北一县重点民生工程被曝拖欠工程款3年不还，当地政府回应
+- 有中国血统的瑙鲁总统再访华，首位参谒黄帝陵的外国领导人
+- 克宫发布视频：会见特朗普后离开会场，普京用中文回应与会者：“谢谢”
+- 香港碎尸案蔡天凤前夫首次出庭作供：承认对方再婚后，仍保持亲密关系
+- 韩国前第一夫人金建希首案终审被判有期徒刑4年
+- 胡锡进：特朗普表示不支持“台独”，台湾对美国的战略价值正加速贬值
+- 列车上乘客突发身体不适，3位参加培训的医生伸出援手
+- 金价大跌，第一批受害者出现了
+- 两大合作都快黄了，欧洲防务自主为啥总卡在法德内斗？
+- 男子给妻子送66万现金花束，专家：赤裸裸的炫富行为
+- APEC宴会桌惊艳！齐聚上海、北京、深圳三地地标
+- 马斯克在“空军一号”看元首互动
+- 2027届全国普通高校毕业生规模预计1299万人
+- 用AI伪造色情影像1141份，在韩留学中国博士生获刑1年半
+- 凤凰观察：中俄美元首会晤天时地利人和
 
-## 财新网 (20 条)
-- Anthropic IPO定价83美元/股超预期 募资逾800亿美元成史上最大IPO
-- 不系之舟：2027年全球大类资产展望
-- 【华尔街原声】马斯克：SpaceX与特斯拉合并或更有利
-- APEC领导人如何看待AI产业发展？
-- 习近平APEC讲话：推动建设和衷共济的亚太共同体
-- 【华尔街原声】马斯克：若关闭星链，乌克兰前线将立即崩溃
-- 爽剧与经典
-- 高市提出在深圳会见普京 俄日领导人时隔7年再次实现面对面会谈
-- 伍戈：“三支箭”化解地方债务压力
-- 【华尔街原声】马斯克：后悔在美国中期选举中花费巨资
-- 【商圈】六十四岁出山挽救波音 航电老将奥特伯格挑战重重（上版）
-- 【华尔街原声】马斯克：黄仁勋本应留任英伟达CEO
-- 化债的“最后一公里”
-- 为什么大多数陨石都在无人区被找到？｜科学
-- 今日开盘：两市双双低开 沪指跌幅0.13%
-- 财新闻｜美国悬赏1000万美金，征集缅甸电诈园区洗钱线索
-- 【市场洞察】蚂蚁研究院：知识型职业AI渗透率更深 初级岗位就业或率先承压
-- 腾讯投入AI拉低利润 算力投入持续至2028年
-- 【市场动态】AI需求叙事降温 多头撤退令铜价重挫逾5%
-- T早报｜Anthropic IPO发行定价83美元/股；腾讯：AI能让业务“用更少的人”；英伟达召开内部全员会
+## 财新网 (19 条)
+- 携程CEO孙洁：中国入境游快速增长 但整体规模、对经济贡献力度仍有提升空间
+- 中俄美元首发表和平宣言 重申核战争打不赢也打不得
+- 邹澜：中国征信业的发展与变革
+- 习近平主持中俄美元首会晤 就大国如何为世界和平托底提出四点看法
+- 玄素之辨：一次关于黑白本体的学术“冒险”｜观展
+- 中韩自贸协定升级谈判实质性完成 中方承诺给予韩国电影、游戏最惠国待遇
+- 研究称十年内伊斯兰教或超过基督教 成全球第一大宗教
+- DeepSeek完成工商变更 千亿融资落地
+- 周日的大提琴时间，让我们在琴声中重新养育自己｜故事
+- 特朗普普京在深圳会晤 乌克兰问题成主要议题
+- 周天勇：弄清经济还能中高速增长的历史和道理
+- 全球加快推进可持续燃料应用 行业仍需政策和资金支持
+- 习近平会见特朗普：中美应确保人工智能始终处于人类控制之下
+- 特朗普解雇美联储理事案再起波澜 库克拒绝出席白宫听证会
+- 迪拜商会：中国成为迪拜汽车进口第一大来源地
+- 视线｜38城预警、PM2.5同比反弹 超强厄尔尼诺下的防霾考验
+- 美国想“Copy Shenzhen”，深圳真正难复制的是什么
+- 卡兹别克山抒情诗：普希金 VS 斯大林｜南高加索文学之旅④
+- 贝壳累计拒签逾5000单风险交易 二手房资金监管仍存难点
 
-## 央视网 (6 条)
+## 央视网 (11 条)
 - 别让你的骨头比你先老 预防骨质疏松记住“3+4” - 央视网
-- 美媒：“华盛顿”号航母离开中东地区 - 央视网
-- 应对寒潮降温天气 各地积极保障供暖 - 央视网
-- 候鸟迁徙盛景 见证生态不断向好 - 央视网
+- “考古中国”重大项目取得新成果 - 央视网
+- 我国新增34家领航级智能工厂 - 央视网
+- 大熊猫“林阳”因病救治无效死亡 时年25岁 - 央视网
+- 上“新”+4！“考古中国”重大项目新成果串联起长江文明漫长线索 - 央视网
+- 商务部消费促进司负责人谈2026年1—10月我国消费市场情况 - 央视网
+- 伊朗警告地区国家不要为美打击伊朗提供领土设施 - 央视网
 - 中国科学家在COP31提出航运业负排放新路径 - 央视网
-- 我国铁路运输市场保持旺盛需求 - 央视网
+- 新一轮国资国企改革规划部署基本完成 - 央视网
+- 八省（市）将开展6G创新发展部省协同试点 - 央视网
+- 2026年度中央安全生产考核巡查启动 - 央视网
 
-## BBC (18 条)
-- Inside the old gas pipeline where Ukraine is fighting an underground war with Russia
-- 'The drones don't fly here' - BBC reports from Ukraine's new front line
-- Myanmar faces historic genocide verdict at UN court over Rohingya massacres
-- AI giant Anthropic valued at up to $1.5tn ahead of stock market debut
+## BBC (20 条)
+- This is a remarkable diplomatic moment for China's Xi - but it comes with pitfalls
+- Dozens missing after boat carrying 100 migrants sinks off Senegal's coast
+- Anthropic raises $81bn in record-breaking stock market debut
 - Van Gogh painting sells for record $190.4m after row over its Nazi history
-- Crimean Bridge attacked again, Russian official says
-- Israeli military launches rare ground operation in Gaza beyond Yellow Line
-- Elon Musk says record spending on US midterms was 'pretty foolish'
+- Crimean Bridge attacked again, Russia says
+- Survivors of Uganda's deadly landslide seek justice at the UN
+- 'It's a dream come true' – South African DJ celebrates featuring in GTA 6
+- Inside the old gas pipeline where Ukraine is fighting an underground war with Russia
+- Israeli military completes ground operation in Gaza beyond Yellow Line
+- Elon Musk says record $446m spending on US midterms was 'pretty foolish'
 - Russian arrested for spying on US defence company Palantir over Ukraine support
 - William and Kate meet PM Modi as they wrap up India tour
 - Democrats nominate Hakeem Jeffries to be US Speaker of the House
@@ -89,42 +105,42 @@
 - Catherine visits Mumbai maternity hospital on the last day of royal trip
 - New video shows explosions moments before part of Crimea Bridge collapses
 - Fiona the hippo undergoing care after swallowing a hat at Cincinnati Zoo
-- India's religious make-up - what a new Pew study says about Hindus and Muslims
-- Can Anthropic's record-breaking IPO stop the AI bubble bursting?
+- Simon Jack: Can Anthropic's record-breaking IPO stop the AI bubble bursting?
+- The seven Anthropic founders who are about to become multi-billionaires
 
 ## Reuters (10 条)
-- Anthropic IPO to mint thousands of millionaires - Reuters
+- Anthropic raises record $81 billion in IPO at $1.5 trillion valuation - Reuters
 - Surge in software patches likely behind recent tech outages; bank regulators on alert - Reuters
-- Anthropic clinches biggest IPO ever with $81 billion offering - Reuters
-- Top UN court to rule on alleged genocide of Myanmar's Rohingya - Reuters
-- Nvidia retreats as strong outlook fails to dispel uncertainty - Reuters
-- Republican Senator Cornyn blocks Trump judicial nominee in Texas - Reuters
-- Threats from Iran have increased substantially, US intelligence director says - Reuters
-- Top House oversight Democrat to investigate Trump family corruption, Epstein files - Reuters
+- US judge says ICE 'made a mockery of court orders' in Colorado - Reuters
+- EXCLUSIVE: India to charge bulk Scotch imports 162.5% duty and tax amid UK pact standoff - Reuters
+- Illinois man indicted on 'terrorism' charges in foiled plot to target Hindu temple, police say - Reuters
 - How the Anthropic IPO stacks up against SpaceX - Reuters
-- UAE top destination for smuggled African gold despite tighter measures, NGO says - Reuters
+- NEWSLETTER: Gulf conflict end date? Depends on who you ask - Reuters
+- GTA VI frenzy spotlights potential insurance risks lurking in digital infrastructure - Reuters
+- Trump says he referred to ex-Nvidia boss Huang's situation 'briefly' in talk with Xi - Reuters
+- NEWSLETTER: Can Jensen Huang come back? - Reuters
 
 ## NYTimes (20 条)
-- Trump, Xi and Putin Shake Hands as Leaders Gather in China
+- A Village Burned, Its People Killed or Exiled. Was It Genocide?
+- Colombia’s President Is Acquiring a Reputation for Courting Controversy
+- After Train Crash, Spain Asks if High-Speed Rail Grew Too Fast
+- Netanyahu Associates Acknowledge Role in Setting Off Election Day Arrests
 - Israeli Tanks Advance Across Gaza Cease-Fire Line in Rare Incursion
-- Russia Vows to Rebuild Destroyed Crimea Bridge. It Could Take Years.
+- After Crippling Crimea Bridge, Ukraine Attacks It Again
 - Carney and Trump Hold Unscheduled Trade Meeting at Asia Summit
-- Boris Grebenshchikov, a Russian Rock Musician With a ‘Need to Rebel’
-- Tracking China’s Intensifying War of Words Against Japan
+- What to Know About the Myanmar Genocide Case at the World Court
+- On nukes, Trump says, ‘It’s very hard to give them up.’ It’s been done before.
+- A village was burned, its people killed or exiled. Was it part of a genocide?
+- Inside COP31: Part Trade Show, Part Climate Therapy Session
+- Aung San Suu Kyi did not condemn the pogroms against the Rohingya.
+- Half a world from The Hague, Rohingya refugees know nothing of a genocide trial.
+- Here’s the latest.
+- Villa Where Trump, Xi and Putin Met Once Hosted Kim Jong-il
+- Putin Returns to APEC ‘Family Photo,’ Testing Western Leaders
+- How the War in Iran Will Remake the Global Energy Order
 - How to Decode the Xi-Trump Hug
 - Was China Sending a Musical Message to Japan’s Takaichi During APEC Welcome?
 - Florida Man Found Guilty in Plot to Kill Haiti’s President
-- After A.I. Cheating Scandal, South Korea Adopts New Restrictions for Grueling College Entrance Exam
-- India is not in the room in Shenzhen, but it’s watching closely.
-- Here’s the latest.
-- How We Broke Open the Nvidia Investigation
-- Uncontacted Awá of Brazil Emerge From Rainforest Seeking Food
-- Grand Theft Auto: An American Icon, Born in Britain
-- Undoing Brexit
-- Colombia Rejects Joint Plan With U.S. to Target Drug Gangs
-- Nepal Came to COP31 in Dire Need. It’s a Test for the World.
-- ‘Shocking’ Signs of Climate Change Add Urgency to COP31 Talks
-- The Shadow of Yalta Hangs Over Trump’s Summit in China
 
 ## CNN (6 条)
 - 0% intro APR until 2024 is 100% insane
@@ -135,112 +151,154 @@
 - Want Cash Out of Your Home? Here Are Your Best Options
 
 ## 微博热搜 (20 条)
-- APEC重要讲话
-- 特朗普在车内未拉窗帘欣赏深圳夜景
-- 一图看中国与APEC经济体双向奔赴
-- 陆毅鲍蕾问界新M8体验官
-- 普京特朗普APEC会议现场画面
-- 后会友期
-- 特朗普感激中国
-- 大学生喜爱内容共创计划
-- APEC全家福
-- 中俄美元首座驾首次同框
-- APEC中国年亚太共同体建设启新程
-- 甄嬛传剧组故意没让颖儿学礼仪
-- 白敬亭开美颜后秒变张踩玲
-- 金价
+- APEC晚宴用荔枝冰酒销量暴增900倍
+- 中俄美元首一张圆桌三个座位
+- APEC强劲发力激活亚太经贸新动能
+- 中俄美元首和平宣言
+- 中方回应高市早苗礼宾安排
+- 竞燃之夜内场
+- 香港缤纷冬日巡礼
+- 中俄美元首会晤高清大图
+- APEC记者们已经累瘫了
+- 中俄美三国元首会晤
+- 华为超薄表
+- 王子璇把马天宇张萌梭哈了
 - 胖东来撤走后降到四百万依然没有人接盘
-- 北大时期张泉灵美成女儿国国王了
-- 奔跑吧大湾区篇8常驻14飞行
-- 特朗普普京等步入会场
-- 妈妈呼喊女儿被骂不准外地人随便叫
-- 白宫发布特朗普访华视频
+- 陈晓楠评价文吉儿
+- 蒋欣要拍后会无期了
+- 青稚张家齐聊天
+- 马天宇对王子璇说给你贷款会觉得有危险
+- 特朗普说深圳真的是个非常棒的城市
+- 竞燃之夜座位图
+- 谷歌推出Gemini 4 Neon模型
+
+## 知乎热榜 (20 条)
+- 瞎扯 · 如何正确地吐槽
+- 为什么现在的棉服填充物都是聚酯纤维而不是棉花？
+- 多动症患者（ADHD）既然是缺乏多巴胺，但为什么他们看上去都很快乐？
+- 东市买骏马、西市买鞍鞯、南市买辔头、北市买长鞭，古人为什么不在一个地方一次性买完全部东西？
+- 美国大都会博物馆里面为什么要有中国园林？
+- 西安遍地是文物，那罗马是否也是如此？
+- 古代贵族饭桌上，有哪些流传至今的「点心」？
+- 瞎扯 · 如何正确地吐槽
+- 《福尔摩斯》原著里头的房东太太为什么会像个仆人一样伺候她的租客？
+- 你觉得哪一项计算机技术被大众严重低估了？
+- 如果一个国家没有政府会怎么样?
+- 瞎扯 · 如何正确地吐槽
+- 有以碱液消化食物的动物吗？
+- 有什么廉价但是技术含量很高的东西？
+- 研究称全球变暖阻断了下一个冰河时代，这一结论具有哪些科学意义？
+- 瞎扯 · 如何正确地吐槽
+- 电影放映中途为什么不暂停给上厕所的时间？
+- 拆弹的时候为什么不一下把线全剪了?
+- 有哪些技术遗失后又被重复发明的例子?
+- 研究称穿袜子睡觉可缩短入睡时间 7.5 分钟，是真的吗？背后的原理是啥？
 
 ## B站热门 (20 条)
-- 纯黑《GTA6》丧心病狂攻略解说 第一期
-- 老戴《侠盗猎车手 6》初见开荒全实况流程解说【GTA 6】
-- ⚡赵本山《Bad Guy》大忽悠｜象牙山蹦野迪⚡【AI MV大赛】
-- 对不起 欺骗了大家这么久 以后不会了
-- 厨师长的回忆录在学徒时期晚饭吃的是什么边角料，白菜面条，铁板鹅肝美食制作
-- 【IGN】10分，《GTA 6》评测：这个时代最伟大的游戏
-- 在普罗米厄的怀抱下
-- 英伟达拒绝黄仁勋，史上最大的泡沫更脆弱了
-- 【4K】全网首发《GTA6》主线全流程实况解说
-- 【IGN】《黄金矿工：派对狂欢》22分钟实机演示
-- THANK YOU ZmjjKK
-- 恶役千金题材作品天花板！全集93分钟一次看过瘾，《恶役千金的真面目》漫画剧情深度解析
-- 历史性峰会！为什么是APEC？是中国？是深圳？
-- 《GTA6》已通关，无剧透聊聊R星有多无敌【视频播客 EP.81】
-- 灭霸的班级被奖励看电影
+- 坐牢难，但出狱其实更难，如果你犯罪了，你会面临什么样的人生
+- 以防你不知道GTA6的狗子会开游艇来救你！
+- 【侠盗猎车手6】4K 最高画质 全网首发 全任务 全剧情流程通关攻略 开放世界冒险游戏 GTA6 - Grand Theft Auto VI
+- 【纪录片】人生一串 第四季 03 十二时辰
+- Thank you, Choi 'Doran' Hyeon-Jun
 - 19 国领导人轮番谈钱，谁最直接，谁藏了小九九？2026·APEC
-- 非凡魔丸
-- 在车上唱歌，被警车从洛圣都追到罪恶城…！？
-- 两个不同场景的地堡，你们觉着这设计合理吗
-- 又一部毁童年神作！诱拐儿童，骚扰护士，发疯大屠杀，这真是小孩子能看能演的吗？《逃出布迪秀》
+- 在普罗米厄的怀抱下
+- 厨师长的回忆录在学徒时期晚饭吃的是什么边角料，白菜面条，铁板鹅肝美食制作
+- 玩刀锋宝贝后再玩阿珂以为自己开挂了。
+- 恶役千金题材作品天花板！全集93分钟一次看过瘾，《恶役千金的真面目》漫画剧情深度解析
+- 对不起 欺骗了大家这么久 以后不会了
+- 开着理想MEGA,我们要用七天吃遍山西！（哦对了还有玩）
+- 纯黑《GTA6》丧心病狂攻略解说 第一期
+- 【徐静雨】抢个车，干个NPC？对不起，GTA6这种玩法我早就腻了！
+- 【IGN】《黄金矿工：派对狂欢》22分钟实机演示
+- 那些被黑客入侵的游戏，最后都怎么样了？
+- 老戴《侠盗猎车手 6》初见开荒全实况流程解说【GTA 6】
+- 臣妾要告发熹贵妃不肯私通
+- 从恒生指数看港股这57年【1969-2026】【特效数据可视化】
+- 当美院人玩涂鸦躲猫猫真人版 2.0
 
 ## 抖音热搜 (20 条)
-- 2026年APEC领导人非正式会议
+- 中俄美元首会晤
+- 中俄美元首和平宣言
+- 为何都说APEC需要中国
 - 普京特朗普欢迎晚宴互动握手
-- APEC吸引全球目光
-- 普京到访深圳高校发表演讲
-- APEC美食硬控各国来宾
-- 特朗普出席深圳APEC欢迎宴会
-- 俄美专机在深圳机场同框
-- 普京在APEC峰会点赞深圳
-- 为啥APEC在深圳办
-- 高盛预测金价或重返5600美元
-- 一条视频读懂APEC
+- 澳大利亚总理发布逛深圳超市照片
+- APEC会议围巾的中国式浪漫
 - 美联储沃勒称12月或加息50基点
-- 特朗普深圳之行有哪些看点
-- 泰国总理阿努廷飙粤语称很开心
-- 没人能拒绝下雪天的哈尔滨
-- GTA6游戏测评
-- EDG官宣郑永康ZmjjKK离队
+- 世界看深圳 深圳看未来
+- 如何用镜头拍出苏东坡古诗的韵味
+- 中方回应高市早苗接机仪式
+- 旅行者1号正式抵达1光日
+- 橘子海剪影宿命感拉满
+- 严苛的训练几乎要了我的命
+- 俄美专机在深圳机场同框
+- APEC带给年轻人哪些新机遇
+- 我国成功发射实践二十四号卫星
 - 慌啥子嘛要好好吃饭呀
-- 忘情牛肉面舞蹈大赛
-- 成毅新剧叛逆儿子
+- 当甲亢哥第一次玩GTA6
+- GTA6背后的商业豪赌
+- 伪史论为什么越离谱越有人信
 
-## 丁香园 (2 条)
+## 豆瓣讨论 (1 条)
+- 简直双标完了 - 豆瓣
+
+## 丁香园 (1 条)
 - 医院活动 - 丁香园
-- 【医院文化建设】我院顺利举办广西科技大学第十二届大学生科技节“指尖上的生命” 医学模型大赛 - 丁香园
 
 ## 雪球热帖 (5 条)
+- 巨星农牧(603477)：行业低谷期 生猪养殖业务增效降本 - 手机新浪网
 - 互联网行业2027年AI展望：双寡头格局定调ARR稳健放量 Agent-lnfra成破局迭代主线 - 新浪网
 - 安记食品：2026年半年度与行业相关的定期经营数据公告 下载公告 - 新浪网
-- AI人工智能ETF平安（512930）跌2.77%，半日成交额5571.58万元 - 新浪财经
-- 人工智能ETF华夏（515070）跌2.63%，半日成交额5345.31万元 - 新浪财经
-- 人工智能ETF易方达（159819）跌3.01%，半日成交额2.12亿元 - 新浪财经
+- 超声电子 - 新浪网
+- 韩国今年出口额首次突破1万亿美元 - 新浪财经
 
 ## 36氪 (20 条)
-- OpenAI进军手机领域，富士康旗下富智康集团获组装订单
-- 习近平对老龄工作作出重要指示
-- 联想集团第二季度营收首破2000亿元，ISG及SSG运营利润占比超六成
-- 恒指午间休盘跌1.89%，恒生科技指数跌2%
-- 马斯克：要继续在中国加大产量
-- 腾讯回应绿泡泡短剧业务：阅文IP等精品内容推动用户快速增长，对广告收益拉动明显
-- 半日主力资金加仓电子板块，抛售计算机、传媒板块
-- 谷歌推出Gemini 4 Neon模型
-- 瑞斯康达：算力DCI产品正开展客户测试验证及市场投放
-- A股三大指数午间休盘集体下跌，电脑硬件板块领跌
-- “原力无限INFIFORCE”完成数千万元Pre-B轮融资
-- 机构：手游《明日方舟》累计海外收入超10亿美元
-- 现货黄金失守3700美元关口
-- 中国铝业旗下西南铝业集团增资至42.2亿，增幅111%
-- 三大指数均跌超1%
-- 韩国投资者9月净买入102亿美元美股，为4月以来最多
-- 我国16座水库进行“三个大坝”建设试点
-- 日本央行行长称将根据经济和物价前景决定加息步伐
-- 国家网络安全通报中心发布JAVA远程代码执行高危漏洞预警
-- 迈得医疗：药械组合类装备正面向医美、减重注射笔等开拓客户
+- 傲拓科技：科创板IPO发行价确定为18.18元/股
+- 燧原科技：在手订单充沛，并正在与多家国内半导体产业伙伴进行合作
+- 阿里财报：国际站GMV持续双位数增长，Accio付费企业数翻倍
+- 全国首条超百公里纯氢长输管道正式启运
+- 欧洲央行管委穆兰称，油价导致通胀仍然过高
+- 中俄美元首和平宣言
+- 天阳科技：签订航空互联网项目建设与运营合同
+- 慈文传媒：公司AIGC平台尚未形成相关收入
+- 顺丰控股：10月速运物流业务收入194.08亿元，同比下降3.40%
+- 圆通速递：10月快递产品收入65.12亿元，同比增长4.76%
+- 长鑫科技：回购金额增至25亿元-50亿元获董事会通过
+- 阿里巴巴：截至2026年9月30日止季度，公司斥资2.21亿美元回购224万股美国存托股
+- 节能国祯：全资子公司联合体中标十水厂新建工程施工项目
+- 3连板盛剑科技：电子化学品材料业务不包括光刻胶产品
+- 华立股份：控股股东提议回购5000万元-1亿元公司股份
+- 腾讯控股获南向资金净买入38.40亿港元
+- 蚂蚁集团第二财季为阿里巴巴利润贡献5.16亿美元
+- 海光信息：首次回购公司股份137.67万股，支付2.35亿元
+- 阿里Q2财报：阿里云外部经常性收入增长67%，电商EBITA增长243%
+- 阿里巴巴：2027财年第二季度营收2715.19亿元，同比增长10%
 
-## 虎嗅 (5 条)
-- 复星医药押注的阿尔茨海默病新药AR1001三期数据公布，总人群未达统计学意义 - 虎嗅
-- 携隐Melody发文讨论综艺影视剧消费中的人与物关系及算法影响 - 虎嗅
-- 车企长账期调查：近万亿应付资金成无息融资，60天承诺难解供应链连环债 - 虎嗅
-- 产业观察：五到十年内具身智能出货量最大者大概率是车企 - 虎嗅
-- 横店外国游客前五月增长455%，微短剧拍摄体验与中国短剧出海加速 - 虎嗅
+## 虎嗅 (20 条)
+- 王骁APEC观察：19国领导人轮番谈钱，谁最直接，谁藏小九九？
+- 微软、苹果先后宕机，更多“大停摆”正在朝我们走来
+- 资金压制仍无解
+- 股价暴跌61.2%，“美版台积电”的故事凉了？
+- 江苏平均数城市，扬州的餐饮商业有多“超配”?
+- 走进星巴克：看Agent如何真正深入业务？
+- 企业掏的钱，才是AI最诚实的成绩单
+- 宁德时代投资DeepSeek：电池帝国的隐秘扩张
+- AI落地，走到临界点
+- 三年态度大变，对于AI马化腾不想再等了
+- 三季报狂飙但“仁勋黄黄”，英伟达的十字路口
+- 失去品牌光环，外资汽车品牌破釜沉舟定价
+- 前10个月，居民存款多了8.47万亿，贷款少了1.46万亿
+- 别只盯着Coinbase裁员14%，它真正想拆掉的是管理层
+- 为了长高，全网爹妈盯上山东硬菜
+- 史上最大IPO背后，AI产业链藏着6800亿连环雷
+- SAT转向机考，高科技作弊困局难解
+- GTA6，或许是最后一个人类亲手创造的“世界”
+- “企业用AI 面试我，我能用AI 回答吗？”
+- 华尔街狂热，华盛顿划线：Anthropic的上市前夜
 
-## 少数派 (2 条)
+## 少数派 (5 条)
+- 给 Apple 的 2026 年打分，请你一起参与
+- 新玩意 256｜少数派的编辑们最近买了啥？
+- 有必要但欠平衡：浅评 macOS 27.3 新版权限控制机制
 - 徒步旅行指南 | 玉龙虎跳峡与天堂雨崩
 - 派早报：Apple 年度应用、TGA 2026 分别公布入围名单等
 
