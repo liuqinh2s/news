@@ -2,48 +2,48 @@
   "date": "2026-11-21",
   "news": [
     {
-      "title": "黄仁勋被罢免 英伟达暴跌",
-      "summary": "英伟达董事会以'缺乏坦诚'为由罢免CEO黄仁勋，理由涉及其长期管理风格与信息披露问题，同时其20年前一桩被指恐吓、骚扰员工的诉讼被重新翻出。消息公布后英伟达股价单日暴跌超14%，拖累美股科技板块集体下挫，纳指跌入调整区间。访华归来的特朗普公开表示希望黄仁勋回归，使事件牵动中美AI产业博弈与全球算力供应链预期。分析认为，作为全球AI芯片核心供应商的掌舵人突然去职，将放大市场对AI基建投资可持续性的担忧，相关产业链估值面临重估。",
-      "reason": "全球AI芯片龙头掌舵人突遭罢免，英伟达单日暴跌14%并拖累美股，牵动中美AI博弈与全球算力供应链",
+      "title": "AI攻克黎曼猜想引震动",
+      "summary": "近日，Anthropic旗下Claude模型宣称完成对黎曼猜想的证明，相关结果显示约98%的论证被认为正确，剩余仍有争议的部分待数学家核验。黎曼猜想是悬而未决逾160年的世纪数学难题，与素数分布及密码学密切相关。消息引发数学界与AI界激烈讨论：一方面被视为AI在顶级数学推理上的里程碑，另一方面也引发对数学家角色、AI结论可验证性的质疑。澎湃、BBC、虎嗅等多家媒体就此展开评论，认为这标志着AI for Science进入新阶段，同时凸显对AI输出进行独立审查的必要性。",
+      "reason": "AI首次宣称证明世纪数学难题，多平台热议，标志AI科研能力跃升",
       "impact_areas": [
         "科技",
-        "经济金融"
+        "学术"
       ],
       "impact_level": "现象级",
       "sources": [
         {
-          "name": "36氪",
-          "url": "https://www.36kr.com/newsflashes/4078897791784068"
+          "name": "澎湃新闻",
+          "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE8zVENqOGVCZVloZnJrOHFRaHhlMkctaWJIVk5XdGJZRm9nV2hBWk45eDc3TnR0REZadmlaSWkyTTF0SnFRYlFNalJ2bjJhYTgwT0tCdnY2TzRTUFhlX2dhVg?oc=5"
+        },
+        {
+          "name": "BBC",
+          "url": "https://www.bbc.co.uk/news/articles/c6pqr2g7w059o?at_medium=RSS&at_campaign=rss"
         },
         {
           "name": "虎嗅",
-          "url": "https://www.huxiu.com/article/4907350.html"
+          "url": "https://www.huxiu.com/article/4907375.html"
         },
         {
-          "name": "财新网",
-          "url": "https://database.caixin.com/2026-11-21/102507386.html"
-        },
-        {
-          "name": "财新网",
-          "url": "https://international.caixin.com/2026-11-21/102507412.html"
+          "name": "虎嗅",
+          "url": "https://www.huxiu.com/article/4907384.html"
         }
       ],
       "card": {
-        "category": "科技·芯片",
-        "headline": "黄仁勋被罢免，英伟达单日跌14%",
-        "what": "英伟达董事会以缺乏坦诚为由罢免CEO黄仁勋，消息公布后股价单日暴跌超14%，纳指跌入调整区间。",
-        "question": "我的AI基金要不要卖掉？",
+        "category": "科技·数学",
+        "headline": "AI宣称证出黎曼猜想，仍待核验",
+        "what": "近日，Anthropic旗下Claude模型宣称完成黎曼猜想的证明，约98%的论证被认为正确，其余部分仍有争议，等待数学家核验。",
+        "question": "AI算出的数学证明，我能信吗？",
         "means": [
-          "持有科技类基金的人，净值会跟着缩水",
-          "AI芯片供应链相关岗位招聘或放缓"
+          "密码技术底层可能被重新审视",
+          "以后AI结论需要人来复核把关"
         ],
-        "note": "黄仁勋是否回归尚无定论，以公司公告为准。"
+        "note": "结论仍待同行评议，98%正确不等于成立。"
       }
     },
     {
-      "title": "Anthropic上市刷新IPO纪录",
-      "summary": "AI公司Anthropic正式登陆资本市场，创下全球史上最大IPO纪录，估值与募资规模均刷新历史。然而上市首日股价即出现下滑，带动美股科技股整体走弱，市场对'史上最大IPO焐不热AI行情'的质疑升温。华尔街押注的核心在于Anthropic在大模型与AI安全领域的技术壁垒及其商业化前景，但高估值能否被持续兑现仍存分歧。此次IPO被视为AI产业从私募资本转向公开市场的标志性事件，其定价与后续表现将成为衡量AI泡沫的重要风向标。",
-      "reason": "刷新全球IPO纪录的标志性事件，AI产业资本化风向标，其后市表现将直接影响全球AI估值叙事",
+      "title": "AI明星公司上市创IPO纪录",
+      "summary": "AI公司Anthropic正式登陆资本市场，融资规模刷新全球IPO纪录，成为史上最大规模首次公开募股，华尔街对其估值与增长前景展开激烈辩论。上市首日前后，公司股价出现明显波动并一度拖累科技板块，BBC报道Anthropic股价下滑加剧市场抛售。分析认为，此次IPO既体现资本对生成式AI长期前景的押注，也放大了市场对AI高估值可持续性的分歧。作为与OpenAI并列的头部模型厂商，Anthropic的资本化路径将对整个AI产业的融资节奏、估值体系与竞争格局产生深远影响。",
+      "reason": "刷新全球IPO纪录，AI资本化里程碑，牵动全球估值体系",
       "impact_areas": [
         "经济金融",
         "科技"
@@ -55,254 +55,240 @@
           "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE44UlFmeUhtMkhFNWY3X0hrMTVsa1FkaURyVWI1N3lRaHhYWlBaQUN1M01BMnBPSkJyNjZfWmJzUDY1YXRYaEIyMGV1U1libmQ3S0ZGZ0tlQmx4S0x3aGpvclNSQ0lGc3o4elFxQ2VlNmh5UQ?oc=5"
         },
         {
-          "name": "BBC",
-          "url": "https://www.bbc.co.uk/news/articles/c6808ym10vzgo?at_medium=RSS&at_campaign=rss"
-        },
-        {
           "name": "虎嗅",
           "url": "https://www.huxiu.com/article/4907361.html"
+        },
+        {
+          "name": "BBC",
+          "url": "https://www.bbc.co.uk/news/articles/c6808ym10vzgo?at_medium=RSS&at_campaign=rss"
         }
       ],
       "card": {
         "category": "经济·资本",
-        "headline": "史上最大IPO来了，首日却下跌",
-        "what": "AI公司Anthropic正式上市，募资规模刷新全球IPO纪录，但上市首日股价下滑，美股科技股随之走弱。",
-        "question": "现在还能买AI相关的股票吗？",
+        "headline": "AI公司上市，融资规模破全球纪录",
+        "what": "AI公司Anthropic正式登陆资本市场，融资规模刷新全球IPO纪录，成为史上最大规模首次公开募股，首日前后股价明显波动。",
+        "question": "AI股票现在还值得追吗？",
         "means": [
-          "打新和参与AI基金的门槛变高了",
-          "估值兑现不了，回调会传到你持仓"
+          "AI公司融资变多，招聘可能更猛",
+          "高估值回调会传导到科技基金"
         ],
-        "note": "首日下跌不代表长期走势，后续财报才是关键。"
+        "note": "估值分歧仍大，上市首日波动不代表长期走势。"
       }
     },
     {
-      "title": "Claude称证明黎曼猜想",
-      "summary": "Anthropic数学家称与自家模型Claude合作，完成了对黎曼猜想的证明，相关证明篇幅据称达25万页，引发数学界与AI界激烈争论：这究竟是AI独立攻坚的突破，还是人机协作的成果。BBC指出，在AI接连攻克数学难题的一年里，这可能是迄今最大的一桩。黎曼猜想悬置160余年，是数论乃至整个数学的核心难题，若证明成立将深刻影响密码学、素数分布等领域。目前学界对证明的严谨性与验证方式仍持审慎态度，最终认定有待同行评议。",
-      "reason": "悬置160余年的数论核心难题据称被AI参与攻克，多家媒体密集报道，冲击数学界与AI叙事",
+      "title": "美股科技股崩盘AI泡沫争议",
+      "summary": "11月21日，美股遭遇大幅下挫，科技股领跌并拖累主要指数跌入调整区间，Anthropic等AI概念股走弱成为导火索之一。财新、BBC及多位交易员指出，市场对AI资本开支持续性与高估值的担忧集中释放，重现2018年末的抛售情绪。此前美股在AI叙事推动下屡创新高，此次回调被视为对该逻辑的首次重大考验。若科技股继续走弱，可能通过财富效应与融资环境传导至实体经济，并波及全球风险资产的定价。",
+      "reason": "美股一夜大跌科技股领跌，AI泡沫争议集中爆发，波及全球市场",
       "impact_areas": [
-        "科技"
+        "经济金融"
+      ],
+      "impact_level": "重大",
+      "sources": [
+        {
+          "name": "财新网",
+          "url": "https://international.caixin.com/2026-11-21/102507412.html"
+        },
+        {
+          "name": "虎嗅",
+          "url": "https://www.huxiu.com/article/4907388.html"
+        },
+        {
+          "name": "虎嗅",
+          "url": "https://www.huxiu.com/article/4907386.html"
+        },
+        {
+          "name": "BBC",
+          "url": "https://www.bbc.co.uk/news/articles/c6808ym10vzgo?at_medium=RSS&at_campaign=rss"
+        }
+      ],
+      "card": {
+        "category": "金融·股市",
+        "headline": "美股科技股大跌，AI泡沫争论升温",
+        "what": "11月21日，美股大幅下挫，科技股领跌拖累主要指数跌入调整区间，AI概念股走弱成为导火索之一。",
+        "question": "我的科技基金要不要先撤？",
+        "means": [
+          "持仓科技基金的人这两天会缩水",
+          "融资环境收紧或影响创业公司招人"
+        ],
+        "note": "是否演变为持续调整尚不确定，别急着下结论。"
+      }
+    },
+    {
+      "title": "英伟达遭SEC调查黄仁勋离职",
+      "summary": "据路透社独家报道，美国证券交易委员会（SEC）正就英伟达潜在会计问题展开调查，公司账务处理成为关注焦点。与此同时，英伟达CEO黄仁勋的去职持续搅动中美博弈与AI叙事，特朗普在访华后公开表示希望黄仁勋回归。多重利空叠加下，这家AI芯片龙头的治理与监管风险受到高度关注。若会计问题坐实，可能冲击投资者对AI硬件产业链财务透明度的信心，并对全球半导体与算力供应链产生连锁影响。",
+      "reason": "AI芯片龙头遭SEC会计调查叠加CEO去职，监管与治理风险凸显",
+      "impact_areas": [
+        "科技",
+        "经济金融"
+      ],
+      "impact_level": "重大",
+      "sources": [
+        {
+          "name": "澎湃新闻",
+          "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBmME9JMktCdmJublgzZmZPWWp4eFVuWlI2SVJrcTZfR0tISXJZb3Q2UWptNTkxeldyeWg2bHhFY1dLUjdxc0g5R09ZdEExSy1iRlpLV01rYkVUNC1HOEFvdg?oc=5"
+        },
+        {
+          "name": "Reuters",
+          "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPMzlPdFVTT2cyVkhmMFVKNWZ1MnpNT0NLcURnblg4THMwUWNuYTRBLWUxU0ZSSUR5bk1zNnBmVlhIUjByNkN6TzVBNC1uaXQxM0dwY2FkMzZQdm00a0xyMXo3NFNpSUNPdERZWU82aGZLa0lNZHpMOXVnVDBVQW9lMmNrWEVRczVYS1Racm1NNlNERDBJeTFJRG1pZVRfTC1LTy1pNjhpVzRaeGRrY25kSzQ1aDNUUQ?oc=5"
+        },
+        {
+          "name": "36氪",
+          "url": "https://www.36kr.com/newsflashes/4079125046449286"
+        },
+        {
+          "name": "财新网",
+          "url": "https://database.caixin.com/2026-11-21/102507386.html"
+        }
+      ],
+      "card": {
+        "category": "科技·芯片",
+        "headline": "英伟达被查账，黄仁勋去职未定",
+        "what": "据路透社报道，美国SEC正就英伟达潜在会计问题展开调查，公司账务处理成为焦点；CEO黄仁勋去职持续搅动中美博弈。",
+        "question": "显卡和AI算力会更贵吗？",
+        "means": [
+          "算力供应链波动，显卡价格或将走高",
+          "半导体相关岗位和订单要留意"
+        ],
+        "note": "调查尚在早期，会计问题是否坐实待官方披露。"
+      }
+    },
+    {
+      "title": "深圳APEC中美俄互动",
+      "summary": "11月21日，深圳APEC峰会持续进行，习近平主席主持相关活动，多国领导人就一个中国原则明确表态。美国总统特朗普盛赞深圳城市建设'干净整洁、路面平整'，并公开称赞中国活力，中美俄领导人互动频繁。峰会释放出全球动荡背景下亚太坚持区域开放合作的信号，美中俄还就增加石油供应发表联合表态。作为年度最重要的多边外交场合之一，此次峰会成果将影响中美关系走向与亚太经贸格局。",
+      "reason": "深圳APEC中美俄互动密集，释放亚太开放合作与地缘博弈信号",
+      "impact_areas": [
+        "地缘",
+        "政治"
       ],
       "impact_level": "现象级",
       "sources": [
         {
           "name": "凤凰网",
-          "url": "https://news.ifeng.com/c/8yEBf5hvwaa"
+          "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE9iNUtYQWhyTUtBQzlqQmVsNEJkME5mZzliRnRvZmh6X0phd3ZidGxwMWlBNWFOVWZmeGt4R1NpaDJEY0FsYTViLXR3RC0?oc=5"
         },
         {
-          "name": "BBC",
-          "url": "https://www.bbc.co.uk/news/articles/c6pqr2g7w059o?at_medium=RSS&at_campaign=rss"
+          "name": "凤凰网",
+          "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTFBzcURpQnlqVUxjZ3piM3djaHN6U1JKdEFKd1pWZi1MZ1Zlb0FRUGM3SHlTTzZpWmszNC05ZkM2bVluQlZ2alRqVA?oc=5"
         },
         {
-          "name": "36氪",
-          "url": "https://www.36kr.com/newsflashes/4078894434915207"
-        },
-        {
-          "name": "虎嗅",
-          "url": "https://www.huxiu.com/article/4907351.html"
+          "name": "财新网",
+          "url": "https://database.caixin.com/2026-11-21/102507385.html"
         }
       ],
       "card": {
-        "category": "科技·AI",
-        "headline": "AI称证出黎曼猜想，数学界存疑",
-        "what": "Anthropic数学家称与自家模型Claude合作完成黎曼猜想证明，篇幅据称25万页，目前仍待同行评议。",
-        "question": "AI连数学难题都能做，我会被替代吗？",
+        "category": "地缘·外交",
+        "headline": "深圳APEC开场，中美俄互动密集",
+        "what": "11月21日，深圳APEC峰会举行，习近平主席主持相关活动，多国领导人就一个中国原则表态，美中俄就增加石油供应发表联合表态。",
+        "question": "油价会因此降一点吗？",
         "means": [
-          "密码和银行加密技术可能被重写",
-          "数学、密码专业的方向选择要重新评估"
+          "国际油价若增产，加油成本或松动",
+          "外贸和跨境生意氛围可能回暖"
         ],
-        "note": "证明尚未通过同行评议，结论可能被推翻。"
+        "note": "联合表态细节未公开，增产规模仍待确认。"
       }
     },
     {
-      "title": "俄导弹落入波兰 局势升级",
-      "summary": "波兰总理图斯克称，一枚俄罗斯导弹落入波兰境内，事发时乌克兰盟友正在附近举行军事演习；波方称发现'俄罗斯物体'残骸，事件令北约东翼紧张升级。同日，丹麦指控俄罗斯策划暗杀一名旅居当地的美国籍乌克兰裔说唱歌手，宣布驱逐俄外交官，俄方表示将'适当回应'。两起事件叠加，使俄乌冲突外溢至北约成员国领土的风险显著上升，欧洲安全格局与能源、粮食市场面临新的不确定性。",
-      "reason": "俄乌冲突外溢至北约成员国领土，叠加丹麦驱逐俄外交官，欧洲安全风险骤升",
+      "title": "比特币跌破5.6万创两年新低",
+      "summary": "11月21日，比特币价格跌破56000美元，日内跌幅超过6%，创下约两年来最低水平。路透社与36氪均报道了这一跌势。加密市场此轮下跌与美股科技股抛售同步，反映全球风险偏好明显降温。作为高波动风险资产的代表，比特币大幅回撤被视为市场情绪转向的重要信号，也可能加剧加密行业杠杆清算与流动性压力，并对相关矿企、交易平台及加密概念资产形成传导。",
+      "reason": "比特币创两年新低，风险偏好急转，加密市场承压",
       "impact_areas": [
-        "地缘",
-        "政治"
+        "经济金融"
       ],
       "impact_level": "重大",
       "sources": [
         {
-          "name": "BBC",
-          "url": "https://www.bbc.co.uk/news/articles/cqx2x9dklxnro?at_medium=RSS&at_campaign=rss"
+          "name": "Reuters",
+          "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1NUk9lTzRodUF5M1QyMkpkS3ViSDhVQ2hHZlV1ZUowRnBQeF9Za3l0WkRFb1BUNzVoS1NxcFFERDAydTVnLVpIMG9hcmRUV3hyb1F1RURKeGF3WV9iNlJScVlrYk95VmRJWWxjcE5GLUR4NUgtYWVj?oc=5"
         },
+        {
+          "name": "36氪",
+          "url": "https://www.36kr.com/newsflashes/4079019133965185"
+        }
+      ],
+      "card": {
+        "category": "金融·加密",
+        "headline": "比特币跌破5.6万，创两年新低",
+        "what": "11月21日，比特币跌破56000美元，日内跌幅超6%，创约两年最低，与美股科技股抛售同步。",
+        "question": "现在抄底比特币会亏吗？",
+        "means": [
+          "持币的人账面回撤，杠杆易爆仓",
+          "矿企和交易平台收入将承压"
+        ],
+        "note": "高波动资产，短期反弹不代表风险解除。"
+      }
+    },
+    {
+      "title": "金价跳水银行提示贵金属风险",
+      "summary": "11月21日，国际金价延续跳水，国内金店价格同步回落。有金店老板在870元附近抄底却被套在'半山腰'，折射出本轮金价调整的剧烈程度。多家银行密集发布贵金属市场风险提示，积存金价格跌至'7字头'，提示投资者注意波动风险。此前金价在避险与央行购金推动下屡创新高，此次快速回调显示市场对贵金属定价出现分歧，对持有黄金及积存金产品的普通投资者影响直接。",
+      "reason": "金价剧烈跳水银行密集提示风险，直接影响普通投资者",
+      "impact_areas": [
+        "经济金融"
+      ],
+      "impact_level": "重大",
+      "sources": [
+        {
+          "name": "澎湃新闻",
+          "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1aRXZ5TFRtMkpld1NxOU40eUlGOEY5Qm1qUkxhTTEtTnpZN2tBM0lUc3FDQ2o2UmxPd05VZVBOOTFNYjBRZlBlTTYxb3d4alh5dlNXTU8zUzlFMC1BczBOLQ?oc=5"
+        },
+        {
+          "name": "36氪",
+          "url": "https://www.36kr.com/newsflashes/4079229117404038"
+        },
+        {
+          "name": "36氪",
+          "url": "https://www.36kr.com/newsflashes/4078911929209986"
+        }
+      ],
+      "card": {
+        "category": "金融·黄金",
+        "headline": "金价跳水，银行密集提示风险",
+        "what": "11月21日，国际金价延续跳水，国内金店价格同步回落，有金店老板在870元附近抄底被套，多家银行发布贵金属风险提示。",
+        "question": "手里的金条该卖还是留？",
+        "means": [
+          "买金饰和积存金的人成本会降",
+          "追高买入的短期可能还在亏"
+        ],
+        "note": "金价受多重因素影响，别只看单日涨跌。"
+      }
+    },
+    {
+      "title": "英欧峰会启动脱欧关系重置",
+      "summary": "11月21日，英国与欧盟举行脱欧后第二次峰会，英国首相表示将寻求与欧盟建立更密切关系，双方宣布启动'脱欧重置'协议。BBC与《纽约时报》分析认为，这是英国脱欧以来最明显的政策转向，涉及贸易、人员流动与监管对接等议题。在经济增长乏力与地缘不确定性上升背景下，英欧关系回暖有助于降低贸易摩擦成本，也将对欧洲政治经济格局及未来一体化走向产生示范效应。",
+      "reason": "英欧启动脱欧重置，欧洲地缘经济格局出现重要转向",
+      "impact_areas": [
+        "地缘",
+        "政治",
+        "经济金融"
+      ],
+      "impact_level": "重大",
+      "sources": [
         {
           "name": "凤凰网",
-          "url": "https://news.ifeng.com/c/8yEAuKDQcN8"
+          "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE0wbWlwM25yN2lObHhxTEN2NW9aRFQ0TG5yUFZTZlNvY3ZMTnY2ZmJsZkdNeG9JSXhXbVJUU1RaZDFldU13dmowWllLSUw?oc=5"
         },
         {
           "name": "BBC",
-          "url": "https://www.bbc.co.uk/news/articles/cmde1lj4yjxno?at_medium=RSS&at_campaign=rss"
+          "url": "https://www.bbc.co.uk/news/videos/c90k6gl3lyxeo?at_medium=RSS&at_campaign=rss"
         }
       ],
       "card": {
         "category": "地缘·欧洲",
-        "headline": "俄导弹落入波兰，北约东翼紧张",
-        "what": "波兰总理图斯克称一枚俄罗斯导弹落入波兰境内，事发时乌克兰盟友正在附近军演，波方称发现俄物体残骸。",
-        "question": "油价和机票会因此涨价吗？",
+        "headline": "英欧启动脱欧重置，关系回暖",
+        "what": "11月21日，英国与欧盟举行脱欧后第二次峰会，英国首相表示寻求更密切关系，双方宣布启动脱欧重置协议。",
+        "question": "去英国读书旅游会更方便吗？",
         "means": [
-          "欧洲线机票和海运价格可能上行",
-          "油气、粮食进口成本可能传导到物价"
+          "英欧贸易摩擦成本有望下降",
+          "留学、出差和物流或更顺畅"
         ],
-        "note": "事件性质仍在核实，北约如何回应是关键观察点。"
+        "note": "协议内容需逐步落地，具体条款仍待公布。"
       }
     },
     {
-      "title": "英欧达成脱欧重置协议",
-      "summary": "英国与欧盟举行脱欧后第二次峰会，双方达成一揽子协议，同意在防务、贸易、人员流动等领域建立更紧密关系，被视为脱欧进程的'重置'。英方官员称将寻求与欧盟更密切的合作。此举标志着英国在脱欧近十年后，开始实质性回调与欧洲大陆的关系。协议若落地，将降低英欧之间的贸易摩擦成本，影响在英企业供应链布局与人员往来，也为欧洲地缘政治协作增添变量。具体执行细节与成员国审批仍存不确定性。",
-      "reason": "英国脱欧近十年后首次系统性回调对欧关系，影响贸易、人员往来与欧洲地缘格局",
+      "title": "离岸信托征税推动个税增九成",
+      "summary": "财政部数据显示，10月全国财政收入同比由降转增，出现明显回暖。其中，离岸信托征税政策落地带动个人所得税大幅增长近90%，成为拉动财政增收的重要因素。这一变化既反映税收征管对高净值人群境外资产的覆盖趋于收紧，也释放出财政收支压力边际缓解的信号。分析认为，离岸信托与跨境资产征税常态化，将对高净值家庭的财富安排与合规成本产生实质影响。",
+      "reason": "财政收入转增叠加离岸信托征税，个税激增释放征管收紧信号",
       "impact_areas": [
-        "地缘",
-        "政治",
         "经济金融"
-      ],
-      "impact_level": "重大",
-      "sources": [
-        {
-          "name": "BBC",
-          "url": "https://www.bbc.co.uk/news/articles/c6jreyqgw4e9o?at_medium=RSS&at_campaign=rss"
-        },
-        {
-          "name": "凤凰网",
-          "url": "https://news.ifeng.com/c/8yEAFAe1ztc"
-        }
-      ],
-      "card": {
-        "category": "地缘·贸易",
-        "headline": "英欧达成重置协议，脱欧关系回调",
-        "what": "英国与欧盟举行脱欧后第二次峰会，达成一揽子协议，同意在防务、贸易、人员流动等领域建立更紧密关系。",
-        "question": "去英国读书、旅游会更容易吗？",
-        "means": [
-          "留学、旅游签证和通关流程可能简化",
-          "做英欧贸易的企业，物流成本或下降"
-        ],
-        "note": "协议细节与成员国审批未定，落地时间待观察。"
-      }
-    },
-    {
-      "title": "特朗普威胁对海外数据中心征税",
-      "summary": "特朗普表示，若美国科技企业在海外建设数据中心，将面临'巨额税款'惩罚，意在推动AI算力基础设施留在美国本土。这一表态与近期美国科技巨头加速在海外布局算力形成对冲，直接触及英伟达、微软、亚马逊等企业的全球扩张计划。分析认为，若政策落地，将推高美企海外AI基建成本，改变全球算力投资的地理分布，并可能引发贸易伙伴的反制，加剧AI产业链的地缘化分割。",
-      "reason": "直接干预AI算力基建全球布局，若落地将改变数据中心投资地理分布并加剧产业链地缘化",
-      "impact_areas": [
-        "科技",
-        "政治",
-        "经济金融"
-      ],
-      "impact_level": "重大",
-      "sources": [
-        {
-          "name": "BBC",
-          "url": "https://www.bbc.co.uk/news/articles/cmde1lw9y54ko?at_medium=RSS&at_campaign=rss"
-        },
-        {
-          "name": "凤凰网",
-          "url": "https://news.ifeng.com/c/8yE6xspYYzs"
-        }
-      ],
-      "card": {
-        "category": "科技·算力",
-        "headline": "特朗普放话：数据中心别建在国外",
-        "what": "特朗普表示，美国科技企业若在海外建数据中心将面临巨额税款，意在推动AI算力基础设施留在美国本土。",
-        "question": "我用AI的成本会变贵吗？",
-        "means": [
-          "海外云服务和AI接口价格可能上调",
-          "跨境数据、算力相关岗位需求或转移"
-        ],
-        "note": "目前只是表态，是否成文立法仍待观察。"
-      }
-    },
-    {
-      "title": "量子计算机高速内存真机实现",
-      "summary": "国内科研团队宣布在全球首次于真机上实现量子计算机'高速内存'，即高性能量子存储或量子态缓存机制，为大规模量子计算提供了关键硬件支撑。该突破有望缓解量子比特退相干与读取效率低等瓶颈，推动量子计算从实验室走向工程化。量子计算被视为下一代算力革命的核心方向，其在材料、医药、密码等领域的潜在应用，将对现有计算体系与信息安全格局产生长期冲击。",
-      "reason": "全球首次真机实现量子计算高速存储关键硬件，为大规模量子计算工程化提供支撑",
-      "impact_areas": [
-        "科技"
-      ],
-      "impact_level": "重大",
-      "sources": [
-        {
-          "name": "36氪",
-          "url": "https://www.36kr.com/newsflashes/4078902065484675"
-        }
-      ],
-      "card": {
-        "category": "科技·量子",
-        "headline": "量子计算机首次真机装上内存",
-        "what": "国内科研团队宣布在全球首次于真机上实现量子计算机高速内存，为大规模量子计算提供关键硬件支撑。",
-        "question": "我的密码还安全吗？",
-        "means": [
-          "现有加密方式未来可能被攻破",
-          "材料、医药研发岗或迎来新工具"
-        ],
-        "note": "距离商用仍有距离，工程化时间表尚未明确。"
-      }
-    },
-    {
-      "title": "朱雀三号回收发动机可复用",
-      "summary": "蓝箭航天朱雀三号可重复使用火箭的回收发动机完成验收试车，具备复用条件，标志着中国可回收火箭技术迈出关键一步。发动机复用是可重复使用火箭降本的核心环节，此次验收为后续整箭复用飞行奠定基础。在全球商业航天竞争加剧、卫星互联网加速组网的背景下，可回收技术将显著降低发射成本，提升中国在低轨星座部署与商业发射市场的竞争力。",
-      "reason": "中国可回收火箭关键部件通过验收，商业航天降本与低轨星座竞争格局的重要进展",
-      "impact_areas": [
-        "科技",
-        "产业"
-      ],
-      "impact_level": "重大",
-      "sources": [
-        {
-          "name": "央视网",
-          "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9YSnd4T2hHRXpVU3BMMEE4azhJck9WNjMwaVlVZ003ZTM5Si0xX3NmR05YUmFPZVJWeE5RNTlzdnZVVW1aNXUyQU5MbmpiR2FabFNYbDR3bVVwanpWMkg2M3hwc213YkJsbmU3R2tUdS1pbDl0Ymc0OA?oc=5"
-        }
-      ],
-      "card": {
-        "category": "科技·航天",
-        "headline": "朱雀三号发动机可复用，发射降价",
-        "what": "蓝箭航天朱雀三号可重复使用火箭的回收发动机完成验收试车，具备复用条件，为后续整箭复用飞行奠定基础。",
-        "question": "卫星上网会更便宜吗？",
-        "means": [
-          "低轨卫星上网资费有望下降",
-          "商业航天、卫星产业链招聘会增加"
-        ],
-        "note": "验收试车不等于整箭复用成功，首飞时间待定。"
-      }
-    },
-    {
-      "title": "积存金跌破7字头 金饰降价",
-      "summary": "国内积存金价格跌至'7字头'（每克700元区间），金饰价格同步走低，老凤祥单日克价下跌34元。多家银行密集发布贵金属市场波动风险提示，提醒投资者注意价格回撤风险。此前金价持续走高吸引大量散户通过积存金、金饰入场，此轮快速回调使部分高位买入者承压。金价走势与美联储政策、美元及避险情绪高度相关，短期剧烈波动也反映市场对前期涨势的重新定价。",
-      "reason": "金价回调至700元区间、金饰单日大跌，银行集体提示风险，直接关系居民购金与资产配置",
-      "impact_areas": [
-        "经济金融",
-        "消费"
-      ],
-      "impact_level": "重大",
-      "sources": [
-        {
-          "name": "36氪",
-          "url": "https://www.36kr.com/newsflashes/4078911929209986"
-        },
-        {
-          "name": "36氪",
-          "url": "https://www.36kr.com/newsflashes/4078898795992198"
-        }
-      ],
-      "card": {
-        "category": "经济·黄金",
-        "headline": "积存金跌破7字头，金饰跟着降价",
-        "what": "国内积存金价格跌至每克700元区间，金饰同步走低，老凤祥单日克价下跌34元，多家银行发布波动风险提示。",
-        "question": "现在该抄底买金吗？",
-        "means": [
-          "高位买入的人账面已经浮亏",
-          "买金饰送人，可以再等价格稳住"
-        ],
-        "note": "金价受美联储政策和美元影响，短期波动难测。"
-      }
-    },
-    {
-      "title": "10月财政收入转增 个税增90%",
-      "summary": "财政部数据显示，10月全国财政收入同比由降转增，其中个人所得税大幅增长近90%，主要受离岸信托相关征税带动。收入结构变化引发关注：一方面反映征管加强、税基拓宽，另一方面也提示高净值人群跨境资产配置的税务合规压力上升。财政收入回暖对稳增长与支出安排形成支撑，但个税高增的可持续性及对居民可支配收入的影响，仍需结合后续数据观察。",
-      "reason": "财政收入拐点叠加个税异常高增，反映征管变化与税基拓宽，关系居民税负与跨境资产合规",
-      "impact_areas": [
-        "经济金融",
-        "社会"
       ],
       "impact_level": "重大",
       "sources": [
@@ -312,18 +298,45 @@
         }
       ],
       "card": {
-        "category": "经济·税收",
-        "headline": "个税单月增近九成，财政收入转增",
-        "what": "财政部数据显示，10月全国财政收入同比由降转增，个人所得税大幅增长近90%，主要受离岸信托相关征税带动。",
-        "question": "我的工资会被多扣税吗？",
+        "category": "政策·税收",
+        "headline": "离岸信托被征税，个税增近九成",
+        "what": "财政部数据显示，10月全国财政收入同比由降转增，离岸信托征税落地带动个税大幅增长近90%，成为增收重要因素。",
+        "question": "境外资产以后都要报税吗？",
         "means": [
-          "普通工薪族的税率和起征点没变",
-          "有境外账户和信托的人要补合规"
+          "高净值家庭境外安排成本上升",
+          "普通工薪族的工资个税不受影响"
         ],
-        "note": "个税高增能否持续要看后续数据，勿过度解读。"
+        "note": "征管细则和适用范围以官方口径为准。"
+      }
+    },
+    {
+      "title": "GLP-1明星药致眼中风疑云",
+      "summary": "财新报道，风靡全球的GLP-1类明星药（用于降糖与减重）被指可能与'眼中风'（视网膜血管阻塞）存在关联，引发用药安全疑云。随着此类药物在减重人群中大规模使用，其罕见但严重的眼部不良反应受到监管与医学界关注。目前相关因果性仍待进一步研究确认，但事件提示公众在自行使用减重药物时需警惕潜在风险，也可能推动监管部门加强对GLP-1类药物不良反应的监测与说明书警示。",
+      "reason": "明星减重药疑致眼中风，涉及庞大用药人群的健康安全",
+      "impact_areas": [
+        "公共卫生",
+        "健康"
+      ],
+      "impact_level": "重大",
+      "sources": [
+        {
+          "name": "财新网",
+          "url": "https://www.caixin.com/2026-11-21/102507391.html"
+        }
+      ],
+      "card": {
+        "category": "健康·用药",
+        "headline": "减重明星药疑致眼中风，待查证",
+        "what": "财新报道，风靡全球的GLP-1类降糖减重药被指可能与眼中风存在关联，相关因果仍待研究确认，监管与医学界已关注。",
+        "question": "我在打的减肥针还能继续吗？",
+        "means": [
+          "自行买减重药的人先别乱用",
+          "后续说明书可能加眼部警示"
+        ],
+        "note": "因果尚未确认，用药请遵医嘱，不要自行停药。"
       }
     }
   ],
-  "total_fetched": 231,
-  "generated_at": "2026-11-21T12:26:51.084710+08:00"
+  "total_fetched": 221,
+  "generated_at": "2026-11-21T19:27:14.929338+08:00"
 }
