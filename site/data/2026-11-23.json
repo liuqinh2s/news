@@ -2,12 +2,12 @@
   "date": "2026-11-23",
   "news": [
     {
-      "title": "COP31气候谈判破裂",
-      "summary": "在土耳其安塔利亚举行的《联合国气候变化框架公约》第三十一次缔约方大会（COP31）谈判宣告破裂，未能就化石燃料退出路径等核心议题达成一揽子协议。发达国家与发展中国家在气候资金承诺和化石燃料'红线'上分歧难弥合，谈判在延长会期后仍无果而终。会议仅保留部分技术性成果，全球盘点后续落实安排被推迟。直接影响是全球气候治理进程受挫，各国提交新一轮国家自主贡献的时间表与力度面临不确定性，碳市场定价和能源转型投资的政策信号随之转弱。深层意义在于，在美欧政治周期变化和发展中国家资金诉求上升的背景下，多边气候协作机制正遭遇结构性压力，化石燃料利益的博弈将长期制约减排进程。",
-      "reason": "全球气候治理主渠道谈判破裂，多国媒体同步报道，影响能源转型与碳市场预期",
+      "title": "COP31气候谈判无果而终",
+      "summary": "在土耳其举行的《联合国气候变化框架公约》第三十一次缔约方大会（COP31）经过史上最长会期，最终未能达成协议，凸显各方在化石燃料问题上的严重分歧。谈判在是否明确「逐步淘汰化石燃料」的措辞上陷入僵局，发达国家与发展中国家在资金、责任分担上矛盾加深。此次谈判破裂意味着全球气候治理多边机制遭遇重大挫折，把温室气体排放降至峰值的窗口进一步收窄。对能源转型、碳市场定价及相关产业投资的中长期预期构成负面扰动，化石能源与新能源板块的估值逻辑或面临重估。",
+      "reason": "史上最长气候谈判却无果而终，暴露全球气候治理深层裂痕，影响能源转型与碳定价。",
       "impact_areas": [
         "生态",
-        "政治",
+        "地缘",
         "经济金融"
       ],
       "impact_level": "现象级",
@@ -17,301 +17,292 @@
           "url": "https://www.bbc.co.uk/news/articles/cqwy06zrd26lo?at_medium=RSS&at_campaign=rss"
         },
         {
-          "name": "NYTimes",
-          "url": "https://www.nytimes.com/2026/11/22/climate/cop31-climate-summit-ends-climate.html"
-        },
-        {
-          "name": "财新网",
-          "url": "https://science.caixin.com/2026-11-23/102507752.html"
+          "name": "BBC",
+          "url": "https://www.bbc.co.uk/news/articles/cm75237wlp3lo?at_medium=RSS&at_campaign=rss"
         }
       ],
       "card": {
         "category": "生态·气候",
-        "headline": "气候谈判破裂，减排时间表生变",
-        "what": "联合国气候大会COP31在土耳其谈判破裂，化石燃料退出路径与气候资金分歧难弥合，仅保留部分技术性成果。",
-        "question": "我的电费和油价会受影响吗",
+        "headline": "气候大会谈崩，减排窗口收窄",
+        "what": "在土耳其举行的联合国气候大会经过史上最长会期，最终未达成协议，各方在淘汰化石燃料的措辞上僵持不下。",
+        "question": "油价和电价会因此变贵吗？",
         "means": [
-          "光伏储能项目上马节奏或放慢",
-          "碳价和绿色基金短期缺少推力"
+          "新能源车和光伏的补贴节奏可能放缓",
+          "出口企业的碳成本可能慢慢抬高"
         ],
-        "note": "各国新一轮减排承诺何时提交仍待观察。"
+        "note": "下一轮谈判能否破局，是观察能源转型节奏的关键。"
       }
     },
     {
-      "title": "全球AI股暴跌 中国三项新政稳市场",
-      "summary": "华尔街AI交易遭遇集中抛售，Anthropic上市未能止住科技股跌势，市场开始追问'什么能拯救AI交易'；旧金山AI热潮背后对泡沫破裂的担忧升温，马斯克公开警告AI行业明年可能面临严重资金短缺。避险情绪推动美元指数自19个月高位回落，日元走软。亚太市场承压，A股三大指数集体低开，沪指开盘跌0.86%，创业板走弱。中国监管层周末推出三项稳市场新政，以缓冲外部冲击，但市场仍受外围扰动。直接影响是全球风险资产重估，AI相关融资与资本开支循环面临压力测试。深层意义在于，AI叙事的估值基础正从'算力扩张'转向'回报验证'，若融资约束持续，产业链订单与投资节奏可能放缓。",
-      "reason": "多平台多语种密集报道，AI资产重估叠加国内稳市场新政，是当日最强金融主线",
+      "title": "乌军利比亚击沉俄军舰",
+      "summary": "乌克兰方面证实，其无人艇在利比亚港口附近海域袭击并击沉一艘俄罗斯军舰，泽连斯基公布了无人艇冲向军舰引发爆炸的画面。这是俄乌冲突首次明显外溢至北非地区，标志战场从黑海向地中海、北非延伸。同期，一艘驶往俄罗斯的船只在芬兰湾遇袭后被拖离，冲突外溢风险同步上升。事件使利比亚及北非地缘格局更趋复杂，俄在地中海的军事存在受挫，也为能源运输通道与地区代理人博弈增添变数。中英文媒体密集报道，冲突国际化程度进一步加深。",
+      "reason": "俄乌战火首次外溢至北非，多家中外媒体密集报道，标志冲突国际化升级。",
       "impact_areas": [
-        "经济金融",
-        "科技"
+        "地缘",
+        "军事"
       ],
       "impact_level": "现象级",
       "sources": [
-        {
-          "name": "财新网",
-          "url": "https://database.caixin.com/2026-11-23/102507751.html"
-        },
-        {
-          "name": "财新网",
-          "url": "https://mini.caixin.com/2026-11-23/102507703.html"
-        },
-        {
-          "name": "BBC",
-          "url": "https://www.bbc.co.uk/news/articles/cqe9k09j9jv4o?at_medium=RSS&at_campaign=rss"
-        },
-        {
-          "name": "Reuters",
-          "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNMVA0aUFSMnFob3ZJdVFvbmlpN0JDRWFRNUJwZ1BIY19KU3RXZjJTRGdLaU00NGJ6dDRvX3VBUDdtcG9XQWRiRFhuUzhMZTNsN2lDSWVKMmI2Vi1EQ3dFUE5mM3dwZGNQWC1zZXhnZTJfVEVuYzVETlV1enJTN0dPZlQ3SlozeklDTzkwck16LW42eWt5aDJEY0w4M0Ytd0ZlRnBSZmZpN0Z5bkxTLXNXcWdtSW0?oc=5"
-        },
-        {
-          "name": "36氪",
-          "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5iTENLbmszR1RwQmttcFQ5Zks3ZV9rV1pfdmhiRmNnMWk2bW1YNEhPQ0xwODZjWkY4aXM1X1FkWlFkZUpxekRWY29pTFVubkF3aWN2b21sWVE?oc=5"
-        }
-      ],
-      "card": {
-        "category": "经济·股市",
-        "headline": "AI股大跌，国内三项新政稳市场",
-        "what": "华尔街AI科技股遭集中抛售，Anthropic上市未止住跌势；A股三大指数低开，沪指跌0.86%，监管层周末推出三项稳市场新政。",
-        "question": "我手里的AI基金还能拿住吗",
-        "means": [
-          "AI概念股波动加大，回本周期拉长",
-          "相关公司扩产和招聘会更谨慎"
-        ],
-        "note": "市场情绪变化快，具体政策细则待公布。"
-      }
-    },
-    {
-      "title": "美伊多域摩擦 斡旋仍在进行",
-      "summary": "美国与伊朗之间的跨渠道斡旋仍在推进，但海湾及霍尔木兹海峡周边多域军事摩擦频发，涉及海上航行、无人机与代理力量等多个层面。地区紧张态势未因外交接触而实质缓解，油轮通行与能源设施安全持续受到关注。直接影响是霍尔木兹海峡这一全球关键能源通道的风险溢价居高不下，原油与航运保险费率对突发事件高度敏感。深层意义在于，美伊在谈判与施压并行的策略下，误判与擦枪走火风险上升，一旦海峡通行受阻，将迅速传导至全球油价、通胀与主要经济体货币政策路径。",
-      "reason": "全球最重要能源通道的军事与外交动态，直接牵动油价与地缘风险定价",
-      "impact_areas": [
-        "地缘",
-        "经济金融",
-        "产业"
-      ],
-      "impact_level": "重大",
-      "sources": [
-        {
-          "name": "财新网",
-          "url": "https://database.caixin.com/2026-11-23/102507804.html"
-        }
-      ],
-      "card": {
-        "category": "地缘·能源",
-        "headline": "美伊摩擦升温，油运通道添变数",
-        "what": "美伊跨渠道斡旋仍在推进，但海湾及霍尔木兹海峡周边的海上航行、无人机等多领域摩擦频发，地区紧张并未实质缓解。",
-        "question": "国内油价会跟着涨吗",
-        "means": [
-          "加油和机票价格可能小幅走高",
-          "航运保险费上涨推高进口成本"
-        ],
-        "note": "海峡通行是否受阻是后续关键观察点。"
-      }
-    },
-    {
-      "title": "俄多艘船只遭无人机袭击",
-      "summary": "一艘驶往俄罗斯的船只在芬兰湾遭袭后由俄方拖离，芬兰方面确认俄罗斯已开始拖走该船；同期，利比亚一港口内一艘俄罗斯船只发生爆炸，当地官员称疑似无人机袭击所致。两起事件均指向针对俄关联船舶的远程打击手段正在扩散，波及波罗的海与地中海两个方向。直接影响是相关海域航运保险与航线安排趋紧，船东与船员安全风险上升。深层意义在于，冲突正从战场向海上运输与能源物流延伸，'影子船队'与港口设施的防护成本抬升，可能扰动区域原油与成品油运输节奏。",
-      "reason": "波罗的海与地中海两处俄船只遇袭，多源交叉报道，海上运输安全风险外溢",
-      "impact_areas": [
-        "地缘",
-        "产业"
-      ],
-      "impact_level": "重大",
-      "sources": [
-        {
-          "name": "BBC",
-          "url": "https://www.bbc.co.uk/news/articles/cj752ddve27ko?at_medium=RSS&at_campaign=rss"
-        },
         {
           "name": "BBC",
           "url": "https://www.bbc.co.uk/news/articles/cr894gjz0j0yo?at_medium=RSS&at_campaign=rss"
         },
         {
-          "name": "Reuters",
-          "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPTXUxa0FLT1o3Tzh4MUR0MV9ZenU1LU9PZl9QSzhsQXlOQThFNUxWbWFXRXZTOHFpb1lJdG1GTV9hOUZsc2x4YzBOSzV3ZHZkV2pyNjNIaTVWZEViQ2lLb3JkcjJsbGhVNXFmWXQ5c0pDTkVXeG9IbmlKV3AxYUtfNE5DVnhWX3lvNmg0SF9SZ1lHQzEtSnY1REsycUlvWFVEOFlBSXR3?oc=5"
-        }
-      ],
-      "card": {
-        "category": "地缘·航运",
-        "headline": "俄船只接连遇袭，海运风险上升",
-        "what": "一艘驶往俄罗斯的船只在芬兰湾遭袭后被俄方拖离；同期利比亚一港口内一艘俄罗斯船只爆炸，当地官员称疑似无人机袭击。",
-        "question": "海运涨价会传到我的购物车吗",
-        "means": [
-          "进口商品和能源到岸成本或上升",
-          "船员安全和航线绕行风险加大"
-        ],
-        "note": "袭击方与动机尚未完全确认，需持续核实。"
-      }
-    },
-    {
-      "title": "俄袭乌克兰 7岁男童废墟获救",
-      "summary": "俄罗斯对乌克兰多地发动打击，救援人员在被埋数小时后从废墟中救出一名7岁男童，乌克兰民众在持续空袭警报中搜寻失踪人员。多地民用建筑受损，救援与疏散工作仍在进行。直接影响是平民伤亡进一步增加，冬季来临前供电、供暖等基础设施承压，人道局势趋于紧张。深层意义在于，远程打击与防空拦截的消耗战持续，乌克兰对西方防空系统与弹药援助的依赖加深，欧洲安全格局与能源供应风险在中长期仍难缓解。",
-      "reason": "俄乌战事最新伤亡与救援进展，多家媒体现场报道，人道与地缘影响显著",
-      "impact_areas": [
-        "地缘",
-        "社会"
-      ],
-      "impact_level": "重大",
-      "sources": [
-        {
-          "name": "BBC",
-          "url": "https://www.bbc.co.uk/news/articles/cqdr15l32d3go?at_medium=RSS&at_campaign=rss"
+          "name": "财新网",
+          "url": "https://international.caixin.com/2026-11-23/102508070.html"
         },
         {
-          "name": "BBC",
-          "url": "https://www.bbc.co.uk/news/videos/cre3dvd1k9y1o?at_medium=RSS&at_campaign=rss"
-        }
-      ],
-      "card": {
-        "category": "地缘·人道",
-        "headline": "乌克兰再遭空袭，7岁男童获救",
-        "what": "俄罗斯对乌克兰多地发动打击，救援人员从废墟中救出一名被埋数小时的7岁男童，多地民用建筑受损，搜救仍在进行。",
-        "question": "战事拖到冬天，普通人怎么过",
-        "means": [
-          "欧洲电价和能源压力可能再起",
-          "对乌援助走向牵动欧洲物价就业"
-        ],
-        "note": "停火谈判暂无实质进展，局势仍在变化。"
-      }
-    },
-    {
-      "title": "前10月财政收入增4.9%",
-      "summary": "财政部门公布数据，今年前10个月全国一般公共预算收入同比增长4.9%。在经济增长承压、部分税种增速放缓的背景下，财政收入保持正增长，反映经济基本面仍具韧性，也与去年同期基数及征管力度变化有关。直接影响是年末财政支出节奏与地方'三保'资金安排获得支撑，专项债与转移支付的下达进度成为观察重点。深层意义在于，收入端改善幅度仍受制于土地出让收入下滑与结构性减税，财政收支紧平衡格局未根本改变。市场关注后续增量政策是否更多依赖赤字扩张与特别国债，从而影响利率与债券供给节奏。",
-      "reason": "全国财政收支核心数据发布，是判断经济修复与政策空间的关键先行信号",
-      "impact_areas": [
-        "经济金融"
-      ],
-      "impact_level": "重大",
-      "sources": [
+          "name": "纽约时报",
+          "url": "https://www.nytimes.com/2026/11/23/world/europe/ukraine-libya-russian-ships.html"
+        },
         {
           "name": "凤凰网",
-          "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE14Y09WZDlmZkFzNU5rMlNmTFhSdjVrOEZObGlHOVRPcmZ0MjJuNUxVeDZwU0tRMVFaamxZTGFKYnE4ZGdkN1hRTWUzblA?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE5KbW5rNklkbzFCVTBvT0RWUFpDbHBHYW9KR3p5YzJtQUlQSHVPT2d3clhMUUJLS0ZjX1o5MkVjeUxfNloyRE1DLQ?oc=5"
         }
       ],
       "card": {
-        "category": "经济·财政",
-        "headline": "财政收入增4.9%，年末花钱更有底",
-        "what": "财政部门公布，今年前10个月全国一般公共预算收入同比增长4.9%，在部分税种增速放缓的背景下保持正增长。",
-        "question": "这跟我每个月工资有关系吗",
+        "category": "地缘·冲突",
+        "headline": "俄乌战火外溢，烧到北非海域",
+        "what": "乌克兰证实其无人艇在利比亚港口附近海域袭击并击沉一艘俄罗斯军舰，泽连斯基公布爆炸画面，这是冲突首次外溢至北非。",
+        "question": "这事会让油价和机票涨价吗？",
         "means": [
-          "年末民生支出和基层工资更有保障",
-          "增量政策或更多靠发债，利率受影响"
+          "经地中海航线的货运可能更贵更慢",
+          "船员、外贸从业者的安全风险上升"
         ],
-        "note": "土地出让收入仍在下滑，紧平衡未改。"
+        "note": "冲突是否进一步外溢，要看后续各方表态。"
       }
     },
     {
-      "title": "中石油副总经理谢军被查",
-      "summary": "中国石油集团副总经理谢军被查，相关审查调查程序已经启动。作为国内最大油气央企的核心管理层成员，其被查牵动市场对能源央企治理与内部合规的关注。直接影响是公司相关业务条线的决策与项目推进可能阶段性放缓，央企人事与风控体系面临再梳理。深层意义在于，能源领域反腐持续深入，央企在油气勘探开发、国际贸易与工程招投标等环节的合规要求将进一步收紧。对产业链而言，供应商准入与合同审查趋严，短期或影响部分合作的节奏与成本结构。",
-      "reason": "能源央企核心高管落马，央企治理与能源领域反腐的又一标志性事件",
+      "title": "中东局势趋紧美伊海上对峙",
+      "summary": "伊朗表示将动用「一切手段」应对美国的海上封锁，地区紧张局势升级。美国情报高官同时称普京「在乌克兰不是美国的朋友」，美俄博弈与中东问题交织。以色列总理内塔尼亚胡被曝有意对伊朗动武，引发外界对其动机的质疑。受中东供应与航运风险影响，国际油价在震荡中偏弱，市场密切关注波斯湾航道与原油流动。若海上封锁持续或冲突扩大，将直接冲击全球原油供应与航运保险成本，推升能源价格波动，对通胀与相关产业链形成传导压力。",
+      "reason": "美伊海上封锁对峙升级叠加以色列对伊动向，直接牵动全球原油供应与能源价格。",
       "impact_areas": [
-        "政治",
-        "产业",
+        "地缘",
         "经济金融"
       ],
       "impact_level": "重大",
       "sources": [
         {
-          "name": "财新网",
-          "url": "https://www.caixin.com/2026-11-23/102507793.html"
-        }
-      ],
-      "card": {
-        "category": "政治·反腐",
-        "headline": "中石油副总被查，能源反腐延续",
-        "what": "中国石油集团副总经理谢军被查，审查调查程序已经启动。他是国内最大油气央企的核心管理层成员。",
-        "question": "央企反腐会影响到油价吗",
-        "means": [
-          "油气项目审批和招投标节奏或放慢",
-          "供应商合同审查更严、周期更长"
-        ],
-        "note": "案件仍在调查，具体结论以官方通报为准。"
-      }
-    },
-    {
-      "title": "荷兰法院对比亚迪颁临时禁令",
-      "summary": "荷兰法院初步认定比亚迪钛7车型外观侵权，并颁布临时禁令，限制该车型在当地的相关销售或展示行为。这是中国新能源车企在欧洲遭遇的又一起知识产权纠纷，涉及外观设计保护与车型命名、造型的边界认定。直接影响是涉事车型在欧洲部分市场的上市与交付安排可能被推迟，经销商与消费者预期受到影响。深层意义在于，随着中国车企加速出海，欧洲在外观设计、专利与合规审查上的门槛明显提高，知识产权正成为继关税与补贴调查之后的又一道非关税壁垒，车企需提前布局全球专利与本地化法务体系。",
-      "reason": "中国车企出海遭遇欧洲司法临时禁令，凸显知识产权正成为新的非关税壁垒",
-      "impact_areas": [
-        "产业",
-        "科技",
-        "经济金融"
-      ],
-      "impact_level": "重大",
-      "sources": [
+          "name": "路透社",
+          "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNaWxsYjRUNUVtQlVrWm1YSFE3eHduckRPNW5CN0llMTJydFI3dGJIa2ZiTENBSU9HYVYtejVzM2JVUy1nbW9wQmdOZGJhdTlMT2R6cTBYNmFUME9aZ1BhTFI2THpRdlJRY21UeW9odHdFWGZxSjlTSVQ5VlBOV2pSckFraW1JWUtOd3dqVWFDZC0yM0t4RFRKWEktV29YTFdLTlJlZ1NsNlcyZ3phdzlVcTlCQ0pTM29GODhJUDVjUQ?oc=5"
+        },
         {
-          "name": "财新网",
-          "url": "https://www.caixin.com/2026-11-23/102507793.html"
+          "name": "纽约时报",
+          "url": "https://www.nytimes.com/2026/11/23/world/middleeast/netanyahu-israel-iran.html"
         }
       ],
       "card": {
-        "category": "产业·汽车",
-        "headline": "比亚迪在荷兰被判临时禁令",
-        "what": "荷兰法院初步认定比亚迪钛7车型外观侵权，颁布临时禁令，限制该车型在当地的相关销售或展示行为。",
-        "question": "我买这款车会不会受影响",
+        "category": "地缘·能源",
+        "headline": "美伊海上对峙，油价跟着晃",
+        "what": "伊朗表示将动用一切手段应对美国的海上封锁，地区紧张升级；以色列总理被曝有意对伊朗动武，国际油价在震荡中偏弱。",
+        "question": "国内油价会跟着涨吗？",
         "means": [
-          "涉事车型在欧洲交付可能推迟",
-          "车企法务成本最终会摊到车价"
+          "加油和机票的钱可能要多掏一些",
+          "化工物流等用油行业的成本会往上走"
         ],
-        "note": "禁令属初步裁定，后续仍可上诉或调整。"
+        "note": "封锁是否长期化、航道是否受阻，仍需观察。"
       }
     },
     {
-      "title": "恒昌系被立案 实控人被控制",
-      "summary": "财富管理'恒昌系'被立案，实际控制人秦洪涛被采取刑事强制措施。该机构长期以线下理财、财富管理名义向个人客户募集资金，涉及投资者数量较多，案件进入刑事程序意味着相关产品兑付与资产处置将按司法程序推进。直接影响是投资者资金回收周期拉长、兑付预期下修，涉众型金融风险处置压力上升。深层意义在于，非持牌财富管理机构在监管趋严背景下的存量风险正加速出清，监管对'类金融'业务的穿透式打击持续加码。对普通投资者而言，高收益固收类理财产品的主体资质与资金去向需更为审慎地核查。",
-      "reason": "涉众型财富管理机构被立案，直接关系大量投资者资金安全与金融风险处置",
-      "impact_areas": [
-        "经济金融",
-        "社会"
-      ],
-      "impact_level": "重大",
-      "sources": [
-        {
-          "name": "财新网",
-          "url": "https://finance.caixin.com/2026-11-23/102507813.html"
-        }
-      ],
-      "card": {
-        "category": "经济·理财",
-        "headline": "恒昌系被立案，实控人被控制",
-        "what": "财富管理机构恒昌系被立案，实际控制人秦洪涛被采取刑事强制措施。该机构长期以线下理财名义向个人客户募集资金。",
-        "question": "我买的理财钱还能拿回来吗",
-        "means": [
-          "兑付周期拉长，回款预期要下修",
-          "买固收产品前先查主体和钱去向"
-        ],
-        "note": "资产处置按司法程序推进，以公告为准。"
-      }
-    },
-    {
-      "title": "两部门推数据人才集群培养",
-      "summary": "两部门联合发文，实施数据领域高技能人才集群培养计划，围绕数据标注、数据治理、数据分析与安全合规等方向，推动院校、企业与产业园区协同培养技能人才。政策指向数字经济和人工智能产业快速发展带来的人才缺口，重点面向应用型、技能型岗位。直接影响是相关职业培训、职业教育与认证体系将扩容，数据类岗位的招聘与薪酬结构可能随之调整，对求职者和在校生形成新的职业路径指引。深层意义在于，AI产业竞争正从算力与模型向数据要素与人才供给延伸，人才培养前置将影响未来几年数字产业的区域布局与用工成本。",
-      "reason": "国家级数据人才培育专项落地，关系就业结构与AI产业长期人才供给",
+      "title": "美收紧对华芯片代工渠道",
+      "summary": "美国出台新规，进一步收紧中国芯片企业经由海外代工的渠道，堵截中企借道境外晶圆厂获取先进制程的路径。与此同时，特朗普表示美国只想向中国出售「较旧的芯片」，并称政府正就此与中方讨论。中国外交部就美方出口管制措施表明一贯立场。新规将加大中国芯片设计企业在先进制程上的供应链约束，倒逼国产代工与设备材料环节加速替代。对全球半导体产业链分工、晶圆代工订单流向以及中美科技博弈格局均产生深远影响。",
+      "reason": "美方新规封堵中企海外代工路径，叠加特朗普芯片表态，强化对华科技遏制。",
       "impact_areas": [
         "科技",
-        "社会",
+        "地缘",
         "产业"
       ],
       "impact_level": "重大",
       "sources": [
         {
-          "name": "36氪",
-          "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBjcTF4OUlsQkxlcVhRWnp3LTNxZC1XOEVjeUR1Ny0tTWZQSF9KWDk1d1doVlpLdTNCYXNLb0NUZUgwSHNkVklXRjJiX1owYzNmbzhsRG44azRWVEh2c2c?oc=5"
+          "name": "财新网",
+          "url": "https://www.caixin.com/2026-11-23/102507983.html"
+        },
+        {
+          "name": "澎湃新闻",
+          "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1fT2E1OEhWRF8tcUZTSzFhMlZuSnlaMWtJTkhtbUwyeDJ3VFoySk9DanFJeWZKTEI0OU5RYWkzbG5BNExESlQwS2wtdzdQajdZdmJNNXZBMmQ5YWxxOC00Wg?oc=5"
         }
       ],
       "card": {
-        "category": "科技·就业",
-        "headline": "两部门发文，批量培养数据人才",
-        "what": "两部门联合发文，实施数据领域高技能人才集群培养计划，覆盖数据标注、治理、分析与安全合规等方向。",
-        "question": "现在转行做数据还来得及吗",
+        "category": "科技·芯片",
+        "headline": "美方再收紧，芯片海外代工被堵",
+        "what": "美国出台新规，进一步收紧中国芯片企业经海外代工获取先进制程的渠道；特朗普称美国只想向中国出售较旧的芯片。",
+        "question": "手机电脑会更贵还是更难买？",
         "means": [
-          "数据类岗位和培训机会会变多",
-          "入门岗竞争加剧，薪酬更分化"
+          "国产芯片替代要加速，相关岗位在扩招",
+          "先进制程的电子产品可能慢慢涨价"
         ],
-        "note": "各地落地细则和认证标准尚未公布。"
+        "note": "新规执行细节和中方回应仍可能变化。"
+      }
+    },
+    {
+      "title": "稳市场三项新政出炉",
+      "summary": "监管层推出「三箭齐发」的稳市场组合政策，通过「加」流动性、「减」成本、「稳」预期，以真金白银提振市场信心，推动资本市场走稳。新政在市场因外围扰动而承压之际落地，被解读为政策缓冲美股大跌冲击、稳定A股预期的重要举措。政策着力于改善资金面、降低融资与交易成本并引导长期资金入市。这是国家级市场干预行为，释放明确的政策托底信号，对券商、长期资金配置及相关板块估值形成支撑，也反映监管对资本市场稳定的高度重视。",
+      "reason": "国家级稳市场组合政策落地，释放明确政策托底信号，直接影响A股预期与资金面。",
+      "impact_areas": [
+        "经济金融"
+      ],
+      "impact_level": "重大",
+      "sources": [
+        {
+          "name": "央视网",
+          "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBlVk83aUt0am5sdXZjVFJoVDZCSlk2T2o3SkYwN0UzZC0xMVB0RnJROUxqU3kzbFIwc3IxOFl4OWdKWGJreEFEa3hXckRIXzBLYU9WeHdWNGRWakxmTDZrUENWQzZSRVRSQkp0QTVIZXUxV0x0SWpfQQ?oc=5"
+        },
+        {
+          "name": "新浪财经",
+          "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE53N2NNTWVhRlNwdnF5M20tMmZJM0U5YjZwQnVZRjVFbzRCelVyVUJob0hmMF9SMlltLVQwZ29GWFNwcUcwcnQySFVUUWZ1QVNSTXBETi1JU3lEYWwyd18wT2l4czRTMkxiSy1PX3FycTh6bUg3d0VVMA?oc=5"
+        }
+      ],
+      "card": {
+        "category": "经济·股市",
+        "headline": "稳市场三箭齐发，钱要进来了",
+        "what": "监管层推出三箭齐发的稳市场组合政策，从加流动性、减成本、稳预期三方面提振信心，在股市因外围扰动承压时落地。",
+        "question": "我的基金账户能回本吗？",
+        "means": [
+          "手里的股票基金短期或有喘息空间",
+          "长期资金入市节奏决定行情能走多远"
+        ],
+        "note": "政策力度与落地节奏以官方发布为准。"
+      }
+    },
+    {
+      "title": "两月7500亿借道ETF入市",
+      "summary": "数据显示，近两个月超7500亿元资金借道ETF逆势入市，在指数震荡中呈现「越跌越买」的特征。与此同时，24家公募同日上报ETF新品，多只宽基与行业ETF获大额申购，创业板还将引入做市商制度。大规模资金通过ETF持续流入，反映机构与长期资金在调整中布局，也体现被动投资工具在市场稳定中的压舱石作用增强。资金流向的重大变化往往预示市场风格与底部区域的切换，对判断市场情绪与配置方向具有重要参考价值。",
+      "reason": "两月7500亿ETF逆势入市叠加公募密集布局，是资金流向的重大变化信号。",
+      "impact_areas": [
+        "经济金融"
+      ],
+      "impact_level": "重大",
+      "sources": [
+        {
+          "name": "新浪财经",
+          "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE4tenlOUEtXOXQ1OTNtcTI2YkNpYkhwNTJhQlNkaTltek1TSU1haDNLV1pTeVhRbHpBYXNHU25BUHhNUWpSZGtTeHktejdWbE13dm5XTFhFNUdkVnNIVUFLV1ljT3F4bHFoZTlrcG90WkFKRF9jM0hnZw?oc=5"
+        }
+      ],
+      "card": {
+        "category": "经济·资金",
+        "headline": "两月七千五百亿资金逆势进场",
+        "what": "近两个月超七千五百亿元资金借道ETF逆势入市，指数震荡中越跌越买，24家公募同日上报ETF新品。",
+        "question": "跟着买ETF是不是更稳？",
+        "means": [
+          "自己盯盘不如看清资金往哪走",
+          "被动投资变主流，风格切换会更快"
+        ],
+        "note": "资金短期流入不代表底部已确认，仍需观察。"
+      }
+    },
+    {
+      "title": "特朗普拟限美企海外建数据中心",
+      "summary": "特朗普拟限制美国企业在海外建设数据中心，并威胁对相关行为征收高额关税，理由是担忧AI算力基础设施与数据外流。此举直指当前AI热潮下美国科技巨头大规模海外扩张数据中心的趋势，可能打乱全球算力布局与云服务供应链。在中美AI竞争与算力主权背景下，该政策若落地将推高企业建设成本、重塑数据中心选址逻辑，并波及服务器、芯片、电力等上下游产业。对AI基础设施投资节奏与跨境数据流动格局构成新的不确定性。",
+      "reason": "直接干预AI算力基础设施的全球布局，威胁关税，冲击数据中心与云服务供应链。",
+      "impact_areas": [
+        "科技",
+        "经济金融",
+        "产业"
+      ],
+      "impact_level": "重大",
+      "sources": [
+        {
+          "name": "财新网",
+          "url": "https://www.caixin.com/2026-11-23/102507974.html"
+        }
+      ],
+      "card": {
+        "category": "科技·算力",
+        "headline": "美国要拦着企业去海外建机房",
+        "what": "特朗普拟限制美国企业在海外建设数据中心，并威胁对相关行为征收高额关税，理由是担心AI算力设施与数据外流。",
+        "question": "我用AI会更贵还是更慢？",
+        "means": [
+          "云服务和AI会员费可能往上调",
+          "数据中心相关的就业和投资或转移"
+        ],
+        "note": "该提议尚未落地，关税范围仍待明确。"
+      }
+    },
+    {
+      "title": "129万元药进医保目录",
+      "summary": "一款原价高达129万元的药品被纳入国家基本医保目录，引发广泛关注。通过医保谈判大幅压价并由医保基金与患者共同分担，原本天价的创新药可及性显著提升。这体现了医保目录动态调整与以量换价机制在降低重大疾病用药负担上的作用，也反映医保基金在支持创新药与保障可负担之间的平衡。对相关患者而言，自付费用大幅下降；对药企而言，进医保意味着放量但单价下行。医保目录调整直接影响患者用药与医药行业定价逻辑。",
+      "reason": "天价创新药经谈判纳入医保，直接降低患者用药负担，关系医保基金与医药定价。",
+      "impact_areas": [
+        "公共卫生",
+        "民生",
+        "产业"
+      ],
+      "impact_level": "重大",
+      "sources": [
+        {
+          "name": "央视网",
+          "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1iNVBNVEhvNDlRenhJWEUwUzhaTHZEY0M4UmxPWFRHQ2xSdGZPUFp6RXV3LUQwT0lEbW91M1IwM1ZZcnNzOE92M0J6RU9PRWotTjhhTTRsc2E5ZndTbmN0NUF5SmF5VVhkd2NEakJlOUozay1Da3lLQg?oc=5"
+        }
+      ],
+      "card": {
+        "category": "民生·医保",
+        "headline": "百万元的天价药，进医保了",
+        "what": "一款原价129万元的药品经医保谈判大幅压价后被纳入国家基本医保目录，由医保基金与患者共同分担。",
+        "question": "我要自己掏的钱能少多少？",
+        "means": [
+          "重病用药自付部分会明显下降",
+          "进医保的药可能放量，价格长期走低"
+        ],
+        "note": "各地报销比例与落地时间不一样，需查询。"
+      }
+    },
+    {
+      "title": "28省份陪读补贴盘点",
+      "summary": "全国28个省份推出陪读相关政策，部分地区对陪读家庭给予最高每年2万元的直接补贴，覆盖范围与标准各不相同。此类政策旨在减轻家庭在子女教育陪护上的经济与时间负担，回应生育养育成本高企的社会关切。补贴直达家庭，对特定人群的现金流形成实际支持，也与鼓励生育、降低养育成本的宏观导向相衔接。各地标准差异较大，政策落地效果与可持续性仍待观察，但已构成一项影响众多家庭钱袋子的民生安排。",
+      "reason": "28省份陪读补贴直达家庭，最高年补2万元，直接关系养育成本与家庭现金流。",
+      "impact_areas": [
+        "民生",
+        "社会"
+      ],
+      "impact_level": "重大",
+      "sources": [
+        {
+          "name": "虎嗅",
+          "url": "https://www.huxiu.com/article/4907769.html"
+        }
+      ],
+      "card": {
+        "category": "民生·教育",
+        "headline": "陪读能领补贴，最高每年两万",
+        "what": "全国28个省份推出陪读相关政策，部分地区对陪读家庭给予最高每年两万元的直接补贴，覆盖范围与标准各不相同。",
+        "question": "我家能领到这笔钱吗？",
+        "means": [
+          "有孩子在外读书的家庭可去查政策",
+          "补贴标准各地差得多，别按最高算"
+        ],
+        "note": "申请条件、发放方式以当地公告为准。"
+      }
+    },
+    {
+      "title": "网安巨头439亿美元并购",
+      "summary": "网络安全公司CrowdStrike宣布以全股票交易方式收购Zscaler，交易估值约439亿美元，成为网络安全领域规模空前的并购。合并后将在终端安全、零信任与云安全等赛道形成更强的平台化整合能力，重塑全球网络安全产业竞争格局。在AI驱动的网络攻击升级与企业安全支出增长的背景下，头部厂商通过并购扩张平台边界、抢占市场份额。该交易可能引发行业连锁整合，对其他安全厂商与云服务商的竞争策略产生重要影响。",
+      "reason": "439亿美元全股票并购重塑全球网络安全产业格局，或引发行业连锁整合。",
+      "impact_areas": [
+        "科技",
+        "产业",
+        "经济金融"
+      ],
+      "impact_level": "重大",
+      "sources": [
+        {
+          "name": "36氪",
+          "url": "https://www.36kr.com/newsflashes/4082232560931972"
+        }
+      ],
+      "card": {
+        "category": "科技·并购",
+        "headline": "网安巨头439亿吞并同行",
+        "what": "美国两家网络安全公司宣布合并，以全股票方式交易，估值约439亿美元，创下该领域并购纪录。",
+        "question": "这跟我上网安全有啥关系？",
+        "means": [
+          "企业安全软件可能打包涨价",
+          "安全岗位需求会增加，技能更值钱"
+        ],
+        "note": "交易还需监管批准，最终能否完成待定。"
       }
     }
   ],
-  "total_fetched": 196,
-  "generated_at": "2026-11-23T12:26:43.389526+08:00"
+  "total_fetched": 278,
+  "generated_at": "2026-11-23T19:27:15.076562+08:00"
 }
