@@ -2,83 +2,70 @@
   "date": "2026-11-26",
   "news": [
     {
-      "title": "美国宣布对多国加征新关税",
-      "summary": "美国宣布拟以产能过剩为由，对中国、欧盟等主要经济体加征新关税，并同步推进对印度等贸易伙伴的差别化税率安排。这是继多轮关税后又一次大规模贸易措施，市场担忧全球供应链成本上升与贸易摩擦升级。分析认为，新301关税的增量冲击将主要落在机电、化工等出口链条，短期推升美国进口成本与通胀压力，并可能引发相关经济体反制，重塑2027年全球贸易格局。对出口企业而言，订单转移与关税成本分摊将成为明年经营的关键变量。",
-      "reason": "多源密集报道的全球性贸易政策突变，直接冲击供应链与出口格局",
+      "title": "特朗普宣布对多国加征新关税",
+      "summary": "11月26日，美国政府宣布对包括中国、印度在内的多个主要贸易伙伴加征新一轮关税，美方称此举旨在把全球贸易从中国主导的供应链中剥离。路透报道，美方同步提出以贸易协议为条件调整税率，称若美印达成协议，可将印度关税上限定为17%；针对301条款相关过剩产能的关税也已落地。消息公布后全球股市震荡，科技股承压明显，投资者担忧通胀反弹与供应链成本抬升。分析认为，本轮关税覆盖面广、税率陡升，可能推动全球产业链二次重构，并加大各国货币政策、汇率与出口企业的经营不确定性。",
+      "reason": "美国对多国同步加征关税，直接冲击全球贸易格局与中国出口链，多源密集报道，属最高热度事件。",
       "impact_areas": [
         "经济金融",
-        "地缘"
+        "地缘",
+        "产业"
       ],
       "impact_level": "现象级",
       "sources": [
-        {
-          "name": "财新网",
-          "url": "https://database.caixin.com/2026-11-26/102508826.html"
-        },
         {
           "name": "BBC",
           "url": "https://www.bbc.co.uk/news/articles/c893r9ke5p97o?at_medium=RSS&at_campaign=rss"
         },
         {
           "name": "Reuters",
+          "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOaUdXQjZTRVJvNzVESnNzMlpfZmxhTEgweFZsUHRZRTVLa29xcENmUjJaUUNjWExsaVNTREJqNlNwSFZzNXFuRUFqSlpRam4tZkZHWXEwZXQ5VlhPVFJzcmNnZEw5a3N2ZVBndnpnNzhiN1Y1NkRtU1M5WE05UmRFcGMzUVk0NXYyRTVpM05MOUhISDhmb3BPTERXcmNHWE9zc2dR?oc=5"
+        },
+        {
+          "name": "Reuters",
           "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNZjlYUGF2ZUpQdTZlbXF1VUZFd0RsWS16MEgzdnBpY3pMOGNvYXBQWnpuVkNWS2Q0aUEzZk5nczlQTUhjMEVjV1N2cl9CRy1FVDBvZUNuUTFTQnl2MWc2MG9WME90NXA1VVFyR3MwRWVDTF85NEdVSThKTm1wbzBnVEo0a2FuVDJUOUZ4Ty1ZVmFOUldoU080U1dHeGMyeEY5TnV1Sko0eEJoZDI4RGY5b0J5ZDlBUExR?oc=5"
+        },
+        {
+          "name": "Reuters",
+          "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQRmdGMDdiZVhMaEZiM2hLVlNhdXQzZkM1b2F5NXFYaWZzbC1mX25kLU56ZThrNjFmZ2JVMW9fbjJhbUMwMXdzN3JLYXAyNE02a0FqclFyblhxZmxfbWRLVlQ5OFdoQkdmNEF1ZTlZUzRVVkkxQm14eDY0R1ZtUXJpRWhaNDE5c1hOM3pUYUhiRmJ1NnlTaGVrQk9uNGwwU2w5UmliTkRpZGQ?oc=5"
+        },
+        {
+          "name": "财新网",
+          "url": "https://international.caixin.com/2026-11-26/102508942.html"
         }
       ],
       "card": {
         "category": "经济·关税",
-        "headline": "美国再加关税，出口链条先凉",
-        "what": "美国宣布拟以产能过剩为由，对中国、欧盟等主要经济体加征新关税，并对印度等伙伴安排差别化税率。",
-        "question": "我买的进口货会涨多少？",
+        "headline": "美国再次加征关税，多个国家受影响",
+        "what": "11月26日，美国宣布对包括中国、印度在内的多个主要贸易伙伴加征新一轮关税，并称可以用贸易协议调整税率。",
+        "question": "我买的进口商品会涨价吗？",
         "means": [
-          "出口企业订单或转移，加班变少",
-          "机电化工类进口商品价格易上行"
+          "出口相关行业的订单和岗位可能承压",
+          "海淘和进口商品价格可能慢慢上涨"
         ],
-        "note": "措施仍在拟议阶段，落地范围与税率以官方公告为准。"
+        "note": "各国是否反制、贸易协议能否谈成，都还没有定论。"
       }
     },
     {
-      "title": "美科技股遭抛售AI行情裂痕",
-      "summary": "美国科技股连续下挫，市场对AI泡沫的担忧加剧，此前'躺赚'的AI套利交易开始动摇，'大空头'仓位布局转为多大于空。英伟达信用评级面临下调、数据中心冷却故障迫使Compass推迟3.8亿美元ABS发行，显示AI产业链的融资与估值链条出现松动。若抛售延续，可能传导至全球科技板块与风险资产定价，并检验算力投资回报的实际兑现程度。对国内科技股与相关ETF的资金情绪亦构成外溢压力。",
-      "reason": "多源报道的AI资产估值动摇信号，牵动全球风险资产定价",
+      "title": "通胀顽固 美联储加息预期升温",
+      "summary": "11月26日公布的美联储最新调查显示，近几周美国经济继续扩张，就业市场保持韧性，但通胀依然顽固，价格压力未见明显缓解。市场对加息50个基点的押注升温，短端美债收益率已提前反映政策收紧预期。受此压制，现货黄金冲高回落，再度失守关键点位。分析指出，若通胀黏性持续，美联储转向宽松的窗口将进一步后移，美元流动性边际收紧将对新兴市场货币、大宗商品和全球风险资产估值形成压力，也是当前科技股波动加剧的重要宏观背景。",
+      "reason": "美联储调查显示通胀顽固、加息押注升温，直接牵引全球资产定价与金价走势，为关键宏观信号。",
       "impact_areas": [
         "经济金融",
-        "科技"
-      ],
-      "impact_level": "现象级",
-      "sources": [
-        {
-          "name": "财新网",
-          "url": "https://database.caixin.com/2026-11-26/102508816.html"
-        },
-        {
-          "name": "BBC",
-          "url": "https://www.bbc.co.uk/news/articles/cq0md8g14zryo?at_medium=RSS&at_campaign=rss"
-        }
-      ],
-      "card": {
-        "category": "科技·AI",
-        "headline": "AI股连跌，套利逻辑松动",
-        "what": "美国科技股连续下挫，市场对AI泡沫担忧加剧，此前稳定的AI套利交易开始动摇，英伟达信用评级面临下调。",
-        "question": "我的科技基金要不要减仓？",
-        "means": [
-          "科技类基金净值短期波动加大",
-          "算力相关行业招聘节奏或放缓"
-        ],
-        "note": "抛售是否延续尚不确定，关注后续算力投资回报数据。"
-      }
-    },
-    {
-      "title": "美经济强劲通胀高企加息预期升温",
-      "summary": "美国第三季度经济增速超预期，10月通胀仍处高位，美联储最新调查显示近几周经济持续增长、通胀黏性明显。短端利率已'提前交卷'，市场对单次加息50个基点的押注升温。强劲数据与高通胀并存，令美联储前瞻指引的政策灵活性受限。这意味着全球资金成本易升难降，美元与新兴市场汇率波动风险随之上升，对跨境资本流动与国内货币政策空间形成外部约束。",
-      "reason": "关键经济先行数据与加息预期异动，影响全球资金成本与汇率",
-      "impact_areas": [
-        "经济金融"
+        "地缘"
       ],
       "impact_level": "重大",
       "sources": [
         {
           "name": "Reuters",
-          "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNalBrRjhRWHdhRDduMzduLU1kN1lGVFpzNFllX0RzdjJXMjdtajRZS1l1dms2MFJFbkhJQmx3Qzgydi1nTTJnQ1JPLUtoa1R5LWZjWjItUXJhXzhoZG51NU9ENzVBQjVSZWFpdHlqbV9PSkVncWtjUlptdXhjd0ZKRXZ6d2Y1dw?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQZm5vWXNOWWIxaUVxUEVsRDBCWmpwYmd6eWJMLW1tcnJMVmxvR08ybXFaYWlFcVZ2YU1fYk9hbWotWlBXTzVValBHSFFzNjM1QlpyVWNCXzFPTFRZMUtWeHp0SThmaWxRMTVYVXp3UlM2R3pKQnVNS2hiZ1VERU9EVnFGNlA5dGZEa1NtZ1o5REVxM3ZzX2ZpOXRaN0lydzlDZk1VQ2FlS212U3dw?oc=5"
+        },
+        {
+          "name": "Reuters",
+          "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNczNWcXJNQVFwUEZ5UjlTc1o0ZFE5NVFYZzA2eTJURHRsMmRMRmc1LTZ1TWszbFYyN05QRHRiQ1VIb1ZxUE9pTUs5WDVya1M0WFJEQ3lCN3J0T3h4bndfa1NyZFB4VFFaby1NWVdRRlFZeGlKdDNnYkRZN0c0eFZQY3VSWS11NW9SbUdndElMZk9oNk1kd0haVWh0Rl9VcTA1MDg1REE1cHZXWk14Umc?oc=5"
+        },
+        {
+          "name": "澎湃新闻",
+          "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE1fY2M1Y3lhREVfcGVqb1FmMXN2NmpYTC1pVVJEWDMtUElycXh5RTEtWmpzUUoyWUM0dFltVE5mWHZUZzhibktXb191SHQ1eWh1ZTNDLXNZNEhFaTZfQklscU0tR0ZoSk5GOXZIcHlnOHljZw?oc=5"
         },
         {
           "name": "财新网",
@@ -86,111 +73,141 @@
         }
       ],
       "card": {
-        "category": "经济·利率",
-        "headline": "美国通胀黏，加息押注又升温",
-        "what": "美国三季度经济增速超预期，10月通胀仍高，市场对单次加息50个基点的押注升温。",
-        "question": "我换美元会更贵吗？",
+        "category": "经济·货币",
+        "headline": "美国通胀仍未缓解，降息更远了",
+        "what": "11月26日公布的美联储调查显示，美国经济继续扩张、就业仍有韧性，但通胀顽固，市场对加息50个基点的押注升温。",
+        "question": "降息一再推迟，我该担心什么？",
         "means": [
-          "美元理财收益走高但汇率有风险",
-          "房贷利率下调空间可能被压缩"
+          "美元走强，人民币汇率压力或加大",
+          "黄金和科技股的波动会更明显"
         ],
-        "note": "加息幅度取决于后续数据，市场押注不等于落地。"
+        "note": "加息与否要看后续数据，不宜按预期提前操作。"
       }
     },
     {
-      "title": "人民币大幅升值挑战外汇政策",
-      "summary": "人民币近期大幅升值，给外汇政策带来新挑战。升值一方面反映美元走弱与资本回流，另一方面对出口企业利润形成挤压。分析认为，政策需在稳定汇率与保持出口竞争力之间权衡，若升值过快可能触发逆周期调节工具。跨境资金流动、企业结汇行为以及出口订单的重新定价，将成为后续观察重点，直接关系到外贸企业的盈利预期与就业稳定。",
-      "reason": "汇率出现大幅单边变动，牵动出口与跨境资金，属重大市场信号",
+      "title": "英伟达逼近死亡交叉遭质询",
+      "summary": "11月26日，英伟达股价持续走弱，50日均线下穿200日均线，技术形态逼近所谓死亡交叉，市场对其高估值与AI资本开支持续性的担忧明显升温。同日，美国参议院反垄断民主党领袖就英伟达的市场行为向其提出质询，聚焦其在AI加速芯片领域的主导地位与竞争限制问题。另有报道披露，特朗普政府在评估后认定黄仁勋不构成国家安全威胁。多重消息叠加下，AI算力板块波动加剧，投资者开始重新审视算力产业链的估值中枢与监管风险。",
+      "reason": "AI龙头英伟达技术面转弱并遭美国会反垄断质询，牵动全球AI与半导体板块估值预期。",
       "impact_areas": [
+        "科技",
         "经济金融"
       ],
       "impact_level": "重大",
       "sources": [
         {
-          "name": "财新网",
-          "url": "https://opinion.caixin.com/2026-11-26/102508812.html"
+          "name": "凤凰网",
+          "url": "https://news.ifeng.com/c/8yN5AcQFdVF"
+        },
+        {
+          "name": "Reuters",
+          "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOSkxEekVURGxkMXlGUkRxVVNrQ0s1NHJyRjkwMS1jU09nU2xmSVhuSDVCTHotVXgtdWdtMTV4MDE0cGNpSENxdUlMREtQR3BxUl95RTc2aXBsbkRROUNtbzlNb1ZJZTB0S2VBQkJqUjJJZjNpblA4SF9uT213SmhvRlluVUxxRFVkNzZ2QkNHdVFONzUzaV9xN0V5ajNRYWF5dzJxZGx3Nk4?oc=5"
+        },
+        {
+          "name": "Reuters",
+          "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOZ0IzSk1IWkpMeGFmZWlDR2RseE11U3ZSbXlIOGdQalJyOS1rakJjUUxYZDYwd2ZYZERTQTdNNTQzR1dVMmRwVU1KNmhxc2ZtOXhwczJJckVxT0dUSHJnZEJpUnp0MXVVX1VqSElzQkJLc25neHJEZEYzZ0R5LXdnb01hNGZaTFFrbEc3c1haRVZpUUFldnRZY3NqVmlSRGVNVEloQ1Q2Q29VQzlRSWxtSUdnVHNIUGVwZ2VuekdHS1I1UQ?oc=5"
         }
       ],
       "card": {
-        "category": "经济·汇率",
-        "headline": "人民币升值快，外贸利润变薄",
-        "what": "人民币近期大幅升值，既反映美元走弱与资本回流，也挤压出口企业利润。政策需在稳汇率与保出口竞争力之间权衡。",
-        "question": "我手里的美元要换掉吗？",
+        "category": "科技·芯片",
+        "headline": "英伟达股价走弱，还遭国会质询",
+        "what": "11月26日，英伟达50日均线下穿200日均线，市场担忧其高估值；同日美国参议院就其AI芯片主导地位提出质询。",
+        "question": "AI这波行情还能拿住吗？",
         "means": [
-          "出口厂利润变薄，奖金或受影响",
-          "海淘和出境游花销相对便宜"
+          "AI相关基金和股票的波动会加大",
+          "算力产业链公司估值可能被重估"
         ],
-        "note": "若升值过快，可能触发逆周期调节工具。"
+        "note": "技术指标只是参考，监管调查结果尚未公布。"
       }
     },
     {
-      "title": "SpaceX百万卫星数据中心获批",
-      "summary": "马斯克部署百万颗卫星作为轨道数据中心的方案获美国监管批准。项目拟将算力基础设施迁移至太空，以规避地面数据中心的能耗与散热瓶颈，但引发天文学界对光污染与轨道资源占用的强烈反对。若推进，将重塑AI算力供给模式与近地轨道资源竞争格局，也带来太空治理与频轨资源分配的新难题，对商业航天与算力产业链影响深远。",
-      "reason": "航天与算力融合的标志性科技项目获批，影响未来算力供给格局",
+      "title": "万科境内债谋求二次展期",
+      "summary": "11月26日，财新报道万科正就境内债券寻求第二次展期，再度面对债务集中到期的闯关压力。作为头部混合所有制房企，万科此前已完成过一轮展期，此次二次展期表明其经营性现金流尚未实质修复。市场关注债权人会议表决结果、增信措施以及大股东深铁集团的后续支持力度。若方案未获通过，可能触发交叉违约，并对房地产行业融资环境、银行涉房资产质量与购房者预期形成连锁冲击，也是观察本轮地产风险出清节奏的关键窗口。",
+      "reason": "头部房企万科二次谋求债券展期，是地产信用风险与行业融资环境的关键观察点。",
       "impact_areas": [
-        "科技",
-        "航天"
+        "经济金融",
+        "产业"
       ],
       "impact_level": "重大",
       "sources": [
         {
-          "name": "凤凰网",
-          "url": "https://news.ifeng.com/c/8yMZmLopxVT"
-        },
-        {
           "name": "财新网",
-          "url": "https://www.caixin.com/2026-11-26/102508793.html"
+          "url": "https://www.caixin.com/2026-11-26/102508966.html"
         }
       ],
       "card": {
-        "category": "科技·航天",
-        "headline": "百万卫星方案获批，算力上天",
-        "what": "马斯克部署百万颗卫星作为轨道数据中心的方案获美国监管批准，项目拟把算力设施搬上太空，以规避地面能耗与散热瓶颈。",
-        "question": "以后我的网盘会更快吗？",
+        "category": "房产·债务",
+        "headline": "万科再次寻求展期，楼市再受考验",
+        "what": "11月26日，财新报道万科正就境内债券寻求第二次展期，此前已完成一轮展期，其经营性现金流尚未实质修复。",
+        "question": "我买的房子还能按时交付吗？",
         "means": [
-          "卫星通信、航天概念岗需求增多",
-          "近地轨道资源争夺会更激烈"
+          "房企融资更紧，房贷利率优惠或收窄",
+          "买房前要看清开发商的资金状况"
         ],
-        "note": "项目仍面临天文学界反对与频轨分配争议。"
+        "note": "展期方案需债权人会议表决，结果还没出来。"
       }
     },
     {
-      "title": "以色列法官建议撤销内塔尼亚胡主要指控",
-      "summary": "以色列法官建议撤销针对总理内塔尼亚胡腐败案中最严重的指控，反对派称正推进组建替代政府。该案持续多年，撤诉倾向被视为内塔尼亚胡政治地位的重要转折。内塔尼亚胡在公开场合情绪激动，称'谁把这十年还给我'。此案走向将影响以色列政局稳定与对外政策连贯性，进而牵动中东局势与相关能源、地缘风险定价。",
-      "reason": "多源报道的中东核心国家政局转折，影响地缘与能源定价",
+      "title": "马斯克百万颗数据卫星计划获批",
+      "summary": "11月26日，英国广播公司报道，监管机构已批准马斯克旗下SpaceX发射约100万颗数据卫星的计划。该规模远超现有星链星座，若逐步落地，将大幅提升天基数据传输与在轨算力网络能力，使商业航天从通信服务向太空数据中心延伸。与此同时，计划引发对轨道与频谱资源占用、天文观测干扰以及太空碎片风险的广泛担忧。分析认为，这将重塑全球卫星互联网与云计算竞争格局，并推动各国加快太空轨道规则与频谱分配的博弈。",
+      "reason": "百万颗数据卫星计划获批是商业航天与天基算力的标志性事件，将影响全球太空资源竞争。",
       "impact_areas": [
-        "地缘政治"
+        "科技",
+        "产业"
       ],
       "impact_level": "重大",
       "sources": [
         {
           "name": "BBC",
-          "url": "https://www.bbc.co.uk/news/articles/cxj05mv723r2o?at_medium=RSS&at_campaign=rss"
-        },
-        {
-          "name": "凤凰网",
-          "url": "https://news.ifeng.com/c/8yMXrSFnwhO"
+          "url": "https://www.bbc.co.uk/news/articles/cwp836l8n1jgo?at_medium=RSS&at_campaign=rss"
         }
       ],
       "card": {
-        "category": "地缘·中东",
-        "headline": "以总理腐败案松动，政局生变",
-        "what": "以色列法官建议撤销针对总理内塔尼亚胡腐败案中最严重的指控，反对派称正推进组建替代政府，此案已持续多年。",
-        "question": "中东这波动荡会推高油价吗？",
+        "category": "科技·航天",
+        "headline": "百万颗卫星获批，太空要建机房",
+        "what": "11月26日，BBC报道监管机构已批准SpaceX发射约100万颗数据卫星的计划，规模远超现有星链星座。",
+        "question": "以后上网会更便宜更快吗？",
         "means": [
-          "加满一箱油的成本可能跟着晃",
-          "中企在中东的项目节奏需观察"
+          "偏远地区上网可能多一种选择",
+          "卫星频段和轨道资源会更抢手"
         ],
-        "note": "撤诉建议不具终局效力，最终以法院裁定为准。"
+        "note": "该计划能否落地、规则如何约束，仍需继续观察。"
       }
     },
     {
-      "title": "油价将调92号汽油或回7字头",
-      "summary": "国内成品油价格将于本轮调价窗口调整，92号汽油有望重回'7'字头。此次下调主要受国际原油价格回落带动，将直接降低私家车主与物流运输的用油成本。油价变动亦影响CPI中的交通燃料分项，对居民日常出行开支与运输行业成本构成实质影响。对高频通勤人群和以燃油成本为主要支出的货运司机而言，本轮调价将带来可感知的支出变化。",
-      "reason": "成品油调价直接关系居民出行与运输成本，属典型民生类事实新闻",
+      "title": "全国统一电力市场建设获突破",
+      "summary": "11月26日，央视报道，全国统一电力市场建设取得重大突破，省间与省内绿电实现联合交易。该机制打通了跨省绿电交易壁垒，使新能源消纳范围从省内扩展至全国，有助于缓解西部弃风弃光与东部绿电需求之间的空间错配。对发电企业而言，绿电环境价值将通过跨省交易得到更充分定价；对用电大户和出口制造企业而言，绿电采购渠道拓宽，有利于应对欧盟碳边境调节机制。后续需关注输配电价机制、消纳责任权重分配与跨省结算规则的配套落地。",
+      "reason": "省间省内绿电联合交易落地，是电力市场化改革与新能源消纳机制的关键制度突破。",
+      "impact_areas": [
+        "能源",
+        "产业",
+        "经济金融"
+      ],
+      "impact_level": "重大",
+      "sources": [
+        {
+          "name": "央视网",
+          "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBtMkRFaWdBTWYtM3dlb1ZlLV9XWXY1SnBpVlpvd0FiY1VnV00xZ1ItS09ieVdJdVI1ZjFwTVNJNVZYdlZsSkFpdUVpWVlnTkppcHphZ0JGQXAtRUVTUDV6OFdLQ3cwa2k0NWM1SGhkVHlWT3dOZ0c4SA?oc=5"
+        }
+      ],
+      "card": {
+        "category": "能源·电力",
+        "headline": "绿电跨省交易打通，用电更灵活",
+        "what": "11月26日，央视报道全国统一电力市场取得突破，省间与省内绿电实现联合交易，新能源消纳范围从省内扩至全国。",
+        "question": "我家的电费会因此变便宜吗？",
+        "means": [
+          "用电大户买绿电的渠道变多了",
+          "出口企业应对碳关税更有底气"
+        ],
+        "note": "输配电价和跨省结算细则还需配套落地。"
+      }
+    },
+    {
+      "title": "油价将调整 92号汽油或回7元",
+      "summary": "11月26日，多家机构测算，本轮成品油调价窗口即将开启，92号汽油零售价或重回7字头。受国际原油价格震荡上行影响，本轮调价预计以上调为主，折合每升涨幅约在一角以上。油价上行将直接抬高私家车主通勤成本，并通过物流运输、快递、航空燃油附加费等渠道向下游传导。对普通家庭而言，加满一箱油支出将增加数元至十余元；网约车与货运司机的成本压力更为明显。下一轮调价方向仍取决于OPEC+产量政策与地缘局势演变。",
+      "reason": "成品油调价窗口临近、92号汽油或重回7元，直接关系居民出行与物流成本。",
       "impact_areas": [
         "民生",
-        "经济"
+        "经济金融"
       ],
       "impact_level": "重大",
       "sources": [
@@ -205,96 +222,97 @@
       ],
       "card": {
         "category": "民生·油价",
-        "headline": "油价要降，92号重回7字头",
-        "what": "国内成品油本轮调价窗口将开启，92号汽油有望重回7字头，主要受国际原油价格回落带动。",
-        "question": "加满一箱能省几块钱？",
+        "headline": "油价要上调，92号汽油或回7元",
+        "what": "11月26日，多家机构测算，本轮成品油调价窗口即将开启，92号汽油零售价或重回7元水平，每升预计涨一角以上。",
+        "question": "加满一箱油要多花多少钱？",
         "means": [
-          "通勤族每月油钱少花一笔",
-          "货运司机成本压力略松一点"
+          "私家车加满一箱多花几元到十几元",
+          "快递和机票的燃油成本或跟着涨"
         ],
-        "note": "最终调价幅度以发改委公布为准。"
+        "note": "最终调价以国家发改委公告为准，下一轮看OPEC+。"
       }
     },
     {
-      "title": "中信证券融资保证金降至80%",
-      "summary": "中信证券宣布自11月30日起将融资保证金比例降至80%。此举降低投资者融资买入股票的资金门槛，释放加杠杆信号，被市场视为券商响应活跃资本市场政策的动作。保证金比例下调有望提升两融余额与市场流动性，但也需关注杠杆资金放大波动的风险。对普通投资者而言，融资买入的成本与风险约束相应变化，需理性评估杠杆使用。",
-      "reason": "券商下调融资保证金比例的客观政策动作，属资金面重大信号",
+      "title": "药监局批准贝普若韦生上市",
+      "summary": "11月26日，国家药品监督管理局批准贝普若韦生上市，具体适应症、剂型与企业信息以官方公告为准。新药获批意味着相关疾病患者在国内新增一项治疗选择，其定价水平与能否进入医保目录，将直接决定实际用药可及性和患者负担。近年国内创新药审评审批持续提速，获批上市品种数量增加，同时医保目录动态调整与谈判降价同步推进。业界关注该品种的商业化安排、产能准备以及后续医保准入进展。",
+      "reason": "国家药监局新批创新药上市，直接关系相关患者用药选择与医保可及性，属民生健康事项。",
       "impact_areas": [
+        "公共卫生",
+        "民生"
+      ],
+      "impact_level": "重大",
+      "sources": [
+        {
+          "name": "36氪",
+          "url": "https://www.36kr.com/newsflashes/4086439344286344"
+        }
+      ],
+      "card": {
+        "category": "健康·新药",
+        "headline": "新药国内获批，患者多一种选择",
+        "what": "11月26日，国家药监局批准贝普若韦生上市，具体适应症、剂型与企业信息以官方公告为准。",
+        "question": "这药能进医保吗，我要花多少钱？",
+        "means": [
+          "相关疾病患者多了一种用药方案",
+          "能否进医保决定自付费用高低"
+        ],
+        "note": "适应症和定价以官方公告为准，不要自行用药。"
+      }
+    },
+    {
+      "title": "中宣部原副部长蔡赴朝被开除党籍",
+      "summary": "11月26日，官方通报中宣部原副部长蔡赴朝被开除党籍，取消其享受的待遇，收缴违纪违法所得，涉嫌犯罪问题移送检察机关依法审查起诉。蔡赴朝长期在宣传文化系统任职，曾任国家新闻出版广电总局局长等职务。此案是近期文化宣传领域查处的又一名高级别官员，释放出重点领域反腐败持续深入的信号。后续司法程序推进情况及涉案细节披露，将成为观察文化宣传系统政治生态与行业治理方向的重要窗口。",
+      "reason": "宣传文化系统高级别官员被开除党籍并移送司法，属重要政治反腐事件。",
+      "impact_areas": [
+        "政治"
+      ],
+      "impact_level": "重大",
+      "sources": [
+        {
+          "name": "凤凰网",
+          "url": "https://news.ifeng.com/c/8yN4M5LZt4Y"
+        }
+      ],
+      "card": {
+        "category": "政治·反腐",
+        "headline": "中宣部原副部长被开除党籍",
+        "what": "11月26日，官方通报中宣部原副部长蔡赴朝被开除党籍，收缴违纪违法所得，涉嫌犯罪问题移送检察机关审查起诉。",
+        "question": "这轮反腐接下来会查到哪？",
+        "means": [
+          "文化宣传系统的管理会继续收紧",
+          "相关行业合规要求可能更严格"
+        ],
+        "note": "案件仍在司法程序中，细节以官方通报为准。"
+      }
+    },
+    {
+      "title": "数据局就AI数据规则征求意见",
+      "summary": "11月26日，国家数据局综合司就《关于完善数据规则 赋能人工智能创新发展的若干意见（公开征求意见稿）》向社会公开征求意见。文件聚焦训练数据供给、数据产权界定、跨主体流通与安全合规等关键环节，意在破解大模型训练面临的高质量数据不足、授权链条不清等问题。对AI企业而言，数据获取成本与合规边界将更明确；对数据持有方而言，流通与收益分配机制有望建立。意见稿落地后，将直接影响大模型训练数据生态与数据要素市场定价规则。",
+      "reason": "国家层面就AI数据规则公开征求意见，关系到数据要素市场与大模型产业发展的制度基础。",
+      "impact_areas": [
+        "科技",
         "经济金融"
       ],
       "impact_level": "重大",
       "sources": [
         {
           "name": "36氪",
-          "url": "https://www.36kr.com/newsflashes/4086001402030721"
+          "url": "https://www.36kr.com/newsflashes/4086456541735305"
         }
       ],
       "card": {
-        "category": "经济·股市",
-        "headline": "融资保证金下调，加杠杆更易",
-        "what": "中信证券宣布自11月30日起将融资保证金比例降至80%，投资者融资买入股票的资金门槛随之降低。",
-        "question": "借钱炒股的风险是不是更大了？",
+        "category": "科技·数据",
+        "headline": "AI训练数据将立规矩，意见征集中",
+        "what": "11月26日，国家数据局就完善数据规则、赋能人工智能创新发展的征求意见稿公开征求意见，聚焦训练数据供给与产权界定。",
+        "question": "我用AI生成的内容算谁的？",
         "means": [
-          "同样的本金能买入更多股票",
-          "杠杆放大涨跌，回撤也更快"
+          "AI公司获取数据的成本会更清楚",
+          "手里有数据的企业可能多一条收入"
         ],
-        "note": "该比例仅中信证券适用，其他券商未必跟进。"
-      }
-    },
-    {
-      "title": "金正恩视察核武研发部门",
-      "summary": "金正恩视察朝鲜核武器研发部门，称核武发展是'不可逆转的现实'，无需任何一方认可。这一表态强化朝鲜拥核立场，拒绝以弃核为条件重启对话。在美朝接触停滞、地区安全格局敏感之际，朝方高调展示核能力，可能加剧东北亚紧张，影响相关国家防务部署与制裁博弈，并对区域内安全资产与市场情绪形成扰动。",
-      "reason": "朝鲜最高领导人就核武立场公开表态，牵动东北亚地缘安全",
-      "impact_areas": [
-        "地缘政治"
-      ],
-      "impact_level": "重大",
-      "sources": [
-        {
-          "name": "凤凰网",
-          "url": "https://original.ifeng.com/c/8yMYkVYXUqQ"
-        }
-      ],
-      "card": {
-        "category": "地缘·东北亚",
-        "headline": "朝鲜称核武不可逆，半岛又紧",
-        "what": "金正恩视察朝鲜核武器研发部门，称核武发展是不可逆转的现实，无需任何一方认可，拒绝以弃核为条件重启对话。",
-        "question": "东北亚紧张会波及我什么？",
-        "means": [
-          "周边航线与出行安排或调整",
-          "避险情绪或扰动市场短期波动"
-        ],
-        "note": "表态属政治宣示，后续看是否有实质军事动作。"
-      }
-    },
-    {
-      "title": "成都集中补缴养老保险引关注",
-      "summary": "成都出现集中补缴养老保险现象，办理窗口人数激增。补缴涉及参保年限认定与退休待遇计算，直接关系到临近退休群体的养老金水平。此类集中办理反映居民对养老保障的焦虑，也考验社保经办能力与政策衔接。补缴规则的具体执行口径，对个人退休收入有实质影响，参保人需关注年限认定、补缴基数与待遇核算等关键环节。",
-      "reason": "养老保险补缴涉及退休待遇，直接影响特定人群的养老收入",
-      "impact_areas": [
-        "民生",
-        "社会"
-      ],
-      "impact_level": "重大",
-      "sources": [
-        {
-          "name": "凤凰网",
-          "url": "https://news.ifeng.com/c/8yMXduiaMWZ"
-        }
-      ],
-      "card": {
-        "category": "民生·社保",
-        "headline": "成都人挤着补缴养老保险",
-        "what": "成都出现集中补缴养老保险现象，办理窗口人数激增。补缴涉及参保年限认定与退休待遇计算，直接影响养老金水平。",
-        "question": "我妈的养老金能多领吗？",
-        "means": [
-          "断缴过的人要尽快核对年限",
-          "补缴基数不同，退休金差距不小"
-        ],
-        "note": "各地补缴口径不一，以当地社保部门规定为准。"
+        "note": "目前只是征求意见稿，正式规则还可能调整。"
       }
     }
   ],
-  "total_fetched": 274,
-  "generated_at": "2026-11-26T12:26:49.093597+08:00"
+  "total_fetched": 301,
+  "generated_at": "2026-11-26T19:26:53.263842+08:00"
 }
