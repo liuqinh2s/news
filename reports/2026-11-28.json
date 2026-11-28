@@ -2,14 +2,14 @@
   "date": "2026-11-28",
   "news": [
     {
-      "title": "美伊海上封锁对峙升级",
-      "summary": "美国海军在霍尔木兹海峡附近拦截并瘫痪一艘试图驶离伊朗港口的船只，德黑兰随即誓言正面对抗封锁。这是近期美伊围绕地区航运与制裁争端的最新升级。该海峡承担全球约五分之一的原油海运量，任何军事摩擦都可能推高国际油价与航运保险费率，并迫使地区盟友选边。事件叠加此前多轮制裁与反制，令中东地缘风险溢价重新抬头，对能源进口国、航运企业和全球通胀预期构成直接冲击。后续需关注伊朗是否以封锁或袭击油轮回应，以及美军是否扩大拦截范围。",
-      "reason": "美伊在能源咽喉要道的直接军事对峙，牵动全球油价与航运安全。",
+      "title": "美国瘫痪伊朗船只 伊誓言反制",
+      "summary": "11月28日，路透社报道，美国方面瘫痪了一艘试图驶离伊朗的船只，德黑兰随后公开表态将对抗封锁，美伊海上对峙进一步升级。此前美方已对伊朗实施海上封锁与拦截，伊朗方面以强硬回应。直接影响：霍尔木兹海峡及周边水域航运风险上升，过往油轮保险费率与绕行成本可能抬升，国际原油价格面临地缘溢价重估。深层意义：美伊围绕海上通道的博弈正从制裁层面转向准军事对抗，一旦封锁常态化，将重塑中东能源出口路径与全球原油贸易流向，并牵动亚洲主要进口国的能源安全安排。",
+      "reason": "美伊海上封锁升级为直接对抗，涉及全球能源通道安全，属高影响力地缘事件。",
       "impact_areas": [
         "地缘",
         "经济金融"
       ],
-      "impact_level": "重大",
+      "impact_level": "现象级",
       "sources": [
         {
           "name": "Reuters",
@@ -18,20 +18,47 @@
       ],
       "card": {
         "category": "地缘·能源",
-        "headline": "美伊在霍尔木兹海峡动手了",
-        "what": "美国海军在霍尔木兹海峡附近拦截并瘫痪一艘试图驶离伊朗港口的船只，伊朗随即表示将正面对抗封锁。",
-        "question": "下周加油会变贵吗？",
+        "headline": "美伊海上对峙升级，油价添变数",
+        "what": "11月28日路透社报道，美方瘫痪一艘试图驶离伊朗的船只，伊朗公开表态将对抗封锁，双方海上对峙升级。",
+        "question": "我下个月的油钱会变多吗？",
         "means": [
-          "进口油价和机票可能跟着涨",
-          "海运保险费上升会传导到货价"
+          "加满一箱油的钱可能小幅上浮",
+          "海淘与外贸发货的运费或先涨"
         ],
-        "note": "关键看伊朗是否以袭击油轮回应，局势仍在变化。"
+        "note": "封锁是否常态化尚未确定，油价波动要看实际供应。"
+      }
+    },
+    {
+      "title": "人民币存贷款利率管理新规发布",
+      "summary": "11月28日，央行发布人民币存贷款利率管理规定，针对“挂牌公告”“罚息利率”“高息揽储”等环节作出新规范，明确利率公示与计息规则。直接影响：银行吸存与贷款定价行为被进一步约束，高息揽储空间收窄，存款人可更清楚地比较各行挂牌利率；逾期罚息计收方式亦有明确口径，涉及个人与企业借贷成本。深层意义：这是利率市场化配套制度建设的一环，通过规范报价与信息披露，压缩银行变相价格竞争空间，有助于稳定银行负债成本、畅通政策利率传导，对后续存款利率下调和净息差走势具有指引意义。",
+      "reason": "涉及存款挂牌利率、高息揽储与罚息规则，直接关系居民存贷收益，是重要金融政策。",
+      "impact_areas": [
+        "经济金融",
+        "民生"
+      ],
+      "impact_level": "重大",
+      "sources": [
+        {
+          "name": "央视网",
+          "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE93SEpvZHViczVGdF9NdDJyeU1DbEZLdmpkUlJja0ZUTW1GbkNOYXk2aGo3UkdYMzFlckI4Q19MQzA2Z0VfbWdoMk85VkJQSERkbTBIdUtmM3FWdHZKdm4zQkF2NUI5b3Z1V1cyZXQyeXFlM24xMDJYMQ?oc=5"
+        }
+      ],
+      "card": {
+        "category": "经济·利率",
+        "headline": "存款利率公示收紧，高息揽储难了",
+        "what": "11月28日，央行发布人民币存贷款利率管理规定，明确挂牌公告、罚息利率与高息揽储等环节的规则。",
+        "question": "我的存款利息会变少吗？",
+        "means": [
+          "比较各行挂牌利率更容易也更透明",
+          "高息存款产品变少，利息或往下走"
+        ],
+        "note": "新规落地时间与执行细则以央行公告为准。"
       }
     },
     {
       "title": "黑客攻破美空军云平台",
-      "summary": "路透社独家报道，黑客入侵美国空军旗舰云计算平台Cloud One，该平台承载空军及国防部大量敏感数据与业务系统。事件暴露美军在向商业化云架构迁移过程中的安全短板。云计算是五角大楼数字现代化的核心，此次入侵可能涉及大规模数据外泄与供应链信任问题，或引发对国防承包商与云服务商的审查升级。对全球网络安全产业而言，这一案例将强化零信任架构与政府云合规需求，相关监管与采购规则可能收紧。",
-      "reason": "美军核心云平台被攻破，暴露国防云安全漏洞，影响政府云产业。",
+      "summary": "11月28日，路透社独家报道，黑客攻入美国空军旗舰云计算平台 Cloud One，该平台承载空军多项关键业务系统与数据。报道发出后，多家媒体跟进转载。直接影响：美军云基础设施的访问凭据、敏感数据与任务系统是否外泄正在核查，相关平台可能面临临时隔离与大规模凭据轮换，影响空军日常业务运行。深层意义：事件暴露了军事信息系统在向商业云迁移过程中的安全短板，国防云的安全边界与供应商责任将被重新审视，各国在推进政务与国防上云的进程中也需重估集中化带来的单点风险。",
+      "reason": "美军核心云平台被入侵，属国防级网络安全事件，影响军事信息系统安全架构。",
       "impact_areas": [
         "科技",
         "地缘"
@@ -45,121 +72,149 @@
         {
           "name": "Yahoo",
           "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNSzdEOUpfUzg5TmdWTE9zeWZ3azNQeVFfWGV1ZjdkQVJMQmNFdlgxX0VjUFZTRk5GcTVORlJKY0JieTRscEJxLWctSTVRblprLWZEdTJ4dGlTNkp3Sms4aTU3RlAyajJzcDNWSTktOWFQTDhFTnBrdmQ0Rnpxb1pVdFp2MXprZmROcFE?oc=5"
+        },
+        {
+          "name": "Wiregrass Daily News",
+          "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQNXhEQk1ZWTlGWG9JSWtPN1ZSc3AxUW5zREkzTDBDVkNqU01hb3J5Rm9zRU9jV3FobXk2VVVsTEJwNmp1UXVEV2dwOUZlaHJrTDBsZUhadXc3SzZkZGNTbmRGUGVhMlhvNTVGLTRfUFRwTVZPaGZvUHdLckZSMkNkcTR6bWNTVXZMbm1HanZIN1lLXzgxVGhhaHlfSlNuNDRiLUlqTg?oc=5"
         }
       ],
       "card": {
-        "category": "科技·网络安全",
-        "headline": "美军云平台被黑客攻破",
-        "what": "黑客入侵美国空军旗舰云平台Cloud One，该平台承载空军与国防部大量敏感数据和业务系统。",
-        "question": "我的云盘数据还安全吗？",
+        "category": "科技·安全",
+        "headline": "美空军云平台被黑，影响仍在核查",
+        "what": "11月28日路透社独家报道，黑客攻入美国空军旗舰云计算平台，该平台承载多项关键业务系统与数据，外泄情况正在核查。",
+        "question": "我手机里的云数据还安全吗？",
         "means": [
-          "政府云采购门槛会明显抬高",
-          "云服务商合规成本或转嫁涨价"
+          "政务和银行上云的集中风险被看见",
+          "云服务的安全审查与成本会抬升"
         ],
-        "note": "数据泄露范围尚未公布，需等官方调查结论。"
+        "note": "事件影响范围尚未确认，以官方披露为准。"
       }
     },
     {
-      "title": "泽连斯基批特朗普普京关系",
-      "summary": "乌克兰总统泽连斯基在BBC专访中批评特朗普与普京之间“奇怪”的友谊，警告外部压力可能削弱对乌支持；与此同时，基辅正面临又一个严酷冬季，能源基础设施在持续袭击下承压。同期，普京宣布俄新型核潜艇“彼尔姆”号将加入太平洋舰队，显示俄在常规战场之外继续强化战略威慑。俄乌冲突进入消耗与谈判交织阶段，冬季能源战、美俄互动与核力量部署三条线相互牵动，欧洲安全格局与全球能源、粮食市场的不确定性上升。",
-      "reason": "俄乌冲突叠加美俄互动与核潜艇部署，冬季能源战牵动欧洲安全格局。",
+      "title": "俄核潜艇彼尔姆号正式入列",
+      "summary": "11月28日，俄罗斯总统普京宣布，新型核潜艇“彼尔姆”号正式入列，并将加入太平洋舰队。该艇可在世界大洋任意海域隐蔽执行任务，能搭载“锆石”高超音速导弹及各型海基巡航导弹。直接影响：俄太平洋方向水下打击能力增强，“锆石”上艇意味着高超音速武器进入常态化海基部署，东北亚与北太平洋海域的力量平衡出现新变量。深层意义：在俄乌冲突持续、军控体系松动的背景下，俄方将战略资源向海基核力量与高超音速武器倾斜，可能推动周边国家加速反潜与反高超体系建设，抬升地区军备投入与海上安全风险。",
+      "reason": "俄新型核潜艇携高超音速导弹入列太平洋舰队，改变区域海基力量格局。",
       "impact_areas": [
         "地缘",
-        "政治"
-      ],
-      "impact_level": "现象级",
-      "sources": [
-        {
-          "name": "BBC",
-          "url": "https://www.bbc.co.uk/news/articles/c820q9wgrpyyo?at_medium=RSS&at_campaign=rss"
-        },
-        {
-          "name": "BBC",
-          "url": "https://www.bbc.co.uk/news/articles/c3pw4yrr8kz9o?at_medium=RSS&at_campaign=rss"
-        },
-        {
-          "name": "央视网",
-          "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE11MjlLTkxyMnpscG5wT29MY2RTQzZobzJBLTVMaFdEU3BzdkNtdjRrQ3ozUDRSeVJkTHFlSUI4T01lSVRLajliYVYwWnM5ZE0zaFFrc1I2OFN0UFpCcVpGSWtBYXQyTTdLTGJtcmIyU214Y3BRREd5VA?oc=5"
-        }
-      ],
-      "card": {
-        "category": "地缘·俄乌",
-        "headline": "泽连斯基公开批评特朗普",
-        "what": "泽连斯基在专访中批评特朗普与普京之间奇怪的友谊，称外部压力可能削弱对乌支持；乌冬季能源设施持续承压。",
-        "question": "这场仗还要打多久？",
-        "means": [
-          "欧洲天然气价格可能再波动",
-          "粮食和化肥进口成本要留意"
-        ],
-        "note": "冬季能源战与谈判走向仍不明朗。"
-      }
-    },
-    {
-      "title": "加最高法维持宗教标志禁令",
-      "summary": "加拿大最高法院裁定，魁北克省禁止公职人员佩戴宗教标志的第21号法案基本合宪，可继续实施。该法禁止教师、警察、法官等公职人员在履职时佩戴头巾、十字架等宗教服饰，此前被批评针对穆斯林与少数族裔。判决被视为联邦多元文化原则与省级自治权之间的一次重大平衡，可能鼓励其他省份效仿类似立法，并在宗教自由、少数群体权利和移民融合议题上引发持续争议，对加拿大社会结构与政治版图产生长期影响。",
-      "reason": "加拿大最高法院就宗教标志禁令作出里程碑裁决，影响全国宗教自由与省权。",
-      "impact_areas": [
-        "社会",
-        "政治"
+        "科技"
       ],
       "impact_level": "重大",
       "sources": [
         {
-          "name": "BBC",
-          "url": "https://www.bbc.co.uk/news/articles/cq3dgpy9lem3o?at_medium=RSS&at_campaign=rss"
+          "name": "澎湃新闻",
+          "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5QU0dubUFYX0dsVU5JMUhPYmx1MDlhNkFDWjIyODd0MnhUZldsR3N4UXZ1YTZadVV3Y1M2STg0My1tM2xyYnVtMl9saXhIZTRVUVBuSF84ZjlLM29rdUtGUA?oc=5"
         },
         {
-          "name": "Reuters",
-          "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPa2xTN3lIM0VNZ0t1dTRlSy13WUo1T0JIek5NZThtRklXazNKZlhyUUN0VWxOOXpRY2drMkFOZXlZd1BFM0FrYWpPQjlnYk1kUzB0dzZVczV4b1B2YjZ2MmtJYXM5dEIwNi1VVW9TcUVGWHRPbUNybDdyV2ZzNTZObm5FQTUwLUt2VjNtOWx4N3c4MDdTZGFvS3VGdHVaSno4aWh6ZzNRRURtNmdTMmxrS1lIdmhTZVdCVWFyak9QY2FjRHJsd1dJWA?oc=5"
+          "name": "澎湃新闻",
+          "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE41V2Jtbm9WdG5ON3BDUzVyeUVOaUwyRklYcTVLY1VzWlNPaDhnYTB3ZGtsVmJwTTMxUkc3OHpKd3B3WmdDc0NGN3ZBNkkxTnFXczVWNXowZml0VUI2Rmh0Rw?oc=5"
         }
       ],
       "card": {
-        "category": "社会·宗教",
-        "headline": "加拿大公职禁戴宗教标志",
-        "what": "加拿大最高法院裁定，魁北克省禁止教师、警察、法官等公职人员在履职时佩戴宗教标志的法案基本合宪，可继续实施。",
-        "question": "少数族裔找工作会更难吗？",
+        "category": "地缘·军事",
+        "headline": "俄新核潜艇入列，高超音速上艇",
+        "what": "11月28日，普京宣布新型核潜艇彼尔姆号正式入列太平洋舰队，可搭载锆石高超音速导弹及各型海基巡航导弹。",
+        "question": "这跟我的油价和机票有关吗？",
         "means": [
-          "移民求职要留意当地着装规定",
-          "其他省份可能跟进类似立法"
+          "东北亚方向的航班航线或更敏感",
+          "军备投入上升，相关产业链订单增加"
         ],
-        "note": "判决只针对魁北克，联邦层面争议仍未停。"
+        "note": "潜艇部署细节与战备状态未公开，需观察后续动向。"
       }
     },
     {
-      "title": "肯尼亚邪教领袖再获罪",
-      "summary": "肯尼亚邪教领袖因另123名信徒死亡被判定过失杀人罪成立，这是其系列案件中的最新一项定罪。此前其宣扬末日论、诱使信徒绝食致死，已造成数百人死亡，成为该国近代最严重的宗教悲剧之一。案件暴露当地在宗教团体监管、偏远地区社会治理与儿童保护上的漏洞，也促使肯尼亚及东非多国收紧对新兴宗教组织的登记与审查。判决对受害者家属追责与赔偿、以及对宗教自由的边界讨论具有标志意义。",
-      "reason": "造成数百人死亡的邪教案关键定罪，推动东非宗教团体监管收紧。",
+      "title": "又一车企在华停产燃油车",
+      "summary": "11月28日，多家媒体援引消息称，又一家车企宣布面向中国大陆市场全面停产燃油车，相关车型将逐步切换为新能源产品。这是继此前多家自主与合资品牌之后，燃油车退出中国市场的最新一例。直接影响：现有燃油车型的产能、库存与售后配件供应将进入过渡期，经销商网络需调整，车主对保值率与维修便利性的预期受到影响。深层意义：中国乘用车市场的动力结构正加速向电动化倾斜，燃油车产线收缩将向上游发动机、变速箱供应链传导，倒逼零部件企业转型，也意味着价格战主战场进一步集中在新能源车型。",
+      "reason": "车企停产燃油车反映产业动力结构切换，影响供应链与消费选择。",
       "impact_areas": [
-        "社会",
+        "产业",
+        "科技"
+      ],
+      "impact_level": "重大",
+      "sources": [
+        {
+          "name": "澎湃新闻",
+          "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9qb1ozWlotMmVlY0l5Ym5ucXRUR2hKQXc3M3RFSVdudExmYTVjQTd0WW8xN1hZenZ3ZllTVkZQYTNnQWpxV0hQaDZXMGhFdTRUbzllX0ZfaVRxUDdBb2xlNw?oc=5"
+        },
+        {
+          "name": "澎湃新闻",
+          "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9feXY3ZGZhVTE0TmRaS2FtcnhhU0RPNVVtenJJRktIM1VrdndQWHp6SWE0OFVvUkhWcG9DX0padno1QmhNcms4UzZKb2R4YXBVdWtOa1RzTmhXU25QWnpCZA?oc=5"
+        },
+        {
+          "name": "澎湃新闻",
+          "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5LeDNOX0wyWmlpbW02Q3ZJOWhWaHhUNkI3SWk0MkN6c0JKQURUV0pYdERQRmJRa3JCb2JRc00zMGl5d3dIeHk1VDZMM2ZjSkpfZG5tcXJzRTh3WGloQlhGUQ?oc=5"
+        }
+      ],
+      "card": {
+        "category": "产业·汽车",
+        "headline": "又一家车企在华停产燃油车",
+        "what": "11月28日，多家媒体称又一家车企宣布在中国大陆市场全面停产燃油车，相关车型将逐步切换为新能源产品。",
+        "question": "我的油车保值率还要跌吗？",
+        "means": [
+          "油车配件和维修可能越来越难等",
+          "二手油车价格与新车优惠一起走弱"
+        ],
+        "note": "具体停产车型与时间表以车企公告为准。"
+      }
+    },
+    {
+      "title": "标普下调法国评级展望至负面",
+      "summary": "11月28日，标普将法国主权信用评级展望由稳定下调至“负面”，维持现有评级水平。机构给出的核心关切集中于财政赤字规模、债务占比上升与政治不确定性对财政整顿的制约。直接影响：法国国债相对德债的利差可能走阔，银行与保险机构持有主权债的风险权重讨论升温，融资成本抬升将进一步挤压财政空间。深层意义：欧元区核心国家的信用质量出现分化信号，若法国财政路径无法收敛，欧洲共同财政规则与货币联盟的稳定性将承受更多压力，也会影响欧元资产在全球配置中的吸引力。",
+      "reason": "欧元区核心国家评级展望转负，牵动主权债定价与欧洲财政稳定性。",
+      "impact_areas": [
+        "经济金融",
         "地缘"
       ],
       "impact_level": "重大",
       "sources": [
         {
-          "name": "BBC",
-          "url": "https://www.bbc.co.uk/news/articles/cmy49de4xx1zo?at_medium=RSS&at_campaign=rss"
-        },
-        {
-          "name": "Reuters",
-          "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQM0xwNFVEWnAyNUxEdzNWcUR2X2tPbDZtLTZyTUNKMFY0VlpIaHFMV2ZuT2ZfeEJCcHpjQk9JU1dyeEpRZDZQSnJIbWRGWEZqZEJfQnZyYmNadGJneDNhUnVoUVFYOC1PZXVydXFQOFVvdFVDTjN4QjhhRU5WbTdEZzZCTkFfd2ZtdmZTVWw0YWhhYTFLU05iZUpNMFR3dk9uUXZnLTQxUUxrYW1rM1RBZDBwYk9FWFJscWF2MS1CN2xjY3FYWHc?oc=5"
+          "name": "央视网",
+          "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE4xQnU2SzlfZWdpcUZjdU5mZ3NGQ1l3RkZkSVVRVTRmemY5U0FNb3FMOVFUVm9PVUx3ZzF6TVRvTzZ4LWRoWHZLWjZHVzl2VFVwRlh3cVJ1eW9LdXFscXZmajBhWVB3TFphTDFCVi1UWE5pNHV3WEx2MA?oc=5"
         }
       ],
       "card": {
-        "category": "社会·法治",
-        "headline": "肯尼亚邪教领袖再被判罪",
-        "what": "肯尼亚一邪教领袖因另123名信徒死亡被判过失杀人罪成立，其宣扬末日论、诱使信徒绝食，累计已致数百人死亡。",
-        "question": "怎么识别身边的邪教组织？",
+        "category": "经济·债市",
+        "headline": "法国评级展望转负，欧元资产承压",
+        "what": "11月28日，标普将法国主权信用评级展望由稳定下调至负面，维持评级不变，理由是赤字与债务压力。",
+        "question": "欧元资产还值得放钱进去吗？",
         "means": [
-          "东非多国将收紧宗教团体登记",
-          "出境游遇到陌生传教要多留心"
+          "欧元区债券基金净值波动可能变大",
+          "去欧洲留学旅游的换汇成本或上升"
         ],
-        "note": "案件量刑与赔偿尚未公布，需继续关注。"
+        "note": "展望下调不等于降级，关键看财政整顿进展。"
       }
     },
     {
-      "title": "DeepSeek为AI装上电表",
-      "summary": "虎嗅报道，DeepSeek在模型效率与能耗计量方面推出新进展，将AI推理的算力与电力消耗纳入更精细的计量体系，被形容为“给智能装上了电表”。在AI大模型训练与推理能耗快速攀升、数据中心电力约束趋紧的背景下，对能耗与成本做到可计量、可优化，正成为行业竞争的新维度。此举若推广，将影响AI服务的定价、数据中心选址与电力采购，并对国产算力产业链与绿色数据中心建设形成牵引。",
-      "reason": "DeepSeek推动AI能耗精细化计量，回应算力与电力约束，牵动AI成本与产业链。",
+      "title": "特朗普力挺黄仁勋 AI链生变",
+      "summary": "11月28日，财新周刊提前读报道，美国总统特朗普公开力挺英伟达CEO黄仁勋，围绕AI芯片出口与产业链布局的政策取向出现新变化。报道指出，AI产业链的调整才刚刚开始。直接影响：英伟达对华销售的政策空间预期发生摆动，相关芯片、服务器与算力租赁企业的订单节奏受到影响，市场对出口管制的定价随之调整。深层意义：AI算力已成为大国产业政策的核心筹码，政治力量直接介入企业决策将使全球AI供应链进一步区域化，中国本土算力替代与自主生态建设的紧迫性上升，产业链分工面临长期重构。",
+      "reason": "美国最高层直接介入AI芯片企业决策，影响全球算力供应链走向。",
+      "impact_areas": [
+        "科技",
+        "产业",
+        "地缘"
+      ],
+      "impact_level": "重大",
+      "sources": [
+        {
+          "name": "财新网",
+          "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9zdFFaMTFkYTg1VDNqcjlqVENxbFB6Y3g4NXZXb0VOSU82aHdJQTJVRk1ETTByWEdpQzJuckFRT0lVODBVcFJIUnNPUXdPUGpaTG44NUFZLVNOMGNPZ3pQQWdJRQ?oc=5"
+        }
+      ],
+      "card": {
+        "category": "科技·芯片",
+        "headline": "特朗普力挺黄仁勋，芯片政策生变",
+        "what": "11月28日财新报道，特朗普公开力挺英伟达CEO黄仁勋，围绕AI芯片出口与产业链布局的政策取向出现新变化。",
+        "question": "显卡和算力租赁会涨价吗？",
+        "means": [
+          "国内算力租赁价格可能继续波动",
+          "芯片相关岗位与订单节奏更不确定"
+        ],
+        "note": "政策取向尚未落到具体规则，需等正式文件。"
+      }
+    },
+    {
+      "title": "知乎投资DeepSeek达成合作",
+      "summary": "11月28日，虎嗅报道，知乎间接投资DeepSeek并与其达成内容合作，双方将在内容资产与AI搜索能力上展开协同。直接影响：知乎的问答与专业内容有望接入大模型能力，改善搜索与推荐体验；对DeepSeek而言则获得高质量中文语料与流量入口，训练与产品分发能力增强。深层意义：AI搜索正在分流传统内容平台的流量，内容平台从“被爬取”转向“入股+授权”的利益绑定模式，这一路径若被复制，将改变中文互联网内容资产的定价方式与内容平台商业化格局。",
+      "reason": "中文内容平台与头部大模型公司资本加内容双重绑定，AI搜索竞争格局生变。",
       "impact_areas": [
         "科技",
         "产业"
@@ -167,135 +222,77 @@
       "impact_level": "重大",
       "sources": [
         {
-          "name": "虎嗅",
-          "url": "https://www.huxiu.com/article/4909105.html"
+          "name": "虎嗅网",
+          "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBWQll2YzE0a2hpdExpalhsbVphVDB0VUdlc09EaW1uLTdjcjM4czdOeWxiQmtiQjctQ0NmZnhEb2V2cjkwSU02dW1hUXVld2lzTl96dQ?oc=5"
         }
       ],
       "card": {
-        "category": "科技·算力",
-        "headline": "AI开始按用电量算成本",
-        "what": "DeepSeek在模型效率与能耗计量上推出新进展，把AI推理的算力与电力消耗纳入更精细的计量体系。",
-        "question": "我用AI会变便宜还是变贵？",
+        "category": "科技·AI",
+        "headline": "知乎投资DeepSeek，搜索要变样",
+        "what": "11月28日虎嗅报道，知乎间接投资DeepSeek并达成内容合作，双方将在内容资产与AI搜索能力上展开协同。",
+        "question": "以后搜答案还看得到人写的吗？",
         "means": [
-          "AI服务可能按耗电多少定价",
-          "数据中心选址会往电价低处走"
+          "知乎的搜索和推荐体验可能有变化",
+          "优质内容从被爬取转向授权收费"
         ],
-        "note": "能否大规模落地还要看后续商业化进展。"
+        "note": "合作细节与投资比例未披露，效果待产品验证。"
       }
     },
     {
-      "title": "西班牙大选进入投票",
-      "summary": "西班牙首相桑切斯在选前最后一场集会上表示将无视不利民调，坚持争取连任；主要对手同步举行造势活动，选战进入最后冲刺。此次选举在通胀、移民、地区分离主义与欧洲一体化等议题上高度极化，结果将影响西班牙在欧盟内部的立场，以及欧洲对乌克兰援助、财政规则改革等议程的走向。若政权更迭，可能带来南欧政治版图与欧盟决策节奏的变化，对欧元区政策协调与移民治理产生连锁影响。",
-      "reason": "西班牙大选结果或改变南欧政治版图与欧盟内部力量对比。",
+      "title": "海康威视取消大小周引争议",
+      "summary": "11月28日，“海康威视取消大小周遭员工抵制”登上热搜。员工称取消大小周后工作日每天多出一小时、早餐与晚餐补贴取消，每月收入损失近3000元；海康威视回应称相关报道不属实。直接影响：事件涉及加班制度、餐补与薪酬结构的实际变化，牵动该公司数万名员工的收入预期，也引发其他制造与科技企业员工对自身工时安排的关注。深层意义：在整治“内卷式竞争”的政策语境下，企业调整工时与福利的方式正被放到公共视野中审视，如何在合规用工与员工收入之间取得平衡，成为大型科技制造企业共同面对的管理课题。",
+      "reason": "头部科技企业工时与福利调整登上热搜，直接关系员工收入与用工合规。",
       "impact_areas": [
-        "政治",
-        "地缘"
-      ],
-      "impact_level": "重大",
-      "sources": [
-        {
-          "name": "BBC",
-          "url": "https://www.bbc.co.uk/news/articles/c8wy5p4gdnwvo?at_medium=RSS&at_campaign=rss"
-        },
-        {
-          "name": "Reuters",
-          "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOWWJleDNqeFIxY19DeHdSdjNfMWJKYkxMMmtnTWJkZzZDYzFidEVrOXZ0Und0eTJldEx1c1llcnp6VmhSRnJWczVGOXNwbUM5RVZPbDNOUmFPaTRzbWp6YnRtTFM1Y3FxREs5WkFKaUZzeUh3d0hhci1rWlB0QlEwbFNxY1h6bEI0Mkp3NG55aXRBc2JzVmstZk5xeE0wMWg5TS1jVnE5T2U4UlBGR3Y3V0hHZzlfM3B3?oc=5"
-        }
-      ],
-      "card": {
-        "category": "政治·欧洲",
-        "headline": "西班牙大选开投，桑切斯求连任",
-        "what": "西班牙大选进入投票，首相桑切斯在最后一场集会上表示将无视不利民调、争取连任，主要对手同步造势。",
-        "question": "换个政府会影响我去欧洲玩吗？",
-        "means": [
-          "欧元汇率和欧洲游价格或有波动",
-          "欧盟对乌援助节奏可能改变"
-        ],
-        "note": "计票结果未出，组阁谈判可能旷日持久。"
-      }
-    },
-    {
-      "title": "油轮7000吨柴油倾覆",
-      "summary": "一艘载有约7000吨柴油的油轮在西班牙伊比萨岛附近倾覆，救援方计划将其拖离海岸。事故引发对地中海旅游海域生态与航运安全的担忧：一旦船体破裂或燃油泄漏，将威胁沿岸海滩、海洋保护区与渔业。事件也凸显小型油轮在繁忙航道上的运输风险，可能推动欧盟收紧近海油品运输的船只标准与应急预案要求，对区域航运成本、保险与旅游经济产生连锁影响。",
-      "reason": "大量柴油油轮倾覆于地中海旅游海域，环境泄漏风险突出。",
-      "impact_areas": [
-        "生态",
+        "社会",
         "产业"
       ],
       "impact_level": "重大",
       "sources": [
         {
-          "name": "BBC",
-          "url": "https://www.bbc.co.uk/news/articles/cvrlgz6g0ekgo?at_medium=RSS&at_campaign=rss"
+          "name": "澎湃新闻",
+          "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1ITlZERm5mNnNhLW11MkFmbm4yc2N4eVI2dlZINmJQVGgwZFcwNmlqRzBSTmhQU19FMGRYWlZDUWhSYnNyZkRSMG56Mm03T2k0YkxuWHEzMlQySXItNkE4WQ?oc=5"
         }
       ],
       "card": {
-        "category": "生态·航运",
-        "headline": "西班牙近海油轮倾覆漏油风险",
-        "what": "一艘载约7000吨柴油的油轮在西班牙伊比萨岛附近倾覆，救援方计划将其拖离海岸。",
-        "question": "我明年的海岛游要泡汤吗？",
+        "category": "社会·用工",
+        "headline": "海康威视取消大小周，员工不买账",
+        "what": "11月28日，海康威视取消大小周相关话题登上热搜，员工称每月收入损失近3000元，公司回应相关报道不属实。",
+        "question": "我的加班费和补贴会一起没吗？",
         "means": [
-          "附近海滩和渔业短期会受影响",
-          "欧盟近海油运标准或将收紧"
+          "取消加班后到手工资可能直接变少",
+          "更多公司或跟着调整工时和餐补"
         ],
-        "note": "是否漏油要看船体能否顺利拖离。"
+        "note": "公司称报道不属实，具体工时安排待核实。"
       }
     },
     {
-      "title": "宁德时代签省级战略合作",
-      "summary": "某省政府与宁德时代签署战略合作协议，省级主要负责人见证签约，双方就电池产业布局、储能与新能源项目达成合作意向。宁德时代作为全球动力与储能电池龙头，持续通过地方合作锁定产能与资源配套。此类省级战略合作反映地方在新能源产业链招商上的激烈竞争，也意味着储能与电动车供应链的区域格局进一步集中，对上游材料、地方税收与就业形成直接带动，并可能影响区域新能源产业分工与电价、用地等配套政策。",
-      "reason": "电池龙头与省级政府战略合作，牵动新能源产业链区域布局与地方就业。",
+      "title": "秋冬季重污染执法监管加码",
+      "summary": "11月28日，央视网报道，秋冬季为污染天气高发期，生态环境部门以“精准发现、差异管控、闭环整改”的方式加强执法监管，聚焦重点行业与重点区域，避免简单化“一刀切”。直接影响：钢铁、焦化、建材等高排放行业在预警期间面临更细化的限产与整改要求，北方地区居民在重污染时段的出行与健康防护需求上升。深层意义：大气治理正从粗放限产转向数据驱动的差异化监管，企业环保合规成本与生产节奏的不确定性提高，也意味着空气质量改善将更多依赖源头治理与结构性减排，而非临时性停产。",
+      "reason": "重污染高发期监管方式升级，直接影响重点行业生产与居民健康防护。",
       "impact_areas": [
-        "产业",
-        "经济金融"
-      ],
-      "impact_level": "重大",
-      "sources": [
-        {
-          "name": "凤凰网",
-          "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFBhd2FQdmF3djNaY0w2VlhrRVBWelgzTjF3em5qSlBRODJuVHNFV0l4OTA4S0N2ZXVzb3pFQVM4SWFrQ2p0eWt2bzJlU1pnUQ?oc=5"
-        }
-      ],
-      "card": {
-        "category": "产业·新能源",
-        "headline": "宁德时代再签省级大单",
-        "what": "某省政府与宁德时代签署战略合作协议，就电池产业布局、储能与新能源项目达成合作意向，省级主要负责人见证签约。",
-        "question": "电池会更便宜还是更贵？",
-        "means": [
-          "当地新能源岗位和税收会增加",
-          "上游锂材料需求可能再走高"
-        ],
-        "note": "具体落地项目与投资额尚未公布。"
-      }
-    },
-    {
-      "title": "高铁上新带热冬季文旅",
-      "summary": "随着多条高铁新线开通运营，冬季文旅市场持续升温，沿线城市客流与消费明显增长。铁路运力提升缩短了城市间时空距离，带动冰雪旅游、短途周末游和区域消费，也为地方文旅产业与相关服务业创造新增量。对普通旅客而言，新线意味着更便捷的出行选择与潜在的班次优化。铁路与文旅联动仍是扩内需、促消费的重要抓手，后续需关注新线运营效益、票价策略与区域均衡发展。",
-      "reason": "高铁新线开通直接改善公众出行并带动冬季消费，属民生与经济信号。",
-      "impact_areas": [
-        "经济金融",
-        "社会"
+        "生态",
+        "公共卫生"
       ],
       "impact_level": "重大",
       "sources": [
         {
           "name": "央视网",
-          "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9TV1czRVdhZ0V2T0tXbGJQVTQ2WDJQM2FKX2ppQUx0SUZaOC0xWGxzLW50VzNqMmlNZDd3OHVoNUhxaGh0ajdqNWw1ZDJDZ0xuZmU5TGRYbDdidjRHaXV4cDM3X082UzdaSjVEWnk1MGZ1VFJGMnotbg?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE92VWNWUUFVc3BmN205N19pVHVSWmFrdjRhOGRxYTROTDVlUHFYXzR5U3p0UExUMXJXZ0gxQ0dlODZISmZCZHJzeHhwcndJemg4aXp4MVctY082T09JcklTQ2xLT0VrRGFQbE91c3BXNnB3bmVkUXFpcA?oc=5"
         }
       ],
       "card": {
-        "category": "经济·文旅",
-        "headline": "高铁新线开通，冬季游升温",
-        "what": "多条高铁新线开通运营，沿线城市客流与消费明显增长，冰雪旅游和短途周末游随之升温。",
-        "question": "周末去哪儿玩更方便了？",
+        "category": "生态·环保",
+        "headline": "秋冬季重污染，环保执法更精准了",
+        "what": "11月28日央视网报道，秋冬季污染高发，生态环境部门以精准发现、差异管控、闭环整改加强执法，聚焦重点行业与区域。",
+        "question": "重污染天我还敢开窗跑步吗？",
         "means": [
-          "短途出行时间能省下一大截",
-          "沿线小城住宿餐饮可能涨价"
+          "北方重污染日户外活动要减量防护",
+          "钢铁建材等行业限产影响开工与订单"
         ],
-        "note": "新线班次和票价策略还在调整中。"
+        "note": "预警级别与限产名单以各地发布为准。"
       }
     }
   ],
-  "total_fetched": 131,
-  "generated_at": "2026-11-28T07:26:44.508994+08:00"
+  "total_fetched": 185,
+  "generated_at": "2026-11-28T12:26:39.208168+08:00"
 }
